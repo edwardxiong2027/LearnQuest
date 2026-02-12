@@ -1,0 +1,1752 @@
+{
+  "grade": 1,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "1-social-1",
+      "title": "Rules and Laws",
+      "description": "Learn why we have rules, how rules keep us safe at school and in our community, and what happens when rules are broken.",
+      "lessons": [
+        {
+          "id": "1-social-1-1",
+          "title": "Why We Have Rules",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rules are instructions that tell us how to behave. We have rules at home, at school, and in our community. Rules help keep everyone safe and make sure things are fair. Imagine a game with no rules — nobody would know how to play and it would not be fun! Rules work the same way in real life. When everyone follows the rules, people can get along and stay safe.",
+            "examples": [
+              {
+                "problem": "Why do we have rules?",
+                "answer": "To keep everyone safe and make things fair.",
+                "explanation": "Rules help us know what to do and what not to do, so everyone can have a good time and stay safe."
+              },
+              {
+                "problem": "What would happen if a game had no rules?",
+                "answer": "Nobody would know how to play and it would not be fair.",
+                "explanation": "Rules make games fun by making sure everyone plays the same way."
+              }
+            ],
+            "key_vocabulary": ["rules", "safe", "fair", "behave", "instructions"],
+            "real_world": "Think about a game you like to play. What are the rules? What would happen if there were no rules?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why do we have rules?",
+              "options": ["To be mean to people", "To keep everyone safe and be fair", "To make everything boring", "Rules are not important"],
+              "correct": 1,
+              "hint": "Rules help people get along and stay safe."
+            },
+            {
+              "type": "true_false",
+              "question": "Games are more fun when everyone follows the rules.",
+              "answer": "true",
+              "hint": "Think about what happens when someone cheats in a game."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do we have rules?",
+              "options": ["Only at school", "Only at home", "At home, school, and in our community", "Nowhere"],
+              "correct": 2,
+              "hint": "Rules exist in many different places."
+            },
+            {
+              "type": "true_false",
+              "question": "Rules help make things fair for everyone.",
+              "answer": "true",
+              "hint": "When everyone follows the same rules, is that fair?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What would happen without rules?",
+              "options": ["Everything would be perfect", "Things would be unfair and unsafe", "People would be happier", "Nothing would change"],
+              "correct": 1,
+              "hint": "Without rules, would people know how to behave?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-1-2",
+          "title": "School Rules",
+          "type": "lesson",
+          "content": {
+            "explanation": "Schools have rules so that everyone can learn and be safe. Some common school rules are: listen when the teacher speaks, raise your hand to talk, walk in the hallways, keep your hands and feet to yourself, and be kind to others. These rules help the classroom be a happy place where everyone can learn. When you follow school rules, you show respect for your teacher and classmates.",
+            "examples": [
+              {
+                "problem": "Name three school rules.",
+                "answer": "Listen to the teacher, raise your hand, walk in the hallways.",
+                "explanation": "These rules help keep the classroom safe and make sure everyone gets a chance to learn."
+              },
+              {
+                "problem": "Why should you raise your hand?",
+                "answer": "So everyone gets a turn to speak.",
+                "explanation": "Raising your hand is polite and makes sure the teacher can hear everyone, one at a time."
+              }
+            ],
+            "key_vocabulary": ["school rules", "respect", "classmates", "hallway", "polite"],
+            "real_world": "What are the rules in your classroom? Can you name at least three?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why do schools have rules?",
+              "options": ["To make students sad", "So everyone can learn and be safe", "To give students more homework", "Schools do not have rules"],
+              "correct": 1,
+              "hint": "School rules help create a good learning environment."
+            },
+            {
+              "type": "true_false",
+              "question": "Running in the hallway is a good school rule to follow.",
+              "answer": "false",
+              "hint": "Most schools say to WALK in the hallway. Is running safe?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a good school rule?",
+              "options": ["Shout in class", "Be kind to others", "Run in the hallway", "Take other people's things"],
+              "correct": 1,
+              "hint": "Good school rules help everyone feel safe and respected."
+            },
+            {
+              "type": "true_false",
+              "question": "Following school rules shows respect for your teacher and classmates.",
+              "answer": "true",
+              "hint": "When you follow rules, you show you care about others."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why should you raise your hand before speaking?",
+              "options": ["Because your arm needs exercise", "So everyone gets a turn", "Because the teacher cannot hear you", "You do not need to raise your hand"],
+              "correct": 1,
+              "hint": "This makes sure everyone has a fair chance to talk."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-1-3",
+          "title": "Community Laws",
+          "type": "lesson",
+          "content": {
+            "explanation": "Laws are like rules, but they are for the whole community. Laws are made by the government to keep everyone safe. Some important laws are: drivers must stop at red lights, people must not steal, and children must go to school. Police officers help make sure people follow the laws. Laws are very important because they protect everyone in the community. Without laws, people could get hurt.",
+            "examples": [
+              {
+                "problem": "What is a law?",
+                "answer": "A rule made by the government for the whole community.",
+                "explanation": "Laws are official rules that everyone in the community must follow."
+              },
+              {
+                "problem": "Who helps make sure people follow laws?",
+                "answer": "Police officers.",
+                "explanation": "Police officers have the job of protecting the community and making sure everyone follows the laws."
+              }
+            ],
+            "key_vocabulary": ["law", "government", "community", "police officer", "protect"],
+            "real_world": "When your family drives somewhere, they follow traffic laws like stopping at red lights. This keeps everyone on the road safe."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How are laws different from school rules?",
+              "options": ["Laws are for the whole community, not just school", "Laws only apply to adults", "Laws are not important", "There is no difference"],
+              "correct": 0,
+              "hint": "Laws cover a bigger area than school rules."
+            },
+            {
+              "type": "true_false",
+              "question": "Laws help keep the community safe.",
+              "answer": "true",
+              "hint": "Think about traffic laws — do they keep people safe?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who helps make sure people follow laws?",
+              "options": ["Teachers", "Mail carriers", "Police officers", "Librarians"],
+              "correct": 2,
+              "hint": "These community helpers protect people and enforce laws."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a community law?",
+              "options": ["Raise your hand in class", "Drivers must stop at red lights", "Eat your vegetables", "Go to bed on time"],
+              "correct": 1,
+              "hint": "This is a rule that all drivers must follow."
+            },
+            {
+              "type": "true_false",
+              "question": "Laws are made by the government.",
+              "answer": "true",
+              "hint": "The government creates laws for the community."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-1-4",
+          "title": "Consequences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A consequence is what happens after you do something. When you follow the rules, good things happen — you stay safe, people are happy, and things are fair. When you break a rule, there are consequences too. At school, you might lose recess time. In the community, someone who breaks a law might have to pay a fine or go to court. Consequences help people learn to make better choices. They remind us that our actions matter.",
+            "examples": [
+              {
+                "problem": "What is a consequence?",
+                "answer": "What happens after you do something.",
+                "explanation": "Every action has a result. Good actions usually lead to good consequences, and bad actions lead to bad consequences."
+              },
+              {
+                "problem": "What is a consequence of following the rules?",
+                "answer": "Everyone stays safe and things are fair.",
+                "explanation": "When people follow rules, the classroom or community is a better place for everyone."
+              }
+            ],
+            "key_vocabulary": ["consequence", "action", "choice", "responsible", "fine"],
+            "real_world": "If you clean your room, a good consequence might be that you get extra play time. Actions have results!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a consequence?",
+              "options": ["A type of game", "What happens after you do something", "A kind of food", "A school subject"],
+              "correct": 1,
+              "hint": "Think about what happens as a result of your actions."
+            },
+            {
+              "type": "true_false",
+              "question": "Following rules can lead to good consequences.",
+              "answer": "true",
+              "hint": "When you follow rules, good things happen."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What might happen if you break a school rule?",
+              "options": ["You get a prize", "You might lose recess time", "Nothing happens", "You get extra candy"],
+              "correct": 1,
+              "hint": "Breaking rules usually has a negative consequence."
+            },
+            {
+              "type": "true_false",
+              "question": "Consequences help people learn to make better choices.",
+              "answer": "true",
+              "hint": "Do consequences teach us something?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens when everyone follows the rules?",
+              "options": ["Things are boring", "Everyone stays safe and things are fair", "Nothing happens", "People are angry"],
+              "correct": 1,
+              "hint": "Rules help create a good environment for everyone."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Why do we have rules?",
+            "options": ["To be mean", "To keep everyone safe and fair", "Rules are not important", "To make people sad"],
+            "correct": 1,
+            "hint": "Rules help everyone."
+          },
+          {
+            "type": "true_false",
+            "question": "Laws are rules for the whole community.",
+            "answer": "true",
+            "hint": "Laws apply to everyone in the community."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who helps make sure people follow laws?",
+            "options": ["Teachers", "Police officers", "Farmers", "Chefs"],
+            "correct": 1,
+            "hint": "These helpers protect the community."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A consequence is ___.",
+            "options": ["A type of rule", "What happens after you do something", "A kind of animal", "A game"],
+            "correct": 1,
+            "hint": "Think about the result of an action."
+          },
+          {
+            "type": "true_false",
+            "question": "Running in the hallway is following school rules.",
+            "answer": "false",
+            "hint": "Most schools say to walk, not run."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rule_ranger"
+      }
+    },
+    {
+      "id": "1-social-2",
+      "title": "Community Helpers",
+      "description": "Learn about the important people in our community who help us every day, including police officers, firefighters, doctors, teachers, and mail carriers.",
+      "lessons": [
+        {
+          "id": "1-social-2-1",
+          "title": "Police Officers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Police officers are community helpers who keep people safe. They make sure people follow the laws. Police officers help when there is an emergency, like a car accident or if someone is lost. They wear uniforms and badges so people can find them easily. Police officers drive police cars, and some ride horses or motorcycles. If you ever need help, you can call 911 and a police officer will come to help you.",
+            "examples": [
+              {
+                "problem": "What do police officers do?",
+                "answer": "They keep people safe and make sure laws are followed.",
+                "explanation": "Police officers protect the community and help people who are in trouble."
+              },
+              {
+                "problem": "How can you reach a police officer in an emergency?",
+                "answer": "Call 911.",
+                "explanation": "911 is the emergency number. You can call it to get help from police, firefighters, or an ambulance."
+              }
+            ],
+            "key_vocabulary": ["police officer", "uniform", "badge", "emergency", "911", "law"],
+            "real_world": "Have you ever seen a police officer in your neighborhood? They are there to help keep you safe."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the main job of a police officer?",
+              "options": ["To cook food", "To keep people safe", "To build houses", "To teach children"],
+              "correct": 1,
+              "hint": "Police officers protect the community."
+            },
+            {
+              "type": "true_false",
+              "question": "You can call 911 in an emergency to get help.",
+              "answer": "true",
+              "hint": "911 is the number to call when you need emergency help."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do police officers wear?",
+              "options": ["A chef hat", "A uniform and badge", "A swimsuit", "Pajamas"],
+              "correct": 1,
+              "hint": "Their clothing helps people recognize them."
+            },
+            {
+              "type": "true_false",
+              "question": "Police officers only drive cars.",
+              "answer": "false",
+              "hint": "Some police officers ride horses or motorcycles too."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Police officers make sure people follow ___.",
+              "options": ["Recipes", "Game rules", "Laws", "Stories"],
+              "correct": 2,
+              "hint": "These are the rules for the whole community."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-2-2",
+          "title": "Firefighters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Firefighters are brave community helpers who put out fires and rescue people. They live at a fire station and are ready to help at any time, day or night. When there is a fire, they ride in a big red fire truck with ladders and hoses. Firefighters wear special gear to protect them from heat and smoke, including a helmet, coat, and boots. They also teach people about fire safety, like how to stop, drop, and roll if your clothes catch fire, and how to have an escape plan at home.",
+            "examples": [
+              {
+                "problem": "Where do firefighters work?",
+                "answer": "At a fire station.",
+                "explanation": "Firefighters stay at the fire station so they can be ready to respond quickly when there is an emergency."
+              },
+              {
+                "problem": "What should you do if your clothes catch fire?",
+                "answer": "Stop, drop, and roll.",
+                "explanation": "Firefighters teach this safety tip: stop moving, drop to the ground, and roll to put out the flames."
+              }
+            ],
+            "key_vocabulary": ["firefighter", "fire station", "fire truck", "rescue", "fire safety", "helmet"],
+            "real_world": "Does your family have a fire escape plan? Firefighters say every family should know two ways to get out of their home in case of fire."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where do firefighters work?",
+              "options": ["A library", "A fire station", "A grocery store", "A park"],
+              "correct": 1,
+              "hint": "This place has fire trucks."
+            },
+            {
+              "type": "true_false",
+              "question": "Firefighters only work during the daytime.",
+              "answer": "false",
+              "hint": "Fires can happen at any time. Are firefighters ready day and night?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should you do if your clothes catch fire?",
+              "options": ["Run fast", "Stop, drop, and roll", "Jump up and down", "Hide under a bed"],
+              "correct": 1,
+              "hint": "This is a fire safety tip with three steps."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What color is a fire truck usually?",
+              "options": ["Blue", "Green", "Red", "Yellow"],
+              "correct": 2,
+              "hint": "This bright color helps people see the fire truck coming."
+            },
+            {
+              "type": "true_false",
+              "question": "Firefighters wear special gear to protect them from heat and smoke.",
+              "answer": "true",
+              "hint": "Their helmet, coat, and boots keep them safe."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-2-3",
+          "title": "Doctors and Nurses",
+          "type": "lesson",
+          "content": {
+            "explanation": "Doctors and nurses help people stay healthy. When you are sick or hurt, you go to a doctor. Doctors figure out what is wrong and help you feel better. They might give you medicine or put a bandage on a cut. Nurses work with doctors to take care of patients. They check your temperature, give shots, and make sure you are comfortable. Some doctors and nurses work at hospitals, and some work at clinics. They are very important community helpers!",
+            "examples": [
+              {
+                "problem": "What do doctors do?",
+                "answer": "They help people who are sick or hurt feel better.",
+                "explanation": "Doctors examine patients, find out what is wrong, and help them get well."
+              },
+              {
+                "problem": "What do nurses do?",
+                "answer": "They work with doctors to care for patients.",
+                "explanation": "Nurses check your temperature, give medicine, and make sure patients are comfortable."
+              }
+            ],
+            "key_vocabulary": ["doctor", "nurse", "patient", "hospital", "clinic", "medicine"],
+            "real_world": "When was the last time you visited a doctor? They probably checked your height, weight, and made sure you are healthy!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where do doctors and nurses work?",
+              "options": ["A farm", "A hospital or clinic", "A playground", "A bakery"],
+              "correct": 1,
+              "hint": "These are places where sick or hurt people go for help."
+            },
+            {
+              "type": "true_false",
+              "question": "Nurses work with doctors to take care of patients.",
+              "answer": "true",
+              "hint": "Doctors and nurses are a team."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What might a doctor give you to help you feel better?",
+              "options": ["A toy", "Medicine", "Homework", "A ball"],
+              "correct": 1,
+              "hint": "This helps your body fight sickness."
+            },
+            {
+              "type": "true_false",
+              "question": "A patient is a person who visits the doctor.",
+              "answer": "true",
+              "hint": "When you go to the doctor, you are the ___."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What might a nurse do during your visit?",
+              "options": ["Cook you dinner", "Check your temperature", "Drive you home", "Read you a story"],
+              "correct": 1,
+              "hint": "Nurses check to see how your body is doing."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-2-4",
+          "title": "Teachers and Librarians",
+          "type": "lesson",
+          "content": {
+            "explanation": "Teachers are community helpers who help children learn. They teach reading, math, science, and many other subjects. Teachers make learning fun with activities, stories, and projects. They care about their students and want everyone to do their best. Librarians are helpers who work at the library. They help people find books and information. Librarians read stories, organize books, and help people use computers. Both teachers and librarians love learning and love helping others learn too!",
+            "examples": [
+              {
+                "problem": "What do teachers do?",
+                "answer": "They help children learn about many subjects.",
+                "explanation": "Teachers plan lessons, teach new things, and help students understand the world."
+              },
+              {
+                "problem": "What do librarians do?",
+                "answer": "They help people find books and information at the library.",
+                "explanation": "Librarians organize books, read stories, and help people discover new things to read."
+              }
+            ],
+            "key_vocabulary": ["teacher", "librarian", "learn", "library", "education", "subject"],
+            "real_world": "Your teacher is a community helper! They spend a lot of time helping you learn new things every day."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the main job of a teacher?",
+              "options": ["To cook meals", "To help children learn", "To drive buses", "To deliver mail"],
+              "correct": 1,
+              "hint": "Teachers work at schools to help students."
+            },
+            {
+              "type": "true_false",
+              "question": "Librarians help people find books.",
+              "answer": "true",
+              "hint": "Librarians work at the library with lots of books."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where does a librarian work?",
+              "options": ["A hospital", "A fire station", "A library", "A farm"],
+              "correct": 2,
+              "hint": "This place is full of books."
+            },
+            {
+              "type": "true_false",
+              "question": "Teachers only teach math.",
+              "answer": "false",
+              "hint": "Teachers teach many subjects like reading, science, and more."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do teachers make learning fun?",
+              "options": ["By canceling school", "With activities, stories, and projects", "By giving no work", "By sleeping in class"],
+              "correct": 1,
+              "hint": "Teachers use many different ways to make learning interesting."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-2-5",
+          "title": "Mail Carriers and Other Helpers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mail carriers deliver letters and packages to homes and businesses. They walk or drive along their route every day, rain or shine. Farmers are community helpers who grow the food we eat, like fruits, vegetables, and grains. Dentists help keep our teeth healthy by cleaning them and fixing cavities. Bus drivers take people where they need to go safely. Every community helper has an important job that makes life better for everyone!",
+            "examples": [
+              {
+                "problem": "What does a mail carrier do?",
+                "answer": "Delivers letters and packages to homes.",
+                "explanation": "Mail carriers bring mail to your mailbox every day so you can get letters, bills, and packages."
+              },
+              {
+                "problem": "What does a farmer do?",
+                "answer": "Grows food like fruits, vegetables, and grains.",
+                "explanation": "Without farmers, we would not have the food we eat every day."
+              }
+            ],
+            "key_vocabulary": ["mail carrier", "farmer", "dentist", "bus driver", "route", "deliver"],
+            "real_world": "The next time you eat a meal, think about the farmer who grew the food, the truck driver who delivered it, and the store worker who put it on the shelf!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a mail carrier deliver?",
+              "options": ["Food", "Medicine", "Letters and packages", "Clothes"],
+              "correct": 2,
+              "hint": "This person brings things to your mailbox."
+            },
+            {
+              "type": "true_false",
+              "question": "Farmers grow the food we eat.",
+              "answer": "true",
+              "hint": "Where do fruits and vegetables come from?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who helps keep your teeth healthy?",
+              "options": ["A firefighter", "A dentist", "A mail carrier", "A farmer"],
+              "correct": 1,
+              "hint": "This person cleans your teeth and checks for cavities."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A bus driver helps by ___.",
+              "options": ["Growing food", "Taking people where they need to go", "Putting out fires", "Delivering mail"],
+              "correct": 1,
+              "hint": "This person drives a large vehicle full of passengers."
+            },
+            {
+              "type": "true_false",
+              "question": "Mail carriers only deliver mail when it is sunny.",
+              "answer": "false",
+              "hint": "Mail carriers work rain or shine!"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who puts out fires?",
+            "options": ["Police officer", "Firefighter", "Teacher", "Dentist"],
+            "correct": 1,
+            "hint": "This person works at a fire station."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What number do you call in an emergency?",
+            "options": ["411", "911", "123", "555"],
+            "correct": 1,
+            "hint": "This is the emergency phone number."
+          },
+          {
+            "type": "true_false",
+            "question": "Doctors help people who are sick or hurt.",
+            "answer": "true",
+            "hint": "Doctors work at hospitals and clinics."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Where does a librarian work?",
+            "options": ["A farm", "A fire station", "A library", "A hospital"],
+            "correct": 2,
+            "hint": "This place is full of books."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who grows the food we eat?",
+            "options": ["Dentists", "Police officers", "Farmers", "Librarians"],
+            "correct": 2,
+            "hint": "This person works on a farm."
+          },
+          {
+            "type": "true_false",
+            "question": "Mail carriers deliver letters and packages.",
+            "answer": "true",
+            "hint": "This person brings mail to your home."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "helper_hero"
+      }
+    },
+    {
+      "id": "1-social-3",
+      "title": "Maps and Directions",
+      "description": "Learn about cardinal directions, how to read map keys, and the different types of maps people use.",
+      "lessons": [
+        {
+          "id": "1-social-3-1",
+          "title": "Cardinal Directions",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four main directions are called cardinal directions. They are North, South, East, and West. On most maps, North is at the top, South is at the bottom, East is on the right, and West is on the left. A fun way to remember them is the phrase 'Never Eat Soggy Waffles.' Start at the top (North) and go clockwise: North, East, South, West. If you face North, East is to your right and West is to your left. Knowing directions helps you read maps and find your way!",
+            "examples": [
+              {
+                "problem": "What are the four cardinal directions?",
+                "answer": "North, South, East, and West.",
+                "explanation": "These are the four main directions used on maps and compasses."
+              },
+              {
+                "problem": "On a map, which direction is at the top?",
+                "answer": "North.",
+                "explanation": "Most maps are drawn with North at the top."
+              }
+            ],
+            "key_vocabulary": ["cardinal directions", "north", "south", "east", "west", "compass"],
+            "real_world": "Try this: stand up and face the direction the sun rises in the morning. You are facing East! Now turn around — you are facing West!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What are the four cardinal directions?",
+              "options": ["Up, down, left, right", "North, South, East, West", "Forward, backward, left, right", "Top, bottom, front, back"],
+              "correct": 1,
+              "hint": "These directions are used on maps and compasses."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On most maps, North is at the ___.",
+              "options": ["Bottom", "Left", "Right", "Top"],
+              "correct": 3,
+              "hint": "Look at the top of a map to find this direction."
+            },
+            {
+              "type": "true_false",
+              "question": "South is at the bottom of most maps.",
+              "answer": "true",
+              "hint": "South is the opposite of North."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If you face North, which direction is to your right?",
+              "options": ["West", "South", "East", "North"],
+              "correct": 2,
+              "hint": "Think about the order: Never Eat Soggy Waffles."
+            },
+            {
+              "type": "true_false",
+              "question": "West is on the left side of most maps.",
+              "answer": "true",
+              "hint": "When North is up, West is on the left."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the opposite of East?",
+              "options": ["North", "South", "West", "East"],
+              "correct": 2,
+              "hint": "East is on the right, and its opposite is on the left."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-3-2",
+          "title": "Map Keys and Symbols",
+          "type": "lesson",
+          "content": {
+            "explanation": "A map key (also called a legend) is a box on a map that explains what the symbols mean. Maps use symbols — small pictures or shapes — to show different things. A small tree might stand for a park. A blue line might stand for a river. A star might show where the capital city is. Without a map key, you would not know what the symbols mean! Always check the map key before reading a map.",
+            "examples": [
+              {
+                "problem": "What is a map key?",
+                "answer": "A box that explains what the symbols on a map mean.",
+                "explanation": "The map key is like a guide that tells you what each picture or shape on the map represents."
+              },
+              {
+                "problem": "What might a small blue line on a map stand for?",
+                "answer": "A river.",
+                "explanation": "Maps often use blue to represent water, so a blue line usually means a river or stream."
+              }
+            ],
+            "key_vocabulary": ["map key", "legend", "symbol", "represent", "capital"],
+            "real_world": "Next time you see a map, look for the map key. It will help you understand what all the little pictures mean!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is another name for a map key?",
+              "options": ["A compass", "A legend", "A title", "A border"],
+              "correct": 1,
+              "hint": "A map key is also called a ___."
+            },
+            {
+              "type": "true_false",
+              "question": "A map key explains what the symbols on a map mean.",
+              "answer": "true",
+              "hint": "The map key tells you what each picture represents."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On a map, a small tree symbol might stand for a ___.",
+              "options": ["Hospital", "Park", "School", "Store"],
+              "correct": 1,
+              "hint": "Where would you find many trees?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A blue line on a map usually stands for a ___.",
+              "options": ["Road", "Railroad", "River", "Fence"],
+              "correct": 2,
+              "hint": "Blue usually represents water."
+            },
+            {
+              "type": "true_false",
+              "question": "You should check the map key before reading a map.",
+              "answer": "true",
+              "hint": "The map key helps you understand the symbols."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-3-3",
+          "title": "Types of Maps",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are many different types of maps. A street map shows roads and streets in a town or city. It helps you find your way when driving or walking. A physical map shows natural features like mountains, rivers, lakes, and oceans. Mountains might be shown in brown, and water in blue. A political map shows countries, states, and cities with borders drawn as lines. A weather map shows what the weather is like in different places. Each type of map gives us different information!",
+            "examples": [
+              {
+                "problem": "What does a street map show?",
+                "answer": "Roads and streets in a town or city.",
+                "explanation": "Street maps help people find addresses and plan routes for driving or walking."
+              },
+              {
+                "problem": "What does a physical map show?",
+                "answer": "Natural features like mountains, rivers, and oceans.",
+                "explanation": "Physical maps use colors and symbols to show what the land and water look like."
+              }
+            ],
+            "key_vocabulary": ["street map", "physical map", "political map", "weather map", "natural features"],
+            "real_world": "If your family uses a GPS or phone to get directions, it is using a digital street map!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a street map show?",
+              "options": ["Weather", "Mountains", "Roads and streets", "Animals"],
+              "correct": 2,
+              "hint": "This map helps you find your way through a city."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does a physical map show?",
+              "options": ["State borders", "Weather", "Natural features like mountains and rivers", "Street names"],
+              "correct": 2,
+              "hint": "This map shows what the land looks like."
+            },
+            {
+              "type": "true_false",
+              "question": "A political map shows countries and states.",
+              "answer": "true",
+              "hint": "Political maps show borders between places."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which map would help you see if it will rain tomorrow?",
+              "options": ["A street map", "A physical map", "A political map", "A weather map"],
+              "correct": 3,
+              "hint": "This type of map shows the weather."
+            },
+            {
+              "type": "true_false",
+              "question": "There is only one type of map.",
+              "answer": "false",
+              "hint": "We learned about several different types of maps."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-3-4",
+          "title": "Using a Compass Rose",
+          "type": "lesson",
+          "content": {
+            "explanation": "A compass rose is a design on a map that shows the directions. It looks like a star or flower shape. The four main points show North (N), South (S), East (E), and West (W). Some compass roses also show directions in between, like Northeast (NE), Northwest (NW), Southeast (SE), and Southwest (SW). The compass rose is very helpful because it tells you which way is which on the map. Without it, you would not know which direction is North!",
+            "examples": [
+              {
+                "problem": "What is a compass rose?",
+                "answer": "A design on a map that shows the directions.",
+                "explanation": "The compass rose looks like a star and points to North, South, East, and West."
+              },
+              {
+                "problem": "What does NE stand for on a compass rose?",
+                "answer": "Northeast.",
+                "explanation": "Northeast is the direction between North and East."
+              }
+            ],
+            "key_vocabulary": ["compass rose", "northeast", "northwest", "southeast", "southwest"],
+            "real_world": "Look for the compass rose on any map you see. It is usually in a corner and looks like a decorated star."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a compass rose show?",
+              "options": ["The weather", "The directions", "The distance", "The time"],
+              "correct": 1,
+              "hint": "A compass rose points to N, S, E, and W."
+            },
+            {
+              "type": "true_false",
+              "question": "A compass rose looks like a star shape on a map.",
+              "answer": "true",
+              "hint": "It has points that stick out like a star."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does N stand for on a compass rose?",
+              "options": ["New", "Nothing", "North", "Night"],
+              "correct": 2,
+              "hint": "This is the direction at the top of most maps."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The direction between North and East is called ___.",
+              "options": ["Southwest", "Southeast", "Northeast", "Northwest"],
+              "correct": 2,
+              "hint": "Combine the words North and East."
+            },
+            {
+              "type": "true_false",
+              "question": "SW on a compass rose stands for Southwest.",
+              "answer": "true",
+              "hint": "S = South, W = West."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What are the four cardinal directions?",
+            "options": ["Up, down, left, right", "North, South, East, West", "Near, far, high, low", "Forward, backward, sideways, diagonal"],
+            "correct": 1,
+            "hint": "Remember: Never Eat Soggy Waffles."
+          },
+          {
+            "type": "true_false",
+            "question": "A map key explains what the symbols on a map mean.",
+            "answer": "true",
+            "hint": "The map key is like a guide to reading the map."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which map shows roads and streets?",
+            "options": ["Physical map", "Weather map", "Street map", "Political map"],
+            "correct": 2,
+            "hint": "This map helps you navigate a city."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A compass rose shows ___.",
+            "options": ["Types of flowers", "Directions", "Temperature", "Population"],
+            "correct": 1,
+            "hint": "N, S, E, W are shown on a compass rose."
+          },
+          {
+            "type": "true_false",
+            "question": "On most maps, South is at the top.",
+            "answer": "false",
+            "hint": "Which direction is usually at the top of a map?"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "direction_detective"
+      }
+    },
+    {
+      "id": "1-social-4",
+      "title": "Past and Present",
+      "description": "Learn about how life has changed over time, from technology to daily life, and understand the difference between past and present.",
+      "lessons": [
+        {
+          "id": "1-social-4-1",
+          "title": "Then and Now",
+          "type": "lesson",
+          "content": {
+            "explanation": "The past is the time before now — things that already happened. The present is right now, today. Life was very different in the past. Long ago, people traveled by horse and buggy. Now we have cars, buses, and airplanes. In the past, people wrote letters to communicate. Now we use phones and computers. Some things stay the same though — people still need food, shelter, and love. Learning about the past helps us understand how the world has changed.",
+            "examples": [
+              {
+                "problem": "How did people travel long ago?",
+                "answer": "By horse and buggy, or by walking.",
+                "explanation": "Before cars were invented, people used horses and horse-drawn buggies to get around."
+              },
+              {
+                "problem": "How do people communicate now?",
+                "answer": "By phone, computer, and text messages.",
+                "explanation": "Modern technology lets us talk to people far away instantly."
+              }
+            ],
+            "key_vocabulary": ["past", "present", "long ago", "change", "history"],
+            "real_world": "Ask a grandparent what life was like when they were your age. What was different?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The past is ___.",
+              "options": ["Right now", "The time before now", "The future", "Tomorrow"],
+              "correct": 1,
+              "hint": "The past already happened."
+            },
+            {
+              "type": "true_false",
+              "question": "Long ago, people used cars to travel.",
+              "answer": "false",
+              "hint": "Cars had not been invented yet. What did people use before cars?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did people communicate long ago?",
+              "options": ["By phone", "By writing letters", "By texting", "By email"],
+              "correct": 1,
+              "hint": "Before phones and computers, people wrote and mailed ___."
+            },
+            {
+              "type": "true_false",
+              "question": "People have always needed food and shelter.",
+              "answer": "true",
+              "hint": "Some things about life stay the same."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The present means ___.",
+              "options": ["A gift", "Long ago", "Right now", "Next year"],
+              "correct": 2,
+              "hint": "The present is today, this moment."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-4-2",
+          "title": "How Technology Has Changed",
+          "type": "lesson",
+          "content": {
+            "explanation": "Technology is the tools and machines people use to make life easier. Technology has changed a lot over time! Long ago, people washed clothes by hand. Now we have washing machines. Before computers, people used typewriters to write. Before phones, people sent letters or telegraphs. Before TV, families listened to the radio for news and stories. New technology is invented all the time, and it keeps making our lives different!",
+            "examples": [
+              {
+                "problem": "What did people use before computers?",
+                "answer": "Typewriters.",
+                "explanation": "A typewriter was a machine that printed letters on paper when you pressed keys. It was the computer of the past!"
+              },
+              {
+                "problem": "What did people do before TV?",
+                "answer": "They listened to the radio.",
+                "explanation": "Before television was invented, families gathered around the radio to hear news, music, and stories."
+              }
+            ],
+            "key_vocabulary": ["technology", "invention", "typewriter", "telegraph", "modern"],
+            "real_world": "Think about the technology you use every day. Tablets, computers, and phones are all modern technology!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did people use before washing machines?",
+              "options": ["A dishwasher", "They washed clothes by hand", "They never washed clothes", "A computer"],
+              "correct": 1,
+              "hint": "There were no machines, so people had to do it themselves."
+            },
+            {
+              "type": "true_false",
+              "question": "A typewriter was used before computers.",
+              "answer": "true",
+              "hint": "Typewriters printed letters on paper, like an old-fashioned computer."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is technology?",
+              "options": ["A kind of animal", "Tools and machines that make life easier", "A type of food", "A school subject only"],
+              "correct": 1,
+              "hint": "Technology helps people do things."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Before TV, families listened to the ___ for news and stories.",
+              "options": ["Computer", "Phone", "Radio", "Newspaper only"],
+              "correct": 2,
+              "hint": "This device plays sounds but does not show pictures."
+            },
+            {
+              "type": "true_false",
+              "question": "Technology has changed a lot over time.",
+              "answer": "true",
+              "hint": "Think about all the new inventions we have today."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-4-3",
+          "title": "Daily Life Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Daily life looks very different now than it did long ago. In the past, many children helped on family farms instead of going to school all day. Families made their own clothes and grew their own food. Homes had no electricity, so they used candles for light. Water came from a well, not a faucet. Today, we flip a switch for light, turn a faucet for water, and buy food at a store. School, work, and play have all changed, but people still care about their families and communities.",
+            "examples": [
+              {
+                "problem": "How did people get light in the past?",
+                "answer": "They used candles or oil lamps.",
+                "explanation": "Before electricity, there were no light switches. People used fire in candles and lamps to see at night."
+              },
+              {
+                "problem": "How did children spend their time in the past?",
+                "answer": "Many helped on family farms.",
+                "explanation": "Long ago, most families lived on farms and children had chores like feeding animals and helping with crops."
+              }
+            ],
+            "key_vocabulary": ["daily life", "electricity", "candle", "farm", "well"],
+            "real_world": "Imagine living without electricity. No lights, no TV, no refrigerator! Life was very different in the past."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Long ago, how did people light their homes?",
+              "options": ["With light bulbs", "With candles", "With flashlights", "With computers"],
+              "correct": 1,
+              "hint": "Before electricity, people used fire for light."
+            },
+            {
+              "type": "true_false",
+              "question": "In the past, many children worked on family farms.",
+              "answer": "true",
+              "hint": "Most families lived on farms and everyone helped."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where did people get water in the past?",
+              "options": ["From a faucet", "From a water bottle", "From a well", "From a hose"],
+              "correct": 2,
+              "hint": "People had to pull water up from deep underground."
+            },
+            {
+              "type": "true_false",
+              "question": "People in the past had refrigerators to keep food cold.",
+              "answer": "false",
+              "hint": "Refrigerators need electricity. Did old homes have electricity?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What has stayed the same from past to present?",
+              "options": ["Technology", "Types of cars", "People care about family and community", "All clothing styles"],
+              "correct": 2,
+              "hint": "Even though many things change, some important things stay the same."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-4-4",
+          "title": "Important People from the Past",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many important people lived in the past and changed the world. George Washington was the first President of the United States. He is called the 'Father of Our Country.' Benjamin Franklin was an inventor and leader. He helped write important papers for our country and flew a kite to learn about electricity. Abraham Lincoln was the 16th President. He helped free enslaved people and keep America united. These people are remembered because they made the world better.",
+            "examples": [
+              {
+                "problem": "Who was the first President of the United States?",
+                "answer": "George Washington.",
+                "explanation": "George Washington led the country as its very first President and is called the 'Father of Our Country.'"
+              },
+              {
+                "problem": "What did Abraham Lincoln do?",
+                "answer": "He helped free enslaved people and keep the country united.",
+                "explanation": "President Lincoln believed all people should be free and worked hard to make that happen."
+              }
+            ],
+            "key_vocabulary": ["President", "George Washington", "Benjamin Franklin", "Abraham Lincoln", "inventor"],
+            "real_world": "You can find George Washington's face on the one-dollar bill and the quarter!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was the first President of the United States?",
+              "options": ["Abraham Lincoln", "Benjamin Franklin", "George Washington", "Thomas Jefferson"],
+              "correct": 2,
+              "hint": "He is called the 'Father of Our Country.'"
+            },
+            {
+              "type": "true_false",
+              "question": "Benjamin Franklin was an inventor.",
+              "answer": "true",
+              "hint": "He is famous for many inventions and experiments."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Abraham Lincoln help do?",
+              "options": ["Discover America", "Free enslaved people", "Invent the telephone", "Build the first airplane"],
+              "correct": 1,
+              "hint": "Lincoln believed all people should be free."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "George Washington is called the ___.",
+              "options": ["King of America", "Father of Our Country", "Inventor of Electricity", "Mayor of New York"],
+              "correct": 1,
+              "hint": "He was the first leader of our new country."
+            },
+            {
+              "type": "true_false",
+              "question": "We can find George Washington's face on the one-dollar bill.",
+              "answer": "true",
+              "hint": "Look at a one-dollar bill — whose face is on it?"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The past is ___.",
+            "options": ["Tomorrow", "Right now", "The time before now", "Next week"],
+            "correct": 2,
+            "hint": "The past already happened."
+          },
+          {
+            "type": "true_false",
+            "question": "People used typewriters before computers were invented.",
+            "answer": "true",
+            "hint": "Typewriters were old-fashioned writing machines."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How did people light their homes before electricity?",
+            "options": ["Flashlights", "Light bulbs", "Candles", "Glow sticks"],
+            "correct": 2,
+            "hint": "People used fire for light."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who was the first President of the United States?",
+            "options": ["Benjamin Franklin", "George Washington", "Abraham Lincoln", "Martin Luther King Jr."],
+            "correct": 1,
+            "hint": "He is the 'Father of Our Country.'"
+          },
+          {
+            "type": "true_false",
+            "question": "Life today looks exactly the same as life 200 years ago.",
+            "answer": "false",
+            "hint": "Has technology changed since then?"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "time_traveler"
+      }
+    },
+    {
+      "id": "1-social-5",
+      "title": "Citizenship",
+      "description": "Learn about being a good citizen, the basics of voting, responsibility, and fairness in our community.",
+      "lessons": [
+        {
+          "id": "1-social-5-1",
+          "title": "Being a Good Citizen",
+          "type": "lesson",
+          "content": {
+            "explanation": "A citizen is a member of a community or country. Being a good citizen means doing your part to make your community a better place. Good citizens follow rules and laws, are kind to others, help their neighbors, and take care of the environment. Even first graders can be good citizens! You can be a good citizen by picking up litter, sharing with friends, being honest, and treating everyone with respect.",
+            "examples": [
+              {
+                "problem": "What is a citizen?",
+                "answer": "A member of a community or country.",
+                "explanation": "Everyone who lives in a community is a citizen of that community."
+              },
+              {
+                "problem": "Name two ways to be a good citizen.",
+                "answer": "Follow rules and be kind to others.",
+                "explanation": "Good citizens help make the community safe, clean, and friendly."
+              }
+            ],
+            "key_vocabulary": ["citizen", "community", "responsible", "honest", "respect"],
+            "real_world": "You are a citizen of your school and your town! What is one thing you can do today to be a good citizen?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a citizen?",
+              "options": ["A type of animal", "A member of a community", "A kind of food", "A job title"],
+              "correct": 1,
+              "hint": "Citizens are people who live in a community."
+            },
+            {
+              "type": "true_false",
+              "question": "Picking up litter is a way to be a good citizen.",
+              "answer": "true",
+              "hint": "Keeping the community clean helps everyone."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a way to be a good citizen?",
+              "options": ["Being kind to others", "Littering", "Following rules", "Helping neighbors"],
+              "correct": 1,
+              "hint": "Good citizens keep the community clean, not dirty."
+            },
+            {
+              "type": "true_false",
+              "question": "Only adults can be good citizens.",
+              "answer": "false",
+              "hint": "Can children be kind, follow rules, and help others?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A good citizen treats others with ___.",
+              "options": ["Anger", "Disrespect", "Respect", "Fear"],
+              "correct": 2,
+              "hint": "Good citizens are kind and caring."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-5-2",
+          "title": "Voting Basics",
+          "type": "lesson",
+          "content": {
+            "explanation": "Voting is how people make choices together. When a group needs to decide something, each person gets one vote. The choice with the most votes wins. In America, adults vote to choose leaders like the President, governor, and mayor. Voting is important because it gives everyone a fair say. In your classroom, you might vote on things like what game to play or what book to read. Every vote counts!",
+            "examples": [
+              {
+                "problem": "What is voting?",
+                "answer": "A way for people to make choices together.",
+                "explanation": "When people vote, each person picks what they think is best, and the most popular choice wins."
+              },
+              {
+                "problem": "Why is voting important?",
+                "answer": "It gives everyone a fair say in decisions.",
+                "explanation": "Voting makes sure that everyone's opinion counts, not just one person's."
+              }
+            ],
+            "key_vocabulary": ["vote", "election", "choice", "fair", "majority"],
+            "real_world": "Has your class ever voted on something, like which game to play at recess? That is voting!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is voting?",
+              "options": ["A game", "A way for people to make choices together", "A type of food", "Something only teachers do"],
+              "correct": 1,
+              "hint": "Voting is about making fair decisions."
+            },
+            {
+              "type": "true_false",
+              "question": "In voting, the choice with the most votes wins.",
+              "answer": "true",
+              "hint": "The most popular choice is the winner."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Adults vote to choose ___.",
+              "options": ["What to eat for dinner", "Leaders like the President", "What to watch on TV", "Which toys to buy"],
+              "correct": 1,
+              "hint": "Voting helps choose the people who run the government."
+            },
+            {
+              "type": "true_false",
+              "question": "Voting gives everyone a fair say.",
+              "answer": "true",
+              "hint": "Each person gets one vote, so everyone is treated equally."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a classroom vote, each student gets ___ vote(s).",
+              "options": ["Zero", "One", "Three", "Ten"],
+              "correct": 1,
+              "hint": "Every person gets the same number of votes."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-5-3",
+          "title": "Responsibility",
+          "type": "lesson",
+          "content": {
+            "explanation": "Responsibility means doing what you are supposed to do. Responsible people finish their tasks, take care of their things, and keep their promises. At school, being responsible means doing your homework, listening to the teacher, and taking care of supplies. At home, being responsible means doing your chores, being kind to siblings, and following your parents' rules. Being responsible shows that people can count on you!",
+            "examples": [
+              {
+                "problem": "What does responsibility mean?",
+                "answer": "Doing what you are supposed to do.",
+                "explanation": "A responsible person follows through on tasks and keeps promises."
+              },
+              {
+                "problem": "How can you be responsible at school?",
+                "answer": "Do your homework, listen to the teacher, and take care of supplies.",
+                "explanation": "When you take care of your tasks and belongings, you show responsibility."
+              }
+            ],
+            "key_vocabulary": ["responsibility", "reliable", "promise", "task", "trustworthy"],
+            "real_world": "What is one responsibility you have at home or school? Maybe you make your bed or feed a pet."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does responsibility mean?",
+              "options": ["Doing whatever you want", "Doing what you are supposed to do", "Ignoring your chores", "Playing all day"],
+              "correct": 1,
+              "hint": "Responsible people do what they are asked to do."
+            },
+            {
+              "type": "true_false",
+              "question": "Doing your homework is being responsible.",
+              "answer": "true",
+              "hint": "When you finish your tasks, you show responsibility."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which shows responsibility?",
+              "options": ["Forgetting your backpack", "Taking care of your supplies", "Breaking your promises", "Ignoring the teacher"],
+              "correct": 1,
+              "hint": "Responsible people take care of their things."
+            },
+            {
+              "type": "true_false",
+              "question": "Being responsible means people can count on you.",
+              "answer": "true",
+              "hint": "If you always do what you say, people trust you."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How can you be responsible at home?",
+              "options": ["Leave toys everywhere", "Do your chores", "Stay up all night", "Ignore your parents"],
+              "correct": 1,
+              "hint": "What tasks do your parents ask you to do?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-5-4",
+          "title": "Fairness",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fairness means treating everyone equally and giving everyone a chance. Being fair means sharing, taking turns, and following the same rules as everyone else. It is not fair if one person gets extra turns and others do not. It is not fair if someone breaks the rules without consequences. Good citizens practice fairness at school, at home, and in the community. When things are fair, everyone feels respected and happy.",
+            "examples": [
+              {
+                "problem": "What does fairness mean?",
+                "answer": "Treating everyone equally and giving everyone a chance.",
+                "explanation": "Fairness means no one gets special treatment — everyone follows the same rules."
+              },
+              {
+                "problem": "Give an example of fairness.",
+                "answer": "Taking turns on the swing so everyone gets a chance.",
+                "explanation": "When everyone gets the same amount of time, that is fair."
+              }
+            ],
+            "key_vocabulary": ["fairness", "equal", "share", "take turns", "justice"],
+            "real_world": "Think about playing a game with friends. Is it fair if one person always goes first? Taking turns is a good way to be fair."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does fairness mean?",
+              "options": ["One person gets everything", "Treating everyone equally", "Ignoring others", "Only helping your friends"],
+              "correct": 1,
+              "hint": "Fairness is about treating everyone the same way."
+            },
+            {
+              "type": "true_false",
+              "question": "Taking turns is an example of fairness.",
+              "answer": "true",
+              "hint": "When everyone gets a turn, is that fair?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of being fair?",
+              "options": ["Cutting in line", "Sharing toys equally", "Taking all the crayons", "Ignoring someone"],
+              "correct": 1,
+              "hint": "Fairness means everyone gets an equal share."
+            },
+            {
+              "type": "true_false",
+              "question": "It is fair if one person gets five turns and another gets zero.",
+              "answer": "false",
+              "hint": "Is that equal?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When things are fair, people feel ___.",
+              "options": ["Angry", "Sad", "Respected and happy", "Scared"],
+              "correct": 2,
+              "hint": "Fairness makes people feel good."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is a citizen?",
+            "options": ["A type of job", "A member of a community", "A kind of building", "A school rule"],
+            "correct": 1,
+            "hint": "Citizens live in a community."
+          },
+          {
+            "type": "true_false",
+            "question": "Voting gives everyone a fair say in decisions.",
+            "answer": "true",
+            "hint": "Each person gets one vote."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does responsibility mean?",
+            "options": ["Doing what you want", "Doing what you are supposed to do", "Playing games", "Sleeping all day"],
+            "correct": 1,
+            "hint": "Responsible people follow through."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Taking turns on the swing is an example of ___.",
+            "options": ["Cheating", "Fairness", "Selfishness", "Laziness"],
+            "correct": 1,
+            "hint": "Everyone gets a chance — that is fair."
+          },
+          {
+            "type": "true_false",
+            "question": "Only adults can be good citizens.",
+            "answer": "false",
+            "hint": "Can children be kind and helpful?"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "citizen_champion"
+      }
+    },
+    {
+      "id": "1-social-6",
+      "title": "Cultures Around the World",
+      "description": "Discover how people in different parts of the world celebrate, eat, dress, and live.",
+      "lessons": [
+        {
+          "id": "1-social-6-1",
+          "title": "What Is Culture?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Culture is the way of life for a group of people. It includes the food they eat, the clothes they wear, the languages they speak, the music they listen to, and the holidays they celebrate. Every group of people has its own culture. Culture is passed down from parents to children. Learning about different cultures helps us understand and appreciate people who are different from us. The world is more interesting because of all its different cultures!",
+            "examples": [
+              {
+                "problem": "What is culture?",
+                "answer": "The way of life for a group of people.",
+                "explanation": "Culture includes food, clothing, language, music, and traditions."
+              },
+              {
+                "problem": "Why is learning about other cultures important?",
+                "answer": "It helps us understand and appreciate people who are different from us.",
+                "explanation": "When we learn about others, we can be more kind and respectful."
+              }
+            ],
+            "key_vocabulary": ["culture", "language", "tradition", "celebrate", "appreciate"],
+            "real_world": "Your family has a culture too! Think about the foods you eat, the holidays you celebrate, and the language you speak at home."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is culture?",
+              "options": ["A type of plant", "The way of life for a group of people", "A school subject", "A kind of building"],
+              "correct": 1,
+              "hint": "Culture includes food, clothing, and traditions."
+            },
+            {
+              "type": "true_false",
+              "question": "All people around the world have the same culture.",
+              "answer": "false",
+              "hint": "Do people everywhere eat the same food and speak the same language?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is part of culture?",
+              "options": ["The weather", "Food, language, and traditions", "Math homework", "Traffic lights"],
+              "correct": 1,
+              "hint": "Culture is about how people live their daily lives."
+            },
+            {
+              "type": "true_false",
+              "question": "Learning about other cultures helps us appreciate different people.",
+              "answer": "true",
+              "hint": "Understanding others makes the world a friendlier place."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Culture is passed down from ___.",
+              "options": ["Animals to people", "Parents to children", "Teachers to politicians", "Strangers to friends"],
+              "correct": 1,
+              "hint": "Families share their culture with their children."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-6-2",
+          "title": "Foods from Around the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "People around the world eat many different foods! In Italy, people are famous for making pasta and pizza. In Japan, people eat sushi, which is made with rice and fish. In Mexico, people enjoy tacos, tortillas, and salsa. In India, people cook with many colorful spices and eat dishes like curry. In China, people eat rice, noodles, and dumplings. Food is a big part of culture, and trying new foods is a fun way to learn about other countries!",
+            "examples": [
+              {
+                "problem": "What food is Italy famous for?",
+                "answer": "Pasta and pizza.",
+                "explanation": "Italy is known for delicious pasta dishes and pizza, which people all around the world enjoy."
+              },
+              {
+                "problem": "What is sushi?",
+                "answer": "A Japanese food made with rice and fish.",
+                "explanation": "Sushi is a popular food from Japan that comes in many different varieties."
+              }
+            ],
+            "key_vocabulary": ["cuisine", "pasta", "sushi", "tacos", "curry", "dumplings"],
+            "real_world": "Have you ever tried food from another country? Maybe your family makes food from your own cultural background!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which country is famous for pasta and pizza?",
+              "options": ["Japan", "Mexico", "Italy", "India"],
+              "correct": 2,
+              "hint": "This European country is known for delicious pasta dishes."
+            },
+            {
+              "type": "true_false",
+              "question": "Sushi is a food from Japan.",
+              "answer": "true",
+              "hint": "This rice-and-fish dish comes from an island country in Asia."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Tacos and tortillas are foods from ___.",
+              "options": ["China", "Italy", "India", "Mexico"],
+              "correct": 3,
+              "hint": "This country is south of the United States."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Indian food is known for its many colorful ___.",
+              "options": ["Noodles", "Spices", "Breads", "Meats"],
+              "correct": 1,
+              "hint": "These add flavor and color to food."
+            },
+            {
+              "type": "true_false",
+              "question": "Trying new foods is a way to learn about other cultures.",
+              "answer": "true",
+              "hint": "Food is a big part of culture."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-6-3",
+          "title": "Clothing from Around the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "People around the world wear many different types of clothing! In Japan, people sometimes wear a kimono, a beautiful robe with wide sleeves. In India, many women wear a sari, which is a long piece of colorful cloth wrapped around the body. In Scotland, some men wear a kilt, which looks like a plaid skirt. In many African countries, people wear bright, colorful fabrics with beautiful patterns. What people wear often depends on the weather, culture, and special events.",
+            "examples": [
+              {
+                "problem": "What is a kimono?",
+                "answer": "A traditional Japanese robe with wide sleeves.",
+                "explanation": "Kimonos are worn for special occasions in Japan and are very beautiful."
+              },
+              {
+                "problem": "What is a sari?",
+                "answer": "A long piece of colorful cloth worn in India.",
+                "explanation": "A sari is wrapped around the body and comes in many beautiful colors and patterns."
+              }
+            ],
+            "key_vocabulary": ["clothing", "kimono", "sari", "kilt", "traditional", "fabric"],
+            "real_world": "Does your family have any special clothing they wear for holidays or celebrations?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A kimono is traditional clothing from ___.",
+              "options": ["India", "Scotland", "Japan", "Mexico"],
+              "correct": 2,
+              "hint": "This Asian country is known for kimonos."
+            },
+            {
+              "type": "true_false",
+              "question": "A sari is a type of clothing from India.",
+              "answer": "true",
+              "hint": "This long, colorful cloth is wrapped around the body."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A kilt is traditional clothing from ___.",
+              "options": ["China", "Scotland", "Brazil", "Egypt"],
+              "correct": 1,
+              "hint": "This is part of the United Kingdom."
+            },
+            {
+              "type": "true_false",
+              "question": "Everyone in the world wears the same kind of clothing.",
+              "answer": "false",
+              "hint": "Different cultures have different traditional clothing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What can affect what people wear?",
+              "options": ["Nothing", "Weather, culture, and special events", "Only the color they like", "Their age only"],
+              "correct": 1,
+              "hint": "Many things influence clothing choices."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-social-6-4",
+          "title": "Celebrations Around the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "People around the world celebrate many different holidays and festivals! In Brazil, people celebrate Carnival with colorful costumes and music. In Japan, people celebrate Children's Day by flying fish-shaped flags called koinobori. In Mexico, people celebrate with piñatas at parties — a decorated container filled with candy that you break open! Hanukkah is a Jewish holiday where families light candles on a menorah for eight nights. Every culture has special celebrations that bring people together.",
+            "examples": [
+              {
+                "problem": "What is Carnival?",
+                "answer": "A celebration in Brazil with colorful costumes and music.",
+                "explanation": "Carnival is one of the biggest festivals in the world, with dancing, music, and parades."
+              },
+              {
+                "problem": "What is a piñata?",
+                "answer": "A decorated container filled with candy that you break open at parties.",
+                "explanation": "Piñatas are popular at celebrations in Mexico and other Latin American countries."
+              }
+            ],
+            "key_vocabulary": ["Carnival", "koinobori", "piñata", "Hanukkah", "menorah", "festival"],
+            "real_world": "What celebrations does your family enjoy? Every family and culture has special ways of celebrating!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Carnival is a celebration in ___.",
+              "options": ["Japan", "Brazil", "India", "Scotland"],
+              "correct": 1,
+              "hint": "This South American country is famous for its big, colorful festival."
+            },
+            {
+              "type": "true_false",
+              "question": "A piñata is filled with candy.",
+              "answer": "true",
+              "hint": "When you break open a piñata, treats fall out!"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "During Hanukkah, families light candles on a ___.",
+              "options": ["Cake", "Tree", "Menorah", "Lantern"],
+              "correct": 2,
+              "hint": "This special candle holder holds candles for eight nights."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On Children's Day in Japan, people fly fish-shaped flags called ___.",
+              "options": ["Piñatas", "Koinobori", "Kimonos", "Lanterns"],
+              "correct": 1,
+              "hint": "These colorful flags look like fish blowing in the wind."
+            },
+            {
+              "type": "true_false",
+              "question": "Every culture has special celebrations.",
+              "answer": "true",
+              "hint": "People everywhere celebrate in their own ways."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is culture?",
+            "options": ["A type of sport", "The way of life for a group of people", "A kind of weather", "A school rule"],
+            "correct": 1,
+            "hint": "Culture includes food, clothing, and traditions."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which country is famous for pasta and pizza?",
+            "options": ["Japan", "India", "Italy", "Brazil"],
+            "correct": 2,
+            "hint": "This European country is known for delicious food."
+          },
+          {
+            "type": "true_false",
+            "question": "A kimono is traditional clothing from Japan.",
+            "answer": "true",
+            "hint": "This beautiful robe has wide sleeves."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is a piñata?",
+            "options": ["A type of dance", "A decorated container filled with candy", "A musical instrument", "A type of hat"],
+            "correct": 1,
+            "hint": "You break it open at parties!"
+          },
+          {
+            "type": "true_false",
+            "question": "All people around the world celebrate the same holidays.",
+            "answer": "false",
+            "hint": "Different cultures have different celebrations."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_explorer"
+      }
+    }
+  ]
+}

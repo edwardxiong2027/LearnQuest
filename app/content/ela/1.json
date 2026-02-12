@@ -1,0 +1,706 @@
+{
+  "grade": 1,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "1-ela-1",
+      "title": "Phonics",
+      "description": "Learn consonant blends, digraphs, long vowel sounds, and the silent E rule to become a stronger reader.",
+      "lessons": [
+        {
+          "id": "1-ela-1-1",
+          "title": "Consonant Blends",
+          "type": "lesson",
+          "content": {
+            "explanation": "A consonant blend is when two consonants are next to each other and you can hear both sounds. For example, in the word 'frog,' you hear both the /f/ and the /r/ at the beginning. Common blends include: bl (blue), cl (clap), fl (flag), gl (glad), br (brown), cr (crab), dr (drum), fr (frog), gr (green), tr (tree), st (star), sp (spin), sn (snake), and sm (smile). When you see two consonants together at the start of a word, try blending both sounds!",
+            "examples": [
+              {"problem": "What blend do you hear at the beginning of 'stop'?", "answer": "st", "explanation": "You hear /s/ and /t/ blended together: st-op."},
+              {"problem": "What blend do you hear at the beginning of 'cloud'?", "answer": "cl", "explanation": "You hear /k/ and /l/ blended together: cl-oud."},
+              {"problem": "What blend do you hear at the beginning of 'trip'?", "answer": "tr", "explanation": "You hear /t/ and /r/ blended together: tr-ip."}
+            ],
+            "key_vocabulary": ["blend", "consonant blend", "beginning blend"],
+            "real_world": "You use blends in everyday words like 'play,' 'sleep,' 'friend,' and 'school.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What consonant blend starts the word 'frog'?", "options": ["fl", "fr", "fg", "fn"], "correct": 1, "hint": "Say 'frog' slowly. You hear /f/ and /r/ together."},
+            {"type": "multiple_choice", "question": "Which word starts with the blend 'bl'?", "options": ["Ball", "Bell", "Blue", "Bat"], "correct": 2, "hint": "Look for a word that begins with b and l together."},
+            {"type": "true_false", "question": "In a consonant blend, you can hear both consonant sounds.", "answer": "true", "hint": "Both sounds are heard, just blended together quickly."},
+            {"type": "multiple_choice", "question": "What blend starts the word 'green'?", "options": ["gn", "gl", "gr", "ge"], "correct": 2, "hint": "Say 'green.' You hear /g/ and /r/ at the start."},
+            {"type": "fill_in", "question": "The word 'spin' starts with the blend: ___", "answer": "sp", "hint": "What two letters do you see at the beginning?"},
+            {"type": "multiple_choice", "question": "Which word does NOT start with a blend?", "options": ["Drum", "Stop", "Cat", "Frog"], "correct": 2, "hint": "A blend has two consonants together. One of these starts with just one consonant."},
+            {"type": "multiple_choice", "question": "What blend do you hear at the start of 'smile'?", "options": ["sl", "sm", "sn", "st"], "correct": 1, "hint": "Say 'smile.' You hear /s/ and /m/."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-1-2",
+          "title": "Digraphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "A digraph is two letters that work together to make ONE new sound. This is different from a blend, where you hear both sounds. The most common digraphs are: 'sh' (like in 'ship'), 'ch' (like in 'chair'), 'th' (like in 'the' or 'think'), and 'wh' (like in 'what'). When you see these letter pairs, say the special sound they make together!",
+            "examples": [
+              {"problem": "What sound does 'sh' make?", "answer": "/sh/ like in 'ship'", "explanation": "S and H together make the /sh/ sound. You don't hear /s/ and /h/ separately."},
+              {"problem": "What sound does 'ch' make?", "answer": "/ch/ like in 'chair'", "explanation": "C and H together make the /ch/ sound, like the start of 'cheese.'"},
+              {"problem": "What sound does 'th' make?", "answer": "/th/ like in 'the' or 'think'", "explanation": "T and H together make the /th/ sound. Put your tongue between your teeth!"}
+            ],
+            "key_vocabulary": ["digraph", "sh", "ch", "th", "wh"],
+            "real_world": "You say digraphs all the time: 'the' (th), 'she' (sh), 'chat' (ch), and 'what' (wh)!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which word starts with the digraph 'ch'?", "options": ["Cat", "Chair", "Car", "Cup"], "correct": 1, "hint": "Look for the word that starts with c and h making one sound."},
+            {"type": "multiple_choice", "question": "What digraph is in the word 'ship'?", "options": ["ch", "th", "sh", "wh"], "correct": 2, "hint": "Say 'ship.' The beginning sound is made by two letters."},
+            {"type": "true_false", "question": "A digraph makes two separate sounds.", "answer": "false", "hint": "A digraph makes ONE new sound from two letters."},
+            {"type": "multiple_choice", "question": "Which word has the 'th' digraph?", "options": ["Tree", "Think", "Top", "Truck"], "correct": 1, "hint": "Look for t and h working together."},
+            {"type": "fill_in", "question": "The word 'whale' starts with the digraph: ___", "answer": "wh", "hint": "What two letters make the first sound in 'whale'?"},
+            {"type": "multiple_choice", "question": "How is a digraph different from a blend?", "options": ["A digraph uses vowels", "A digraph makes one new sound", "A digraph is louder", "There is no difference"], "correct": 1, "hint": "In a blend you hear both sounds, but a digraph makes just one new sound."},
+            {"type": "multiple_choice", "question": "Which word ends with a digraph?", "options": ["Cat", "Fish", "Dog", "Frog"], "correct": 1, "hint": "Look for 'sh,' 'ch,' or 'th' at the end of a word."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-1-3",
+          "title": "Long Vowel Sounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Remember short vowel sounds? Vowels also have long sounds. A long vowel says its own name! Long A says /ay/ like in 'cake.' Long E says /ee/ like in 'tree.' Long I says /eye/ like in 'kite.' Long O says /oh/ like in 'home.' Long U says /yoo/ like in 'cute.' When a vowel says its name, we call that a long vowel sound.",
+            "examples": [
+              {"problem": "Does 'cake' have a long or short A?", "answer": "Long A", "explanation": "In 'cake,' the A says its name /ay/. That is a long A."},
+              {"problem": "Does 'cat' have a long or short A?", "answer": "Short A", "explanation": "In 'cat,' the A says /a/ (like 'ah'). That is a short A."},
+              {"problem": "What long vowel sound is in 'bike'?", "answer": "Long I", "explanation": "The I in 'bike' says its name /eye/. That is a long I."}
+            ],
+            "key_vocabulary": ["long vowel", "short vowel", "says its name"],
+            "real_world": "You hear long vowels in many words: name, he, ride, go, and use."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a long vowel sound like?", "options": ["A short sound", "The letter's name", "A consonant", "Silence"], "correct": 1, "hint": "A long vowel 'says its name.'"},
+            {"type": "multiple_choice", "question": "Which word has a long E sound?", "options": ["Bed", "Bee", "Bet", "Ben"], "correct": 1, "hint": "Long E says /ee/. Which word has that sound?"},
+            {"type": "multiple_choice", "question": "Which word has a long O sound?", "options": ["Hot", "Home", "Hop", "Hog"], "correct": 1, "hint": "Long O says /oh/. Which word sounds like that?"},
+            {"type": "true_false", "question": "The word 'kite' has a long I sound.", "answer": "true", "hint": "The I in 'kite' says /eye/ — its own name."},
+            {"type": "multiple_choice", "question": "Which word has a SHORT vowel sound?", "options": ["Cake", "Bike", "Dog", "Mule"], "correct": 2, "hint": "Short vowels do NOT say their name."},
+            {"type": "multiple_choice", "question": "What long vowel sound is in 'cute'?", "options": ["Long A", "Long E", "Long I", "Long U"], "correct": 3, "hint": "Listen to the vowel in 'cute.' It says /yoo/."},
+            {"type": "true_false", "question": "In the word 'mat,' the A makes a long vowel sound.", "answer": "false", "hint": "The A in 'mat' says /a/ (short), not /ay/ (long)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-1-4",
+          "title": "Silent E",
+          "type": "lesson",
+          "content": {
+            "explanation": "Here is a magic trick! When a word ends with the letter E, that E is often silent — you don't say it. But it does something amazing: it makes the vowel before it say its name (long sound). Look: 'cap' has a short A, but add an E to make 'cape' and the A says its name /ay/! This is called the Silent E rule, or Magic E. It works with many words: hop → hope, kit → kite, cub → cube, pin → pine.",
+            "examples": [
+              {"problem": "What happens when you add E to 'cap'?", "answer": "It becomes 'cape' and the A says /ay/", "explanation": "The silent E makes the A long: cap (/a/) → cape (/ay/)."},
+              {"problem": "What happens when you add E to 'hop'?", "answer": "It becomes 'hope' and the O says /oh/", "explanation": "The silent E makes the O long: hop (/o/) → hope (/oh/)."},
+              {"problem": "What happens when you add E to 'kit'?", "answer": "It becomes 'kite' and the I says /eye/", "explanation": "The silent E makes the I long: kit (/i/) → kite (/eye/)."}
+            ],
+            "key_vocabulary": ["silent E", "magic E", "long vowel"],
+            "real_world": "Silent E is in many words you use: make, like, home, cute, and more!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the silent E do?", "options": ["It makes a loud sound", "It makes the vowel before it long", "It disappears", "It changes the consonant"], "correct": 1, "hint": "Silent E makes the other vowel say its name."},
+            {"type": "fill_in", "question": "Add a silent E to 'cap' to make: ___", "answer": "cape", "hint": "Put an E at the end of 'cap.'"},
+            {"type": "multiple_choice", "question": "Which word has a silent E?", "options": ["Bed", "Bike", "Big", "Bus"], "correct": 1, "hint": "Look for a word ending in E where the E is not said out loud."},
+            {"type": "fill_in", "question": "Add a silent E to 'cub' to make: ___", "answer": "cube", "hint": "Put an E at the end of 'cub.' The U becomes long."},
+            {"type": "true_false", "question": "In the word 'hope,' the E at the end is silent.", "answer": "true", "hint": "You don't hear the E, but it makes the O long."},
+            {"type": "multiple_choice", "question": "What is the vowel sound in 'pine'?", "options": ["Short I", "Long I", "Short A", "Long A"], "correct": 1, "hint": "The silent E makes the I say its name: /eye/."},
+            {"type": "multiple_choice", "question": "Which pair shows the silent E rule?", "options": ["cat → cats", "hop → hope", "big → bigger", "run → runs"], "correct": 1, "hint": "Look for a word that adds E and changes the vowel sound."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What blend starts the word 'tree'?", "options": ["th", "tr", "te", "tw"], "correct": 1, "hint": "You hear /t/ and /r/ blended together."},
+          {"type": "multiple_choice", "question": "Which is a digraph?", "options": ["bl", "tr", "sh", "st"], "correct": 2, "hint": "A digraph makes ONE new sound from two letters."},
+          {"type": "true_false", "question": "A long vowel says its own name.", "answer": "true", "hint": "Long A says /ay/, long E says /ee/, etc."},
+          {"type": "multiple_choice", "question": "What does the silent E do in 'cake'?", "options": ["Makes a sound", "Makes the A long", "Makes the C silent", "Nothing"], "correct": 1, "hint": "The silent E makes the vowel before it say its name."},
+          {"type": "fill_in", "question": "Add silent E to 'pin' to make: ___", "answer": "pine", "hint": "The E makes the I long."},
+          {"type": "multiple_choice", "question": "Which word has the 'ch' digraph?", "options": ["Cat", "Clap", "Chip", "Crab"], "correct": 2, "hint": "Look for c and h making one sound together."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "phonics_wizard"
+      }
+    },
+    {
+      "id": "1-ela-2",
+      "title": "Sight Words and Fluency",
+      "description": "Learn more common words by sight and practice reading sentences smoothly.",
+      "lessons": [
+        {
+          "id": "1-ela-2-1",
+          "title": "Common Sight Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "In first grade, you will learn many more sight words. These are words you should recognize instantly without sounding them out. Some important ones are: 'was,' 'his,' 'that,' 'she,' 'for,' 'are,' 'with,' 'they,' 'have,' 'from,' 'said,' 'you,' 'but,' 'not,' 'what,' 'were,' 'when,' 'your,' 'each,' and 'which.' The more sight words you know, the faster you can read!",
+            "examples": [
+              {"problem": "Read this sentence: She said that they are here.", "answer": "She said that they are here.", "explanation": "This sentence has many sight words: she, said, that, they, are."},
+              {"problem": "Read this sentence: What was in your bag?", "answer": "What was in your bag?", "explanation": "Sight words in this sentence: what, was, in, your."},
+              {"problem": "Read this sentence: They have a dog with spots.", "answer": "They have a dog with spots.", "explanation": "Sight words: they, have, a, with."}
+            ],
+            "key_vocabulary": ["sight word", "recognize", "fluency"],
+            "real_world": "The more sight words you know, the easier it is to read books, signs, and messages!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is a sight word?", "options": ["Dinosaur", "They", "Elephant", "Butterfly"], "correct": 1, "hint": "Sight words are short, common words."},
+            {"type": "fill_in", "question": "She ___ that it was fun. (said / sad)", "answer": "said", "hint": "'Said' means she told someone something."},
+            {"type": "multiple_choice", "question": "Which word means the opposite of 'with'?", "options": ["Without", "Was", "Which", "When"], "correct": 0, "hint": "If you are not 'with' someone, you are ___ them."},
+            {"type": "true_false", "question": "'Have' is a sight word.", "answer": "true", "hint": "'Have' appears in many sentences."},
+            {"type": "fill_in", "question": "They ___ two cats at home. (have / has)", "answer": "have", "hint": "We use 'have' with 'they.'"},
+            {"type": "multiple_choice", "question": "How many sight words are in: 'She was not with them'?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count: she, was, not, with."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-2-2",
+          "title": "Reading Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A sentence is a group of words that tells a complete thought. Every sentence starts with a capital letter and ends with a punctuation mark (. ? or !). When you read a sentence, point to each word and say it. Then go back and read the whole sentence smoothly. Here is a sentence: 'The big dog ran fast.' It starts with a capital T and ends with a period.",
+            "examples": [
+              {"problem": "Is this a sentence? 'The cat is soft.'", "answer": "Yes", "explanation": "It starts with a capital letter, has a complete thought, and ends with a period."},
+              {"problem": "Is this a sentence? 'the ran big'", "answer": "No", "explanation": "It does not start with a capital letter and does not make sense as a complete thought."},
+              {"problem": "Read: 'Can you see the red bird?'", "answer": "Can you see the red bird?", "explanation": "This sentence asks a question. It starts with a capital C and ends with a question mark."}
+            ],
+            "key_vocabulary": ["sentence", "capital letter", "period", "question mark"],
+            "real_world": "Everything you read is made of sentences: books, signs, text messages, and instructions!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does every sentence start with?", "options": ["A lowercase letter", "A capital letter", "A number", "A period"], "correct": 1, "hint": "The first letter is always big."},
+            {"type": "true_false", "question": "Every sentence ends with a punctuation mark.", "answer": "true", "hint": "Sentences end with a period, question mark, or exclamation point."},
+            {"type": "multiple_choice", "question": "Which is a complete sentence?", "options": ["The big.", "Dog run fast.", "I like to play.", "Happy the."], "correct": 2, "hint": "A sentence must make sense and have a complete thought."},
+            {"type": "multiple_choice", "question": "What punctuation mark ends a question?", "options": [".", "!", "?", ","], "correct": 2, "hint": "Questions use this curvy mark."},
+            {"type": "true_false", "question": "'she has a red hat' is written correctly.", "answer": "false", "hint": "The first word should start with a capital letter."},
+            {"type": "fill_in", "question": "A sentence ends with a period, question mark, or exclamation ___.", "answer": "point", "hint": "The mark that looks like this: !"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-2-3",
+          "title": "Building Reading Fluency",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fluency means reading smoothly, at a good speed, and with expression. When you read fluently, it sounds like talking! Don't read too fast or too slow. If you see a period, pause briefly. If you see a question mark, make your voice go up at the end. If you see an exclamation point, show excitement! The best way to build fluency is to practice reading the same book or passage more than once.",
+            "examples": [
+              {"problem": "How should you read a sentence ending with '!'?", "answer": "With excitement", "explanation": "An exclamation point means something exciting, surprising, or important. Show it in your voice!"},
+              {"problem": "How should you read a sentence ending with '?'?", "answer": "With your voice going up at the end", "explanation": "Questions have a rising tone at the end, like you're asking something."},
+              {"problem": "What is the best way to improve fluency?", "answer": "Read the same text more than once", "explanation": "Rereading helps you get faster and smoother each time."}
+            ],
+            "key_vocabulary": ["fluency", "expression", "smooth reading", "pace"],
+            "real_world": "When you read a story to a younger brother or sister, fluency makes it fun to listen to!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does fluency mean?", "options": ["Reading one word at a time very slowly", "Reading smoothly with expression", "Skipping hard words", "Reading silently"], "correct": 1, "hint": "Fluent reading sounds like natural talking."},
+            {"type": "true_false", "question": "Rereading a book helps improve fluency.", "answer": "true", "hint": "Each time you read the same text, you get smoother."},
+            {"type": "multiple_choice", "question": "When you see a period at the end of a sentence, you should:", "options": ["Speed up", "Pause briefly", "Stop reading", "Skip it"], "correct": 1, "hint": "A period is a short stop."},
+            {"type": "multiple_choice", "question": "When reading 'Watch out!' how should your voice sound?", "options": ["Quiet and slow", "Excited and strong", "Like a whisper", "Sad"], "correct": 1, "hint": "The exclamation point tells you to show excitement."},
+            {"type": "true_false", "question": "Reading too fast is good fluency.", "answer": "false", "hint": "Good fluency means a good pace — not too fast, not too slow."},
+            {"type": "multiple_choice", "question": "How does your voice change for a question?", "options": ["It gets louder", "It goes down", "It goes up at the end", "It stays the same"], "correct": 2, "hint": "Try saying 'Is it raining?' Notice how your voice rises."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-2-4",
+          "title": "Word Families",
+          "type": "lesson",
+          "content": {
+            "explanation": "A word family is a group of words that have the same ending. The '-at' family includes: cat, hat, bat, mat, sat, rat, fat, and pat. The '-ig' family includes: big, dig, fig, pig, wig, and jig. Knowing word families helps you read new words fast! If you can read 'cat,' you can also read 'hat,' 'bat,' and 'mat' because they all end the same way.",
+            "examples": [
+              {"problem": "Name three words in the '-an' family.", "answer": "can, fan, man (or pan, ran, van, tan)", "explanation": "Words in the '-an' family all end with 'an': can, fan, man, pan, ran, van, tan."},
+              {"problem": "What word family does 'hop' belong to?", "answer": "The '-op' family", "explanation": "'Hop' ends with '-op,' so it belongs to the same family as 'top,' 'mop,' 'pop,' and 'stop.'"},
+              {"problem": "If you can read 'sun,' can you read 'fun'?", "answer": "Yes!", "explanation": "'Sun' and 'fun' are in the '-un' family. They end the same way."}
+            ],
+            "key_vocabulary": ["word family", "ending", "pattern"],
+            "real_world": "Knowing word families is like having a cheat code — learn one ending and you can read many words!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which words are in the same word family?", "options": ["cat, dog, pig", "hat, mat, bat", "sun, moon, star", "red, blue, green"], "correct": 1, "hint": "Word families share the same ending sound."},
+            {"type": "fill_in", "question": "Name a word in the '-og' family: ___", "answer": "dog", "hint": "Think of a common animal that ends in '-og.'"},
+            {"type": "multiple_choice", "question": "Which word is in the '-at' family?", "options": ["Bit", "Hot", "Mat", "Mug"], "correct": 2, "hint": "Look for a word ending in '-at.'"},
+            {"type": "true_false", "question": "'Pig' and 'big' are in the same word family.", "answer": "true", "hint": "They both end with '-ig.'"},
+            {"type": "multiple_choice", "question": "What word family does 'hen' belong to?", "options": ["-an", "-in", "-en", "-on"], "correct": 2, "hint": "'Hen' ends with '-en.'"},
+            {"type": "multiple_choice", "question": "If you can read 'sit,' which word can you also read?", "options": ["Sat", "Set", "Fit", "Sip"], "correct": 2, "hint": "'Sit' and this word are in the '-it' family."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is a sight word?", "options": ["Butterfly", "Said", "Dinosaur", "Helicopter"], "correct": 1, "hint": "Sight words are short, common words."},
+          {"type": "true_false", "question": "A sentence starts with a capital letter.", "answer": "true", "hint": "The first letter in a sentence is always big."},
+          {"type": "multiple_choice", "question": "What does fluency mean?", "options": ["Reading slowly", "Reading smoothly with expression", "Not reading at all", "Reading backwards"], "correct": 1, "hint": "Fluent reading sounds like natural talking."},
+          {"type": "multiple_choice", "question": "Which words are in the '-at' family?", "options": ["Cat, hat, bat", "Dog, log, fog", "Pin, fin, bin", "Cup, pup, up"], "correct": 0, "hint": "They all end with '-at.'"},
+          {"type": "fill_in", "question": "She ___ to the store with her mom. (went / want)", "answer": "went", "hint": "'Went' means she traveled to the store."},
+          {"type": "true_false", "question": "A question ends with a period.", "answer": "false", "hint": "Questions end with a question mark (?)."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fluent_reader"
+      }
+    },
+    {
+      "id": "1-ela-3",
+      "title": "Reading Comprehension",
+      "description": "Understand what you read by finding the main idea, details, sequence, and making predictions.",
+      "lessons": [
+        {
+          "id": "1-ela-3-1",
+          "title": "Finding the Main Idea",
+          "type": "lesson",
+          "content": {
+            "explanation": "The main idea is what a story or passage is mostly about. To find the main idea, ask yourself: 'What is the most important thing this is about?' The main idea is not a tiny detail — it covers the whole story. For example, if a story tells about a boy who plants a garden, waters it, and watches the flowers grow, the main idea is 'a boy grows a garden.'",
+            "examples": [
+              {"problem": "A story says: 'Lily loves her cat. She feeds her cat. She plays with her cat. She brushes her cat.' What is the main idea?", "answer": "Lily takes care of her cat.", "explanation": "Everything in the story is about Lily caring for her cat."},
+              {"problem": "A story says: 'Rain fell on the grass. Rain fell on the flowers. Rain fell on the trees.' What is the main idea?", "answer": "It rained on everything.", "explanation": "The whole passage is about rain falling on different things."},
+              {"problem": "Is 'She feeds her cat' the main idea of the story about Lily?", "answer": "No, it is a detail.", "explanation": "Feeding is just one thing she does. The main idea covers everything."}
+            ],
+            "key_vocabulary": ["main idea", "detail", "mostly about"],
+            "real_world": "When someone asks 'What was the movie about?' you tell them the main idea!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the main idea?", "options": ["A small detail", "What the story is mostly about", "The title", "The last sentence"], "correct": 1, "hint": "The main idea is the BIG message."},
+            {"type": "multiple_choice", "question": "A passage says: 'Dogs can be big or small. Dogs can have long or short fur. Dogs can be many colors.' The main idea is:", "options": ["Dogs have fur", "Dogs are different in many ways", "Dogs are big", "Dogs are one color"], "correct": 1, "hint": "What is the whole passage mostly about?"},
+            {"type": "true_false", "question": "The main idea is a small, specific detail.", "answer": "false", "hint": "The main idea is the BIG picture, not a tiny detail."},
+            {"type": "multiple_choice", "question": "'Sam plays soccer after school. He kicks the ball. He runs fast. He scores a goal.' The main idea is:", "options": ["Sam scores a goal", "Sam plays soccer", "Sam runs fast", "Sam kicks"], "correct": 1, "hint": "What is the whole passage about?"},
+            {"type": "true_false", "question": "The main idea covers the whole passage, not just one part.", "answer": "true", "hint": "The main idea is about EVERYTHING in the passage."},
+            {"type": "multiple_choice", "question": "'Apples are red. Bananas are yellow. Grapes are purple.' The main idea is:", "options": ["Apples are red", "Fruits come in different colors", "Bananas taste good", "Grapes are small"], "correct": 1, "hint": "All three sentences talk about what?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-3-2",
+          "title": "Finding Details",
+          "type": "lesson",
+          "content": {
+            "explanation": "Details are the small pieces of information in a story. They tell you more about the main idea. Details answer questions like: Who? What? When? Where? Why? How? For example, if the main idea is 'Sam went to the park,' details might include: Sam went with his mom (who), they played on the swings (what), and they went after school (when).",
+            "examples": [
+              {"problem": "'Anna has a red bike. She rides it every day after school.' What color is the bike?", "answer": "Red", "explanation": "'Red' is a detail that tells you more about the bike."},
+              {"problem": "'Tom ate lunch at noon. He had a sandwich and milk.' When did Tom eat?", "answer": "At noon", "explanation": "'At noon' is a detail telling WHEN he ate."},
+              {"problem": "'The dog slept under the table.' Where did the dog sleep?", "answer": "Under the table", "explanation": "'Under the table' is a detail telling WHERE the dog slept."}
+            ],
+            "key_vocabulary": ["detail", "information", "who", "what", "when", "where"],
+            "real_world": "Details help you understand the full picture, like knowing what, where, and when something happened."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are details?", "options": ["The title of a story", "Small pieces of information", "The main idea", "Pictures in a book"], "correct": 1, "hint": "Details give you more information."},
+            {"type": "multiple_choice", "question": "'The blue bird sat on a branch.' What is a detail about the bird?", "options": ["It is a bird", "It is blue", "It can fly", "It lives outside"], "correct": 1, "hint": "What specific information does the sentence tell you?"},
+            {"type": "fill_in", "question": "'Max ate pizza for dinner.' What did Max eat? ___", "answer": "pizza", "hint": "Read the sentence carefully. What food is mentioned?"},
+            {"type": "multiple_choice", "question": "Details answer which questions?", "options": ["Who, what, when, where", "Yes or no", "Maybe", "True or false"], "correct": 0, "hint": "Details tell you WHO, WHAT, WHEN, WHERE, WHY, and HOW."},
+            {"type": "true_false", "question": "In 'She ran to the store on Monday,' 'Monday' is a detail.", "answer": "true", "hint": "'Monday' is a detail that tells WHEN she ran to the store."},
+            {"type": "multiple_choice", "question": "'Mia played with her friend Zoe at the park.' Who did Mia play with?", "options": ["Her mom", "Her teacher", "Zoe", "Her sister"], "correct": 2, "hint": "Read the sentence carefully to find WHO."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-3-3",
+          "title": "Sequence of Events",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sequence means the order things happen. In a story, events happen first, next, then, and last. Understanding the sequence helps you follow the story. Look for clue words like 'first,' 'then,' 'next,' 'after,' 'finally,' and 'last.' For example: 'First, Ben woke up. Then, he ate breakfast. Next, he went to school. Finally, he came home.'",
+            "examples": [
+              {"problem": "'First, she put on her shoes. Then, she went outside.' What happened first?", "answer": "She put on her shoes.", "explanation": "The word 'first' tells you this event happened before going outside."},
+              {"problem": "'Tom ate lunch. After that, he played.' What happened after lunch?", "answer": "He played.", "explanation": "'After that' tells you playing came second."},
+              {"problem": "Put in order: brush teeth, wake up, go to school.", "answer": "Wake up, brush teeth, go to school.", "explanation": "You wake up first, then brush your teeth, then go to school."}
+            ],
+            "key_vocabulary": ["sequence", "order", "first", "then", "next", "last"],
+            "real_world": "You follow a sequence every morning: wake up, get dressed, eat breakfast, go to school!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does sequence mean?", "options": ["The colors in a story", "The order things happen", "The characters", "The ending"], "correct": 1, "hint": "Sequence is about first, next, and last."},
+            {"type": "multiple_choice", "question": "'First, Amy woke up. Then, she brushed her teeth.' What happened first?", "options": ["She brushed her teeth", "She woke up", "She ate breakfast", "She went to school"], "correct": 1, "hint": "The word 'first' tells you which event happened first."},
+            {"type": "multiple_choice", "question": "Which word is a sequence clue?", "options": ["Big", "Next", "Happy", "Blue"], "correct": 1, "hint": "Sequence words tell you the order: first, then, next, last."},
+            {"type": "true_false", "question": "'Finally' is a word that usually means the last thing that happens.", "answer": "true", "hint": "'Finally' signals the end of a sequence."},
+            {"type": "multiple_choice", "question": "What comes AFTER 'first' in a sequence?", "options": ["Last", "Before", "Next or then", "Never"], "correct": 2, "hint": "The order is: first, then/next, last."},
+            {"type": "multiple_choice", "question": "'She planted a seed. Then she watered it. Finally, a flower grew.' What happened last?", "options": ["She planted a seed", "She watered it", "A flower grew", "She went inside"], "correct": 2, "hint": "'Finally' tells you the last thing."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-3-4",
+          "title": "Making Predictions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A prediction is a guess about what will happen next in a story. You use clues from the story and what you already know to make your prediction. For example, if a story says 'Dark clouds filled the sky,' you might predict it will rain! Predictions don't have to be right — the important thing is to think about what might happen. Good readers make predictions while they read.",
+            "examples": [
+              {"problem": "'The boy put on his swim trunks and grabbed a towel.' Where is he probably going?", "answer": "To swim (pool or beach)", "explanation": "Swim trunks and a towel are clues that he is going swimming."},
+              {"problem": "'The girl studied hard for her test.' What might happen on the test?", "answer": "She might do well.", "explanation": "Studying hard is a clue that she will be prepared."},
+              {"problem": "'The cat saw a mouse and crouched down.' What might happen next?", "answer": "The cat might chase the mouse.", "explanation": "Cats chase mice, and crouching means the cat is getting ready."}
+            ],
+            "key_vocabulary": ["prediction", "guess", "clues", "what might happen"],
+            "real_world": "You make predictions every day! If you see someone yawn, you might predict they are sleepy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a prediction?", "options": ["Something that already happened", "A guess about what might happen next", "The title of a story", "A character's name"], "correct": 1, "hint": "Predictions are about the FUTURE of the story."},
+            {"type": "multiple_choice", "question": "'It started to rain. Sam did not have an umbrella.' What might happen?", "options": ["Sam will fly", "Sam will get wet", "Sam will go swimming", "It will snow"], "correct": 1, "hint": "No umbrella + rain = ?"},
+            {"type": "true_false", "question": "Predictions always have to be correct.", "answer": "false", "hint": "Predictions are guesses. They can be right or wrong."},
+            {"type": "multiple_choice", "question": "'Mom put a cake in the oven.' What will happen next?", "options": ["The cake will freeze", "The cake will bake", "The cake will disappear", "The oven will fly"], "correct": 1, "hint": "What happens when you put food in a hot oven?"},
+            {"type": "multiple_choice", "question": "What helps you make a prediction?", "options": ["Random guessing", "Clues from the story", "The page number", "The author's name"], "correct": 1, "hint": "Good predictions use information from the story."},
+            {"type": "multiple_choice", "question": "'The dog wagged its tail when it saw its owner.' The dog is probably:", "options": ["Sad", "Angry", "Happy", "Sleepy"], "correct": 2, "hint": "Dogs wag their tails when they feel this way."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "The main idea is:", "options": ["A tiny detail", "What the story is mostly about", "The first word", "The last word"], "correct": 1, "hint": "Think about the BIG picture."},
+          {"type": "multiple_choice", "question": "'The red bird sang a song in the tall tree.' What is a detail?", "options": ["A bird exists", "The bird is red", "Birds are animals", "Trees are plants"], "correct": 1, "hint": "What specific information does the sentence give you?"},
+          {"type": "multiple_choice", "question": "Which word is a sequence clue?", "options": ["Happy", "Then", "Big", "Soft"], "correct": 1, "hint": "Sequence words tell the order of events."},
+          {"type": "true_false", "question": "A prediction is a guess about what might happen next.", "answer": "true", "hint": "Predictions look forward in the story."},
+          {"type": "multiple_choice", "question": "'First she woke up. Then she ate. Finally she left.' What happened last?", "options": ["She woke up", "She ate", "She left", "She slept"], "correct": 2, "hint": "'Finally' means the last event."},
+          {"type": "multiple_choice", "question": "Details answer questions like:", "options": ["Who, what, when, where", "Yes or no only", "True or false only", "A, B, C, D"], "correct": 0, "hint": "Details give you information about who, what, when, where, why, and how."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "comprehension_champion"
+      }
+    },
+    {
+      "id": "1-ela-4",
+      "title": "Sentence Structure",
+      "description": "Learn to write complete sentences using capital letters, periods, question marks, and exclamation points.",
+      "lessons": [
+        {
+          "id": "1-ela-4-1",
+          "title": "Capital Letters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Capital letters (uppercase letters) are used in special places. Every sentence starts with a capital letter. Names of people and places always start with a capital letter. The word 'I' is always a capital letter. Days of the week (Monday, Tuesday) and months (January, February) also start with capitals. These rules help readers know where sentences begin and what words are special.",
+            "examples": [
+              {"problem": "Which word needs a capital letter? 'my friend sam lives in texas.'", "answer": "Sam and Texas", "explanation": "Sam is a person's name and Texas is a place. Both need capital letters."},
+              {"problem": "Does the word 'dog' need a capital letter?", "answer": "Not usually", "explanation": "'Dog' only needs a capital if it starts a sentence. Otherwise, it is lowercase."},
+              {"problem": "Fix this: 'i went to school on monday.'", "answer": "I went to school on Monday.", "explanation": "'I' is always capital. 'Monday' is a day of the week, so it gets a capital."}
+            ],
+            "key_vocabulary": ["capital letter", "uppercase", "names", "places"],
+            "real_world": "Look at any book — you will see capital letters at the start of every sentence and for all names!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When do you use a capital letter?", "options": ["At the end of a sentence", "At the start of a sentence", "For every word", "Never"], "correct": 1, "hint": "The first word of a sentence gets a capital letter."},
+            {"type": "multiple_choice", "question": "Which word always needs a capital letter?", "options": ["dog", "happy", "I", "run"], "correct": 2, "hint": "This word is always written in uppercase."},
+            {"type": "true_false", "question": "Names of people should start with a capital letter.", "answer": "true", "hint": "Names like Sam, Emma, and Tom all start with capitals."},
+            {"type": "multiple_choice", "question": "Which sentence is correct?", "options": ["she likes cats.", "She likes cats.", "she Likes Cats.", "she likes Cats."], "correct": 1, "hint": "Only the first word and names need capitals."},
+            {"type": "true_false", "question": "The days of the week start with a capital letter.", "answer": "true", "hint": "Monday, Tuesday, Wednesday... all start with capitals."},
+            {"type": "multiple_choice", "question": "Which word in this sentence needs a capital? 'my cat likes to play.'", "options": ["cat", "likes", "my", "play"], "correct": 2, "hint": "The first word of a sentence needs a capital."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-4-2",
+          "title": "Periods and Statements",
+          "type": "lesson",
+          "content": {
+            "explanation": "A period (.) goes at the end of a telling sentence, also called a statement. A statement tells you something. 'The dog is brown.' 'I like pizza.' 'She ran home.' These are all statements — they tell something, so they end with a period. When you read a period, you pause briefly before the next sentence.",
+            "examples": [
+              {"problem": "Is 'The sky is blue' a statement?", "answer": "Yes", "explanation": "It tells you something about the sky. It is a statement and ends with a period: 'The sky is blue.'"},
+              {"problem": "What punctuation goes at the end of 'I have a red ball'?", "answer": "A period (.)", "explanation": "This sentence tells something, so it ends with a period."},
+              {"problem": "Read this statement: 'My mom makes good soup.'", "answer": "My mom makes good soup.", "explanation": "This is a telling sentence. It ends with a period."}
+            ],
+            "key_vocabulary": ["period", "statement", "telling sentence"],
+            "real_world": "Most sentences in books, news, and letters are statements that end with periods."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What goes at the end of a statement?", "options": ["?", "!", ".", ","], "correct": 2, "hint": "A statement (telling sentence) ends with a period."},
+            {"type": "true_false", "question": "'The cat is sleeping.' is a statement.", "answer": "true", "hint": "It tells you something and ends with a period."},
+            {"type": "multiple_choice", "question": "Which is a statement?", "options": ["Is it raining?", "I love school.", "Wow!", "Help!"], "correct": 1, "hint": "A statement tells something. It does not ask or shout."},
+            {"type": "fill_in", "question": "What punctuation mark ends a telling sentence? ___", "answer": ".", "hint": "It is a small dot."},
+            {"type": "multiple_choice", "question": "How many periods are in: 'I like dogs. They are fun. I have two.'?", "options": ["1", "2", "3", "4"], "correct": 2, "hint": "Count the dots at the end of each sentence."},
+            {"type": "true_false", "question": "When you see a period, you should pause briefly.", "answer": "true", "hint": "A period is a short stop between sentences."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-4-3",
+          "title": "Question Marks and Questions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A question is a sentence that asks something. Questions end with a question mark (?). Many questions start with words like: Who, What, Where, When, Why, How, Do, Does, Is, Are, Can, Will. For example: 'What is your name?' 'Can you help me?' 'Is it raining?' When you read a question, your voice goes up at the end.",
+            "examples": [
+              {"problem": "Is 'Where is my hat' a question?", "answer": "Yes, and it needs a question mark: 'Where is my hat?'", "explanation": "It asks something and starts with 'where,' so it is a question."},
+              {"problem": "Which is a question: 'I like dogs.' or 'Do you like dogs?'", "answer": "'Do you like dogs?' is a question.", "explanation": "It asks something and ends with a question mark."},
+              {"problem": "What punctuation ends 'How old are you'?", "answer": "A question mark (?)", "explanation": "This sentence asks something, so it gets a question mark."}
+            ],
+            "key_vocabulary": ["question", "question mark", "asking sentence"],
+            "real_world": "You ask questions every day: 'Can I have a snack?' 'Where is my shoe?' 'What time is it?'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What goes at the end of a question?", "options": [".", "!", "?", ","], "correct": 2, "hint": "Questions end with this curvy mark."},
+            {"type": "multiple_choice", "question": "Which is a question?", "options": ["I like cats.", "Do you like cats?", "Cats are nice.", "I have a cat."], "correct": 1, "hint": "A question ASKS something."},
+            {"type": "true_false", "question": "Questions often start with words like Who, What, or Where.", "answer": "true", "hint": "These are common question-starting words."},
+            {"type": "multiple_choice", "question": "What punctuation does this need: 'Where do you live___'", "options": [".", "!", "?", ","], "correct": 2, "hint": "This sentence asks where someone lives."},
+            {"type": "true_false", "question": "'Can I play outside?' is a question.", "answer": "true", "hint": "It asks for permission, and ends with a question mark."},
+            {"type": "multiple_choice", "question": "When reading a question aloud, your voice should:", "options": ["Get very quiet", "Go up at the end", "Stay exactly the same", "Go very low"], "correct": 1, "hint": "Questions have a rising tone."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-4-4",
+          "title": "Writing Complete Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A complete sentence has two important parts: a subject (who or what) and a predicate (what they do). 'The cat sleeps.' — 'The cat' is the subject and 'sleeps' is the predicate. Every complete sentence must make sense on its own. 'Ran fast' is NOT a complete sentence because we don't know WHO ran fast. 'The girl ran fast' IS a complete sentence.",
+            "examples": [
+              {"problem": "Is 'The dog barks.' a complete sentence?", "answer": "Yes", "explanation": "It has a subject (the dog) and a predicate (barks). It makes sense."},
+              {"problem": "Is 'Under the bed.' a complete sentence?", "answer": "No", "explanation": "It does not tell us WHO or WHAT is under the bed, and there is no action."},
+              {"problem": "Fix this to make a complete sentence: 'Jumped high.'", "answer": "The frog jumped high.", "explanation": "We added a subject (the frog) to tell WHO jumped high."}
+            ],
+            "key_vocabulary": ["complete sentence", "subject", "predicate"],
+            "real_world": "When you write notes, stories, or messages, use complete sentences so people understand you!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A complete sentence needs:", "options": ["Just a period", "A subject and a predicate", "Only big words", "Three words exactly"], "correct": 1, "hint": "You need WHO (subject) and WHAT THEY DO (predicate)."},
+            {"type": "multiple_choice", "question": "Which is a complete sentence?", "options": ["The big red.", "Runs fast.", "My cat sleeps.", "Under the."], "correct": 2, "hint": "A complete sentence tells WHO and WHAT THEY DO."},
+            {"type": "true_false", "question": "'Likes ice cream.' is a complete sentence.", "answer": "false", "hint": "Who likes ice cream? There is no subject."},
+            {"type": "multiple_choice", "question": "What is the subject in 'The bird sings.'?", "options": ["sings", "The bird", "bird sings", "The"], "correct": 1, "hint": "The subject is WHO or WHAT the sentence is about."},
+            {"type": "true_false", "question": "'She reads books.' is a complete sentence.", "answer": "true", "hint": "'She' is the subject and 'reads books' is the predicate."},
+            {"type": "multiple_choice", "question": "What is missing in 'Ate lunch at school.'?", "options": ["A period", "A subject (who)", "An exclamation point", "Nothing"], "correct": 1, "hint": "WHO ate lunch at school? We need a subject."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which sentence has correct capitalization?", "options": ["my dog is Big.", "My Dog Is Big.", "My dog is big.", "my dog is big."], "correct": 2, "hint": "Only the first word needs a capital letter (unless a word is a name)."},
+          {"type": "multiple_choice", "question": "What goes at the end of 'Where is the ball'?", "options": [".", "!", "?", ","], "correct": 2, "hint": "This is a question, so it gets a..."},
+          {"type": "true_false", "question": "A statement ends with a period.", "answer": "true", "hint": "Telling sentences end with periods."},
+          {"type": "multiple_choice", "question": "Which is a complete sentence?", "options": ["The big dog.", "Ran to the park.", "She likes apples.", "Under the table."], "correct": 2, "hint": "It needs a subject AND a predicate."},
+          {"type": "multiple_choice", "question": "What is the subject in 'The boy runs fast.'?", "options": ["runs", "fast", "The boy", "runs fast"], "correct": 2, "hint": "The subject is WHO the sentence is about."},
+          {"type": "true_false", "question": "The word 'I' is always written as a capital letter.", "answer": "true", "hint": "We always write 'I' in uppercase."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "sentence_builder"
+      }
+    },
+    {
+      "id": "1-ela-5",
+      "title": "Types of Writing",
+      "description": "Explore three types of writing: narrative (stories), informative (facts), and opinion (what you think).",
+      "lessons": [
+        {
+          "id": "1-ela-5-1",
+          "title": "Narrative Writing: Telling a Story",
+          "type": "lesson",
+          "content": {
+            "explanation": "Narrative writing tells a story. It can be a true story about something that happened to you, or a made-up story from your imagination. A good narrative has characters (who), a setting (where and when), and events (what happened). It should have a beginning, a middle, and an end. Use time words like 'first,' 'then,' 'next,' and 'finally' to keep your story in order.",
+            "examples": [
+              {"problem": "Write a short narrative about going to the park.", "answer": "First, I walked to the park. Then, I played on the swings. Finally, I went home.", "explanation": "This short story has a beginning (walking), a middle (playing), and an end (going home)."},
+              {"problem": "What makes a good narrative?", "answer": "Characters, setting, events in order", "explanation": "A good story tells who, where, and what happened."},
+              {"problem": "Should a story have a beginning, middle, and end?", "answer": "Yes!", "explanation": "Every story needs all three parts so the reader can follow along."}
+            ],
+            "key_vocabulary": ["narrative", "story", "characters", "setting", "events"],
+            "real_world": "When you tell your family about your day at school, you are doing narrative writing out loud!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is narrative writing?", "options": ["Writing a list", "Telling a story", "Writing numbers", "Drawing a picture"], "correct": 1, "hint": "Narrative means story."},
+            {"type": "multiple_choice", "question": "A narrative should include:", "options": ["Only numbers", "Characters, setting, and events", "Just one word", "Only questions"], "correct": 1, "hint": "Stories need people/animals, a place, and things that happen."},
+            {"type": "true_false", "question": "A narrative can be a true story about your life.", "answer": "true", "hint": "You can write about things that really happened to you."},
+            {"type": "multiple_choice", "question": "Which time word helps put a story in order?", "options": ["Big", "Then", "Happy", "Blue"], "correct": 1, "hint": "Time words tell the order: first, then, next, finally."},
+            {"type": "multiple_choice", "question": "Which is a good beginning for a narrative?", "options": ["The end.", "Once upon a time, there was a little rabbit.", "Because.", "5 + 3 = 8"], "correct": 1, "hint": "A good beginning introduces the characters and setting."},
+            {"type": "true_false", "question": "A story only needs a beginning and nothing else.", "answer": "false", "hint": "Stories need a beginning, middle, AND end."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-5-2",
+          "title": "Informative Writing: Sharing Facts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Informative writing teaches the reader something. It shares facts and information about a topic. When you write to inform, you tell true things you know about a subject. For example, you might write about dogs: 'Dogs are pets. They have four legs. They like to play and run. Dogs eat dog food.' Informative writing answers questions the reader might have about a topic.",
+            "examples": [
+              {"problem": "Write an informative sentence about cats.", "answer": "Cats have soft fur and like to sleep a lot.", "explanation": "This sentence shares true facts about cats."},
+              {"problem": "Is 'I think dogs are the best' informative?", "answer": "No, it is an opinion.", "explanation": "Informative writing shares facts, not personal feelings. 'Dogs have four legs' is a fact."},
+              {"problem": "What is informative writing?", "answer": "Writing that teaches the reader true facts", "explanation": "Informative writing is all about sharing facts and information."}
+            ],
+            "key_vocabulary": ["informative", "facts", "topic", "information"],
+            "real_world": "Textbooks, signs at the zoo, and science posters are all informative writing!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does informative writing do?", "options": ["Tells a story", "Shares facts", "Gives opinions", "Sings a song"], "correct": 1, "hint": "Informative writing teaches you something."},
+            {"type": "multiple_choice", "question": "Which is an informative sentence?", "options": ["I love puppies!", "Puppies are so cute!", "Puppies are young dogs.", "Puppies are the best!"], "correct": 2, "hint": "Which sentence shares a fact (not an opinion)?"},
+            {"type": "true_false", "question": "Informative writing shares true facts.", "answer": "true", "hint": "Facts are things that are true and can be proven."},
+            {"type": "multiple_choice", "question": "Which is a FACT about fish?", "options": ["Fish are the best pets", "I like fish", "Fish live in water", "Fish are boring"], "correct": 2, "hint": "A fact is true and can be proven."},
+            {"type": "true_false", "question": "'Pizza is the best food ever' is informative writing.", "answer": "false", "hint": "That is an opinion, not a fact."},
+            {"type": "multiple_choice", "question": "Where might you find informative writing?", "options": ["A fairy tale", "A textbook", "A dream", "A song"], "correct": 1, "hint": "Textbooks are full of facts and information."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-5-3",
+          "title": "Opinion Writing: Sharing What You Think",
+          "type": "lesson",
+          "content": {
+            "explanation": "Opinion writing tells the reader what YOU think or feel about something. An opinion is your own idea — not everyone has to agree. When you write an opinion, state what you think and give a reason why. For example: 'I think recess is the best part of school because I get to play with my friends.' Use words like 'I think,' 'I believe,' 'I like,' 'my favorite,' and 'in my opinion.'",
+            "examples": [
+              {"problem": "Write an opinion about your favorite animal.", "answer": "I think dogs are the best pets because they are loyal and fun.", "explanation": "This states an opinion ('I think dogs are the best') and gives a reason ('they are loyal and fun')."},
+              {"problem": "Is 'Dogs have four legs' an opinion?", "answer": "No, it is a fact.", "explanation": "An opinion is what you think. A fact is something that is true for everyone."},
+              {"problem": "What words show an opinion?", "answer": "'I think,' 'I believe,' 'my favorite'", "explanation": "These words signal that what follows is a personal opinion."}
+            ],
+            "key_vocabulary": ["opinion", "reason", "I think", "because"],
+            "real_world": "You share opinions when you say 'That game is fun!' or 'I like chocolate ice cream best!'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an opinion?", "options": ["A true fact", "What you think or feel", "A question", "A number"], "correct": 1, "hint": "An opinion is YOUR personal thought."},
+            {"type": "multiple_choice", "question": "Which is an opinion?", "options": ["The sun is hot.", "Water is wet.", "Pizza is the best food.", "Fish live in water."], "correct": 2, "hint": "An opinion is something not everyone would agree with."},
+            {"type": "true_false", "question": "Everyone must agree with your opinion.", "answer": "false", "hint": "Opinions are personal. People can think differently."},
+            {"type": "multiple_choice", "question": "Which word shows an opinion?", "options": ["The", "Is", "I think", "And"], "correct": 2, "hint": "'I think' signals a personal belief."},
+            {"type": "fill_in", "question": "In opinion writing, you state your opinion and give a ___.", "answer": "reason", "hint": "You explain WHY you think that way."},
+            {"type": "multiple_choice", "question": "Which is an opinion?", "options": ["There are 7 days in a week.", "The sky is blue.", "Summer is the best season.", "Dogs are animals."], "correct": 2, "hint": "Not everyone would agree that summer is the best."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-5-4",
+          "title": "Choosing the Right Type of Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now you know three types of writing: narrative (tells a story), informative (shares facts), and opinion (shares what you think). How do you choose which type to use? If someone asks you to write about your weekend — that's narrative. If someone asks you to write about how plants grow — that's informative. If someone asks you what your favorite book is and why — that's opinion. Think about your PURPOSE (why you are writing) to choose the right type.",
+            "examples": [
+              {"problem": "You want to write about what you did on your birthday. What type of writing?", "answer": "Narrative", "explanation": "You are telling the story of your birthday, so it is a narrative."},
+              {"problem": "You want to teach your class about penguins. What type of writing?", "answer": "Informative", "explanation": "You are sharing facts about penguins, so it is informative."},
+              {"problem": "You want to tell everyone why chocolate is the best ice cream flavor. What type?", "answer": "Opinion", "explanation": "You are sharing what you think and giving reasons, so it is an opinion."}
+            ],
+            "key_vocabulary": ["narrative", "informative", "opinion", "purpose"],
+            "real_world": "Writers choose the type of writing based on what they want to accomplish."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "If you write about your trip to the zoo, that is:", "options": ["Opinion writing", "Informative writing", "Narrative writing", "None of these"], "correct": 2, "hint": "You are telling the story of your trip."},
+            {"type": "multiple_choice", "question": "If you write facts about the ocean, that is:", "options": ["Narrative writing", "Informative writing", "Opinion writing", "Poetry"], "correct": 1, "hint": "You are sharing facts and information."},
+            {"type": "multiple_choice", "question": "If you write about why cats are the best pets, that is:", "options": ["Narrative writing", "Informative writing", "Opinion writing", "A list"], "correct": 2, "hint": "You are sharing what you think."},
+            {"type": "true_false", "question": "Your purpose for writing helps you choose the type.", "answer": "true", "hint": "Why you write determines what type to use."},
+            {"type": "multiple_choice", "question": "Which type of writing tells a story?", "options": ["Informative", "Opinion", "Narrative", "All of them"], "correct": 2, "hint": "Narrative means story."},
+            {"type": "multiple_choice", "question": "'Butterflies have four wings and drink nectar from flowers.' This is:", "options": ["Narrative writing", "Informative writing", "Opinion writing", "A question"], "correct": 1, "hint": "These are facts about butterflies."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What type of writing tells a story?", "options": ["Informative", "Opinion", "Narrative", "List"], "correct": 2, "hint": "Narrative = story."},
+          {"type": "multiple_choice", "question": "What type of writing shares facts?", "options": ["Narrative", "Informative", "Opinion", "Poetry"], "correct": 1, "hint": "Informative writing teaches the reader."},
+          {"type": "true_false", "question": "'I think pizza is the best food' is an opinion.", "answer": "true", "hint": "Not everyone would agree."},
+          {"type": "multiple_choice", "question": "Which is a FACT?", "options": ["Dogs are the best", "I love dogs", "Dogs have tails", "Dogs are boring"], "correct": 2, "hint": "A fact is true and provable."},
+          {"type": "multiple_choice", "question": "Writing about your vacation is what type?", "options": ["Informative", "Narrative", "Opinion", "None"], "correct": 1, "hint": "You are telling the story of your vacation."},
+          {"type": "multiple_choice", "question": "Opinion writing uses words like:", "options": ["The, a, is", "I think, I believe, my favorite", "First, then, last", "Who, what, where"], "correct": 1, "hint": "These words show personal thoughts."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "writing_explorer"
+      }
+    },
+    {
+      "id": "1-ela-6",
+      "title": "Grammar Basics",
+      "description": "Learn about nouns, verbs, and adjectives — the building blocks of sentences.",
+      "lessons": [
+        {
+          "id": "1-ela-6-1",
+          "title": "Nouns: People, Places, and Things",
+          "type": "lesson",
+          "content": {
+            "explanation": "A noun is a word that names a person, place, or thing. People nouns: girl, boy, teacher, mom. Place nouns: school, park, home, store. Thing nouns: ball, book, cat, tree. Nouns are everywhere! In the sentence 'The dog played in the park,' the nouns are 'dog' (a thing) and 'park' (a place). When you read a sentence, look for the naming words — those are the nouns.",
+            "examples": [
+              {"problem": "What are the nouns in 'The boy kicked the ball'?", "answer": "boy, ball", "explanation": "'Boy' is a person and 'ball' is a thing. Both are nouns."},
+              {"problem": "Is 'school' a noun?", "answer": "Yes", "explanation": "'School' is a place, so it is a noun."},
+              {"problem": "Is 'run' a noun?", "answer": "No", "explanation": "'Run' is an action (a verb), not a person, place, or thing."}
+            ],
+            "key_vocabulary": ["noun", "person", "place", "thing"],
+            "real_world": "Everything around you has a name: desk, window, teacher, playground — these are all nouns!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a noun?", "options": ["An action word", "A describing word", "A person, place, or thing", "A question"], "correct": 2, "hint": "Nouns NAME people, places, or things."},
+            {"type": "multiple_choice", "question": "Which word is a noun?", "options": ["Run", "Cat", "Fast", "Happy"], "correct": 1, "hint": "A noun is a person, place, or thing."},
+            {"type": "true_false", "question": "'Park' is a noun because it is a place.", "answer": "true", "hint": "Places are nouns."},
+            {"type": "multiple_choice", "question": "Which word is a person noun?", "options": ["Table", "Teacher", "Tree", "Tall"], "correct": 1, "hint": "A person noun names a person."},
+            {"type": "multiple_choice", "question": "What are the nouns in 'Mom went to the store'?", "options": ["went, to", "Mom, store", "the, to", "went, store"], "correct": 1, "hint": "Find the person and the place."},
+            {"type": "true_false", "question": "'Jump' is a noun.", "answer": "false", "hint": "'Jump' is an action, not a person, place, or thing."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-6-2",
+          "title": "Verbs: Action Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "A verb is a word that shows action or being. Action verbs tell what someone DOES: run, jump, eat, read, sing, play, write. Being verbs tell what someone IS: is, am, are, was, were. In the sentence 'The girl reads a book,' 'reads' is the verb because it tells what the girl DOES. Every sentence needs a verb!",
+            "examples": [
+              {"problem": "What is the verb in 'The cat sleeps on the bed'?", "answer": "sleeps", "explanation": "'Sleeps' tells what the cat does."},
+              {"problem": "What is the verb in 'I am happy'?", "answer": "am", "explanation": "'Am' is a being verb. It tells what 'I' am."},
+              {"problem": "Is 'jump' a verb?", "answer": "Yes", "explanation": "'Jump' is an action — it tells what someone does."}
+            ],
+            "key_vocabulary": ["verb", "action word", "action", "being"],
+            "real_world": "Every time you DO something, you are doing a verb: eating, sleeping, reading, playing!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a verb?", "options": ["A person", "A place", "An action word", "A number"], "correct": 2, "hint": "Verbs show action or being."},
+            {"type": "multiple_choice", "question": "Which word is a verb?", "options": ["Dog", "Big", "Run", "Red"], "correct": 2, "hint": "A verb tells what someone does."},
+            {"type": "fill_in", "question": "What is the verb in 'She sings a song'? ___", "answer": "sings", "hint": "What does she DO?"},
+            {"type": "true_false", "question": "'Is' can be a verb.", "answer": "true", "hint": "'Is' is a being verb: 'She is nice.'"},
+            {"type": "multiple_choice", "question": "Which sentence has the verb 'eats'?", "options": ["The big cat.", "She eats lunch.", "A nice day.", "The red ball."], "correct": 1, "hint": "Find the sentence with the action of eating."},
+            {"type": "multiple_choice", "question": "What does the verb in a sentence tell you?", "options": ["The name of a person", "What someone does", "The color of something", "Where something is"], "correct": 1, "hint": "Verbs show action — what someone does or is."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-6-3",
+          "title": "Adjectives: Describing Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "An adjective is a word that describes a noun. It tells you more about a person, place, or thing. Adjectives answer questions like: What kind? How many? What color? What size? In 'The big red ball,' the adjectives are 'big' (size) and 'red' (color). They describe the noun 'ball.' Adjectives make your writing more interesting and help the reader picture what you are talking about.",
+            "examples": [
+              {"problem": "What are the adjectives in 'The small fluffy kitten'?", "answer": "small, fluffy", "explanation": "'Small' tells the size and 'fluffy' tells what kind. Both describe the kitten."},
+              {"problem": "Is 'tall' an adjective?", "answer": "Yes", "explanation": "'Tall' describes a noun — it tells the size."},
+              {"problem": "Add an adjective: 'The ___ dog ran.'", "answer": "Any describing word works: big, fast, brown, happy, etc.", "explanation": "An adjective describes the dog and makes the sentence more interesting."}
+            ],
+            "key_vocabulary": ["adjective", "describing word", "describe"],
+            "real_world": "You use adjectives all the time: 'I want the BIG cookie' or 'Look at the PRETTY flower!'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an adjective?", "options": ["An action word", "A naming word", "A describing word", "A question word"], "correct": 2, "hint": "Adjectives describe nouns."},
+            {"type": "multiple_choice", "question": "Which word is an adjective?", "options": ["Run", "Cat", "Blue", "And"], "correct": 2, "hint": "An adjective describes something. 'Blue' describes a color."},
+            {"type": "multiple_choice", "question": "What is the adjective in 'She has a soft blanket'?", "options": ["She", "has", "soft", "blanket"], "correct": 2, "hint": "Which word describes the blanket?"},
+            {"type": "true_false", "question": "'Tall' is an adjective because it describes size.", "answer": "true", "hint": "Adjectives tell about size, color, shape, or kind."},
+            {"type": "fill_in", "question": "In 'The cold water,' the adjective is: ___", "answer": "cold", "hint": "Which word describes the water?"},
+            {"type": "multiple_choice", "question": "Which sentence has an adjective?", "options": ["She ran.", "The big dog barked.", "He went home.", "They left."], "correct": 1, "hint": "Look for a word that describes a noun."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-ela-6-4",
+          "title": "Putting It All Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now you know three parts of speech: nouns (people, places, things), verbs (action words), and adjectives (describing words). Let's practice finding them all in sentences. In the sentence 'The happy girl reads a long book,' the nouns are 'girl' and 'book,' the verb is 'reads,' and the adjectives are 'happy' and 'long.' Each word has a job in the sentence!",
+            "examples": [
+              {"problem": "Find the noun, verb, and adjective in 'The fast car zooms.'", "answer": "Noun: car, Verb: zooms, Adjective: fast", "explanation": "'Car' is the thing, 'zooms' is what it does, and 'fast' describes the car."},
+              {"problem": "Find the parts of speech in 'A big dog runs.'", "answer": "Noun: dog, Verb: runs, Adjective: big", "explanation": "'Dog' is the noun, 'runs' is the verb, and 'big' is the adjective."},
+              {"problem": "In 'The tiny bird sings,' what is the adjective?", "answer": "tiny", "explanation": "'Tiny' describes the bird — it tells the bird's size."}
+            ],
+            "key_vocabulary": ["noun", "verb", "adjective", "parts of speech"],
+            "real_world": "Every sentence you read or write uses nouns, verbs, and adjectives working together!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In 'The tall tree grows,' which is the noun?", "options": ["tall", "tree", "grows", "the"], "correct": 1, "hint": "The noun is the person, place, or thing."},
+            {"type": "multiple_choice", "question": "In 'The tall tree grows,' which is the verb?", "options": ["tall", "tree", "grows", "the"], "correct": 2, "hint": "The verb tells what something does."},
+            {"type": "multiple_choice", "question": "In 'The tall tree grows,' which is the adjective?", "options": ["tall", "tree", "grows", "the"], "correct": 0, "hint": "The adjective describes the noun."},
+            {"type": "multiple_choice", "question": "What are the THREE parts of speech we learned?", "options": ["Nouns, verbs, adjectives", "Nouns, numbers, letters", "Verbs, vowels, consonants", "Adjectives, blends, digraphs"], "correct": 0, "hint": "We learned about naming words, action words, and describing words."},
+            {"type": "fill_in", "question": "In 'The cute puppy sleeps,' the adjective is: ___", "answer": "cute", "hint": "Which word describes the puppy?"},
+            {"type": "true_false", "question": "In 'She eats a green apple,' 'green' is the adjective.", "answer": "true", "hint": "'Green' describes the color of the apple."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A noun is:", "options": ["An action word", "A person, place, or thing", "A describing word", "A number"], "correct": 1, "hint": "Nouns name things."},
+          {"type": "multiple_choice", "question": "A verb is:", "options": ["A naming word", "An action or being word", "A describing word", "A place"], "correct": 1, "hint": "Verbs show action or being."},
+          {"type": "multiple_choice", "question": "An adjective is:", "options": ["An action word", "A naming word", "A describing word", "A question word"], "correct": 2, "hint": "Adjectives describe nouns."},
+          {"type": "multiple_choice", "question": "What is the verb in 'The cat climbs the tree'?", "options": ["cat", "climbs", "the", "tree"], "correct": 1, "hint": "What does the cat DO?"},
+          {"type": "fill_in", "question": "In 'The round ball bounces,' the adjective is: ___", "answer": "round", "hint": "Which word describes the ball?"},
+          {"type": "true_false", "question": "'Book' is a verb.", "answer": "false", "hint": "'Book' is a thing — it is a noun."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_genius"
+      }
+    }
+  ]
+}

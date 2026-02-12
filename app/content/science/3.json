@@ -1,0 +1,832 @@
+{
+  "grade": 3,
+  "subject": "science",
+  "units": [
+    {
+      "id": "3-sci-1",
+      "title": "Ecosystems & Habitats",
+      "description": "Explore how living things interact with each other and their environment in different habitats around the world.",
+      "lessons": [
+        {
+          "id": "3-sci-1-1",
+          "title": "What Is an Ecosystem?",
+          "type": "lesson",
+          "content": {
+            "explanation": "An ecosystem is a community of living things (plants, animals, insects, and microorganisms) that interact with each other and their non-living environment (water, soil, sunlight, air, and temperature). Think of it like a neighborhood where everyone depends on each other. In a pond ecosystem, fish eat insects, frogs eat flies, and plants make oxygen that the animals breathe. Every part of an ecosystem has an important job. If one part changes, it can affect everything else. For example, if all the plants in a pond died, the animals that eat plants would have no food, and the animals that eat those animals would also go hungry.",
+            "examples": [
+              {"problem": "What are the living parts of a forest ecosystem?", "answer": "Trees, birds, squirrels, insects, mushrooms, deer, and other plants and animals.", "explanation": "Living things in an ecosystem are called biotic factors. They include all plants, animals, fungi, and tiny organisms."},
+              {"problem": "What are the non-living parts of a forest ecosystem?", "answer": "Sunlight, water, soil, air, rocks, and temperature.", "explanation": "Non-living things in an ecosystem are called abiotic factors. They provide the conditions that living things need to survive."}
+            ],
+            "key_vocabulary": ["ecosystem", "habitat", "biotic", "abiotic", "community", "environment"],
+            "real_world": "Your backyard is a small ecosystem! The grass, flowers, insects, birds, worms, soil, water, and sunlight all work together as a system."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an ecosystem?", "options": ["A type of animal", "A community of living and non-living things interacting together", "Only the plants in an area", "A kind of weather"], "correct": 1, "hint": "Think about how living and non-living things work together in a place."},
+            {"type": "true_false", "question": "Sunlight is a living part of an ecosystem.", "answer": false, "hint": "Is sunlight alive? Can it grow, eat, or reproduce?"},
+            {"type": "multiple_choice", "question": "Which of these is a biotic (living) factor in an ecosystem?", "options": ["Rock", "Water", "Mushroom", "Sunlight"], "correct": 2, "hint": "Biotic means living. Which one of these is alive?"},
+            {"type": "fill_in", "question": "Non-living things in an ecosystem are called ___ factors.", "answer": "abiotic", "hint": "The prefix 'a-' means 'not,' so 'a-biotic' means 'not living.'"},
+            {"type": "true_false", "question": "If one part of an ecosystem changes, it can affect the other parts.", "answer": true, "hint": "Think about what happens if all the plants disappear from a pond."},
+            {"type": "multiple_choice", "question": "Which is an example of an ecosystem?", "options": ["A single fish", "A pond with fish, plants, water, and insects", "A rock", "A raindrop"], "correct": 1, "hint": "An ecosystem includes many living and non-living things working together."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-1-2",
+          "title": "Types of Habitats",
+          "type": "lesson",
+          "content": {
+            "explanation": "A habitat is the natural home or environment where a plant or animal lives. Different habitats provide different conditions like temperature, water, food, and shelter. There are many types of habitats on Earth, including forests, deserts, oceans, grasslands, wetlands, and tundra. Each habitat has special conditions that certain plants and animals have adapted to live in. A cactus is perfectly suited for a hot, dry desert, but it would not survive in a cold tundra. A polar bear needs cold, icy conditions and would overheat in a tropical forest. Animals and plants have special features called adaptations that help them survive in their specific habitat.",
+            "examples": [
+              {"problem": "Why can a camel survive in the desert?", "answer": "Camels have humps that store fat for energy, wide feet for walking on sand, and can go a long time without water.", "explanation": "These are adaptations — special features that help camels survive in their hot, dry desert habitat."},
+              {"problem": "Name three different habitats.", "answer": "Forest, ocean, and desert.", "explanation": "Each habitat has different temperatures, amounts of water, and types of food available for plants and animals."}
+            ],
+            "key_vocabulary": ["habitat", "adaptation", "desert", "forest", "ocean", "grassland", "tundra", "wetland"],
+            "real_world": "Even in your town, there are small habitats — a bird's nest in a tree, a worm's burrow in the soil, or a spider's web in a corner of your house!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a habitat?", "options": ["A type of food", "The natural home where an organism lives", "A kind of weather", "An animal's favorite toy"], "correct": 1, "hint": "Think about where an animal naturally lives and finds everything it needs."},
+            {"type": "fill_in", "question": "A polar bear lives in a cold, icy habitat called the ___.", "answer": "tundra", "hint": "This habitat is very cold with ice and snow and is found near the North and South Poles."},
+            {"type": "true_false", "question": "A cactus would grow well in a wetland habitat.", "answer": false, "hint": "Cacti are adapted for dry conditions. Would they like a lot of water?"},
+            {"type": "multiple_choice", "question": "Which animal is best adapted to live in the ocean?", "options": ["Eagle", "Dolphin", "Squirrel", "Horse"], "correct": 1, "hint": "Which of these animals can breathe underwater and swim very well?"},
+            {"type": "multiple_choice", "question": "Special features that help animals survive in their habitat are called:", "options": ["Habitats", "Ecosystems", "Adaptations", "Communities"], "correct": 2, "hint": "These features help animals fit into and survive in their environment."},
+            {"type": "true_false", "question": "All habitats have the same amount of water and sunlight.", "answer": false, "hint": "Compare a desert to a rainforest. Do they get the same amount of rain?"},
+            {"type": "fill_in", "question": "A ___ is a hot, dry habitat that gets very little rain.", "answer": "desert", "hint": "Think of a place with lots of sand, cacti, and camels."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-1-3",
+          "title": "Food Chains",
+          "type": "lesson",
+          "content": {
+            "explanation": "A food chain shows how energy passes from one living thing to another through food. Every food chain starts with the sun, which provides energy for plants. Plants use sunlight to make their own food through a process called photosynthesis, so they are called producers. Animals that eat plants are called herbivores or primary consumers. Animals that eat other animals are called carnivores or secondary consumers. Animals that eat both plants and animals are called omnivores. When living things die, decomposers like mushrooms and bacteria break them down and return nutrients to the soil. An example of a simple food chain is: sun → grass → rabbit → fox.",
+            "examples": [
+              {"problem": "In the food chain: sun → corn → mouse → owl, what is the producer?", "answer": "Corn is the producer.", "explanation": "Corn is a plant that uses sunlight to make its own food. Producers are always plants or algae at the start of a food chain."},
+              {"problem": "What role does a rabbit play in a food chain?", "answer": "A rabbit is a primary consumer (herbivore).", "explanation": "Rabbits eat plants like grass and clover, making them herbivores and primary consumers in the food chain."}
+            ],
+            "key_vocabulary": ["food chain", "producer", "consumer", "herbivore", "carnivore", "omnivore", "decomposer", "photosynthesis"],
+            "real_world": "When you eat a salad, you are a primary consumer eating producers (lettuce, tomatoes). When you eat a chicken sandwich, you are a secondary consumer eating a consumer (chicken) that ate producers (grain)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is always at the beginning of a food chain?", "options": ["A big animal", "The sun and a producer (plant)", "A carnivore", "A decomposer"], "correct": 1, "hint": "Food chains always start with the energy source and the organisms that make their own food."},
+            {"type": "fill_in", "question": "An animal that eats only plants is called a ___.", "answer": "herbivore", "hint": "Think: 'herb' relates to plants."},
+            {"type": "true_false", "question": "A fox that eats rabbits is a producer.", "answer": false, "hint": "Producers make their own food. Does a fox make its own food or eat other animals?"},
+            {"type": "multiple_choice", "question": "In the food chain grass → grasshopper → frog → snake, what is the secondary consumer?", "options": ["Grass", "Grasshopper", "Frog", "Snake"], "correct": 2, "hint": "The primary consumer eats the producer. The secondary consumer eats the primary consumer."},
+            {"type": "multiple_choice", "question": "What do decomposers do?", "options": ["Hunt other animals", "Make food from sunlight", "Break down dead organisms and return nutrients to the soil", "Fly through the air"], "correct": 2, "hint": "Think about what happens to a fallen leaf on the forest floor over time."},
+            {"type": "true_false", "question": "Plants are called producers because they produce (make) their own food using sunlight.", "answer": true, "hint": "Plants use a process called photosynthesis to convert sunlight into food."},
+            {"type": "fill_in", "question": "An animal that eats both plants and animals is called an ___.", "answer": "omnivore", "hint": "The prefix 'omni-' means 'all.' This type of animal eats all kinds of food."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-1-4",
+          "title": "How Living Things Depend on Each Other",
+          "type": "lesson",
+          "content": {
+            "explanation": "In an ecosystem, living things depend on each other in many ways. Some animals depend on plants for food and shelter. Bees depend on flowers for nectar, and flowers depend on bees for pollination (spreading pollen so new plants can grow). This is called a symbiotic relationship — both organisms benefit. Some animals depend on other animals. Birds called oxpeckers sit on the backs of buffalo and eat ticks and bugs off their skin. The oxpecker gets food, and the buffalo gets cleaned! When one species in an ecosystem disappears, it creates a chain reaction. If all the bees disappeared, many plants could not reproduce, which would mean less food for herbivores, and then less food for carnivores too.",
+            "examples": [
+              {"problem": "How do bees and flowers help each other?", "answer": "Bees get nectar from flowers for food, and they spread pollen between flowers which helps plants reproduce.", "explanation": "This is a win-win relationship where both living things benefit from each other."},
+              {"problem": "What might happen if all the frogs in a pond ecosystem disappeared?", "answer": "The insect population would grow because frogs eat insects. More insects might eat more plants. Animals that eat frogs, like snakes, would lose a food source.", "explanation": "Removing one species from an ecosystem affects many other species because everything is connected."}
+            ],
+            "key_vocabulary": ["depend", "symbiosis", "pollination", "predator", "prey", "balance", "species"],
+            "real_world": "Farmers often put beehives near their crops because bees help pollinate the plants, which makes the crops produce more fruit and vegetables."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is pollination?", "options": ["When animals eat plants", "When pollen is moved from one flower to another to help plants reproduce", "When rain falls on flowers", "When leaves change color"], "correct": 1, "hint": "This process involves spreading something that helps flowers make seeds."},
+            {"type": "true_false", "question": "If one species disappears from an ecosystem, it does not affect any other species.", "answer": false, "hint": "Think about what happens to the food chain when one link is removed."},
+            {"type": "fill_in", "question": "A relationship where two different species help each other is called ___.", "answer": "symbiosis", "hint": "The prefix 'sym-' means 'together.' These organisms live and work together."},
+            {"type": "multiple_choice", "question": "Which of these is an example of two organisms depending on each other?", "options": ["A rock sitting in a field", "Bees collecting nectar and spreading pollen for flowers", "Rain falling from clouds", "Wind blowing through trees"], "correct": 1, "hint": "Look for the answer where two living things are helping each other."},
+            {"type": "true_false", "question": "Bees help flowers by spreading pollen.", "answer": true, "hint": "When bees visit flowers for nectar, pollen sticks to their bodies and gets carried to other flowers."},
+            {"type": "multiple_choice", "question": "What would most likely happen if all the wolves were removed from a forest ecosystem?", "options": ["Nothing would change", "The deer population would grow very large because nothing hunts them", "The trees would fall down", "It would start raining more"], "correct": 1, "hint": "Wolves are predators that eat deer. Without predators, what happens to the prey population?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-1-5",
+          "title": "Protecting Ecosystems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ecosystems around the world are being damaged by human activities. Pollution from factories and cars can poison water and air, harming plants and animals. Cutting down forests (deforestation) destroys the habitat of countless species. Littering can injure or kill animals who eat or get tangled in trash. Climate change is making some habitats too warm or too dry for the species living there. But there is good news — people can help protect ecosystems! We can reduce, reuse, and recycle to create less waste. We can plant trees and create gardens to provide habitats. National parks and wildlife reserves protect large areas of natural habitat. Even small actions like picking up litter, using less water, and learning about local wildlife can make a big difference.",
+            "examples": [
+              {"problem": "How does littering hurt ecosystems?", "answer": "Animals can eat litter and get sick, get tangled in plastic, and trash can pollute water sources.", "explanation": "Every piece of litter in nature can potentially harm wildlife. Plastic bags in the ocean look like jellyfish to sea turtles, who eat them and get sick."},
+              {"problem": "Name two ways you can help protect an ecosystem.", "answer": "Pick up litter and plant native flowers or trees.", "explanation": "Picking up litter keeps animals safe, and planting native plants provides food and shelter for local wildlife like birds and butterflies."}
+            ],
+            "key_vocabulary": ["pollution", "deforestation", "conservation", "recycle", "endangered", "habitat loss", "wildlife reserve"],
+            "real_world": "Many schools have started gardens to help local pollinators like bees and butterflies. Even a small garden with native flowers can provide an important habitat for these helpful insects."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is deforestation?", "options": ["Planting new trees", "Cutting down large areas of forest", "Animals moving to new habitats", "Rain falling in the forest"], "correct": 1, "hint": "The prefix 'de-' means to remove. What is being removed?"},
+            {"type": "true_false", "question": "Recycling helps protect ecosystems by reducing waste.", "answer": true, "hint": "When we recycle, less trash ends up in landfills or in nature where it could harm animals."},
+            {"type": "fill_in", "question": "Animals that are in danger of disappearing forever are called ___ species.", "answer": "endangered", "hint": "This word means 'in danger.' These animals need our help to survive."},
+            {"type": "multiple_choice", "question": "Which human activity can harm ecosystems?", "options": ["Planting trees", "Building wildlife reserves", "Dumping chemicals in rivers", "Recycling plastic"], "correct": 2, "hint": "Which action puts something harmful into the environment?"},
+            {"type": "true_false", "question": "National parks help protect ecosystems by keeping large natural areas safe from development.", "answer": true, "hint": "National parks are areas of land protected by the government where wildlife can live safely."},
+            {"type": "multiple_choice", "question": "What does 'reduce, reuse, recycle' mean?", "options": ["Use more, buy more, throw away more", "Use less stuff, use things again, turn old things into new things", "Run, rest, repeat", "Read, remember, report"], "correct": 1, "hint": "These three R's are all about creating less waste and taking care of our planet."},
+            {"type": "fill_in", "question": "Smoke and chemicals released into the air or water that harm living things is called ___.", "answer": "pollution", "hint": "This word describes something dirty or harmful being added to the environment."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is an ecosystem?", "options": ["Just the animals in an area", "A community of living and non-living things that interact", "Only the weather in a place", "A type of animal"], "correct": 1},
+          {"type": "true_false", "question": "Water and sunlight are biotic (living) parts of an ecosystem.", "answer": false},
+          {"type": "multiple_choice", "question": "In a food chain, what are plants called?", "options": ["Consumers", "Decomposers", "Producers", "Predators"], "correct": 2},
+          {"type": "multiple_choice", "question": "An animal that eats only other animals is called a:", "options": ["Herbivore", "Omnivore", "Producer", "Carnivore"], "correct": 3},
+          {"type": "true_false", "question": "Bees and flowers have a symbiotic relationship where both benefit.", "answer": true},
+          {"type": "fill_in", "question": "Special features that help an animal survive in its habitat are called ___.", "answer": "adaptations"},
+          {"type": "multiple_choice", "question": "What would likely happen if all the predators were removed from an ecosystem?", "options": ["Nothing would change", "Prey populations would shrink", "Prey populations would grow too large", "Plants would disappear"], "correct": 2},
+          {"type": "true_false", "question": "Deforestation is good for forest ecosystems.", "answer": false},
+          {"type": "multiple_choice", "question": "Mushrooms and bacteria that break down dead organisms are called:", "options": ["Producers", "Herbivores", "Decomposers", "Predators"], "correct": 2},
+          {"type": "fill_in", "question": "A ___ is the natural home or environment where an organism lives.", "answer": "habitat"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ecosystem_explorer"
+      }
+    },
+    {
+      "id": "3-sci-2",
+      "title": "Life Cycles",
+      "description": "Learn how different living things grow, change, and reproduce throughout their lives, including butterflies, frogs, and plants.",
+      "lessons": [
+        {
+          "id": "3-sci-2-1",
+          "title": "What Is a Life Cycle?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A life cycle is the series of stages a living thing goes through from the beginning of its life until it produces offspring (babies) and the cycle starts again. Every living thing — plants, animals, insects, and even humans — has a life cycle. Some life cycles are simple, with babies looking like small versions of the adults (like cats and dogs). Other life cycles involve dramatic changes where the young look completely different from the adults (like butterflies and frogs). The stages of a life cycle always happen in the same order, and the cycle repeats generation after generation. Understanding life cycles helps us learn about how living things grow, change, and continue their species.",
+            "examples": [
+              {"problem": "What is the life cycle of a human?", "answer": "Baby → child → teenager → adult → parent (has babies, and the cycle repeats).", "explanation": "Humans have a life cycle where they gradually grow bigger and more mature, but they always look like humans at every stage."},
+              {"problem": "Do all animals have the same life cycle?", "answer": "No, different animals have different life cycles. Some change form dramatically (like butterflies), while others just grow bigger (like dogs).", "explanation": "The variety of life cycles in nature is amazing. Some animals go through complete transformations called metamorphosis."}
+            ],
+            "key_vocabulary": ["life cycle", "stage", "offspring", "metamorphosis", "growth", "reproduction"],
+            "real_world": "You are living your own life cycle right now! You started as a baby, grew into a child, and will eventually become a teenager and then an adult."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a life cycle?", "options": ["A type of bicycle", "The stages a living thing goes through from birth to producing offspring", "How fast an animal can run", "The food an animal eats"], "correct": 1, "hint": "Think about the different stages a living thing goes through as it grows."},
+            {"type": "true_false", "question": "All animals have the exact same life cycle.", "answer": false, "hint": "Think about how a butterfly grows compared to how a kitten grows. Are they the same?"},
+            {"type": "fill_in", "question": "A dramatic change in body form during a life cycle is called ___.", "answer": "metamorphosis", "hint": "This long word describes the amazing transformation a caterpillar makes when it becomes a butterfly."},
+            {"type": "multiple_choice", "question": "What happens after the last stage of a life cycle?", "options": ["The life cycle ends forever", "The cycle starts over with new offspring", "The animal disappears", "Nothing happens"], "correct": 1, "hint": "The word 'cycle' means something that goes around and repeats."},
+            {"type": "true_false", "question": "A baby kitten looks completely different from an adult cat.", "answer": false, "hint": "A kitten is smaller, but does it look like a cat or something totally different?"},
+            {"type": "multiple_choice", "question": "Which word means 'young' or 'babies' of an animal?", "options": ["Predators", "Offspring", "Producers", "Habitats"], "correct": 1, "hint": "This word describes the new generation that an animal produces."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-2-2",
+          "title": "The Butterfly Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The butterfly has one of the most amazing life cycles in nature. It goes through four stages in a process called complete metamorphosis. First, an adult butterfly lays tiny eggs on a leaf. Second, a caterpillar (also called a larva) hatches from the egg. The caterpillar eats leaves constantly and grows much bigger, shedding its skin several times as it grows. Third, the caterpillar forms a chrysalis (also called a pupa) around itself. Inside the chrysalis, the caterpillar's body completely transforms — this stage can last from a few weeks to several months. Fourth, a beautiful adult butterfly emerges from the chrysalis with wings! The adult butterfly drinks nectar from flowers, mates, lays eggs, and the cycle starts all over again.",
+            "examples": [
+              {"problem": "What are the four stages of a butterfly's life cycle?", "answer": "Egg → Larva (caterpillar) → Pupa (chrysalis) → Adult butterfly", "explanation": "Each stage looks completely different. The caterpillar has no wings and crawls, while the adult butterfly has wings and flies!"},
+              {"problem": "What happens inside the chrysalis?", "answer": "The caterpillar's body breaks down and completely transforms into a butterfly.", "explanation": "Inside the chrysalis, special cells reorganize the caterpillar's body, forming wings, antennae, and a completely new body shape."}
+            ],
+            "key_vocabulary": ["egg", "larva", "caterpillar", "pupa", "chrysalis", "adult", "complete metamorphosis"],
+            "real_world": "Monarch butterflies travel thousands of miles during migration. The butterflies that fly south in fall are the great-great-grandchildren of the ones that flew north in spring — four generations in one year!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the correct order of a butterfly's life cycle?", "options": ["Pupa → Egg → Larva → Adult", "Egg → Larva → Pupa → Adult", "Adult → Egg → Pupa → Larva", "Larva → Pupa → Egg → Adult"], "correct": 1, "hint": "It starts with an egg and ends with a flying adult butterfly."},
+            {"type": "fill_in", "question": "The caterpillar stage of a butterfly's life cycle is also called the ___ stage.", "answer": "larva", "hint": "This scientific word is used for the young feeding stage of insects that undergo metamorphosis."},
+            {"type": "true_false", "question": "A chrysalis and a pupa are the same stage of the butterfly life cycle.", "answer": true, "hint": "These are two different names for the same stage — the one where the transformation happens."},
+            {"type": "multiple_choice", "question": "What does a caterpillar do most of its time?", "options": ["Fly around", "Sleep all day", "Eat leaves and grow bigger", "Swim in ponds"], "correct": 2, "hint": "Caterpillars need lots of energy for their big transformation, so they spend most of their time doing one activity."},
+            {"type": "true_false", "question": "A butterfly can go back to being a caterpillar.", "answer": false, "hint": "Metamorphosis only goes in one direction. Once a butterfly, always a butterfly!"},
+            {"type": "multiple_choice", "question": "How many stages does complete metamorphosis have?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count them: egg, larva, pupa, and adult."},
+            {"type": "fill_in", "question": "The hard shell that a caterpillar forms around itself during transformation is called a ___.", "answer": "chrysalis", "hint": "This is the protective covering where the caterpillar changes into a butterfly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-2-3",
+          "title": "The Frog Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "Frogs also go through metamorphosis, but their life cycle is different from butterflies. A frog's life cycle has several stages. First, an adult frog lays eggs (called frogspawn) in water. The eggs are surrounded by a jelly-like substance that protects them. After about one to three weeks, tadpoles hatch from the eggs. Tadpoles look like small fish — they have tails, no legs, and breathe through gills underwater. Over several weeks, the tadpole begins to change. It grows back legs first, then front legs. Its tail gets shorter and shorter. Its gills are replaced by lungs so it can breathe air. Finally, the tadpole has fully transformed into a young frog (called a froglet) and can leave the water to live on land. The adult frog can live both in water and on land.",
+            "examples": [
+              {"problem": "How is a tadpole different from an adult frog?", "answer": "A tadpole has a tail, no legs, and gills for breathing underwater. An adult frog has four legs, no tail, and lungs for breathing air.", "explanation": "Tadpoles are adapted for life underwater, while adult frogs can live on both land and water."},
+              {"problem": "Where does a frog lay its eggs?", "answer": "In water, usually in ponds, lakes, or slow-moving streams.", "explanation": "Frog eggs and tadpoles need water to survive. The eggs are surrounded by a jelly coating that keeps them moist."}
+            ],
+            "key_vocabulary": ["frogspawn", "tadpole", "gills", "lungs", "froglet", "amphibian", "metamorphosis"],
+            "real_world": "Frogs are amphibians, which means 'double life' — they live part of their life in water and part on land. If you visit a pond in spring, you might see frogspawn (clusters of eggs) near the edges of the water."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the correct order of a frog's life cycle?", "options": ["Tadpole → Egg → Froglet → Adult", "Egg → Tadpole → Froglet → Adult", "Adult → Froglet → Tadpole → Egg", "Egg → Froglet → Tadpole → Adult"], "correct": 1, "hint": "Like most life cycles, it starts with an egg."},
+            {"type": "fill_in", "question": "A tadpole breathes underwater using ___.", "answer": "gills", "hint": "Fish also use these to breathe underwater."},
+            {"type": "true_false", "question": "Tadpoles look like small adult frogs.", "answer": false, "hint": "Think about what a tadpole looks like. Does it have legs? Does it look like a frog?"},
+            {"type": "multiple_choice", "question": "What body parts does a tadpole grow first during metamorphosis?", "options": ["Front legs", "Wings", "Back legs", "Antennae"], "correct": 2, "hint": "These legs appear before the front ones, and they help the developing frog kick through water."},
+            {"type": "true_false", "question": "Frogs can live both in water and on land.", "answer": true, "hint": "Frogs are amphibians. The word 'amphibian' means 'double life.'"},
+            {"type": "multiple_choice", "question": "What happens to the tadpole's tail as it becomes a frog?", "options": ["It grows longer", "It gets shorter and eventually disappears", "It turns into legs", "It stays the same size"], "correct": 1, "hint": "Adult frogs don't have tails, so what must happen to the tadpole's tail?"},
+            {"type": "fill_in", "question": "A young frog that has completed metamorphosis but is not yet fully grown is called a ___.", "answer": "froglet", "hint": "It is like a 'mini' frog — add a suffix to the word 'frog.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-2-4",
+          "title": "The Plant Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "Plants have life cycles too! A flowering plant's life cycle begins with a seed. When a seed gets the right amount of water, warmth, and sometimes light, it begins to germinate (sprout). A tiny root grows down into the soil, and a small stem pushes up toward the light. This young plant is called a seedling. As the seedling gets water, nutrients from the soil, and sunlight, it grows into a mature plant with a strong stem, leaves, and roots. The mature plant produces flowers. Flowers contain special parts for reproduction: the stamen makes pollen, and the pistil contains ovules. When pollen reaches the pistil (through pollination by wind, insects, or animals), seeds form inside the flower. The seeds are often found inside fruit. When the seeds are spread to new places (by wind, animals, or water), they can germinate and grow into new plants, starting the cycle again.",
+            "examples": [
+              {"problem": "What does a seed need to germinate?", "answer": "A seed needs water, warmth, and sometimes light to begin growing.", "explanation": "Germination is the process of a seed sprouting. The seed absorbs water, the seed coat softens, and the tiny plant inside begins to grow."},
+              {"problem": "How do seeds get spread to new places?", "answer": "Seeds can be spread by wind (dandelions), animals (berries eaten by birds), water (coconuts floating), or even by sticking to fur or clothing.", "explanation": "Seed dispersal is important because new plants need space, light, and nutrients to grow — they can't all grow in the same spot."}
+            ],
+            "key_vocabulary": ["seed", "germinate", "seedling", "mature plant", "flower", "pollen", "pollination", "fruit", "seed dispersal"],
+            "real_world": "When you eat an apple, you are eating the fruit of an apple tree. The seeds inside the apple could grow into new apple trees if planted in soil!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the correct order of a flowering plant's life cycle?", "options": ["Flower → Seed → Seedling → Mature plant", "Seed → Seedling → Mature plant → Flower → Fruit with seeds", "Mature plant → Seed → Flower → Seedling", "Seedling → Seed → Flower → Fruit"], "correct": 1, "hint": "It starts small and grows bigger. What comes from a seed first?"},
+            {"type": "fill_in", "question": "When a seed begins to sprout, it is called ___.", "answer": "germination", "hint": "This word describes the very first growth of a seed when it starts to send out roots and a stem."},
+            {"type": "true_false", "question": "A seed can grow without any water.", "answer": false, "hint": "Think about what you need to do when you plant seeds in a garden."},
+            {"type": "multiple_choice", "question": "What is the job of a flower in a plant's life cycle?", "options": ["To look pretty", "To make food for the plant", "To produce seeds for new plants", "To absorb water from the soil"], "correct": 2, "hint": "Flowers are the reproductive part of a plant. What do they produce?"},
+            {"type": "true_false", "question": "Fruits contain seeds.", "answer": true, "hint": "Think about an apple, a tomato, or a watermelon. What do you find inside them?"},
+            {"type": "multiple_choice", "question": "How might seeds travel to a new location?", "options": ["By driving a car", "By wind, water, or animals", "By walking on their own", "By talking to each other"], "correct": 1, "hint": "Think about dandelion fluff blowing in the wind or berries being eaten by birds."},
+            {"type": "fill_in", "question": "A young plant that has just sprouted from a seed is called a ___.", "answer": "seedling", "hint": "It is a small 'baby' plant. Think of 'seed' plus a suffix."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-2-5",
+          "title": "Comparing Life Cycles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now that we have learned about different life cycles, let's compare them! Butterflies and frogs both go through metamorphosis — dramatic changes in body form — but their stages are different. Butterflies have four stages (egg, larva, pupa, adult) while frogs also have stages but change more gradually (egg, tadpole, froglet, adult frog). Some animals, like dogs and cats, have simpler life cycles without metamorphosis — the babies look like miniature adults and just grow bigger. Plants have their own unique life cycle involving seeds, germination, growth, flowering, and seed production. One thing ALL life cycles have in common is that they are cycles — they repeat. The adult organism produces offspring, and the offspring go through the same stages. This is how species continue to exist generation after generation.",
+            "examples": [
+              {"problem": "How are the butterfly and frog life cycles similar?", "answer": "Both start as eggs, go through metamorphosis (dramatic body changes), and end as adults that look very different from their young form.", "explanation": "Both butterflies and frogs undergo amazing transformations. However, a caterpillar changes inside a chrysalis, while a tadpole changes gradually in the water."},
+              {"problem": "How is a dog's life cycle different from a butterfly's?", "answer": "A puppy looks like a small dog and just grows bigger. A caterpillar looks nothing like an adult butterfly and must go through metamorphosis.", "explanation": "Dogs do not go through metamorphosis. They have a simpler life cycle: birth → puppy → adult dog → parent."}
+            ],
+            "key_vocabulary": ["compare", "contrast", "metamorphosis", "simple life cycle", "complete metamorphosis", "gradual change", "generation"],
+            "real_world": "Scientists who study life cycles are called biologists. By understanding how animals grow and reproduce, scientists can help protect endangered species and their habitats."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which two animals both go through metamorphosis?", "options": ["Dog and cat", "Butterfly and frog", "Horse and cow", "Fish and bird"], "correct": 1, "hint": "Which animals look completely different as babies than they do as adults?"},
+            {"type": "true_false", "question": "A puppy goes through metamorphosis to become a dog.", "answer": false, "hint": "Does a puppy look completely different from a dog, or just like a smaller version?"},
+            {"type": "fill_in", "question": "All life cycles are cycles, which means they ___.", "answer": "repeat", "hint": "The word 'cycle' means to go around. What does something that goes around do?"},
+            {"type": "multiple_choice", "question": "How is a plant's life cycle different from a frog's?", "options": ["Plants don't have life cycles", "Plants grow from seeds while frogs hatch from eggs and go through metamorphosis", "They are exactly the same", "Plants go through metamorphosis too"], "correct": 1, "hint": "Think about what each one starts from and how each one grows."},
+            {"type": "true_false", "question": "Both butterflies and frogs start their life cycles as eggs.", "answer": true, "hint": "Think about the very first stage for both animals."},
+            {"type": "multiple_choice", "question": "What do ALL life cycles have in common?", "options": ["They all include metamorphosis", "They all happen in water", "Adults produce offspring and the cycle repeats", "They all take the same amount of time"], "correct": 2, "hint": "What makes a life cycle a CYCLE?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is metamorphosis?", "options": ["A type of rock", "A dramatic change in body form during a life cycle", "A kind of plant", "A type of weather"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is the correct order of a butterfly's life cycle?", "options": ["Egg → Pupa → Larva → Adult", "Egg → Larva → Pupa → Adult", "Larva → Egg → Adult → Pupa", "Adult → Egg → Larva → Pupa"], "correct": 1},
+          {"type": "true_false", "question": "A tadpole breathes air with lungs.", "answer": false},
+          {"type": "fill_in", "question": "When a seed begins to sprout, it is called ___.", "answer": "germination"},
+          {"type": "multiple_choice", "question": "What does a caterpillar form around itself before becoming a butterfly?", "options": ["A nest", "A cocoon of leaves", "A chrysalis", "A shell"], "correct": 2},
+          {"type": "true_false", "question": "A frog can live both in water and on land.", "answer": true},
+          {"type": "multiple_choice", "question": "In a plant's life cycle, what do flowers produce?", "options": ["More flowers", "Water", "Seeds", "Sunlight"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which animal does NOT go through metamorphosis?", "options": ["Butterfly", "Frog", "Dog", "Moth"], "correct": 2},
+          {"type": "true_false", "question": "All life cycles repeat from generation to generation.", "answer": true},
+          {"type": "fill_in", "question": "A young frog that still has a tail but has grown legs is becoming a ___.", "answer": "froglet"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "life_cycle_learner"
+      }
+    },
+    {
+      "id": "3-sci-3",
+      "title": "States of Matter",
+      "description": "Discover the three main states of matter — solid, liquid, and gas — and learn how matter can change from one state to another.",
+      "lessons": [
+        {
+          "id": "3-sci-3-1",
+          "title": "What Is Matter?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Everything around you is made of matter. Matter is anything that takes up space and has mass (weight). Your desk, your pencil, the air you breathe, and even the water you drink are all made of matter. Matter is made up of tiny particles called atoms and molecules that are too small to see. These tiny particles are always moving! In different states of matter, the particles move and behave differently. There are three main states of matter: solids, liquids, and gases. The state of matter depends on how much energy the particles have and how tightly they are packed together. When matter has a little energy, the particles are tightly packed and barely move — that is a solid. When it has more energy, the particles slide past each other — that is a liquid. With a lot of energy, the particles spread far apart and move very fast — that is a gas.",
+            "examples": [
+              {"problem": "Is air matter?", "answer": "Yes! Air is matter because it takes up space (fill a balloon to see) and has mass (a balloon full of air weighs more than an empty one).", "explanation": "Even though we cannot see air, it is still made of tiny particles (molecules of nitrogen, oxygen, and other gases) that take up space."},
+              {"problem": "Name one example each of a solid, liquid, and gas.", "answer": "Solid: rock. Liquid: water. Gas: oxygen in the air.", "explanation": "Matter can exist in any of these three states depending on temperature and pressure."}
+            ],
+            "key_vocabulary": ["matter", "solid", "liquid", "gas", "atom", "molecule", "particles", "mass", "states of matter"],
+            "real_world": "You interact with all three states of matter every day — you walk on solid ground, drink liquid water, and breathe gaseous air!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is matter?", "options": ["Only things you can see", "Anything that takes up space and has mass", "Only solid objects", "Only heavy things"], "correct": 1, "hint": "Remember, matter includes things you can see AND things you cannot see, like air."},
+            {"type": "true_false", "question": "Air is not matter because you cannot see it.", "answer": false, "hint": "Even though you cannot see air, does it take up space? Think about blowing up a balloon."},
+            {"type": "fill_in", "question": "The three main states of matter are solid, liquid, and ___.", "answer": "gas", "hint": "Think of the air you breathe. What state of matter is it?"},
+            {"type": "multiple_choice", "question": "What are the tiny particles that make up all matter?", "options": ["Drops", "Atoms and molecules", "Bubbles", "Stars"], "correct": 1, "hint": "These particles are too small to see but everything is made of them."},
+            {"type": "true_false", "question": "The particles in matter are always moving.", "answer": true, "hint": "Even in a solid, the particles vibrate slightly. They never completely stop."},
+            {"type": "multiple_choice", "question": "Which of these is NOT matter?", "options": ["Water", "Rock", "Light", "Air"], "correct": 2, "hint": "Matter has mass and takes up space. Which one of these does not have mass or take up space?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-3-2",
+          "title": "Solids",
+          "type": "lesson",
+          "content": {
+            "explanation": "Solids are one of the three main states of matter. In a solid, the particles are packed closely together and vibrate in place but do not move around freely. This is why solids have a definite shape and a definite volume (they take up a specific amount of space). A rock does not change shape when you put it in a bowl — it stays the same shape. Solids can be hard like metal or soft like a pillow. They can be rough like sandpaper or smooth like glass. They can be flexible like rubber or rigid like wood. But no matter what, they keep their shape unless a force is applied to change it (like breaking, cutting, or bending). Some solids are made of crystals with particles arranged in neat patterns, like salt and diamonds.",
+            "examples": [
+              {"problem": "Why does an ice cube keep its shape?", "answer": "An ice cube is a solid. Its particles are tightly packed and locked in place, so it holds its shape.", "explanation": "The water molecules in ice are arranged in a fixed pattern, giving the ice cube its rigid shape."},
+              {"problem": "Name five examples of solids.", "answer": "Wood, rock, ice, metal, and plastic.", "explanation": "All of these have a definite shape and volume because their particles are tightly packed together."}
+            ],
+            "key_vocabulary": ["solid", "definite shape", "definite volume", "particles", "vibrate", "rigid", "crystal"],
+            "real_world": "The chair you sit in, the shoes on your feet, and the building you live in are all made of solids. Without solids, we could not build anything!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a property of all solids?", "options": ["They can flow", "They have a definite shape", "They spread to fill a room", "They are always hard"], "correct": 1, "hint": "Think about what stays the same about a solid no matter where you put it."},
+            {"type": "true_false", "question": "All solids are hard.", "answer": false, "hint": "Is a pillow hard? Is a sponge hard? These are both solids."},
+            {"type": "fill_in", "question": "In a solid, particles are ___ together tightly and vibrate in place.", "answer": "packed", "hint": "The particles in a solid are close together, not spread apart."},
+            {"type": "multiple_choice", "question": "Which of these is a solid?", "options": ["Milk", "Steam", "A pencil", "Orange juice"], "correct": 2, "hint": "Which one keeps its shape and does not flow?"},
+            {"type": "true_false", "question": "A solid has a definite shape and a definite volume.", "answer": true, "hint": "A rock stays the same shape and takes up the same amount of space no matter where you put it."},
+            {"type": "multiple_choice", "question": "What do the particles in a solid do?", "options": ["Fly around freely", "Slide past each other", "Vibrate in place", "Disappear"], "correct": 2, "hint": "The particles in a solid are locked in position but still move a tiny bit."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-3-3",
+          "title": "Liquids",
+          "type": "lesson",
+          "content": {
+            "explanation": "Liquids are the second state of matter. In a liquid, the particles are close together but not locked in place — they can slide past each other. This is why liquids can flow and take the shape of whatever container they are in. Pour water into a round bowl, and it takes the shape of the bowl. Pour the same water into a square box, and it takes the shape of the box. However, a liquid does have a definite volume — a cup of water is always a cup of water whether it is in a tall glass or a flat plate. Liquids can be thin and runny like water, or thick and slow like honey or syrup. Some liquids are clear like water, while others are opaque like milk. All liquids can be poured, and they always flow to the lowest point because of gravity.",
+            "examples": [
+              {"problem": "Why does water take the shape of its container?", "answer": "Water is a liquid. Its particles can slide past each other, so the liquid flows and takes the shape of whatever container holds it.", "explanation": "Unlike a solid where particles are locked in place, liquid particles are free to move around each other."},
+              {"problem": "Does a liquid have a definite volume?", "answer": "Yes! One cup of water is always one cup of water, even if you pour it into different shaped containers.", "explanation": "Liquids change shape but not volume. The amount of liquid stays the same."}
+            ],
+            "key_vocabulary": ["liquid", "flow", "definite volume", "no definite shape", "pour", "container", "viscosity"],
+            "real_world": "When you pour juice into a glass, it takes the shape of the glass. If you spill it, it flows across the table and drips to the floor — because liquids always flow to the lowest point."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What happens when you pour water into a square container?", "options": ["It stays round", "It takes the shape of the square container", "It turns into a solid", "It disappears"], "correct": 1, "hint": "Liquids take the shape of whatever holds them."},
+            {"type": "true_false", "question": "Liquids have a definite shape.", "answer": false, "hint": "What shape is water? It depends on the container, right?"},
+            {"type": "fill_in", "question": "In a liquid, particles can ___ past each other.", "answer": "slide", "hint": "Liquid particles move past each other, allowing the liquid to flow."},
+            {"type": "multiple_choice", "question": "Which of these is a liquid?", "options": ["Ice", "Milk", "Steam", "A coin"], "correct": 1, "hint": "Which one flows and takes the shape of its container?"},
+            {"type": "true_false", "question": "Liquids have a definite volume.", "answer": true, "hint": "A cup of water is always a cup of water, no matter what shape container it is in."},
+            {"type": "multiple_choice", "question": "Why does honey flow more slowly than water?", "options": ["Honey is a solid", "Honey is thicker, so its particles slide past each other more slowly", "Honey is a gas", "Honey is lighter than water"], "correct": 1, "hint": "Some liquids are thicker (more viscous) than others."},
+            {"type": "fill_in", "question": "Liquids always flow to the ___ point because of gravity.", "answer": "lowest", "hint": "When you spill water on a hill, which direction does it flow?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-3-4",
+          "title": "Gases",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gases are the third state of matter. In a gas, the particles have lots of energy and move very fast in all directions. They spread out to fill whatever space is available. Unlike solids and liquids, gases have no definite shape AND no definite volume — they expand to fill their entire container. This is why the air in a room fills the whole room, and the air in a balloon fills the whole balloon. You cannot usually see gases, but you can often feel them (like wind) or smell them (like the smell of cookies baking). When you blow up a balloon, you are trapping gas (air) inside. The gas pushes against the walls of the balloon in all directions, which is why balloons are puffy. If you pop the balloon, the gas rushes out and spreads into the room.",
+            "examples": [
+              {"problem": "Why can you smell cookies baking from another room?", "answer": "The smell is carried by gas molecules that spread through the air from the kitchen to wherever you are.", "explanation": "Gas particles move freely and spread out in all directions, carrying the scent molecules throughout the house."},
+              {"problem": "Does a gas have a definite shape or volume?", "answer": "No. A gas has no definite shape and no definite volume. It expands to fill whatever container or space it is in.", "explanation": "Gas particles are far apart and move freely, so they spread out to fill any available space."}
+            ],
+            "key_vocabulary": ["gas", "no definite shape", "no definite volume", "expand", "compress", "air", "invisible"],
+            "real_world": "When you pump air into a bicycle tire, you are forcing gas into a small space. The gas pushes outward on the tire, making it firm enough to ride on."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a property of gases?", "options": ["They have a definite shape", "They have a definite volume", "They spread out to fill their container", "They cannot move"], "correct": 2, "hint": "Think about what air does when you let it out of a balloon."},
+            {"type": "true_false", "question": "You can always see gases.", "answer": false, "hint": "Can you see the air you breathe?"},
+            {"type": "fill_in", "question": "Gas particles move very ___ and spread in all directions.", "answer": "fast", "hint": "Gas particles have a lot of energy and zoom around quickly."},
+            {"type": "multiple_choice", "question": "What happens to gas in a balloon if you pop the balloon?", "options": ["The gas stays in place", "The gas rushes out and spreads into the room", "The gas turns into a liquid", "The gas disappears"], "correct": 1, "hint": "Gases always expand to fill available space. What happens when the balloon is no longer containing it?"},
+            {"type": "true_false", "question": "Air is a gas.", "answer": true, "hint": "The air around you is a mixture of gases, mainly nitrogen and oxygen."},
+            {"type": "multiple_choice", "question": "Why does a balloon get puffy when you blow it up?", "options": ["Magic", "The gas inside pushes against the walls of the balloon in all directions", "The balloon grows like a plant", "The balloon gets heavier"], "correct": 1, "hint": "What is happening inside the balloon as you blow air into it?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-3-5",
+          "title": "Changing States of Matter",
+          "type": "lesson",
+          "content": {
+            "explanation": "Matter can change from one state to another when energy (usually heat) is added or removed. When you heat a solid, the particles gain energy and start moving more. If you add enough heat, the solid melts and becomes a liquid. This is called melting. The temperature at which a solid melts is called its melting point — ice melts at 32°F (0°C). When you heat a liquid even more, the particles gain even more energy and escape into the air. The liquid evaporates and becomes a gas. Water boils and turns into steam at 212°F (100°C). The opposite also happens: when you cool a gas, it condenses back into a liquid. When you cool a liquid, it freezes and becomes a solid again. Think of water: ice (solid) → water (liquid) → steam (gas), and it can change back and forth!",
+            "examples": [
+              {"problem": "What happens to an ice cube when you leave it on a warm counter?", "answer": "It melts and turns from a solid into a liquid (water).", "explanation": "The heat from the warm air gives the ice particles more energy. They start moving more freely and the ice turns into liquid water. This is called melting."},
+              {"problem": "What happens to water in a pot on a hot stove?", "answer": "The water heats up and eventually boils, turning into steam (gas). This is called evaporation or boiling.", "explanation": "As heat is added, the water particles gain energy and move faster. At 212°F (100°C), they have enough energy to escape into the air as water vapor."}
+            ],
+            "key_vocabulary": ["melting", "freezing", "evaporation", "condensation", "boiling", "melting point", "boiling point", "temperature"],
+            "real_world": "You see states of matter change every day! Ice cream melts on a hot day (solid to liquid). Puddles dry up in the sun (liquid to gas). Dew forms on grass in the morning (gas to liquid). Water freezes into ice cubes in the freezer (liquid to solid)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is it called when a solid turns into a liquid?", "options": ["Freezing", "Evaporation", "Melting", "Condensation"], "correct": 2, "hint": "Think about what happens to ice when it warms up."},
+            {"type": "fill_in", "question": "When a liquid turns into a gas, it is called ___.", "answer": "evaporation", "hint": "Think about what happens to a puddle on a sunny day — the water seems to disappear into the air."},
+            {"type": "true_false", "question": "Adding heat to matter can cause it to change states.", "answer": true, "hint": "What happens when you heat ice? What happens when you heat water?"},
+            {"type": "multiple_choice", "question": "What is it called when a gas turns back into a liquid?", "options": ["Melting", "Freezing", "Evaporation", "Condensation"], "correct": 3, "hint": "Think about water droplets forming on a cold glass. The gas in the air is turning back into liquid on the cold surface."},
+            {"type": "multiple_choice", "question": "At what temperature does water freeze?", "options": ["100°F", "212°F", "32°F (0°C)", "50°F"], "correct": 2, "hint": "This is the temperature in your freezer. It is where water turns to ice."},
+            {"type": "true_false", "question": "When you cool a liquid enough, it will freeze into a solid.", "answer": true, "hint": "What happens when you put liquid water in a freezer?"},
+            {"type": "fill_in", "question": "When a liquid turns into a solid, it is called ___.", "answer": "freezing", "hint": "This is what happens to water when it gets very cold. Ice cubes are made by this process."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which state of matter has a definite shape and a definite volume?", "options": ["Liquid", "Gas", "Solid", "None of them"], "correct": 2},
+          {"type": "true_false", "question": "Gas particles are packed tightly together.", "answer": false},
+          {"type": "multiple_choice", "question": "What happens when you heat a solid past its melting point?", "options": ["It becomes a gas", "It becomes a liquid", "It gets harder", "It disappears"], "correct": 1},
+          {"type": "fill_in", "question": "When water vapor turns back into liquid water, it is called ___.", "answer": "condensation"},
+          {"type": "multiple_choice", "question": "Which of these is an example of a gas?", "options": ["Ice", "Milk", "Steam", "Sand"], "correct": 2},
+          {"type": "true_false", "question": "Liquids take the shape of their container.", "answer": true},
+          {"type": "multiple_choice", "question": "What causes matter to change states?", "options": ["Changing its color", "Adding or removing heat energy", "Moving it to a different room", "Giving it a different name"], "correct": 1},
+          {"type": "fill_in", "question": "A liquid changing to a solid is called ___.", "answer": "freezing"},
+          {"type": "true_false", "question": "Gases have a definite volume.", "answer": false},
+          {"type": "multiple_choice", "question": "When you see dew on the grass in the morning, what change of state has occurred?", "options": ["Melting", "Evaporation", "Condensation", "Freezing"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "matter_master"
+      }
+    },
+    {
+      "id": "3-sci-4",
+      "title": "The Water Cycle",
+      "description": "Follow water on its amazing journey through the water cycle, from evaporation to condensation to precipitation and back again.",
+      "lessons": [
+        {
+          "id": "3-sci-4-1",
+          "title": "Introduction to the Water Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The water cycle is the continuous journey that water takes through the environment. Water on Earth is constantly moving and changing form — it goes from oceans, lakes, and rivers into the air, forms clouds, falls back to the ground as rain or snow, and flows back to the oceans. This cycle has been happening for billions of years! The same water that exists on Earth today is the same water that dinosaurs drank millions of years ago. Water is never created or destroyed — it just keeps recycling. The water cycle is powered by the sun's energy, which heats water and causes it to evaporate. Gravity also plays a role by pulling water back down to Earth as precipitation and causing rivers to flow downhill to the ocean.",
+            "examples": [
+              {"problem": "What powers the water cycle?", "answer": "The sun's energy powers the water cycle by heating water and causing it to evaporate.", "explanation": "Without the sun, water would not evaporate into the air, clouds would not form, and rain would not fall. The sun is the engine of the water cycle."},
+              {"problem": "Is new water being made on Earth?", "answer": "No! The water on Earth today is the same water that has always been here. It just keeps cycling through different forms and locations.", "explanation": "Water is a renewable resource because it is constantly recycled through the water cycle."}
+            ],
+            "key_vocabulary": ["water cycle", "continuous", "recycle", "evaporate", "precipitation", "atmosphere"],
+            "real_world": "The water you drink today might have once been in a cloud, a river, an ocean, or even a glass of water a dinosaur drank millions of years ago!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the water cycle?", "options": ["A type of bicycle made of water", "The continuous movement and recycling of water through the environment", "Water flowing in a circle", "A water slide"], "correct": 1, "hint": "Think about how water moves from oceans to sky to land and back again."},
+            {"type": "true_false", "question": "New water is constantly being created on Earth.", "answer": false, "hint": "Water is recycled over and over. The same water has been on Earth for billions of years."},
+            {"type": "fill_in", "question": "The water cycle is powered by the ___.", "answer": "sun", "hint": "This huge star heats the water on Earth and causes it to evaporate."},
+            {"type": "multiple_choice", "question": "What force pulls water back down to Earth as rain?", "options": ["Magnetism", "Wind", "Gravity", "Electricity"], "correct": 2, "hint": "This is the same force that keeps you on the ground and makes things fall when you drop them."},
+            {"type": "true_false", "question": "The water cycle has been happening for billions of years.", "answer": true, "hint": "Water has been cycling on Earth since very early in Earth's history."},
+            {"type": "multiple_choice", "question": "Where does most of Earth's water come from for the water cycle?", "options": ["Swimming pools", "Water bottles", "Oceans, lakes, and rivers", "Factories"], "correct": 2, "hint": "Think about the biggest bodies of water on Earth."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-4-2",
+          "title": "Evaporation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Evaporation is the first main step of the water cycle. It happens when the sun heats water in oceans, lakes, rivers, and puddles. The heat gives the water particles enough energy to escape from the liquid and rise into the air as an invisible gas called water vapor. You cannot see water vapor, but it is all around you in the air. Evaporation happens faster when the temperature is higher, when the air is dry, and when there is wind. That is why puddles dry up faster on a hot, sunny, windy day than on a cool, cloudy, still day. Evaporation does not only happen from bodies of water — plants also release water vapor from their leaves through a process called transpiration. Animals release water vapor when they breathe out.",
+            "examples": [
+              {"problem": "Why do puddles disappear on a sunny day?", "answer": "The sun heats the water in the puddle. The water evaporates — it turns into water vapor and rises into the air.", "explanation": "The water is not really 'gone' — it has changed from liquid water to invisible water vapor in the air."},
+              {"problem": "Can you see water vapor?", "answer": "No, water vapor is an invisible gas. The steam you see above a boiling pot is actually tiny water droplets, not water vapor.", "explanation": "True water vapor is invisible. What we call 'steam' that we can see is actually tiny droplets of liquid water floating in the air."}
+            ],
+            "key_vocabulary": ["evaporation", "water vapor", "heat", "sun", "transpiration", "invisible"],
+            "real_world": "When your wet hair dries after a shower, that is evaporation! The water in your hair absorbs heat and turns into water vapor that floats away into the air."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is evaporation?", "options": ["Water falling from clouds", "Liquid water turning into water vapor (gas)", "Water freezing into ice", "Water flowing in a river"], "correct": 1, "hint": "This process changes liquid water into a gas that rises into the air."},
+            {"type": "fill_in", "question": "Water that has evaporated into the air is called water ___.", "answer": "vapor", "hint": "This is the invisible gas form of water in the air."},
+            {"type": "true_false", "question": "Evaporation happens faster on hot, sunny days.", "answer": true, "hint": "More heat means more energy for water particles to escape into the air."},
+            {"type": "multiple_choice", "question": "What causes water to evaporate?", "options": ["Cold temperatures", "Heat from the sun", "Darkness", "Gravity"], "correct": 1, "hint": "What gives water particles enough energy to escape into the air?"},
+            {"type": "true_false", "question": "Water vapor is visible to the human eye.", "answer": false, "hint": "Water vapor is an invisible gas. You cannot see it, even though it is in the air all around you."},
+            {"type": "multiple_choice", "question": "When plants release water vapor from their leaves, it is called:", "options": ["Evaporation", "Transpiration", "Condensation", "Precipitation"], "correct": 1, "hint": "This word is specifically used for water vapor released by plants."},
+            {"type": "fill_in", "question": "Puddles dry up faster on a ___, sunny, windy day.", "answer": "hot", "hint": "High temperatures give water more energy to evaporate."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-4-3",
+          "title": "Condensation and Clouds",
+          "type": "lesson",
+          "content": {
+            "explanation": "After water evaporates and rises into the sky as water vapor, it eventually cools down. When water vapor cools enough, it changes back into tiny droplets of liquid water. This process is called condensation. High in the sky, water vapor condenses onto tiny particles of dust, pollen, or pollution in the air. Billions of these tiny water droplets group together to form clouds. Clouds come in many shapes and sizes. Fluffy white cumulus clouds usually mean fair weather. Thin, wispy cirrus clouds are very high in the sky. Dark, flat stratus clouds often bring steady rain. Tall, towering cumulonimbus clouds bring thunderstorms. You can see condensation happening on Earth too — when you breathe out on a cold day, your warm breath meets cold air and the water vapor condenses into a little cloud you can see!",
+            "examples": [
+              {"problem": "Why do water droplets form on the outside of a cold glass on a warm day?", "answer": "Water vapor in the warm air touches the cold glass and condenses into liquid water droplets on the surface.", "explanation": "This is condensation — when warm, moist air meets a cold surface, the water vapor cools down and turns back into liquid water."},
+              {"problem": "How do clouds form?", "answer": "Water vapor rises into the sky, cools down, and condenses into tiny water droplets that cling to dust particles. Billions of these droplets together form a cloud.", "explanation": "Clouds are actually made of tiny liquid water droplets (or ice crystals) floating in the air."}
+            ],
+            "key_vocabulary": ["condensation", "water droplets", "clouds", "cumulus", "stratus", "cirrus", "cumulonimbus", "water vapor"],
+            "real_world": "On a cold morning, you can see condensation on car windows and on the grass (dew). The warm air cooled overnight, and the water vapor condensed into tiny droplets."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is condensation?", "options": ["Liquid water turning into gas", "Water vapor cooling and turning back into liquid water", "Water falling from clouds", "Ice melting"], "correct": 1, "hint": "This is the opposite of evaporation — gas changes back to liquid."},
+            {"type": "fill_in", "question": "Clouds are made of billions of tiny water ___ or ice crystals.", "answer": "droplets", "hint": "When water vapor condenses, it forms very tiny drops of liquid water."},
+            {"type": "true_false", "question": "Condensation occurs when water vapor cools down.", "answer": true, "hint": "When warm water vapor meets cooler temperatures, it changes back to liquid."},
+            {"type": "multiple_choice", "question": "Which type of cloud is fluffy and white and usually means fair weather?", "options": ["Stratus", "Cirrus", "Cumulus", "Cumulonimbus"], "correct": 2, "hint": "These clouds look like cotton balls in the sky on a nice day."},
+            {"type": "true_false", "question": "Dew on the grass in the morning is an example of condensation.", "answer": true, "hint": "Water vapor in the air cooled overnight and turned back into liquid water droplets on the grass."},
+            {"type": "multiple_choice", "question": "What do water vapor molecules need to condense onto in the sky?", "options": ["Other clouds", "Tiny particles like dust or pollen", "Sunlight", "Stars"], "correct": 1, "hint": "Water vapor needs a tiny solid surface to condense onto. Very small particles floating in the air provide that surface."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-4-4",
+          "title": "Precipitation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Precipitation is water falling from clouds back to Earth. When the water droplets or ice crystals in clouds combine and get heavy enough, gravity pulls them down as precipitation. There are several types of precipitation. Rain is liquid water falling when the temperature is above freezing. Snow forms when water vapor in clouds freezes directly into ice crystals that stick together as snowflakes — every snowflake has a unique shape! Sleet is rain that freezes into small ice pellets as it falls through a layer of cold air near the ground. Hail forms inside tall storm clouds when water droplets are carried up by strong winds and freeze, then fall, get carried up again, freeze more, and eventually get heavy enough to fall to the ground as balls of ice. Most of the precipitation that falls on land flows into streams, rivers, and eventually back to the ocean, where the water cycle starts all over again.",
+            "examples": [
+              {"problem": "What is the difference between rain and snow?", "answer": "Rain is liquid water that falls when temperatures are above freezing. Snow is ice crystals that form and fall when temperatures are at or below freezing.", "explanation": "The temperature of the air determines whether precipitation falls as rain (above 32°F/0°C) or snow (at or below 32°F/0°C)."},
+              {"problem": "How does hail form?", "answer": "Water droplets in tall storm clouds get carried up by strong winds and freeze. They fall, get carried up again, freeze more layers of ice, and get bigger until they are heavy enough to fall to the ground.", "explanation": "Hailstones can be as small as peas or as large as golf balls! The stronger the wind inside the storm cloud, the larger the hailstones can grow."}
+            ],
+            "key_vocabulary": ["precipitation", "rain", "snow", "sleet", "hail", "snowflake", "ice crystal", "gravity"],
+            "real_world": "Different parts of the world get different types of precipitation. Tropical areas near the equator get mostly rain. Cold regions near the poles get mostly snow. Some places, like deserts, get very little precipitation at all."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is precipitation?", "options": ["Water evaporating from the ocean", "Water vapor forming clouds", "Water falling from clouds to Earth", "Water flowing in rivers"], "correct": 2, "hint": "This is the step where water returns from the sky back to the ground."},
+            {"type": "fill_in", "question": "The four main types of precipitation are rain, snow, sleet, and ___.", "answer": "hail", "hint": "These are balls of ice that form in tall thunderstorm clouds."},
+            {"type": "true_false", "question": "Every snowflake has a unique shape.", "answer": true, "hint": "Scientists have studied millions of snowflakes and no two are exactly alike!"},
+            {"type": "multiple_choice", "question": "What causes precipitation to fall from clouds?", "options": ["Wind pushes it", "The sun pulls it", "Gravity pulls the heavy water droplets down", "Clouds push it out"], "correct": 2, "hint": "What force pulls everything down toward Earth?"},
+            {"type": "multiple_choice", "question": "What type of precipitation is small ice pellets that form when rain freezes as it falls?", "options": ["Snow", "Hail", "Sleet", "Drizzle"], "correct": 2, "hint": "This type of precipitation is smaller than hail and forms when rain passes through a cold layer of air near the ground."},
+            {"type": "true_false", "question": "Rain falls when the air temperature is below freezing.", "answer": false, "hint": "If the temperature is below freezing, water would freeze. What falls when it is below freezing instead of rain?"},
+            {"type": "fill_in", "question": "After precipitation falls on land, most of the water flows into streams and rivers and eventually reaches the ___.", "answer": "ocean", "hint": "Rivers flow to the biggest body of water on Earth."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-4-5",
+          "title": "Collection and the Cycle Continues",
+          "type": "lesson",
+          "content": {
+            "explanation": "After precipitation falls, the water needs to go somewhere — this is called collection. Water collects in many places. Some water flows over the land surface into streams, rivers, lakes, and eventually the ocean. This is called runoff. Some water soaks into the ground and becomes groundwater, which fills the spaces between rocks and soil underground. Plants absorb groundwater through their roots and release it back into the air through transpiration. Some water collects in lakes and ponds. The largest collection of water is in the oceans, which hold about 97% of all water on Earth. Once collected, the water cycle starts again — the sun heats the water, it evaporates, rises to form clouds, and falls again as precipitation. This cycle never stops and is essential for all life on Earth. Without the water cycle, there would be no fresh water for plants, animals, and people to drink.",
+            "examples": [
+              {"problem": "Where does water go after it rains?", "answer": "Some flows over the ground (runoff) into rivers and lakes. Some soaks into the ground (groundwater). Some is absorbed by plants.", "explanation": "Water takes many different paths after falling as precipitation, but eventually most of it makes its way back to the ocean."},
+              {"problem": "Where is most of Earth's water collected?", "answer": "In the oceans. About 97% of all water on Earth is ocean water.", "explanation": "The oceans are the largest reservoirs of water on Earth, but ocean water is salty. Fresh water makes up only about 3% of all water."}
+            ],
+            "key_vocabulary": ["collection", "runoff", "groundwater", "reservoir", "fresh water", "salt water", "absorb"],
+            "real_world": "Many towns and cities get their drinking water from reservoirs — large lakes that collect and store rainwater. The water cycle keeps filling these reservoirs with fresh water."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is runoff?", "options": ["Water evaporating", "Water flowing over the ground into streams, rivers, and lakes", "Water freezing", "Water falling from clouds"], "correct": 1, "hint": "After rain falls, some water flows along the surface of the land. What is this called?"},
+            {"type": "fill_in", "question": "Water that soaks into the ground and fills spaces between rocks and soil is called ___.", "answer": "groundwater", "hint": "This water is underground, beneath the ground surface."},
+            {"type": "true_false", "question": "Most of Earth's water is in the oceans.", "answer": true, "hint": "About 97% of all water on Earth is ocean water."},
+            {"type": "multiple_choice", "question": "What step of the water cycle comes after collection?", "options": ["The cycle ends", "Evaporation starts again", "New water is created", "The water disappears"], "correct": 1, "hint": "The water CYCLE repeats. After water is collected, what does the sun do to it?"},
+            {"type": "true_false", "question": "The water cycle is important because all living things need water to survive.", "answer": true, "hint": "Can you think of any living thing that does not need water?"},
+            {"type": "multiple_choice", "question": "How do plants return water to the air?", "options": ["By dropping their leaves", "By transpiration — releasing water vapor from their leaves", "By growing taller", "By eating water"], "correct": 1, "hint": "Plants release water vapor from their leaves through a special process."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the correct order of the main steps in the water cycle?", "options": ["Precipitation → Evaporation → Condensation → Collection", "Evaporation → Condensation → Precipitation → Collection", "Condensation → Precipitation → Collection → Evaporation", "Collection → Precipitation → Evaporation → Condensation"], "correct": 1},
+          {"type": "true_false", "question": "The water cycle is powered by the moon.", "answer": false},
+          {"type": "fill_in", "question": "When liquid water turns into water vapor, it is called ___.", "answer": "evaporation"},
+          {"type": "multiple_choice", "question": "What are clouds made of?", "options": ["Cotton", "Smoke", "Tiny water droplets or ice crystals", "Dust"], "correct": 2},
+          {"type": "true_false", "question": "New water is constantly being created on Earth.", "answer": false},
+          {"type": "multiple_choice", "question": "Which type of precipitation forms as balls of ice in thunderstorm clouds?", "options": ["Rain", "Snow", "Sleet", "Hail"], "correct": 3},
+          {"type": "fill_in", "question": "Water that flows over the land surface into streams and rivers is called ___.", "answer": "runoff"},
+          {"type": "multiple_choice", "question": "What process do plants use to release water vapor into the air?", "options": ["Evaporation", "Transpiration", "Condensation", "Precipitation"], "correct": 1},
+          {"type": "true_false", "question": "About 97% of Earth's water is in the oceans.", "answer": true},
+          {"type": "multiple_choice", "question": "When water vapor cools and turns back into liquid water, it is called:", "options": ["Evaporation", "Precipitation", "Condensation", "Melting"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "water_cycle_wizard"
+      }
+    },
+    {
+      "id": "3-sci-5",
+      "title": "Simple Machines",
+      "description": "Learn about the six simple machines that help us do work by making it easier to push, pull, or lift things.",
+      "lessons": [
+        {
+          "id": "3-sci-5-1",
+          "title": "What Is a Simple Machine?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A simple machine is a basic device that makes work easier. In science, 'work' means using a force to move something over a distance. Simple machines do not have engines or batteries — they work by changing the direction or amount of force needed to do a job. For example, it is much easier to push a heavy box up a ramp than to lift it straight up. The ramp is a simple machine! There are six types of simple machines: lever, inclined plane (ramp), wheel and axle, pulley, wedge, and screw. These six simple machines are the building blocks of all complex machines. A bicycle, for example, uses wheels and axles, levers (handbrakes and pedals), and pulleys (chain and gears). Simple machines were invented thousands of years ago and are still used every day.",
+            "examples": [
+              {"problem": "Why is it easier to push a wheelchair up a ramp than to lift it up stairs?", "answer": "A ramp (inclined plane) spreads the work over a longer distance, so you need less force. Lifting straight up requires more force over a shorter distance.", "explanation": "Simple machines trade distance for force — you push over a longer distance but with less effort."},
+              {"problem": "Name the six simple machines.", "answer": "Lever, inclined plane, wheel and axle, pulley, wedge, and screw.", "explanation": "Every complex machine is made up of combinations of these six basic simple machines."}
+            ],
+            "key_vocabulary": ["simple machine", "force", "work", "lever", "inclined plane", "wheel and axle", "pulley", "wedge", "screw"],
+            "real_world": "You use simple machines every day without even thinking about it! Scissors are two levers and two wedges. A doorknob is a wheel and axle. Stairs are inclined planes."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a simple machine do?", "options": ["Creates energy from nothing", "Makes work easier by changing force or direction", "Does homework for you", "Runs on batteries"], "correct": 1, "hint": "Simple machines help us by changing how much force we need or the direction of the force."},
+            {"type": "fill_in", "question": "There are ___ types of simple machines.", "answer": "six", "hint": "Count them: lever, inclined plane, wheel and axle, pulley, wedge, screw."},
+            {"type": "true_false", "question": "Simple machines need electricity to work.", "answer": false, "hint": "A ramp has no motor or batteries. Simple machines work by changing force, not using electricity."},
+            {"type": "multiple_choice", "question": "In science, 'work' means:", "options": ["Going to a job", "Doing homework", "Using force to move something over a distance", "Thinking really hard"], "correct": 2, "hint": "In science, work is specifically about force and movement."},
+            {"type": "true_false", "question": "A ramp is a simple machine.", "answer": true, "hint": "A ramp (inclined plane) makes it easier to move things up by spreading the work over a longer distance."},
+            {"type": "multiple_choice", "question": "Which of these is NOT a simple machine?", "options": ["Lever", "Computer", "Pulley", "Wedge"], "correct": 1, "hint": "A computer is a complex electronic device, not one of the six simple machines."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-5-2",
+          "title": "Levers and Inclined Planes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A lever is a bar that rests on a support point called a fulcrum. When you push down on one side of the lever, the other side goes up. Levers make it easier to lift heavy things. A seesaw on a playground is a lever — the center is the fulcrum, and when one side goes down, the other goes up. Other examples of levers include a crowbar, a bottle opener, and even your arm (your elbow is the fulcrum!). An inclined plane is a flat surface that is tilted at an angle — basically a ramp. Inclined planes make it easier to move things up or down. Instead of lifting a heavy box straight up to a truck, you can push it up a ramp using less force over a longer distance. Other examples of inclined planes include stairs, slides, and ramps for wheelchairs.",
+            "examples": [
+              {"problem": "How does a seesaw work as a lever?", "answer": "The center of the seesaw is the fulcrum. When one person pushes down on their side, the force lifts the other person up on the other side.", "explanation": "The lever changes the direction of force — pushing down on one end makes the other end go up."},
+              {"problem": "Why do buildings have ramps?", "answer": "Ramps (inclined planes) make it easier for people in wheelchairs, with strollers, or carrying heavy loads to move between different levels without lifting.", "explanation": "A ramp lets you travel a longer distance with less effort, instead of lifting straight up."}
+            ],
+            "key_vocabulary": ["lever", "fulcrum", "inclined plane", "ramp", "force", "effort", "distance"],
+            "real_world": "When you use a claw hammer to pull out a nail, you are using a lever! The head of the hammer is the fulcrum, and when you pull the handle, the claw lifts the nail out."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the support point of a lever called?", "options": ["The handle", "The base", "The fulcrum", "The top"], "correct": 2, "hint": "This is the point where the lever rests and pivots."},
+            {"type": "fill_in", "question": "An inclined plane is another name for a ___.", "answer": "ramp", "hint": "Think of a flat, sloped surface that helps move things up or down."},
+            {"type": "true_false", "question": "A seesaw is an example of a lever.", "answer": true, "hint": "A seesaw has a bar that balances on a center point. One side goes down while the other goes up."},
+            {"type": "multiple_choice", "question": "Which of these is an example of an inclined plane?", "options": ["A seesaw", "A wheelchair ramp", "A pair of scissors", "A door handle"], "correct": 1, "hint": "Which one is a flat, tilted surface that helps you move things to a higher level?"},
+            {"type": "true_false", "question": "An inclined plane lets you use less force by traveling a shorter distance.", "answer": false, "hint": "An inclined plane lets you use less force, but you travel a LONGER distance."},
+            {"type": "multiple_choice", "question": "Which part of your body works like a lever?", "options": ["Your head", "Your arm (with elbow as fulcrum)", "Your hair", "Your teeth"], "correct": 1, "hint": "Think about bending your arm. The joint in the middle acts as the pivot point."},
+            {"type": "fill_in", "question": "A lever is a bar that rests on a support point called a ___.", "answer": "fulcrum", "hint": "This word describes the pivot point of a lever."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-5-3",
+          "title": "Wheel and Axle, and Pulleys",
+          "type": "lesson",
+          "content": {
+            "explanation": "A wheel and axle is a simple machine made of a large wheel attached to a smaller rod called an axle. When the wheel turns, the axle turns too (or vice versa). This simple machine makes it much easier to move things. Imagine trying to move a heavy cart without wheels — you would have to drag it! With wheels, the cart rolls easily. Other examples of wheel and axle include doorknobs, steering wheels, screwdrivers, and bicycle wheels. A pulley is a wheel with a groove around its edge and a rope or chain that fits in the groove. When you pull down on one end of the rope, the other end goes up. Pulleys are great for lifting heavy things. A simple pulley changes the direction of force — instead of pushing up, you pull down, which is easier because gravity helps you. Cranes use multiple pulleys together to lift very heavy loads like steel beams.",
+            "examples": [
+              {"problem": "How does a doorknob use the wheel and axle?", "answer": "The doorknob is the wheel that you turn. It is attached to a smaller axle that goes through the door and turns the latch.", "explanation": "Turning the large knob (wheel) makes the small axle turn with more force, which opens the latch."},
+              {"problem": "How does a flagpole pulley work?", "answer": "A rope goes over a pulley at the top of the flagpole. When you pull down on one end of the rope, the flag goes up on the other end.", "explanation": "The pulley changes the direction of your force — you pull DOWN and the flag goes UP."}
+            ],
+            "key_vocabulary": ["wheel", "axle", "pulley", "rope", "groove", "direction", "rotate"],
+            "real_world": "Elevators use pulleys! Strong cables run over pulleys to lift the elevator car up and lower it down in tall buildings."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are the two parts of a wheel and axle?", "options": ["A rope and a hook", "A large wheel and a smaller rod (axle)", "Two ropes", "A board and a nail"], "correct": 1, "hint": "The name tells you — a WHEEL and an AXLE."},
+            {"type": "fill_in", "question": "A pulley is a wheel with a ___ and a rope.", "answer": "groove", "hint": "This is the channel around the edge of the pulley wheel where the rope sits."},
+            {"type": "true_false", "question": "A doorknob is an example of a wheel and axle.", "answer": true, "hint": "You turn the knob (wheel) and it rotates a rod (axle) that opens the door latch."},
+            {"type": "multiple_choice", "question": "What does a simple pulley change?", "options": ["The color of the rope", "The direction of the force", "The weight of the object", "The size of the object"], "correct": 1, "hint": "With a pulley, you pull DOWN and the object goes UP."},
+            {"type": "true_false", "question": "Wheels make it harder to move things.", "answer": false, "hint": "Is it easier to carry a heavy suitcase or roll it on wheels?"},
+            {"type": "multiple_choice", "question": "Which of these uses a pulley?", "options": ["A ramp", "A flagpole", "A seesaw", "A slide"], "correct": 1, "hint": "Think about how you raise a flag. You pull a rope that goes over a wheel at the top."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-5-4",
+          "title": "Wedges and Screws",
+          "type": "lesson",
+          "content": {
+            "explanation": "A wedge is a simple machine with one thick end and one thin, sharp end. When you push the thin end of a wedge into something, it splits the thing apart or pushes it to the side. An axe is a wedge — when you swing it into a log, the thin edge goes in first and forces the wood apart. Knives, chisels, nails, and even your front teeth are wedges! A doorstop is a wedge that you push under a door to hold it open. A screw is actually an inclined plane wrapped around a cylinder (like a pole). If you unwound the threads of a screw, they would form a ramp. Screws convert a turning force into a pushing or pulling force. When you turn a screw, it moves deeper into the material, holding things together very tightly. Examples of screws include jar lids, light bulbs (which twist in), and bolts.",
+            "examples": [
+              {"problem": "How is a knife a wedge?", "answer": "A knife has a thin, sharp edge (the blade) that pushes into food and splits it apart when you cut.", "explanation": "The wedge shape concentrates your force on a very thin edge, making it easier to split or cut through materials."},
+              {"problem": "How is a screw related to an inclined plane?", "answer": "A screw is an inclined plane (ramp) wrapped around a cylinder. The threads of a screw are like a tiny spiral ramp.", "explanation": "If you cut a triangle from paper (representing an inclined plane) and wrapped it around a pencil, you would see it looks just like screw threads!"}
+            ],
+            "key_vocabulary": ["wedge", "screw", "threads", "split", "sharp", "cylinder", "force"],
+            "real_world": "Zippers use tiny wedges! The slider has a small wedge inside that either pushes the teeth apart (to open) or pushes them together (to close) as you slide it."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What shape is a wedge?", "options": ["Round like a ball", "Thick on one end and thin/sharp on the other", "Flat like a pancake", "Square like a block"], "correct": 1, "hint": "Think about the shape of an axe head or a doorstop."},
+            {"type": "fill_in", "question": "A screw is an inclined plane wrapped around a ___.", "answer": "cylinder", "hint": "Think of the round, pole-like shape that the screw threads wrap around."},
+            {"type": "true_false", "question": "Your front teeth work as wedges when you bite into food.", "answer": true, "hint": "Your front teeth are thin and sharp, perfect for cutting into food."},
+            {"type": "multiple_choice", "question": "Which of these is a wedge?", "options": ["A wheel", "A rope", "An axe", "A pulley"], "correct": 2, "hint": "Which one has a thin, sharp edge used to split things?"},
+            {"type": "true_false", "question": "A jar lid uses a screw mechanism to stay on the jar.", "answer": true, "hint": "Think about how you twist a jar lid on and off. The threads act like a screw."},
+            {"type": "multiple_choice", "question": "What does a wedge do?", "options": ["Lifts things straight up", "Splits things apart or pushes them to the side", "Carries things across a room", "Makes things heavier"], "correct": 1, "hint": "Think about what happens when you push a doorstop under a door or chop wood with an axe."},
+            {"type": "fill_in", "question": "The spiral ridges around a screw are called ___.", "answer": "threads", "hint": "These ridges wrap around the screw like a tiny spiral staircase."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-5-5",
+          "title": "Simple Machines in Everyday Life",
+          "type": "lesson",
+          "content": {
+            "explanation": "Simple machines are everywhere! Most complex machines and tools are made up of two or more simple machines working together. These combinations are called compound machines. Scissors are a compound machine made of two levers and two wedges. A wheelbarrow combines a lever (the handles), a wheel and axle, and an inclined plane (the tilted bucket). A bicycle uses wheel and axle (the wheels), levers (brakes, pedals), pulleys (chain and gears), and screws (bolts holding it together). Even something as simple as a broom is a lever — your top hand is the fulcrum, and the sweeping end is moved by pushing with your bottom hand. Understanding simple machines helps engineers and inventors design better tools. When you look at any machine, try to identify which simple machines are part of it!",
+            "examples": [
+              {"problem": "What simple machines make up a pair of scissors?", "answer": "Two levers (the handles) and two wedges (the sharp blades).", "explanation": "The handles act as levers with the screw in the middle as the fulcrum, and the blades are wedges that cut through paper."},
+              {"problem": "What simple machines are in a wheelbarrow?", "answer": "A wheel and axle (the front wheel), a lever (the handles), and an inclined plane (the tilted bucket).", "explanation": "Multiple simple machines work together to make the wheelbarrow much easier to use than carrying heavy loads by hand."}
+            ],
+            "key_vocabulary": ["compound machine", "combination", "design", "engineer", "inventor", "tool"],
+            "real_world": "Engineers use their knowledge of simple machines to design everything from can openers to roller coasters. Next time you use a tool, see if you can figure out which simple machines are in it!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a compound machine?", "options": ["A machine that runs on electricity", "Two or more simple machines working together", "A very heavy machine", "A machine made of plastic"], "correct": 1, "hint": "The word 'compound' means combining multiple things together."},
+            {"type": "fill_in", "question": "Scissors are made of two levers and two ___.", "answer": "wedges", "hint": "The sharp blades cut through material like a thin, sharp simple machine."},
+            {"type": "true_false", "question": "A bicycle is an example of a compound machine.", "answer": true, "hint": "A bicycle uses wheels, levers, pulleys, and screws — multiple simple machines together."},
+            {"type": "multiple_choice", "question": "Which simple machine is found in a wheelbarrow?", "options": ["Only a pulley", "Only a screw", "Wheel and axle, lever, and inclined plane", "Only a wedge"], "correct": 2, "hint": "Think about all the different parts of a wheelbarrow and what type of simple machine each one is."},
+            {"type": "true_false", "question": "A broom can work as a lever.", "answer": true, "hint": "When you sweep, your top hand acts as a fulcrum and your bottom hand applies force to move the sweeping end."},
+            {"type": "multiple_choice", "question": "Why do engineers need to understand simple machines?", "options": ["To pass tests", "To design better tools and machines", "To play games", "To cook food"], "correct": 1, "hint": "Engineers design and build things. Understanding simple machines helps them create better designs."},
+            {"type": "fill_in", "question": "A machine made up of two or more simple machines is called a ___ machine.", "answer": "compound", "hint": "This word means 'made of multiple parts combined together.'"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many types of simple machines are there?", "options": ["3", "4", "6", "8"], "correct": 2},
+          {"type": "true_false", "question": "A simple machine makes work easier by changing force or direction.", "answer": true},
+          {"type": "fill_in", "question": "The support point of a lever is called the ___.", "answer": "fulcrum"},
+          {"type": "multiple_choice", "question": "Which simple machine is a ramp?", "options": ["Lever", "Pulley", "Inclined plane", "Wedge"], "correct": 2},
+          {"type": "multiple_choice", "question": "A screw is an inclined plane wrapped around a:", "options": ["Ball", "Cylinder", "Cube", "Rope"], "correct": 1},
+          {"type": "true_false", "question": "A knife is an example of a wedge.", "answer": true},
+          {"type": "multiple_choice", "question": "What does a pulley change?", "options": ["The color of an object", "The weight of an object", "The direction of force", "The size of an object"], "correct": 2},
+          {"type": "fill_in", "question": "Two or more simple machines working together form a ___ machine.", "answer": "compound"},
+          {"type": "multiple_choice", "question": "Which pair of simple machines make up scissors?", "options": ["Pulleys and wheels", "Levers and wedges", "Screws and ramps", "Wheels and axles"], "correct": 1},
+          {"type": "true_false", "question": "Simple machines need electricity to work.", "answer": false}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "machine_mechanic"
+      }
+    },
+    {
+      "id": "3-sci-6",
+      "title": "Weather & Climate",
+      "description": "Learn about different types of weather, how to measure and predict weather, and the difference between weather and climate.",
+      "lessons": [
+        {
+          "id": "3-sci-6-1",
+          "title": "What Is Weather?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weather is the condition of the atmosphere (the air around us) at a specific place and time. Weather includes temperature (how hot or cold it is), precipitation (rain, snow, sleet, or hail), wind (how fast and which direction the air is moving), humidity (how much moisture is in the air), and cloud cover (how many clouds are in the sky). Weather can change from hour to hour and day to day. It might be sunny in the morning and rainy in the afternoon. Weather is different from climate — weather is what is happening right now or today, while climate is the average weather pattern over a long period of time (usually 30 years or more). Scientists who study and predict weather are called meteorologists. They use special tools and technology to help forecast what the weather will be.",
+            "examples": [
+              {"problem": "What is the difference between weather and climate?", "answer": "Weather is the short-term condition of the atmosphere (today, this week). Climate is the average weather pattern in an area over a long period of time (decades).", "explanation": "Think of it this way: weather is what you wear today, climate is what clothes are in your closet for the whole year."},
+              {"problem": "Name five parts of weather.", "answer": "Temperature, precipitation, wind, humidity, and cloud cover.", "explanation": "All of these factors together describe the weather conditions at any given time and place."}
+            ],
+            "key_vocabulary": ["weather", "climate", "temperature", "precipitation", "wind", "humidity", "atmosphere", "meteorologist"],
+            "real_world": "Meteorologists on TV use radar, satellites, and computer models to predict the weather. Checking the weather forecast helps you decide what to wear and whether to bring an umbrella!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is weather?", "options": ["The average conditions over many years", "The condition of the atmosphere at a specific place and time", "The type of soil in an area", "The number of animals in a habitat"], "correct": 1, "hint": "Weather describes what the air and sky are doing right now at a specific place."},
+            {"type": "fill_in", "question": "Scientists who study and predict weather are called ___.", "answer": "meteorologists", "hint": "This word comes from 'meteor,' which originally meant 'things in the sky.'"},
+            {"type": "true_false", "question": "Weather and climate are the same thing.", "answer": false, "hint": "One describes today's conditions, the other describes average conditions over many years."},
+            {"type": "multiple_choice", "question": "Which of these is NOT a part of weather?", "options": ["Temperature", "Wind", "Soil type", "Precipitation"], "correct": 2, "hint": "Weather describes the atmosphere (air). Which option is about the ground, not the air?"},
+            {"type": "true_false", "question": "Weather can change from day to day.", "answer": true, "hint": "Think about how it might be sunny today and rainy tomorrow."},
+            {"type": "multiple_choice", "question": "What does humidity measure?", "options": ["How fast the wind blows", "How hot it is", "How much moisture is in the air", "How many clouds are in the sky"], "correct": 2, "hint": "On a humid day, the air feels damp and sticky because there is a lot of this in the air."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-6-2",
+          "title": "Measuring Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "Meteorologists use special tools to measure different parts of the weather. A thermometer measures temperature — how hot or cold the air is. Temperature is measured in degrees Fahrenheit (°F) or degrees Celsius (°C). A rain gauge collects and measures how much rain has fallen. It is basically a container with measurement marks on the side. An anemometer measures wind speed. It has small cups that spin when the wind blows — the faster they spin, the stronger the wind. A wind vane (also called a weather vane) shows the direction the wind is blowing from. A barometer measures air pressure — the weight of the air pushing down on us. Falling air pressure often means a storm is coming, while rising air pressure usually means fair weather. A hygrometer measures humidity (moisture in the air).",
+            "examples": [
+              {"problem": "What tool measures temperature?", "answer": "A thermometer.", "explanation": "Thermometers contain a liquid (like mercury or alcohol) that expands when heated and contracts when cooled, showing the temperature on a scale."},
+              {"problem": "What does a barometer tell us?", "answer": "A barometer measures air pressure. Low pressure often means stormy weather is coming, and high pressure usually means clear, fair weather.", "explanation": "Air has weight and pushes down on us. When the pressure drops, it often means a storm system is moving in."}
+            ],
+            "key_vocabulary": ["thermometer", "rain gauge", "anemometer", "wind vane", "barometer", "hygrometer", "air pressure", "temperature"],
+            "real_world": "You can make your own rain gauge at home using a clear plastic bottle with measurement marks! Set it outside during a rainstorm and measure how much rain falls."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What tool measures wind speed?", "options": ["Thermometer", "Barometer", "Anemometer", "Rain gauge"], "correct": 2, "hint": "This tool has cups that spin in the wind. The faster they spin, the stronger the wind."},
+            {"type": "fill_in", "question": "A ___ is used to measure temperature.", "answer": "thermometer", "hint": "'Thermo' means heat. This tool measures how hot or cold something is."},
+            {"type": "true_false", "question": "A rain gauge measures how much rain has fallen.", "answer": true, "hint": "This tool collects rain and has measurements marked on the side so you can read how much fell."},
+            {"type": "multiple_choice", "question": "What does a barometer measure?", "options": ["Wind direction", "Temperature", "Air pressure", "Rainfall"], "correct": 2, "hint": "This instrument measures the weight of the air pushing down on us."},
+            {"type": "multiple_choice", "question": "A wind vane tells you:", "options": ["How fast the wind is blowing", "The direction the wind is coming from", "The temperature of the wind", "How much rain is falling"], "correct": 1, "hint": "A wind vane points in the direction the wind is blowing from."},
+            {"type": "true_false", "question": "Falling air pressure on a barometer often means a storm is coming.", "answer": true, "hint": "When air pressure drops, it usually means a weather system with clouds and rain is moving into the area."},
+            {"type": "fill_in", "question": "Temperature is measured in degrees ___ or degrees Celsius.", "answer": "Fahrenheit", "hint": "In the United States, we commonly use this temperature scale. Water freezes at 32° on this scale."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-6-3",
+          "title": "Types of Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are many different types of weather. Sunny weather means clear skies with lots of sunlight. Cloudy weather means the sky is covered with clouds, blocking some or all of the sun. Rainy weather brings precipitation as liquid water falling from clouds. Snowy weather occurs when temperatures are cold enough for precipitation to fall as snowflakes. Windy weather means the air is moving quickly — sometimes gently as a breeze, sometimes strongly as a gust. Foggy weather happens when clouds form very close to the ground, making it hard to see far. Stormy weather can include thunderstorms (with lightning, thunder, heavy rain, and sometimes hail), blizzards (heavy snow with strong winds), and tornadoes (violently spinning columns of air). Severe weather like hurricanes, tornadoes, and blizzards can be dangerous and people need to take shelter to stay safe.",
+            "examples": [
+              {"problem": "What causes thunder?", "answer": "Lightning heats the air around it to incredibly high temperatures. The superheated air expands so quickly that it creates a shockwave — that is the sound of thunder!", "explanation": "Light travels faster than sound, so you see lightning before you hear thunder. You can estimate how far away a storm is by counting seconds between lightning and thunder — about 5 seconds equals one mile."},
+              {"problem": "What is a blizzard?", "answer": "A blizzard is a severe winter storm with heavy snowfall, strong winds (at least 35 mph), and low visibility that lasts at least three hours.", "explanation": "Blizzards can make it very dangerous to drive or be outside because you cannot see and the cold can cause frostbite."}
+            ],
+            "key_vocabulary": ["sunny", "cloudy", "rainy", "snowy", "windy", "foggy", "thunderstorm", "blizzard", "tornado", "hurricane", "severe weather"],
+            "real_world": "Weather forecasts help communities prepare for severe weather. Schools practice tornado drills and hurricane evacuations so everyone knows what to do when dangerous weather is on the way."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What type of severe weather is a violently spinning column of air?", "options": ["Hurricane", "Blizzard", "Tornado", "Thunderstorm"], "correct": 2, "hint": "This funnel-shaped storm spins rapidly and can cause destruction along its narrow path."},
+            {"type": "true_false", "question": "Fog is actually a cloud that forms close to the ground.", "answer": true, "hint": "Fog and clouds are both made of tiny water droplets. The only difference is where they form."},
+            {"type": "fill_in", "question": "A severe winter storm with heavy snow and strong winds is called a ___.", "answer": "blizzard", "hint": "This type of storm makes it impossible to see and very dangerous to be outside in winter."},
+            {"type": "multiple_choice", "question": "What causes thunder?", "options": ["Clouds bumping into each other", "Lightning heating the air rapidly", "Wind blowing through mountains", "Rain hitting the ground"], "correct": 1, "hint": "Lightning is extremely hot. What happens to air when it is heated very quickly?"},
+            {"type": "true_false", "question": "You should go outside during a tornado to watch it.", "answer": false, "hint": "Tornadoes are very dangerous! You should always take shelter in a safe place during a tornado."},
+            {"type": "multiple_choice", "question": "Which type of weather would you expect on a day with clear skies and lots of sunlight?", "options": ["Stormy", "Snowy", "Sunny", "Foggy"], "correct": 2, "hint": "If the sky is clear and the sun is shining, what do we call that kind of weather?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-sci-6-4",
+          "title": "Seasons and Climate",
+          "type": "lesson",
+          "content": {
+            "explanation": "While weather changes day to day, climate is the average pattern of weather in a region over a long period (usually 30 years or more). Different places on Earth have different climates. Tropical climates near the equator are hot and wet all year. Polar climates near the North and South Poles are cold all year. Temperate climates (like most of the United States) have four seasons: spring, summer, fall, and winter. Seasons happen because Earth is tilted on its axis as it orbits the sun. When the Northern Hemisphere is tilted toward the sun, it gets more direct sunlight and has summer. When it is tilted away from the sun, it gets less direct sunlight and has winter. Deserts have a hot, dry climate with very little rainfall. Rainforests have a warm, wet climate with lots of rain. The type of climate an area has determines what plants and animals can live there.",
+            "examples": [
+              {"problem": "Why do we have seasons?", "answer": "Earth is tilted on its axis. As Earth orbits the sun, different parts of the planet are tilted toward or away from the sun, receiving more or less direct sunlight.", "explanation": "When your hemisphere is tilted toward the sun, you get more direct sunlight and warmer weather (summer). When tilted away, you get less and have winter."},
+              {"problem": "What is the difference between weather and climate?", "answer": "Weather is what is happening outside right now (today's temperature, rain, wind). Climate is the average weather pattern in an area over many years.", "explanation": "A city might have rainy weather today, but its climate overall might be dry if it rarely rains throughout the year."}
+            ],
+            "key_vocabulary": ["climate", "season", "spring", "summer", "fall", "winter", "tropical", "polar", "temperate", "axis", "equator"],
+            "real_world": "When packing for a vacation, you check the climate of your destination (is it usually hot or cold there?) and the weather forecast (will it rain while you are visiting?)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What causes the seasons?", "options": ["The sun getting hotter and cooler", "Earth's tilt on its axis as it orbits the sun", "The moon blocking the sun", "Wind patterns changing"], "correct": 1, "hint": "Earth does not spin straight up and down — it is tilted, and this tilt causes the seasons."},
+            {"type": "fill_in", "question": "The four seasons in temperate climates are spring, summer, fall, and ___.", "answer": "winter", "hint": "This season is the coldest and comes after fall."},
+            {"type": "true_false", "question": "Climate describes the average weather in an area over a long period of time.", "answer": true, "hint": "Climate is the 'big picture' of weather patterns, usually measured over 30 years or more."},
+            {"type": "multiple_choice", "question": "Which climate type is found near the equator?", "options": ["Polar", "Temperate", "Tropical", "Arctic"], "correct": 2, "hint": "The equator gets the most direct sunlight. What kind of climate does that create?"},
+            {"type": "true_false", "question": "Deserts are always cold.", "answer": false, "hint": "Think about the Sahara Desert. Is it known for being cold or hot?"},
+            {"type": "multiple_choice", "question": "When the Northern Hemisphere is tilted toward the sun, it experiences:", "options": ["Winter", "Spring", "Fall", "Summer"], "correct": 3, "hint": "Tilting toward the sun means more direct sunlight, which means warmer temperatures."},
+            {"type": "fill_in", "question": "A climate that is hot and wet all year round is called a ___ climate.", "answer": "tropical", "hint": "This type of climate is found near the equator, in places like the Amazon rainforest."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is weather?", "options": ["The average conditions over many years", "The condition of the atmosphere at a specific place and time", "The type of animals in an area", "The shape of the land"], "correct": 1},
+          {"type": "true_false", "question": "A thermometer measures wind speed.", "answer": false},
+          {"type": "fill_in", "question": "An ___ measures wind speed.", "answer": "anemometer"},
+          {"type": "multiple_choice", "question": "What type of weather involves a violently spinning column of air?", "options": ["Blizzard", "Fog", "Tornado", "Drizzle"], "correct": 2},
+          {"type": "true_false", "question": "Climate and weather are the same thing.", "answer": false},
+          {"type": "multiple_choice", "question": "Why do we have seasons?", "options": ["The sun changes size", "Earth's tilt on its axis as it orbits the sun", "The moon's gravity", "Clouds block the sun"], "correct": 1},
+          {"type": "fill_in", "question": "A ___ measures air pressure.", "answer": "barometer"},
+          {"type": "multiple_choice", "question": "Which climate type has four seasons?", "options": ["Tropical", "Polar", "Temperate", "Desert"], "correct": 2},
+          {"type": "true_false", "question": "Fog is a cloud that forms close to the ground.", "answer": true},
+          {"type": "multiple_choice", "question": "Falling air pressure usually indicates:", "options": ["Sunny weather", "A storm is approaching", "The temperature is rising", "Wind is decreasing"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "weather_watcher"
+      }
+    }
+  ]
+}

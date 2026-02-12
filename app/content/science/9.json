@@ -1,0 +1,3468 @@
+{
+  "grade": 9,
+  "subject": "science",
+  "units": [
+    {
+      "id": "9-science-1",
+      "title": "Scientific Method & Lab Safety",
+      "description": "Learn the systematic process of scientific investigation and essential laboratory safety practices.",
+      "lessons": [
+        {
+          "id": "9-science-1-1",
+          "title": "The Scientific Method",
+          "type": "lesson",
+          "content": {
+            "explanation": "The scientific method is a systematic process scientists use to investigate questions about the natural world. It begins with an observation \u2014 something you notice that sparks curiosity. From there, you form a hypothesis, which is a testable, educated guess that predicts an outcome. Next, you design and conduct an experiment to test your hypothesis. You collect and analyze data, then draw a conclusion about whether the data supports or refutes your hypothesis. Finally, you communicate your results so others can review and replicate your work. The scientific method is not always a rigid, linear sequence; scientists often revisit steps, refine hypotheses, and repeat experiments.",
+            "examples": [
+              {
+                "problem": "A student notices plants near a window grow taller. What is the next step?",
+                "answer": "Form a hypothesis",
+                "explanation": "After making an observation, the next step is to ask a question and then form a testable hypothesis, such as 'Plants that receive more sunlight will grow taller.'"
+              },
+              {
+                "problem": "Hypothesis: 'Students who eat breakfast score higher on tests.' Is this testable?",
+                "answer": "Yes",
+                "explanation": "This is testable because you can compare test scores of students who eat breakfast with those who do not, while controlling other variables."
+              },
+              {
+                "problem": "An experiment finds data that contradicts the hypothesis. What should the scientist do?",
+                "answer": "Revise the hypothesis and test again",
+                "explanation": "A failed hypothesis is not a failure \u2014 it provides new information. The scientist should revise the hypothesis based on the data and design a new experiment."
+              }
+            ],
+            "key_vocabulary": [
+              "scientific method",
+              "observation",
+              "hypothesis",
+              "experiment",
+              "data",
+              "conclusion",
+              "replication"
+            ],
+            "real_world": "Medical researchers use the scientific method to develop and test new treatments. Every drug you take was validated through rigorous experiments before reaching patients."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which step of the scientific method comes directly after forming a hypothesis?",
+              "options": [
+                "Making an observation",
+                "Drawing a conclusion",
+                "Designing an experiment",
+                "Communicating results"
+              ],
+              "correct": 2,
+              "hint": "After you predict what will happen, you need to test it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes a hypothesis scientific?",
+              "options": [
+                "It must be correct",
+                "It must be testable and falsifiable",
+                "It must involve chemicals",
+                "It must be published"
+              ],
+              "correct": 1,
+              "hint": "A scientific hypothesis must be something you can test and potentially disprove."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process of repeating an experiment to verify results is called ___.",
+              "answer": "replication",
+              "hint": "This ensures the results are reliable and not due to chance."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: A hypothesis that is not supported by data is considered a failure.",
+              "answer": "false",
+              "hint": "Unsupported hypotheses still give us valuable information."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A scientist changes one factor in an experiment and measures the result. What type of investigation is this?",
+              "options": [
+                "Observational study",
+                "Controlled experiment",
+                "Survey",
+                "Case study"
+              ],
+              "correct": 1,
+              "hint": "Controlled experiments involve deliberately changing a variable."
+            },
+            {
+              "type": "fill_in",
+              "question": "An educated, testable prediction about the outcome of an experiment is called a ___.",
+              "answer": "hypothesis",
+              "hint": "It starts with 'If... then...' format."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-1-2",
+          "title": "Variables and Controls",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a controlled experiment, a scientist changes one factor at a time to determine its effect. The independent variable is the factor the scientist deliberately changes. The dependent variable is the factor that is measured or observed \u2014 it 'depends' on the independent variable. Controlled variables (constants) are all the factors that are kept the same so they do not influence the results. A control group receives no treatment or the standard treatment, providing a baseline for comparison. The experimental group receives the treatment being tested. Having proper controls ensures that any change in the dependent variable is actually caused by the independent variable.",
+            "examples": [
+              {
+                "problem": "Experiment: Testing if fertilizer helps plants grow. What is the independent variable?",
+                "answer": "The amount of fertilizer",
+                "explanation": "The independent variable is what the scientist changes \u2014 in this case, whether or not fertilizer is applied (or how much)."
+              },
+              {
+                "problem": "In the fertilizer experiment, what is the dependent variable?",
+                "answer": "Plant growth (height)",
+                "explanation": "The dependent variable is what you measure \u2014 here, you would measure how tall the plants grow over time."
+              },
+              {
+                "problem": "Which plants serve as the control group?",
+                "answer": "Plants that receive no fertilizer",
+                "explanation": "The control group gets no treatment, providing a baseline to compare against the fertilized plants."
+              }
+            ],
+            "key_vocabulary": [
+              "independent variable",
+              "dependent variable",
+              "controlled variable",
+              "control group",
+              "experimental group",
+              "constant"
+            ],
+            "real_world": "Drug trials always include a control group that receives a placebo (inactive pill) so researchers can tell if the real drug actually works better than no treatment."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In an experiment testing if music affects study performance, what is the independent variable?",
+              "options": [
+                "Test scores",
+                "Type of music played",
+                "Number of students",
+                "Time of day"
+              ],
+              "correct": 1,
+              "hint": "The independent variable is the factor you deliberately change."
+            },
+            {
+              "type": "fill_in",
+              "question": "The variable that is measured in an experiment is the ___ variable.",
+              "answer": "dependent",
+              "hint": "It 'depends' on what you change."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is a control group necessary?",
+              "options": [
+                "To make the experiment longer",
+                "To provide a baseline for comparison",
+                "To eliminate all variables",
+                "To ensure the hypothesis is correct"
+              ],
+              "correct": 1,
+              "hint": "Without a baseline, you cannot tell if the treatment had an effect."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: An experiment can have more than one independent variable changed at a time and still be valid.",
+              "answer": "false",
+              "hint": "Changing multiple variables makes it impossible to know which one caused the effect."
+            },
+            {
+              "type": "fill_in",
+              "question": "Variables that are kept the same throughout an experiment are called ___ variables.",
+              "answer": "controlled",
+              "hint": "These are also known as constants."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A student tests three brands of paper towels for absorbency using the same amount of water each time. What is the controlled variable?",
+              "options": [
+                "Brand of paper towel",
+                "Amount of water absorbed",
+                "Amount of water used",
+                "Number of trials"
+              ],
+              "correct": 2,
+              "hint": "The amount of water used is kept the same (controlled) across all tests."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-1-3",
+          "title": "Data Collection and Analysis",
+          "type": "lesson",
+          "content": {
+            "explanation": "Collecting accurate data is essential for drawing valid conclusions. Quantitative data involves numbers and measurements (mass, length, temperature, count), while qualitative data involves descriptions and observations (color, texture, smell). Scientists record data in organized tables and then create graphs to visualize patterns. Bar graphs compare categories, line graphs show change over time, and scatter plots reveal relationships between two variables. When analyzing data, scientists look for trends, calculate averages, and determine whether the results support or refute their hypothesis. Repeated trials increase reliability, and sample size matters \u2014 larger samples give more trustworthy results.",
+            "examples": [
+              {
+                "problem": "A student records the temperature of water every minute as it heats. What type of graph should be used?",
+                "answer": "Line graph",
+                "explanation": "A line graph is best for showing how a variable changes over time."
+              },
+              {
+                "problem": "Recording that a solution turned blue is what type of data?",
+                "answer": "Qualitative",
+                "explanation": "Qualitative data describes qualities or characteristics, not numerical measurements."
+              },
+              {
+                "problem": "A student measures plant heights: 12 cm, 15 cm, 14 cm, 13 cm, 16 cm. What is the mean?",
+                "answer": "14 cm",
+                "explanation": "Add all values (12+15+14+13+16=70) and divide by the number of values (70/5=14)."
+              }
+            ],
+            "key_vocabulary": [
+              "quantitative data",
+              "qualitative data",
+              "bar graph",
+              "line graph",
+              "scatter plot",
+              "mean",
+              "sample size",
+              "trial"
+            ],
+            "real_world": "Weather forecasters collect massive amounts of quantitative data \u2014 temperature, pressure, humidity, wind speed \u2014 and use computer models to analyze patterns and predict weather."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of quantitative data?",
+              "options": [
+                "The flower is red",
+                "The solution smells like vinegar",
+                "The mass of the rock is ite 45 grams",
+                "The texture is rough"
+              ],
+              "correct": 2,
+              "hint": "Quantitative data involves numbers and measurements."
+            },
+            {
+              "type": "fill_in",
+              "question": "A graph that shows how a variable changes over time is called a ___ graph.",
+              "answer": "line",
+              "hint": "Think about connecting data points across time."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why should experiments include multiple trials?",
+              "options": [
+                "To use more materials",
+                "To increase reliability of results",
+                "To make the experiment harder",
+                "To change the hypothesis"
+              ],
+              "correct": 1,
+              "hint": "Repeating the experiment shows if results are consistent."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Qualitative data can include observations about color, smell, and texture.",
+              "answer": "true",
+              "hint": "Qualitative means describing qualities."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which graph type is best for comparing the test scores of four different classes?",
+              "options": [
+                "Line graph",
+                "Scatter plot",
+                "Bar graph",
+                "Pie chart"
+              ],
+              "correct": 2,
+              "hint": "Bar graphs are best for comparing values across categories."
+            },
+            {
+              "type": "fill_in",
+              "question": "The average of a data set is also called the ___.",
+              "answer": "mean",
+              "hint": "Add all values and divide by the count."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-1-4",
+          "title": "Lab Safety Rules and Equipment",
+          "type": "lesson",
+          "content": {
+            "explanation": "Laboratory safety is critical in science. Before any lab, you should know the location of safety equipment: the eyewash station, fire extinguisher, fire blanket, first aid kit, and emergency exits. Always wear appropriate personal protective equipment (PPE) including safety goggles, lab aprons, and gloves when handling chemicals. Never eat, drink, or taste anything in the lab. Always read the entire procedure before starting. When heating substances, point test tubes away from yourself and others. Handle glassware carefully and report any breakage immediately. When using a Bunsen burner, tie back long hair and loose clothing. Dispose of chemicals properly \u2014 never pour chemicals down the drain unless instructed. Wash your hands thoroughly after every lab.",
+            "examples": [
+              {
+                "problem": "A student accidentally splashes a chemical in their eye. What should they do first?",
+                "answer": "Go to the eyewash station immediately",
+                "explanation": "Flush the eye with water at the eyewash station for at least 15 minutes and notify the teacher."
+              },
+              {
+                "problem": "A beaker of liquid is being heated. Which direction should the opening face?",
+                "answer": "Away from all people",
+                "explanation": "Heated liquids can boil suddenly and splatter. Always point openings away from yourself and others."
+              },
+              {
+                "problem": "What PPE should you wear when working with hydrochloric acid?",
+                "answer": "Safety goggles, gloves, and lab apron",
+                "explanation": "Acids are corrosive and can burn skin and eyes, so full PPE is necessary."
+              }
+            ],
+            "key_vocabulary": [
+              "PPE",
+              "eyewash station",
+              "fire extinguisher",
+              "Bunsen burner",
+              "MSDS",
+              "goggles",
+              "hazard",
+              "corrosive"
+            ],
+            "real_world": "Every chemistry and biology lab in hospitals, universities, and industries follows strict safety protocols. OSHA (Occupational Safety and Health Administration) sets safety standards that protect millions of workers."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the FIRST thing you should do before starting any lab?",
+              "options": [
+                "Put on goggles",
+                "Light the Bunsen burner",
+                "Read the entire procedure",
+                "Start collecting data"
+              ],
+              "correct": 2,
+              "hint": "Always understand the full procedure before beginning."
+            },
+            {
+              "type": "fill_in",
+              "question": "The piece of safety equipment used to flush chemicals from your eyes is called an ___ station.",
+              "answer": "eyewash",
+              "hint": "It provides a stream of water to rinse your eyes."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is NEVER allowed in a science lab?",
+              "options": [
+                "Wearing goggles",
+                "Eating or drinking",
+                "Washing hands",
+                "Recording data"
+              ],
+              "correct": 1,
+              "hint": "Food and drink can become contaminated with chemicals."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: You should pour unused chemicals back into their original container.",
+              "answer": "false",
+              "hint": "This can contaminate the entire stock. Dispose of chemicals as instructed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should you do if you break a glass beaker?",
+              "options": [
+                "Pick up the pieces with your hands",
+                "Leave it and continue working",
+                "Notify the teacher immediately",
+                "Sweep it under the table"
+              ],
+              "correct": 2,
+              "hint": "Never handle broken glass with bare hands. Alert the teacher for proper cleanup."
+            },
+            {
+              "type": "fill_in",
+              "question": "PPE stands for Personal Protective ___.",
+              "answer": "Equipment",
+              "hint": "This includes goggles, gloves, and aprons."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-1",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the correct order of the scientific method?",
+            "options": [
+              "Conclusion, Hypothesis, Experiment, Observation",
+              "Observation, Hypothesis, Experiment, Conclusion",
+              "Hypothesis, Observation, Conclusion, Experiment",
+              "Experiment, Observation, Hypothesis, Conclusion"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The factor that a scientist deliberately changes in an experiment is called the ___ variable.",
+            "answer": "independent"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of data is described as numerical measurements?",
+            "options": [
+              "Qualitative",
+              "Quantitative",
+              "Subjective",
+              "Theoretical"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "When heating a test tube, you should point the opening:",
+            "options": [
+              "Toward yourself",
+              "Toward your lab partner",
+              "Away from all people",
+              "Downward"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "A group in an experiment that does not receive the treatment is called the ___ group.",
+            "answer": "control"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "scientific_method_master"
+      }
+    },
+    {
+      "id": "9-science-2",
+      "title": "Chemistry of Life",
+      "description": "Explore the atoms, molecules, and macromolecules that form the chemical foundation of all living things.",
+      "lessons": [
+        {
+          "id": "9-science-2-1",
+          "title": "Atoms, Elements, and Compounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "All matter is made of atoms \u2014 the smallest unit of an element that retains the properties of that element. An atom consists of a nucleus containing positively charged protons and neutral neutrons, surrounded by a cloud of negatively charged electrons. The number of protons defines the element (for example, carbon always has 6 protons). Elements are pure substances made of only one type of atom, and they are organized on the periodic table. When two or more elements chemically bond together, they form a compound. For instance, water (H2O) is a compound made of hydrogen and oxygen. Chemical bonds form when atoms share electrons (covalent bonds) or transfer electrons (ionic bonds). About 25 elements are essential to life, with carbon, hydrogen, oxygen, and nitrogen (CHON) making up about 96% of living matter.",
+            "examples": [
+              {
+                "problem": "How many protons does an oxygen atom have?",
+                "answer": "8",
+                "explanation": "Oxygen has the atomic number 8, meaning every oxygen atom has 8 protons in its nucleus."
+              },
+              {
+                "problem": "What type of bond holds the atoms together in a water molecule (H2O)?",
+                "answer": "Covalent bond",
+                "explanation": "In water, oxygen shares electrons with two hydrogen atoms, forming covalent bonds."
+              },
+              {
+                "problem": "What four elements make up most of living matter?",
+                "answer": "Carbon, Hydrogen, Oxygen, Nitrogen (CHON)",
+                "explanation": "These four elements account for approximately 96% of the mass of living organisms."
+              }
+            ],
+            "key_vocabulary": [
+              "atom",
+              "element",
+              "compound",
+              "proton",
+              "neutron",
+              "electron",
+              "covalent bond",
+              "ionic bond",
+              "periodic table"
+            ],
+            "real_world": "The carbon in your body was forged inside ancient stars billions of years ago. Every element heavier than hydrogen was created through nuclear fusion in stars \u2014 we are literally made of stardust."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What subatomic particle determines the identity of an element?",
+              "options": [
+                "Electron",
+                "Neutron",
+                "Proton",
+                "Photon"
+              ],
+              "correct": 2,
+              "hint": "The number of this particle defines the atomic number."
+            },
+            {
+              "type": "fill_in",
+              "question": "A bond formed by the sharing of electrons between atoms is called a ___ bond.",
+              "answer": "covalent",
+              "hint": "Think: co- means together, sharing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a compound?",
+              "options": [
+                "O2 (oxygen gas)",
+                "Fe (iron)",
+                "NaCl (table salt)",
+                "Au (gold)"
+              ],
+              "correct": 2,
+              "hint": "A compound contains two or more different elements bonded together."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Neutrons have a positive electrical charge.",
+              "answer": "false",
+              "hint": "The name gives a clue \u2014 neutrons are neutral."
+            },
+            {
+              "type": "fill_in",
+              "question": "The four most abundant elements in living organisms are abbreviated as ___.",
+              "answer": "CHON",
+              "hint": "Carbon, Hydrogen, Oxygen, Nitrogen."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where are electrons located in an atom?",
+              "options": [
+                "In the nucleus",
+                "Orbiting outside the nucleus",
+                "Attached to neutrons",
+                "Between protons"
+              ],
+              "correct": 1,
+              "hint": "Electrons move in an electron cloud surrounding the nucleus."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-2-2",
+          "title": "Properties of Water",
+          "type": "lesson",
+          "content": {
+            "explanation": "Water is essential to all known life, and its unique properties arise from its molecular structure. Water is a polar molecule \u2014 the oxygen end has a slight negative charge and the hydrogen end has a slight positive charge. This polarity allows water molecules to form hydrogen bonds with each other, giving water several life-supporting properties. Cohesion is the attraction between water molecules, which creates surface tension. Adhesion is the attraction between water and other substances, which allows water to travel up plant stems (capillary action). Water has a high specific heat capacity, meaning it resists temperature changes, helping organisms and environments maintain stable temperatures. Water is an excellent solvent \u2014 it dissolves more substances than any other common liquid, earning it the nickname 'universal solvent.' Uniquely, ice is less dense than liquid water, so it floats, insulating aquatic ecosystems in winter.",
+            "examples": [
+              {
+                "problem": "Why does ice float on water?",
+                "answer": "Ice is less dense than liquid water",
+                "explanation": "When water freezes, hydrogen bonds lock molecules into a crystalline structure that takes up more space, making ice less dense."
+              },
+              {
+                "problem": "Why does water bead up on a waxed car?",
+                "answer": "Cohesion between water molecules is stronger than adhesion to the wax",
+                "explanation": "Water molecules are more attracted to each other (cohesion) than to the nonpolar wax surface."
+              },
+              {
+                "problem": "Why do coastal cities have milder climates than inland cities?",
+                "answer": "Water's high specific heat capacity moderates temperature",
+                "explanation": "Large bodies of water absorb and release heat slowly, preventing extreme temperature swings."
+              }
+            ],
+            "key_vocabulary": [
+              "polar molecule",
+              "hydrogen bond",
+              "cohesion",
+              "adhesion",
+              "surface tension",
+              "specific heat",
+              "solvent",
+              "capillary action"
+            ],
+            "real_world": "Your body is about 60% water. Water transports nutrients in your blood, regulates your body temperature through sweating, and participates in nearly every chemical reaction in your cells."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of bond forms between neighboring water molecules?",
+              "options": [
+                "Covalent bond",
+                "Ionic bond",
+                "Hydrogen bond",
+                "Metallic bond"
+              ],
+              "correct": 2,
+              "hint": "The slight charges on polar water molecules attract each other."
+            },
+            {
+              "type": "fill_in",
+              "question": "The attraction between water molecules and other water molecules is called ___.",
+              "answer": "cohesion",
+              "hint": "Co- means together."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is water called the 'universal solvent'?",
+              "options": [
+                "It evaporates quickly",
+                "It dissolves more substances than most liquids",
+                "It is found everywhere",
+                "It has no taste"
+              ],
+              "correct": 1,
+              "hint": "Water's polarity allows it to dissolve many ionic and polar substances."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Water has a low specific heat capacity, which means it heats up quickly.",
+              "answer": "false",
+              "hint": "Water has a HIGH specific heat \u2014 it resists temperature changes."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process by which water moves up thin tubes against gravity is called ___ action.",
+              "answer": "capillary",
+              "hint": "This is how water travels up plant stems."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes water a polar molecule?",
+              "options": [
+                "It has equal charge distribution",
+                "The oxygen end is slightly negative and hydrogen end slightly positive",
+                "It contains ionic bonds",
+                "It is made of three atoms"
+              ],
+              "correct": 1,
+              "hint": "Unequal sharing of electrons creates partial charges."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-2-3",
+          "title": "Macromolecules: Carbohydrates and Lipids",
+          "type": "lesson",
+          "content": {
+            "explanation": "Living organisms are built from four types of large organic molecules called macromolecules. Carbohydrates are made of carbon, hydrogen, and oxygen and serve as the body's primary energy source. The simplest carbohydrates are monosaccharides (single sugars) like glucose. Two monosaccharides joined together form a disaccharide, such as sucrose (table sugar). Many monosaccharides linked in long chains form polysaccharides like starch (energy storage in plants), glycogen (energy storage in animals), and cellulose (structural support in plant cell walls). Lipids include fats, oils, waxes, and steroids. They are mostly nonpolar and do not dissolve in water. Fats are made of glycerol and three fatty acid chains (triglycerides). Saturated fats have no double bonds between carbon atoms and are solid at room temperature (butter). Unsaturated fats have one or more double bonds and are liquid at room temperature (olive oil). Lipids store long-term energy, insulate the body, cushion organs, and form cell membranes.",
+            "examples": [
+              {
+                "problem": "What is the monomer (building block) of carbohydrates?",
+                "answer": "Monosaccharide (simple sugar)",
+                "explanation": "Monosaccharides like glucose are the single units that link together to form larger carbohydrates."
+              },
+              {
+                "problem": "Is butter a saturated or unsaturated fat?",
+                "answer": "Saturated",
+                "explanation": "Butter is solid at room temperature because its fatty acids have no double bonds, allowing molecules to pack tightly."
+              },
+              {
+                "problem": "What polysaccharide do plants use to store energy?",
+                "answer": "Starch",
+                "explanation": "Plants store glucose as starch in roots and seeds. Animals store glucose as glycogen in the liver and muscles."
+              }
+            ],
+            "key_vocabulary": [
+              "carbohydrate",
+              "monosaccharide",
+              "disaccharide",
+              "polysaccharide",
+              "glucose",
+              "lipid",
+              "triglyceride",
+              "saturated fat",
+              "unsaturated fat"
+            ],
+            "real_world": "When you eat pasta, your body breaks down the starch into glucose for energy. Athletes often 'carb-load' before competitions to fill their glycogen stores for sustained energy."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which macromolecule is the body's primary quick energy source?",
+              "options": [
+                "Proteins",
+                "Lipids",
+                "Carbohydrates",
+                "Nucleic acids"
+              ],
+              "correct": 2,
+              "hint": "Think about what foods give you quick energy \u2014 breads, fruits, sugars."
+            },
+            {
+              "type": "fill_in",
+              "question": "A fat molecule is made of glycerol and three ___ acids.",
+              "answer": "fatty",
+              "hint": "These chains can be saturated or unsaturated."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which polysaccharide provides structural support in plant cell walls?",
+              "options": [
+                "Starch",
+                "Glycogen",
+                "Cellulose",
+                "Chitin"
+              ],
+              "correct": 2,
+              "hint": "This is why plants are rigid \u2014 their cell walls contain this tough carbohydrate."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Unsaturated fats are typically solid at room temperature.",
+              "answer": "false",
+              "hint": "Unsaturated fats have double bonds that create kinks, preventing tight packing \u2014 they are liquid."
+            },
+            {
+              "type": "fill_in",
+              "question": "The simple sugar that cells use most for energy is ___.",
+              "answer": "glucose",
+              "hint": "This 6-carbon sugar is the main fuel for cellular respiration."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the difference between starch and glycogen?",
+              "options": [
+                "Starch is found in animals, glycogen in plants",
+                "Starch is found in plants, glycogen in animals",
+                "They are the same molecule",
+                "Starch is a lipid, glycogen is a carbohydrate"
+              ],
+              "correct": 1,
+              "hint": "Both are polysaccharides that store energy, but in different organisms."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-2-4",
+          "title": "Macromolecules: Proteins and Nucleic Acids",
+          "type": "lesson",
+          "content": {
+            "explanation": "Proteins are the most diverse macromolecules in living organisms. They are built from chains of amino acids \u2014 there are 20 different amino acids, and the sequence in which they are arranged determines the protein's shape and function. Amino acids are linked by peptide bonds. Proteins serve many functions: enzymes speed up chemical reactions, structural proteins (like collagen and keratin) provide support, antibodies defend against pathogens, and transport proteins (like hemoglobin) carry substances. A protein's function depends entirely on its 3D shape; if the shape is altered (denatured) by heat or pH changes, the protein loses its function. Nucleic acids \u2014 DNA and RNA \u2014 store and transmit genetic information. DNA (deoxyribonucleic acid) is a double-stranded helix made of nucleotide monomers, each containing a sugar (deoxyribose), a phosphate group, and a nitrogenous base (adenine, thymine, guanine, or cytosine). RNA (ribonucleic acid) is single-stranded, uses ribose sugar, and has uracil instead of thymine. DNA stores the instructions for building proteins; RNA helps carry out those instructions.",
+            "examples": [
+              {
+                "problem": "What are the building blocks (monomers) of proteins?",
+                "answer": "Amino acids",
+                "explanation": "There are 20 different amino acids. Their sequence determines the protein's structure and function."
+              },
+              {
+                "problem": "What happens to an enzyme when it is denatured?",
+                "answer": "It loses its shape and can no longer function",
+                "explanation": "Denaturation unfolds the protein, destroying the specific 3D shape needed to catalyze reactions."
+              },
+              {
+                "problem": "What are the four bases found in DNA?",
+                "answer": "Adenine, Thymine, Guanine, Cytosine (A, T, G, C)",
+                "explanation": "In DNA, adenine pairs with thymine (A-T) and guanine pairs with cytosine (G-C)."
+              }
+            ],
+            "key_vocabulary": [
+              "protein",
+              "amino acid",
+              "peptide bond",
+              "enzyme",
+              "denature",
+              "nucleic acid",
+              "DNA",
+              "RNA",
+              "nucleotide",
+              "double helix"
+            ],
+            "real_world": "When you cook an egg, the clear egg white turns solid and white \u2014 that is protein denaturation in action. Heat unfolds the albumin proteins, permanently changing their shape."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many different amino acids are used to build proteins?",
+              "options": [
+                "4",
+                "12",
+                "20",
+                "100"
+              ],
+              "correct": 2,
+              "hint": "These 20 amino acids can combine in countless sequences to make different proteins."
+            },
+            {
+              "type": "fill_in",
+              "question": "The type of bond that links amino acids together is called a ___ bond.",
+              "answer": "peptide",
+              "hint": "This bond forms between the amino group of one amino acid and the carboxyl group of another."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which macromolecule stores genetic information?",
+              "options": [
+                "Carbohydrates",
+                "Lipids",
+                "Proteins",
+                "Nucleic acids"
+              ],
+              "correct": 3,
+              "hint": "DNA and RNA are the molecules of heredity."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: RNA is double-stranded like DNA.",
+              "answer": "false",
+              "hint": "RNA is single-stranded; DNA is the double-stranded helix."
+            },
+            {
+              "type": "fill_in",
+              "question": "Proteins that speed up chemical reactions in the body are called ___.",
+              "answer": "enzymes",
+              "hint": "They lower the activation energy needed for reactions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In RNA, which base replaces thymine?",
+              "options": [
+                "Adenine",
+                "Guanine",
+                "Uracil",
+                "Cytosine"
+              ],
+              "correct": 2,
+              "hint": "RNA uses uracil (U) where DNA uses thymine (T)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-2",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which subatomic particle has a negative charge?",
+            "options": [
+              "Proton",
+              "Neutron",
+              "Electron",
+              "Nucleus"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The attraction between water molecules is called ___.",
+            "answer": "cohesion"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which macromolecule is the primary long-term energy storage in the body?",
+            "options": [
+              "Carbohydrates",
+              "Lipids",
+              "Proteins",
+              "Nucleic acids"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The monomers of proteins are ___ acids.",
+            "answer": "amino"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In DNA, adenine pairs with:",
+            "options": [
+              "Cytosine",
+              "Guanine",
+              "Uracil",
+              "Thymine"
+            ],
+            "correct": 3
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "chemistry_of_life_master"
+      }
+    },
+    {
+      "id": "9-science-3",
+      "title": "Cell Structure and Function",
+      "description": "Discover the building blocks of life \u2014 cell types, organelles, membranes, and cellular transport.",
+      "lessons": [
+        {
+          "id": "9-science-3-1",
+          "title": "Introduction to Cells",
+          "type": "lesson",
+          "content": {
+            "explanation": "The cell is the basic unit of life. Cell theory states three key principles: (1) all living things are made of one or more cells, (2) the cell is the basic unit of structure and function in living things, and (3) all cells come from pre-existing cells. Organisms can be unicellular (made of one cell, like bacteria and amoebas) or multicellular (made of many cells, like humans and plants). Cells were first observed by Robert Hooke in 1665 when he looked at cork under a microscope and saw small, box-like compartments he named 'cells.' Anton van Leeuwenhoek later observed living cells, including bacteria and protists, using improved microscopes. There are two fundamental types of cells: prokaryotic cells (no nucleus, found in bacteria and archaea) and eukaryotic cells (have a membrane-bound nucleus, found in animals, plants, fungi, and protists).",
+            "examples": [
+              {
+                "problem": "Who first observed cells and what did he examine?",
+                "answer": "Robert Hooke observed cork in 1665",
+                "explanation": "Hooke saw the empty cell walls of dead plant cells in cork and coined the term 'cells' because they looked like small rooms."
+              },
+              {
+                "problem": "Is a bacterium prokaryotic or eukaryotic?",
+                "answer": "Prokaryotic",
+                "explanation": "Bacteria are prokaryotes \u2014 they lack a membrane-bound nucleus. Their DNA floats freely in the cytoplasm."
+              },
+              {
+                "problem": "What is an example of a unicellular organism?",
+                "answer": "Amoeba (or bacteria)",
+                "explanation": "Unicellular organisms carry out all life functions within a single cell."
+              }
+            ],
+            "key_vocabulary": [
+              "cell theory",
+              "unicellular",
+              "multicellular",
+              "prokaryotic",
+              "eukaryotic",
+              "nucleus",
+              "microscope",
+              "Robert Hooke"
+            ],
+            "real_world": "Your body contains approximately 37 trillion cells, each carrying out specific functions. Red blood cells carry oxygen, white blood cells fight infection, and nerve cells transmit signals."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a part of cell theory?",
+              "options": [
+                "All living things are made of cells",
+                "Cells are the basic unit of life",
+                "All cells come from pre-existing cells",
+                "All cells contain a nucleus"
+              ],
+              "correct": 3,
+              "hint": "Prokaryotic cells do not have a nucleus, yet they are still cells."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cells that have a membrane-bound nucleus are called ___ cells.",
+              "answer": "eukaryotic",
+              "hint": "Eu- means true, karyotic refers to nucleus."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who first used the term 'cells' to describe what he saw under a microscope?",
+              "options": [
+                "Anton van Leeuwenhoek",
+                "Robert Hooke",
+                "Louis Pasteur",
+                "Gregor Mendel"
+              ],
+              "correct": 1,
+              "hint": "He was examining thin slices of cork in 1665."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Bacteria are eukaryotic organisms.",
+              "answer": "false",
+              "hint": "Bacteria are prokaryotes \u2014 they do not have a membrane-bound nucleus."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a unicellular organism?",
+              "options": [
+                "Dog",
+                "Oak tree",
+                "Amoeba",
+                "Mushroom"
+              ],
+              "correct": 2,
+              "hint": "This organism consists of a single cell that performs all life functions."
+            },
+            {
+              "type": "fill_in",
+              "question": "The two main categories of cells are prokaryotic and ___.",
+              "answer": "eukaryotic",
+              "hint": "One type has a nucleus, the other does not."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-3-2",
+          "title": "Cell Organelles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Eukaryotic cells contain specialized structures called organelles, each with a specific function. The nucleus is the control center, housing DNA and directing cell activities. The nuclear membrane (nuclear envelope) surrounds the nucleus. Ribosomes are the sites of protein synthesis \u2014 they can be free in the cytoplasm or attached to the endoplasmic reticulum (ER). The rough ER has ribosomes and processes proteins; the smooth ER makes lipids and detoxifies substances. The Golgi apparatus (Golgi body) packages, modifies, and ships proteins. Mitochondria are the powerhouses of the cell \u2014 they convert glucose into ATP (energy) through cellular respiration. Lysosomes contain enzymes that break down waste and cellular debris. The cytoplasm is the gel-like fluid filling the cell, and the cytoskeleton provides structural support. Plant cells have additional organelles: a cell wall for rigid support, chloroplasts for photosynthesis, and a large central vacuole for water storage.",
+            "examples": [
+              {
+                "problem": "What organelle is called the 'powerhouse of the cell'?",
+                "answer": "Mitochondria",
+                "explanation": "Mitochondria generate most of the cell's ATP through cellular respiration, providing energy for cell activities."
+              },
+              {
+                "problem": "Which organelle do plant cells have that animal cells do not?",
+                "answer": "Chloroplasts (also cell wall and large central vacuole)",
+                "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis, converting sunlight into glucose."
+              },
+              {
+                "problem": "What is the function of the Golgi apparatus?",
+                "answer": "Packages, modifies, and ships proteins",
+                "explanation": "Think of the Golgi as the cell's post office \u2014 it processes proteins and sends them to their destinations."
+              }
+            ],
+            "key_vocabulary": [
+              "nucleus",
+              "ribosome",
+              "endoplasmic reticulum",
+              "Golgi apparatus",
+              "mitochondria",
+              "lysosome",
+              "chloroplast",
+              "cell wall",
+              "vacuole",
+              "cytoplasm"
+            ],
+            "real_world": "Mitochondria have their own DNA, separate from the cell's nuclear DNA. Scientists believe mitochondria were once free-living bacteria that were engulfed by ancestral cells \u2014 a theory called endosymbiosis."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which organelle is responsible for making proteins?",
+              "options": [
+                "Mitochondria",
+                "Ribosome",
+                "Golgi apparatus",
+                "Lysosome"
+              ],
+              "correct": 1,
+              "hint": "These tiny structures read mRNA to assemble amino acids into proteins."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ is the organelle that contains the cell's DNA and controls cell activities.",
+              "answer": "nucleus",
+              "hint": "It is often called the control center of the cell."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which organelle is found in plant cells but NOT in animal cells?",
+              "options": [
+                "Mitochondria",
+                "Ribosome",
+                "Chloroplast",
+                "Nucleus"
+              ],
+              "correct": 2,
+              "hint": "This organelle is where photosynthesis takes place."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Lysosomes contain enzymes that break down waste materials.",
+              "answer": "true",
+              "hint": "Lysosomes are the cell's recycling centers."
+            },
+            {
+              "type": "fill_in",
+              "question": "The gel-like fluid that fills the cell and surrounds the organelles is called ___.",
+              "answer": "cytoplasm",
+              "hint": "Organelles are suspended in this substance."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which organelle packages and ships proteins to their destination?",
+              "options": [
+                "Nucleus",
+                "Rough ER",
+                "Golgi apparatus",
+                "Smooth ER"
+              ],
+              "correct": 2,
+              "hint": "Think of this organelle as the cell's post office or shipping center."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-3-3",
+          "title": "The Cell Membrane",
+          "type": "lesson",
+          "content": {
+            "explanation": "The cell membrane (plasma membrane) is a thin, flexible barrier that surrounds every cell and controls what enters and exits. It is composed of a phospholipid bilayer \u2014 two layers of phospholipid molecules. Each phospholipid has a hydrophilic (water-loving) head and two hydrophobic (water-fearing) tails. The heads face the watery environments inside and outside the cell, while the tails face each other in the interior of the membrane. This arrangement is called the fluid mosaic model because the membrane is flexible and contains a mosaic of proteins embedded in or attached to it. Channel proteins and transport proteins allow specific substances to cross the membrane. The membrane is selectively permeable (semi-permeable), meaning it allows some substances to pass through while blocking others. Small, nonpolar molecules (like oxygen and carbon dioxide) can pass through freely, while large or charged molecules need help from transport proteins.",
+            "examples": [
+              {
+                "problem": "Why is the cell membrane described as 'selectively permeable'?",
+                "answer": "It allows some substances through but not others",
+                "explanation": "The membrane controls what enters and exits the cell, acting like a security checkpoint."
+              },
+              {
+                "problem": "What are the two parts of a phospholipid?",
+                "answer": "A hydrophilic head and two hydrophobic tails",
+                "explanation": "The head is attracted to water; the tails avoid water and face inward in the bilayer."
+              },
+              {
+                "problem": "Can oxygen cross the cell membrane without help?",
+                "answer": "Yes",
+                "explanation": "Oxygen is a small, nonpolar molecule that can diffuse directly through the phospholipid bilayer."
+              }
+            ],
+            "key_vocabulary": [
+              "cell membrane",
+              "phospholipid bilayer",
+              "hydrophilic",
+              "hydrophobic",
+              "fluid mosaic model",
+              "selectively permeable",
+              "channel protein",
+              "transport protein"
+            ],
+            "real_world": "Cell membranes are so important that many medicines work by targeting membrane proteins. For example, some blood pressure medications block specific channel proteins in heart cells."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the main component of the cell membrane?",
+              "options": [
+                "Carbohydrates",
+                "Proteins",
+                "Phospholipids",
+                "Nucleic acids"
+              ],
+              "correct": 2,
+              "hint": "The membrane is primarily a double layer of these molecules."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ mosaic model describes the structure of the cell membrane.",
+              "answer": "fluid",
+              "hint": "This name reflects that the membrane is flexible and contains various embedded components."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which part of a phospholipid is hydrophobic?",
+              "options": [
+                "The head",
+                "The tails",
+                "Both parts",
+                "Neither part"
+              ],
+              "correct": 1,
+              "hint": "Hydrophobic means water-fearing \u2014 these parts face inward, away from water."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: All molecules can freely pass through the cell membrane.",
+              "answer": "false",
+              "hint": "The membrane is selectively permeable \u2014 it controls what gets through."
+            },
+            {
+              "type": "fill_in",
+              "question": "Proteins that allow specific substances to cross the membrane are called ___ proteins.",
+              "answer": "transport",
+              "hint": "They help molecules that cannot pass through the lipid bilayer on their own."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the phospholipid bilayer, the hydrophilic heads face:",
+              "options": [
+                "Each other in the interior",
+                "The watery environments inside and outside the cell",
+                "Only the outside of the cell",
+                "Only the inside of the cell"
+              ],
+              "correct": 1,
+              "hint": "Hydrophilic means water-loving, so heads orient toward water."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-3-4",
+          "title": "Osmosis and Diffusion",
+          "type": "lesson",
+          "content": {
+            "explanation": "Diffusion is the movement of molecules from an area of higher concentration to an area of lower concentration \u2014 they move down the concentration gradient. This is a passive process, meaning it requires no energy (no ATP). When you spray perfume in one corner of a room, it eventually spreads throughout \u2014 that is diffusion. Osmosis is the diffusion of water across a selectively permeable membrane. Water moves from areas of lower solute concentration (hypotonic) to areas of higher solute concentration (hypertonic) until equilibrium is reached (isotonic). In a hypertonic solution, a cell loses water and shrivels (crenation in animal cells, plasmolysis in plant cells). In a hypotonic solution, a cell gains water and may swell or burst (lysis in animal cells; plant cells become turgid but are protected by their cell wall). Facilitated diffusion uses transport proteins to help larger molecules cross the membrane \u2014 still passive (no energy). Active transport requires energy (ATP) to move substances against the concentration gradient, from low to high concentration.",
+            "examples": [
+              {
+                "problem": "A red blood cell is placed in pure water. What happens?",
+                "answer": "The cell swells and may burst (lysis)",
+                "explanation": "Pure water is hypotonic \u2014 water moves into the cell by osmosis because the solute concentration is higher inside."
+              },
+              {
+                "problem": "What is the difference between diffusion and osmosis?",
+                "answer": "Osmosis is specifically the diffusion of water across a membrane",
+                "explanation": "Diffusion is a general term for any substance moving from high to low concentration; osmosis refers only to water."
+              },
+              {
+                "problem": "A cell uses ATP to pump calcium ions from low concentration to high concentration. What type of transport is this?",
+                "answer": "Active transport",
+                "explanation": "Moving substances against the concentration gradient requires energy (ATP)."
+              }
+            ],
+            "key_vocabulary": [
+              "diffusion",
+              "osmosis",
+              "concentration gradient",
+              "passive transport",
+              "active transport",
+              "hypertonic",
+              "hypotonic",
+              "isotonic",
+              "facilitated diffusion"
+            ],
+            "real_world": "When you soak in a bathtub for a long time, your fingertips wrinkle because osmosis causes water to move into the outer layer of dead skin cells. Hospitals carefully control IV fluid concentration to prevent osmotic damage to blood cells."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Diffusion moves molecules from areas of ___ concentration to ___ concentration.",
+              "options": [
+                "Low to high",
+                "High to low",
+                "Equal to equal",
+                "High to medium"
+              ],
+              "correct": 1,
+              "hint": "Molecules naturally spread out from where they are most concentrated."
+            },
+            {
+              "type": "fill_in",
+              "question": "The diffusion of water across a selectively permeable membrane is called ___.",
+              "answer": "osmosis",
+              "hint": "This is a specific type of diffusion that involves only water."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A cell placed in a hypertonic solution will:",
+              "options": [
+                "Swell and burst",
+                "Shrink and shrivel",
+                "Stay the same",
+                "Divide"
+              ],
+              "correct": 1,
+              "hint": "In a hypertonic solution, water leaves the cell by osmosis."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Active transport requires ATP energy.",
+              "answer": "true",
+              "hint": "Active transport moves substances against the concentration gradient, which requires energy."
+            },
+            {
+              "type": "fill_in",
+              "question": "A solution where the concentration of solutes is equal inside and outside the cell is called ___.",
+              "answer": "isotonic",
+              "hint": "Iso- means equal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of transport uses proteins to help molecules cross the membrane without energy?",
+              "options": [
+                "Active transport",
+                "Osmosis",
+                "Facilitated diffusion",
+                "Endocytosis"
+              ],
+              "correct": 2,
+              "hint": "It is still passive (no ATP), but proteins assist the process."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-3",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which type of cell has a membrane-bound nucleus?",
+            "options": [
+              "Prokaryotic",
+              "Eukaryotic",
+              "Bacterial",
+              "Archaeal"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The organelle responsible for producing energy (ATP) in the cell is the ___.",
+            "answer": "mitochondria"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The cell membrane is primarily composed of a:",
+            "options": [
+              "Protein bilayer",
+              "Phospholipid bilayer",
+              "Carbohydrate bilayer",
+              "Nucleic acid bilayer"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The movement of water across a selectively permeable membrane is called ___.",
+            "answer": "osmosis"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A plant cell placed in a hypotonic solution will become:",
+            "options": [
+              "Plasmolyzed",
+              "Turgid",
+              "Lysed",
+              "Crenated"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cell_biology_master"
+      }
+    },
+    {
+      "id": "9-science-4",
+      "title": "Cellular Processes",
+      "description": "Understand how cells capture, store, and use energy through photosynthesis, respiration, and fermentation.",
+      "lessons": [
+        {
+          "id": "9-science-4-1",
+          "title": "Photosynthesis",
+          "type": "lesson",
+          "content": {
+            "explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. It takes place in the chloroplasts, which contain the green pigment chlorophyll. Chlorophyll absorbs red and blue light and reflects green light, which is why plants appear green. The overall equation for photosynthesis is: 6CO2 + 6H2O + light energy -> C6H12O6 + 6O2. In words: six molecules of carbon dioxide plus six molecules of water, using light energy, produce one molecule of glucose and six molecules of oxygen. Photosynthesis occurs in two main stages. The light-dependent reactions take place in the thylakoid membranes, where light energy splits water molecules, releasing oxygen and producing ATP and NADPH. The light-independent reactions (Calvin cycle) take place in the stroma, where CO2 is fixed into glucose using the ATP and NADPH from the light reactions. Factors affecting photosynthesis include light intensity, CO2 concentration, and temperature.",
+            "examples": [
+              {
+                "problem": "What are the reactants (inputs) of photosynthesis?",
+                "answer": "Carbon dioxide, water, and light energy",
+                "explanation": "Plants take in CO2 from the air through stomata and absorb water from the soil through roots."
+              },
+              {
+                "problem": "Where in the chloroplast do the light-dependent reactions occur?",
+                "answer": "Thylakoid membranes",
+                "explanation": "The thylakoids are stacked membranes inside the chloroplast where chlorophyll captures light energy."
+              },
+              {
+                "problem": "What gas is released as a byproduct of photosynthesis?",
+                "answer": "Oxygen (O2)",
+                "explanation": "The oxygen we breathe is produced when water molecules are split during the light-dependent reactions."
+              }
+            ],
+            "key_vocabulary": [
+              "photosynthesis",
+              "chloroplast",
+              "chlorophyll",
+              "thylakoid",
+              "stroma",
+              "Calvin cycle",
+              "light-dependent reactions",
+              "glucose",
+              "carbon dioxide"
+            ],
+            "real_world": "Every breath you take depends on photosynthesis. Plants and algae produce the vast majority of Earth's oxygen. Forests are often called the 'lungs of the Earth.'"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where does photosynthesis take place in a plant cell?",
+              "options": [
+                "Mitochondria",
+                "Nucleus",
+                "Chloroplast",
+                "Ribosome"
+              ],
+              "correct": 2,
+              "hint": "This organelle contains the green pigment chlorophyll."
+            },
+            {
+              "type": "fill_in",
+              "question": "The green pigment that absorbs light energy in plants is called ___.",
+              "answer": "chlorophyll",
+              "hint": "It absorbs red and blue light and reflects green."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are the products of photosynthesis?",
+              "options": [
+                "CO2 and water",
+                "Glucose and oxygen",
+                "ATP and NADPH",
+                "Protein and lipids"
+              ],
+              "correct": 1,
+              "hint": "Look at the right side of the photosynthesis equation."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Photosynthesis occurs only at night.",
+              "answer": "false",
+              "hint": "Photosynthesis requires light energy, so it occurs during the day."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Calvin cycle is also called the light-___ reactions.",
+              "answer": "independent",
+              "hint": "These reactions do not directly require light, though they use products from the light reactions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which factor does NOT directly affect the rate of photosynthesis?",
+              "options": [
+                "Light intensity",
+                "CO2 concentration",
+                "Temperature",
+                "Oxygen concentration"
+              ],
+              "correct": 3,
+              "hint": "Oxygen is a product, not a major factor controlling the rate."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-4-2",
+          "title": "Cellular Respiration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Cellular respiration is the process by which cells break down glucose to release energy in the form of ATP (adenosine triphosphate). It is essentially the reverse of photosynthesis. The overall equation is: C6H12O6 + 6O2 -> 6CO2 + 6H2O + ATP (energy). In words: glucose plus oxygen yields carbon dioxide, water, and energy. Cellular respiration occurs in three stages. Glycolysis occurs in the cytoplasm: glucose (6 carbons) is split into two molecules of pyruvate (3 carbons each), producing a small amount of ATP (net 2 ATP). The Krebs cycle (citric acid cycle) occurs in the mitochondrial matrix: pyruvate is further broken down, releasing CO2 and transferring energy to electron carriers (NADH and FADH2). The electron transport chain (ETC) occurs along the inner mitochondrial membrane: electrons from NADH and FADH2 pass through protein complexes, creating a proton gradient that drives ATP synthase to produce most of the ATP (about 34 ATP). In total, one glucose molecule can yield up to 36-38 ATP molecules.",
+            "examples": [
+              {
+                "problem": "What are the reactants of cellular respiration?",
+                "answer": "Glucose and oxygen",
+                "explanation": "Cells take in glucose from food and oxygen from breathing to power cellular respiration."
+              },
+              {
+                "problem": "Where does glycolysis take place?",
+                "answer": "In the cytoplasm",
+                "explanation": "Glycolysis is the first stage and occurs outside the mitochondria, in the cell's cytoplasm."
+              },
+              {
+                "problem": "How many ATP molecules does one glucose molecule produce in total?",
+                "answer": "36-38 ATP",
+                "explanation": "Glycolysis produces 2, the Krebs cycle produces 2, and the electron transport chain produces about 34."
+              }
+            ],
+            "key_vocabulary": [
+              "cellular respiration",
+              "ATP",
+              "glycolysis",
+              "Krebs cycle",
+              "electron transport chain",
+              "pyruvate",
+              "mitochondria",
+              "NADH",
+              "aerobic"
+            ],
+            "real_world": "When you exercise, your muscles rapidly consume ATP for contraction. Your breathing rate increases to supply more oxygen for cellular respiration, and your heart pumps faster to deliver it."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the primary purpose of cellular respiration?",
+              "options": [
+                "To produce glucose",
+                "To produce oxygen",
+                "To produce ATP (energy)",
+                "To produce CO2"
+              ],
+              "correct": 2,
+              "hint": "Cells need energy in the form of ATP to carry out their functions."
+            },
+            {
+              "type": "fill_in",
+              "question": "The first stage of cellular respiration, which occurs in the cytoplasm, is called ___.",
+              "answer": "glycolysis",
+              "hint": "Glyco- means sugar, -lysis means splitting."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which stage of cellular respiration produces the most ATP?",
+              "options": [
+                "Glycolysis",
+                "Krebs cycle",
+                "Electron transport chain",
+                "Fermentation"
+              ],
+              "correct": 2,
+              "hint": "This stage produces about 34 ATP per glucose molecule."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Cellular respiration requires oxygen.",
+              "answer": "true",
+              "hint": "Aerobic cellular respiration requires O2 for the electron transport chain."
+            },
+            {
+              "type": "fill_in",
+              "question": "The molecule that stores and provides energy for cell processes is ___ (abbreviation).",
+              "answer": "ATP",
+              "hint": "Adenosine triphosphate \u2014 the energy currency of the cell."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How are photosynthesis and cellular respiration related?",
+              "options": [
+                "They are identical processes",
+                "The products of one are the reactants of the other",
+                "They both occur only in plants",
+                "They both produce oxygen"
+              ],
+              "correct": 1,
+              "hint": "Photosynthesis makes glucose and O2; respiration uses glucose and O2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-4-3",
+          "title": "ATP: The Energy Currency",
+          "type": "lesson",
+          "content": {
+            "explanation": "ATP (adenosine triphosphate) is the primary energy carrier in all living cells. It consists of adenine (a nitrogenous base), ribose (a 5-carbon sugar), and three phosphate groups. Energy is stored in the bonds between the phosphate groups, particularly the bond between the second and third phosphate. When ATP is used for energy, an enzyme breaks the terminal phosphate bond, releasing energy and producing ADP (adenosine diphosphate) and an inorganic phosphate (Pi). This reaction is: ATP -> ADP + Pi + energy. Cells constantly recycle ADP back into ATP through cellular respiration and photosynthesis. Your body uses and regenerates approximately its own body weight in ATP each day. ATP powers almost every cellular process: muscle contraction, nerve impulse transmission, active transport across membranes, protein synthesis, and cell division. ATP is not stored in large quantities \u2014 it is made on demand and used almost immediately.",
+            "examples": [
+              {
+                "problem": "What does ATP stand for?",
+                "answer": "Adenosine triphosphate",
+                "explanation": "Adenosine (adenine + ribose) plus three (tri-) phosphate groups."
+              },
+              {
+                "problem": "What is produced when ATP releases its energy?",
+                "answer": "ADP + Pi (inorganic phosphate) + energy",
+                "explanation": "Removing one phosphate group converts ATP to ADP and releases the stored energy."
+              },
+              {
+                "problem": "Name three cellular processes that require ATP.",
+                "answer": "Muscle contraction, active transport, protein synthesis",
+                "explanation": "ATP provides energy for virtually all energy-requiring processes in cells."
+              }
+            ],
+            "key_vocabulary": [
+              "ATP",
+              "ADP",
+              "adenosine triphosphate",
+              "adenosine diphosphate",
+              "phosphate group",
+              "energy carrier",
+              "phosphorylation"
+            ],
+            "real_world": "A sprinter's muscles burn through ATP incredibly fast. The body can only store about 250 grams of ATP at any moment, but recycles it so efficiently that you produce roughly your body weight in ATP every single day."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many phosphate groups does ATP have?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct": 2,
+              "hint": "Tri- means three."
+            },
+            {
+              "type": "fill_in",
+              "question": "When ATP loses a phosphate group, it becomes ___.",
+              "answer": "ADP",
+              "hint": "Adenosine diphosphate \u2014 'di' means two phosphate groups remain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where is the energy stored in an ATP molecule?",
+              "options": [
+                "In the adenine base",
+                "In the ribose sugar",
+                "In the bonds between phosphate groups",
+                "In the electrons"
+              ],
+              "correct": 2,
+              "hint": "Breaking the bond between the 2nd and 3rd phosphate releases energy."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Cells store large reserves of ATP for later use.",
+              "answer": "false",
+              "hint": "ATP is produced and used almost immediately \u2014 it is constantly recycled."
+            },
+            {
+              "type": "fill_in",
+              "question": "The conversion of ADP back into ATP requires ___ from cellular respiration.",
+              "answer": "energy",
+              "hint": "Energy is needed to reattach a phosphate group to ADP."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a process that requires ATP?",
+              "options": [
+                "Muscle contraction",
+                "Active transport",
+                "Diffusion",
+                "Protein synthesis"
+              ],
+              "correct": 2,
+              "hint": "This process is passive and moves molecules down their concentration gradient without energy."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-4-4",
+          "title": "Fermentation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fermentation is an anaerobic process \u2014 it occurs without oxygen. When oxygen is unavailable, cells can still produce a small amount of ATP through glycolysis, but the pyruvate produced cannot enter the Krebs cycle or electron transport chain. Instead, pyruvate is converted through fermentation to regenerate NAD+, which is needed to keep glycolysis running. There are two main types of fermentation. Lactic acid fermentation converts pyruvate into lactic acid. This occurs in your muscle cells during intense exercise when oxygen cannot be delivered fast enough. The buildup of lactic acid contributes to the burning sensation in overworked muscles. Some bacteria also perform lactic acid fermentation \u2014 this is how yogurt and cheese are made. Alcoholic fermentation converts pyruvate into ethanol (alcohol) and carbon dioxide. Yeast performs this type of fermentation, which is used in baking (CO2 makes bread rise) and brewing. Fermentation is much less efficient than aerobic respiration, yielding only 2 ATP per glucose molecule compared to 36-38 from full cellular respiration.",
+            "examples": [
+              {
+                "problem": "Why do your muscles burn during intense exercise?",
+                "answer": "Lactic acid builds up from lactic acid fermentation",
+                "explanation": "When oxygen is limited, muscles switch to lactic acid fermentation, producing lactic acid as a byproduct."
+              },
+              {
+                "problem": "What makes bread dough rise?",
+                "answer": "CO2 produced by yeast during alcoholic fermentation",
+                "explanation": "Yeast ferments sugars in the dough, releasing carbon dioxide gas that creates bubbles and causes the dough to expand."
+              },
+              {
+                "problem": "How much ATP does fermentation produce per glucose molecule?",
+                "answer": "2 ATP",
+                "explanation": "Only glycolysis produces ATP during fermentation (2 net ATP), compared to 36-38 from aerobic respiration."
+              }
+            ],
+            "key_vocabulary": [
+              "fermentation",
+              "anaerobic",
+              "lactic acid",
+              "alcoholic fermentation",
+              "ethanol",
+              "NAD+",
+              "glycolysis",
+              "yeast"
+            ],
+            "real_world": "Fermentation is one of the oldest biotechnologies. Humans have been using yeast fermentation to make bread and beverages for over 9,000 years. Today, fermentation is also used to produce biofuels."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Fermentation occurs when ___ is not available.",
+              "options": [
+                "Glucose",
+                "Carbon dioxide",
+                "Oxygen",
+                "Water"
+              ],
+              "correct": 2,
+              "hint": "Fermentation is an anaerobic process."
+            },
+            {
+              "type": "fill_in",
+              "question": "The type of fermentation that occurs in human muscle cells produces lactic ___.",
+              "answer": "acid",
+              "hint": "This causes the burning feeling during hard exercise."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which organism is commonly used in alcoholic fermentation?",
+              "options": [
+                "E. coli bacteria",
+                "Yeast",
+                "Amoeba",
+                "Human cells"
+              ],
+              "correct": 1,
+              "hint": "This single-celled fungus is used in baking and brewing."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Fermentation produces more ATP than aerobic respiration.",
+              "answer": "false",
+              "hint": "Fermentation yields only 2 ATP; aerobic respiration yields 36-38 ATP."
+            },
+            {
+              "type": "fill_in",
+              "question": "In alcoholic fermentation, pyruvate is converted into ethanol and ___.",
+              "answer": "carbon dioxide",
+              "hint": "This gas is what makes bread rise and puts bubbles in fermented beverages."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the purpose of fermentation?",
+              "options": [
+                "To produce oxygen",
+                "To regenerate NAD+ so glycolysis can continue",
+                "To produce glucose",
+                "To break down lactic acid"
+              ],
+              "correct": 1,
+              "hint": "Without NAD+, glycolysis would stop and no ATP could be made."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-4",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "The equation for photosynthesis produces glucose and ___ gas.",
+            "answer": "oxygen"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which stage of cellular respiration occurs in the cytoplasm?",
+            "options": [
+              "Krebs cycle",
+              "Electron transport chain",
+              "Glycolysis",
+              "Calvin cycle"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "ATP stands for adenosine ___.",
+            "answer": "triphosphate"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Lactic acid fermentation occurs in human muscles when:",
+            "options": [
+              "There is too much oxygen",
+              "Oxygen is limited",
+              "The cell has too much ATP",
+              "Temperature drops"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How many net ATP are produced by glycolysis alone?",
+            "options": [
+              "0",
+              "2",
+              "34",
+              "38"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cellular_processes_master"
+      }
+    },
+    {
+      "id": "9-science-5",
+      "title": "Genetics",
+      "description": "Explore the principles of heredity, from Mendel's pea plants to Punnett squares and complex inheritance patterns.",
+      "lessons": [
+        {
+          "id": "9-science-5-1",
+          "title": "Mendel and Heredity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gregor Mendel (1822-1884), an Austrian monk, is known as the 'Father of Genetics.' He studied inheritance by cross-pollinating pea plants and tracking traits across generations. Mendel chose pea plants because they have clearly contrasting traits (tall vs short, purple vs white flowers, round vs wrinkled seeds), reproduce quickly, and he could control pollination. Mendel discovered that traits are determined by discrete factors (now called genes) that come in pairs \u2014 one from each parent. His Law of Segregation states that the two alleles for a trait separate during gamete formation (meiosis), so each gamete carries only one allele. His Law of Independent Assortment states that alleles for different traits are inherited independently of each other (as long as they are on different chromosomes). Mendel's work was largely ignored during his lifetime but was rediscovered in 1900 and became the foundation of modern genetics.",
+            "examples": [
+              {
+                "problem": "Why did Mendel choose pea plants for his experiments?",
+                "answer": "They have clear contrasting traits, reproduce quickly, and pollination can be controlled",
+                "explanation": "Pea plants were ideal because Mendel could cross specific parents and easily observe distinct trait differences."
+              },
+              {
+                "problem": "What does the Law of Segregation state?",
+                "answer": "The two alleles for a trait separate during gamete formation",
+                "explanation": "Each sperm or egg cell carries only one allele for each gene, not both."
+              },
+              {
+                "problem": "What is a gene?",
+                "answer": "A segment of DNA that codes for a specific trait",
+                "explanation": "Genes are the units of heredity. Different versions of a gene are called alleles."
+              }
+            ],
+            "key_vocabulary": [
+              "genetics",
+              "heredity",
+              "Gregor Mendel",
+              "gene",
+              "allele",
+              "trait",
+              "Law of Segregation",
+              "Law of Independent Assortment",
+              "gamete"
+            ],
+            "real_world": "Understanding Mendel's laws helps genetic counselors predict the likelihood of inherited conditions in families. Couples can learn if they carry alleles for conditions like cystic fibrosis or sickle cell disease."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Gregor Mendel is called the 'Father of ___.'",
+              "options": [
+                "Evolution",
+                "Genetics",
+                "Cell Biology",
+                "Ecology"
+              ],
+              "correct": 1,
+              "hint": "His work with pea plants laid the foundation for understanding heredity."
+            },
+            {
+              "type": "fill_in",
+              "question": "Different versions of a gene are called ___.",
+              "answer": "alleles",
+              "hint": "For example, the gene for flower color may have a purple allele and a white allele."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "According to the Law of Segregation, how many alleles does each gamete carry for a given trait?",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "4"
+              ],
+              "correct": 1,
+              "hint": "The pair of alleles separates so each gamete gets just one."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Mendel's work was immediately celebrated by the scientific community.",
+              "answer": "false",
+              "hint": "His work was largely ignored until it was rediscovered around 1900."
+            },
+            {
+              "type": "fill_in",
+              "question": "The study of how traits are passed from parents to offspring is called ___.",
+              "answer": "genetics",
+              "hint": "Gregor Mendel founded this field of biology."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of these is NOT a trait Mendel studied in pea plants?",
+              "options": [
+                "Plant height",
+                "Flower color",
+                "Seed shape",
+                "Leaf size"
+              ],
+              "correct": 3,
+              "hint": "Mendel studied height, flower color, seed shape, seed color, pod shape, pod color, and flower position."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-5-2",
+          "title": "Dominant and Recessive Alleles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Alleles can be dominant or recessive. A dominant allele is expressed (shows its trait) whenever it is present \u2014 even if only one copy exists. A recessive allele is only expressed when two copies are present (no dominant allele to mask it). Dominant alleles are represented by capital letters (e.g., B for brown eyes) and recessive alleles by lowercase letters (e.g., b for blue eyes). An organism's genotype is its genetic makeup \u2014 the specific alleles it carries (BB, Bb, or bb). The phenotype is the observable trait that results from the genotype (brown eyes or blue eyes). An organism with two identical alleles is homozygous (BB = homozygous dominant, bb = homozygous recessive). An organism with two different alleles is heterozygous (Bb). A heterozygous individual shows the dominant phenotype but carries a hidden recessive allele \u2014 this is called a carrier.",
+            "examples": [
+              {
+                "problem": "If B (brown eyes) is dominant over b (blue eyes), what is the phenotype of Bb?",
+                "answer": "Brown eyes",
+                "explanation": "The dominant allele B is present, so it is expressed. The recessive b is masked."
+              },
+              {
+                "problem": "What is the genotype of a homozygous recessive individual for eye color?",
+                "answer": "bb",
+                "explanation": "Homozygous means both alleles are the same; recessive means both are lowercase."
+              },
+              {
+                "problem": "Can two brown-eyed parents have a blue-eyed child?",
+                "answer": "Yes, if both parents are Bb (carriers)",
+                "explanation": "Two Bb parents can produce a bb offspring (25% chance), which would have blue eyes."
+              }
+            ],
+            "key_vocabulary": [
+              "dominant",
+              "recessive",
+              "genotype",
+              "phenotype",
+              "homozygous",
+              "heterozygous",
+              "carrier",
+              "allele"
+            ],
+            "real_world": "Carrier testing is important in medicine. A person can look completely healthy (dominant phenotype) but carry one copy of a recessive disease allele and potentially pass it to their children."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An organism with the genotype Bb is considered:",
+              "options": [
+                "Homozygous dominant",
+                "Homozygous recessive",
+                "Heterozygous",
+                "Pure breeding"
+              ],
+              "correct": 2,
+              "hint": "Two different alleles = heterozygous."
+            },
+            {
+              "type": "fill_in",
+              "question": "The physical appearance or observable trait of an organism is called its ___.",
+              "answer": "phenotype",
+              "hint": "Pheno- relates to 'showing' or 'appearing.'"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which genotype would produce a recessive phenotype?",
+              "options": [
+                "BB",
+                "Bb",
+                "bb",
+                "Both BB and Bb"
+              ],
+              "correct": 2,
+              "hint": "The recessive trait only shows when no dominant allele is present."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: A dominant allele is always more common in a population than a recessive allele.",
+              "answer": "false",
+              "hint": "Dominant refers to how the allele is expressed, not how common it is."
+            },
+            {
+              "type": "fill_in",
+              "question": "An organism with two identical alleles (like BB or bb) is called ___.",
+              "answer": "homozygous",
+              "hint": "Homo- means same."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A carrier is a person who:",
+              "options": [
+                "Shows the recessive phenotype",
+                "Has two dominant alleles",
+                "Is heterozygous and carries a hidden recessive allele",
+                "Has no alleles for a trait"
+              ],
+              "correct": 2,
+              "hint": "Carriers look normal (dominant phenotype) but can pass the recessive allele to offspring."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-5-3",
+          "title": "Punnett Squares",
+          "type": "lesson",
+          "content": {
+            "explanation": "A Punnett square is a diagram used to predict the genotypes and phenotypes of offspring from a genetic cross. To use a Punnett square, write one parent's alleles across the top and the other parent's alleles along the side. Fill in each box by combining the alleles from the corresponding row and column. A monohybrid cross examines one trait at a time. For example, crossing two heterozygous parents (Bb x Bb): the Punnett square gives 1 BB, 2 Bb, and 1 bb \u2014 a genotypic ratio of 1:2:1. Since BB and Bb both show the dominant phenotype, the phenotypic ratio is 3 dominant : 1 recessive (3:1). A test cross is used to determine if an organism showing the dominant phenotype is homozygous (BB) or heterozygous (Bb). The unknown genotype is crossed with a homozygous recessive (bb). If any offspring show the recessive phenotype, the unknown parent must be heterozygous.",
+            "examples": [
+              {
+                "problem": "Cross Bb x Bb. What fraction of offspring are expected to be homozygous recessive (bb)?",
+                "answer": "1/4 (25%)",
+                "explanation": "The Punnett square gives 1 BB, 2 Bb, 1 bb. So 1 out of 4 (25%) are bb."
+              },
+              {
+                "problem": "What is the phenotypic ratio of a Bb x Bb cross?",
+                "answer": "3:1",
+                "explanation": "3 offspring show the dominant phenotype (1 BB + 2 Bb) and 1 shows the recessive phenotype (bb)."
+              },
+              {
+                "problem": "A test cross of B? x bb produces some offspring with the recessive phenotype. What is the unknown genotype?",
+                "answer": "Bb (heterozygous)",
+                "explanation": "If the parent were BB, all offspring would be Bb (dominant). Recessive offspring prove the parent is Bb."
+              }
+            ],
+            "key_vocabulary": [
+              "Punnett square",
+              "monohybrid cross",
+              "genotypic ratio",
+              "phenotypic ratio",
+              "test cross",
+              "offspring",
+              "probability"
+            ],
+            "real_world": "Genetic counselors use Punnett squares and probability calculations to advise families about the chances of their children inheriting genetic conditions like sickle cell anemia or Huntington's disease."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a cross of Bb x bb, what percentage of offspring are expected to show the recessive phenotype?",
+              "options": [
+                "0%",
+                "25%",
+                "50%",
+                "100%"
+              ],
+              "correct": 2,
+              "hint": "Fill in the Punnett square: Bb and bb produce Bb, Bb, bb, bb \u2014 half are recessive."
+            },
+            {
+              "type": "fill_in",
+              "question": "The phenotypic ratio of a Bb x Bb monohybrid cross is ___:1.",
+              "answer": "3",
+              "hint": "Three dominant phenotypes to one recessive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the purpose of a test cross?",
+              "options": [
+                "To create new species",
+                "To determine an unknown genotype",
+                "To increase genetic diversity",
+                "To cause mutations"
+              ],
+              "correct": 1,
+              "hint": "Cross the unknown with homozygous recessive and observe the offspring."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: A Punnett square guarantees the exact ratio of offspring in a real cross.",
+              "answer": "false",
+              "hint": "A Punnett square shows probabilities; actual results may vary due to chance."
+            },
+            {
+              "type": "fill_in",
+              "question": "A cross that examines only one trait at a time is called a ___ cross.",
+              "answer": "monohybrid",
+              "hint": "Mono- means one, hybrid refers to mixing alleles."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If both parents are homozygous dominant (BB x BB), what are the possible offspring genotypes?",
+              "options": [
+                "All BB",
+                "All Bb",
+                "All bb",
+                "BB, Bb, and bb"
+              ],
+              "correct": 0,
+              "hint": "Both parents can only contribute B alleles."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-5-4",
+          "title": "Beyond Simple Dominance",
+          "type": "lesson",
+          "content": {
+            "explanation": "Not all traits follow simple dominant-recessive patterns. In incomplete dominance, the heterozygous phenotype is a blend of the two homozygous phenotypes. For example, crossing a red flower (RR) with a white flower (WW) produces pink flowers (RW) \u2014 neither allele is fully dominant. In codominance, both alleles are fully expressed simultaneously in the heterozygous individual. For example, a person with type AB blood has both A and B antigens on their red blood cells \u2014 neither is dominant over the other. Polygenic inheritance involves multiple genes controlling a single trait, resulting in a wide range of phenotypes. Human skin color, height, and eye color are polygenic \u2014 they are not determined by a single gene but by the combined effect of many genes. Sex-linked traits are carried on the X chromosome. Males (XY) are more likely to express X-linked recessive traits like color blindness and hemophilia because they have only one X chromosome.",
+            "examples": [
+              {
+                "problem": "Red flowers (RR) crossed with white flowers (WW) produce pink flowers (RW). What pattern is this?",
+                "answer": "Incomplete dominance",
+                "explanation": "The heterozygous phenotype (pink) is a blend of the two homozygous phenotypes (red and white)."
+              },
+              {
+                "problem": "A person with blood type AB expresses both A and B antigens. What pattern is this?",
+                "answer": "Codominance",
+                "explanation": "Both alleles are fully expressed at the same time \u2014 neither masks the other."
+              },
+              {
+                "problem": "Why are males more likely to be color blind than females?",
+                "answer": "Color blindness is X-linked recessive; males have only one X chromosome",
+                "explanation": "Males (XY) only need one copy of the recessive allele on their single X to express the trait. Females (XX) need two copies."
+              }
+            ],
+            "key_vocabulary": [
+              "incomplete dominance",
+              "codominance",
+              "polygenic inheritance",
+              "sex-linked trait",
+              "X-linked",
+              "multiple alleles",
+              "blood type"
+            ],
+            "real_world": "Human blood typing is a real-life example of both codominance (A and B alleles) and multiple alleles (three alleles: A, B, O). Understanding blood types is essential for safe blood transfusions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In incomplete dominance, the heterozygous phenotype is:",
+              "options": [
+                "Identical to the dominant phenotype",
+                "Identical to the recessive phenotype",
+                "A blend of both phenotypes",
+                "Randomly one or the other"
+              ],
+              "correct": 2,
+              "hint": "Neither allele fully dominates, so the result is a mix."
+            },
+            {
+              "type": "fill_in",
+              "question": "When both alleles are fully expressed in the heterozygous individual, this is called ___.",
+              "answer": "codominance",
+              "hint": "Co- means together \u2014 both alleles are expressed simultaneously."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Human height is controlled by many genes. This is an example of:",
+              "options": [
+                "Simple dominance",
+                "Codominance",
+                "Incomplete dominance",
+                "Polygenic inheritance"
+              ],
+              "correct": 3,
+              "hint": "Poly- means many; multiple genes contribute to a continuous range of heights."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Males are more likely to have X-linked recessive disorders because they have two X chromosomes.",
+              "answer": "false",
+              "hint": "Males have only ONE X chromosome (XY), so one recessive allele is enough to express the trait."
+            },
+            {
+              "type": "fill_in",
+              "question": "Traits carried on the X chromosome are called ___-linked traits.",
+              "answer": "sex",
+              "hint": "Also called X-linked traits, they affect males more often."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which blood type demonstrates codominance?",
+              "options": [
+                "Type A",
+                "Type B",
+                "Type AB",
+                "Type O"
+              ],
+              "correct": 2,
+              "hint": "Type AB individuals express both A and B antigens on their blood cells."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-5",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "The 'Father of Genetics' who studied pea plants is Gregor ___.",
+            "answer": "Mendel"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An organism with the genotype Bb is:",
+            "options": [
+              "Homozygous dominant",
+              "Homozygous recessive",
+              "Heterozygous",
+              "Codominant"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In a Bb x Bb cross, what fraction of offspring are expected to have the recessive phenotype?",
+            "options": [
+              "1/2",
+              "1/4",
+              "3/4",
+              "1/8"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "When the heterozygous phenotype is a blend of both homozygous phenotypes, this is called ___ dominance.",
+            "answer": "incomplete"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Why are males more likely to express X-linked recessive traits?",
+            "options": [
+              "They have two X chromosomes",
+              "They have only one X chromosome",
+              "They have no X chromosome",
+              "Their alleles are always recessive"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "genetics_master"
+      }
+    },
+    {
+      "id": "9-science-6",
+      "title": "Molecular Genetics",
+      "description": "Dive into the molecular basis of heredity \u2014 DNA structure, replication, gene expression, and mutations.",
+      "lessons": [
+        {
+          "id": "9-science-6-1",
+          "title": "DNA Structure",
+          "type": "lesson",
+          "content": {
+            "explanation": "DNA (deoxyribonucleic acid) is the molecule that carries genetic information in all living organisms. Its structure was discovered by James Watson and Francis Crick in 1953, with critical contributions from Rosalind Franklin's X-ray crystallography. DNA is a double helix \u2014 two long strands twisted around each other like a spiral staircase. Each strand is a chain of nucleotides. A nucleotide has three parts: a phosphate group, a deoxyribose sugar, and a nitrogenous base. There are four bases: adenine (A), thymine (T), guanine (G), and cytosine (C). The bases pair specifically: adenine always pairs with thymine (A-T) via two hydrogen bonds, and guanine always pairs with cytosine (G-C) via three hydrogen bonds. This is called complementary base pairing. The two strands run in opposite directions (antiparallel). The sugar-phosphate backbone forms the sides of the 'ladder,' and the base pairs form the 'rungs.' The sequence of bases along a DNA strand encodes genetic information \u2014 like letters forming words.",
+            "examples": [
+              {
+                "problem": "If one strand of DNA reads ATCGGA, what is the complementary strand?",
+                "answer": "TAGCCT",
+                "explanation": "A pairs with T, T pairs with A, C pairs with G, G pairs with C, G pairs with C, A pairs with T."
+              },
+              {
+                "problem": "Who discovered the structure of DNA?",
+                "answer": "Watson and Crick (with Franklin's X-ray data)",
+                "explanation": "Watson and Crick built on Rosalind Franklin's X-ray crystallography to determine the double helix structure in 1953."
+              },
+              {
+                "problem": "What are the three components of a DNA nucleotide?",
+                "answer": "Phosphate group, deoxyribose sugar, and a nitrogenous base",
+                "explanation": "The phosphate and sugar form the backbone; the base carries the genetic information."
+              }
+            ],
+            "key_vocabulary": [
+              "DNA",
+              "double helix",
+              "nucleotide",
+              "adenine",
+              "thymine",
+              "guanine",
+              "cytosine",
+              "complementary base pairing",
+              "Watson and Crick",
+              "Rosalind Franklin"
+            ],
+            "real_world": "DNA testing is used in forensics to identify criminals, in medicine to diagnose genetic diseases, and in ancestry services to trace family heritage. Every person's DNA is unique (except identical twins)."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In DNA, adenine (A) always pairs with:",
+              "options": [
+                "Cytosine",
+                "Guanine",
+                "Thymine",
+                "Uracil"
+              ],
+              "correct": 2,
+              "hint": "A-T and G-C are the complementary base pairs in DNA."
+            },
+            {
+              "type": "fill_in",
+              "question": "The shape of DNA is described as a double ___.",
+              "answer": "helix",
+              "hint": "It looks like a twisted ladder or spiral staircase."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which scientist's X-ray crystallography data was crucial to discovering DNA's structure?",
+              "options": [
+                "Gregor Mendel",
+                "Charles Darwin",
+                "Rosalind Franklin",
+                "Louis Pasteur"
+              ],
+              "correct": 2,
+              "hint": "Her 'Photo 51' provided key evidence for the helical structure."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: The two strands of DNA run in the same direction.",
+              "answer": "false",
+              "hint": "They are antiparallel \u2014 they run in opposite directions."
+            },
+            {
+              "type": "fill_in",
+              "question": "The backbone of a DNA strand is made of alternating sugar and ___ groups.",
+              "answer": "phosphate",
+              "hint": "The sugar-phosphate backbone provides the structural framework."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many hydrogen bonds form between guanine and cytosine?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct": 2,
+              "hint": "G-C pairs have three hydrogen bonds; A-T pairs have two."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-6-2",
+          "title": "DNA Replication",
+          "type": "lesson",
+          "content": {
+            "explanation": "DNA replication is the process by which a cell copies its DNA before cell division, ensuring each daughter cell receives an identical copy. Replication is semiconservative \u2014 each new DNA molecule contains one original strand and one newly synthesized strand. The process begins when the enzyme helicase unwinds and separates the double helix at specific sites called origins of replication, forming a replication fork. Single-strand binding proteins keep the strands from re-pairing. The enzyme DNA polymerase then reads each template strand and adds complementary nucleotides (A with T, G with C), building a new strand in the 5' to 3' direction. The leading strand is synthesized continuously, while the lagging strand is synthesized in short fragments called Okazaki fragments, which are later joined by DNA ligase. Proofreading enzymes check for errors \u2014 DNA polymerase has a built-in error-correction mechanism, making replication remarkably accurate with only about 1 error per billion nucleotides.",
+            "examples": [
+              {
+                "problem": "What does 'semiconservative' mean in DNA replication?",
+                "answer": "Each new DNA molecule has one old strand and one new strand",
+                "explanation": "Semi- means half; each daughter molecule conserves half of the original DNA."
+              },
+              {
+                "problem": "What enzyme unwinds the DNA double helix during replication?",
+                "answer": "Helicase",
+                "explanation": "Helicase breaks the hydrogen bonds between base pairs, separating the two strands."
+              },
+              {
+                "problem": "What enzyme builds the new DNA strand by adding nucleotides?",
+                "answer": "DNA polymerase",
+                "explanation": "DNA polymerase reads the template strand and matches each base with its complement."
+              }
+            ],
+            "key_vocabulary": [
+              "DNA replication",
+              "semiconservative",
+              "helicase",
+              "DNA polymerase",
+              "replication fork",
+              "Okazaki fragments",
+              "DNA ligase",
+              "leading strand",
+              "lagging strand"
+            ],
+            "real_world": "Cancer often involves errors in DNA replication. When the proofreading mechanisms fail and mutations accumulate in genes controlling cell growth, cells can divide uncontrollably."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What enzyme unzips the DNA double helix during replication?",
+              "options": [
+                "DNA polymerase",
+                "RNA polymerase",
+                "Helicase",
+                "Ligase"
+              ],
+              "correct": 2,
+              "hint": "This enzyme separates the two strands by breaking hydrogen bonds."
+            },
+            {
+              "type": "fill_in",
+              "question": "DNA replication is described as ___ because each new molecule has one old and one new strand.",
+              "answer": "semiconservative",
+              "hint": "Semi means half \u2014 half of the original is conserved."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which enzyme adds complementary nucleotides to build a new DNA strand?",
+              "options": [
+                "Helicase",
+                "Ligase",
+                "DNA polymerase",
+                "Primase"
+              ],
+              "correct": 2,
+              "hint": "This enzyme reads the template and assembles the new complementary strand."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Both strands of new DNA are synthesized continuously.",
+              "answer": "false",
+              "hint": "The leading strand is continuous, but the lagging strand is made in Okazaki fragments."
+            },
+            {
+              "type": "fill_in",
+              "question": "The short DNA fragments on the lagging strand are called ___ fragments.",
+              "answer": "Okazaki",
+              "hint": "Named after the scientists who discovered them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Approximately how accurate is DNA replication?",
+              "options": [
+                "1 error per 100 nucleotides",
+                "1 error per 1,000 nucleotides",
+                "1 error per million nucleotides",
+                "1 error per billion nucleotides"
+              ],
+              "correct": 3,
+              "hint": "DNA polymerase's proofreading ability makes replication incredibly accurate."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-6-3",
+          "title": "Transcription and Translation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gene expression is the process of using DNA's information to build proteins. It occurs in two major steps: transcription and translation. Transcription occurs in the nucleus: the enzyme RNA polymerase binds to a gene's promoter region and reads the DNA template strand, building a complementary messenger RNA (mRNA) strand. In RNA, uracil (U) replaces thymine (T), so A pairs with U. The mRNA strand is then processed (introns are removed, exons are spliced together) and exits the nucleus through nuclear pores. Translation occurs at ribosomes in the cytoplasm. The ribosome reads the mRNA in sets of three bases called codons. Each codon specifies one amino acid. Transfer RNA (tRNA) molecules carry amino acids to the ribosome; each tRNA has an anticodon that pairs with a complementary mRNA codon. The amino acids are linked together by peptide bonds to form a polypeptide chain (protein). Translation begins at a start codon (AUG, which codes for methionine) and ends at a stop codon (UAA, UAG, or UGA).",
+            "examples": [
+              {
+                "problem": "If a DNA template strand reads TAC, what is the mRNA codon?",
+                "answer": "AUG",
+                "explanation": "T pairs with A, A pairs with U (in RNA), C pairs with G. So TAC becomes AUG."
+              },
+              {
+                "problem": "Where does transcription occur?",
+                "answer": "In the nucleus",
+                "explanation": "RNA polymerase reads DNA and builds mRNA inside the nucleus. The mRNA then travels to ribosomes."
+              },
+              {
+                "problem": "What is a codon?",
+                "answer": "A sequence of three mRNA bases that codes for one amino acid",
+                "explanation": "There are 64 possible codons. Most amino acids are specified by more than one codon."
+              }
+            ],
+            "key_vocabulary": [
+              "transcription",
+              "translation",
+              "mRNA",
+              "tRNA",
+              "RNA polymerase",
+              "codon",
+              "anticodon",
+              "ribosome",
+              "amino acid",
+              "start codon",
+              "stop codon"
+            ],
+            "real_world": "Many antibiotics work by targeting bacterial ribosomes, blocking translation and preventing bacteria from making the proteins they need to survive \u2014 without affecting human ribosomes."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "During transcription, which enzyme builds the mRNA strand?",
+              "options": [
+                "DNA polymerase",
+                "RNA polymerase",
+                "Helicase",
+                "Ligase"
+              ],
+              "correct": 1,
+              "hint": "RNA polymerase reads DNA and builds a complementary RNA strand."
+            },
+            {
+              "type": "fill_in",
+              "question": "A set of three bases on mRNA that codes for one amino acid is called a ___.",
+              "answer": "codon",
+              "hint": "There are 64 possible three-base combinations."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where does translation take place?",
+              "options": [
+                "In the nucleus",
+                "At the ribosome",
+                "In the mitochondria",
+                "In the Golgi apparatus"
+              ],
+              "correct": 1,
+              "hint": "Ribosomes read mRNA and assemble amino acids into proteins."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: In mRNA, uracil replaces thymine.",
+              "answer": "true",
+              "hint": "RNA uses uracil (U) instead of thymine (T)."
+            },
+            {
+              "type": "fill_in",
+              "question": "The molecule that carries amino acids to the ribosome during translation is ___ (abbreviation).",
+              "answer": "tRNA",
+              "hint": "Transfer RNA \u2014 it transfers amino acids to the growing protein chain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The start codon AUG codes for which amino acid?",
+              "options": [
+                "Alanine",
+                "Glycine",
+                "Methionine",
+                "Tryptophan"
+              ],
+              "correct": 2,
+              "hint": "AUG is the universal start codon and codes for methionine."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-6-4",
+          "title": "Mutations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mutation is a change in the DNA sequence. Mutations can occur spontaneously during DNA replication or be caused by mutagens \u2014 environmental agents such as UV radiation, certain chemicals, and some viruses. Point mutations affect a single nucleotide. A substitution replaces one base with another \u2014 this may change one amino acid (missense mutation), create a premature stop codon (nonsense mutation), or have no effect if the new codon still codes for the same amino acid (silent mutation). Insertions add one or more bases, and deletions remove one or more bases. Both insertions and deletions can cause a frameshift mutation, which shifts the reading frame of all subsequent codons, usually producing a nonfunctional protein. Chromosomal mutations involve large segments of chromosomes and include deletions, duplications, inversions, and translocations. Not all mutations are harmful \u2014 some are neutral, and some can be beneficial, providing variation for natural selection.",
+            "examples": [
+              {
+                "problem": "What type of mutation inserts or deletes bases and shifts the reading frame?",
+                "answer": "Frameshift mutation",
+                "explanation": "Adding or removing bases (not in multiples of 3) shifts how all subsequent codons are read, scrambling the protein."
+              },
+              {
+                "problem": "UV radiation causes mutations. What is UV radiation classified as?",
+                "answer": "A mutagen",
+                "explanation": "Mutagens are environmental factors that increase the rate of mutations in DNA."
+              },
+              {
+                "problem": "A mutation changes a codon from GAG to GUG, changing one amino acid. What type of mutation is this?",
+                "answer": "Missense (point substitution)",
+                "explanation": "A single base change that results in a different amino acid is a missense mutation. This specific change causes sickle cell disease."
+              }
+            ],
+            "key_vocabulary": [
+              "mutation",
+              "mutagen",
+              "point mutation",
+              "substitution",
+              "insertion",
+              "deletion",
+              "frameshift",
+              "missense",
+              "nonsense",
+              "silent mutation"
+            ],
+            "real_world": "Sickle cell disease is caused by a single point mutation in the hemoglobin gene \u2014 just one base change (GAG to GTG) alters one amino acid, dramatically changing the shape and function of red blood cells."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which type of mutation shifts the reading frame of all subsequent codons?",
+              "options": [
+                "Substitution",
+                "Silent mutation",
+                "Frameshift mutation",
+                "Missense mutation"
+              ],
+              "correct": 2,
+              "hint": "Insertions or deletions that are not multiples of 3 cause this."
+            },
+            {
+              "type": "fill_in",
+              "question": "Environmental agents that cause mutations are called ___.",
+              "answer": "mutagens",
+              "hint": "Examples include UV light, tobacco smoke, and certain chemicals."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A silent mutation:",
+              "options": [
+                "Changes the amino acid sequence",
+                "Creates a stop codon",
+                "Does not change the amino acid produced",
+                "Deletes an entire gene"
+              ],
+              "correct": 2,
+              "hint": "The new codon still codes for the same amino acid due to redundancy in the genetic code."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: All mutations are harmful to an organism.",
+              "answer": "false",
+              "hint": "Many mutations are neutral, and some can even be beneficial."
+            },
+            {
+              "type": "fill_in",
+              "question": "A mutation that changes one base and results in a different amino acid is called a ___ mutation.",
+              "answer": "missense",
+              "hint": "Miss- because the wrong amino acid is inserted."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What type of mutation creates a premature stop codon?",
+              "options": [
+                "Silent",
+                "Missense",
+                "Nonsense",
+                "Frameshift"
+              ],
+              "correct": 2,
+              "hint": "Non-sense \u2014 the codon no longer makes sense as an amino acid; it tells the ribosome to stop."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-6",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "In DNA, guanine pairs with:",
+            "options": [
+              "Adenine",
+              "Thymine",
+              "Cytosine",
+              "Uracil"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The enzyme that builds a new DNA strand during replication is DNA ___.",
+            "answer": "polymerase"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A three-base sequence on mRNA that codes for an amino acid is called a:",
+            "options": [
+              "Gene",
+              "Codon",
+              "Anticodon",
+              "Nucleotide"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A change in the DNA sequence is called a ___.",
+            "answer": "mutation"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of RNA carries amino acids to the ribosome?",
+            "options": [
+              "mRNA",
+              "tRNA",
+              "rRNA",
+              "snRNA"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "molecular_genetics_master"
+      }
+    },
+    {
+      "id": "9-science-7",
+      "title": "Evolution",
+      "description": "Understand how species change over time through natural selection, adaptation, and speciation.",
+      "lessons": [
+        {
+          "id": "9-science-7-1",
+          "title": "Darwin and Natural Selection",
+          "type": "lesson",
+          "content": {
+            "explanation": "Charles Darwin (1809-1882) developed the theory of evolution by natural selection after a five-year voyage on HMS Beagle, during which he observed remarkable biodiversity, particularly in the Galapagos Islands. Darwin noticed that finches on different islands had different beak shapes suited to the available food sources. Natural selection is the process by which organisms with traits better suited to their environment survive and reproduce more successfully than others. Four conditions are required for natural selection: (1) variation exists within a population, (2) some variations are heritable, (3) more offspring are produced than can survive (overproduction), and (4) individuals with favorable traits have higher fitness \u2014 they are more likely to survive and pass their genes to the next generation. Over many generations, natural selection leads to adaptation \u2014 the accumulation of traits that improve survival in a specific environment. Natural selection acts on phenotypes, not directly on genes.",
+            "examples": [
+              {
+                "problem": "Why did Galapagos finches on different islands have different beak shapes?",
+                "answer": "Natural selection favored beak shapes suited to the food available on each island",
+                "explanation": "Finches with beaks better suited to the local food source survived and reproduced more, passing on those beak traits."
+              },
+              {
+                "problem": "What is biological fitness?",
+                "answer": "The ability of an organism to survive and reproduce in its environment",
+                "explanation": "Fitness is not about physical strength \u2014 it is about reproductive success and passing genes to the next generation."
+              },
+              {
+                "problem": "A population of beetles includes green and brown individuals. Birds eat the green ones more easily on brown soil. What happens over time?",
+                "answer": "The brown beetles become more common",
+                "explanation": "Brown beetles survive more, reproduce more, and pass on the brown color trait. This is natural selection in action."
+              }
+            ],
+            "key_vocabulary": [
+              "evolution",
+              "natural selection",
+              "Charles Darwin",
+              "adaptation",
+              "fitness",
+              "variation",
+              "heritable",
+              "overproduction",
+              "Galapagos"
+            ],
+            "real_world": "Antibiotic resistance in bacteria is natural selection happening in real time. When antibiotics kill most bacteria, the few with resistance mutations survive and multiply, creating drug-resistant populations \u2014 a major public health concern."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who developed the theory of evolution by natural selection?",
+              "options": [
+                "Gregor Mendel",
+                "Louis Pasteur",
+                "Charles Darwin",
+                "James Watson"
+              ],
+              "correct": 2,
+              "hint": "He traveled on HMS Beagle and studied organisms in the Galapagos Islands."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process by which organisms with favorable traits survive and reproduce more is called natural ___.",
+              "answer": "selection",
+              "hint": "Nature 'selects' the best-suited individuals."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT required for natural selection to occur?",
+              "options": [
+                "Variation in a population",
+                "Heritable traits",
+                "Sexual reproduction only",
+                "Overproduction of offspring"
+              ],
+              "correct": 2,
+              "hint": "Natural selection can occur in organisms that reproduce asexually too."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Natural selection acts directly on an organism's genes.",
+              "answer": "false",
+              "hint": "Natural selection acts on phenotypes (observable traits). Genes are affected indirectly."
+            },
+            {
+              "type": "fill_in",
+              "question": "The gradual accumulation of traits that improve survival in a specific environment is called ___.",
+              "answer": "adaptation",
+              "hint": "Over many generations, populations become better suited to their environments."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Darwin observe about finches in the Galapagos Islands?",
+              "options": [
+                "They all looked identical",
+                "They had different beak shapes on different islands",
+                "They could not fly",
+                "They were going extinct"
+              ],
+              "correct": 1,
+              "hint": "Different beak shapes were adapted to different food sources on each island."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-7-2",
+          "title": "Evidence for Evolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiple lines of evidence support the theory of evolution. Fossil evidence shows how organisms have changed over time. Transitional fossils (like Tiktaalik, which has features of both fish and tetrapods) document evolutionary transitions. The fossil record shows a progression from simple to more complex organisms. Comparative anatomy reveals homologous structures \u2014 body parts with similar bone structure but different functions in different species (human arm, whale flipper, bat wing, cat leg). These indicate a common ancestor. Analogous structures have similar functions but different underlying structures (bird wing vs insect wing) \u2014 evidence of convergent evolution, not common ancestry. Vestigial structures are reduced or nonfunctional remnants of structures that were useful in ancestors (human appendix, whale hip bones). Molecular evidence compares DNA and protein sequences; closely related species have more similar sequences. Embryological evidence shows that embryos of related species look similar in early development, reflecting shared ancestry.",
+            "examples": [
+              {
+                "problem": "What are homologous structures?",
+                "answer": "Body parts in different species that have similar bone structure but different functions",
+                "explanation": "The human arm, whale flipper, and bat wing all have the same underlying bone pattern, showing they evolved from a common ancestor."
+              },
+              {
+                "problem": "Humans have an appendix that has no major function. What type of structure is this?",
+                "answer": "Vestigial structure",
+                "explanation": "The appendix is a reduced remnant of a structure that was functional in our ancestors (likely for digesting cellulose)."
+              },
+              {
+                "problem": "Chimpanzees and humans share about 98.7% of their DNA. What does this suggest?",
+                "answer": "They share a recent common ancestor",
+                "explanation": "High DNA similarity indicates a close evolutionary relationship and recent divergence from a common ancestor."
+              }
+            ],
+            "key_vocabulary": [
+              "fossil",
+              "transitional fossil",
+              "homologous structures",
+              "analogous structures",
+              "vestigial structures",
+              "comparative anatomy",
+              "molecular evidence",
+              "embryology"
+            ],
+            "real_world": "DNA evidence has revolutionized our understanding of evolutionary relationships. Surprisingly, DNA shows that hippos are the closest living relatives of whales \u2014 a relationship not obvious from physical appearance alone."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Structures in different species that have similar bone structure but different functions are called:",
+              "options": [
+                "Analogous structures",
+                "Vestigial structures",
+                "Homologous structures",
+                "Functional structures"
+              ],
+              "correct": 2,
+              "hint": "Homo- means same \u2014 these structures share the same underlying anatomy."
+            },
+            {
+              "type": "fill_in",
+              "question": "Reduced or nonfunctional remnants of once-useful structures are called ___ structures.",
+              "answer": "vestigial",
+              "hint": "Examples include the human tailbone and whale hip bones."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a transitional fossil?",
+              "options": [
+                "A modern fish fossil",
+                "Tiktaalik (fish-tetrapod transition)",
+                "A dinosaur footprint",
+                "An insect in amber"
+              ],
+              "correct": 1,
+              "hint": "Tiktaalik has features of both fish (scales, fins) and four-legged animals (wrist bones, flat head)."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Bird wings and insect wings are homologous structures.",
+              "answer": "false",
+              "hint": "They are analogous \u2014 similar function but completely different underlying structure."
+            },
+            {
+              "type": "fill_in",
+              "question": "Comparing ___ sequences between species is one of the strongest forms of evidence for evolution.",
+              "answer": "DNA",
+              "hint": "Closely related species share more similar genetic sequences."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do the embryos of fish, birds, and humans look similar in early development?",
+              "options": [
+                "Coincidence",
+                "They share common ancestry",
+                "They live in similar environments",
+                "They eat the same food"
+              ],
+              "correct": 1,
+              "hint": "Similar embryonic development reflects shared evolutionary heritage."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-7-3",
+          "title": "Adaptation",
+          "type": "lesson",
+          "content": {
+            "explanation": "An adaptation is a heritable trait that increases an organism's ability to survive and reproduce in its specific environment. Adaptations arise through natural selection over many generations \u2014 they are not developed by individual organisms during their lifetimes. Structural adaptations involve physical features: the thick fur of arctic foxes for insulation, the long necks of giraffes for reaching high leaves, or the streamlined bodies of dolphins for fast swimming. Behavioral adaptations involve actions: bird migration, hibernation, nocturnal hunting, or schooling behavior in fish. Physiological adaptations involve internal body processes: the ability of camels to conserve water, antifreeze proteins in Arctic fish blood, or venom production in snakes. Mimicry is a fascinating adaptation \u2014 some harmless organisms evolve to resemble harmful ones (Batesian mimicry), while some harmful organisms evolve to look alike (Mullerian mimicry). Camouflage allows organisms to blend into their environment, avoiding predators or ambushing prey.",
+            "examples": [
+              {
+                "problem": "A polar bear has white fur, thick blubber, and large paws. What types of adaptations are these?",
+                "answer": "Structural adaptations",
+                "explanation": "White fur (camouflage), thick blubber (insulation), and large paws (weight distribution on snow) are all physical features."
+              },
+              {
+                "problem": "A harmless king snake has similar red, yellow, and black bands as the venomous coral snake. What is this?",
+                "answer": "Batesian mimicry",
+                "explanation": "The harmless king snake gains protection by resembling the dangerous coral snake \u2014 predators avoid both."
+              },
+              {
+                "problem": "Why do some animals hibernate during winter?",
+                "answer": "It is a behavioral adaptation to survive cold temperatures and food scarcity",
+                "explanation": "Hibernation conserves energy when food is scarce, increasing survival through winter."
+              }
+            ],
+            "key_vocabulary": [
+              "adaptation",
+              "structural adaptation",
+              "behavioral adaptation",
+              "physiological adaptation",
+              "mimicry",
+              "camouflage",
+              "Batesian mimicry",
+              "Mullerian mimicry"
+            ],
+            "real_world": "The peppered moth is a classic example of adaptation. Before the Industrial Revolution, light-colored moths were camouflaged on clean tree bark. As pollution darkened the bark, dark moths became better camouflaged and increased in frequency."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a behavioral adaptation?",
+              "options": [
+                "A cactus storing water in its stem",
+                "Birds migrating south for winter",
+                "A cheetah's long legs for speed",
+                "A porcupine's sharp quills"
+              ],
+              "correct": 1,
+              "hint": "Behavioral adaptations are actions organisms perform to survive."
+            },
+            {
+              "type": "fill_in",
+              "question": "An organism that evolves to look like a harmful species for protection is an example of ___.",
+              "answer": "mimicry",
+              "hint": "The harmless organism gains protection by resembling a dangerous one."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of adaptation involves internal body processes?",
+              "options": [
+                "Structural",
+                "Behavioral",
+                "Physiological",
+                "Anatomical"
+              ],
+              "correct": 2,
+              "hint": "Physiological adaptations are internal \u2014 like producing venom or regulating body temperature."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Individual organisms can develop adaptations during their own lifetime.",
+              "answer": "false",
+              "hint": "Adaptations arise in populations over many generations through natural selection, not in individuals."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ability of an organism to blend in with its environment is called ___.",
+              "answer": "camouflage",
+              "hint": "This helps organisms hide from predators or sneak up on prey."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The peppered moth is an example of natural selection because:",
+              "options": [
+                "Lighter moths chose to become darker",
+                "Pollution caused moths to mutate",
+                "Moths with coloring that matched the environment survived better",
+                "Moths migrated to cleaner areas"
+              ],
+              "correct": 2,
+              "hint": "The environment changed, and moths with better camouflage had higher survival rates."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-7-4",
+          "title": "Speciation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Speciation is the process by which one species splits into two or more new species. A species is a group of organisms that can interbreed and produce fertile offspring. The most common mechanism is allopatric speciation, which occurs when a physical barrier (mountain range, river, ocean) geographically separates a population. The separated groups can no longer interbreed, and they experience different environmental pressures and mutations. Over time, genetic differences accumulate until the groups can no longer produce fertile offspring even if reunited \u2014 they have become separate species. Sympatric speciation occurs without geographic separation, often through polyploidy (having extra sets of chromosomes, common in plants) or through ecological specialization within the same area. Reproductive isolation is the key to speciation \u2014 mechanisms that prevent two groups from interbreeding include temporal isolation (breeding at different times), behavioral isolation (different mating rituals), and mechanical isolation (incompatible reproductive structures).",
+            "examples": [
+              {
+                "problem": "The Grand Canyon separates two populations of squirrels that can no longer interbreed. What type of speciation is this?",
+                "answer": "Allopatric speciation",
+                "explanation": "A physical barrier (the canyon) geographically separated the population, leading to independent evolution and eventual speciation."
+              },
+              {
+                "problem": "Two bird species live in the same forest but one breeds in spring and the other in fall. What type of reproductive isolation is this?",
+                "answer": "Temporal isolation",
+                "explanation": "They cannot interbreed because their breeding seasons do not overlap."
+              },
+              {
+                "problem": "What must happen for two populations to become separate species?",
+                "answer": "They must become reproductively isolated",
+                "explanation": "Once two groups can no longer produce fertile offspring together, they are considered separate species."
+              }
+            ],
+            "key_vocabulary": [
+              "speciation",
+              "species",
+              "allopatric speciation",
+              "sympatric speciation",
+              "reproductive isolation",
+              "geographic isolation",
+              "temporal isolation",
+              "polyploidy"
+            ],
+            "real_world": "The Darwin's finches of the Galapagos are a famous example of speciation. An ancestral finch population colonized different islands, and each group adapted to its local food source, eventually producing 13 distinct species."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Speciation that occurs due to a geographic barrier is called:",
+              "options": [
+                "Sympatric speciation",
+                "Allopatric speciation",
+                "Temporal speciation",
+                "Behavioral speciation"
+              ],
+              "correct": 1,
+              "hint": "Allo- means other/different, -patric means homeland \u2014 different geographic locations."
+            },
+            {
+              "type": "fill_in",
+              "question": "A group of organisms that can interbreed and produce fertile offspring is called a ___.",
+              "answer": "species",
+              "hint": "This is the biological species concept."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a physical barrier that could lead to allopatric speciation?",
+              "options": [
+                "A new food source",
+                "A mountain range",
+                "A change in mating call",
+                "A genetic mutation"
+              ],
+              "correct": 1,
+              "hint": "Physical barriers like mountains, rivers, and oceans separate populations geographically."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Sympatric speciation requires geographic separation.",
+              "answer": "false",
+              "hint": "Sympatric means 'same homeland' \u2014 speciation occurs without geographic barriers."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process by which one species evolves into two or more species is called ___.",
+              "answer": "speciation",
+              "hint": "It is driven by reproductive isolation and divergent evolution."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Two closely related firefly species flash different light patterns during mating. This is an example of:",
+              "options": [
+                "Geographic isolation",
+                "Temporal isolation",
+                "Behavioral isolation",
+                "Mechanical isolation"
+              ],
+              "correct": 2,
+              "hint": "Different mating behaviors prevent interbreeding."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-7",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "The scientist who developed the theory of natural selection is Charles ___.",
+            "answer": "Darwin"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Structures with similar bone structure but different functions in different species are called:",
+            "options": [
+              "Analogous structures",
+              "Vestigial structures",
+              "Homologous structures",
+              "Convergent structures"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is a physiological adaptation?",
+            "options": [
+              "A bird migrating south",
+              "A cactus having spines",
+              "A snake producing venom",
+              "A fish swimming in schools"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Speciation caused by a geographic barrier is called ___ speciation.",
+            "answer": "allopatric"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "For natural selection to occur, traits must be:",
+            "options": [
+              "Learned",
+              "Heritable",
+              "Dominant",
+              "Identical in all organisms"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "evolution_master"
+      }
+    },
+    {
+      "id": "9-science-8",
+      "title": "Ecology",
+      "description": "Study how organisms interact with each other and their environment, from food webs to human impacts.",
+      "lessons": [
+        {
+          "id": "9-science-8-1",
+          "title": "Ecosystems and Biomes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ecology is the study of how organisms interact with each other and their environment. An ecosystem includes all the living (biotic) and nonliving (abiotic) factors in a given area. Biotic factors include plants, animals, fungi, and microorganisms. Abiotic factors include temperature, water, sunlight, soil, and air. Levels of ecological organization range from individual organisms to populations (groups of the same species in an area), communities (all species in an area), ecosystems (community plus abiotic factors), and biomes (large regions with similar climate and organisms). Major terrestrial biomes include tropical rainforest (warm, wet, greatest biodiversity), desert (hot or cold, very dry), grassland (moderate rainfall, dominated by grasses), temperate deciduous forest (four seasons, trees lose leaves), taiga/boreal forest (cold, coniferous trees), and tundra (very cold, permafrost, no trees). Aquatic ecosystems include freshwater (lakes, rivers, wetlands) and marine (oceans, coral reefs, estuaries).",
+            "examples": [
+              {
+                "problem": "Name three biotic and three abiotic factors in a pond ecosystem.",
+                "answer": "Biotic: fish, algae, bacteria. Abiotic: water temperature, sunlight, dissolved oxygen",
+                "explanation": "Biotic means living things; abiotic means nonliving components of the environment."
+              },
+              {
+                "problem": "Which biome has the greatest biodiversity on Earth?",
+                "answer": "Tropical rainforest",
+                "explanation": "Warm temperatures, abundant rainfall, and year-round sunlight support an enormous diversity of species."
+              },
+              {
+                "problem": "What is the difference between a community and an ecosystem?",
+                "answer": "A community is all living species in an area; an ecosystem includes the community plus abiotic factors",
+                "explanation": "An ecosystem = community (biotic) + environment (abiotic)."
+              }
+            ],
+            "key_vocabulary": [
+              "ecology",
+              "ecosystem",
+              "biotic",
+              "abiotic",
+              "population",
+              "community",
+              "biome",
+              "biodiversity"
+            ],
+            "real_world": "Coral reefs are called the 'rainforests of the sea' because they support enormous biodiversity \u2014 about 25% of all marine species depend on coral reefs, even though reefs cover less than 1% of the ocean floor."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is an abiotic factor?",
+              "options": [
+                "A bird",
+                "A tree",
+                "Temperature",
+                "Bacteria"
+              ],
+              "correct": 2,
+              "hint": "Abiotic factors are nonliving components of an environment."
+            },
+            {
+              "type": "fill_in",
+              "question": "A large region characterized by a specific climate and type of organisms is called a ___.",
+              "answer": "biome",
+              "hint": "Examples include desert, tundra, and tropical rainforest."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which biome is characterized by permafrost and no trees?",
+              "options": [
+                "Taiga",
+                "Desert",
+                "Tundra",
+                "Grassland"
+              ],
+              "correct": 2,
+              "hint": "The tundra is extremely cold with frozen ground and only small, hardy plants."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: An ecosystem includes only the living organisms in an area.",
+              "answer": "false",
+              "hint": "An ecosystem includes both biotic (living) AND abiotic (nonliving) factors."
+            },
+            {
+              "type": "fill_in",
+              "question": "All the members of one species living in the same area form a ___.",
+              "answer": "population",
+              "hint": "For example, all the deer in a forest make up a population."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which level of organization includes all species interacting in a particular area?",
+              "options": [
+                "Population",
+                "Community",
+                "Organism",
+                "Biome"
+              ],
+              "correct": 1,
+              "hint": "A community is all the different species living and interacting together in one place."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-8-2",
+          "title": "Food Chains, Food Webs, and Energy Pyramids",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy flows through ecosystems in one direction: from the sun to producers to consumers to decomposers. Producers (autotrophs) like plants and algae capture sunlight through photosynthesis and convert it to chemical energy. Primary consumers (herbivores) eat producers. Secondary consumers (carnivores or omnivores) eat primary consumers. Tertiary consumers eat secondary consumers. Decomposers (bacteria and fungi) break down dead organisms and recycle nutrients back into the soil. A food chain shows a single pathway of energy transfer: grass -> rabbit -> fox -> eagle. A food web is a network of interconnected food chains in an ecosystem, showing multiple feeding relationships. An energy pyramid shows that only about 10% of the energy at each trophic level is transferred to the next level. The rest is lost as heat through cellular respiration. This is the 10% rule: if producers capture 10,000 kcal, primary consumers get about 1,000 kcal, secondary consumers get about 100 kcal, and tertiary consumers get about 10 kcal. This is why top predators are rare and food chains rarely have more than 4-5 levels.",
+            "examples": [
+              {
+                "problem": "In the food chain grass -> rabbit -> fox, what is the fox?",
+                "answer": "Secondary consumer",
+                "explanation": "The fox eats the rabbit (a primary consumer), making the fox a secondary consumer."
+              },
+              {
+                "problem": "If producers in an ecosystem capture 10,000 kcal of energy, how much energy is available to secondary consumers?",
+                "answer": "100 kcal",
+                "explanation": "Using the 10% rule: producers (10,000) -> primary consumers (1,000) -> secondary consumers (100)."
+              },
+              {
+                "problem": "Why are there fewer top predators than herbivores in an ecosystem?",
+                "answer": "Less energy is available at higher trophic levels",
+                "explanation": "Only 10% of energy transfers to the next level, so there is not enough energy to support large numbers of top predators."
+              }
+            ],
+            "key_vocabulary": [
+              "producer",
+              "consumer",
+              "decomposer",
+              "food chain",
+              "food web",
+              "trophic level",
+              "energy pyramid",
+              "10% rule",
+              "herbivore",
+              "carnivore",
+              "omnivore"
+            ],
+            "real_world": "Overfishing top predators like sharks disrupts entire food webs. When shark populations decline, their prey (like rays) increase, which can decimate shellfish populations \u2014 a phenomenon called a trophic cascade."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which organism is a producer?",
+              "options": [
+                "Rabbit",
+                "Mushroom",
+                "Oak tree",
+                "Fox"
+              ],
+              "correct": 2,
+              "hint": "Producers make their own food through photosynthesis."
+            },
+            {
+              "type": "fill_in",
+              "question": "The rule that only about 10% of energy is transferred from one trophic level to the next is called the ___% rule.",
+              "answer": "10",
+              "hint": "90% of energy is lost as heat at each level."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What role do decomposers play in an ecosystem?",
+              "options": [
+                "They produce energy from sunlight",
+                "They hunt and eat other animals",
+                "They break down dead organisms and recycle nutrients",
+                "They compete with producers"
+              ],
+              "correct": 2,
+              "hint": "Without decomposers, dead matter would pile up and nutrients would not be recycled."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: A food web shows only a single pathway of energy flow.",
+              "answer": "false",
+              "hint": "A food web shows multiple interconnected food chains."
+            },
+            {
+              "type": "fill_in",
+              "question": "Organisms that eat only plants are called ___.",
+              "answer": "herbivores",
+              "hint": "They are the primary consumers in a food chain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do food chains rarely have more than 4-5 trophic levels?",
+              "options": [
+                "There are not enough species",
+                "Too much energy is lost at each level",
+                "Predators cannot survive",
+                "The food web prevents it"
+              ],
+              "correct": 1,
+              "hint": "The 10% rule means very little energy remains for top-level consumers."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-8-3",
+          "title": "Population Ecology",
+          "type": "lesson",
+          "content": {
+            "explanation": "Population ecology studies how populations change over time. A population's size is affected by four factors: birth rate, death rate, immigration (individuals moving in), and emigration (individuals moving out). Exponential growth occurs when a population has unlimited resources \u2014 it grows faster and faster, producing a J-shaped curve. However, no environment has unlimited resources. The carrying capacity (K) is the maximum population size an environment can sustain. As a population approaches carrying capacity, growth slows due to limiting factors (food, water, space, predation, disease), producing an S-shaped curve called logistic growth. Density-dependent limiting factors intensify as population density increases (competition, disease, predation). Density-independent limiting factors affect populations regardless of size (natural disasters, weather, human destruction of habitat). Populations can be described by their growth rate, age structure (proportion of individuals in each age group), and distribution pattern (clumped, uniform, or random).",
+            "examples": [
+              {
+                "problem": "A bacteria population doubles every 20 minutes with unlimited food. What type of growth is this?",
+                "answer": "Exponential growth",
+                "explanation": "With unlimited resources, the population grows at an accelerating rate, producing a J-shaped curve."
+              },
+              {
+                "problem": "A lake can support a maximum of 500 fish. What is 500 called?",
+                "answer": "The carrying capacity (K)",
+                "explanation": "Carrying capacity is the maximum number of individuals an environment can sustain with available resources."
+              },
+              {
+                "problem": "A forest fire kills half the deer in a forest regardless of how many deer there were. What type of limiting factor is this?",
+                "answer": "Density-independent",
+                "explanation": "Natural disasters affect populations regardless of their size or density."
+              }
+            ],
+            "key_vocabulary": [
+              "population",
+              "birth rate",
+              "death rate",
+              "immigration",
+              "emigration",
+              "exponential growth",
+              "logistic growth",
+              "carrying capacity",
+              "limiting factor",
+              "density-dependent",
+              "density-independent"
+            ],
+            "real_world": "Human population grew slowly for most of history but has experienced exponential growth since the Industrial Revolution. The world population reached 8 billion in 2022, raising concerns about resource sustainability."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The maximum number of individuals an environment can support is called the:",
+              "options": [
+                "Growth rate",
+                "Birth rate",
+                "Carrying capacity",
+                "Limiting factor"
+              ],
+              "correct": 2,
+              "hint": "It is represented by the letter K."
+            },
+            {
+              "type": "fill_in",
+              "question": "Growth that produces a J-shaped curve with unlimited resources is called ___ growth.",
+              "answer": "exponential",
+              "hint": "The population grows faster and faster without any limits."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a density-dependent limiting factor?",
+              "options": [
+                "Hurricane",
+                "Volcanic eruption",
+                "Competition for food",
+                "Wildfire"
+              ],
+              "correct": 2,
+              "hint": "Competition becomes more intense as population density increases."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: Logistic growth produces a J-shaped curve.",
+              "answer": "false",
+              "hint": "Logistic growth produces an S-shaped curve; exponential growth produces a J-shaped curve."
+            },
+            {
+              "type": "fill_in",
+              "question": "Individuals moving into a population is called ___.",
+              "answer": "immigration",
+              "hint": "Immigration increases population size; emigration decreases it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens to a population when it exceeds its carrying capacity?",
+              "options": [
+                "It continues to grow exponentially",
+                "It decreases due to limited resources",
+                "It stays the same",
+                "It migrates to a new area"
+              ],
+              "correct": 1,
+              "hint": "Resources become insufficient, leading to increased death rates and decreased birth rates."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-science-8-4",
+          "title": "Human Impact on the Environment",
+          "type": "lesson",
+          "content": {
+            "explanation": "Human activities have significant impacts on ecosystems worldwide. Habitat destruction through deforestation, urbanization, and agriculture is the leading cause of biodiversity loss. When habitats are fragmented, populations become isolated and more vulnerable to extinction. Pollution takes many forms: air pollution (greenhouse gases, smog), water pollution (industrial waste, agricultural runoff, plastics), and soil contamination. Climate change, driven primarily by the burning of fossil fuels that release greenhouse gases (CO2, methane), is causing rising global temperatures, melting ice caps, rising sea levels, and more extreme weather events. The greenhouse effect itself is natural and necessary for life \u2014 greenhouse gases trap heat in the atmosphere \u2014 but human activities have intensified it. Overexploitation (overfishing, overhunting, overlogging) depletes resources faster than they can be replenished. Invasive species introduced to new environments can outcompete native species. Conservation efforts include establishing protected areas, restoring habitats, reducing emissions, sustainable resource use, and protecting endangered species.",
+            "examples": [
+              {
+                "problem": "What is the leading cause of biodiversity loss?",
+                "answer": "Habitat destruction",
+                "explanation": "Deforestation, urban development, and agricultural expansion destroy the natural habitats that species depend on."
+              },
+              {
+                "problem": "How do greenhouse gases cause global warming?",
+                "answer": "They trap heat in the atmosphere, preventing it from escaping to space",
+                "explanation": "CO2, methane, and other greenhouse gases absorb and re-radiate infrared radiation, warming the planet."
+              },
+              {
+                "problem": "Why are invasive species harmful to ecosystems?",
+                "answer": "They outcompete native species for resources, often lacking natural predators",
+                "explanation": "Without natural checks, invasive species can multiply rapidly and displace native organisms."
+              }
+            ],
+            "key_vocabulary": [
+              "habitat destruction",
+              "deforestation",
+              "pollution",
+              "climate change",
+              "greenhouse effect",
+              "greenhouse gases",
+              "fossil fuels",
+              "invasive species",
+              "conservation",
+              "biodiversity",
+              "endangered species"
+            ],
+            "real_world": "The Great Pacific Garbage Patch is a massive area of floating plastic debris in the Pacific Ocean. Marine animals mistake plastic for food, and microplastics have been found in every level of the food chain, including in human blood."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the primary cause of current climate change?",
+              "options": [
+                "Volcanic eruptions",
+                "Solar flares",
+                "Burning fossil fuels",
+                "Deforestation alone"
+              ],
+              "correct": 2,
+              "hint": "Burning coal, oil, and natural gas releases massive amounts of CO2 into the atmosphere."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ effect is the natural process by which greenhouse gases trap heat in Earth's atmosphere.",
+              "answer": "greenhouse",
+              "hint": "It keeps Earth warm enough for life, but human activities have intensified it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is the leading cause of species extinction today?",
+              "options": [
+                "Pollution",
+                "Climate change",
+                "Habitat destruction",
+                "Invasive species"
+              ],
+              "correct": 2,
+              "hint": "Destroying habitats removes the homes, food, and resources species need."
+            },
+            {
+              "type": "fill_in",
+              "question": "True or false: The greenhouse effect is entirely caused by human activity.",
+              "answer": "false",
+              "hint": "The greenhouse effect is a natural process; human activities have enhanced it beyond natural levels."
+            },
+            {
+              "type": "fill_in",
+              "question": "Species that are introduced to a new environment where they do not naturally occur are called ___ species.",
+              "answer": "invasive",
+              "hint": "They often outcompete native species because they lack natural predators."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a conservation strategy to protect biodiversity?",
+              "options": [
+                "Increasing fossil fuel use",
+                "Clearing more land for farming",
+                "Establishing protected nature reserves",
+                "Introducing more invasive species"
+              ],
+              "correct": 2,
+              "hint": "Protected areas preserve habitats and the species that depend on them."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-science-quiz-8",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which is a biotic factor in an ecosystem?",
+            "options": [
+              "Temperature",
+              "Sunlight",
+              "Fungi",
+              "Water"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Only about ___% of energy is transferred from one trophic level to the next.",
+            "answer": "10"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The maximum population an environment can sustain is called:",
+            "options": [
+              "Birth rate",
+              "Carrying capacity",
+              "Growth rate",
+              "Density"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The leading cause of biodiversity loss is habitat ___.",
+            "answer": "destruction"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which gas is the primary driver of climate change?",
+            "options": [
+              "Oxygen",
+              "Nitrogen",
+              "Carbon dioxide",
+              "Hydrogen"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ecology_master"
+      }
+    }
+  ]
+}

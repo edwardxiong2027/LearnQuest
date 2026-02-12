@@ -1,0 +1,2628 @@
+{
+  "grade": 12,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "12-ela-1",
+      "title": "Contemporary Fiction",
+      "description": "Modern novels, postmodern techniques, and diverse voices in 21st-century literature.",
+      "lessons": [
+        {
+          "id": "12-ela-1-1",
+          "title": "Postmodern Fiction Techniques",
+          "type": "lesson",
+          "content": {
+            "explanation": "Postmodern fiction challenges traditional storytelling. Key techniques include: metafiction (fiction about fiction \u2014 the narrator acknowledges the story is a construct), unreliable narrators (whose credibility is compromised), fragmented narrative (non-linear, multiple timelines), pastiche (imitating other styles), and magical realism (magical elements treated as ordinary). Authors like Don DeLillo, Toni Morrison, and David Foster Wallace blur boundaries between high and popular culture. Postmodernism questions whether 'truth' in narrative is even possible.",
+            "examples": [
+              {
+                "problem": "What is metafiction?",
+                "answer": "Fiction that self-consciously addresses its own artificiality",
+                "explanation": "Example: a character who knows they are in a novel."
+              },
+              {
+                "problem": "Name a magical realism technique",
+                "answer": "Impossible events presented in a matter-of-fact tone",
+                "explanation": "Gabriel Garcia Marquez's 'One Hundred Years of Solitude' is the classic example."
+              },
+              {
+                "problem": "What makes a narrator 'unreliable'?",
+                "answer": "Their credibility is compromised by bias, limited knowledge, or deception",
+                "explanation": "The reader must question what is actually true."
+              }
+            ],
+            "key_vocabulary": [
+              "postmodernism",
+              "metafiction",
+              "unreliable narrator",
+              "fragmented narrative",
+              "pastiche",
+              "magical realism",
+              "intertextuality"
+            ],
+            "real_world": "TV shows like 'Fleabag' use metafiction (breaking the fourth wall), and films like 'Memento' use fragmented timelines."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Metafiction is:",
+              "options": "Fiction about real events;Fiction that acknowledges it is fiction;Historical fiction;Science fiction",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A narrator whose credibility is questionable is called ___",
+              "answer": "unreliable narrator"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Magical realism originated primarily in:",
+              "options": "American literature;Latin American literature;British literature;Russian literature",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Postmodern fiction always follows a linear chronological structure.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Imitating or borrowing from other artistic styles is called ___",
+              "answer": "pastiche"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a postmodern technique?",
+              "options": "Strict chronology;Omniscient narrator;Fragmented narrative;Formal diction only",
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-1-2",
+          "title": "Diverse Voices in Modern Fiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Contemporary literature amplifies voices historically marginalized. Chimamanda Ngozi Adichie explores Nigerian identity and immigration. Khaled Hosseini writes about Afghan experience. Jhumpa Lahiri examines Indian-American cultural duality. Sandra Cisneros depicts Latina experiences. Ocean Vuong explores Vietnamese-American identity through poetic prose. These authors use cultural specificity to reveal universal themes: belonging, identity, family, and the immigrant experience. Reading diverse literature builds empathy and broadens perspective.",
+            "examples": [
+              {
+                "problem": "What does Adichie's 'Americanah' explore?",
+                "answer": "Race, identity, and immigration between Nigeria and America",
+                "explanation": "Shows how race is experienced differently across cultures."
+              },
+              {
+                "problem": "What is Lahiri known for?",
+                "answer": "Stories about Indian-American cultural displacement",
+                "explanation": "'The Namesake' explores identity between two cultures."
+              },
+              {
+                "problem": "Why is diverse literature important?",
+                "answer": "It reveals universal themes through culturally specific lenses",
+                "explanation": "Builds empathy and challenges single narratives."
+              }
+            ],
+            "key_vocabulary": [
+              "diverse voices",
+              "cultural identity",
+              "diaspora",
+              "immigrant narrative",
+              "intersectionality",
+              "representation",
+              "Own Voices"
+            ],
+            "real_world": "Understanding diverse perspectives is essential in our globalized world \u2014 college admissions value multicultural awareness."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Chimamanda Ngozi Adichie is from:",
+              "options": "India;Nigeria;Afghanistan;Mexico",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Literature about people who have been dispersed from their homeland is called ___ literature",
+              "answer": "diaspora"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'The Namesake' by Jhumpa Lahiri explores:",
+              "options": "War;Indian-American identity;British colonialism;Environmentalism",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Diverse literature only appeals to readers from that specific culture.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The movement encouraging authors from marginalized groups to tell their own stories is called ___",
+              "answer": "Own Voices"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Khaled Hosseini's novels are set primarily in:",
+              "options": "Iran;Iraq;Afghanistan;Pakistan",
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-1-3",
+          "title": "The Modern Short Story",
+          "type": "lesson",
+          "content": {
+            "explanation": "The contemporary short story has evolved beyond traditional plot arcs. Flash fiction (under 1,000 words) distills narrative to its essence. Lyric essays blur fiction and nonfiction. Key practitioners: George Saunders uses satire and speculative elements; Carmen Maria Machado blends horror with literary fiction; Ted Chiang writes philosophical science fiction. The modern short story often focuses on a single moment of revelation (epiphany) rather than a complete plot arc. Ambiguous endings invite reader interpretation.",
+            "examples": [
+              {
+                "problem": "What is flash fiction?",
+                "answer": "Extremely short fiction, typically under 1,000 words",
+                "explanation": "Every word must earn its place \u2014 no room for excess."
+              },
+              {
+                "problem": "What is an epiphany in fiction?",
+                "answer": "A sudden moment of insight or revelation for a character",
+                "explanation": "James Joyce coined this literary use of the term."
+              },
+              {
+                "problem": "How do modern stories differ from traditional ones?",
+                "answer": "They may lack resolution, use ambiguity, and focus on moments rather than complete plots",
+                "explanation": "The reader becomes an active interpreter."
+              }
+            ],
+            "key_vocabulary": [
+              "flash fiction",
+              "epiphany",
+              "ambiguity",
+              "speculative fiction",
+              "lyric essay",
+              "minimalism",
+              "denouement"
+            ],
+            "real_world": "Social media and digital culture have made short-form storytelling more popular than ever \u2014 from Twitter fiction to podcast stories."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Flash fiction is typically:",
+              "options": "Over 10,000 words;Under 1,000 words;Exactly 5,000 words;A novel excerpt",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A sudden moment of insight in a story is called an ___",
+              "answer": "epiphany"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "George Saunders is known for:",
+              "options": "Romance novels;Satirical short stories;War memoirs;Nature writing",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Modern short stories always have clear, resolved endings.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Fiction that imagines alternative realities or futures is called ___ fiction",
+              "answer": "speculative"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A lyric essay blends:",
+              "options": "Fiction and drama;Poetry and nonfiction;Music and literature;Science and fiction",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-1-4",
+          "title": "Analyzing a Contemporary Novel",
+          "type": "lesson",
+          "content": {
+            "explanation": "A full literary analysis of a contemporary novel requires examining multiple layers: narrative structure (how the story is organized), characterization (how characters are developed and what they represent), themes (the central ideas explored), style (the author's unique use of language), and social context (how the work engages with its historical moment). Use close reading: select key passages and analyze word choice, imagery, and rhetorical strategies. A strong analysis makes a debatable claim (thesis) supported by textual evidence.",
+            "examples": [
+              {
+                "problem": "What makes a strong literary thesis?",
+                "answer": "A debatable interpretive claim about the text, not a summary",
+                "explanation": "Bad: 'The novel is about war.' Good: 'The novel critiques how war distorts personal identity.'"
+              },
+              {
+                "problem": "What is close reading?",
+                "answer": "Careful analysis of a short passage's language, imagery, and meaning",
+                "explanation": "Focus on HOW the author creates meaning, not just WHAT happens."
+              },
+              {
+                "problem": "Why include social context?",
+                "answer": "Literature responds to its historical moment",
+                "explanation": "Understanding context deepens interpretation."
+              }
+            ],
+            "key_vocabulary": [
+              "close reading",
+              "literary analysis",
+              "thesis",
+              "textual evidence",
+              "narrative structure",
+              "characterization",
+              "social context"
+            ],
+            "real_world": "Literary analysis skills transfer directly to analyzing any complex text \u2014 legal documents, political speeches, business reports."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A literary thesis should be:",
+              "options": "A factual statement;A summary of the plot;A debatable interpretive claim;A biographical fact about the author",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Careful analysis of a specific passage's language and meaning is called ___",
+              "answer": "close reading"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When analyzing a novel, you should examine:",
+              "options": "Only the plot;Only the characters;Multiple layers including theme, style, and context;Only the author's biography",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A good literary analysis relies primarily on plot summary.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Supporting your interpretation with quotes from the text is using textual ___",
+              "answer": "evidence"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Social context helps readers understand:",
+              "options": "The author's finances;How the work engages with its historical moment;The publisher's decisions;The book's sales figures",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-1",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which is a postmodern technique?",
+            "options": "Linear plot;Metafiction;Third-person omniscient;Formal diction only",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Fiction under 1,000 words is called ___ fiction",
+            "answer": "flash"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Chimamanda Ngozi Adichie primarily writes about:",
+            "options": "British aristocracy;Nigerian identity and immigration;Japanese culture;Medieval history",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "An unreliable narrator always tells the truth.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A strong literary thesis is:",
+            "options": "A factual summary;An author's biography;A debatable claim supported by evidence;A list of characters",
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "contemporary_fiction_scholar"
+      }
+    },
+    {
+      "id": "12-ela-2",
+      "title": "Creative Nonfiction and Memoir",
+      "description": "True stories told with literary craft \u2014 memoir, essay, and narrative journalism.",
+      "lessons": [
+        {
+          "id": "12-ela-2-1",
+          "title": "The Art of Memoir",
+          "type": "lesson",
+          "content": {
+            "explanation": "Memoir is a form of creative nonfiction that recounts personal experience with literary craft. Unlike autobiography (which covers an entire life), memoir focuses on a specific theme, period, or relationship. Key elements: a reflective narrator who looks back with insight, vivid sensory detail, emotional honesty, and thematic unity. Mary Karr's 'The Liar's Club' uses humor and unflinching honesty. Educated by Tara Westover chronicles escaping a survivalist family through education. The memoirist must balance truth with craft \u2014 shaping real events into a compelling narrative arc.",
+            "examples": [
+              {
+                "problem": "How does memoir differ from autobiography?",
+                "answer": "Memoir focuses on a specific theme or period; autobiography covers an entire life",
+                "explanation": "Memoir is selective and thematic."
+              },
+              {
+                "problem": "What makes memoir literary?",
+                "answer": "Use of literary techniques: vivid imagery, dialogue, narrative arc, reflection",
+                "explanation": "It reads like a novel but is true."
+              },
+              {
+                "problem": "What is the role of reflection in memoir?",
+                "answer": "The narrator looks back with insight they didn't have at the time",
+                "explanation": "The gap between experiencing self and narrating self creates meaning."
+              }
+            ],
+            "key_vocabulary": [
+              "memoir",
+              "creative nonfiction",
+              "reflective narrator",
+              "sensory detail",
+              "narrative arc",
+              "autobiography",
+              "vignette"
+            ],
+            "real_world": "College application essays are essentially mini-memoirs \u2014 admissions officers want authentic stories told with reflection and insight."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Memoir differs from autobiography because it:",
+              "options": "Covers the author's entire life;Focuses on a specific theme or period;Is always fiction;Must be chronological",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Nonfiction that uses literary techniques is called ___ nonfiction",
+              "answer": "creative"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Educated' by Tara Westover is about:",
+              "options": "Cooking;Escaping a survivalist family through education;Travel;Sports",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A memoir must cover the author's entire life from birth.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "A short descriptive scene or sketch is called a ___",
+              "answer": "vignette"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The reflective narrator provides:",
+              "options": "Only facts;Insight gained after the events;Fictional additions;Scientific analysis",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-2-2",
+          "title": "The Personal Essay",
+          "type": "lesson",
+          "content": {
+            "explanation": "The personal essay explores an idea through the lens of individual experience. Michel de Montaigne invented the form in the 1580s \u2014 'essai' means 'attempt' or 'trial.' The essay meanders, digresses, and discovers meaning through the process of writing itself. Modern essayists like James Baldwin, Joan Didion, and Ta-Nehisi Coates use personal experience to illuminate broader social issues. Structure options: braided (weaving multiple threads), hermit crab (using another form as a container), lyric (poetic, associative), or traditional (thesis-driven).",
+            "examples": [
+              {
+                "problem": "What does 'essai' mean?",
+                "answer": "Attempt or trial",
+                "explanation": "Montaigne saw essays as explorations, not conclusions."
+              },
+              {
+                "problem": "What is a braided essay?",
+                "answer": "An essay that weaves together multiple narrative or thematic threads",
+                "explanation": "Like braiding hair \u2014 separate strands come together."
+              },
+              {
+                "problem": "How did Baldwin use the personal essay?",
+                "answer": "To connect personal experience with racial injustice in America",
+                "explanation": "'Notes of a Native Son' is a landmark example."
+              }
+            ],
+            "key_vocabulary": [
+              "personal essay",
+              "braided essay",
+              "hermit crab essay",
+              "lyric essay",
+              "Montaigne",
+              "digression",
+              "meditation"
+            ],
+            "real_world": "Blog posts, opinion columns, and even thoughtful social media threads descend from the personal essay tradition."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The essay form was invented by:",
+              "options": "Shakespeare;Montaigne;Hemingway;Aristotle",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The French word 'essai' means ___ or trial",
+              "answer": "attempt"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A braided essay:",
+              "options": "Has one single focus;Weaves multiple threads together;Is always short;Must be humorous",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Personal essays can only discuss the author's feelings, not social issues.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "An essay that borrows the structure of another form (like a recipe or field guide) is called a ___ essay",
+              "answer": "hermit crab"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "James Baldwin is known for essays about:",
+              "options": "Nature;Race and identity in America;Cooking;Technology",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-2-3",
+          "title": "Narrative Journalism and Literary Reportage",
+          "type": "lesson",
+          "content": {
+            "explanation": "Narrative journalism applies literary techniques to factual reporting. Truman Capote's 'In Cold Blood' (1966) pioneered the 'nonfiction novel.' New Journalism (1960s-70s) \u2014 Tom Wolfe, Joan Didion, Hunter S. Thompson \u2014 used immersive reporting, scene-by-scene construction, dialogue, and subjective perspective. Today, longform journalism (in The New Yorker, The Atlantic, etc.) continues this tradition. The key tension: maintaining factual accuracy while crafting a compelling narrative. Unlike fiction, the journalist cannot invent dialogue or composite characters without disclosure.",
+            "examples": [
+              {
+                "problem": "What is 'In Cold Blood'?",
+                "answer": "Truman Capote's nonfiction novel about a Kansas family's murder",
+                "explanation": "Pioneered using novelistic techniques for true crime."
+              },
+              {
+                "problem": "What is New Journalism?",
+                "answer": "A 1960s-70s movement blending journalism with literary techniques",
+                "explanation": "Tom Wolfe, Joan Didion, Hunter S. Thompson were key figures."
+              },
+              {
+                "problem": "What ethical constraint distinguishes journalism from fiction?",
+                "answer": "Journalists cannot invent or fabricate details",
+                "explanation": "Accuracy is non-negotiable even when using literary techniques."
+              }
+            ],
+            "key_vocabulary": [
+              "narrative journalism",
+              "New Journalism",
+              "nonfiction novel",
+              "immersive reporting",
+              "longform",
+              "literary reportage",
+              "gonzo journalism"
+            ],
+            "real_world": "Podcasts like 'Serial' and 'This American Life' are audio forms of narrative journalism \u2014 true stories told with craft."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'In Cold Blood' was written by:",
+              "options": "Tom Wolfe;Truman Capote;Joan Didion;Hunter S. Thompson",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Journalism that uses literary techniques like scene-building and dialogue is called ___ journalism",
+              "answer": "narrative"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "New Journalism emerged in the:",
+              "options": "1920s;1940s;1960s;2000s",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Narrative journalists are free to invent dialogue and events.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Hunter S. Thompson's subjective, first-person reporting style is called ___ journalism",
+              "answer": "gonzo"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The key tension in narrative journalism is between:",
+              "options": "Entertainment and profit;Accuracy and compelling narrative;Speed and length;Fiction and poetry",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-2-4",
+          "title": "Writing Creative Nonfiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Writing effective creative nonfiction requires balancing truth and craft. Start with a specific, concrete scene \u2014 not an abstraction. Use sensory details (sight, sound, smell, taste, touch) to immerse the reader. Employ the 'show, don't tell' principle: instead of 'I was scared,' describe the physical sensations of fear. Structure options: chronological, reverse chronological, thematic, or associative. The 'so what?' test: every piece needs a reason for existing beyond 'this happened to me.' Revision is where meaning emerges \u2014 first drafts capture events; revision discovers what they mean.",
+            "examples": [
+              {
+                "problem": "What is the 'show, don't tell' principle?",
+                "answer": "Convey emotions through concrete details and actions rather than abstract statements",
+                "explanation": "'My hands trembled' not 'I was nervous.'"
+              },
+              {
+                "problem": "What is the 'so what?' test?",
+                "answer": "Asking why this story matters beyond personal interest",
+                "explanation": "The piece should reveal something universal or significant."
+              },
+              {
+                "problem": "Why start with a specific scene?",
+                "answer": "Concrete scenes engage readers immediately; abstractions don't",
+                "explanation": "'The phone rang at 3 AM' is better than 'Communication changed my life.'"
+              }
+            ],
+            "key_vocabulary": [
+              "show don't tell",
+              "sensory detail",
+              "scene",
+              "reflection",
+              "revision",
+              "concrete detail",
+              "thematic structure"
+            ],
+            "real_world": "These writing skills are essential for college essays, cover letters, grant applications, and any professional writing."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'Show, don't tell' means:",
+              "options": "Use abstract language;Convey emotions through concrete details;Tell the reader how to feel;Avoid description",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Writing that appeals to sight, sound, smell, taste, and touch uses ___ detail",
+              "answer": "sensory"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A good creative nonfiction piece should start with:",
+              "options": "A thesis statement;A dictionary definition;A specific, concrete scene;An apology",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "First drafts are typically where the deepest meaning emerges.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Asking why a piece matters beyond personal interest is the 'so ___?' test",
+              "answer": "what"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In revision, the writer discovers:",
+              "options": "Spelling errors only;What the events mean;New facts;A different topic",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-2",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Memoir differs from autobiography by:",
+            "options": "Being fiction;Focusing on a specific theme or period;Covering the whole life;Being shorter",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The French word 'essai' means ___",
+            "answer": "attempt"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "'In Cold Blood' pioneered the:",
+            "options": "Short story;Nonfiction novel;Sonnet;Screenplay",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Narrative journalists may freely invent details for dramatic effect.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "'Show, don't tell' means using:",
+            "options": "Abstract statements;Concrete sensory details;Long explanations;Dictionary definitions",
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "creative_nonfiction_master"
+      }
+    },
+    {
+      "id": "12-ela-3",
+      "title": "Drama and Film Analysis",
+      "description": "Analyzing plays and films as literary texts \u2014 from stage to screen.",
+      "lessons": [
+        {
+          "id": "12-ela-3-1",
+          "title": "Modern and Contemporary Drama",
+          "type": "lesson",
+          "content": {
+            "explanation": "Modern drama broke from 19th-century melodrama. Realism (Ibsen, Chekhov) depicted ordinary life honestly. Expressionism (O'Neill) used distorted sets to show inner psychology. The Theatre of the Absurd (Beckett, Ionesco) presented meaninglessness through illogical situations and repetitive dialogue \u2014 'Waiting for Godot' has no traditional plot. Arthur Miller's 'Death of a Salesman' critiques the American Dream. August Wilson's Pittsburgh Cycle chronicles African American life across decades. Tony Kushner's 'Angels in America' addresses AIDS, politics, and identity.",
+            "examples": [
+              {
+                "problem": "What is Theatre of the Absurd?",
+                "answer": "Drama presenting the meaninglessness of existence through illogical situations",
+                "explanation": "Beckett's 'Waiting for Godot' \u2014 two men wait endlessly for someone who never comes."
+              },
+              {
+                "problem": "What does 'Death of a Salesman' critique?",
+                "answer": "The American Dream and its toll on ordinary people",
+                "explanation": "Willy Loman's tragic pursuit of success."
+              },
+              {
+                "problem": "What is August Wilson's Pittsburgh Cycle?",
+                "answer": "A series of ten plays, each set in a different decade, chronicling African American experience",
+                "explanation": "Set mostly in Pittsburgh's Hill District."
+              }
+            ],
+            "key_vocabulary": [
+              "Theatre of the Absurd",
+              "realism",
+              "expressionism",
+              "American Dream",
+              "dramatic irony",
+              "monologue",
+              "Pittsburgh Cycle"
+            ],
+            "real_world": "Modern streaming platforms have made theatrical productions more accessible than ever through filmed stage shows."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'Waiting for Godot' is an example of:",
+              "options": "Realism;Melodrama;Theatre of the Absurd;Musical theatre",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Arthur Miller's famous play about a failed salesman is called 'Death of a ___'",
+              "answer": "Salesman"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "August Wilson's Pittsburgh Cycle includes:",
+              "options": "2 plays;5 plays;10 plays;20 plays",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Theatre of the Absurd follows traditional plot structure.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Drama that depicts ordinary life honestly is called ___",
+              "answer": "realism"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Expressionist theatre uses:",
+              "options": "Realistic sets;Distorted sets to show inner psychology;No sets at all;Only outdoor stages",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-3-2",
+          "title": "Film as Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Film uses visual and auditory language to tell stories. Key elements: mise-en-scene (everything in the frame \u2014 set, costumes, lighting, actor positioning), cinematography (camera work \u2014 angles, movement, framing), editing (how shots are assembled \u2014 cuts, transitions, pacing), and sound (dialogue, music, sound effects, silence). A film 'reading' analyzes these elements just as literary analysis examines word choice and structure. Auteur theory suggests the director is the 'author' of a film, imprinting personal vision across works.",
+            "examples": [
+              {
+                "problem": "What is mise-en-scene?",
+                "answer": "Everything visible in the frame: set design, costumes, lighting, actor positions",
+                "explanation": "French for 'placing on stage.'"
+              },
+              {
+                "problem": "What is auteur theory?",
+                "answer": "The idea that the director is the primary creative author of a film",
+                "explanation": "Like a novelist, the director shapes every element."
+              },
+              {
+                "problem": "How does editing create meaning?",
+                "answer": "The sequence and pace of cuts shapes emotional response and narrative",
+                "explanation": "Fast cuts create tension; long takes create contemplation."
+              }
+            ],
+            "key_vocabulary": [
+              "mise-en-scene",
+              "cinematography",
+              "editing",
+              "auteur theory",
+              "montage",
+              "diegetic sound",
+              "non-diegetic sound"
+            ],
+            "real_world": "Understanding film language helps you critically evaluate the media you consume daily \u2014 from movies to ads to social media videos."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Mise-en-scene refers to:",
+              "options": "Sound design;Everything visible in the frame;Editing techniques;The screenplay",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The theory that the director is the 'author' of a film is called ___ theory",
+              "answer": "auteur"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Diegetic sound is:",
+              "options": "Background music;Sound that exists within the story world;Sound effects added in editing;The narrator's voice",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Film analysis only focuses on dialogue and plot.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The art of assembling shots into sequences is called ___",
+              "answer": "editing"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Fast editing cuts typically create a feeling of:",
+              "options": "Calm;Nostalgia;Tension or excitement;Sadness",
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-3-3",
+          "title": "Adaptation: Page to Screen",
+          "type": "lesson",
+          "content": {
+            "explanation": "Adaptation transforms a text from one medium to another. Key questions: What is gained and lost in translation? How do medium-specific tools (prose vs. camera) convey interiority, time, and space differently? Faithful adaptation preserves plot and character; loose adaptation uses the source as inspiration. Some adaptations improve on their sources; others miss the point. A novel can describe thoughts directly; film must externalize them through action, dialogue, or visual metaphor. The best adaptations understand the spirit of the source, not just its plot.",
+            "examples": [
+              {
+                "problem": "What is lost when adapting a novel to film?",
+                "answer": "Direct access to characters' internal thoughts",
+                "explanation": "Film must show, not tell, what characters think."
+              },
+              {
+                "problem": "What is a 'faithful' adaptation?",
+                "answer": "One that closely follows the source material's plot, characters, and themes",
+                "explanation": "Though 'faithful' doesn't always mean 'good.'"
+              },
+              {
+                "problem": "How can film convey a character's thoughts?",
+                "answer": "Through voice-over, facial expressions, visual metaphors, or symbolic imagery",
+                "explanation": "Each technique has different effects on the audience."
+              }
+            ],
+            "key_vocabulary": [
+              "adaptation",
+              "faithful adaptation",
+              "loose adaptation",
+              "visual metaphor",
+              "voice-over",
+              "externalization",
+              "medium specificity"
+            ],
+            "real_world": "Nearly every major film today is adapted from a book, comic, or other source \u2014 understanding adaptation helps you appreciate both versions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The main challenge of adapting novels to film is:",
+              "options": "Finding actors;Externalizing internal thoughts;Matching the book's page count;Using the same dialogue",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "An adaptation that closely follows the source is called a ___ adaptation",
+              "answer": "faithful"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Film externalizes thoughts through:",
+              "options": "Page numbers;Visual metaphor and action;Footnotes;Chapter headings",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A faithful adaptation is always better than a loose one.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The principle that each art form has unique strengths is called medium ___",
+              "answer": "specificity"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Voice-over in film is often used to:",
+              "options": "Replace actors;Convey a character's internal thoughts;Save money;Add comedy",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-3-4",
+          "title": "Writing Film and Drama Analysis",
+          "type": "lesson",
+          "content": {
+            "explanation": "Analyzing drama and film requires a specific vocabulary and approach. For drama: analyze dialogue (subtext \u2014 what's unsaid), stage directions, dramatic structure (exposition, rising action, climax, falling action, resolution), and theatrical conventions. For film: describe specific shots and scenes using film terminology. A strong analysis identifies how technical choices create meaning. The thesis should argue for an interpretation, not merely describe. Use present tense when discussing the action of a play or film ('Hamlet hesitates,' not 'Hamlet hesitated').",
+            "examples": [
+              {
+                "problem": "What is subtext?",
+                "answer": "The unspoken meaning beneath the surface of dialogue",
+                "explanation": "Characters often mean more than they say."
+              },
+              {
+                "problem": "Why use present tense for drama/film analysis?",
+                "answer": "The work exists in an eternal present \u2014 each viewing recreates it",
+                "explanation": "'Hamlet hesitates' not 'Hamlet hesitated.'"
+              },
+              {
+                "problem": "How should you reference a specific film moment?",
+                "answer": "Describe the shot type, lighting, and composition, then interpret",
+                "explanation": "'The low-angle shot of Kane makes him appear powerful and threatening.'"
+              }
+            ],
+            "key_vocabulary": [
+              "subtext",
+              "stage directions",
+              "dramatic structure",
+              "shot description",
+              "present tense",
+              "interpretation",
+              "close viewing"
+            ],
+            "real_world": "Media literacy \u2014 the ability to critically analyze visual storytelling \u2014 is one of the most important skills in the digital age."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Subtext is:",
+              "options": "The written script;Unspoken meaning beneath dialogue;Stage directions;The title of a play",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "When writing about a play or film, use ___ tense",
+              "answer": "present"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A strong drama/film analysis should:",
+              "options": "Summarize the plot;Argue for an interpretation;List all characters;Describe the author's life",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Film analysis should only discuss dialogue and ignore visual elements.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Detailed examination of a specific scene or shot is called close ___",
+              "answer": "viewing"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'The low-angle shot makes the character appear powerful' is an example of:",
+              "options": "Plot summary;Technical description with interpretation;Biography;Historical context",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-3",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Theatre of the Absurd is exemplified by:",
+            "options": "Shakespeare;Beckett's 'Waiting for Godot';Arthur Miller;Musical theatre",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Everything visible in a film frame is called ___",
+            "answer": "mise-en-scene"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The main challenge of adaptation is:",
+            "options": "Budget;Externalizing internal experience across media;Finding locations;Casting",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Subtext is the explicit, stated meaning of dialogue.",
+            "answer": "false"
+          },
+          {
+            "type": "fill_in",
+            "question": "When analyzing a film, you should use ___ tense",
+            "answer": "present"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "drama_film_analyst"
+      }
+    },
+    {
+      "id": "12-ela-4",
+      "title": "College Application Essays",
+      "description": "Crafting authentic, compelling personal statements for college admissions.",
+      "lessons": [
+        {
+          "id": "12-ela-4-1",
+          "title": "Understanding the College Essay",
+          "type": "lesson",
+          "content": {
+            "explanation": "The college application essay (personal statement) is your chance to show admissions officers who you are beyond grades and test scores. The Common App main essay is 650 words max. Admissions officers read thousands of essays; yours must stand out through authenticity, not gimmicks. They want to see: self-awareness (you understand yourself), intellectual curiosity (you think deeply), growth (you learn from experiences), and writing ability (you communicate clearly). The essay is NOT a resume in paragraph form \u2014 it should reveal character through a specific story or reflection.",
+            "examples": [
+              {
+                "problem": "What do admissions officers look for?",
+                "answer": "Authenticity, self-awareness, intellectual curiosity, and growth",
+                "explanation": "They want to know who you are as a person, not just a student."
+              },
+              {
+                "problem": "How long is the Common App essay?",
+                "answer": "650 words maximum",
+                "explanation": "Every word must earn its place."
+              },
+              {
+                "problem": "What should the essay NOT be?",
+                "answer": "A resume in paragraph form listing achievements",
+                "explanation": "Show character through story, not a list of accomplishments."
+              }
+            ],
+            "key_vocabulary": [
+              "personal statement",
+              "Common App",
+              "authenticity",
+              "self-awareness",
+              "admissions",
+              "prompt",
+              "supplemental essay"
+            ],
+            "real_world": "The college essay is your first professional personal narrative \u2014 these skills transfer to job applications, grad school, and scholarship essays."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Common App main essay is:",
+              "options": "250 words;650 words;1000 words;No limit",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The main college application essay is called a personal ___",
+              "answer": "statement"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Admissions officers primarily want to see:",
+              "options": "Perfect grammar;Your GPA restated;Authentic self-awareness and growth;Fancy vocabulary",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "The college essay should be a resume in paragraph form.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Essays for specific schools beyond the main essay are called ___ essays",
+              "answer": "supplemental"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes a college essay stand out?",
+              "options": "Gimmicks and humor;Authenticity and specificity;Length and complexity;Famous quotes",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-4-2",
+          "title": "Finding Your Story",
+          "type": "lesson",
+          "content": {
+            "explanation": "The best college essays come from specific, personal moments \u2014 not grand achievements. The 'small moment, big insight' approach works best: write about a specific experience that reveals something about your character, values, or growth. Brainstorming techniques: the 'five things' list (five things admissions can't learn from the rest of your application), the 'essence' exercise (describe yourself in five qualities, then find stories that illustrate each), and the 'turning point' method (moments that changed how you think). Avoid cliches: the sports injury comeback, the mission trip revelation, the 'I learned from failure' formula.",
+            "examples": [
+              {
+                "problem": "What is the 'small moment, big insight' approach?",
+                "answer": "Focus on a specific, seemingly minor experience that reveals deep character traits",
+                "explanation": "A conversation at dinner can be more powerful than winning a championship."
+              },
+              {
+                "problem": "Name a college essay cliche to avoid",
+                "answer": "The sports injury comeback, mission trip revelation, or generic failure story",
+                "explanation": "These have been written millions of times."
+              },
+              {
+                "problem": "What is the 'five things' exercise?",
+                "answer": "List five things admissions can't learn from the rest of your application",
+                "explanation": "These become potential essay topics."
+              }
+            ],
+            "key_vocabulary": [
+              "brainstorming",
+              "small moment",
+              "cliche",
+              "specificity",
+              "vulnerability",
+              "turning point",
+              "essence"
+            ],
+            "real_world": "Storytelling is a life skill \u2014 whether in interviews, presentations, or conversations, the ability to share meaningful moments is invaluable."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The best college essays typically focus on:",
+              "options": "Grand achievements;Specific personal moments;Academic awards;Travel experiences",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The approach of writing about a minor experience that reveals character is called 'small moment, big ___'",
+              "answer": "insight"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a college essay cliche?",
+              "options": "A unique family tradition;A sports injury comeback;A specific conversation;An unusual hobby",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "You should only write about your biggest achievement in a college essay.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Listing things admissions can't learn elsewhere is the 'five ___' exercise",
+              "answer": "things"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Vulnerability in a college essay means:",
+              "options": "Sharing every secret;Being honest about struggles and growth;Complaining about problems;Asking for sympathy",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-4-3",
+          "title": "Drafting and Structure",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strong college essays typically use one of these structures: the narrative arc (a story with beginning, middle, and end that builds to insight), the montage (a series of vignettes connected by a theme), or the reflection (a meditation on an idea or experience that deepens over the essay). Open with a hook \u2014 a vivid scene, surprising statement, or compelling question. Avoid opening with a quote, a dictionary definition, or 'Since I was little.' The conclusion should show growth or forward-looking awareness, not summarize. Write multiple drafts: first draft for content, second for structure, third for language.",
+            "examples": [
+              {
+                "problem": "What are three common essay structures?",
+                "answer": "Narrative arc, montage, and reflection",
+                "explanation": "Choose based on your story and strengths."
+              },
+              {
+                "problem": "What makes a good opening hook?",
+                "answer": "A vivid scene, surprising detail, or compelling question that draws the reader in",
+                "explanation": "'The smell of cardamom always takes me back to my grandmother's kitchen.'"
+              },
+              {
+                "problem": "What should the conclusion do?",
+                "answer": "Show growth or forward-looking awareness, not summarize the essay",
+                "explanation": "End with insight, not a recap."
+              }
+            ],
+            "key_vocabulary": [
+              "narrative arc",
+              "montage",
+              "hook",
+              "vignette",
+              "conclusion",
+              "draft",
+              "revision"
+            ],
+            "real_world": "Professional writers revise extensively \u2014 the first draft is just the beginning. Learning to revise is learning to think more clearly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a strong opening strategy?",
+              "options": "A dictionary definition;A vivid scene;'Since I was little...';A famous quote",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A series of short scenes connected by a theme is called a ___",
+              "answer": "montage"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A college essay conclusion should:",
+              "options": "Summarize everything;Show growth or forward-looking awareness;Repeat the introduction;List future goals",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The first draft of a college essay is usually the final version.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The attention-grabbing opening of an essay is called a ___",
+              "answer": "hook"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many drafts should you write?",
+              "options": "One;Multiple drafts with different focuses;Two maximum;It doesn't matter",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-4-4",
+          "title": "Revision and Supplemental Essays",
+          "type": "lesson",
+          "content": {
+            "explanation": "Revision transforms good essays into great ones. Read aloud \u2014 your ear catches what your eye misses. Cut ruthlessly: if a sentence doesn't serve the essay, remove it. Check for 'telling' vs. 'showing' \u2014 replace abstract claims ('I'm hardworking') with concrete evidence. Get feedback from multiple readers but maintain YOUR voice \u2014 don't let editors homogenize your writing. Supplemental essays ('Why this school?') require genuine research: mention specific programs, professors, courses, and opportunities. Generic answers that could apply to any school are immediately obvious and unimpressive.",
+            "examples": [
+              {
+                "problem": "Why read your essay aloud?",
+                "answer": "Your ear catches awkward phrasing, rhythm problems, and unclear sentences that your eye misses",
+                "explanation": "If you stumble reading it, a reader will stumble too."
+              },
+              {
+                "problem": "What makes a strong 'Why this school?' essay?",
+                "answer": "Specific references to programs, professors, courses, and opportunities unique to that school",
+                "explanation": "Shows you've done real research."
+              },
+              {
+                "problem": "What's the biggest revision mistake?",
+                "answer": "Letting others change your voice \u2014 maintain authenticity even as you improve",
+                "explanation": "Polish the essay, but keep it sounding like you."
+              }
+            ],
+            "key_vocabulary": [
+              "revision",
+              "read aloud",
+              "show don't tell",
+              "supplemental essay",
+              "Why this school",
+              "voice",
+              "specificity"
+            ],
+            "real_world": "Revision skills apply to all writing throughout college and career \u2014 the ability to refine your work separates good writers from great ones."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The best way to catch awkward phrasing is:",
+              "options": "Spell check;Reading aloud;Counting words;Using a thesaurus",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Essays asking why you want to attend a specific school are called '___ this school?' essays",
+              "answer": "Why"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 'Why this school?' essay should include:",
+              "options": "Generic praise;Specific programs and opportunities;Your GPA;School rankings",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "You should let editors completely rewrite your essay to make it 'perfect.'",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Replacing 'I'm hardworking' with a concrete example is ___, don't tell",
+              "answer": "show"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a sentence doesn't serve the essay, you should:",
+              "options": "Keep it for word count;Rewrite it longer;Remove it;Move it to the introduction",
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-4",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The Common App main essay is:",
+            "options": "250 words;500 words;650 words;1000 words",
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The best essays focus on a 'small moment, big ___'",
+            "answer": "insight"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is NOT a strong opening?",
+            "options": "A vivid scene;A dictionary definition;A surprising statement;A compelling question",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Supplemental essays should be generic enough to apply to any school.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Reading your essay aloud helps you catch:",
+            "options": "Spelling errors;Awkward phrasing and rhythm problems;Factual errors;Citation mistakes",
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "college_essay_expert"
+      }
+    },
+    {
+      "id": "12-ela-5",
+      "title": "Rhetoric and Public Speaking",
+      "description": "The art of persuasion \u2014 from classical rhetoric to modern communication.",
+      "lessons": [
+        {
+          "id": "12-ela-5-1",
+          "title": "Classical Rhetoric: Ethos, Pathos, Logos",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rhetoric is the art of effective persuasion. Aristotle identified three appeals: ethos (credibility \u2014 why should the audience trust the speaker?), pathos (emotion \u2014 how does the speaker move the audience to feel?), and logos (logic \u2014 what evidence and reasoning support the argument?). Effective communication uses all three. Kairos (timing \u2014 the right argument at the right moment) is the fourth, often overlooked element. A doctor uses ethos (medical credentials), pathos (concern for your health), and logos (medical evidence) to persuade you to exercise.",
+            "examples": [
+              {
+                "problem": "What is ethos?",
+                "answer": "The speaker's credibility and trustworthiness",
+                "explanation": "A doctor's medical degree is ethos."
+              },
+              {
+                "problem": "What is pathos?",
+                "answer": "Appeal to the audience's emotions",
+                "explanation": "A charity ad showing suffering children uses pathos."
+              },
+              {
+                "problem": "What is kairos?",
+                "answer": "The right argument at the right moment \u2014 strategic timing",
+                "explanation": "A fundraising pitch right after a disaster leverages kairos."
+              }
+            ],
+            "key_vocabulary": [
+              "rhetoric",
+              "ethos",
+              "pathos",
+              "logos",
+              "kairos",
+              "Aristotle",
+              "persuasion",
+              "appeal"
+            ],
+            "real_world": "Every advertisement, political speech, and social media post uses these rhetorical strategies \u2014 recognizing them makes you a critical consumer."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Ethos appeals to:",
+              "options": "Logic;Emotion;Credibility;Timing",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "The appeal to emotion is called ___",
+              "answer": "pathos"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Logos relies on:",
+              "options": "The speaker's character;Evidence and reasoning;Emotional stories;Timing",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Effective persuasion only needs one of the three appeals.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The rhetorical concept of strategic timing is called ___",
+              "answer": "kairos"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Aristotle identified:",
+              "options": "Two rhetorical appeals;Three rhetorical appeals;Five rhetorical appeals;Seven rhetorical appeals",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-5-2",
+          "title": "Rhetorical Analysis",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rhetorical analysis examines HOW a text persuades, not WHETHER you agree. The SOAPSTone method helps: Speaker (who?), Occasion (context?), Audience (for whom?), Purpose (why?), Subject (about what?), Tone (attitude?). Analyze specific rhetorical devices: anaphora (repetition at the start of sentences \u2014 MLK's 'I have a dream'), antithesis (contrasting ideas \u2014 'Ask not what your country can do for you...'), rhetorical questions, parallelism, and appeals to shared values. A rhetorical analysis essay argues how effectively the speaker achieves their purpose.",
+            "examples": [
+              {
+                "problem": "What does SOAPSTone stand for?",
+                "answer": "Speaker, Occasion, Audience, Purpose, Subject, Tone",
+                "explanation": "A framework for analyzing any rhetorical text."
+              },
+              {
+                "problem": "What is anaphora?",
+                "answer": "Repetition of a word or phrase at the beginning of successive clauses",
+                "explanation": "MLK: 'I have a dream that...' repeated for emphasis."
+              },
+              {
+                "problem": "What is antithesis?",
+                "answer": "Placing contrasting ideas in parallel structure",
+                "explanation": "JFK: 'Ask not what your country can do for you \u2014 ask what you can do for your country.'"
+              }
+            ],
+            "key_vocabulary": [
+              "SOAPSTone",
+              "anaphora",
+              "antithesis",
+              "parallelism",
+              "rhetorical question",
+              "rhetorical analysis",
+              "rhetorical device"
+            ],
+            "real_world": "Rhetorical analysis is tested on the AP Language exam and is essential for evaluating political speeches, advertisements, and media."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "SOAPSTone's 'O' stands for:",
+              "options": "Opinion;Occasion;Outcome;Organization",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Repetition at the start of successive clauses is called ___",
+              "answer": "anaphora"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Antithesis involves:",
+              "options": "Repetition;Contrasting ideas in parallel;Emotional appeals;Questions",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Rhetorical analysis evaluates whether you agree with the speaker.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "'Ask not what your country can do for you...' uses ___",
+              "answer": "antithesis"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A rhetorical analysis argues:",
+              "options": "That the speaker is wrong;How effectively the speaker persuades;A personal opinion;The historical context only",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-5-3",
+          "title": "Persuasive Speaking and Debate",
+          "type": "lesson",
+          "content": {
+            "explanation": "Effective public speaking combines content, delivery, and audience awareness. Structure: strong opening (hook), clear thesis, organized body (3 main points with evidence), and memorable conclusion (call to action). Delivery elements: eye contact, vocal variety (pace, pitch, volume, pauses), gestures, and confident posture. In formal debate: state your claim, provide evidence (statistics, expert testimony, examples), address counterarguments (concede and refute), and conclude with impact. Logical fallacies to avoid: ad hominem (attacking the person), straw man (misrepresenting an argument), false dilemma (only two options), and appeal to popularity.",
+            "examples": [
+              {
+                "problem": "Name four common logical fallacies",
+                "answer": "Ad hominem, straw man, false dilemma, appeal to popularity",
+                "explanation": "Recognizing fallacies strengthens your arguments and weakens opponents'."
+              },
+              {
+                "problem": "What is a straw man fallacy?",
+                "answer": "Misrepresenting an opponent's argument to make it easier to attack",
+                "explanation": "Argue against what they actually said, not a distorted version."
+              },
+              {
+                "problem": "What makes a memorable conclusion?",
+                "answer": "A call to action, a powerful image, or a return to the opening story",
+                "explanation": "Leave the audience with something to remember."
+              }
+            ],
+            "key_vocabulary": [
+              "thesis",
+              "call to action",
+              "counterargument",
+              "logical fallacy",
+              "ad hominem",
+              "straw man",
+              "false dilemma",
+              "rebuttal"
+            ],
+            "real_world": "Public speaking is consistently ranked as the most valuable career skill \u2014 every profession requires the ability to present ideas clearly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A straw man fallacy involves:",
+              "options": "Attacking the person;Misrepresenting an argument;Using only two options;Appealing to popularity",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "An attack on the person rather than the argument is called ad ___",
+              "answer": "hominem"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A speech conclusion should include:",
+              "options": "An apology;New evidence;A call to action;A bibliography",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Good public speaking relies only on content, not delivery.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Presenting only two options when more exist is a ___ dilemma",
+              "answer": "false"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Addressing opposing viewpoints is called:",
+              "options": "Deflection;Counterargument;Avoidance;Repetition",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-5-4",
+          "title": "Media Literacy and Digital Rhetoric",
+          "type": "lesson",
+          "content": {
+            "explanation": "Digital media uses rhetorical strategies constantly. Social media algorithms create echo chambers (exposing you only to agreeable views). Confirmation bias makes us accept information that confirms existing beliefs. Evaluating sources: check the author's credentials, look for primary sources, cross-reference claims, and distinguish news from opinion. Misinformation (unintentionally false) differs from disinformation (deliberately false). Visual rhetoric: how images, layout, color, and design persuade. Every meme, infographic, and headline is a rhetorical act \u2014 media literacy means reading these critically.",
+            "examples": [
+              {
+                "problem": "What is the difference between misinformation and disinformation?",
+                "answer": "Misinformation is unintentionally false; disinformation is deliberately false",
+                "explanation": "Intent matters in classifying false information."
+              },
+              {
+                "problem": "What is confirmation bias?",
+                "answer": "The tendency to accept information that confirms what you already believe",
+                "explanation": "We all have it \u2014 awareness is the first defense."
+              },
+              {
+                "problem": "How do you evaluate a source's credibility?",
+                "answer": "Check credentials, find primary sources, cross-reference, distinguish news from opinion",
+                "explanation": "Multiple reliable sources agreeing increases confidence."
+              }
+            ],
+            "key_vocabulary": [
+              "media literacy",
+              "echo chamber",
+              "confirmation bias",
+              "misinformation",
+              "disinformation",
+              "visual rhetoric",
+              "source evaluation",
+              "algorithm"
+            ],
+            "real_world": "In an era of deepfakes and AI-generated content, media literacy is perhaps the most critical skill for informed citizenship."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Disinformation is:",
+              "options": "Accidentally false;Deliberately false;Always in print;Government-approved",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The tendency to accept confirming information is called confirmation ___",
+              "answer": "bias"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Echo chambers are created by:",
+              "options": "Libraries;Social media algorithms;Textbooks;Teachers",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Every meme and headline is a rhetorical act.",
+              "answer": "true"
+            },
+            {
+              "type": "fill_in",
+              "question": "Analyzing how images and design persuade is called ___ rhetoric",
+              "answer": "visual"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To evaluate a source, you should:",
+              "options": "Accept it if it matches your beliefs;Cross-reference with multiple sources;Only trust social media;Ignore the author",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-5",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Pathos appeals to:",
+            "options": "Logic;Credibility;Emotion;Timing",
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Repetition at the beginning of successive clauses is ___",
+            "answer": "anaphora"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A straw man fallacy:",
+            "options": "Attacks the person;Misrepresents an argument;Uses false statistics;Appeals to emotion",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Misinformation and disinformation mean the same thing.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "SOAPSTone is used for:",
+            "options": "Creative writing;Rhetorical analysis;Grammar review;Spelling practice",
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rhetoric_master"
+      }
+    },
+    {
+      "id": "12-ela-6",
+      "title": "Professional and Technical Writing",
+      "description": "Writing for the workplace \u2014 resumes, emails, reports, and proposals.",
+      "lessons": [
+        {
+          "id": "12-ela-6-1",
+          "title": "Business Communication Essentials",
+          "type": "lesson",
+          "content": {
+            "explanation": "Professional writing prioritizes clarity, concision, and audience awareness. The inverted pyramid: put the most important information first (conclusion/recommendation), then supporting details, then background. Professional tone: direct but courteous, avoids slang and excessive formality. Email etiquette: clear subject line, greeting, concise body, specific action items, professional closing. The 'BLUF' principle (Bottom Line Up Front): state your purpose in the first sentence. Active voice is preferred ('We completed the project' not 'The project was completed'). Proofread everything \u2014 errors undermine credibility.",
+            "examples": [
+              {
+                "problem": "What is the BLUF principle?",
+                "answer": "Bottom Line Up Front \u2014 state your main point in the first sentence",
+                "explanation": "Busy readers need the key information immediately."
+              },
+              {
+                "problem": "What is the inverted pyramid?",
+                "answer": "Putting the most important information first, then supporting details",
+                "explanation": "Used in journalism and business writing."
+              },
+              {
+                "problem": "Why is active voice preferred?",
+                "answer": "It's clearer, more direct, and takes responsibility",
+                "explanation": "'We decided' is stronger than 'It was decided.'"
+              }
+            ],
+            "key_vocabulary": [
+              "BLUF",
+              "inverted pyramid",
+              "active voice",
+              "professional tone",
+              "concision",
+              "email etiquette",
+              "action items"
+            ],
+            "real_world": "You will write professional emails within months of graduating \u2014 mastering business communication gives you an immediate advantage."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "BLUF stands for:",
+              "options": "Best Language Used Formally;Bottom Line Up Front;Business Letters Use Facts;Brief Language Unifies Format",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Putting the most important information first is the ___ pyramid",
+              "answer": "inverted"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Professional emails should include:",
+              "options": "Emojis;Clear subject lines and action items;Personal anecdotes;Slang",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Passive voice is preferred in business writing.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "'We completed the project' is in ___ voice",
+              "answer": "active"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Professional tone should be:",
+              "options": "Overly formal;Extremely casual;Direct but courteous;Emotional",
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-6-2",
+          "title": "Resume and Cover Letter Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "A resume is a one-page summary of your qualifications. Format: contact info, education, experience, skills, and activities. Use action verbs (managed, created, organized, led, developed) and quantify achievements ('Increased club membership by 40%,' not 'Helped grow the club'). Tailor each resume to the specific opportunity. A cover letter accompanies the resume and explains WHY you're a good fit. Structure: opening (position and enthusiasm), body (2-3 specific qualifications matched to the job), closing (thank you and next steps). Both documents must be error-free \u2014 a single typo can eliminate a candidate.",
+            "examples": [
+              {
+                "problem": "Why use action verbs on a resume?",
+                "answer": "They show initiative and impact \u2014 'Led a team of 10' is stronger than 'Was in charge of team'",
+                "explanation": "Start each bullet point with a strong verb."
+              },
+              {
+                "problem": "How should you quantify achievements?",
+                "answer": "Use specific numbers and percentages",
+                "explanation": "'Raised $5,000 for charity' not 'Did fundraising.'"
+              },
+              {
+                "problem": "What is a cover letter's purpose?",
+                "answer": "To explain WHY you're a good fit for the specific position",
+                "explanation": "The resume shows WHAT you've done; the cover letter shows WHY it matters."
+              }
+            ],
+            "key_vocabulary": [
+              "resume",
+              "cover letter",
+              "action verbs",
+              "quantify",
+              "tailor",
+              "qualifications",
+              "professional format"
+            ],
+            "real_world": "You'll need a resume for college applications, internships, jobs, and scholarships \u2014 start building yours now."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A strong resume uses:",
+              "options": "Passive voice;Action verbs and quantified achievements;Long paragraphs;Personal opinions",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A letter explaining why you're a good fit for a position is a ___ letter",
+              "answer": "cover"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Increased sales by 30%' is better than:",
+              "options": "'Helped with sales';'Was responsible for revenue';'Worked in the sales department';All of the above",
+              "correct": 3
+            },
+            {
+              "type": "fill_in",
+              "question": "One generic resume works for every application.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Resume bullet points should start with ___ verbs",
+              "answer": "action"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A resume should typically be:",
+              "options": "One page;Three pages;Five pages;Any length",
+              "correct": 0
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-6-3",
+          "title": "Technical Writing and Documentation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Technical writing makes complex information accessible to specific audiences. Key principles: know your audience (expert vs. novice), use clear structure (headings, numbered steps, bullet points), define technical terms, and test your instructions (can someone follow them without your help?). Types: user manuals, how-to guides, FAQs, specifications, and process documentation. Use imperative mood for instructions ('Click the button' not 'You should click the button'). Include visuals (diagrams, screenshots) where they clarify. White space and formatting are as important as the words.",
+            "examples": [
+              {
+                "problem": "What is the imperative mood?",
+                "answer": "Direct commands: 'Click the button' rather than 'You should click the button'",
+                "explanation": "Standard for instructions and procedures."
+              },
+              {
+                "problem": "How do you test technical writing?",
+                "answer": "Have someone unfamiliar with the process follow your instructions",
+                "explanation": "If they get stuck, revise that section."
+              },
+              {
+                "problem": "Why is white space important?",
+                "answer": "It makes documents scannable and less intimidating",
+                "explanation": "Dense blocks of text discourage reading."
+              }
+            ],
+            "key_vocabulary": [
+              "technical writing",
+              "imperative mood",
+              "user manual",
+              "white space",
+              "audience analysis",
+              "documentation",
+              "specifications"
+            ],
+            "real_world": "Technical writing skills are in high demand across every industry \u2014 from tech to healthcare to government."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Technical writing should be:",
+              "options": "Complex and impressive;Clear and accessible to the target audience;As long as possible;Full of jargon",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Direct commands like 'Click the button' use the ___ mood",
+              "answer": "imperative"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The best way to test instructions is:",
+              "options": "Read them yourself;Have someone unfamiliar follow them;Count the words;Add more detail",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "White space in documents is wasted space.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Written guides for how to use a product are called user ___",
+              "answer": "manuals"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Technical writing should define:",
+              "options": "Every common word;Technical terms unfamiliar to the audience;Nothing \u2014 readers should look things up;Only acronyms",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-6-4",
+          "title": "Proposals and Reports",
+          "type": "lesson",
+          "content": {
+            "explanation": "A proposal argues for a course of action. Structure: executive summary (BLUF), problem statement (what needs solving), proposed solution (your plan), implementation plan (timeline, steps), budget (if applicable), and conclusion (call to action). A report presents findings. Structure: executive summary, introduction (scope and purpose), methodology, findings, analysis, recommendations, and conclusion. Both require formal tone, evidence-based reasoning, and clear organization. Use headings, data visualization (charts, graphs), and concise paragraphs. The executive summary should stand alone \u2014 busy decision-makers may read only that section.",
+            "examples": [
+              {
+                "problem": "What is an executive summary?",
+                "answer": "A brief overview of the entire document that can stand alone",
+                "explanation": "Busy readers may only read this section."
+              },
+              {
+                "problem": "What's the difference between a proposal and a report?",
+                "answer": "A proposal argues for future action; a report presents completed findings",
+                "explanation": "Proposal = 'we should do this'; Report = 'here's what we found.'"
+              },
+              {
+                "problem": "Why use data visualization?",
+                "answer": "Charts and graphs make complex data accessible and persuasive",
+                "explanation": "A graph can communicate in seconds what paragraphs cannot."
+              }
+            ],
+            "key_vocabulary": [
+              "proposal",
+              "report",
+              "executive summary",
+              "problem statement",
+              "methodology",
+              "findings",
+              "recommendations",
+              "data visualization"
+            ],
+            "real_world": "College coursework frequently requires proposals and reports \u2014 mastering these formats prepares you for academic and professional success."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An executive summary should:",
+              "options": "Include every detail;Stand alone as a brief overview;Be written last;Only contain charts",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A document arguing for a course of action is a ___",
+              "answer": "proposal"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A report's methodology section explains:",
+              "options": "The budget;How the research was conducted;Personal opinions;Future plans",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The executive summary should contain every detail of the full document.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Charts and graphs are forms of data ___",
+              "answer": "visualization"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A proposal includes a problem statement because:",
+              "options": "It's tradition;It establishes what needs solving before proposing solutions;Readers enjoy problems;It fills space",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-6",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "BLUF means:",
+            "options": "Best Lines Under Fifty;Bottom Line Up Front;Business Letters Use Format;Brief Language Unifies Facts",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Resume bullet points should start with ___ verbs",
+            "answer": "action"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Technical writing uses imperative mood, which means:",
+            "options": "Passive voice;Questions;Direct commands;Past tense",
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "An executive summary should contain every detail of the full document.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A proposal argues for:",
+            "options": "Past events;A future course of action;Personal opinions;Historical facts",
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "professional_writer"
+      }
+    },
+    {
+      "id": "12-ela-7",
+      "title": "Independent Research Project",
+      "description": "Planning, conducting, and presenting an extended research paper.",
+      "lessons": [
+        {
+          "id": "12-ela-7-1",
+          "title": "Choosing and Narrowing a Research Topic",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong research topic is specific, arguable, and researchable. Start broad (climate change), narrow to a specific angle (the impact of climate change on coral reefs in the Pacific), then form a research question ('How has ocean acidification affected Pacific coral reef biodiversity since 2000?'). The 'Goldilocks' test: too broad (impossible to cover in one paper), too narrow (not enough sources), just right (manageable scope with sufficient sources). Preliminary research helps assess source availability. Your topic should genuinely interest you \u2014 you'll be working on it for weeks.",
+            "examples": [
+              {
+                "problem": "How do you narrow a topic?",
+                "answer": "Start broad, add specifics: who, what, where, when, how",
+                "explanation": "'Education' \u2192 'Impact of bilingual education on reading scores in elementary schools.'"
+              },
+              {
+                "problem": "What is the Goldilocks test?",
+                "answer": "Checking that your topic is not too broad, not too narrow, but just right",
+                "explanation": "Can you cover it thoroughly in your paper's length?"
+              },
+              {
+                "problem": "What makes a topic 'researchable'?",
+                "answer": "Sufficient scholarly sources exist and the scope is manageable",
+                "explanation": "Check databases before committing to a topic."
+              }
+            ],
+            "key_vocabulary": [
+              "research question",
+              "scope",
+              "preliminary research",
+              "narrow",
+              "broad",
+              "researchable",
+              "database"
+            ],
+            "real_world": "Research skills are essential for every college major and many careers \u2014 learning to investigate systematically is a lifelong advantage."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A strong research topic should be:",
+              "options": "As broad as possible;Specific, arguable, and researchable;Based on personal opinion only;Impossible to answer",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Checking that your topic scope is appropriate is the '___ test'",
+              "answer": "Goldilocks"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Climate change' as a research topic is:",
+              "options": "Too narrow;Just right;Too broad;Perfect",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "You should choose your research topic before checking source availability.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "An initial survey of available sources is called ___ research",
+              "answer": "preliminary"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A research question should be:",
+              "options": "Answerable with yes/no;Specific and open-ended;A statement;A title",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-7-2",
+          "title": "Research Methods and Source Evaluation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Academic research uses primary sources (original data, documents, interviews) and secondary sources (analyses of primary sources \u2014 books, journal articles, reviews). The CRAAP test evaluates sources: Currency (when published?), Relevance (does it address your question?), Authority (who wrote it? what are their credentials?), Accuracy (is it supported by evidence? peer-reviewed?), Purpose (why was it written? bias?). Scholarly sources (peer-reviewed journals) carry more weight than popular sources (magazines, websites). Use your school or public library's databases (JSTOR, EBSCO) for academic sources.",
+            "examples": [
+              {
+                "problem": "What is the CRAAP test?",
+                "answer": "Currency, Relevance, Authority, Accuracy, Purpose \u2014 a source evaluation framework",
+                "explanation": "Apply it to every source you consider."
+              },
+              {
+                "problem": "What's the difference between primary and secondary sources?",
+                "answer": "Primary sources are original (data, documents); secondary sources analyze primaries",
+                "explanation": "A scientific study is primary; a review article is secondary."
+              },
+              {
+                "problem": "Why are peer-reviewed sources preferred?",
+                "answer": "Other experts have evaluated the research for accuracy and methodology",
+                "explanation": "It's a quality control mechanism for academic knowledge."
+              }
+            ],
+            "key_vocabulary": [
+              "primary source",
+              "secondary source",
+              "CRAAP test",
+              "peer-reviewed",
+              "scholarly",
+              "database",
+              "bibliography",
+              "citation"
+            ],
+            "real_world": "Source evaluation is critical in the age of misinformation \u2014 these skills help you distinguish reliable information from unreliable in any context."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The 'A' in CRAAP stands for:",
+              "options": "Analysis;Authority and Accuracy;Argument;Audience",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Original documents and data are ___ sources",
+              "answer": "primary"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Peer-reviewed means:",
+              "options": "Published online;Evaluated by other experts;Written by students;Free to access",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Wikipedia is considered a scholarly source.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Analyses of primary sources are called ___ sources",
+              "answer": "secondary"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "JSTOR and EBSCO are:",
+              "options": "Social media platforms;Academic databases;Search engines;News websites",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-7-3",
+          "title": "Thesis Development and Outlining",
+          "type": "lesson",
+          "content": {
+            "explanation": "A research thesis is an arguable claim that your paper will support with evidence. A strong thesis is: specific (not vague), arguable (reasonable people could disagree), evidence-based (supportable with research), and significant (worth arguing). The thesis evolves as you research \u2014 start with a working thesis and refine it. A formal outline organizes your argument: I. Introduction (hook, context, thesis), II-IV. Body sections (each with a topic sentence, evidence, analysis, and transition), V. Conclusion (synthesis, implications, call to action). Every paragraph should clearly connect to the thesis.",
+            "examples": [
+              {
+                "problem": "What makes a thesis 'arguable'?",
+                "answer": "Reasonable, informed people could disagree with it",
+                "explanation": "'The Earth is round' is not arguable; 'Space exploration funding should increase' is."
+              },
+              {
+                "problem": "What is a working thesis?",
+                "answer": "A preliminary thesis that evolves as you research",
+                "explanation": "Start with your best guess; refine as evidence shapes your understanding."
+              },
+              {
+                "problem": "Why does every paragraph need to connect to the thesis?",
+                "answer": "Unity \u2014 every element of the paper should support the central argument",
+                "explanation": "If a paragraph doesn't connect, cut it or revise your thesis."
+              }
+            ],
+            "key_vocabulary": [
+              "thesis",
+              "working thesis",
+              "outline",
+              "topic sentence",
+              "transition",
+              "synthesis",
+              "arguable",
+              "evidence-based"
+            ],
+            "real_world": "The ability to construct and support a sustained argument is the foundation of college writing across every discipline."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A strong thesis is:",
+              "options": "A fact everyone agrees on;An arguable claim supported by evidence;A question;A topic, not a claim",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A preliminary thesis that evolves during research is called a ___ thesis",
+              "answer": "working"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Each body paragraph should have:",
+              "options": "Only quotes;A topic sentence, evidence, and analysis;Just a summary;A personal anecdote",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Your thesis should never change after you start writing.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The conclusion should offer ___ \u2014 connecting your findings to broader implications",
+              "answer": "synthesis"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a paragraph doesn't connect to your thesis, you should:",
+              "options": "Leave it anyway;Cut it or revise your thesis;Add more paragraphs;Ignore the problem",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-7-4",
+          "title": "Citation, Integration, and Academic Integrity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Academic integrity requires giving credit for all borrowed ideas, not just direct quotes. Three ways to use sources: direct quotation (exact words in quotation marks), paraphrasing (restating in your own words \u2014 still requires citation), and summarizing (condensing main ideas \u2014 still requires citation). MLA format: in-text citations (Author page) and a Works Cited page. APA format: in-text citations (Author, year) and a References page. Signal phrases introduce sources smoothly: 'According to Smith (2023)...' or 'Johnson argues that...' Plagiarism \u2014 presenting others' work as your own \u2014 has serious academic consequences.",
+            "examples": [
+              {
+                "problem": "What is paraphrasing?",
+                "answer": "Restating someone else's ideas in your own words \u2014 still requires citation",
+                "explanation": "Changing a few words is NOT paraphrasing; you must genuinely restate the idea."
+              },
+              {
+                "problem": "What is a signal phrase?",
+                "answer": "A phrase that introduces a source: 'According to Smith...' or 'Research shows that...'",
+                "explanation": "Smoothly integrates evidence into your writing."
+              },
+              {
+                "problem": "What is the difference between MLA and APA?",
+                "answer": "MLA uses (Author page) citations and Works Cited; APA uses (Author, year) and References",
+                "explanation": "MLA for humanities; APA for sciences and social sciences."
+              }
+            ],
+            "key_vocabulary": [
+              "plagiarism",
+              "paraphrasing",
+              "direct quotation",
+              "summarizing",
+              "MLA",
+              "APA",
+              "signal phrase",
+              "Works Cited",
+              "in-text citation"
+            ],
+            "real_world": "Academic integrity follows you throughout your career \u2014 understanding proper attribution protects your reputation and respects others' work."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Paraphrasing requires:",
+              "options": "No citation;A citation, since the ideas are borrowed;Quotation marks;A footnote only",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Presenting others' work as your own is called ___",
+              "answer": "plagiarism"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "MLA in-text citations use:",
+              "options": "(Author, year);(Author page);Footnotes only;No citations",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If you put something in your own words, you don't need to cite it.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "A phrase like 'According to Smith...' that introduces a source is called a ___ phrase",
+              "answer": "signal"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "APA format is typically used in:",
+              "options": "Literature;Sciences and social sciences;Creative writing;Journalism",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-7",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "The source evaluation framework is the ___ test",
+            "answer": "CRAAP"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A strong thesis is:",
+            "options": "A fact;An arguable, evidence-based claim;A question;A summary",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Paraphrasing does not require citation since you used your own words.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Primary sources include:",
+            "options": "Journal review articles;Original documents, data, and interviews;Textbooks;Encyclopedias",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "MLA uses a ___ Cited page for listing sources",
+            "answer": "Works"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "research_scholar"
+      }
+    },
+    {
+      "id": "12-ela-8",
+      "title": "SAT/ACT Reading and Writing Prep",
+      "description": "Test-taking strategies and practice for standardized reading and writing sections.",
+      "lessons": [
+        {
+          "id": "12-ela-8-1",
+          "title": "SAT Reading: Passage Types and Strategies",
+          "type": "lesson",
+          "content": {
+            "explanation": "The SAT Reading section has 5 passages (52 questions, 65 minutes): one literature passage, two history/social science, and two science passages. Strategies: read the blurb (introduction) first for context, read actively (annotate main idea of each paragraph), answer evidence-based questions by finding the specific line reference, and eliminate wrong answers rather than searching for right ones. Common wrong answer types: too extreme (uses 'always' or 'never'), out of scope (true but not in the passage), opposite (contradicts the passage), and partially correct (mixes right and wrong elements).",
+            "examples": [
+              {
+                "problem": "How many passages are on the SAT Reading?",
+                "answer": "Five passages with 52 total questions in 65 minutes",
+                "explanation": "About 13 minutes per passage."
+              },
+              {
+                "problem": "What is the elimination strategy?",
+                "answer": "Cross out answers you know are wrong rather than searching for the right one",
+                "explanation": "Often easier to identify wrong answers than the correct one."
+              },
+              {
+                "problem": "What makes an answer 'out of scope'?",
+                "answer": "It may be true in general but isn't supported by the specific passage",
+                "explanation": "Always answer based on what the passage says, not what you know."
+              }
+            ],
+            "key_vocabulary": [
+              "SAT Reading",
+              "passage types",
+              "evidence-based",
+              "elimination",
+              "out of scope",
+              "inference",
+              "main idea",
+              "annotation"
+            ],
+            "real_world": "Strong reading comprehension scores open doors to college admissions and scholarships \u2014 these strategies can be practiced and improved."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The SAT Reading section has:",
+              "options": "3 passages;5 passages;7 passages;10 passages",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Answers that are true but not supported by the passage are called out of ___",
+              "answer": "scope"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The best strategy for SAT Reading is:",
+              "options": "Read every word slowly;Skip the passage and go to questions;Read actively and annotate;Only read the first paragraph",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "You should answer SAT questions based on your outside knowledge.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Crossing out wrong answers is called the ___ strategy",
+              "answer": "elimination"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 'too extreme' wrong answer often contains:",
+              "options": "Specific details;'Always' or 'never';Partial truths;Direct quotes",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-8-2",
+          "title": "SAT Writing: Grammar and Expression",
+          "type": "lesson",
+          "content": {
+            "explanation": "The SAT Writing and Language section tests grammar and effective expression (44 questions, 35 minutes). Key grammar rules: subject-verb agreement (especially with tricky intervening phrases), pronoun-antecedent agreement, comma rules (FANBOYS, introductory phrases, nonessential clauses), semicolons (join two independent clauses), apostrophes (possession vs. contraction), and parallel structure. Expression questions test concision (choose the shortest correct answer), logical transitions (however, therefore, moreover), and effective word choice. Read the full sentence before answering \u2014 context matters.",
+            "examples": [
+              {
+                "problem": "When do you use a semicolon?",
+                "answer": "To join two independent clauses without a conjunction",
+                "explanation": "'She studied hard; she passed the exam.'"
+              },
+              {
+                "problem": "What is parallel structure?",
+                "answer": "Using the same grammatical form for similar elements",
+                "explanation": "'She likes running, swimming, and biking' not 'running, to swim, and bikes.'"
+              },
+              {
+                "problem": "What is the concision rule?",
+                "answer": "When multiple answers are grammatically correct, choose the shortest one",
+                "explanation": "SAT rewards clear, direct expression."
+              }
+            ],
+            "key_vocabulary": [
+              "subject-verb agreement",
+              "pronoun agreement",
+              "semicolon",
+              "parallel structure",
+              "concision",
+              "transition",
+              "comma splice"
+            ],
+            "real_world": "Grammar mastery improves all writing \u2014 from college papers to professional emails. The SAT tests real skills you'll use daily."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A semicolon is used to:",
+              "options": "Start a list;Join two independent clauses;Replace a period;Introduce a quote",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "'She likes running, swimming, and biking' demonstrates ___ structure",
+              "answer": "parallel"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On the SAT, when multiple answers are correct, choose:",
+              "options": "The longest;The most formal;The shortest and clearest;The most complex",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A comma alone can join two independent clauses.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Words like 'however,' 'therefore,' and 'moreover' are called ___",
+              "answer": "transitions"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Subject-verb agreement errors often hide:",
+              "options": "At the beginning;Between the subject and verb (intervening phrases);At the end;In quotations",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-8-3",
+          "title": "ACT English and Reading Differences",
+          "type": "lesson",
+          "content": {
+            "explanation": "The ACT English section (75 questions, 45 minutes) tests grammar, usage, and rhetorical skills within passages. It's faster-paced than the SAT. ACT-specific: questions about adding/deleting sentences (ask: does it support the paragraph's main idea?), ordering sentences/paragraphs (look for logical flow and transitions), and author's purpose. The ACT Reading section (40 questions, 35 minutes) has four passages: prose fiction/literary narrative, social science, humanities, and natural science. It's time-intensive \u2014 about 8.5 minutes per passage. Strategy: some students do their strongest passage type first to secure easy points.",
+            "examples": [
+              {
+                "problem": "How does ACT English differ from SAT Writing?",
+                "answer": "More questions in less time (75 in 45 min vs. 44 in 35 min) and tests rhetorical decisions like adding/deleting",
+                "explanation": "Faster pace requires quick recognition of errors."
+              },
+              {
+                "problem": "What are the ACT Reading passage types?",
+                "answer": "Literary narrative, social science, humanities, natural science",
+                "explanation": "Always in this order."
+              },
+              {
+                "problem": "What strategy helps with ACT time pressure?",
+                "answer": "Do your strongest passage type first to secure points, then tackle harder ones",
+                "explanation": "Don't lose easy points by running out of time on early difficult passages."
+              }
+            ],
+            "key_vocabulary": [
+              "ACT English",
+              "ACT Reading",
+              "rhetorical skills",
+              "passage ordering",
+              "time management",
+              "prose fiction",
+              "pacing"
+            ],
+            "real_world": "Many students take both the SAT and ACT to see which format suits them better \u2014 understanding both gives you options."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "ACT English has:",
+              "options": "44 questions;52 questions;75 questions;100 questions",
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "ACT Reading allows about ___ minutes per passage",
+              "answer": "8.5"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "ACT-specific question types include:",
+              "options": "Vocabulary in context;Adding or deleting sentences;Graph analysis;Free response",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The ACT and SAT test identical skills in identical formats.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "The four ACT Reading passage types always appear in the same ___",
+              "answer": "order"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A time-saving ACT strategy is:",
+              "options": "Skip the hardest section;Do your strongest passage first;Guess on everything;Read passages twice",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-ela-8-4",
+          "title": "Test Day Strategies and Practice",
+          "type": "lesson",
+          "content": {
+            "explanation": "Preparation: take full-length practice tests under timed conditions. Review EVERY wrong answer \u2014 understand why you missed it and categorize the error (careless mistake, content gap, or time pressure). The week before: maintain your routine, get good sleep, prepare materials (ID, calculator, pencils, snacks). During the test: pace yourself (use a watch), don't spend more than 1 minute per question, bubble as you go (not at the end), and trust your preparation. For guessing: there's no penalty for wrong answers on SAT or ACT \u2014 never leave a blank. Strategic skipping: mark hard questions and return to them after easier ones.",
+            "examples": [
+              {
+                "problem": "Why review every wrong answer?",
+                "answer": "To categorize errors as careless mistakes, content gaps, or time-pressure issues",
+                "explanation": "Each type requires a different fix strategy."
+              },
+              {
+                "problem": "Is there a penalty for guessing on the SAT/ACT?",
+                "answer": "No \u2014 there's no wrong-answer penalty, so always answer every question",
+                "explanation": "A guess has a 25% chance; a blank has 0%."
+              },
+              {
+                "problem": "What is strategic skipping?",
+                "answer": "Mark difficult questions and return to them after completing easier ones",
+                "explanation": "Secure the points you can get first."
+              }
+            ],
+            "key_vocabulary": [
+              "practice test",
+              "pacing",
+              "strategic skipping",
+              "error analysis",
+              "time management",
+              "test anxiety",
+              "score improvement"
+            ],
+            "real_world": "Standardized test skills are learnable \u2014 consistent practice and strategic preparation can significantly improve scores."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "On the SAT and ACT, wrong answers:",
+              "options": "Lose points;Have no penalty;Lose half a point;Depend on the section",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Reviewing wrong answers to understand WHY you missed them is called error ___",
+              "answer": "analysis"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If you can't answer a question, you should:",
+              "options": "Leave it blank;Guess and move on;Spend extra time on it;Skip the whole passage",
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "There is a penalty for guessing on the current SAT.",
+              "answer": "false"
+            },
+            {
+              "type": "fill_in",
+              "question": "Marking hard questions to return to later is called strategic ___",
+              "answer": "skipping"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The best test preparation includes:",
+              "options": "Cramming the night before;Full-length timed practice tests;Reading the textbook once;Only studying vocabulary",
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-ela-quiz-8",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The SAT Reading has:",
+            "options": "3 passages;5 passages;7 passages;4 passages",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "On the SAT, when grammar options are equal, choose the most ___ answer",
+            "answer": "concise"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "ACT English has:",
+            "options": "44 questions in 35 minutes;75 questions in 45 minutes;52 questions in 65 minutes;60 questions in 60 minutes",
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "You should leave questions blank if you're unsure on the SAT.",
+            "answer": "false"
+          },
+          {
+            "type": "fill_in",
+            "question": "Using the same grammatical form for similar elements is called ___ structure",
+            "answer": "parallel"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "test_prep_champion"
+      }
+    }
+  ]
+}

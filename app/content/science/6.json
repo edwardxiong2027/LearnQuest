@@ -1,0 +1,2124 @@
+{
+  "grade": 6,
+  "subject": "science",
+  "units": [
+    {
+      "id": "6-sci-1",
+      "title": "Cells & Microscopy",
+      "description": "Explore the building blocks of life — cells. Learn how to use microscopes, identify cell structures, and understand the differences between plant and animal cells.",
+      "lessons": [
+        {
+          "id": "6-sci-1-1",
+          "title": "Introduction to Cells",
+          "type": "lesson",
+          "content": {
+            "explanation": "All living things are made of cells. A cell is the smallest unit of life that can carry out all the basic functions of a living organism, including taking in nutrients, releasing energy, and reproducing. Some organisms, like bacteria and amoebas, are made of just one cell — we call them unicellular. Other organisms, like humans, animals, and plants, are made of trillions of cells working together — we call them multicellular. The idea that all living things are made of cells is called the Cell Theory. Cell Theory has three main parts: (1) all living things are made of one or more cells, (2) the cell is the basic unit of life, and (3) all cells come from existing cells. Scientists Robert Hooke first observed cells in 1665 when he looked at thin slices of cork under a microscope and saw tiny box-like structures that reminded him of rooms in a monastery, which were called 'cells.'",
+            "examples": [
+              {
+                "problem": "Is a bacterium unicellular or multicellular?",
+                "answer": "Unicellular",
+                "explanation": "A bacterium is made of just one cell, so it is unicellular. That single cell performs all the functions the organism needs to survive."
+              },
+              {
+                "problem": "What are the three parts of Cell Theory?",
+                "answer": "All living things are made of cells; the cell is the basic unit of life; all cells come from existing cells.",
+                "explanation": "Cell Theory summarizes what scientists have learned about cells over hundreds of years of observation and experimentation."
+              }
+            ],
+            "key_vocabulary": ["cell", "unicellular", "multicellular", "Cell Theory", "organism", "Robert Hooke"],
+            "real_world": "Your body is made of about 37 trillion cells. Every time you scrape your knee and it heals, new cells are being created to replace the damaged ones."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the smallest unit of life?",
+              "options": ["Atom", "Cell", "Organ", "Tissue"],
+              "correct": 1,
+              "hint": "Think about what Cell Theory says is the basic unit of life."
+            },
+            {
+              "type": "true_false",
+              "question": "An organism made of only one cell is called multicellular.",
+              "answer": false,
+              "hint": "The prefix 'uni-' means one, and 'multi-' means many."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who first observed cells using a microscope?",
+              "options": ["Isaac Newton", "Robert Hooke", "Charles Darwin", "Louis Pasteur"],
+              "correct": 1,
+              "hint": "He looked at cork under a microscope in 1665."
+            },
+            {
+              "type": "fill_in",
+              "question": "According to Cell Theory, all cells come from existing ___.",
+              "answer": "cells",
+              "hint": "Cells don't appear from nothing — they are produced by other living cells."
+            },
+            {
+              "type": "true_false",
+              "question": "Humans are multicellular organisms.",
+              "answer": true,
+              "hint": "Humans are made of trillions of cells."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a unicellular organism?",
+              "options": ["Dog", "Oak tree", "Amoeba", "Fern"],
+              "correct": 2,
+              "hint": "Think about which organism is made of just one cell."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-1-2",
+          "title": "Using a Microscope",
+          "type": "lesson",
+          "content": {
+            "explanation": "A microscope is a tool that makes very small objects appear larger so we can study them. The most common type used in schools is the compound light microscope. It uses lenses and light to magnify specimens. The main parts of a compound microscope include the eyepiece (or ocular lens), which you look through and typically magnifies 10x; the objective lenses, which are the lenses closest to the specimen and come in different magnifications like 4x, 10x, and 40x; the stage, where you place your slide; the light source, which illuminates the specimen from below; and the coarse and fine adjustment knobs, which focus the image. To calculate the total magnification, you multiply the eyepiece magnification by the objective lens magnification. For example, if the eyepiece is 10x and the objective is 40x, the total magnification is 400x. Always start with the lowest magnification objective and work your way up for the best results.",
+            "examples": [
+              {
+                "problem": "If the eyepiece is 10x and the objective lens is 40x, what is the total magnification?",
+                "answer": "400x",
+                "explanation": "Total magnification = eyepiece × objective = 10 × 40 = 400x. The specimen appears 400 times larger than its actual size."
+              },
+              {
+                "problem": "Which knob should you use first when focusing — coarse or fine?",
+                "answer": "Coarse adjustment knob",
+                "explanation": "Always start with the coarse adjustment knob to get the image roughly in focus, then use the fine adjustment knob to sharpen it."
+              }
+            ],
+            "key_vocabulary": ["microscope", "eyepiece", "objective lens", "magnification", "stage", "coarse adjustment", "fine adjustment", "specimen"],
+            "real_world": "Doctors use microscopes to examine blood samples and look for signs of disease. Forensic scientists use them to analyze evidence at crime scenes."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the total magnification if the eyepiece is 10x and the objective lens is 10x?",
+              "options": ["20x", "100x", "10x", "110x"],
+              "correct": 1,
+              "hint": "Multiply the eyepiece magnification by the objective lens magnification."
+            },
+            {
+              "type": "fill_in",
+              "question": "The part of the microscope you look through is called the ___.",
+              "answer": "eyepiece",
+              "hint": "It's named after the body part you use to look through it."
+            },
+            {
+              "type": "true_false",
+              "question": "You should always start focusing with the highest magnification objective lens.",
+              "answer": false,
+              "hint": "Starting with the lowest magnification helps you find the specimen first."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do you place the slide on a microscope?",
+              "options": ["Eyepiece", "Objective lens", "Stage", "Base"],
+              "correct": 2,
+              "hint": "It's the flat platform where specimens are placed for viewing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the total magnification with a 10x eyepiece and a 4x objective?",
+              "options": ["14x", "40x", "400x", "44x"],
+              "correct": 1,
+              "hint": "Multiply the two magnification values together."
+            },
+            {
+              "type": "fill_in",
+              "question": "To calculate total magnification, you ___ the eyepiece power by the objective lens power.",
+              "answer": "multiply",
+              "hint": "It's not addition — think of how lenses compound each other's magnifying power."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-1-3",
+          "title": "Parts of a Cell",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every cell has structures called organelles that perform specific jobs, much like organs in your body. The cell membrane is the outer boundary of every cell — it controls what enters and leaves the cell, acting like a security gate. Inside the cell, the cytoplasm is a jelly-like fluid that fills the cell and holds the organelles in place. The nucleus is the control center of the cell. It contains the cell's DNA, which is the instruction manual for everything the cell does. Mitochondria are the powerhouses of the cell — they break down food molecules and convert them into energy the cell can use, in a process called cellular respiration. Ribosomes are tiny structures that build proteins, which the cell needs for growth and repair. The endoplasmic reticulum (ER) is a network of membranes that helps transport materials through the cell. The Golgi apparatus packages and ships proteins and other materials to where they are needed, like a post office.",
+            "examples": [
+              {
+                "problem": "Which organelle is called the 'powerhouse of the cell'?",
+                "answer": "Mitochondria",
+                "explanation": "Mitochondria convert food into energy (ATP) through cellular respiration. Without them, cells wouldn't have the energy to carry out their functions."
+              },
+              {
+                "problem": "What does the cell membrane do?",
+                "answer": "It controls what enters and leaves the cell.",
+                "explanation": "The cell membrane is selectively permeable, meaning it allows some substances through while keeping others out, like a security gate."
+              }
+            ],
+            "key_vocabulary": ["organelle", "cell membrane", "cytoplasm", "nucleus", "DNA", "mitochondria", "ribosomes", "endoplasmic reticulum", "Golgi apparatus"],
+            "real_world": "When you eat food, your mitochondria convert the nutrients into energy your cells can use. That's how a sandwich gives you energy to run and play!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which organelle contains the cell's DNA?",
+              "options": ["Mitochondria", "Ribosome", "Nucleus", "Cell membrane"],
+              "correct": 2,
+              "hint": "This organelle is the 'control center' of the cell."
+            },
+            {
+              "type": "fill_in",
+              "question": "The jelly-like fluid that fills a cell is called the ___.",
+              "answer": "cytoplasm",
+              "hint": "It starts with 'cyto-' which means cell."
+            },
+            {
+              "type": "true_false",
+              "question": "Ribosomes are responsible for producing energy in the cell.",
+              "answer": false,
+              "hint": "Ribosomes build proteins. A different organelle produces energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which organelle acts like a post office, packaging and shipping materials?",
+              "options": ["Nucleus", "Golgi apparatus", "Cell membrane", "Ribosome"],
+              "correct": 1,
+              "hint": "This organelle packages proteins and sends them where they need to go."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the function of the cell membrane?",
+              "options": ["Produces energy", "Stores DNA", "Controls what enters and leaves the cell", "Builds proteins"],
+              "correct": 2,
+              "hint": "Think of it as the cell's security gate."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ is called the powerhouse of the cell because it produces energy.",
+              "answer": "mitochondria",
+              "hint": "This organelle converts food molecules into usable energy (ATP)."
+            },
+            {
+              "type": "true_false",
+              "question": "The endoplasmic reticulum helps transport materials through the cell.",
+              "answer": true,
+              "hint": "The ER is a network of membranes that acts like a highway inside the cell."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-1-4",
+          "title": "Plant Cells vs. Animal Cells",
+          "type": "lesson",
+          "content": {
+            "explanation": "While plant cells and animal cells share many of the same organelles, they have some important differences. Plant cells have three structures that animal cells do not: a cell wall, chloroplasts, and a large central vacuole. The cell wall is a rigid outer layer made of cellulose that surrounds the cell membrane. It gives plant cells their boxy shape and provides extra support, which is why plants can stand upright without bones. Chloroplasts are organelles that capture sunlight and use it to make food (glucose) through a process called photosynthesis. This is why plants are green — chloroplasts contain a green pigment called chlorophyll. The large central vacuole stores water, nutrients, and waste. When it's full of water, it pushes against the cell wall and keeps the plant firm. When plants wilt, it's because the vacuoles have lost water. Animal cells, on the other hand, tend to have an irregular shape since they lack a cell wall, and they get their energy by consuming food rather than making it through photosynthesis.",
+            "examples": [
+              {
+                "problem": "Why are plant cells rectangular while animal cells are round?",
+                "answer": "Plant cells have a rigid cell wall that gives them their boxy shape, while animal cells lack a cell wall.",
+                "explanation": "The cell wall is made of cellulose and provides structural support, forcing plant cells into a rectangular shape."
+              },
+              {
+                "problem": "Why are plants green?",
+                "answer": "Because chloroplasts contain a green pigment called chlorophyll.",
+                "explanation": "Chlorophyll absorbs red and blue light for photosynthesis but reflects green light, which is why we see plants as green."
+              }
+            ],
+            "key_vocabulary": ["cell wall", "chloroplast", "central vacuole", "photosynthesis", "chlorophyll", "cellulose"],
+            "real_world": "When you water a wilted plant and it perks up, that's because water fills the central vacuoles in the plant cells, making them firm again — like inflating tiny water balloons inside each cell."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is found in plant cells but NOT in animal cells?",
+              "options": ["Nucleus", "Mitochondria", "Chloroplast", "Ribosome"],
+              "correct": 2,
+              "hint": "This organelle is responsible for photosynthesis."
+            },
+            {
+              "type": "true_false",
+              "question": "Animal cells have a cell wall.",
+              "answer": false,
+              "hint": "Only plant cells have a rigid outer wall made of cellulose."
+            },
+            {
+              "type": "fill_in",
+              "question": "The green pigment found in chloroplasts is called ___.",
+              "answer": "chlorophyll",
+              "hint": "It starts with 'chloro-' which means green."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the large central vacuole in a plant cell store?",
+              "options": ["DNA", "Proteins only", "Water, nutrients, and waste", "Chlorophyll"],
+              "correct": 2,
+              "hint": "When this organelle loses water, the plant wilts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The cell wall is made of a substance called:",
+              "options": ["Chlorophyll", "Cytoplasm", "Cellulose", "Protein"],
+              "correct": 2,
+              "hint": "This rigid material gives plant cells their structure."
+            },
+            {
+              "type": "true_false",
+              "question": "Both plant and animal cells have mitochondria.",
+              "answer": true,
+              "hint": "Both types of cells need energy to function."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process by which plants use sunlight to make food is called ___.",
+              "answer": "photosynthesis",
+              "hint": "'Photo' means light and 'synthesis' means to put together."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-1-5",
+          "title": "Cell Organization: Cells to Organ Systems",
+          "type": "lesson",
+          "content": {
+            "explanation": "In multicellular organisms, cells don't work alone. They are organized into levels of increasing complexity. The first level is the cell itself — the basic unit of life. Similar cells that work together to perform a specific function form a tissue. For example, muscle cells group together to form muscle tissue. Different types of tissues that work together form an organ. Your stomach, for instance, is an organ made of muscle tissue, epithelial tissue, and nervous tissue all working together to digest food. Organs that work together to perform a major body function form an organ system. The digestive system, for example, includes the mouth, esophagus, stomach, intestines, and other organs all working together to break down food and absorb nutrients. Finally, all the organ systems working together make up an organism — a complete living thing. This hierarchy — cell, tissue, organ, organ system, organism — shows how life is organized from the simplest level to the most complex.",
+            "examples": [
+              {
+                "problem": "Put these in order from simplest to most complex: organ, cell, organ system, tissue, organism.",
+                "answer": "Cell → Tissue → Organ → Organ System → Organism",
+                "explanation": "Cells combine to form tissues, tissues combine to form organs, organs combine to form organ systems, and all organ systems together make an organism."
+              },
+              {
+                "problem": "Is the heart a tissue, organ, or organ system?",
+                "answer": "Organ",
+                "explanation": "The heart is made of different types of tissues (muscle, nervous, connective) working together, making it an organ. It is part of the circulatory organ system."
+              }
+            ],
+            "key_vocabulary": ["tissue", "organ", "organ system", "organism", "hierarchy", "epithelial tissue", "muscle tissue"],
+            "real_world": "When you flex your arm, muscle cells contract together as muscle tissue, which forms part of the muscle organ, which is part of the muscular system, which is part of you — the organism!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the correct order from simplest to most complex?",
+              "options": ["Tissue → Cell → Organ → Organism", "Cell → Tissue → Organ → Organ System → Organism", "Organ → Tissue → Cell → Organism", "Cell → Organ → Tissue → Organism"],
+              "correct": 1,
+              "hint": "Start with the smallest unit of life and build up."
+            },
+            {
+              "type": "fill_in",
+              "question": "A group of similar cells working together is called a ___.",
+              "answer": "tissue",
+              "hint": "It's the level between cell and organ."
+            },
+            {
+              "type": "true_false",
+              "question": "An organ is made of only one type of tissue.",
+              "answer": false,
+              "hint": "Think about the stomach — it has muscle tissue, nervous tissue, and more."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The digestive system is an example of a(n):",
+              "options": ["Cell", "Tissue", "Organ", "Organ system"],
+              "correct": 3,
+              "hint": "It includes multiple organs (mouth, stomach, intestines) working together."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is an organ?",
+              "options": ["Muscle cell", "Blood", "Heart", "Circulatory system"],
+              "correct": 2,
+              "hint": "An organ is made of different tissues working together."
+            },
+            {
+              "type": "fill_in",
+              "question": "Organs that work together to perform a major body function form an ___.",
+              "answer": "organ system",
+              "hint": "It's the level of organization between organ and organism."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the basic unit of life?",
+            "options": ["Atom", "Molecule", "Cell", "Organ"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Plant cells have chloroplasts, but animal cells do not.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which organelle is known as the powerhouse of the cell?",
+            "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi apparatus"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "If the eyepiece magnification is 10x and the objective lens is 40x, what is the total magnification?",
+            "options": ["50x", "400x", "4x", "140x"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The cell membrane is found only in animal cells.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the correct order of organization in living things?",
+            "options": ["Organ → Tissue → Cell → Organism", "Cell → Tissue → Organ → Organ System → Organism", "Tissue → Cell → Organ → Organism", "Cell → Organ → Tissue → Organism"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What green pigment in chloroplasts captures sunlight?",
+            "options": ["Cellulose", "Cytoplasm", "Chlorophyll", "Chromatin"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "According to Cell Theory, all cells come from existing cells.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cell_explorer"
+      }
+    },
+    {
+      "id": "6-sci-2",
+      "title": "Body Systems: Digestive, Respiratory & Circulatory",
+      "description": "Discover how your body breaks down food, breathes in oxygen, and pumps blood to every cell. Learn how the digestive, respiratory, and circulatory systems work together to keep you alive.",
+      "lessons": [
+        {
+          "id": "6-sci-2-1",
+          "title": "The Digestive System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The digestive system breaks down the food you eat into nutrients your body can use for energy, growth, and repair. Digestion begins in the mouth, where your teeth mechanically break food into smaller pieces and saliva starts chemically breaking down starches. When you swallow, food travels down the esophagus, a muscular tube that uses wave-like contractions called peristalsis to push food into the stomach. The stomach is a muscular organ that churns food and mixes it with gastric juices containing hydrochloric acid and enzymes to break down proteins. The partially digested food then moves into the small intestine, which is about 20 feet long and is where most nutrient absorption occurs. The walls of the small intestine are lined with tiny finger-like projections called villi that increase the surface area for absorption. The liver produces bile to help digest fats, and the pancreas produces enzymes that help break down proteins, fats, and carbohydrates. Finally, the large intestine absorbs water from the remaining material, and waste is stored in the rectum before being eliminated from the body.",
+            "examples": [
+              {
+                "problem": "Where does most nutrient absorption take place?",
+                "answer": "The small intestine",
+                "explanation": "The small intestine has villi — tiny finger-like projections that dramatically increase its surface area, allowing nutrients to be efficiently absorbed into the bloodstream."
+              },
+              {
+                "problem": "What is peristalsis?",
+                "answer": "Wave-like muscle contractions that push food through the digestive tract.",
+                "explanation": "Peristalsis occurs throughout the digestive system. It's why you can swallow food even while upside down — gravity isn't what moves food through your body."
+              }
+            ],
+            "key_vocabulary": ["digestion", "esophagus", "peristalsis", "stomach", "small intestine", "villi", "large intestine", "liver", "pancreas", "enzymes"],
+            "real_world": "It takes about 6-8 hours for food to pass through your stomach and small intestine. A complete digestive journey from mouth to elimination takes about 24-72 hours."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where does digestion begin?",
+              "options": ["Stomach", "Small intestine", "Mouth", "Esophagus"],
+              "correct": 2,
+              "hint": "Think about what happens when you first bite into food."
+            },
+            {
+              "type": "fill_in",
+              "question": "The wave-like muscle contractions that push food through the digestive tract are called ___.",
+              "answer": "peristalsis",
+              "hint": "This process is why you can swallow even while lying down."
+            },
+            {
+              "type": "true_false",
+              "question": "The large intestine is where most nutrient absorption occurs.",
+              "answer": false,
+              "hint": "Most nutrient absorption happens in a different, longer intestine."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are villi?",
+              "options": ["Stomach acids", "Finger-like projections in the small intestine", "Muscles in the esophagus", "Enzymes in saliva"],
+              "correct": 1,
+              "hint": "They increase the surface area for absorbing nutrients."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which organ produces bile to help digest fats?",
+              "options": ["Stomach", "Pancreas", "Liver", "Small intestine"],
+              "correct": 2,
+              "hint": "This large organ is located on the right side of your abdomen."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ absorbs water from remaining food material before waste is eliminated.",
+              "answer": "large intestine",
+              "hint": "It's the last major section of the digestive tract."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-2-2",
+          "title": "The Respiratory System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The respiratory system is responsible for bringing oxygen into your body and removing carbon dioxide, a waste gas produced by your cells. When you breathe in (inhale), air enters through your nose or mouth, where it is warmed, moistened, and filtered. The air then passes through the pharynx (throat) and larynx (voice box) into the trachea (windpipe). The trachea splits into two bronchi, one leading to each lung. Inside the lungs, the bronchi branch into smaller and smaller tubes called bronchioles. At the end of the bronchioles are tiny air sacs called alveoli. The alveoli are where gas exchange happens — oxygen from the air you breathe in passes through the thin walls of the alveoli into tiny blood vessels called capillaries, while carbon dioxide from your blood passes in the opposite direction into the alveoli to be exhaled. Your lungs contain about 300 million alveoli, giving them a total surface area roughly the size of a tennis court. The diaphragm, a dome-shaped muscle beneath the lungs, controls breathing. When it contracts and moves down, your lungs expand and air rushes in. When it relaxes, air is pushed out.",
+            "examples": [
+              {
+                "problem": "Where does gas exchange occur in the lungs?",
+                "answer": "In the alveoli",
+                "explanation": "Alveoli are tiny air sacs at the ends of bronchioles. Oxygen passes through their thin walls into the blood, and carbon dioxide passes from the blood into the alveoli to be exhaled."
+              },
+              {
+                "problem": "What role does the diaphragm play in breathing?",
+                "answer": "It contracts and relaxes to control the expansion and compression of the lungs.",
+                "explanation": "When the diaphragm contracts, it moves down, creating more space for the lungs to expand and draw in air. When it relaxes, it pushes up, forcing air out."
+              }
+            ],
+            "key_vocabulary": ["respiratory system", "trachea", "bronchi", "bronchioles", "alveoli", "gas exchange", "diaphragm", "capillaries", "oxygen", "carbon dioxide"],
+            "real_world": "You breathe about 20,000 times per day without even thinking about it. Your brain automatically controls your breathing rate, speeding it up when you exercise because your cells need more oxygen."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the main function of the respiratory system?",
+              "options": ["Digest food", "Pump blood", "Exchange oxygen and carbon dioxide", "Send nerve signals"],
+              "correct": 2,
+              "hint": "Think about what happens when you breathe in and out."
+            },
+            {
+              "type": "fill_in",
+              "question": "The tiny air sacs where gas exchange occurs are called ___.",
+              "answer": "alveoli",
+              "hint": "There are about 300 million of them in your lungs."
+            },
+            {
+              "type": "true_false",
+              "question": "The diaphragm is a muscle that helps control breathing.",
+              "answer": true,
+              "hint": "It's a dome-shaped muscle located beneath the lungs."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the correct pathway of air into the lungs?",
+              "options": ["Nose → Bronchi → Trachea → Alveoli", "Nose → Trachea → Bronchi → Bronchioles → Alveoli", "Nose → Alveoli → Bronchi → Trachea", "Nose → Larynx → Alveoli → Bronchi"],
+              "correct": 1,
+              "hint": "Air goes from larger tubes to smaller and smaller ones."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What gas do you exhale that is a waste product of your cells?",
+              "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+              "correct": 2,
+              "hint": "Your cells produce this gas when they use oxygen to make energy."
+            },
+            {
+              "type": "fill_in",
+              "question": "The trachea splits into two tubes called ___ that lead to each lung.",
+              "answer": "bronchi",
+              "hint": "These tubes branch into even smaller tubes called bronchioles."
+            },
+            {
+              "type": "true_false",
+              "question": "The lungs have a total internal surface area roughly the size of a tennis court.",
+              "answer": true,
+              "hint": "The millions of tiny alveoli give the lungs an enormous total surface area."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-2-3",
+          "title": "The Circulatory System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The circulatory system transports blood throughout your body, delivering oxygen and nutrients to cells and carrying away waste products like carbon dioxide. The heart is the central pump of the circulatory system. It has four chambers: the right atrium, right ventricle, left atrium, and left ventricle. The right side of the heart receives deoxygenated blood from the body and pumps it to the lungs, where it picks up oxygen. The left side receives oxygenated blood from the lungs and pumps it to the rest of the body. There are three types of blood vessels: arteries carry blood away from the heart (remember: A for Away), veins carry blood back to the heart, and capillaries are tiny vessels where the actual exchange of oxygen, nutrients, and waste occurs between blood and cells. Blood itself is made up of several components: red blood cells carry oxygen using a protein called hemoglobin, white blood cells fight infections, platelets help your blood clot when you get a cut, and plasma is the liquid part that carries everything. Your heart beats about 100,000 times per day, pumping roughly 2,000 gallons of blood.",
+            "examples": [
+              {
+                "problem": "What are the four chambers of the heart?",
+                "answer": "Right atrium, right ventricle, left atrium, left ventricle",
+                "explanation": "The atria (top chambers) receive blood, and the ventricles (bottom chambers) pump blood out. The right side handles deoxygenated blood, the left side handles oxygenated blood."
+              },
+              {
+                "problem": "What is the difference between arteries and veins?",
+                "answer": "Arteries carry blood away from the heart; veins carry blood back to the heart.",
+                "explanation": "An easy way to remember: Arteries go Away from the heart. Both start with 'A'."
+              }
+            ],
+            "key_vocabulary": ["circulatory system", "heart", "atrium", "ventricle", "artery", "vein", "capillary", "red blood cells", "white blood cells", "platelets", "plasma", "hemoglobin"],
+            "real_world": "If you laid all your blood vessels end to end, they would stretch about 60,000 miles — that's enough to circle the Earth more than twice!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which type of blood vessel carries blood away from the heart?",
+              "options": ["Veins", "Capillaries", "Arteries", "Bronchioles"],
+              "correct": 2,
+              "hint": "Remember: A for Away."
+            },
+            {
+              "type": "fill_in",
+              "question": "The protein in red blood cells that carries oxygen is called ___.",
+              "answer": "hemoglobin",
+              "hint": "It's what gives red blood cells their red color."
+            },
+            {
+              "type": "true_false",
+              "question": "The right side of the heart pumps oxygenated blood to the body.",
+              "answer": false,
+              "hint": "The right side sends blood to the lungs. The left side sends it to the body."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many chambers does the human heart have?",
+              "options": ["2", "3", "4", "5"],
+              "correct": 2,
+              "hint": "There are two atria and two ventricles."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which blood cells help fight infections?",
+              "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+              "correct": 1,
+              "hint": "They are part of your immune system."
+            },
+            {
+              "type": "fill_in",
+              "question": "The tiny blood vessels where gas and nutrient exchange occurs are called ___.",
+              "answer": "capillaries",
+              "hint": "They connect arteries and veins and have walls thin enough for substances to pass through."
+            },
+            {
+              "type": "true_false",
+              "question": "Platelets help blood clot when you get a cut.",
+              "answer": true,
+              "hint": "Without them, even a small cut would keep bleeding."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-2-4",
+          "title": "How Body Systems Work Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "The digestive, respiratory, and circulatory systems don't work in isolation — they work together as a team to keep your body alive. Here's how: The digestive system breaks down food into nutrients like glucose. The respiratory system brings oxygen into the body through the lungs. The circulatory system picks up both the nutrients from the small intestine and the oxygen from the lungs and delivers them to every cell in the body through the blood. Inside each cell, mitochondria use the oxygen and glucose to produce energy through a process called cellular respiration. This process also produces carbon dioxide as a waste product. The circulatory system then carries the carbon dioxide back to the lungs, where the respiratory system exhales it. Meanwhile, other waste from cells is filtered by the kidneys (part of the excretory system) and removed from the body. This constant cycle of taking in oxygen and nutrients, producing energy, and removing waste is what keeps you alive every second of every day.",
+            "examples": [
+              {
+                "problem": "How do the digestive and circulatory systems work together?",
+                "answer": "The digestive system breaks food into nutrients, and the circulatory system transports those nutrients to cells throughout the body.",
+                "explanation": "Nutrients are absorbed through the villi of the small intestine into capillaries, which are part of the circulatory system. Blood then carries these nutrients everywhere they're needed."
+              },
+              {
+                "problem": "What is cellular respiration?",
+                "answer": "The process in which cells use oxygen and glucose to produce energy, with carbon dioxide as a waste product.",
+                "explanation": "Cellular respiration happens in the mitochondria. It's the reason you need both food (for glucose) and air (for oxygen)."
+              }
+            ],
+            "key_vocabulary": ["cellular respiration", "glucose", "nutrients", "oxygen", "carbon dioxide", "energy", "interdependent"],
+            "real_world": "When you exercise, your body needs more energy, so all three systems work harder: you breathe faster (respiratory), your heart beats faster (circulatory), and your body uses stored nutrients faster (digestive)."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What two substances do cells need to produce energy through cellular respiration?",
+              "options": ["Carbon dioxide and water", "Oxygen and glucose", "Nitrogen and protein", "Hemoglobin and plasma"],
+              "correct": 1,
+              "hint": "One comes from breathing, the other from food."
+            },
+            {
+              "type": "true_false",
+              "question": "The digestive, respiratory, and circulatory systems work independently and don't need each other.",
+              "answer": false,
+              "hint": "These systems are interdependent — they rely on each other."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cellular respiration produces energy and releases ___ as a waste product.",
+              "answer": "carbon dioxide",
+              "hint": "This is the gas you exhale."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does oxygen get from the lungs to the cells?",
+              "options": ["Through the nervous system", "Through the digestive system", "Through the circulatory system in the blood", "Through the respiratory system directly"],
+              "correct": 2,
+              "hint": "Blood picks up oxygen in the lungs and delivers it throughout the body."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do you breathe faster when you exercise?",
+              "options": ["To cool down your lungs", "Because your cells need more oxygen to produce energy", "To remove excess food", "Because your stomach is full"],
+              "correct": 1,
+              "hint": "Exercise requires more energy, and energy production needs oxygen."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cellular respiration takes place inside organelles called ___.",
+              "answer": "mitochondria",
+              "hint": "Remember the 'powerhouse of the cell' from our earlier lessons?"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Where does most nutrient absorption occur in the digestive system?",
+            "options": ["Stomach", "Large intestine", "Small intestine", "Esophagus"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Arteries carry blood back to the heart.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What are the tiny air sacs in the lungs called?",
+            "options": ["Bronchi", "Bronchioles", "Alveoli", "Capillaries"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does the diaphragm do?",
+            "options": ["Pumps blood", "Digests food", "Controls breathing", "Filters waste"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Red blood cells carry oxygen using a protein called hemoglobin.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What waste gas is produced during cellular respiration?",
+            "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which system transports nutrients and oxygen to cells throughout the body?",
+            "options": ["Digestive system", "Respiratory system", "Circulatory system", "Nervous system"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "The heart has three chambers.",
+            "answer": false
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "body_systems_pro"
+      }
+    },
+    {
+      "id": "6-sci-3",
+      "title": "Classification of Living Things",
+      "description": "Learn how scientists organize the millions of species on Earth into groups based on shared characteristics. Explore the levels of classification from domain to species.",
+      "lessons": [
+        {
+          "id": "6-sci-3-1",
+          "title": "Why We Classify Living Things",
+          "type": "lesson",
+          "content": {
+            "explanation": "Scientists estimate there are about 8.7 million species of living things on Earth, and new ones are discovered every year. With so many organisms, we need a system to organize them so we can study and talk about them efficiently. Classification, or taxonomy, is the science of naming and grouping organisms based on their shared characteristics and evolutionary relationships. The system we use today was largely developed by Carl Linnaeus, a Swedish scientist in the 1700s. He created a hierarchical system with levels that go from broad groups containing many organisms to very specific groups containing only one species. Linnaeus also invented binomial nomenclature, the system of giving every organism a two-part scientific name in Latin. The first part is the genus (always capitalized) and the second is the species (lowercase). For example, humans are Homo sapiens — 'Homo' is our genus and 'sapiens' is our species. Scientific names are always italicized (or underlined when handwritten). Using scientific names prevents confusion, since common names can differ by language and region.",
+            "examples": [
+              {
+                "problem": "What is the scientific name for humans?",
+                "answer": "Homo sapiens",
+                "explanation": "'Homo' is the genus and 'sapiens' is the species. Together, this two-part name uniquely identifies our species, no matter what language you speak."
+              },
+              {
+                "problem": "Why do scientists use scientific names instead of common names?",
+                "answer": "To avoid confusion, since common names vary by language and region.",
+                "explanation": "For example, a 'robin' in North America is a completely different species from a 'robin' in Europe. Scientific names are universal."
+              }
+            ],
+            "key_vocabulary": ["classification", "taxonomy", "Carl Linnaeus", "binomial nomenclature", "genus", "species", "scientific name"],
+            "real_world": "Just like a library organizes books by category, subject, and author to help you find what you need, taxonomy organizes living things into groups so scientists around the world can communicate clearly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who developed the modern classification system?",
+              "options": ["Charles Darwin", "Carl Linnaeus", "Robert Hooke", "Gregor Mendel"],
+              "correct": 1,
+              "hint": "He was a Swedish scientist who worked in the 1700s."
+            },
+            {
+              "type": "fill_in",
+              "question": "The two-part naming system for organisms is called ___ nomenclature.",
+              "answer": "binomial",
+              "hint": "'Bi' means two, and 'nomial' relates to names."
+            },
+            {
+              "type": "true_false",
+              "question": "In a scientific name, the species name is capitalized and the genus is lowercase.",
+              "answer": false,
+              "hint": "It's the opposite — the genus is capitalized and the species is lowercase."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the scientific name Canis lupus (gray wolf), which part is the genus?",
+              "options": ["lupus", "Canis", "gray", "wolf"],
+              "correct": 1,
+              "hint": "The genus always comes first and is capitalized."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is classification important?",
+              "options": ["It makes animals look prettier", "It helps scientists organize and communicate about millions of species", "It changes what organisms look like", "It is only used for plants"],
+              "correct": 1,
+              "hint": "Think about how hard it would be to study 8.7 million species without any organization."
+            },
+            {
+              "type": "true_false",
+              "question": "Scientific names are written in Latin.",
+              "answer": true,
+              "hint": "Linnaeus chose Latin because it was the language of science in his time."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-3-2",
+          "title": "Levels of Classification",
+          "type": "lesson",
+          "content": {
+            "explanation": "The classification system has eight main levels, from broadest to most specific: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species. A helpful mnemonic to remember this is: 'Dear King Philip Came Over For Good Spaghetti.' At the top, domains are the broadest groups. There are three domains: Bacteria, Archaea, and Eukarya. All organisms with cells that have a nucleus belong to Eukarya, which includes animals, plants, fungi, and protists. As you move down each level, the groups get smaller and more specific. Organisms in the same group share more and more characteristics. For example, humans and dogs are both in the kingdom Animalia, but they split at the class level — humans are in class Mammalia and order Primates, while dogs are in class Mammalia and order Carnivora. At the species level, you have the most specific grouping — organisms that can breed with each other and produce fertile offspring.",
+            "examples": [
+              {
+                "problem": "List the levels of classification from broadest to most specific.",
+                "answer": "Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species",
+                "explanation": "Remember: Dear King Philip Came Over For Good Spaghetti. Each level gets more specific, with fewer organisms in each group."
+              },
+              {
+                "problem": "At which level of classification do humans and dogs first differ?",
+                "answer": "They are both mammals (class Mammalia) but differ at the order level (Primates vs. Carnivora).",
+                "explanation": "Both humans and dogs share the same domain, kingdom, phylum, and class, but they belong to different orders."
+              }
+            ],
+            "key_vocabulary": ["domain", "kingdom", "phylum", "class", "order", "family", "genus", "species", "Eukarya", "Bacteria", "Archaea"],
+            "real_world": "Classification is like your home address: Country (domain) → State (kingdom) → City (phylum) → Neighborhood (class) → Street (order) → House (family) → Room (genus) → You (species). Each level narrows down the location."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is the broadest level of classification?",
+              "options": ["Kingdom", "Species", "Domain", "Phylum"],
+              "correct": 2,
+              "hint": "It's the very first level in the hierarchy."
+            },
+            {
+              "type": "fill_in",
+              "question": "The mnemonic for the classification levels is: Dear King Philip Came Over For Good ___.",
+              "answer": "Spaghetti",
+              "hint": "The last level is Species, which starts with S."
+            },
+            {
+              "type": "true_false",
+              "question": "There are three domains: Bacteria, Archaea, and Eukarya.",
+              "answer": true,
+              "hint": "These are the broadest categories of life on Earth."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which level of classification is the most specific?",
+              "options": ["Domain", "Family", "Genus", "Species"],
+              "correct": 3,
+              "hint": "It's the last level — organisms that can interbreed and produce fertile offspring."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Humans, dogs, plants, and mushrooms all belong to which domain?",
+              "options": ["Bacteria", "Archaea", "Eukarya", "Animalia"],
+              "correct": 2,
+              "hint": "They all have cells with a nucleus."
+            },
+            {
+              "type": "fill_in",
+              "question": "The domain that includes all organisms whose cells have a nucleus is ___.",
+              "answer": "Eukarya",
+              "hint": "'Eu' means true and 'karya' relates to nucleus."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-3-3",
+          "title": "The Six Kingdoms",
+          "type": "lesson",
+          "content": {
+            "explanation": "Within the three domains, organisms are further divided into six kingdoms. The domain Bacteria contains the kingdom Bacteria — single-celled organisms without a nucleus (prokaryotes) that live almost everywhere on Earth. The domain Archaea contains the kingdom Archaea — also single-celled prokaryotes, but they often live in extreme environments like hot springs, deep ocean vents, and highly salty lakes. The domain Eukarya contains four kingdoms. The kingdom Protista includes mostly single-celled eukaryotes like amoebas and algae. The kingdom Fungi includes organisms like mushrooms, mold, and yeast — they absorb nutrients from their surroundings and have cell walls made of chitin. The kingdom Plantae includes multicellular organisms that make their own food through photosynthesis — they have cell walls made of cellulose. Finally, the kingdom Animalia includes multicellular organisms that consume other organisms for food, can usually move, and do not have cell walls. Humans belong to the kingdom Animalia.",
+            "examples": [
+              {
+                "problem": "What kingdom do mushrooms belong to?",
+                "answer": "Fungi",
+                "explanation": "Fungi are not plants! They don't photosynthesize. Instead, they absorb nutrients from decomposing organic matter in their environment."
+              },
+              {
+                "problem": "What is the difference between Bacteria and Archaea?",
+                "answer": "Both are single-celled prokaryotes, but Archaea often live in extreme environments and have different cell chemistry.",
+                "explanation": "Though they look similar under a microscope, Archaea have unique cell membranes and thrive in environments where most organisms can't survive."
+              }
+            ],
+            "key_vocabulary": ["Bacteria", "Archaea", "Protista", "Fungi", "Plantae", "Animalia", "prokaryote", "eukaryote", "chitin"],
+            "real_world": "The bread you eat uses yeast (kingdom Fungi) to rise. The lettuce on your sandwich is from kingdom Plantae. The turkey is from kingdom Animalia. Your lunch spans multiple kingdoms!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which kingdom includes organisms that make their own food through photosynthesis?",
+              "options": ["Animalia", "Fungi", "Plantae", "Protista"],
+              "correct": 2,
+              "hint": "These organisms are green because they have chloroplasts."
+            },
+            {
+              "type": "true_false",
+              "question": "Fungi are a type of plant.",
+              "answer": false,
+              "hint": "Fungi don't photosynthesize — they absorb nutrients from their environment."
+            },
+            {
+              "type": "fill_in",
+              "question": "Organisms whose cells lack a nucleus are called ___.",
+              "answer": "prokaryotes",
+              "hint": "'Pro' means before and 'karyon' means nucleus — these cells evolved before the nucleus."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do Archaea often live?",
+              "options": ["Only in the ocean", "In extreme environments like hot springs and salty lakes", "Only in forests", "Only inside animals"],
+              "correct": 1,
+              "hint": "They are famous for thriving in conditions that would kill most organisms."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many kingdoms are there in the modern classification system?",
+              "options": ["3", "4", "5", "6"],
+              "correct": 3,
+              "hint": "There are four kingdoms in Eukarya plus one each for Bacteria and Archaea."
+            },
+            {
+              "type": "true_false",
+              "question": "Animals have cell walls.",
+              "answer": false,
+              "hint": "Cell walls are found in plants (cellulose) and fungi (chitin), but not animals."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-3-4",
+          "title": "Vertebrates and Invertebrates",
+          "type": "lesson",
+          "content": {
+            "explanation": "Within the kingdom Animalia, one of the most fundamental divisions is between vertebrates and invertebrates. Vertebrates are animals that have a backbone (vertebral column or spine). They belong to the phylum Chordata and include five main classes: fish, amphibians, reptiles, birds, and mammals. Fish breathe through gills and live in water. Amphibians like frogs live both in water and on land and go through metamorphosis. Reptiles have dry, scaly skin and lay eggs on land. Birds have feathers, lay eggs, and most can fly. Mammals have hair or fur, are warm-blooded, and feed their young with milk. Invertebrates, on the other hand, are animals without a backbone. They make up about 97% of all animal species! Invertebrate groups include insects (the largest group of animals on Earth), arachnids (spiders), crustaceans (crabs, lobsters), mollusks (snails, octopuses), echinoderms (starfish, sea urchins), and cnidarians (jellyfish, coral). Despite being less well-known, invertebrates play crucial roles in ecosystems as pollinators, decomposers, and food sources.",
+            "examples": [
+              {
+                "problem": "Is a jellyfish a vertebrate or invertebrate?",
+                "answer": "Invertebrate",
+                "explanation": "Jellyfish have no backbone — in fact, they have no bones at all! They are cnidarians, a group of invertebrates that also includes coral and sea anemones."
+              },
+              {
+                "problem": "What are the five classes of vertebrates?",
+                "answer": "Fish, amphibians, reptiles, birds, and mammals",
+                "explanation": "Each class has distinguishing features: gills (fish), metamorphosis (amphibians), scales (reptiles), feathers (birds), and hair/milk (mammals)."
+              }
+            ],
+            "key_vocabulary": ["vertebrate", "invertebrate", "backbone", "Chordata", "amphibian", "reptile", "mammal", "insect", "mollusk", "echinoderm"],
+            "real_world": "If you step outside, most of the animals you see are invertebrates — ants, beetles, butterflies, spiders, and worms. Invertebrates vastly outnumber vertebrates on Earth."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What percentage of animal species are invertebrates?",
+              "options": ["About 10%", "About 50%", "About 75%", "About 97%"],
+              "correct": 3,
+              "hint": "The vast majority of animal species don't have a backbone."
+            },
+            {
+              "type": "fill_in",
+              "question": "Animals with a backbone are called ___.",
+              "answer": "vertebrates",
+              "hint": "The word comes from 'vertebra,' which is the name for the bones in the spine."
+            },
+            {
+              "type": "true_false",
+              "question": "Birds are mammals because they are warm-blooded.",
+              "answer": false,
+              "hint": "Being warm-blooded is not enough. Birds have feathers, while mammals have hair and produce milk."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which class of vertebrates goes through metamorphosis?",
+              "options": ["Mammals", "Reptiles", "Amphibians", "Fish"],
+              "correct": 2,
+              "hint": "Think about how a tadpole transforms into a frog."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Insects, arachnids, and crustaceans are all examples of:",
+              "options": ["Vertebrates", "Invertebrates", "Mammals", "Amphibians"],
+              "correct": 1,
+              "hint": "None of these animals have a backbone."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mammals feed their young with ___ and have hair or fur.",
+              "answer": "milk",
+              "hint": "This is one of the defining characteristics of mammals."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who developed the binomial nomenclature system?",
+            "options": ["Charles Darwin", "Carl Linnaeus", "Louis Pasteur", "Robert Hooke"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The domain is the most specific level of classification.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which kingdom includes mushrooms and yeast?",
+            "options": ["Plantae", "Animalia", "Fungi", "Protista"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the correct order from broadest to most specific?",
+            "options": ["Kingdom, Domain, Phylum, Class, Species", "Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species", "Species, Genus, Family, Order, Class", "Domain, Species, Kingdom, Phylum"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "About 97% of all animal species are invertebrates.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In the scientific name Felis catus (domestic cat), which word is the genus?",
+            "options": ["catus", "domestic", "Felis", "cat"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which of the following is NOT a kingdom in Eukarya?",
+            "options": ["Plantae", "Fungi", "Bacteria", "Animalia"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Amphibians breathe through gills their entire lives.",
+            "answer": false
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "classification_whiz"
+      }
+    },
+    {
+      "id": "6-sci-4",
+      "title": "Introduction to Chemistry: Atoms & Elements",
+      "description": "Dive into the world of chemistry! Learn about atoms — the tiny building blocks of all matter — and the elements that make up everything in the universe.",
+      "lessons": [
+        {
+          "id": "6-sci-4-1",
+          "title": "What is Matter?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Everything around you — the air you breathe, the water you drink, the chair you sit on, even you — is made of matter. Matter is anything that has mass and takes up space (volume). Matter exists in three common states: solid, liquid, and gas. In a solid, particles are tightly packed together in a fixed arrangement, giving solids a definite shape and volume. In a liquid, particles are close together but can slide past each other, so liquids have a definite volume but take the shape of their container. In a gas, particles are spread far apart and move freely, so gases have no definite shape or volume — they expand to fill any container. Matter can change states when energy (usually heat) is added or removed. Melting is the change from solid to liquid, evaporation is the change from liquid to gas, condensation is the change from gas to liquid, and freezing is the change from liquid to solid. All matter is made up of incredibly tiny particles called atoms.",
+            "examples": [
+              {
+                "problem": "Is air matter? Why or why not?",
+                "answer": "Yes, air is matter because it has mass and takes up space.",
+                "explanation": "Even though you can't see air, it is made of gas molecules. You can feel it when the wind blows, and a balloon inflated with air weighs more than an empty one."
+              },
+              {
+                "problem": "What happens to water particles when water freezes?",
+                "answer": "The particles slow down and arrange themselves into a fixed, rigid structure (ice).",
+                "explanation": "When heat energy is removed, liquid water particles lose energy, move more slowly, and lock into a solid crystalline pattern."
+              }
+            ],
+            "key_vocabulary": ["matter", "mass", "volume", "solid", "liquid", "gas", "melting", "evaporation", "condensation", "freezing", "atom"],
+            "real_world": "When you boil water on the stove, you can see it change state from liquid to gas (steam). When you put water in the freezer, it changes from liquid to solid (ice). Same substance, different states!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is matter?",
+              "options": ["Anything you can see", "Anything that has mass and takes up space", "Only solids and liquids", "Only things that are alive"],
+              "correct": 1,
+              "hint": "Even air and invisible gases are matter."
+            },
+            {
+              "type": "fill_in",
+              "question": "The change from a liquid to a gas is called ___.",
+              "answer": "evaporation",
+              "hint": "Think about what happens when a puddle disappears on a hot day."
+            },
+            {
+              "type": "true_false",
+              "question": "In a gas, particles are tightly packed in a fixed arrangement.",
+              "answer": false,
+              "hint": "That describes a solid. Gas particles are spread far apart and move freely."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which state of matter has a definite volume but no definite shape?",
+              "options": ["Solid", "Liquid", "Gas", "Plasma"],
+              "correct": 1,
+              "hint": "This state takes the shape of its container but doesn't expand to fill it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the process of a gas changing to a liquid called?",
+              "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+              "correct": 3,
+              "hint": "Think about water droplets forming on the outside of a cold glass."
+            },
+            {
+              "type": "fill_in",
+              "question": "All matter is made up of tiny particles called ___.",
+              "answer": "atoms",
+              "hint": "These are the fundamental building blocks of all matter."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-4-2",
+          "title": "Atoms: The Building Blocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "An atom is the smallest particle of an element that still has the properties of that element. Atoms are incredibly tiny — millions of them could fit on the period at the end of this sentence. Despite their small size, atoms are made of even smaller particles called subatomic particles. At the center of the atom is the nucleus, which contains protons and neutrons. Protons have a positive electrical charge (+) and neutrons have no charge (they are neutral). Orbiting around the nucleus in regions called electron shells are electrons, which have a negative electrical charge (-). In a neutral atom, the number of protons equals the number of electrons, so the positive and negative charges balance out. The number of protons in an atom determines what element it is — this is called the atomic number. For example, every hydrogen atom has exactly 1 proton, every carbon atom has 6 protons, and every oxygen atom has 8 protons. The mass of an atom comes mainly from its protons and neutrons, since electrons have very little mass.",
+            "examples": [
+              {
+                "problem": "What three subatomic particles make up an atom?",
+                "answer": "Protons (positive), neutrons (neutral), and electrons (negative)",
+                "explanation": "Protons and neutrons are in the nucleus at the center, while electrons orbit around the outside in electron shells."
+              },
+              {
+                "problem": "If an atom has 8 protons, what element is it?",
+                "answer": "Oxygen",
+                "explanation": "The atomic number (number of protons) determines the element. Oxygen always has 8 protons."
+              }
+            ],
+            "key_vocabulary": ["atom", "subatomic particle", "proton", "neutron", "electron", "nucleus", "atomic number", "charge", "electron shell"],
+            "real_world": "Everything you touch, eat, and breathe is made of atoms. Your body is made mostly of oxygen, carbon, hydrogen, and nitrogen atoms — about 7 octillion (7,000,000,000,000,000,000,000,000,000) of them!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which subatomic particle has a positive charge?",
+              "options": ["Electron", "Neutron", "Proton", "Nucleus"],
+              "correct": 2,
+              "hint": "Think: Proton = Positive. Both start with 'P'."
+            },
+            {
+              "type": "fill_in",
+              "question": "The number of ___ determines what element an atom is.",
+              "answer": "protons",
+              "hint": "This number is called the atomic number."
+            },
+            {
+              "type": "true_false",
+              "question": "Electrons are found inside the nucleus of an atom.",
+              "answer": false,
+              "hint": "Electrons orbit around the nucleus in electron shells."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where are protons and neutrons located?",
+              "options": ["In the electron shells", "Outside the atom", "In the nucleus", "Floating freely"],
+              "correct": 2,
+              "hint": "They are in the dense center of the atom."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a neutral atom, the number of protons equals the number of:",
+              "options": ["Neutrons", "Electrons", "Molecules", "Nuclei"],
+              "correct": 1,
+              "hint": "The positive and negative charges must balance out."
+            },
+            {
+              "type": "fill_in",
+              "question": "A neutron has ___ electrical charge.",
+              "answer": "no",
+              "hint": "The word 'neutron' sounds like 'neutral,' which means no charge."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-4-3",
+          "title": "Elements and the Periodic Table",
+          "type": "lesson",
+          "content": {
+            "explanation": "An element is a pure substance made of only one type of atom. There are currently 118 known elements, and they are organized in the periodic table. Each element has a chemical symbol — one or two letters that represent it. For example, H is hydrogen, O is oxygen, C is carbon, Fe is iron (from the Latin 'ferrum'), and Au is gold (from the Latin 'aurum'). The periodic table arranges elements by their atomic number (number of protons) from left to right and top to bottom. Elements in the same column (called a group or family) have similar chemical properties because they have the same number of electrons in their outermost shell. Elements in the same row (called a period) have the same number of electron shells. The periodic table is divided into three main categories: metals (left and center — shiny, conduct heat and electricity, malleable), nonmetals (right side — poor conductors, brittle as solids), and metalloids (along the staircase line — have properties of both metals and nonmetals, used in computer chips).",
+            "examples": [
+              {
+                "problem": "What is the chemical symbol for gold?",
+                "answer": "Au",
+                "explanation": "Au comes from the Latin word 'aurum.' Many element symbols come from Latin or Greek names."
+              },
+              {
+                "problem": "Why are elements in the same group (column) of the periodic table similar?",
+                "answer": "They have the same number of electrons in their outermost shell, giving them similar chemical properties.",
+                "explanation": "For example, the noble gases (Group 18) all have full outer electron shells, which is why they are all unreactive."
+              }
+            ],
+            "key_vocabulary": ["element", "periodic table", "chemical symbol", "group", "period", "metal", "nonmetal", "metalloid", "atomic number"],
+            "real_world": "The elements in the periodic table make up everything in the universe. The oxygen you breathe, the iron in your blood, the calcium in your bones, and the silicon in your phone's computer chip are all elements."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the chemical symbol for oxygen?",
+              "options": ["Ox", "O", "Og", "Oy"],
+              "correct": 1,
+              "hint": "It's a single letter — the first letter of the element's name."
+            },
+            {
+              "type": "fill_in",
+              "question": "The elements in the periodic table are arranged by their ___.",
+              "answer": "atomic number",
+              "hint": "This is the number of protons in an atom of that element."
+            },
+            {
+              "type": "true_false",
+              "question": "Metals are generally good conductors of heat and electricity.",
+              "answer": true,
+              "hint": "That's why electrical wires are made of copper (a metal)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Elements in the same column (group) of the periodic table have:",
+              "options": ["The same number of protons", "Similar chemical properties", "The same atomic mass", "Nothing in common"],
+              "correct": 1,
+              "hint": "They have the same number of outer electrons, which determines how they react."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which category of elements is found along the staircase line of the periodic table?",
+              "options": ["Metals", "Nonmetals", "Metalloids", "Noble gases"],
+              "correct": 2,
+              "hint": "These elements have properties of both metals and nonmetals."
+            },
+            {
+              "type": "fill_in",
+              "question": "The chemical symbol for iron is ___, which comes from the Latin word 'ferrum.'",
+              "answer": "Fe",
+              "hint": "It's the first two letters of the Latin name."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-4-4",
+          "title": "Molecules and Compounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Atoms rarely exist alone — they bond together to form molecules. A molecule is two or more atoms bonded together. When a molecule is made of atoms of the same element, it is called a molecular element. For example, oxygen gas (O2) is two oxygen atoms bonded together. When a molecule is made of atoms of two or more different elements, it is called a compound. Water (H2O) is a compound made of two hydrogen atoms and one oxygen atom. Carbon dioxide (CO2) is a compound made of one carbon atom and two oxygen atoms. The small numbers in chemical formulas (called subscripts) tell you how many atoms of each element are in one molecule. The properties of a compound are often very different from the properties of the elements that make it up. For example, hydrogen is a flammable gas and oxygen supports combustion, but water (made of both) puts out fires! Compounds can only be separated back into their elements by chemical reactions, not by physical means like filtering or boiling.",
+            "examples": [
+              {
+                "problem": "What elements make up water (H2O)?",
+                "answer": "Hydrogen (H) and Oxygen (O) — specifically 2 hydrogen atoms and 1 oxygen atom.",
+                "explanation": "The subscript 2 after H means there are 2 hydrogen atoms. When there's no subscript (like after O), it means there is 1 atom."
+              },
+              {
+                "problem": "Is O2 a compound?",
+                "answer": "No, O2 is a molecule but not a compound because it contains only one type of element (oxygen).",
+                "explanation": "A compound must contain atoms of two or more different elements. O2 has only oxygen atoms."
+              }
+            ],
+            "key_vocabulary": ["molecule", "compound", "chemical formula", "subscript", "bond", "molecular element", "H2O", "CO2", "O2"],
+            "real_world": "Table salt (NaCl) is a compound made of sodium — a reactive metal that explodes in water — and chlorine — a poisonous gas. But together as a compound, they form something safe and delicious that you put on your food!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many oxygen atoms are in one molecule of CO2?",
+              "options": ["1", "2", "3", "4"],
+              "correct": 1,
+              "hint": "The subscript 2 after O tells you the number of oxygen atoms."
+            },
+            {
+              "type": "fill_in",
+              "question": "A ___ is made of atoms of two or more different elements bonded together.",
+              "answer": "compound",
+              "hint": "Water (H2O) is an example — it has hydrogen and oxygen."
+            },
+            {
+              "type": "true_false",
+              "question": "The properties of a compound are always the same as the properties of its individual elements.",
+              "answer": false,
+              "hint": "Think about how hydrogen is flammable but water puts out fires."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the subscript '2' in H2O represent?",
+              "options": ["2 water molecules", "2 hydrogen atoms", "2 oxygen atoms", "2 compounds"],
+              "correct": 1,
+              "hint": "The subscript comes right after the H, so it refers to hydrogen atoms."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a compound?",
+              "options": ["O2 (oxygen gas)", "N2 (nitrogen gas)", "NaCl (table salt)", "Fe (iron)"],
+              "correct": 2,
+              "hint": "A compound must contain two or more different elements."
+            },
+            {
+              "type": "true_false",
+              "question": "All molecules are compounds.",
+              "answer": false,
+              "hint": "O2 is a molecule, but it's not a compound since it only contains one element."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-4-5",
+          "title": "Chemical vs. Physical Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Matter can undergo two types of changes: physical changes and chemical changes. A physical change alters the form or appearance of matter but does not change what the substance is. Examples include melting ice (still water, just in liquid form), cutting paper (still paper, just smaller), and dissolving sugar in water (the sugar molecules are still there). In a physical change, no new substance is created, and the change is often reversible. A chemical change, on the other hand, produces one or more new substances with different properties. Signs of a chemical change include: producing gas (bubbles), changing color, producing light or heat, forming a precipitate (solid from two liquids), and being difficult or impossible to reverse. Examples include burning wood (produces ash, smoke, and carbon dioxide — all new substances), rusting iron (iron combines with oxygen to form iron oxide), and cooking an egg (the proteins change permanently). The key difference is that physical changes are changes in form, while chemical changes are changes in substance.",
+            "examples": [
+              {
+                "problem": "Is melting butter a physical or chemical change?",
+                "answer": "Physical change",
+                "explanation": "Melting butter changes its state from solid to liquid, but it's still butter. If you put it in the fridge, it will solidify again. No new substance was created."
+              },
+              {
+                "problem": "Is burning paper a physical or chemical change?",
+                "answer": "Chemical change",
+                "explanation": "Burning paper produces ash, smoke, carbon dioxide, and water vapor — all different substances from the original paper. You cannot un-burn paper."
+              }
+            ],
+            "key_vocabulary": ["physical change", "chemical change", "reversible", "irreversible", "precipitate", "combustion", "oxidation", "rust"],
+            "real_world": "When you bake cookies, you mix ingredients (physical changes) and then bake them (chemical changes). The heat causes chemical reactions that turn the dough into something completely different — you can't un-bake a cookie!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a chemical change?",
+              "options": ["Cutting wood", "Melting ice", "Rusting iron", "Dissolving salt in water"],
+              "correct": 2,
+              "hint": "In this change, iron combines with oxygen to form a completely new substance."
+            },
+            {
+              "type": "true_false",
+              "question": "Dissolving sugar in water is a chemical change.",
+              "answer": false,
+              "hint": "The sugar is still sugar — it's just spread out among the water molecules."
+            },
+            {
+              "type": "fill_in",
+              "question": "Signs of a chemical change include producing gas, changing color, and producing ___.",
+              "answer": "heat",
+              "hint": "Many chemical reactions release energy in this form — think about burning."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a sign of a chemical change?",
+              "options": ["Change in color", "Production of gas", "Change in shape", "Production of heat or light"],
+              "correct": 2,
+              "hint": "Changing shape (like cutting or folding) is typically a physical change."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Is cooking an egg a physical or chemical change?",
+              "options": ["Physical change", "Chemical change", "Neither", "Both"],
+              "correct": 1,
+              "hint": "Can you un-cook an egg? The proteins have permanently changed."
+            },
+            {
+              "type": "true_false",
+              "question": "Physical changes are usually reversible, while chemical changes are usually not.",
+              "answer": true,
+              "hint": "Think about melting ice (reversible) vs. burning wood (not reversible)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What are the three subatomic particles in an atom?",
+            "options": ["Protons, electrons, and atoms", "Protons, neutrons, and electrons", "Molecules, neutrons, and electrons", "Protons, neutrons, and compounds"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Protons have a negative charge.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does the atomic number of an element represent?",
+            "options": ["Number of neutrons", "Number of electrons only", "Number of protons", "Total mass of the atom"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How many hydrogen atoms are in one molecule of H2O?",
+            "options": ["1", "2", "3", "4"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Rusting iron is a physical change.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which of the following is a compound?",
+            "options": ["O2", "Fe", "NaCl", "N2"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Where on the periodic table are metals generally found?",
+            "options": ["Right side", "Along the staircase line", "Left and center", "Only the top row"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Matter is anything that has mass and takes up space.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which state of matter has particles that are spread far apart and move freely?",
+            "options": ["Solid", "Liquid", "Gas", "Compound"],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "chemistry_starter"
+      }
+    },
+    {
+      "id": "6-sci-5",
+      "title": "Forces & Motion Basics",
+      "description": "Explore what makes things move, stop, and change direction. Learn about forces, speed, acceleration, and gravity.",
+      "lessons": [
+        {
+          "id": "6-sci-5-1",
+          "title": "What is a Force?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A force is a push or a pull that can change an object's motion, shape, or direction. Forces are measured in units called Newtons (N), named after Sir Isaac Newton. Forces can be contact forces (requiring physical touch) or non-contact forces (acting at a distance). Contact forces include friction (resistance when surfaces rub together), applied force (pushing or pulling an object), tension (force through a rope or string), and normal force (the support force from a surface). Non-contact forces include gravity (the pull between objects with mass), magnetic force (attraction or repulsion between magnets), and electrostatic force (between charged objects). Forces have both magnitude (how strong) and direction, so they are represented with arrows. When multiple forces act on an object, they combine to create a net force. If forces are balanced (equal in strength but opposite in direction), the net force is zero and the object won't change its motion. If forces are unbalanced, the object will accelerate — speed up, slow down, or change direction.",
+            "examples": [
+              {
+                "problem": "Two people push a box from opposite sides with equal force. What happens?",
+                "answer": "The box stays still because the forces are balanced (net force is zero).",
+                "explanation": "When two equal forces push in opposite directions, they cancel each other out. The net force is zero, so the motion doesn't change."
+              },
+              {
+                "problem": "What type of force is gravity?",
+                "answer": "A non-contact force",
+                "explanation": "Gravity acts at a distance — the Earth pulls you toward it without touching you. You don't need physical contact for gravity to work."
+              }
+            ],
+            "key_vocabulary": ["force", "Newton", "contact force", "non-contact force", "friction", "gravity", "net force", "balanced forces", "unbalanced forces"],
+            "real_world": "When you ride a bike, you use applied force on the pedals, friction between the tires and road keeps you from sliding, gravity keeps you on the ground, and air resistance (a type of friction) slows you down."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a force?",
+              "options": ["A type of energy", "A push or pull that can change motion", "Only gravity", "Only friction"],
+              "correct": 1,
+              "hint": "Forces include pushes, pulls, and many other interactions."
+            },
+            {
+              "type": "fill_in",
+              "question": "Forces are measured in units called ___.",
+              "answer": "Newtons",
+              "hint": "Named after the famous scientist who studied gravity and motion."
+            },
+            {
+              "type": "true_false",
+              "question": "Gravity is a contact force.",
+              "answer": false,
+              "hint": "Gravity acts at a distance — the Earth pulls you without touching you."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When forces on an object are balanced, what is the net force?",
+              "options": ["Positive", "Negative", "Zero", "Double"],
+              "correct": 2,
+              "hint": "Balanced forces cancel each other out."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a non-contact force?",
+              "options": ["Friction", "Applied force", "Tension", "Magnetic force"],
+              "correct": 3,
+              "hint": "This force can act between objects without them touching."
+            },
+            {
+              "type": "true_false",
+              "question": "Unbalanced forces cause an object to accelerate.",
+              "answer": true,
+              "hint": "When forces don't cancel out, the object changes its motion."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-5-2",
+          "title": "Speed, Velocity, and Acceleration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Speed tells you how fast an object is moving. It is calculated by dividing the distance traveled by the time it took: Speed = Distance / Time. Speed is measured in units like meters per second (m/s) or miles per hour (mph). Average speed is the total distance divided by the total time for a trip. Velocity is similar to speed, but it also includes direction. So while speed might be '60 mph,' velocity would be '60 mph north.' Acceleration is the rate at which velocity changes over time. An object accelerates when it speeds up, slows down, or changes direction. Acceleration is calculated by: Acceleration = (Final velocity - Starting velocity) / Time. If a car goes from 0 to 60 mph in 10 seconds, its acceleration is 6 mph per second. Positive acceleration means speeding up, and negative acceleration (deceleration) means slowing down. An object moving at constant speed in a straight line has zero acceleration.",
+            "examples": [
+              {
+                "problem": "A car travels 120 miles in 2 hours. What is its average speed?",
+                "answer": "60 miles per hour",
+                "explanation": "Speed = Distance / Time = 120 miles / 2 hours = 60 mph."
+              },
+              {
+                "problem": "A cyclist increases speed from 5 m/s to 15 m/s in 5 seconds. What is the acceleration?",
+                "answer": "2 m/s²",
+                "explanation": "Acceleration = (Final - Starting) / Time = (15 - 5) / 5 = 10 / 5 = 2 m/s²."
+              }
+            ],
+            "key_vocabulary": ["speed", "velocity", "acceleration", "deceleration", "distance", "time", "meters per second", "average speed"],
+            "real_world": "When your car's speedometer reads 55 mph, that's your instantaneous speed. But if your whole trip of 110 miles took 2 hours (including stops), your average speed was 55 mph."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How do you calculate speed?",
+              "options": ["Speed = Time / Distance", "Speed = Distance × Time", "Speed = Distance / Time", "Speed = Force × Distance"],
+              "correct": 2,
+              "hint": "Think about how far something goes divided by how long it takes."
+            },
+            {
+              "type": "fill_in",
+              "question": "A runner covers 400 meters in 50 seconds. The runner's speed is ___ m/s.",
+              "answer": "8",
+              "hint": "Divide the distance (400) by the time (50)."
+            },
+            {
+              "type": "true_false",
+              "question": "Velocity includes both speed and direction.",
+              "answer": true,
+              "hint": "Speed is just how fast; velocity is how fast AND in what direction."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is happening when an object has negative acceleration?",
+              "options": ["Speeding up", "Slowing down", "Staying the same speed", "Moving backward"],
+              "correct": 1,
+              "hint": "Negative acceleration is also called deceleration."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A bike travels 30 km in 3 hours. What is the average speed?",
+              "options": ["90 km/h", "10 km/h", "33 km/h", "27 km/h"],
+              "correct": 1,
+              "hint": "Speed = Distance / Time = 30 / 3."
+            },
+            {
+              "type": "fill_in",
+              "question": "The rate at which velocity changes over time is called ___.",
+              "answer": "acceleration",
+              "hint": "This can mean speeding up, slowing down, or changing direction."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-5-3",
+          "title": "Gravity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gravity is the force of attraction between any two objects that have mass. Every object with mass pulls on every other object with mass. The strength of gravity depends on two things: the masses of the objects and the distance between them. The greater the mass, the stronger the gravitational pull. The greater the distance, the weaker the pull. On Earth, gravity pulls everything toward the center of the planet with an acceleration of about 9.8 m/s². This means that a falling object (ignoring air resistance) speeds up by 9.8 m/s every second it falls. Weight is the measure of the force of gravity on an object, calculated as Weight = Mass × Gravity. Weight is measured in Newtons, while mass is measured in kilograms. Your mass stays the same everywhere, but your weight changes depending on the strength of gravity. For example, you would weigh about 1/6 as much on the Moon because the Moon has less mass than Earth, so its gravity is weaker. Isaac Newton famously described the law of universal gravitation, which states that every object in the universe attracts every other object.",
+            "examples": [
+              {
+                "problem": "Why do you weigh less on the Moon than on Earth?",
+                "answer": "The Moon has less mass than Earth, so its gravitational pull is weaker.",
+                "explanation": "Your mass (the amount of matter in you) stays the same, but weight depends on gravity. The Moon's gravity is about 1/6 of Earth's."
+              },
+              {
+                "problem": "What is the difference between mass and weight?",
+                "answer": "Mass is the amount of matter in an object (measured in kg), while weight is the force of gravity on that object (measured in Newtons).",
+                "explanation": "Mass doesn't change based on location. Weight does, because it depends on gravity."
+              }
+            ],
+            "key_vocabulary": ["gravity", "mass", "weight", "Newtons", "acceleration due to gravity", "universal gravitation", "Isaac Newton"],
+            "real_world": "Astronauts on the International Space Station experience microgravity — they appear weightless and float around! But they still have the same mass as on Earth."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What two factors affect the strength of gravity between two objects?",
+              "options": ["Color and size", "Mass and distance", "Temperature and speed", "Shape and weight"],
+              "correct": 1,
+              "hint": "More mass means stronger gravity; more distance means weaker gravity."
+            },
+            {
+              "type": "fill_in",
+              "question": "Weight is measured in ___, while mass is measured in kilograms.",
+              "answer": "Newtons",
+              "hint": "Weight is a force, and forces are measured in this unit."
+            },
+            {
+              "type": "true_false",
+              "question": "Your mass changes when you travel to the Moon.",
+              "answer": false,
+              "hint": "Mass is the amount of matter in you — it doesn't change with location."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On Earth, gravity accelerates falling objects at approximately:",
+              "options": ["1 m/s²", "5 m/s²", "9.8 m/s²", "20 m/s²"],
+              "correct": 2,
+              "hint": "It's close to 10 m/s² — a falling object speeds up by this much every second."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who described the law of universal gravitation?",
+              "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Carl Linnaeus"],
+              "correct": 1,
+              "hint": "The unit for force (Newton) is named after him."
+            },
+            {
+              "type": "true_false",
+              "question": "Gravity only acts between very large objects like planets and stars.",
+              "answer": false,
+              "hint": "Every object with mass has gravity — even you! But for small objects, the force is too small to notice."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-5-4",
+          "title": "Friction and Air Resistance",
+          "type": "lesson",
+          "content": {
+            "explanation": "Friction is a force that opposes the motion of objects that are in contact with each other. It acts in the opposite direction of movement, which is why things slow down and eventually stop when you stop pushing them. There are several types of friction. Static friction keeps a stationary object from moving — it's why a book on a tilted desk doesn't always slide off. Sliding friction (also called kinetic friction) acts on objects that are already moving across a surface. Rolling friction acts on objects that roll, like wheels, and is much less than sliding friction — that's why wheels were such an important invention! The amount of friction depends on two factors: how hard the surfaces are pressed together and how rough the surfaces are. Smooth surfaces have less friction than rough ones. Air resistance (drag) is a type of friction between an object and the air around it. It increases with speed and surface area. Parachutes work by creating a lot of air resistance, which slows the fall. Friction is not always a bad thing — without it, you couldn't walk, cars couldn't stop, and you couldn't hold a pencil.",
+            "examples": [
+              {
+                "problem": "Why is it easier to push a box on a smooth tile floor than on rough carpet?",
+                "answer": "There is less friction on the smooth tile surface.",
+                "explanation": "Rough surfaces create more friction because there are more bumps and grooves for the surfaces to catch on."
+              },
+              {
+                "problem": "How do parachutes slow you down?",
+                "answer": "They increase air resistance by creating a large surface area that catches the air.",
+                "explanation": "The large canopy of a parachute creates tremendous air resistance (drag), which counteracts gravity and slows the descent."
+              }
+            ],
+            "key_vocabulary": ["friction", "static friction", "sliding friction", "rolling friction", "air resistance", "drag", "surface area", "kinetic friction"],
+            "real_world": "Bowling alleys are oiled so that there is less friction, allowing the ball to glide smoothly. Meanwhile, basketball players want friction between their shoes and the court so they don't slip."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What direction does friction act relative to motion?",
+              "options": ["Same direction as motion", "Opposite direction of motion", "Perpendicular to motion", "Random direction"],
+              "correct": 1,
+              "hint": "Friction resists and opposes motion."
+            },
+            {
+              "type": "fill_in",
+              "question": "The type of friction that prevents a stationary object from moving is called ___ friction.",
+              "answer": "static",
+              "hint": "'Static' means not moving."
+            },
+            {
+              "type": "true_false",
+              "question": "Rolling friction is greater than sliding friction.",
+              "answer": false,
+              "hint": "That's why we invented wheels — they reduce friction."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What two factors determine the amount of friction?",
+              "options": ["Color and temperature", "How hard surfaces are pressed together and surface roughness", "Speed and direction", "Mass and volume"],
+              "correct": 1,
+              "hint": "Think about what makes it harder to slide surfaces against each other."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do parachutes work?",
+              "options": ["They create gravity", "They increase air resistance", "They reduce mass", "They increase speed"],
+              "correct": 1,
+              "hint": "The large canopy catches a lot of air."
+            },
+            {
+              "type": "true_false",
+              "question": "Without friction, we would not be able to walk.",
+              "answer": true,
+              "hint": "Friction between your shoes and the ground is what gives you traction to push off."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the formula for speed?",
+            "options": ["Speed = Time × Distance", "Speed = Distance / Time", "Speed = Force / Mass", "Speed = Mass × Acceleration"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Balanced forces cause an object to accelerate.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The force of gravity depends on:",
+            "options": ["Color and shape", "Mass and distance", "Speed and time", "Temperature and size"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What type of friction acts on objects that are already sliding?",
+            "options": ["Static friction", "Rolling friction", "Sliding (kinetic) friction", "Air resistance"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Weight and mass are the same thing.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A car goes from 0 to 40 m/s in 8 seconds. What is its acceleration?",
+            "options": ["5 m/s²", "48 m/s²", "32 m/s²", "320 m/s²"],
+            "correct": 0
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Forces are measured in units called:",
+            "options": ["Kilograms", "Meters", "Newtons", "Watts"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "An object moving at constant speed in a straight line has zero acceleration.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "forces_motion_hero"
+      }
+    },
+    {
+      "id": "6-sci-6",
+      "title": "Earth's Atmosphere & Weather Systems",
+      "description": "Look up at the sky and learn about the layers of Earth's atmosphere, what causes weather, and how to read weather patterns and forecasts.",
+      "lessons": [
+        {
+          "id": "6-sci-6-1",
+          "title": "Layers of the Atmosphere",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth's atmosphere is a thin layer of gases that surrounds the planet. It is held in place by gravity and is essential for life. The atmosphere is divided into five main layers based on temperature changes with altitude. The troposphere is the lowest layer (0-12 km) where all weather occurs and where we live. Temperature decreases with altitude in this layer. The stratosphere (12-50 km) contains the ozone layer, which absorbs harmful ultraviolet (UV) radiation from the Sun. Temperature increases with altitude here because of the ozone's absorption of UV rays. Commercial jets often fly in the lower stratosphere. The mesosphere (50-80 km) is where most meteors burn up upon entering Earth's atmosphere — we see these as 'shooting stars.' Temperature decreases again in this layer. The thermosphere (80-700 km) is where the aurora borealis (northern lights) occurs and where the International Space Station orbits. Despite extremely high temperatures (up to 2,000°C), it wouldn't feel hot because the air particles are so spread out. The exosphere (700+ km) is the outermost layer where the atmosphere gradually fades into space.",
+            "examples": [
+              {
+                "problem": "In which layer of the atmosphere does weather occur?",
+                "answer": "The troposphere",
+                "explanation": "All weather (clouds, rain, snow, storms) occurs in the troposphere because it contains most of the atmosphere's water vapor and is where convection currents are strongest."
+              },
+              {
+                "problem": "Which layer contains the ozone layer?",
+                "answer": "The stratosphere",
+                "explanation": "The ozone layer absorbs most of the Sun's harmful UV radiation, protecting life on Earth. That's why the stratosphere warms with altitude."
+              }
+            ],
+            "key_vocabulary": ["atmosphere", "troposphere", "stratosphere", "mesosphere", "thermosphere", "exosphere", "ozone layer", "ultraviolet radiation"],
+            "real_world": "When you see a shooting star, you're watching a small piece of space rock (meteor) burn up in the mesosphere due to friction with air molecules. Most are no bigger than a grain of sand!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In which layer of the atmosphere do we live?",
+              "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+              "correct": 1,
+              "hint": "It's the lowest layer, where all weather occurs."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ layer in the stratosphere protects us from harmful ultraviolet radiation.",
+              "answer": "ozone",
+              "hint": "This layer absorbs UV rays from the Sun."
+            },
+            {
+              "type": "true_false",
+              "question": "The mesosphere is where most meteors burn up.",
+              "answer": true,
+              "hint": "These burning meteors are what we see as 'shooting stars.'"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which layer is the farthest from Earth's surface?",
+              "options": ["Troposphere", "Thermosphere", "Mesosphere", "Exosphere"],
+              "correct": 3,
+              "hint": "The prefix 'exo-' means outside."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The International Space Station orbits in which layer?",
+              "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Exosphere"],
+              "correct": 2,
+              "hint": "It orbits at about 400 km above Earth's surface."
+            },
+            {
+              "type": "fill_in",
+              "question": "Earth's atmosphere is held in place by ___.",
+              "answer": "gravity",
+              "hint": "This force keeps gases from floating away into space."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-6-2",
+          "title": "Air Pressure and Wind",
+          "type": "lesson",
+          "content": {
+            "explanation": "Air has weight, and when it presses down on Earth's surface, it creates air pressure (also called atmospheric pressure or barometric pressure). At sea level, the air pressure is about 14.7 pounds per square inch — that means there are about 14.7 pounds of air pressing on every square inch of your body! You don't feel it because your body pushes back with equal force. Air pressure varies from place to place and changes with altitude — the higher you go, the lower the pressure because there is less air above you. Differences in air pressure create wind. Air moves from areas of high pressure to areas of low pressure. The greater the pressure difference, the stronger the wind. Uneven heating of Earth's surface by the Sun causes these pressure differences. Land heats up and cools down faster than water, creating local winds like sea breezes (wind from sea to land during the day) and land breezes (wind from land to sea at night). Global wind patterns, like the trade winds and westerlies, are created by large-scale pressure differences combined with Earth's rotation (the Coriolis effect).",
+            "examples": [
+              {
+                "problem": "Why does air pressure decrease as you go higher in altitude?",
+                "answer": "Because there is less air above you pressing down.",
+                "explanation": "At the top of a mountain, there's a shorter column of air above you, so the pressure is less. That's why your ears might pop on a plane — the pressure changes."
+              },
+              {
+                "problem": "What causes wind?",
+                "answer": "Air moving from areas of high pressure to areas of low pressure.",
+                "explanation": "Think of air like water — it flows from where there's more to where there's less. Bigger pressure differences create stronger winds."
+              }
+            ],
+            "key_vocabulary": ["air pressure", "barometric pressure", "wind", "sea breeze", "land breeze", "Coriolis effect", "high pressure", "low pressure"],
+            "real_world": "When a weather forecaster says a 'low pressure system' is approaching, it usually means clouds and rain are coming. High pressure areas typically bring clear, sunny weather."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Wind is caused by:",
+              "options": ["Earth spinning", "Air moving from high pressure to low pressure", "The Moon's gravity", "Ocean currents"],
+              "correct": 1,
+              "hint": "Air naturally moves from where there's more pressure to where there's less."
+            },
+            {
+              "type": "true_false",
+              "question": "Air pressure increases as you go higher in altitude.",
+              "answer": false,
+              "hint": "There's less air above you at higher altitudes."
+            },
+            {
+              "type": "fill_in",
+              "question": "During the day, a ___ breeze blows from the sea toward the land.",
+              "answer": "sea",
+              "hint": "Land heats faster than water, creating low pressure over land that draws air from the sea."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does a barometer measure?",
+              "options": ["Temperature", "Wind speed", "Air pressure", "Humidity"],
+              "correct": 2,
+              "hint": "The word 'barometric' in 'barometric pressure' gives a clue."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What type of weather does high pressure usually bring?",
+              "options": ["Storms and rain", "Clear and sunny skies", "Tornadoes", "Blizzards"],
+              "correct": 1,
+              "hint": "High pressure pushes air down, which prevents clouds from forming."
+            },
+            {
+              "type": "true_false",
+              "question": "The greater the difference in air pressure between two areas, the stronger the wind.",
+              "answer": true,
+              "hint": "A big pressure difference means air rushes faster from high to low pressure."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-6-3",
+          "title": "Weather vs. Climate and Cloud Types",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weather and climate are related but different. Weather describes the atmospheric conditions at a specific place and time — it can change from hour to hour or day to day. Climate is the average weather pattern in a region over a long period of time (usually 30 years or more). For example, the weather today might be rainy, but the climate of a desert is dry. Clouds are a key part of weather. They form when warm, moist air rises and cools, causing water vapor to condense on tiny particles in the air. There are three main cloud types based on shape: cumulus clouds are puffy, white, flat-bottomed clouds that often mean fair weather (though cumulonimbus clouds bring thunderstorms). Stratus clouds are flat, gray, sheet-like clouds that often cover the whole sky and can bring drizzle or light rain. Cirrus clouds are thin, wispy, high-altitude clouds made of ice crystals that usually indicate fair weather but can signal an approaching warm front. The prefix 'nimbo-' or suffix '-nimbus' means rain-producing. So nimbostratus clouds bring steady rain, and cumulonimbus clouds bring thunderstorms.",
+            "examples": [
+              {
+                "problem": "What's the difference between weather and climate?",
+                "answer": "Weather is short-term atmospheric conditions; climate is the average weather over a long period.",
+                "explanation": "Think of it this way: weather is what you wear today, climate is what's in your wardrobe. Weather changes daily; climate is the long-term pattern."
+              },
+              {
+                "problem": "What type of cloud is tall, puffy, and brings thunderstorms?",
+                "answer": "Cumulonimbus",
+                "explanation": "Cumulonimbus clouds are towering cumulus clouds that have grown very tall. The '-nimbus' suffix tells you they are rain-producing."
+              }
+            ],
+            "key_vocabulary": ["weather", "climate", "cumulus", "stratus", "cirrus", "cumulonimbus", "nimbostratus", "condensation", "water vapor"],
+            "real_world": "Weather forecasters use satellite images, radar, and weather balloons to track clouds and storms. Next time you're outside, try identifying cloud types — you can predict the weather like a meteorologist!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the difference between weather and climate?",
+              "options": ["They are the same thing", "Weather is long-term, climate is short-term", "Weather is short-term conditions, climate is long-term averages", "Climate only refers to temperature"],
+              "correct": 2,
+              "hint": "Think: weather is what you get today, climate is what you expect over years."
+            },
+            {
+              "type": "fill_in",
+              "question": "Thin, wispy clouds made of ice crystals at high altitudes are called ___ clouds.",
+              "answer": "cirrus",
+              "hint": "They look like feathery wisps high in the sky."
+            },
+            {
+              "type": "true_false",
+              "question": "The suffix '-nimbus' in a cloud name means it produces rain.",
+              "answer": true,
+              "hint": "Cumulonimbus and nimbostratus are both rain-producing cloud types."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of cloud is flat and gray and often covers the whole sky?",
+              "options": ["Cumulus", "Cirrus", "Stratus", "Cumulonimbus"],
+              "correct": 2,
+              "hint": "These clouds look like a gray sheet or blanket across the sky."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Clouds form when water vapor in rising air:",
+              "options": ["Evaporates", "Freezes", "Condenses", "Decomposes"],
+              "correct": 2,
+              "hint": "As warm air rises and cools, water vapor turns back into tiny water droplets."
+            },
+            {
+              "type": "fill_in",
+              "question": "The puffy, flat-bottomed clouds you see on a nice day are called ___ clouds.",
+              "answer": "cumulus",
+              "hint": "They look like cotton balls floating in the sky."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-6-4",
+          "title": "Severe Weather: Storms and Fronts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Severe weather events are caused by extreme atmospheric conditions. Thunderstorms form when warm, moist air rises rapidly, creating cumulonimbus clouds. They produce lightning (a massive electrical discharge), thunder (the sound caused by lightning heating the air), heavy rain, and sometimes hail. Tornadoes are violently rotating columns of air that extend from thunderstorms to the ground. They are the most violent storms on Earth, with wind speeds that can exceed 300 mph. They are rated on the Enhanced Fujita Scale from EF0 (weakest) to EF5 (strongest). Hurricanes (also called typhoons or cyclones in other regions) are massive rotating storms that form over warm ocean water. They require sea surface temperatures of at least 80°F (27°C). Hurricanes are categorized 1-5 on the Saffir-Simpson Scale based on wind speed. Weather fronts are boundaries between different air masses. A cold front occurs when cold air pushes under warm air, often causing thunderstorms. A warm front occurs when warm air slides over cold air, usually bringing steady rain. Understanding fronts helps meteorologists predict when and where severe weather will occur.",
+            "examples": [
+              {
+                "problem": "What conditions are needed for a hurricane to form?",
+                "answer": "Warm ocean water (at least 80°F / 27°C) and certain atmospheric conditions.",
+                "explanation": "Hurricanes get their energy from warm ocean water. As warm, moist air rises from the ocean, it creates a low-pressure area that draws in more air, creating a rotating storm system."
+              },
+              {
+                "problem": "What happens at a cold front?",
+                "answer": "Cold air pushes under warm air, forcing the warm air up rapidly and often causing thunderstorms.",
+                "explanation": "Cold air is denser than warm air, so it wedges under the warm air mass. The rapid uplift of warm air can produce intense storms along the front."
+              }
+            ],
+            "key_vocabulary": ["thunderstorm", "tornado", "hurricane", "cold front", "warm front", "lightning", "air mass", "Enhanced Fujita Scale", "Saffir-Simpson Scale"],
+            "real_world": "Tornado Alley in the central United States experiences more tornadoes than anywhere else on Earth because cold, dry air from Canada frequently collides with warm, moist air from the Gulf of Mexico."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of storm forms over warm ocean water?",
+              "options": ["Tornado", "Blizzard", "Hurricane", "Thunderstorm"],
+              "correct": 2,
+              "hint": "This massive rotating storm needs warm ocean water of at least 80°F to form."
+            },
+            {
+              "type": "fill_in",
+              "question": "A violently rotating column of air extending from a thunderstorm to the ground is called a ___.",
+              "answer": "tornado",
+              "hint": "These are rated on the Enhanced Fujita Scale."
+            },
+            {
+              "type": "true_false",
+              "question": "Thunder is caused by lightning heating the air.",
+              "answer": true,
+              "hint": "Lightning superheats the air to about 30,000°F, causing it to expand rapidly and produce a shockwave we hear as thunder."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens at a cold front?",
+              "options": ["Warm air pushes over cold air slowly", "Cold air pushes under warm air, often causing storms", "The air stays still", "Temperature stays the same"],
+              "correct": 1,
+              "hint": "Cold air is denser and wedges under the warm air, forcing it up."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Hurricanes are rated on which scale?",
+              "options": ["Richter Scale", "Enhanced Fujita Scale", "Saffir-Simpson Scale", "Beaufort Scale"],
+              "correct": 2,
+              "hint": "The Enhanced Fujita Scale is for tornadoes. This scale goes from Category 1-5."
+            },
+            {
+              "type": "true_false",
+              "question": "Tornadoes can have wind speeds exceeding 300 mph.",
+              "answer": true,
+              "hint": "The strongest tornadoes (EF5) have winds that can exceed 300 mph."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-sci-6-5",
+          "title": "The Water Cycle and Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "The water cycle is the continuous movement of water through Earth's systems and is the driving force behind much of our weather. It involves four main processes. Evaporation occurs when the Sun heats water in oceans, lakes, and rivers, turning liquid water into water vapor (gas) that rises into the atmosphere. Transpiration is the release of water vapor from plants through their leaves, adding even more moisture to the air. As warm, moist air rises and cools, condensation occurs — water vapor turns back into tiny water droplets that collect on dust particles to form clouds. When the water droplets in clouds grow large and heavy enough, they fall as precipitation — rain, snow, sleet, or hail, depending on the temperature. Once precipitation reaches the ground, some water runs off into streams, rivers, and eventually back to the ocean (runoff), while some soaks into the ground (infiltration) and becomes groundwater. Groundwater slowly flows underground and can emerge at springs or be pumped up through wells. The water cycle has no beginning or end — it is a continuous loop powered by the Sun's energy.",
+            "examples": [
+              {
+                "problem": "What powers the water cycle?",
+                "answer": "The Sun's energy (solar energy)",
+                "explanation": "The Sun heats water, causing evaporation. It also heats air, creating the rising air currents that carry water vapor up where it can condense and form clouds."
+              },
+              {
+                "problem": "What is the difference between evaporation and condensation?",
+                "answer": "Evaporation is liquid turning into gas; condensation is gas turning back into liquid.",
+                "explanation": "They are opposite processes. Evaporation adds water vapor to the air, while condensation forms water droplets (and clouds) from that vapor."
+              }
+            ],
+            "key_vocabulary": ["water cycle", "evaporation", "transpiration", "condensation", "precipitation", "runoff", "infiltration", "groundwater", "water vapor"],
+            "real_world": "The water you drink today might have once been rain that fell on dinosaurs millions of years ago! Water is constantly recycled through the water cycle — Earth doesn't gain or lose water."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What energy source drives the water cycle?",
+              "options": ["Wind", "The Moon", "The Sun", "Earth's core"],
+              "correct": 2,
+              "hint": "This energy source heats water and causes evaporation."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process of water vapor turning back into liquid water droplets is called ___.",
+              "answer": "condensation",
+              "hint": "This is how clouds form — water vapor cools and changes state."
+            },
+            {
+              "type": "true_false",
+              "question": "Precipitation can only fall as rain.",
+              "answer": false,
+              "hint": "Precipitation includes rain, snow, sleet, and hail."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is transpiration?",
+              "options": ["Water soaking into the ground", "Water flowing into rivers", "Water vapor released from plants", "Water freezing in clouds"],
+              "correct": 2,
+              "hint": "Plants release water vapor through their leaves."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Water that seeps into the ground and is stored underground is called:",
+              "options": ["Runoff", "Precipitation", "Groundwater", "Condensation"],
+              "correct": 2,
+              "hint": "It's stored below the surface and can be accessed through wells."
+            },
+            {
+              "type": "fill_in",
+              "question": "Water flowing over the surface of the land into streams and rivers is called ___.",
+              "answer": "runoff",
+              "hint": "This water 'runs off' the land instead of soaking in."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "In which layer of the atmosphere does all weather occur?",
+            "options": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Climate and weather mean the same thing.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Wind is caused by air moving from:",
+            "options": ["Low to high pressure", "High to low pressure", "East to west always", "The equator to the poles only"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of clouds are thin, wispy, and found at high altitudes?",
+            "options": ["Cumulus", "Stratus", "Cirrus", "Nimbostratus"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Hurricanes form over warm ocean water.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which process in the water cycle involves liquid water becoming water vapor?",
+            "options": ["Condensation", "Precipitation", "Evaporation", "Infiltration"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does the ozone layer in the stratosphere protect us from?",
+            "options": ["Meteors", "Ultraviolet radiation", "Wind", "Lightning"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "A cold front occurs when warm air pushes over cold air.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the correct order of the first four atmospheric layers from lowest to highest?",
+            "options": ["Stratosphere, Troposphere, Mesosphere, Thermosphere", "Troposphere, Stratosphere, Mesosphere, Thermosphere", "Mesosphere, Stratosphere, Troposphere, Thermosphere", "Troposphere, Mesosphere, Stratosphere, Thermosphere"],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "weather_watcher"
+      }
+    }
+  ]
+}

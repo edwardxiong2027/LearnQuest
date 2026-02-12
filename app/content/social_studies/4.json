@@ -1,0 +1,806 @@
+{
+  "grade": 4,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "4-ss-1",
+      "title": "US Geography: Regions & Landforms",
+      "description": "Explore the five regions of the United States, their major landforms, bodies of water, and how geography shapes the way people live.",
+      "lessons": [
+        {
+          "id": "4-ss-1-1",
+          "title": "The Five Regions of the United States",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States is divided into five major regions: the Northeast, Southeast, Midwest, Southwest, and West. Each region has its own unique geography, climate, and culture. The Northeast includes states like New York, Massachusetts, and Pennsylvania and is known for its rocky coastlines and historical cities. The Southeast stretches from Virginia down to Florida and across to Louisiana, featuring warm weather and long coastlines. The Midwest, often called America's Heartland, includes states like Ohio, Illinois, and Kansas and is famous for its flat plains and farmland. The Southwest includes states like Texas, Arizona, and New Mexico, with deserts, canyons, and a mix of Native American and Mexican cultural influences. The West includes California, Oregon, Washington, and the mountain states, featuring everything from Pacific coastlines to the Rocky Mountains.",
+            "examples": [
+              {"problem": "Which region is known as 'America's Heartland'?", "answer": "The Midwest", "explanation": "The Midwest is called America's Heartland because it is in the center of the country and produces much of the nation's food through farming."},
+              {"problem": "Name a state in the Southwest region.", "answer": "Arizona, Texas, or New Mexico", "explanation": "The Southwest region includes states known for deserts, canyons, and warm, dry climates."}
+            ],
+            "key_vocabulary": ["region", "geography", "landform", "climate", "heartland", "coastline"],
+            "real_world": "When your family takes a road trip across the country, you pass through different regions. You might notice the flat farmland of the Midwest change to the tall mountains of the West."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many major regions does the United States have?", "options": ["3", "4", "5", "7"], "correct": 2, "hint": "Think about the five areas we discussed: Northeast, Southeast, Midwest, Southwest, and West."},
+            {"type": "multiple_choice", "question": "Which region includes the states of California, Oregon, and Washington?", "options": ["Northeast", "Midwest", "Southwest", "West"], "correct": 3, "hint": "These states are along the Pacific Ocean coast."},
+            {"type": "fill_in", "question": "The ___ region is known for flat plains and farmland and is called America's Heartland.", "answer": "Midwest", "hint": "This region is in the center of the country."},
+            {"type": "true_false", "question": "Florida is part of the Northeast region.", "answer": false, "hint": "Florida is in the southern part of the country."},
+            {"type": "multiple_choice", "question": "Which region has deserts and canyons and includes Texas and Arizona?", "options": ["Northeast", "Southeast", "Southwest", "Midwest"], "correct": 2, "hint": "Think about the region in the lower-left part of the country."},
+            {"type": "true_false", "question": "The Northeast region includes states like New York and Massachusetts.", "answer": true, "hint": "These states are in the upper-right corner of the US map."},
+            {"type": "fill_in", "question": "The Southeast region is known for its warm weather and long ___.", "answer": "coastlines", "hint": "Think about the land where it meets the ocean."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-1-2",
+          "title": "Major Landforms of the United States",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has an incredible variety of landforms. Mountains are tall, rugged formations of rock and earth. The Rocky Mountains stretch from Canada down through the western United States, while the Appalachian Mountains run along the eastern side. Plains are large, flat areas of land. The Great Plains cover much of the Midwest and are ideal for farming. Plateaus are flat-topped areas that are raised above the surrounding land, like the Colorado Plateau. Valleys are low areas between mountains or hills, such as the Central Valley in California. The country also has peninsulas like Florida, which is surrounded by water on three sides, and islands like Hawaii. The Grand Canyon in Arizona is one of the most famous landforms in the world, carved by the Colorado River over millions of years.",
+            "examples": [
+              {"problem": "What is the difference between a mountain and a plateau?", "answer": "A mountain has a peak or pointed top, while a plateau is flat on top.", "explanation": "Both are raised above surrounding land, but their tops are shaped differently."},
+              {"problem": "Which major mountain range is in the eastern United States?", "answer": "The Appalachian Mountains", "explanation": "The Appalachians are older and shorter than the Rockies, running from Alabama up to Maine."}
+            ],
+            "key_vocabulary": ["landform", "mountain", "plain", "plateau", "valley", "peninsula", "canyon"],
+            "real_world": "If you live near mountains, you might go hiking or skiing. If you live on the plains, you can see for miles in every direction because the land is so flat."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which mountain range runs along the western part of the United States?", "options": ["Appalachian Mountains", "Rocky Mountains", "Sierra Nevada", "Ozark Mountains"], "correct": 1, "hint": "This mountain range stretches from Canada through the western US."},
+            {"type": "fill_in", "question": "The Grand Canyon was carved by the ___ River over millions of years.", "answer": "Colorado", "hint": "This river shares its name with a state."},
+            {"type": "true_false", "question": "A plateau is a flat-topped area raised above the surrounding land.", "answer": true, "hint": "Think about what makes a plateau different from a plain."},
+            {"type": "multiple_choice", "question": "What is a peninsula?", "options": ["Land surrounded by water on all sides", "Land surrounded by water on three sides", "A tall mountain peak", "A deep valley"], "correct": 1, "hint": "Think about Florida's shape on a map."},
+            {"type": "fill_in", "question": "The Great ___ cover much of the Midwest and are ideal for farming.", "answer": "Plains", "hint": "These are large, flat areas of land."},
+            {"type": "true_false", "question": "The Appalachian Mountains are taller than the Rocky Mountains.", "answer": false, "hint": "The Appalachians are much older and have been worn down over time."},
+            {"type": "multiple_choice", "question": "Hawaii is an example of what type of landform?", "options": ["Peninsula", "Island", "Plateau", "Valley"], "correct": 1, "hint": "Hawaii is surrounded by water on all sides."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-1-3",
+          "title": "Bodies of Water in the United States",
+          "type": "lesson",
+          "content": {
+            "explanation": "Water is one of America's most important natural resources. The United States is bordered by two great oceans: the Atlantic Ocean to the east and the Pacific Ocean to the west. The Gulf of Mexico lies to the south along the coasts of Texas, Louisiana, Mississippi, Alabama, and Florida. The five Great Lakes — Superior, Michigan, Huron, Erie, and Ontario — form part of the border between the US and Canada and hold about 20 percent of the world's fresh surface water. The Mississippi River is the longest river system in North America, flowing from Minnesota all the way down to the Gulf of Mexico. Other major rivers include the Missouri River, the Colorado River, the Ohio River, and the Columbia River. Rivers have been essential for transportation, farming, and building cities throughout American history.",
+            "examples": [
+              {"problem": "What trick helps you remember the Great Lakes?", "answer": "The word HOMES: Huron, Ontario, Michigan, Erie, Superior", "explanation": "The first letter of each lake spells out HOMES, making them easier to remember."},
+              {"problem": "Where does the Mississippi River empty?", "answer": "The Gulf of Mexico", "explanation": "The Mississippi flows south from Minnesota and empties into the Gulf of Mexico near New Orleans, Louisiana."}
+            ],
+            "key_vocabulary": ["ocean", "gulf", "river", "Great Lakes", "tributary", "fresh water", "natural resource"],
+            "real_world": "Many of America's biggest cities — like New York, Chicago, and New Orleans — were built near major bodies of water because water was used for trade, transportation, and drinking."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which ocean borders the east coast of the United States?", "options": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"], "correct": 2, "hint": "Think about which ocean is on the right side of a US map."},
+            {"type": "fill_in", "question": "The five Great Lakes can be remembered with the acronym ___.", "answer": "HOMES", "hint": "Huron, Ontario, Michigan, Erie, Superior"},
+            {"type": "true_false", "question": "The Mississippi River flows from south to north.", "answer": false, "hint": "The Mississippi starts in Minnesota and flows down to the Gulf of Mexico."},
+            {"type": "multiple_choice", "question": "Which body of water lies to the south of the United States along the Texas and Louisiana coasts?", "options": ["Atlantic Ocean", "Pacific Ocean", "Gulf of Mexico", "Lake Superior"], "correct": 2, "hint": "This body of water is named after the country to the south."},
+            {"type": "multiple_choice", "question": "About what percentage of the world's fresh surface water is in the Great Lakes?", "options": ["5 percent", "10 percent", "20 percent", "50 percent"], "correct": 2, "hint": "It is a surprisingly large amount — about one-fifth."},
+            {"type": "true_false", "question": "The Great Lakes form part of the border between the United States and Canada.", "answer": true, "hint": "Look at a map showing both countries."},
+            {"type": "fill_in", "question": "The ___ River is the longest river system in North America.", "answer": "Mississippi", "hint": "This river flows through the middle of the country from Minnesota to the Gulf of Mexico."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-1-4",
+          "title": "Climate Across the Regions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Climate is the usual weather pattern of an area over a long period of time. Different regions of the United States have very different climates because of their location, elevation, and distance from oceans. The Southeast has a humid subtropical climate with hot summers, mild winters, and lots of rainfall. The Southwest has an arid or desert climate with very hot days, cool nights, and very little rain. The Midwest has a continental climate with cold, snowy winters and warm, humid summers. The Northeast experiences all four seasons clearly, with cold winters and warm summers. The West has many different climates: the Pacific Northwest is cool and rainy, California has a Mediterranean climate with mild wet winters and warm dry summers, and the mountain areas are cold with heavy snowfall. Climate affects what crops people grow, what clothes they wear, and how they build their homes.",
+            "examples": [
+              {"problem": "Why is the Southwest region so dry?", "answer": "It is far from large bodies of water and has mountain ranges that block moist air.", "explanation": "Mountains can block rain clouds from reaching the other side, creating dry desert conditions called a rain shadow."},
+              {"problem": "Which region gets the most snow?", "answer": "Parts of the Northeast and the mountain areas of the West", "explanation": "Cold temperatures and moisture from the Great Lakes or oceans create heavy snowfall in these areas."}
+            ],
+            "key_vocabulary": ["climate", "arid", "humid", "subtropical", "continental", "Mediterranean", "elevation"],
+            "real_world": "If you moved from Florida to Minnesota, you would need to buy a heavy winter coat because the climates are very different!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What type of climate does the Southwest have?", "options": ["Humid subtropical", "Continental", "Arid/desert", "Mediterranean"], "correct": 2, "hint": "Think about the hot, dry conditions of Arizona and New Mexico."},
+            {"type": "true_false", "question": "Climate and weather mean the same thing.", "answer": false, "hint": "Weather is day-to-day conditions; climate is the pattern over many years."},
+            {"type": "fill_in", "question": "The Southeast has a humid ___ climate with hot summers and mild winters.", "answer": "subtropical", "hint": "This type of climate is warm and wet, found in areas near the tropics."},
+            {"type": "multiple_choice", "question": "Which region has cold snowy winters and warm humid summers?", "options": ["Southeast", "Southwest", "Midwest", "West Coast"], "correct": 2, "hint": "This region is in the center of the country, far from any ocean."},
+            {"type": "true_false", "question": "The Pacific Northwest is known for being warm and dry.", "answer": false, "hint": "Think about Seattle, which is famous for its rainy weather."},
+            {"type": "multiple_choice", "question": "What is one way climate affects how people live?", "options": ["It determines what language they speak", "It affects what crops they can grow", "It decides what country they belong to", "It controls how tall buildings can be"], "correct": 1, "hint": "Farmers need the right temperature and rainfall for their plants."},
+            {"type": "fill_in", "question": "California has a ___ climate with mild wet winters and warm dry summers.", "answer": "Mediterranean", "hint": "This climate type is named after a region in Europe near a famous sea."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-1-5",
+          "title": "How Geography Shapes Communities",
+          "type": "lesson",
+          "content": {
+            "explanation": "Geography has a powerful influence on where people live and how communities develop. Throughout history, people have settled near water sources for drinking, farming, and transportation. Cities like Chicago grew because of their location on the Great Lakes, which made trade easy. Farming communities developed on the fertile plains of the Midwest because the flat land and rich soil were perfect for growing crops. Mining towns appeared in the mountains of the West where gold, silver, and other minerals were found. Coastal cities became important for fishing and shipping goods to other countries. Even today, geography affects which jobs are available, what people eat, and how they spend their free time. People in mountain areas might ski and hike, while people near the coast might surf and fish. Understanding geography helps us understand why communities are the way they are.",
+            "examples": [
+              {"problem": "Why did many cities develop along rivers?", "answer": "Rivers provided water for drinking and farming, plus a way to transport goods.", "explanation": "Before roads and railroads, rivers were the main highways for moving people and products."},
+              {"problem": "Why are there many farms in the Midwest?", "answer": "The flat land and rich soil make it ideal for growing crops.", "explanation": "The Great Plains have some of the most fertile soil in the world, perfect for wheat, corn, and soybeans."}
+            ],
+            "key_vocabulary": ["community", "settlement", "transportation", "trade", "fertile", "resources", "economy"],
+            "real_world": "Think about your own community. Is it near water? Is the land flat or hilly? The geography of where you live affects the buildings, jobs, and activities around you every day."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why did Chicago become a major city?", "options": ["It was the first US capital", "It was located on the Great Lakes for easy trade", "It had the most gold mines", "It was the warmest city in the Midwest"], "correct": 1, "hint": "Think about what made Chicago a good place for moving goods."},
+            {"type": "true_false", "question": "People throughout history have tended to settle near water sources.", "answer": true, "hint": "Water is essential for life, farming, and moving goods."},
+            {"type": "fill_in", "question": "Mining towns appeared in the mountains of the West where ___, silver, and other minerals were found.", "answer": "gold", "hint": "This precious metal caused a famous 'rush' in California in 1849."},
+            {"type": "multiple_choice", "question": "What makes the Midwest great for farming?", "options": ["It has many mountains", "It is close to the ocean", "It has flat land and rich soil", "It has a desert climate"], "correct": 2, "hint": "Crops grow best in flat areas with fertile soil."},
+            {"type": "true_false", "question": "Geography has no effect on the jobs available in a community.", "answer": false, "hint": "Think about how fishing towns are near water and farming towns are on fertile land."},
+            {"type": "multiple_choice", "question": "Why were coastal cities important in American history?", "options": ["They had the best schools", "They were used for fishing and shipping goods", "They had the flattest land", "They were farthest from other countries"], "correct": 1, "hint": "Think about what you can do when your city is next to the ocean."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many major regions does the United States have?", "options": ["3", "4", "5", "6"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which mountain range is in the eastern United States?", "options": ["Rocky Mountains", "Sierra Nevada", "Appalachian Mountains", "Cascade Range"], "correct": 2},
+          {"type": "true_false", "question": "The acronym HOMES helps you remember the five Great Lakes.", "answer": true},
+          {"type": "multiple_choice", "question": "What type of climate does the Southwest have?", "options": ["Tropical", "Arid/desert", "Continental", "Arctic"], "correct": 1},
+          {"type": "true_false", "question": "The Mississippi River flows from Minnesota to the Gulf of Mexico.", "answer": true},
+          {"type": "multiple_choice", "question": "Which region is called America's Heartland?", "options": ["Northeast", "Southeast", "Midwest", "West"], "correct": 2},
+          {"type": "multiple_choice", "question": "Why did many cities develop along rivers?", "options": ["Rivers looked pretty", "Rivers provided water and transportation", "Rivers were easy to cross", "Rivers had gold in them"], "correct": 1},
+          {"type": "true_false", "question": "A plateau is a flat-topped area raised above surrounding land.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "us_geography_explorer"
+      }
+    },
+    {
+      "id": "4-ss-2",
+      "title": "State Government",
+      "description": "Learn how state governments work, including the three branches, the role of the governor, state legislatures, and how state laws affect daily life.",
+      "lessons": [
+        {
+          "id": "4-ss-2-1",
+          "title": "What Is State Government?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every state in the United States has its own government that makes laws and decisions for the people living in that state. The state government works alongside the federal (national) government, but it focuses on issues that are specific to the state. For example, state governments decide things like speed limits on state roads, rules for schools, and how state parks are managed. Each state has a constitution, which is a written plan for how the government should work. The state constitution explains the rights of the people and the powers of the government. State governments provide many important services including public schools, state highways, state police, and parks. The capital city of each state is where the state government is headquartered, and that is where the governor and legislature work.",
+            "examples": [
+              {"problem": "What is the difference between state government and federal government?", "answer": "State government handles issues for one state, while federal government handles issues for the whole country.", "explanation": "The federal government deals with things like the military and foreign relations, while state governments focus on local issues like schools and roads."},
+              {"problem": "What is a state constitution?", "answer": "A written plan that explains how the state government works and the rights of its people.", "explanation": "Every state has its own constitution, similar to how the whole country has the US Constitution."}
+            ],
+            "key_vocabulary": ["state government", "federal government", "constitution", "capital", "governor", "legislature", "services"],
+            "real_world": "Your school follows rules set by your state government. The state decides what subjects you learn, how many days you attend school, and how schools are funded."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the state government focus on?", "options": ["Issues for the whole world", "Issues for the whole country", "Issues specific to the state", "Issues for other countries"], "correct": 2, "hint": "Think about the level of government that is between local and national."},
+            {"type": "true_false", "question": "Each state has its own constitution.", "answer": true, "hint": "States have their own written plans for how their governments work."},
+            {"type": "fill_in", "question": "The ___ city is where the state government is headquartered.", "answer": "capital", "hint": "This is a special city where the governor and legislature work."},
+            {"type": "multiple_choice", "question": "Which of these is a service provided by state government?", "options": ["Running the US military", "Managing public schools", "Printing money", "Making treaties with other countries"], "correct": 1, "hint": "Think about something the state provides that you use every day."},
+            {"type": "true_false", "question": "The federal government decides the speed limits on all state roads.", "answer": false, "hint": "State governments handle many road-related decisions."},
+            {"type": "fill_in", "question": "State governments provide services including public schools, state highways, state police, and ___.", "answer": "parks", "hint": "These are natural areas where people can hike, camp, and enjoy the outdoors."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-2-2",
+          "title": "The Three Branches of State Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "Just like the federal government, each state government has three branches that share power so no one group has too much control. The legislative branch makes the laws. Most states have a legislature with two parts: a Senate and a House of Representatives (though some states use different names). Citizens vote to elect their state legislators. The executive branch carries out the laws. The governor is the leader of the executive branch and is the highest elected official in the state. The governor signs or vetoes bills, manages the state budget, and leads in emergencies. The judicial branch interprets the laws and makes sure they follow the state constitution. State courts, including a state supreme court, settle disagreements and decide if laws are fair. This system of three branches is called the separation of powers, and it includes checks and balances so each branch can limit the others.",
+            "examples": [
+              {"problem": "Which branch of state government makes the laws?", "answer": "The legislative branch", "explanation": "State legislators, elected by the people, write and vote on new laws for the state."},
+              {"problem": "What can a governor do if they disagree with a new law?", "answer": "The governor can veto (reject) the bill.", "explanation": "A veto is a check on the legislative branch. However, the legislature can sometimes override a veto with enough votes."}
+            ],
+            "key_vocabulary": ["legislative branch", "executive branch", "judicial branch", "governor", "veto", "separation of powers", "checks and balances"],
+            "real_world": "When your state passes a new law — like requiring seatbelts — the legislature wrote it, the governor signed it, and if someone challenges it, the courts decide if it is constitutional."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which branch of state government carries out the laws?", "options": ["Legislative branch", "Executive branch", "Judicial branch", "Military branch"], "correct": 1, "hint": "This branch is led by the governor."},
+            {"type": "fill_in", "question": "The system where three branches share power is called the separation of ___.", "answer": "powers", "hint": "No one branch has too much control because they share this."},
+            {"type": "true_false", "question": "The judicial branch writes new state laws.", "answer": false, "hint": "Writing laws is the job of a different branch."},
+            {"type": "multiple_choice", "question": "What is a veto?", "options": ["A vote for a new law", "When the governor rejects a bill", "A type of state tax", "A court ruling"], "correct": 1, "hint": "This is something the governor does when they disagree with a proposed law."},
+            {"type": "multiple_choice", "question": "What is the role of the state judicial branch?", "options": ["To write laws", "To carry out laws", "To interpret laws and check if they are constitutional", "To elect the governor"], "correct": 2, "hint": "This branch involves courts and judges."},
+            {"type": "true_false", "question": "Checks and balances allow each branch to limit the power of the other branches.", "answer": true, "hint": "This system prevents any one branch from becoming too powerful."},
+            {"type": "fill_in", "question": "The ___ is the leader of the state's executive branch.", "answer": "governor", "hint": "This person is the highest elected official in the state."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-2-3",
+          "title": "How State Laws Are Made",
+          "type": "lesson",
+          "content": {
+            "explanation": "Making a state law is a step-by-step process. First, a state legislator writes a proposed law called a bill. The bill is introduced in one chamber of the legislature, either the Senate or the House. A committee of legislators studies the bill and may hold hearings where citizens can share their opinions. If the committee approves the bill, it goes to the full chamber for debate and a vote. If it passes one chamber, it goes to the other chamber and goes through the same process. If both chambers approve the bill, it is sent to the governor. The governor can sign the bill into law or veto it. If the governor vetoes the bill, the legislature can sometimes override the veto with a two-thirds vote. Citizens play an important role in this process by contacting their legislators, attending hearings, and voting for representatives who share their values.",
+            "examples": [
+              {"problem": "What is a bill?", "answer": "A proposed law that has not yet been approved.", "explanation": "A bill must go through many steps before it can become an official law."},
+              {"problem": "How can citizens participate in the lawmaking process?", "answer": "They can contact legislators, attend hearings, and vote for their representatives.", "explanation": "In a democracy, citizens have the right and responsibility to make their voices heard."}
+            ],
+            "key_vocabulary": ["bill", "legislator", "committee", "hearing", "debate", "vote", "override"],
+            "real_world": "If your community wanted a new law about bike safety, a citizen could ask a state legislator to introduce a bill. The bill would then go through the whole process before becoming a law."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a bill?", "options": ["A finalized law", "A proposed law", "A court ruling", "A governor's order"], "correct": 1, "hint": "A bill is something that could become a law but is not one yet."},
+            {"type": "fill_in", "question": "A ___ of legislators studies the bill and holds hearings.", "answer": "committee", "hint": "This is a small group within the legislature assigned to review bills."},
+            {"type": "true_false", "question": "If the governor vetoes a bill, it can never become a law.", "answer": false, "hint": "The legislature has a way to override the veto."},
+            {"type": "multiple_choice", "question": "What fraction of the legislature's vote is typically needed to override a governor's veto?", "options": ["One-half", "Two-thirds", "Three-fourths", "All members"], "correct": 1, "hint": "This is more than a simple majority but less than three-quarters."},
+            {"type": "true_false", "question": "Citizens can attend hearings to share their opinions on a bill.", "answer": true, "hint": "Public hearings are an important part of democracy."},
+            {"type": "multiple_choice", "question": "What happens after both chambers of the legislature approve a bill?", "options": ["It automatically becomes law", "It is sent to the courts", "It is sent to the governor", "It goes back to committee"], "correct": 2, "hint": "The governor gets the final say on whether to sign or veto the bill."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-2-4",
+          "title": "State Government and Your Community",
+          "type": "lesson",
+          "content": {
+            "explanation": "State government affects your daily life in many ways you might not even realize. State governments fund and set standards for public schools, deciding what students learn and how teachers are trained. They build and maintain state highways and bridges that connect cities and towns. State police help keep roads safe and assist local police departments. State governments also manage state parks and natural resources, protecting wildlife and forests for everyone to enjoy. They run programs that help people in need, such as health insurance for families who cannot afford it. State governments collect taxes — like sales tax when you buy something at a store — to pay for all these services. Local governments (city and county) work under the authority of the state government and handle things like garbage collection, local roads, and fire departments.",
+            "examples": [
+              {"problem": "How does state government affect schools?", "answer": "State government funds schools, sets learning standards, and determines teacher requirements.", "explanation": "While your local school board manages day-to-day operations, the state sets the overall rules and provides much of the money."},
+              {"problem": "What is sales tax?", "answer": "A small percentage added to the price of things you buy that goes to the government.", "explanation": "When you buy a toy for $10 and pay $10.50, the extra 50 cents might be sales tax that helps fund state services."}
+            ],
+            "key_vocabulary": ["taxes", "sales tax", "public services", "local government", "budget", "natural resources", "standards"],
+            "real_world": "Next time you drive on a state highway, visit a state park, or go to your public school, remember that state government helps make all of those things possible."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is funded by state government?", "options": ["The US military", "Public schools", "The United Nations", "Foreign embassies"], "correct": 1, "hint": "Think about a service you use every day as a student."},
+            {"type": "true_false", "question": "State governments collect sales tax to help pay for services.", "answer": true, "hint": "When you buy something at a store, a small percentage goes to the state."},
+            {"type": "fill_in", "question": "Local governments work under the authority of the ___ government.", "answer": "state", "hint": "Cities and counties follow rules set by a higher level of government within their state."},
+            {"type": "multiple_choice", "question": "Which of these is handled by local government, not state government?", "options": ["State highways", "State parks", "Garbage collection", "State police"], "correct": 2, "hint": "This is a service provided by your city or town."},
+            {"type": "true_false", "question": "State governments manage state parks and protect wildlife.", "answer": true, "hint": "Natural resources are an important responsibility of state government."},
+            {"type": "multiple_choice", "question": "How do state governments pay for the services they provide?", "options": ["By printing money", "By collecting taxes", "By borrowing from other states", "By charging admission to the state"], "correct": 1, "hint": "Sales tax is one example of how the state collects money."},
+            {"type": "fill_in", "question": "State governments set ___ for what students learn in public schools.", "answer": "standards", "hint": "These are the rules about what subjects and skills students need to learn at each grade level."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which branch of state government is led by the governor?", "options": ["Legislative", "Executive", "Judicial", "Military"], "correct": 1},
+          {"type": "true_false", "question": "A bill must pass both chambers of the legislature before going to the governor.", "answer": true},
+          {"type": "multiple_choice", "question": "What does the judicial branch do?", "options": ["Write laws", "Enforce laws", "Interpret laws", "Veto laws"], "correct": 2},
+          {"type": "multiple_choice", "question": "What is a veto?", "options": ["Approving a bill", "Rejecting a bill", "Writing a bill", "Debating a bill"], "correct": 1},
+          {"type": "true_false", "question": "State governments have no role in public education.", "answer": false},
+          {"type": "multiple_choice", "question": "What system prevents any one branch from having too much power?", "options": ["Federalism", "Checks and balances", "Democracy", "Voting"], "correct": 1},
+          {"type": "fill_in", "question": "A proposed law is called a ___.", "answer": "bill", "hint": ""},
+          {"type": "true_false", "question": "Sales tax is one way state governments pay for services.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "state_government_scholar"
+      }
+    },
+    {
+      "id": "4-ss-3",
+      "title": "Native American Cultures",
+      "description": "Discover the diverse cultures, traditions, and ways of life of Native American peoples across different regions of North America before and after European contact.",
+      "lessons": [
+        {
+          "id": "4-ss-3-1",
+          "title": "The First Americans",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native Americans are the first people to have lived in North America. Scientists believe their ancestors arrived thousands of years ago, likely crossing a land bridge between Asia and Alaska during the Ice Age when sea levels were lower. Over thousands of years, these early peoples spread across North and South America, developing hundreds of unique cultures and languages. By the time European explorers arrived in the late 1400s, millions of Native Americans lived across the continent. They had developed complex societies with their own governments, religions, art, and ways of living. It is important to understand that there was no single Native American culture — there were hundreds of different nations, each with its own traditions, language, and way of life. Native Americans adapted to many different environments, from frozen arctic regions to tropical forests to dry deserts.",
+            "examples": [
+              {"problem": "How did the first people arrive in North America?", "answer": "They likely crossed a land bridge from Asia to Alaska during the Ice Age.", "explanation": "When sea levels were lower, a strip of land connected Asia and North America where the Bering Strait is today."},
+              {"problem": "Were all Native Americans the same?", "answer": "No, there were hundreds of different nations with unique cultures, languages, and traditions.", "explanation": "Just as Europe has many different countries and cultures, Native Americans had great diversity."}
+            ],
+            "key_vocabulary": ["Native American", "land bridge", "Ice Age", "culture", "nation", "ancestors", "diverse"],
+            "real_world": "Many place names in America come from Native American languages, including the states of Connecticut, Massachusetts, and Mississippi, and cities like Chicago and Chattanooga."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How did the first people likely arrive in North America?", "options": ["By airplane", "By ship across the Atlantic", "By crossing a land bridge from Asia", "They were always here"], "correct": 2, "hint": "During the Ice Age, a land connection existed between two continents."},
+            {"type": "true_false", "question": "All Native American groups shared the same language and culture.", "answer": false, "hint": "There were hundreds of different nations across the continent."},
+            {"type": "fill_in", "question": "The land bridge connected Asia and ___ during the Ice Age.", "answer": "Alaska", "hint": "This is the northwesternmost state in the US."},
+            {"type": "multiple_choice", "question": "By the time Europeans arrived, how many Native Americans lived on the continent?", "options": ["A few hundred", "A few thousand", "Millions", "Nobody lived there"], "correct": 2, "hint": "Native Americans had been living and growing their populations for thousands of years."},
+            {"type": "true_false", "question": "Native Americans developed complex societies with their own governments and art.", "answer": true, "hint": "They had thousands of years to develop their civilizations."},
+            {"type": "multiple_choice", "question": "Which state name comes from a Native American language?", "options": ["New York", "Virginia", "Massachusetts", "Georgia"], "correct": 2, "hint": "This northeastern state's name comes from the Massachusett people."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-3-2",
+          "title": "Native Americans of the Eastern Woodlands",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Eastern Woodlands region stretches from the Atlantic coast to the Mississippi River and was home to many Native American groups including the Iroquois, Cherokee, Algonquin, and Powhatan. The dense forests provided wood for building homes, fuel for fires, and habitats for animals to hunt. Many Woodland peoples lived in villages and grew crops such as corn, beans, and squash, which were called the 'Three Sisters' because they were planted together and helped each other grow. The Iroquois Confederacy was a powerful alliance of five (later six) nations — the Mohawk, Oneida, Onondaga, Cayuga, and Seneca — who joined together for peace and mutual protection. They had a democratic system of government with a Great Council where leaders discussed important decisions. The Iroquois Confederacy is one of the oldest democracies in the world and may have influenced the founders of the United States government.",
+            "examples": [
+              {"problem": "What were the 'Three Sisters'?", "answer": "Corn, beans, and squash, planted together by many Woodland peoples.", "explanation": "The three crops helped each other grow: corn stalks supported bean vines, beans added nutrients to the soil, and squash leaves shaded the ground to keep it moist."},
+              {"problem": "What was the Iroquois Confederacy?", "answer": "An alliance of five (later six) nations that governed together through a Great Council.", "explanation": "The Iroquois created a democratic system where representatives from each nation had a voice in decisions."}
+            ],
+            "key_vocabulary": ["Eastern Woodlands", "Iroquois Confederacy", "Three Sisters", "alliance", "democratic", "Great Council", "longhouse"],
+            "real_world": "The Iroquois Confederacy's system of government, where different groups came together to make decisions, is similar to how the US Congress works today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which crops were called the 'Three Sisters'?", "options": ["Wheat, rice, and barley", "Corn, beans, and squash", "Potatoes, tomatoes, and peppers", "Apples, oranges, and grapes"], "correct": 1, "hint": "These three crops were planted together and helped each other grow."},
+            {"type": "fill_in", "question": "The ___ Confederacy was an alliance of five (later six) nations in the Eastern Woodlands.", "answer": "Iroquois", "hint": "This confederacy included the Mohawk, Oneida, Onondaga, Cayuga, and Seneca nations."},
+            {"type": "true_false", "question": "The Eastern Woodlands region had very few trees.", "answer": false, "hint": "The name 'Woodlands' gives a clue about the type of environment."},
+            {"type": "multiple_choice", "question": "What type of government did the Iroquois Confederacy have?", "options": ["A monarchy with a king", "A democratic system with a Great Council", "A military dictatorship", "No government at all"], "correct": 1, "hint": "Leaders from each nation gathered to discuss and make decisions together."},
+            {"type": "true_false", "question": "The Iroquois Confederacy may have influenced the founders of the US government.", "answer": true, "hint": "Some historians believe the Confederacy's democratic ideas helped inspire the US Constitution."},
+            {"type": "fill_in", "question": "The Eastern Woodlands region stretches from the Atlantic coast to the ___ River.", "answer": "Mississippi", "hint": "This is the longest river in North America."},
+            {"type": "multiple_choice", "question": "Why were the Three Sisters planted together?", "options": ["They looked pretty", "They helped each other grow", "It was easier to water them", "They scared away animals"], "correct": 1, "hint": "Each plant provided something the others needed."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-3-3",
+          "title": "Native Americans of the Plains and Southwest",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Great Plains, the vast grasslands in the middle of North America, were home to nations like the Lakota (Sioux), Cheyenne, Comanche, and Pawnee. Many Plains peoples depended on the buffalo (American bison) for nearly everything — food, clothing, shelter (tipis made from buffalo hides), tools, and fuel. Some groups were nomadic, following the buffalo herds across the plains, while others like the Pawnee lived in settled villages and grew crops. In the Southwest, the Pueblo peoples (including the Hopi and Zuni) built remarkable multi-story buildings from adobe — a mixture of clay, water, and straw dried in the sun. The Navajo (Dine) were skilled weavers and silversmiths. The Apache were known for their survival skills in the harsh desert environment. Southwest peoples developed irrigation systems to farm in the dry climate, growing corn, beans, and squash just like the Woodland peoples but using different techniques suited to their arid environment.",
+            "examples": [
+              {"problem": "Why was the buffalo so important to Plains peoples?", "answer": "The buffalo provided food, clothing, shelter, tools, and fuel — nearly everything they needed.", "explanation": "Plains peoples used every part of the buffalo. The meat was food, the hide became clothing and tipis, the bones were made into tools, and dried dung was used as fuel."},
+              {"problem": "What is adobe?", "answer": "A building material made from a mixture of clay, water, and straw dried in the sun.", "explanation": "Pueblo peoples used adobe to build multi-story buildings that could house many families, some of which still stand today."}
+            ],
+            "key_vocabulary": ["Great Plains", "buffalo", "nomadic", "tipi", "adobe", "Pueblo", "irrigation"],
+            "real_world": "Some Pueblo adobe buildings in New Mexico, like those at Taos Pueblo, are over 1,000 years old and are still lived in today — making them some of the oldest continuously inhabited structures in North America."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What animal was central to the lives of Plains peoples?", "options": ["Deer", "Eagle", "Buffalo (bison)", "Horse"], "correct": 2, "hint": "This large animal provided food, shelter, clothing, and tools."},
+            {"type": "fill_in", "question": "Pueblo peoples built multi-story buildings from ___, a mixture of clay, water, and straw.", "answer": "adobe", "hint": "This building material is dried in the sun."},
+            {"type": "true_false", "question": "All Plains peoples were nomadic and followed buffalo herds.", "answer": false, "hint": "Some groups, like the Pawnee, lived in settled villages."},
+            {"type": "multiple_choice", "question": "Which Southwest people were known for weaving and silversmithing?", "options": ["Apache", "Navajo", "Hopi", "Comanche"], "correct": 1, "hint": "This nation is also known as the Dine."},
+            {"type": "true_false", "question": "Southwest peoples developed irrigation systems to farm in their dry climate.", "answer": true, "hint": "Farming in a desert requires creative solutions for getting water to crops."},
+            {"type": "multiple_choice", "question": "What type of home did many Plains peoples use?", "options": ["Adobe buildings", "Log cabins", "Tipis", "Igloos"], "correct": 2, "hint": "These cone-shaped homes were made from buffalo hides and were easy to move."},
+            {"type": "fill_in", "question": "The Lakota, Cheyenne, and Comanche were peoples of the Great ___.", "answer": "Plains", "hint": "This vast grassland region is in the middle of North America."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-3-4",
+          "title": "Native Americans of the Northwest Coast and Arctic",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Northwest Coast, along the Pacific Ocean from Alaska to northern California, was home to peoples like the Tlingit, Haida, and Chinook. This region had abundant resources — salmon filled the rivers, and the thick forests provided wood for building. Northwest Coast peoples built large wooden houses called longhouses and carved magnificent totem poles that told stories about their families and history. They were skilled fishers and traders, and they held special ceremonies called potlatches where a host would give gifts to guests to show generosity and build social connections. In the frozen Arctic, the Inuit (sometimes called Eskimo, though many prefer Inuit) adapted to one of the harshest environments on Earth. They hunted seals, whales, and caribou, built igloos from snow blocks for temporary shelter, and traveled using dog sleds and kayaks. The Inuit's ability to thrive in extreme cold shows the remarkable adaptability of human cultures.",
+            "examples": [
+              {"problem": "What is a totem pole?", "answer": "A tall carved wooden pole that tells stories about a family's history and culture.", "explanation": "Northwest Coast peoples were master woodcarvers who used the abundant trees in their region to create these impressive artworks."},
+              {"problem": "How did the Inuit adapt to the Arctic environment?", "answer": "They hunted sea mammals, built igloos, traveled by dog sled and kayak, and wore warm fur clothing.", "explanation": "The Inuit developed amazing technologies for surviving in freezing conditions where few other peoples could live."}
+            ],
+            "key_vocabulary": ["Northwest Coast", "totem pole", "potlatch", "longhouse", "Inuit", "Arctic", "kayak", "igloo"],
+            "real_world": "The kayak, invented by the Inuit for hunting in icy waters, is still used today for recreation and sport around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did Northwest Coast peoples carve to tell family stories?", "options": ["Adobe walls", "Stone tablets", "Totem poles", "Cave paintings"], "correct": 2, "hint": "These tall carved wooden structures are famous symbols of Northwest Coast culture."},
+            {"type": "fill_in", "question": "A ___ was a ceremony where a host gave gifts to guests.", "answer": "potlatch", "hint": "This ceremony showed generosity and built social connections."},
+            {"type": "true_false", "question": "The Inuit lived in igloos year-round as their permanent homes.", "answer": false, "hint": "Igloos were used as temporary shelters, especially during hunting trips."},
+            {"type": "multiple_choice", "question": "Which animal was most important to Northwest Coast peoples?", "options": ["Buffalo", "Salmon", "Horse", "Turkey"], "correct": 1, "hint": "This fish filled the rivers of the Pacific Northwest."},
+            {"type": "true_false", "question": "The Inuit invented the kayak for hunting in icy waters.", "answer": true, "hint": "This small boat is still used today for recreation."},
+            {"type": "multiple_choice", "question": "What did the Inuit use for transportation across ice and snow?", "options": ["Canoes", "Horses", "Dog sleds", "Bicycles"], "correct": 2, "hint": "Teams of animals pulled these sleds across the frozen landscape."},
+            {"type": "fill_in", "question": "The Tlingit, Haida, and Chinook lived along the ___ Coast.", "answer": "Northwest", "hint": "This region is along the Pacific Ocean from Alaska to northern California."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-3-5",
+          "title": "Native American Culture and Legacy Today",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native American cultures have had a lasting impact on American life. Many of the foods we eat today — including corn, potatoes, tomatoes, chocolate, and squash — were first cultivated by Native Americans. Hundreds of place names across the country come from Native American languages. Native Americans also contributed knowledge of medicine, farming techniques, and environmental stewardship. Today, there are 574 federally recognized tribal nations in the United States, each with its own government. Native Americans continue to preserve and celebrate their cultures through languages, art, music, dance, and ceremonies. However, it is also important to learn about the difficult history that Native Americans faced, including the loss of their lands, forced relocations like the Trail of Tears, and efforts to destroy their cultures. Today, many Native Americans work to keep their traditions alive while also participating fully in modern American life.",
+            "examples": [
+              {"problem": "Name three foods that were first cultivated by Native Americans.", "answer": "Corn, potatoes, and tomatoes (also squash, chocolate, beans, and many others).", "explanation": "These foods, now eaten around the world, were originally grown and developed by Indigenous peoples of the Americas."},
+              {"problem": "What is a federally recognized tribe?", "answer": "A Native American nation that has a government-to-government relationship with the United States.", "explanation": "There are 574 federally recognized tribes today, each with the right to govern themselves on their own lands."}
+            ],
+            "key_vocabulary": ["legacy", "cultivate", "tribal nation", "sovereignty", "Trail of Tears", "heritage", "stewardship"],
+            "real_world": "Every time you eat corn on the cob, French fries (from potatoes), or chocolate, you are enjoying foods that Native Americans first grew and shared with the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these foods was first cultivated by Native Americans?", "options": ["Wheat", "Rice", "Corn", "Oats"], "correct": 2, "hint": "This grain was one of the Three Sisters."},
+            {"type": "true_false", "question": "There are no federally recognized Native American tribes in the United States today.", "answer": false, "hint": "There are hundreds of recognized tribal nations today."},
+            {"type": "fill_in", "question": "There are ___ federally recognized tribal nations in the United States.", "answer": "574", "hint": "This number is over five hundred."},
+            {"type": "multiple_choice", "question": "What was the Trail of Tears?", "options": ["A hiking path in the mountains", "The forced relocation of Native Americans from their homelands", "A trade route to the West", "A river in the Southeast"], "correct": 1, "hint": "This was a tragic event where Native Americans were forced to leave their lands."},
+            {"type": "true_false", "question": "Native Americans contributed knowledge of farming techniques and environmental stewardship.", "answer": true, "hint": "Native Americans had deep knowledge of the natural world."},
+            {"type": "multiple_choice", "question": "How do many Native Americans preserve their cultures today?", "options": ["By forgetting the past", "Through language, art, music, dance, and ceremonies", "By moving to other countries", "By refusing to use modern technology"], "correct": 1, "hint": "Native Americans celebrate their heritage while also being part of modern life."},
+            {"type": "fill_in", "question": "Many ___ names across the country come from Native American languages.", "answer": "place", "hint": "Think about the names of states, cities, and rivers."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How did the first people likely arrive in North America?", "options": ["By sailing across the Pacific", "By crossing a land bridge from Asia", "By flying", "They were always here"], "correct": 1},
+          {"type": "true_false", "question": "The Three Sisters crops were corn, beans, and squash.", "answer": true},
+          {"type": "multiple_choice", "question": "What was the Iroquois Confederacy?", "options": ["A trading company", "A military fort", "An alliance of Native American nations", "A European colony"], "correct": 2},
+          {"type": "multiple_choice", "question": "What animal was central to the lives of Plains peoples?", "options": ["Salmon", "Buffalo", "Horse", "Sheep"], "correct": 1},
+          {"type": "fill_in", "question": "Pueblo peoples built buildings from ___, a mixture of clay, water, and straw.", "answer": "adobe", "hint": ""},
+          {"type": "true_false", "question": "The Inuit invented the kayak.", "answer": true},
+          {"type": "multiple_choice", "question": "How many federally recognized tribal nations exist in the US today?", "options": ["50", "200", "574", "1000"], "correct": 2},
+          {"type": "multiple_choice", "question": "What were totem poles used for?", "options": ["Weapons in battle", "Telling family stories and history", "Marking state borders", "Measuring time"], "correct": 1},
+          {"type": "true_false", "question": "Corn, potatoes, and tomatoes were first cultivated by Native Americans.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "native_cultures_expert"
+      }
+    },
+    {
+      "id": "4-ss-4",
+      "title": "European Exploration",
+      "description": "Learn about the European explorers who sailed to the Americas, their motivations, their encounters with Native peoples, and the lasting consequences of exploration.",
+      "lessons": [
+        {
+          "id": "4-ss-4-1",
+          "title": "Why Europeans Explored the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the 1400s and 1500s, European nations began sending explorers across the oceans. There were three main reasons, often called the 'Three Gs': Gold, Glory, and God. First, Europeans wanted to find new trade routes to Asia, where they could get valuable spices, silk, and gold. The old land routes were long, dangerous, and controlled by other powers. Second, explorers and their countries wanted glory — fame, power, and the prestige of claiming new lands. Third, many Europeans wanted to spread Christianity to people in other parts of the world. New technology also made exploration possible: better ships called caravels that could sail against the wind, the magnetic compass for navigation, and improved maps. Portugal was the first European country to explore extensively, followed by Spain, England, France, and the Netherlands. These voyages would change the world forever.",
+            "examples": [
+              {"problem": "What were the 'Three Gs' of European exploration?", "answer": "Gold (wealth), Glory (fame and power), and God (spreading Christianity)", "explanation": "These three motivations drove European nations to fund dangerous voyages across unknown oceans."},
+              {"problem": "What technology helped make exploration possible?", "answer": "Better ships (caravels), the magnetic compass, and improved maps.", "explanation": "Without these inventions, it would have been nearly impossible to cross the vast oceans safely."}
+            ],
+            "key_vocabulary": ["exploration", "trade route", "spices", "caravel", "compass", "navigation", "Christianity"],
+            "real_world": "Just like early explorers used compasses and maps, today we use GPS on our phones to navigate. The desire to explore and discover new things is still a big part of human nature."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What were the Three Gs of European exploration?", "options": ["Guns, Germs, and Gold", "Gold, Glory, and God", "Geography, Geology, and Government", "Greed, Growth, and Grain"], "correct": 1, "hint": "These three words all start with G and describe why Europeans explored."},
+            {"type": "fill_in", "question": "A ___ was a type of ship that could sail against the wind.", "answer": "caravel", "hint": "This ship design made long ocean voyages possible."},
+            {"type": "true_false", "question": "England was the first European country to explore extensively.", "answer": false, "hint": "A country on the southwestern coast of Europe led the way."},
+            {"type": "multiple_choice", "question": "What tool helped explorers know which direction they were going?", "options": ["Telescope", "Thermometer", "Magnetic compass", "Clock"], "correct": 2, "hint": "This tool always points north."},
+            {"type": "true_false", "question": "Europeans wanted to find new trade routes to Asia for spices and silk.", "answer": true, "hint": "These goods were very valuable in Europe."},
+            {"type": "multiple_choice", "question": "Which European country was the first to explore extensively?", "options": ["Spain", "England", "France", "Portugal"], "correct": 3, "hint": "This country is on the western edge of Europe, next to the Atlantic Ocean."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-4-2",
+          "title": "Christopher Columbus and the Spanish Explorers",
+          "type": "lesson",
+          "content": {
+            "explanation": "In 1492, Christopher Columbus, an Italian sailor funded by Spain's King Ferdinand and Queen Isabella, sailed west across the Atlantic Ocean hoping to reach Asia. Instead, he landed in the Caribbean islands, in what is now the Bahamas. Columbus made four voyages to the Americas but always believed he had reached Asia, which is why he called the native people 'Indians.' While Columbus is often credited with 'discovering' America, millions of Native Americans already lived there. After Columbus, other Spanish explorers followed. Hernan Cortes conquered the Aztec Empire in Mexico in 1521, and Francisco Pizarro conquered the Inca Empire in Peru in 1533. Juan Ponce de Leon explored Florida, and Hernando de Soto explored the Southeast. These conquests brought great wealth to Spain but caused devastating destruction for Native American civilizations through warfare, enslavement, and diseases that Europeans carried to which Native Americans had no immunity.",
+            "examples": [
+              {"problem": "Why did Columbus call Native Americans 'Indians'?", "answer": "Because he thought he had reached India/Asia, not a new continent.", "explanation": "Columbus never realized he had reached continents that Europeans did not know existed."},
+              {"problem": "What was one devastating effect of European exploration on Native Americans?", "answer": "European diseases like smallpox killed millions of Native Americans who had no immunity.", "explanation": "Diseases were even more destructive than warfare, wiping out entire communities."}
+            ],
+            "key_vocabulary": ["Columbus", "voyage", "Caribbean", "Aztec", "Inca", "conquest", "disease", "immunity"],
+            "real_world": "The encounter between Europeans and Native Americans is one of the most significant events in world history. It changed both continents forever and its effects are still felt today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In what year did Columbus first sail to the Americas?", "options": ["1376", "1440", "1492", "1520"], "correct": 2, "hint": "'In fourteen hundred ninety-two, Columbus sailed the ocean blue.'"},
+            {"type": "fill_in", "question": "Columbus was funded by Spain's King Ferdinand and Queen ___.", "answer": "Isabella", "hint": "This Spanish queen agreed to pay for Columbus's voyage."},
+            {"type": "true_false", "question": "Columbus was the first person to set foot in the Americas.", "answer": false, "hint": "Millions of people already lived there."},
+            {"type": "multiple_choice", "question": "Which Spanish explorer conquered the Aztec Empire?", "options": ["Columbus", "Pizarro", "Cortes", "de Soto"], "correct": 2, "hint": "This explorer conquered the empire in Mexico in 1521."},
+            {"type": "true_false", "question": "European diseases devastated Native American populations.", "answer": true, "hint": "Native Americans had no immunity to diseases like smallpox."},
+            {"type": "multiple_choice", "question": "Where did Columbus actually land on his first voyage?", "options": ["India", "China", "The Caribbean islands", "California"], "correct": 2, "hint": "He landed on islands in the western Atlantic, not in Asia."},
+            {"type": "fill_in", "question": "Juan Ponce de Leon explored the area that is now the state of ___.", "answer": "Florida", "hint": "This southeastern state is a peninsula."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-4-3",
+          "title": "French and English Exploration",
+          "type": "lesson",
+          "content": {
+            "explanation": "France and England also sent explorers to North America, but their approaches were different from Spain's. French explorers like Jacques Cartier explored the St. Lawrence River in Canada in the 1530s, and Samuel de Champlain founded Quebec in 1608. The French were primarily interested in the fur trade and often formed alliances and trading partnerships with Native American groups. They explored and claimed much of central North America, from Canada down through the Mississippi River valley, calling it New France. English exploration began with John Cabot, who explored the coast of Newfoundland in 1497. Later, Sir Walter Raleigh attempted to establish a colony at Roanoke Island in the 1580s, but it mysteriously disappeared. In 1607, the English established Jamestown in Virginia, their first permanent settlement in America. In 1620, the Pilgrims arrived at Plymouth, Massachusetts. English settlers tended to establish farms and permanent towns, which often led to conflict with Native Americans over land.",
+            "examples": [
+              {"problem": "How were French and English approaches to the Americas different?", "answer": "The French focused on fur trade and alliances with Native Americans, while the English focused on building permanent farming settlements.", "explanation": "These different approaches led to different relationships with Native peoples."},
+              {"problem": "What was Jamestown?", "answer": "The first permanent English settlement in America, established in Virginia in 1607.", "explanation": "Though it nearly failed due to starvation and disease, Jamestown survived and became the start of English colonization."}
+            ],
+            "key_vocabulary": ["fur trade", "alliance", "New France", "Jamestown", "Plymouth", "Pilgrims", "colony", "settlement"],
+            "real_world": "The city of Quebec, founded by Champlain in 1608, is still a major French-speaking city in Canada today. The influence of French and English colonization can still be seen across North America."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What were the French primarily interested in when they came to North America?", "options": ["Gold mining", "The fur trade", "Conquering empires", "Finding a fountain of youth"], "correct": 1, "hint": "Animal pelts were very valuable in Europe for making hats and clothing."},
+            {"type": "fill_in", "question": "___ was the first permanent English settlement in America, founded in 1607.", "answer": "Jamestown", "hint": "This settlement was in Virginia."},
+            {"type": "true_false", "question": "The Pilgrims arrived at Plymouth, Massachusetts in 1620.", "answer": true, "hint": "The Pilgrims came seeking religious freedom."},
+            {"type": "multiple_choice", "question": "Who founded Quebec in 1608?", "options": ["Jacques Cartier", "Samuel de Champlain", "John Cabot", "Sir Walter Raleigh"], "correct": 1, "hint": "This French explorer is considered the 'Father of New France.'"},
+            {"type": "true_false", "question": "English settlers usually formed trading partnerships with Native Americans instead of taking their land.", "answer": false, "hint": "English settlers tended to build permanent farms, which led to conflicts over land."},
+            {"type": "multiple_choice", "question": "What happened to the English colony at Roanoke Island?", "options": ["It became a major city", "It mysteriously disappeared", "It became Jamestown", "It moved to Canada"], "correct": 1, "hint": "This colony is sometimes called the 'Lost Colony.'"},
+            {"type": "fill_in", "question": "The French called their territory in North America New ___.", "answer": "France", "hint": "They named it after their home country."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-4-4",
+          "title": "The Columbian Exchange",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Columbian Exchange is the name for the massive transfer of plants, animals, foods, people, diseases, and ideas between the Americas and Europe, Africa, and Asia that began after Columbus's voyages. From the Americas, Europeans brought back crops that had never been seen in Europe: potatoes, tomatoes, corn, chocolate, tobacco, peanuts, and many others. These foods transformed diets around the world. From Europe, animals like horses, cattle, pigs, sheep, and chickens were brought to the Americas for the first time. Wheat, rice, and sugarcane were also introduced. While this exchange brought many benefits, it also had devastating consequences. European diseases like smallpox, measles, and influenza killed millions of Native Americans — some historians estimate up to 90 percent of the Native population in some areas. The Columbian Exchange also included the horrific Atlantic slave trade, in which millions of African people were forcibly brought to the Americas. The Columbian Exchange permanently changed every continent on Earth.",
+            "examples": [
+              {"problem": "What is the Columbian Exchange?", "answer": "The transfer of plants, animals, diseases, and ideas between the Americas and the rest of the world after 1492.", "explanation": "This exchange changed what people ate, how they farmed, and even which diseases they faced."},
+              {"problem": "Name one animal brought from Europe to the Americas.", "answer": "Horses, cattle, pigs, sheep, or chickens.", "explanation": "None of these animals existed in the Americas before Europeans arrived. Horses, in particular, transformed the lives of Plains Native Americans."}
+            ],
+            "key_vocabulary": ["Columbian Exchange", "transfer", "crops", "livestock", "smallpox", "Atlantic slave trade", "consequence"],
+            "real_world": "Italian food is famous for tomato sauce, but tomatoes originally came from the Americas. Irish people relied on potatoes, which also came from the Americas. The Columbian Exchange changed what people eat all over the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which food was brought FROM the Americas TO Europe?", "options": ["Wheat", "Rice", "Potatoes", "Chicken"], "correct": 2, "hint": "This food became a staple in Ireland and many other European countries."},
+            {"type": "fill_in", "question": "The massive transfer of plants, animals, and diseases after 1492 is called the ___ Exchange.", "answer": "Columbian", "hint": "It is named after the explorer who started it."},
+            {"type": "true_false", "question": "Horses existed in the Americas before Europeans arrived.", "answer": false, "hint": "Europeans brought horses to the Americas for the first time."},
+            {"type": "multiple_choice", "question": "What was one devastating consequence of the Columbian Exchange?", "options": ["Europeans learned new languages", "Millions of Native Americans died from European diseases", "New types of art were created", "The oceans got smaller"], "correct": 1, "hint": "Native Americans had no immunity to these diseases."},
+            {"type": "true_false", "question": "Tomatoes originally came from Europe.", "answer": false, "hint": "Tomatoes are one of the many foods that came from the Americas."},
+            {"type": "multiple_choice", "question": "Which animal brought by Europeans transformed the lives of Plains Native Americans?", "options": ["Sheep", "Pigs", "Horses", "Chickens"], "correct": 2, "hint": "This animal allowed Plains peoples to hunt buffalo more effectively and travel farther."},
+            {"type": "fill_in", "question": "European diseases like ___ killed millions of Native Americans.", "answer": "smallpox", "hint": "This deadly disease caused fevers and skin blisters."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What were the Three Gs of European exploration?", "options": ["Gold, Glory, God", "Guns, Germs, Gold", "Growth, Geography, Government", "Greed, Glory, Grain"], "correct": 0},
+          {"type": "true_false", "question": "Columbus landed in what is now the Bahamas in 1492.", "answer": true},
+          {"type": "multiple_choice", "question": "Which country was most interested in the fur trade in North America?", "options": ["Spain", "England", "France", "Portugal"], "correct": 2},
+          {"type": "fill_in", "question": "The first permanent English settlement was ___, founded in 1607.", "answer": "Jamestown", "hint": ""},
+          {"type": "multiple_choice", "question": "What was the Columbian Exchange?", "options": ["A trading company", "Columbus's ships", "The transfer of plants, animals, and diseases between continents", "A type of currency"], "correct": 2},
+          {"type": "true_false", "question": "Horses existed in the Americas before Europeans arrived.", "answer": false},
+          {"type": "multiple_choice", "question": "Which explorer conquered the Aztec Empire?", "options": ["Pizarro", "Columbus", "Cortes", "Champlain"], "correct": 2},
+          {"type": "true_false", "question": "European diseases killed millions of Native Americans who had no immunity.", "answer": true},
+          {"type": "multiple_choice", "question": "What technology helped explorers navigate the oceans?", "options": ["Telescope", "Compass", "Calculator", "Radio"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "exploration_historian"
+      }
+    },
+    {
+      "id": "4-ss-5",
+      "title": "Colonial Life",
+      "description": "Explore daily life in the thirteen American colonies, including how colonists lived, worked, and governed themselves in the New England, Middle, and Southern colonies.",
+      "lessons": [
+        {
+          "id": "4-ss-5-1",
+          "title": "The Thirteen Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "By the mid-1700s, England had established thirteen colonies along the Atlantic coast of North America. These colonies were divided into three groups based on their geography and way of life. The New England colonies — Massachusetts, Connecticut, Rhode Island, and New Hampshire — had rocky soil, cold winters, and thick forests. The Middle colonies — New York, New Jersey, Pennsylvania, and Delaware — had fertile soil and a moderate climate, earning them the nickname 'the breadbasket colonies.' The Southern colonies — Maryland, Virginia, North Carolina, South Carolina, and Georgia — had warm climates and rich soil ideal for large farms called plantations. People came to the colonies for many reasons: some wanted religious freedom (like the Puritans in Massachusetts and the Quakers in Pennsylvania), some wanted to own land, and some wanted to escape poverty. Unfortunately, the Southern plantation economy relied heavily on the forced labor of enslaved Africans.",
+            "examples": [
+              {"problem": "Why were the Middle colonies called the 'breadbasket colonies'?", "answer": "Because their fertile soil was ideal for growing wheat and other grains used to make bread.", "explanation": "The Middle colonies produced so much grain that they supplied bread to the other colonies."},
+              {"problem": "Why did people come to the American colonies?", "answer": "For religious freedom, to own land, and to escape poverty.", "explanation": "Different people came for different reasons, which is why each colony had its own unique character."}
+            ],
+            "key_vocabulary": ["colony", "New England", "Middle colonies", "Southern colonies", "plantation", "Puritans", "Quakers", "enslaved"],
+            "real_world": "Many of today's major American cities — Boston, New York, Philadelphia, Charleston — started as colonial settlements over 300 years ago."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many English colonies were there in America?", "options": ["10", "13", "15", "50"], "correct": 1, "hint": "This is the same number as the stripes on the American flag."},
+            {"type": "fill_in", "question": "The Middle colonies were called the '___ colonies' because they grew so much grain.", "answer": "breadbasket", "hint": "These colonies produced bread for much of the region."},
+            {"type": "true_false", "question": "The Southern colonies had cold winters and rocky soil.", "answer": false, "hint": "Think about the warm climate of states like Virginia and Georgia."},
+            {"type": "multiple_choice", "question": "Which group came to Massachusetts seeking religious freedom?", "options": ["Quakers", "Catholics", "Puritans", "Baptists"], "correct": 2, "hint": "This religious group wanted to 'purify' the Church of England."},
+            {"type": "true_false", "question": "Southern plantations relied on the forced labor of enslaved Africans.", "answer": true, "hint": "This is a painful but important part of American history."},
+            {"type": "multiple_choice", "question": "Which colony was founded by Quakers?", "options": ["Massachusetts", "Virginia", "Pennsylvania", "Georgia"], "correct": 2, "hint": "This colony was founded by William Penn."},
+            {"type": "fill_in", "question": "The New England colonies had rocky soil, cold winters, and thick ___.", "answer": "forests", "hint": "These tall trees covered much of New England."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-5-2",
+          "title": "Daily Life in the Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Life in the colonies was very different from life today. Most colonists lived on farms and had to grow or make almost everything they needed. Families woke before sunrise and worked until dark. Men and older boys worked in the fields, hunted, and built things. Women and girls cooked, sewed clothing, made candles and soap, tended gardens, and preserved food for winter. Even young children had chores like gathering eggs, fetching water, and feeding animals. Meals were simple — corn bread, stews, beans, and whatever meat could be hunted or raised. Homes were small and often had only one or two rooms. Fireplaces provided heat and were used for cooking. Clothing was homemade from wool or linen. Entertainment included storytelling, singing, and community gatherings like barn raisings, where neighbors helped each other build barns. Life was hard, but colonists built strong communities where people helped one another.",
+            "examples": [
+              {"problem": "What was a typical day like for a colonial child?", "answer": "Children woke early, did chores like gathering eggs or fetching water, helped with farming, and had very little time for play.", "explanation": "Colonial children worked alongside their parents from a young age because every family member's help was needed."},
+              {"problem": "What is a barn raising?", "answer": "A community event where neighbors came together to help build a barn for one family.", "explanation": "Barn raisings show how colonists relied on each other and worked together as a community."}
+            ],
+            "key_vocabulary": ["colonial", "chores", "homestead", "preserve", "linen", "barn raising", "community"],
+            "real_world": "While we buy most things at stores today, colonial families had to make their own clothes, candles, soap, and food. Imagine having to make everything you use!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did most colonial families do for a living?", "options": ["Worked in factories", "Farmed", "Worked in offices", "Fished"], "correct": 1, "hint": "Most colonists lived off the land."},
+            {"type": "true_false", "question": "Colonial homes usually had many rooms and modern conveniences.", "answer": false, "hint": "Homes were small and had very basic furnishings."},
+            {"type": "fill_in", "question": "A ___ raising was a community event where neighbors helped build a structure together.", "answer": "barn", "hint": "This building was used to store crops and house animals."},
+            {"type": "multiple_choice", "question": "What were colonial clothes usually made from?", "options": ["Cotton and silk", "Wool and linen", "Polyester and nylon", "Leather only"], "correct": 1, "hint": "These natural materials could be produced on a farm."},
+            {"type": "true_false", "question": "Even young children had chores in colonial times.", "answer": true, "hint": "Every family member needed to help for the family to survive."},
+            {"type": "multiple_choice", "question": "What was used for both heating and cooking in colonial homes?", "options": ["A stove", "A microwave", "A fireplace", "A furnace"], "correct": 2, "hint": "This was the center of every colonial home."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-5-3",
+          "title": "Colonial Schools and Education",
+          "type": "lesson",
+          "content": {
+            "explanation": "Education in the colonies was very different from what you experience today. In New England, the Puritans valued education because they believed everyone should be able to read the Bible. Massachusetts passed a law in 1647 requiring towns with 50 or more families to hire a teacher. Colonial schools were called 'dame schools' (run by women in their homes) or one-room schoolhouses where children of all ages learned together. Students learned reading, writing, and arithmetic — called the 'Three Rs.' Instead of textbooks, they used hornbooks — wooden paddles with printed lessons covered by a thin sheet of clear horn. Only boys from wealthy families could attend college; Harvard was founded in 1636 and is the oldest college in America. In the Middle and Southern colonies, education was less organized. Wealthy families hired private tutors, while poorer children learned by working alongside their parents. Girls received less formal education than boys, usually learning domestic skills at home. Enslaved people were often denied any education at all, and in some places it was illegal to teach them to read.",
+            "examples": [
+              {"problem": "What were the 'Three Rs'?", "answer": "Reading, writing, and arithmetic (math).", "explanation": "These were the basic subjects taught in colonial schools, similar to the core subjects taught today."},
+              {"problem": "What was a hornbook?", "answer": "A wooden paddle with printed lessons covered by transparent horn, used instead of textbooks.", "explanation": "Paper and books were expensive, so hornbooks were a practical way to teach children their letters and prayers."}
+            ],
+            "key_vocabulary": ["dame school", "hornbook", "Three Rs", "one-room schoolhouse", "tutor", "Harvard", "Puritan"],
+            "real_world": "Your school today has separate classrooms for different grades, libraries full of books, and computers. Colonial students had one room, one teacher, and a hornbook!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What were the 'Three Rs' taught in colonial schools?", "options": ["Running, rowing, riding", "Reading, writing, arithmetic", "Religion, respect, responsibility", "Reasoning, research, review"], "correct": 1, "hint": "These are still core subjects in schools today."},
+            {"type": "fill_in", "question": "___ is the oldest college in America, founded in 1636.", "answer": "Harvard", "hint": "This famous university is in Massachusetts."},
+            {"type": "true_false", "question": "In colonial times, girls received the same education as boys.", "answer": false, "hint": "Girls usually learned domestic skills at home instead of attending school."},
+            {"type": "multiple_choice", "question": "What was a hornbook?", "options": ["A musical instrument", "A wooden paddle with printed lessons", "A type of textbook", "A writing desk"], "correct": 1, "hint": "It was covered with a thin sheet of transparent horn for protection."},
+            {"type": "true_false", "question": "The Puritans valued education because they wanted everyone to read the Bible.", "answer": true, "hint": "Religious beliefs motivated much of colonial education in New England."},
+            {"type": "multiple_choice", "question": "What was a dame school?", "options": ["A school for girls only", "A school run by a woman in her home", "A large public school", "A school for wealthy boys"], "correct": 1, "hint": "'Dame' is an old word for a woman or lady."},
+            {"type": "fill_in", "question": "In colonial ___ schoolhouses, children of all ages learned together in one room.", "answer": "one-room", "hint": "There was only a single room for all students."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-5-4",
+          "title": "Colonial Government and Self-Rule",
+          "type": "lesson",
+          "content": {
+            "explanation": "Even though the colonies belonged to England, colonists began developing their own forms of government. In 1619, Virginia created the House of Burgesses, the first elected legislature in the American colonies. Male landowners could vote for representatives who would help make laws for the colony. In Massachusetts, the Puritans held town meetings where community members gathered to discuss and vote on local issues — a tradition that continues in some New England towns today. The Mayflower Compact, signed by the Pilgrims in 1620 before they even landed at Plymouth, was an agreement to make fair laws that everyone would follow. Each colony eventually had a governor (appointed by the king or elected) and a legislature elected by the colonists. Over time, colonists became accustomed to governing themselves and making their own decisions. This spirit of self-government would later become very important when the colonists felt that England was taking away their rights.",
+            "examples": [
+              {"problem": "What was the House of Burgesses?", "answer": "The first elected legislature in the American colonies, created in Virginia in 1619.", "explanation": "Male landowners voted for representatives who helped make laws, giving colonists a voice in their own government."},
+              {"problem": "What was the Mayflower Compact?", "answer": "An agreement signed by the Pilgrims in 1620 to create fair laws that everyone would obey.", "explanation": "This was one of the first examples of self-government in America."}
+            ],
+            "key_vocabulary": ["House of Burgesses", "legislature", "town meeting", "Mayflower Compact", "self-government", "representative", "rights"],
+            "real_world": "New England town meetings, where citizens gather to vote on local issues, are still held today. They are one of the purest forms of direct democracy in the United States."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was the first elected legislature in the American colonies?", "options": ["The Continental Congress", "The House of Burgesses", "The Town Council", "The Parliament"], "correct": 1, "hint": "This was created in Virginia in 1619."},
+            {"type": "fill_in", "question": "The ___ Compact was signed by the Pilgrims in 1620.", "answer": "Mayflower", "hint": "It was named after the ship the Pilgrims sailed on."},
+            {"type": "true_false", "question": "In colonial town meetings, only the governor was allowed to speak.", "answer": false, "hint": "Town meetings were about community members discussing and voting together."},
+            {"type": "multiple_choice", "question": "Who was allowed to vote for the House of Burgesses?", "options": ["All colonists", "Only women", "Male landowners", "Only the governor"], "correct": 2, "hint": "Voting rights were limited in colonial times."},
+            {"type": "true_false", "question": "The spirit of self-government in the colonies later became important in the fight for independence.", "answer": true, "hint": "Colonists who were used to governing themselves did not like losing that right."},
+            {"type": "multiple_choice", "question": "Where were town meetings most common?", "options": ["Southern colonies", "Middle colonies", "New England colonies", "All colonies equally"], "correct": 2, "hint": "This tradition started with the Puritans."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-5-5",
+          "title": "Different Lives in the Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Not everyone in the colonies lived the same kind of life. Wealthy plantation owners in the South lived in large houses with many rooms and fine furniture. They grew cash crops like tobacco, rice, and indigo and relied on the labor of enslaved Africans. The lives of enslaved people were extremely difficult — they were forced to work long hours, were separated from their families, and had no rights or freedom. In cities like Boston, New York, and Philadelphia, merchants, craftspeople, and shopkeepers made up a growing middle class. Artisans like blacksmiths, silversmiths, carpenters, and printers practiced skilled trades. Indentured servants were people who agreed to work for several years in exchange for their passage to America. Women had fewer rights than men and could not vote or own property in most cases. Native Americans continued to live on their traditional lands, but their territory shrank as more colonists arrived and took land. Understanding these different experiences helps us see that colonial America was not the same for everyone.",
+            "examples": [
+              {"problem": "What is the difference between an enslaved person and an indentured servant?", "answer": "Enslaved people were forced into lifelong slavery with no choice, while indentured servants agreed to work for a set number of years to pay for their passage to America.", "explanation": "Indentured servants eventually earned their freedom; enslaved people did not."},
+              {"problem": "What kinds of jobs did people have in colonial cities?", "answer": "Merchants, craftspeople (blacksmiths, silversmiths, carpenters, printers), and shopkeepers.", "explanation": "Colonial cities were bustling places where people practiced many different trades."}
+            ],
+            "key_vocabulary": ["plantation", "enslaved", "cash crop", "merchant", "artisan", "indentured servant", "middle class"],
+            "real_world": "The inequality that existed in colonial America — especially the institution of slavery — would shape American history for centuries to come and its effects are still felt today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What were cash crops?", "options": ["Crops grown for money, not food", "Crops made of paper", "Crops grown only in cities", "Crops that grew quickly"], "correct": 0, "hint": "These crops like tobacco and rice were sold for profit, not eaten by the farmer."},
+            {"type": "fill_in", "question": "An ___ servant agreed to work for several years to pay for their passage to America.", "answer": "indentured", "hint": "This person was bound to work for a set period before earning their freedom."},
+            {"type": "true_false", "question": "Enslaved Africans had rights and could earn their freedom easily.", "answer": false, "hint": "Enslaved people had no rights and were considered property."},
+            {"type": "multiple_choice", "question": "Which of these was a skilled trade in colonial cities?", "options": ["Computer programmer", "Blacksmith", "Airline pilot", "Dentist"], "correct": 1, "hint": "This person worked with metal, making tools, horseshoes, and other items."},
+            {"type": "true_false", "question": "Women in the colonies could vote and own property just like men.", "answer": false, "hint": "Women had fewer rights than men in colonial times."},
+            {"type": "multiple_choice", "question": "What crops were grown on Southern plantations?", "options": ["Wheat and corn", "Tobacco, rice, and indigo", "Apples and oranges", "Cotton candy and sugar"], "correct": 1, "hint": "These cash crops thrived in the warm Southern climate."},
+            {"type": "fill_in", "question": "Skilled workers like blacksmiths, carpenters, and printers were called ___.", "answer": "artisans", "hint": "These people practiced specialized crafts and trades."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many English colonies were there?", "options": ["10", "13", "15", "20"], "correct": 1},
+          {"type": "true_false", "question": "The Middle colonies were called the 'breadbasket colonies.'", "answer": true},
+          {"type": "multiple_choice", "question": "What was the first elected legislature in the colonies?", "options": ["Town meeting", "House of Burgesses", "Continental Congress", "Parliament"], "correct": 1},
+          {"type": "fill_in", "question": "The ___ Compact was an early agreement for self-government.", "answer": "Mayflower", "hint": ""},
+          {"type": "true_false", "question": "Southern plantations relied on the labor of enslaved Africans.", "answer": true},
+          {"type": "multiple_choice", "question": "What were the Three Rs?", "options": ["Run, read, rest", "Reading, writing, arithmetic", "Rules, rights, responsibilities", "Religion, respect, reason"], "correct": 1},
+          {"type": "multiple_choice", "question": "What was a cash crop?", "options": ["A crop grown for profit", "A crop made of money", "A crop that grew fast", "A crop grown in a city"], "correct": 0},
+          {"type": "true_false", "question": "All colonists lived the same kind of life.", "answer": false},
+          {"type": "multiple_choice", "question": "Which college is the oldest in America?", "options": ["Yale", "Princeton", "Harvard", "William & Mary"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "colonial_life_expert"
+      }
+    },
+    {
+      "id": "4-ss-6",
+      "title": "Economics Basics: Goods, Services, and Trade",
+      "description": "Learn fundamental economic concepts including goods and services, producers and consumers, supply and demand, and how trade works at local and global levels.",
+      "lessons": [
+        {
+          "id": "4-ss-6-1",
+          "title": "Goods and Services",
+          "type": "lesson",
+          "content": {
+            "explanation": "Economics is the study of how people make, buy, sell, and use things. Everything in economics starts with two basic concepts: goods and services. Goods are physical things that people make or grow and can buy or sell. A bicycle, a book, a sandwich, and a pair of shoes are all goods. Services are tasks or jobs that people do for others. When a doctor examines you, a teacher teaches you, a barber cuts your hair, or a plumber fixes a leaky pipe, they are providing services. Most businesses provide either goods, services, or both. A restaurant provides both: the food is a good, and the cooking and serving are services. People need both goods and services to live their daily lives. Understanding the difference between goods and services helps us see how our economy works and how people earn money by providing things that others need or want.",
+            "examples": [
+              {"problem": "Is a haircut a good or a service?", "answer": "A service, because the barber is doing a task for you, not selling you a physical item.", "explanation": "Even though you can see and feel the results, the haircut itself is work done by another person."},
+              {"problem": "Is a pizza a good or a service?", "answer": "A pizza is a good — it is a physical item you can buy and eat.", "explanation": "However, if you eat at a pizza restaurant, the cooking and serving are services!"}
+            ],
+            "key_vocabulary": ["economics", "goods", "services", "business", "consumer", "physical", "economy"],
+            "real_world": "Think about your last trip to a store or restaurant. The items you bought were goods, and the help you received from the cashier or waiter was a service."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a good?", "options": ["A dentist cleaning your teeth", "A teacher giving a lesson", "A new bicycle", "A dog walker walking your dog"], "correct": 2, "hint": "A good is a physical thing you can touch and buy."},
+            {"type": "true_false", "question": "A doctor's examination is an example of a service.", "answer": true, "hint": "The doctor is performing a task for you, not selling you a physical item."},
+            {"type": "fill_in", "question": "___ are physical things that people make, grow, or sell.", "answer": "Goods", "hint": "This word is the opposite of services in economics."},
+            {"type": "multiple_choice", "question": "A restaurant provides:", "options": ["Only goods", "Only services", "Both goods and services", "Neither goods nor services"], "correct": 2, "hint": "Think about both the food and the work done by the staff."},
+            {"type": "true_false", "question": "A book is an example of a service.", "answer": false, "hint": "A book is a physical thing you can hold in your hands."},
+            {"type": "multiple_choice", "question": "Which of these is a service?", "options": ["A pair of shoes", "A bag of apples", "A car repair", "A toy robot"], "correct": 2, "hint": "This involves someone doing work for you."},
+            {"type": "fill_in", "question": "___ is the study of how people make, buy, sell, and use things.", "answer": "Economics", "hint": "This word describes the whole system of producing and consuming goods and services."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-6-2",
+          "title": "Producers and Consumers",
+          "type": "lesson",
+          "content": {
+            "explanation": "In an economy, there are two important roles: producers and consumers. A producer is anyone who makes goods or provides services. A farmer who grows apples, a factory that makes toys, and a plumber who fixes pipes are all producers. A consumer is anyone who buys or uses goods and services. When you buy a snack at the store, you are a consumer. The interesting thing is that most people are both producers and consumers. A teacher produces a service (education) but is also a consumer when they buy groceries. Producers and consumers depend on each other. Producers need consumers to buy their products, and consumers need producers to make the things they want and need. This relationship is the foundation of every economy. When many people want to buy something, producers try to make more of it. When people stop wanting something, producers stop making it.",
+            "examples": [
+              {"problem": "Is a baker a producer or consumer?", "answer": "A baker is both! They are a producer when making bread and a consumer when buying flour and sugar.", "explanation": "Most people play both roles in the economy."},
+              {"problem": "Why do producers and consumers depend on each other?", "answer": "Producers need consumers to buy their goods and services, and consumers need producers to make what they want.", "explanation": "Without consumers, producers would have no one to sell to. Without producers, consumers would have nothing to buy."}
+            ],
+            "key_vocabulary": ["producer", "consumer", "economy", "product", "depend", "relationship", "foundation"],
+            "real_world": "Your parents are producers when they go to work and consumers when they shop for groceries. You are a consumer when you buy a snack and a producer when you do a chore for allowance money."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a producer?", "options": ["Someone who only buys things", "Someone who makes goods or provides services", "Someone who works for the government", "Someone who doesn't work"], "correct": 1, "hint": "This person creates something that others want or need."},
+            {"type": "true_false", "question": "A person can be both a producer and a consumer.", "answer": true, "hint": "Think about how most adults both work (produce) and shop (consume)."},
+            {"type": "fill_in", "question": "A ___ is anyone who buys or uses goods and services.", "answer": "consumer", "hint": "When you buy something at a store, you are playing this role."},
+            {"type": "multiple_choice", "question": "A farmer who grows vegetables is acting as a:", "options": ["Consumer", "Producer", "Governor", "Trader"], "correct": 1, "hint": "The farmer is making something that others will buy."},
+            {"type": "true_false", "question": "Producers do not need consumers.", "answer": false, "hint": "Without anyone to buy products, producers could not stay in business."},
+            {"type": "multiple_choice", "question": "When you buy a book at a bookstore, you are:", "options": ["A producer", "A consumer", "A publisher", "A librarian"], "correct": 1, "hint": "You are buying and using something someone else made."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-6-3",
+          "title": "Supply and Demand",
+          "type": "lesson",
+          "content": {
+            "explanation": "Supply and demand are two of the most important ideas in economics. Supply is the amount of a good or service that producers are willing to sell. Demand is how much of a good or service consumers want to buy. When demand is high (many people want something) but supply is low (there is not much of it), the price goes up. When demand is low (few people want something) but supply is high (there is a lot of it), the price goes down. Think about it this way: if a new toy is very popular and stores only have a few left, the toy might become very expensive. But if stores have shelves full of a toy and nobody wants it, the price will drop. Supply and demand work together to help determine prices in a market economy. Understanding supply and demand helps explain why prices change and why some things cost more than others.",
+            "examples": [
+              {"problem": "Why do umbrellas sometimes cost more on a rainy day?", "answer": "Because demand is high (everyone wants one) and supply may be limited.", "explanation": "When more people want something and there is not enough to go around, sellers can charge higher prices."},
+              {"problem": "What happens to the price when supply is high and demand is low?", "answer": "The price goes down.", "explanation": "If a store has too many of something and not many people want it, the store will lower the price to try to sell it."}
+            ],
+            "key_vocabulary": ["supply", "demand", "price", "market", "scarcity", "surplus", "economy"],
+            "real_world": "After a holiday like Halloween, candy goes on sale because supply is high (stores have lots of leftover candy) but demand is low (the holiday is over). That is supply and demand at work!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What happens when demand is high and supply is low?", "options": ["Prices go down", "Prices stay the same", "Prices go up", "The product disappears"], "correct": 2, "hint": "When many people want something but there is not much of it, sellers can charge more."},
+            {"type": "fill_in", "question": "___ is how much of a good or service consumers want to buy.", "answer": "Demand", "hint": "This word describes how badly people want something."},
+            {"type": "true_false", "question": "When supply is high and demand is low, prices go up.", "answer": false, "hint": "Think about what happens when a store has too much of something nobody wants."},
+            {"type": "multiple_choice", "question": "Why might a popular new video game cost a lot when it first comes out?", "options": ["Because it is well-made", "Because demand is high and supply may be limited", "Because the store likes the game", "Because it is heavy to ship"], "correct": 1, "hint": "Many people want it, but there may not be enough copies at first."},
+            {"type": "true_false", "question": "Supply and demand help determine prices in a market economy.", "answer": true, "hint": "These two forces work together to set prices."},
+            {"type": "multiple_choice", "question": "What is supply?", "options": ["How much consumers want", "The amount producers are willing to sell", "The price of a product", "How many stores exist"], "correct": 1, "hint": "Supply is about how much of something is available for sale."},
+            {"type": "fill_in", "question": "After Halloween, candy prices drop because ___ is high and demand is low.", "answer": "supply", "hint": "Stores have too much leftover candy."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-6-4",
+          "title": "Trade: Local and Global",
+          "type": "lesson",
+          "content": {
+            "explanation": "Trade is the exchange of goods and services between people, businesses, or countries. Trade happens because no person, community, or country can produce everything it needs. A farmer might trade wheat for a doctor's services. A city might import food from farms in the countryside. Countries trade with each other because different places have different resources and abilities. For example, tropical countries grow bananas and coffee, which they trade to countries in colder climates. In return, they might receive manufactured goods like electronics or machinery. Trade benefits everyone because each trading partner gets something they need or want. Trade can happen locally (within your community), nationally (across your country), or internationally (between countries). International trade is especially important today — the shirt you are wearing might have been made in another country, and the fruit you eat might have been grown thousands of miles away. Trade connects people all around the world.",
+            "examples": [
+              {"problem": "Why do countries trade with each other?", "answer": "Because no country can produce everything its people need. Different countries have different resources and abilities.", "explanation": "For example, the US trades with countries that grow tropical fruits and with countries that manufacture electronics."},
+              {"problem": "How does trade benefit people?", "answer": "Trade allows people to get goods and services they cannot produce themselves, giving everyone access to a wider variety of products.", "explanation": "Without trade, you could only use things made or grown in your local area."}
+            ],
+            "key_vocabulary": ["trade", "import", "export", "resources", "international", "exchange", "manufacture"],
+            "real_world": "Look at the labels on your clothes, toys, and food. You will probably find items from many different countries. That is international trade at work!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why do countries trade with each other?", "options": ["For fun", "Because they have to by law", "Because no country can produce everything it needs", "Because they do not have any money"], "correct": 2, "hint": "Different countries have different resources and abilities."},
+            {"type": "fill_in", "question": "When a country buys goods from another country, it is called an ___.", "answer": "import", "hint": "This word starts with 'im' and means bringing goods in."},
+            {"type": "true_false", "question": "Trade only happens between countries, not within a single country.", "answer": false, "hint": "Trade also happens locally and nationally."},
+            {"type": "multiple_choice", "question": "What is an export?", "options": ["Buying goods from another country", "Selling goods to another country", "Making goods in a factory", "Transporting goods on a ship"], "correct": 1, "hint": "This is the opposite of an import. Think 'sending out.'"},
+            {"type": "true_false", "question": "Trade benefits both trading partners.", "answer": true, "hint": "Each partner gets something they need or want."},
+            {"type": "multiple_choice", "question": "Which is an example of international trade?", "options": ["Buying vegetables from a local farm", "Selling lemonade to your neighbor", "A US store selling coffee grown in Colombia", "Buying a book at the library"], "correct": 2, "hint": "This involves goods moving between two different countries."},
+            {"type": "fill_in", "question": "The exchange of goods and services between people, businesses, or countries is called ___.", "answer": "trade", "hint": "This five-letter word describes buying and selling between different groups."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ss-6-5",
+          "title": "Wants, Needs, and Making Choices",
+          "type": "lesson",
+          "content": {
+            "explanation": "In economics, it is important to understand the difference between needs and wants. Needs are things you must have to survive: food, water, shelter, and clothing. Wants are things you would like to have but do not need to survive: toys, video games, candy, and vacations. Since people do not have unlimited money, they have to make choices about how to spend it. This is called scarcity — there is not enough of everything for everyone to have all they want. When you choose to spend your allowance on a book, you cannot also spend that same money on a game. The thing you give up is called an opportunity cost. For example, if you choose to buy a book for $10 instead of a game for $10, the opportunity cost of the book is the game you did not buy. Governments also have to make choices about how to spend money — they might choose to build a new school instead of a new park. Every choice has an opportunity cost.",
+            "examples": [
+              {"problem": "What is the difference between a need and a want?", "answer": "A need is something you must have to survive (like food and shelter). A want is something you would like but do not need to survive (like a toy).", "explanation": "Understanding this difference helps you make better choices about spending money."},
+              {"problem": "If you have $5 and choose to buy a sandwich instead of a toy, what is the opportunity cost?", "answer": "The toy is the opportunity cost — it is what you gave up when you chose the sandwich.", "explanation": "Every time you make a choice, there is something else you could have chosen instead."}
+            ],
+            "key_vocabulary": ["needs", "wants", "scarcity", "opportunity cost", "choice", "budget", "resources"],
+            "real_world": "Every day, you and your family make choices about how to spend time and money. When your family goes to a movie instead of a restaurant, the restaurant dinner is the opportunity cost."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a need?", "options": ["A video game", "A bicycle", "Food", "A television"], "correct": 2, "hint": "A need is something you must have to survive."},
+            {"type": "true_false", "question": "Scarcity means there is not enough of everything for everyone to have all they want.", "answer": true, "hint": "This is why people have to make choices about spending."},
+            {"type": "fill_in", "question": "When you choose one thing over another, what you give up is called the ___ cost.", "answer": "opportunity", "hint": "This word means a chance or possibility that you did not take."},
+            {"type": "multiple_choice", "question": "Which is a want, not a need?", "options": ["Clean water", "Shelter from weather", "Warm clothing", "A new toy"], "correct": 3, "hint": "A want is something nice to have but not necessary for survival."},
+            {"type": "true_false", "question": "Only individuals face scarcity; governments never have to make choices about spending.", "answer": false, "hint": "Governments also have limited money and must decide how to spend it."},
+            {"type": "multiple_choice", "question": "You have $20. You buy a book for $20. The opportunity cost might be:", "options": ["The book you bought", "A game you could have bought instead", "Nothing, because you spent all your money", "More money"], "correct": 1, "hint": "Opportunity cost is what you gave up when you made your choice."},
+            {"type": "fill_in", "question": "___ are things you must have to survive, like food, water, and shelter.", "answer": "Needs", "hint": "This word describes essential items, as opposed to wants."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is a service, not a good?", "options": ["A bicycle", "A book", "A haircut", "A sandwich"], "correct": 2},
+          {"type": "true_false", "question": "A producer makes goods or provides services.", "answer": true},
+          {"type": "multiple_choice", "question": "When demand is high and supply is low, prices:", "options": ["Go down", "Stay the same", "Go up", "Disappear"], "correct": 2},
+          {"type": "fill_in", "question": "Buying goods from another country is called an ___.", "answer": "import", "hint": ""},
+          {"type": "multiple_choice", "question": "What is opportunity cost?", "options": ["The price of a product", "What you give up when you make a choice", "The tax on a purchase", "The cost of shipping"], "correct": 1},
+          {"type": "true_false", "question": "A want is something you must have to survive.", "answer": false},
+          {"type": "multiple_choice", "question": "Why do countries trade?", "options": ["For fun", "Because no country can produce everything", "Because they are required to", "To start wars"], "correct": 1},
+          {"type": "true_false", "question": "A person can be both a producer and a consumer.", "answer": true},
+          {"type": "multiple_choice", "question": "Which of these is a need?", "options": ["Video game", "Candy", "Shelter", "Toy"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "economics_basics_star"
+      }
+    }
+  ]
+}

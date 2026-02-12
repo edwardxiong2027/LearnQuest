@@ -1,0 +1,3448 @@
+{
+  "grade": 9,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "9-ss-1",
+      "title": "Early Civilizations",
+      "description": "Explore the first complex societies that emerged along great rivers \u2014 Mesopotamia, Egypt, the Indus Valley, and China \u2014 and discover how geography, agriculture, and innovation shaped the birth of civilization.",
+      "lessons": [
+        {
+          "id": "9-social_studies-1-1",
+          "title": "Mesopotamia: The Cradle of Civilization",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mesopotamia, located between the Tigris and Euphrates rivers in modern-day Iraq, is often called the 'cradle of civilization.' Around 3500 BCE, the Sumerians developed one of the world's first complex societies here. They invented cuneiform, one of the earliest writing systems, used clay tablets for record-keeping, and built impressive ziggurats as temples to their gods. Mesopotamia's fertile soil, enriched by river flooding, allowed surplus agriculture, which freed people to specialize in crafts, trade, and governance. City-states like Ur, Uruk, and Babylon emerged, each with its own ruler and patron deity. The region also produced Hammurabi's Code, one of the earliest known written legal codes, which established the principle that laws should be publicly known and applied consistently.",
+            "examples": [
+              {
+                "problem": "Why is Mesopotamia called the 'cradle of civilization'?",
+                "answer": "Because it was one of the first places where complex urban societies developed.",
+                "explanation": "The fertile land between the Tigris and Euphrates rivers enabled farming surpluses, which led to cities, writing, laws, and specialized labor \u2014 the hallmarks of civilization."
+              },
+              {
+                "problem": "What was cuneiform?",
+                "answer": "A writing system using wedge-shaped marks pressed into clay tablets.",
+                "explanation": "Invented by the Sumerians around 3400 BCE, cuneiform was used for trade records, laws, literature, and religious texts. It was one of humanity's first writing systems."
+              },
+              {
+                "problem": "Why was Hammurabi's Code significant?",
+                "answer": "It was one of the first written legal codes, establishing publicly known laws.",
+                "explanation": "Hammurabi's Code contained 282 laws covering trade, property, family, and labor. It introduced the idea that justice should be consistent and that laws should be written for all to see."
+              }
+            ],
+            "key_vocabulary": [
+              "Mesopotamia",
+              "cuneiform",
+              "ziggurat",
+              "city-state",
+              "Hammurabi's Code",
+              "Sumer",
+              "Tigris",
+              "Euphrates"
+            ],
+            "real_world": "Modern legal systems still reflect principles from Hammurabi's Code \u2014 the idea that laws should be written, public, and applied to everyone is foundational to democratic societies today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where was Mesopotamia located?",
+              "options": [
+                "Between the Nile and Congo rivers",
+                "Between the Tigris and Euphrates rivers",
+                "Along the Yellow River",
+                "On the Indus River"
+              ],
+              "correct": 1,
+              "hint": "Think 'land between two rivers' in modern-day Iraq."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Sumerians invented a writing system called ___.",
+              "answer": "cuneiform",
+              "hint": "It used wedge-shaped marks on clay tablets."
+            },
+            {
+              "type": "true_false",
+              "question": "Hammurabi's Code was one of the earliest known written legal codes.",
+              "answer": true,
+              "hint": "It contained 282 laws from ancient Babylon."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were ziggurats?",
+              "options": [
+                "Irrigation canals",
+                "Military fortresses",
+                "Temple structures",
+                "Market squares"
+              ],
+              "correct": 2,
+              "hint": "These massive stepped structures served a religious purpose."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Around what year did Sumerian civilization develop?",
+              "options": [
+                "1000 BCE",
+                "2000 BCE",
+                "3500 BCE",
+                "5000 BCE"
+              ],
+              "correct": 2,
+              "hint": "Think mid-fourth millennium BCE."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mesopotamia is often called the '___ of civilization.'",
+              "answer": "cradle",
+              "hint": "It was one of the first places complex societies arose."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-1-2",
+          "title": "Ancient Egypt: Gift of the Nile",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Egyptian civilization flourished along the Nile River in northeastern Africa for over 3,000 years, from roughly 3100 BCE to 30 BCE. The Nile's annual flooding deposited rich silt on the riverbanks, creating fertile farmland in an otherwise desert landscape \u2014 leading the Greek historian Herodotus to call Egypt 'the gift of the Nile.' Egyptian society was organized under a powerful pharaoh, believed to be a living god, who ruled with absolute authority. The Egyptians developed hieroglyphics for writing, built monumental pyramids as royal tombs, and made advances in medicine, astronomy, and engineering. Their complex religious beliefs centered on the afterlife, leading to the practice of mummification. Upper and Lower Egypt were unified around 3100 BCE under King Narmer (Menes), establishing one of history's longest-lasting civilizations.",
+            "examples": [
+              {
+                "problem": "Why was the Nile River so important to Egyptian civilization?",
+                "answer": "Its annual flooding created fertile farmland that supported agriculture in the desert.",
+                "explanation": "Without the Nile's reliable flood cycle, farming would have been nearly impossible in the Sahara region. The river also served as a transportation highway connecting Upper and Lower Egypt."
+              },
+              {
+                "problem": "What was the role of the pharaoh?",
+                "answer": "The pharaoh was both political ruler and religious leader, considered a living god.",
+                "explanation": "Pharaohs commanded armies, oversaw building projects, collected taxes, and served as intermediaries between the people and the gods. Their word was absolute law."
+              },
+              {
+                "problem": "Why did Egyptians practice mummification?",
+                "answer": "They believed preserving the body was necessary for the soul's journey to the afterlife.",
+                "explanation": "Egyptians believed in an afterlife where the soul (ka and ba) needed the body. Mummification prevented decay, and tombs were filled with goods the deceased would need in the next life."
+              }
+            ],
+            "key_vocabulary": [
+              "pharaoh",
+              "hieroglyphics",
+              "mummification",
+              "pyramid",
+              "Nile River",
+              "Upper Egypt",
+              "Lower Egypt",
+              "afterlife"
+            ],
+            "real_world": "The Rosetta Stone, discovered in 1799, allowed scholars to finally decode hieroglyphics. Today it sits in the British Museum and remains central to debates about cultural heritage and repatriation."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who called Egypt 'the gift of the Nile'?",
+              "options": [
+                "Julius Caesar",
+                "Herodotus",
+                "Cleopatra",
+                "Hammurabi"
+              ],
+              "correct": 1,
+              "hint": "He was a Greek historian."
+            },
+            {
+              "type": "fill_in",
+              "question": "Egyptian writing used symbols called ___.",
+              "answer": "hieroglyphics",
+              "hint": "This word comes from Greek, meaning 'sacred carvings.'"
+            },
+            {
+              "type": "true_false",
+              "question": "The pharaoh was considered a living god in ancient Egypt.",
+              "answer": true,
+              "hint": "Pharaohs held both political and religious authority."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Around what year were Upper and Lower Egypt unified?",
+              "options": [
+                "5000 BCE",
+                "3100 BCE",
+                "1500 BCE",
+                "500 BCE"
+              ],
+              "correct": 1,
+              "hint": "Think early third millennium BCE under King Narmer."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why did Egyptians build pyramids?",
+              "options": [
+                "As military forts",
+                "As marketplaces",
+                "As royal tombs",
+                "As observatories"
+              ],
+              "correct": 2,
+              "hint": "These structures housed pharaohs for their journey to the afterlife."
+            },
+            {
+              "type": "fill_in",
+              "question": "The practice of preserving bodies for the afterlife is called ___.",
+              "answer": "mummification",
+              "hint": "Egyptians believed the soul needed the body in the next life."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-1-3",
+          "title": "Indus Valley and Ancient China",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Indus Valley Civilization (c. 2600\u20131900 BCE) flourished in modern-day Pakistan and northwestern India along the Indus River. Its two major cities, Harappa and Mohenjo-Daro, displayed remarkably advanced urban planning with grid-pattern streets, standardized brick construction, and sophisticated drainage and sewage systems that would not be matched in Europe for thousands of years. The civilization had a writing system that remains undeciphered and engaged in long-distance trade with Mesopotamia. Meanwhile, ancient Chinese civilization developed along the Yellow River (Huang He). The Shang Dynasty (c. 1600\u20131046 BCE) is the earliest Chinese dynasty confirmed by archaeology. The Shang developed oracle bones for divination, bronze casting technology, and an early form of Chinese writing. The Zhou Dynasty (1046\u2013256 BCE) that followed introduced the Mandate of Heaven \u2014 the idea that rulers govern with divine approval, which they can lose through misrule.",
+            "examples": [
+              {
+                "problem": "What made Indus Valley cities so remarkable?",
+                "answer": "They had advanced urban planning with grid streets, standardized bricks, and sophisticated sewage systems.",
+                "explanation": "Mohenjo-Daro and Harappa showed a level of urban design that suggests strong central planning. Houses had indoor plumbing and connected to city-wide drainage \u2014 a feat unmatched in Europe for millennia."
+              },
+              {
+                "problem": "What were oracle bones?",
+                "answer": "Animal bones or turtle shells used by Shang Dynasty priests to communicate with ancestors and predict the future.",
+                "explanation": "Questions were inscribed on the bones, which were then heated until they cracked. The cracks were interpreted as answers from the spirit world. These bones contain the earliest known Chinese writing."
+              },
+              {
+                "problem": "What was the Mandate of Heaven?",
+                "answer": "The belief that heaven granted the right to rule to a just emperor, and could withdraw it from an unjust one.",
+                "explanation": "Introduced by the Zhou Dynasty to justify overthrowing the Shang, this concept became central to Chinese political philosophy. Natural disasters or rebellion could signal that a ruler had lost the mandate."
+              }
+            ],
+            "key_vocabulary": [
+              "Indus Valley",
+              "Harappa",
+              "Mohenjo-Daro",
+              "Shang Dynasty",
+              "Zhou Dynasty",
+              "oracle bones",
+              "Mandate of Heaven",
+              "Yellow River"
+            ],
+            "real_world": "The Indus Valley script remains one of the great unsolved puzzles of archaeology. Despite decades of effort, no one has successfully deciphered it, leaving much of this civilization's history a mystery."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where was the Indus Valley Civilization located?",
+              "options": [
+                "Modern-day Egypt",
+                "Modern-day Pakistan and India",
+                "Modern-day China",
+                "Modern-day Iraq"
+              ],
+              "correct": 1,
+              "hint": "Think about which river it's named after."
+            },
+            {
+              "type": "fill_in",
+              "question": "The two major cities of the Indus Valley were Harappa and ___.",
+              "answer": "Mohenjo-Daro",
+              "hint": "This city's name means 'Mound of the Dead.'"
+            },
+            {
+              "type": "true_false",
+              "question": "The Indus Valley writing system has been fully deciphered.",
+              "answer": false,
+              "hint": "It remains one of archaeology's great unsolved puzzles."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which Chinese dynasty used oracle bones?",
+              "options": [
+                "Zhou",
+                "Shang",
+                "Han",
+                "Qin"
+              ],
+              "correct": 1,
+              "hint": "This was the earliest archaeologically confirmed Chinese dynasty."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Mandate of Heaven?",
+              "options": [
+                "A Chinese military strategy",
+                "A belief that rulers govern with divine approval that can be lost",
+                "A trade agreement between dynasties",
+                "A type of Chinese writing"
+              ],
+              "correct": 1,
+              "hint": "The Zhou used it to justify overthrowing the Shang."
+            },
+            {
+              "type": "fill_in",
+              "question": "Ancient Chinese civilization developed along the ___ River.",
+              "answer": "Yellow",
+              "hint": "Also called the Huang He, it's known as the 'cradle of Chinese civilization.'"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-1-4",
+          "title": "Comparing River Valley Civilizations",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four major river valley civilizations \u2014 Mesopotamia (Tigris-Euphrates), Egypt (Nile), Indus Valley (Indus), and China (Yellow River) \u2014 each developed independently but shared remarkable similarities. All arose along major rivers whose flooding created fertile agricultural land. This agricultural surplus allowed population growth and specialization of labor, leading to social hierarchies, organized religion, writing systems, and monumental architecture. However, each civilization also had unique characteristics. Mesopotamia produced the first written laws; Egypt developed the most elaborate afterlife beliefs; the Indus Valley achieved the most advanced urban planning; and China created a political philosophy (Mandate of Heaven) that endured for millennia. Historians study these civilizations to understand why complex societies emerge and what common factors drive human development from simple farming communities to great empires.",
+            "examples": [
+              {
+                "problem": "What did all river valley civilizations have in common?",
+                "answer": "They all arose along rivers, relied on agriculture, and developed writing, social classes, and organized government.",
+                "explanation": "Rivers provided water for farming, transportation, and trade. Agricultural surplus freed people to specialize, creating priests, artisans, soldiers, and rulers \u2014 the foundation of complex society."
+              },
+              {
+                "problem": "How did geography shape these civilizations differently?",
+                "answer": "Egypt's desert isolation provided natural defense; Mesopotamia's open plains made it vulnerable to invasion; China's mountains created isolation.",
+                "explanation": "Geography influenced everything from military strategy to cultural exchange. Egypt remained relatively stable for millennia partly because deserts protected it, while Mesopotamia saw constant conquest and cultural mixing."
+              },
+              {
+                "problem": "Why is the development of writing considered so important?",
+                "answer": "Writing allowed record-keeping, law, literature, and the transmission of knowledge across generations.",
+                "explanation": "Before writing, knowledge existed only in memory and oral tradition. Writing made it possible to create lasting legal codes, religious texts, trade records, and historical accounts."
+              }
+            ],
+            "key_vocabulary": [
+              "river valley civilization",
+              "agricultural surplus",
+              "specialization of labor",
+              "social hierarchy",
+              "urbanization",
+              "cultural diffusion",
+              "independent development"
+            ],
+            "real_world": "Today, most of the world's largest cities are still located near rivers or coasts, showing that the geographic factors that shaped ancient civilizations continue to influence where people live."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What geographic feature did all four river valley civilizations share?",
+              "options": [
+                "Mountain ranges",
+                "Desert isolation",
+                "Major rivers with fertile floodplains",
+                "Coastal access"
+              ],
+              "correct": 2,
+              "hint": "Think about why they're called 'river valley' civilizations."
+            },
+            {
+              "type": "fill_in",
+              "question": "Agricultural ___ allowed people to specialize in crafts, trade, and governance.",
+              "answer": "surplus",
+              "hint": "When farmers grew more than they needed, others could do different jobs."
+            },
+            {
+              "type": "true_false",
+              "question": "All four river valley civilizations developed completely identical writing systems.",
+              "answer": false,
+              "hint": "Each developed unique writing: cuneiform, hieroglyphics, Indus script, and Chinese characters."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which civilization had the most advanced urban planning?",
+              "options": [
+                "Mesopotamia",
+                "Egypt",
+                "Indus Valley",
+                "China"
+              ],
+              "correct": 2,
+              "hint": "Think about grid streets and sewage systems."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which civilization developed the concept of the Mandate of Heaven?",
+              "options": [
+                "Mesopotamia",
+                "Egypt",
+                "Indus Valley",
+                "China"
+              ],
+              "correct": 3,
+              "hint": "This was a political philosophy about divine right to rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "The development of ___ allowed knowledge to be transmitted across generations.",
+              "answer": "writing",
+              "hint": "Before this invention, knowledge existed only in memory and oral tradition."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-1-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which civilization invented cuneiform?",
+            "options": [
+              "Egypt",
+              "Sumer/Mesopotamia",
+              "Indus Valley",
+              "China"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The Nile's annual flooding was destructive and unhelpful to Egyptian farmers.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the Mandate of Heaven?",
+            "options": [
+              "Egyptian religious text",
+              "Mesopotamian law code",
+              "Chinese belief about divine right to rule",
+              "Indus Valley trade agreement"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The two major Indus Valley cities were Harappa and ___.",
+            "answer": "Mohenjo-Daro"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What common factor allowed all river valley civilizations to develop?",
+            "options": [
+              "Gold deposits",
+              "Fertile land from river flooding",
+              "Ocean trade routes",
+              "Iron ore"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "early_civilizations_scholar"
+      }
+    },
+    {
+      "id": "9-ss-2",
+      "title": "Ancient Greece",
+      "description": "Discover how the ancient Greeks created democracy, pioneered philosophy, and spread their culture across the known world through Alexander the Great's conquests.",
+      "lessons": [
+        {
+          "id": "9-social_studies-2-1",
+          "title": "Greek City-States: Athens and Sparta",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Greece was not a unified nation but a collection of independent city-states (poleis), each with its own government, laws, and customs. The two most powerful were Athens and Sparta, which represented starkly different approaches to society. Athens pioneered democracy, valued education, philosophy, and the arts, and became a center of trade and culture. Free male citizens could vote in the Assembly, debate laws, and serve on juries. Sparta, by contrast, was a military state where boys entered rigorous military training (the agoge) at age 7 and remained soldiers until age 60. Spartan women had more rights than Athenian women, including property ownership and physical training. Despite their differences, Athens and Sparta united to defeat the Persian Empire in the Greco-Persian Wars (490\u2013479 BCE), with famous battles at Marathon, Thermopylae, and Salamis.",
+            "examples": [
+              {
+                "problem": "How did Athens and Sparta differ?",
+                "answer": "Athens focused on democracy, education, and arts; Sparta focused on military discipline and strength.",
+                "explanation": "Athens produced philosophers and playwrights; Sparta produced the ancient world's most feared warriors. Their rivalry eventually led to the Peloponnesian War (431\u2013404 BCE), which Sparta won."
+              },
+              {
+                "problem": "What was the agoge?",
+                "answer": "Sparta's rigorous military training program that boys entered at age 7.",
+                "explanation": "Boys were taken from their families, endured harsh physical training, learned to fight, and were taught to value duty to Sparta above all else. This system made Sparta's army nearly unbeatable."
+              },
+              {
+                "problem": "What was the significance of the Battle of Marathon?",
+                "answer": "Athenian hoplites defeated a much larger Persian force, proving Greek citizen-soldiers could beat a professional empire.",
+                "explanation": "In 490 BCE, about 10,000 Athenians defeated roughly 25,000 Persians. The victory boosted Greek confidence and became a symbol of the power of free citizens defending their homeland."
+              }
+            ],
+            "key_vocabulary": [
+              "city-state",
+              "polis",
+              "democracy",
+              "agoge",
+              "hoplite",
+              "Greco-Persian Wars",
+              "Assembly",
+              "Marathon"
+            ],
+            "real_world": "The word 'marathon' comes from the legend of Pheidippides, who supposedly ran from Marathon to Athens (about 26 miles) to announce the Greek victory \u2014 inspiring the modern marathon race."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What form of government did Athens pioneer?",
+              "options": [
+                "Monarchy",
+                "Democracy",
+                "Theocracy",
+                "Military dictatorship"
+              ],
+              "correct": 1,
+              "hint": "Athenian citizens could vote and debate laws."
+            },
+            {
+              "type": "fill_in",
+              "question": "Spartan boys entered military training called the ___ at age 7.",
+              "answer": "agoge",
+              "hint": "This rigorous program lasted until age 60."
+            },
+            {
+              "type": "true_false",
+              "question": "Ancient Greece was a single unified country.",
+              "answer": false,
+              "hint": "It was a collection of independent city-states."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which war united Athens and Sparta against a common enemy?",
+              "options": [
+                "Peloponnesian War",
+                "Trojan War",
+                "Greco-Persian Wars",
+                "Punic Wars"
+              ],
+              "correct": 2,
+              "hint": "They fought together against the Persian Empire."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who could vote in Athenian democracy?",
+              "options": [
+                "All residents",
+                "Free male citizens only",
+                "Only the wealthy",
+                "Only soldiers"
+              ],
+              "correct": 1,
+              "hint": "Women, slaves, and foreigners were excluded."
+            },
+            {
+              "type": "fill_in",
+              "question": "The famous battle where Athenians defeated a larger Persian force was the Battle of ___.",
+              "answer": "Marathon",
+              "hint": "A runner supposedly carried news of this victory 26 miles to Athens."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-2-2",
+          "title": "Athenian Democracy and Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "Athenian democracy, established through reforms by Cleisthenes around 508 BCE, was the world's first known democratic system. Unlike modern representative democracy, Athens practiced direct democracy \u2014 citizens voted on laws themselves rather than electing representatives. The Assembly (Ekklesia) met about 40 times per year on a hillside called the Pnyx, where any citizen could speak and vote. A Council of 500 (Boule), chosen by lottery, set the agenda and handled daily governance. Juries of hundreds or thousands of citizens decided court cases. Pericles, Athens' most famous leader during its Golden Age (461\u2013429 BCE), expanded democracy, funded public building projects including the Parthenon, and promoted arts and philosophy. However, Athenian democracy was limited: only free adult males born in Athens could participate \u2014 excluding women, slaves, foreigners, and anyone under 18, meaning only about 10-15% of the population had political rights.",
+            "examples": [
+              {
+                "problem": "How was Athenian democracy different from modern democracy?",
+                "answer": "Athens used direct democracy where citizens voted on laws themselves, while modern democracies use representative democracy.",
+                "explanation": "In Athens, citizens personally debated and voted on every law. Modern democracies are too large for this, so citizens elect representatives to vote on their behalf in legislative bodies."
+              },
+              {
+                "problem": "Who was Pericles?",
+                "answer": "Athens' most influential leader during its Golden Age, who expanded democracy and funded the Parthenon.",
+                "explanation": "Pericles led Athens from about 461 to 429 BCE. He strengthened democratic institutions, paid citizens for jury service so poor people could participate, and transformed Athens into a cultural center."
+              },
+              {
+                "problem": "Why was Athenian democracy limited?",
+                "answer": "Only free adult male citizens could vote, excluding women, slaves, and foreigners \u2014 about 85-90% of the population.",
+                "explanation": "Despite being revolutionary, Athens' democracy excluded most people. Slavery was common, women had few rights, and foreign residents (metics) could not vote despite contributing to the economy."
+              }
+            ],
+            "key_vocabulary": [
+              "direct democracy",
+              "Assembly",
+              "Council of 500",
+              "Pericles",
+              "Golden Age",
+              "Ekklesia",
+              "Boule",
+              "Parthenon"
+            ],
+            "real_world": "Modern democracies draw inspiration from Athens, but no country today uses pure direct democracy for all decisions. Switzerland comes closest with its frequent national referendums on specific issues."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of democracy did Athens practice?",
+              "options": [
+                "Representative",
+                "Constitutional",
+                "Direct",
+                "Parliamentary"
+              ],
+              "correct": 2,
+              "hint": "Citizens voted on laws themselves rather than electing representatives."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Athenian leader who expanded democracy during the Golden Age was ___.",
+              "answer": "Pericles",
+              "hint": "He also funded construction of the Parthenon."
+            },
+            {
+              "type": "true_false",
+              "question": "All residents of Athens could vote in the Assembly.",
+              "answer": false,
+              "hint": "Only free adult male citizens could vote \u2014 about 10-15% of the population."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How were members of the Council of 500 chosen?",
+              "options": [
+                "By election",
+                "By inheritance",
+                "By lottery",
+                "By military rank"
+              ],
+              "correct": 2,
+              "hint": "This method gave every citizen an equal chance to serve."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "About what percentage of Athens' population could participate in democracy?",
+              "options": [
+                "50%",
+                "75%",
+                "10-15%",
+                "100%"
+              ],
+              "correct": 2,
+              "hint": "Women, slaves, foreigners, and children were excluded."
+            },
+            {
+              "type": "fill_in",
+              "question": "Athens practiced ___ democracy, where citizens voted on laws themselves.",
+              "answer": "direct",
+              "hint": "This differs from representative democracy used today."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-2-3",
+          "title": "Greek Philosophy and Culture",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Greece produced some of history's most influential thinkers. Socrates (470\u2013399 BCE) pioneered the Socratic method \u2014 teaching through persistent questioning to stimulate critical thinking rather than lecturing. He was sentenced to death for 'corrupting the youth' and 'impiety.' His student Plato (428\u2013348 BCE) founded the Academy, wrote dialogues exploring justice, beauty, and truth, and proposed the concept of ideal 'Forms' \u2014 perfect versions of things that exist beyond the physical world. Plato's student Aristotle (384\u2013322 BCE) tutored Alexander the Great, founded the Lyceum, and made groundbreaking contributions to logic, biology, ethics, and political science. Beyond philosophy, Greeks excelled in drama (Sophocles, Euripides), history (Herodotus, Thucydides), mathematics (Euclid, Pythagoras), and medicine (Hippocrates). Greek culture emphasized reason, beauty, and the pursuit of excellence (arete), values that profoundly shaped Western civilization.",
+            "examples": [
+              {
+                "problem": "What was the Socratic method?",
+                "answer": "A teaching approach using persistent questioning to stimulate critical thinking and expose contradictions in beliefs.",
+                "explanation": "Rather than lecturing, Socrates asked probing questions that forced people to examine their assumptions. This method is still used in law schools and philosophy classes today."
+              },
+              {
+                "problem": "How did Plato and Aristotle differ?",
+                "answer": "Plato believed true knowledge comes from abstract 'Forms' beyond the physical world; Aristotle believed knowledge comes from observing the real world.",
+                "explanation": "Plato was an idealist who distrusted the senses; Aristotle was an empiricist who classified plants, animals, and governments based on observation. Their debate shaped Western philosophy for centuries."
+              },
+              {
+                "problem": "Why is Hippocrates important?",
+                "answer": "He is called the 'father of medicine' and established principles of ethical medical practice.",
+                "explanation": "Hippocrates separated medicine from superstition, arguing diseases had natural causes. The Hippocratic Oath, based on his teachings, is still referenced by doctors today."
+              }
+            ],
+            "key_vocabulary": [
+              "Socrates",
+              "Plato",
+              "Aristotle",
+              "Socratic method",
+              "philosophy",
+              "arete",
+              "Hippocrates",
+              "Academy"
+            ],
+            "real_world": "The Socratic method is still widely used today, especially in law schools where professors question students rather than lecture. Every time a teacher asks 'why do you think that?' they are using Socrates' approach."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who founded the Socratic method?",
+              "options": [
+                "Plato",
+                "Aristotle",
+                "Socrates",
+                "Hippocrates"
+              ],
+              "correct": 2,
+              "hint": "The method is named after this philosopher."
+            },
+            {
+              "type": "fill_in",
+              "question": "Plato's student ___ tutored Alexander the Great and made contributions to logic and biology.",
+              "answer": "Aristotle",
+              "hint": "He founded the Lyceum in Athens."
+            },
+            {
+              "type": "true_false",
+              "question": "Socrates was sentenced to death for his teachings.",
+              "answer": true,
+              "hint": "He was accused of corrupting the youth and impiety."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was Plato's Academy?",
+              "options": [
+                "A military school",
+                "A school of philosophy and learning",
+                "A theater",
+                "A government building"
+              ],
+              "correct": 1,
+              "hint": "It was one of the first institutions of higher learning in the Western world."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who is called the 'father of medicine'?",
+              "options": [
+                "Socrates",
+                "Aristotle",
+                "Euclid",
+                "Hippocrates"
+              ],
+              "correct": 3,
+              "hint": "Doctors still reference an oath based on his teachings."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Greek concept of ___ referred to the pursuit of excellence in all things.",
+              "answer": "arete",
+              "hint": "This value was central to Greek culture and education."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-2-4",
+          "title": "Alexander the Great and the Hellenistic World",
+          "type": "lesson",
+          "content": {
+            "explanation": "Alexander the Great (356\u2013323 BCE), king of Macedonia and student of Aristotle, created one of history's largest empires in just 13 years. After consolidating power in Greece, he defeated the Persian Empire under Darius III, conquering Egypt, Mesopotamia, Persia, and parts of Central Asia and India. His empire stretched from Greece to the Indus River. Alexander founded over 20 cities named Alexandria, the most famous being Alexandria in Egypt, which became a great center of learning with its legendary library. Alexander's conquests created the Hellenistic Age (323\u201331 BCE), a period of cultural blending where Greek language, art, philosophy, and science spread across the Near East and merged with local traditions. Hellenistic achievements include Euclid's geometry, Archimedes' inventions, and advances in astronomy. Alexander died at age 32, and his empire was divided among his generals, but the cultural legacy of Hellenism persisted for centuries.",
+            "examples": [
+              {
+                "problem": "How large was Alexander's empire?",
+                "answer": "It stretched from Greece to the Indus River, encompassing Egypt, Persia, and parts of Central Asia.",
+                "explanation": "Alexander conquered this vast territory in just 13 years through brilliant military tactics and relentless ambition. At its peak, his empire covered about 2 million square miles."
+              },
+              {
+                "problem": "What was the Hellenistic Age?",
+                "answer": "A period (323\u201331 BCE) of cultural blending following Alexander's conquests where Greek culture spread and merged with Eastern traditions.",
+                "explanation": "Greek became the common language of trade and learning across a vast area. Art, architecture, philosophy, and science combined Greek and Eastern elements, creating a rich multicultural civilization."
+              },
+              {
+                "problem": "Why was the Library of Alexandria important?",
+                "answer": "It was the ancient world's greatest center of learning, containing hundreds of thousands of scrolls from many civilizations.",
+                "explanation": "Scholars from across the known world came to study there. It represented the Hellenistic ideal of preserving and sharing knowledge across cultures."
+              }
+            ],
+            "key_vocabulary": [
+              "Alexander the Great",
+              "Hellenistic",
+              "Macedonia",
+              "Darius III",
+              "Alexandria",
+              "cultural diffusion",
+              "empire"
+            ],
+            "real_world": "The spread of Greek culture through Alexander's empire is an early example of globalization. Today, we see similar cultural blending when ideas, food, music, and language spread across borders."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was Alexander the Great's teacher?",
+              "options": [
+                "Socrates",
+                "Plato",
+                "Aristotle",
+                "Hippocrates"
+              ],
+              "correct": 2,
+              "hint": "This philosopher also founded the Lyceum."
+            },
+            {
+              "type": "fill_in",
+              "question": "The period of cultural blending after Alexander's conquests is called the ___ Age.",
+              "answer": "Hellenistic",
+              "hint": "It comes from 'Hellas,' the Greek name for Greece."
+            },
+            {
+              "type": "true_false",
+              "question": "Alexander's empire survived intact after his death.",
+              "answer": false,
+              "hint": "It was divided among his generals after he died at age 32."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which city became a great center of learning with a famous library?",
+              "options": [
+                "Athens",
+                "Sparta",
+                "Alexandria",
+                "Babylon"
+              ],
+              "correct": 2,
+              "hint": "Alexander founded this city in Egypt."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How old was Alexander when he died?",
+              "options": [
+                "25",
+                "32",
+                "45",
+                "60"
+              ],
+              "correct": 1,
+              "hint": "He accomplished everything in a remarkably short life."
+            },
+            {
+              "type": "fill_in",
+              "question": "Alexander defeated the Persian king ___ III to conquer the Persian Empire.",
+              "answer": "Darius",
+              "hint": "This Persian ruler lost several major battles to Alexander."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What type of democracy did Athens practice?",
+            "options": [
+              "Representative",
+              "Direct",
+              "Constitutional",
+              "Federal"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The rigorous Spartan military training program was called the ___.",
+            "answer": "agoge"
+          },
+          {
+            "type": "true_false",
+            "question": "Aristotle was Plato's teacher.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the Hellenistic Age?",
+            "options": [
+              "A period of Greek isolation",
+              "A period of cultural blending after Alexander's conquests",
+              "The founding of Athens",
+              "The Persian Wars"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who pioneered the method of teaching through questioning?",
+            "options": [
+              "Plato",
+              "Aristotle",
+              "Socrates",
+              "Pericles"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ancient_greece_scholar"
+      }
+    },
+    {
+      "id": "9-ss-3",
+      "title": "Ancient Rome",
+      "description": "Trace Rome's remarkable journey from a small city-state to a vast republic and empire, exploring its lasting contributions to law, engineering, and governance.",
+      "lessons": [
+        {
+          "id": "9-social_studies-3-1",
+          "title": "The Roman Republic",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rome began as a small city-state on the Italian peninsula and grew into one of history's greatest civilizations. According to legend, Rome was founded in 753 BCE by Romulus and Remus. After overthrowing their Etruscan kings in 509 BCE, Romans established a republic \u2014 a government where citizens elect representatives to govern on their behalf. The Roman Republic was led by two consuls (elected annually), advised by the Senate (wealthy patricians), and held accountable by assemblies and tribunes who represented the common people (plebeians). The Twelve Tables (450 BCE) established written law for all citizens. Through military skill and strategic alliances, Rome gradually conquered the Italian peninsula, then the Mediterranean world through the Punic Wars against Carthage (264\u2013146 BCE). The Republic's key virtue was civic duty \u2014 Romans believed in serving the state above personal interest.",
+            "examples": [
+              {
+                "problem": "How was the Roman Republic governed?",
+                "answer": "Two elected consuls shared executive power, advised by the Senate, with tribunes representing common people.",
+                "explanation": "This system of shared power and checks was designed to prevent tyranny. Consuls served one-year terms and could veto each other, while tribunes could block laws that harmed plebeians."
+              },
+              {
+                "problem": "What were the Punic Wars?",
+                "answer": "Three wars (264\u2013146 BCE) between Rome and Carthage for control of the Mediterranean.",
+                "explanation": "The most famous involved Hannibal crossing the Alps with elephants. Rome ultimately destroyed Carthage completely, establishing dominance over the western Mediterranean and becoming a superpower."
+              },
+              {
+                "problem": "What were the Twelve Tables?",
+                "answer": "Rome's first written legal code, established around 450 BCE, providing written laws for all citizens.",
+                "explanation": "Before the Twelve Tables, laws were unwritten and interpreted only by patrician judges. Writing them down gave plebeians legal protections and established the principle of equality before the law."
+              }
+            ],
+            "key_vocabulary": [
+              "republic",
+              "consul",
+              "Senate",
+              "patrician",
+              "plebeian",
+              "tribune",
+              "Twelve Tables",
+              "Punic Wars"
+            ],
+            "real_world": "The U.S. government was directly modeled on the Roman Republic. The Senate, checks and balances, civic virtue, and the idea of a republic where citizens elect representatives all come from Roman precedents."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When was the Roman Republic established?",
+              "options": [
+                "753 BCE",
+                "509 BCE",
+                "450 BCE",
+                "27 BCE"
+              ],
+              "correct": 1,
+              "hint": "It was founded when Romans overthrew their Etruscan kings."
+            },
+            {
+              "type": "fill_in",
+              "question": "The two annually elected leaders of the Roman Republic were called ___.",
+              "answer": "consuls",
+              "hint": "They shared executive power and could veto each other."
+            },
+            {
+              "type": "true_false",
+              "question": "The Twelve Tables were Rome's first written legal code.",
+              "answer": true,
+              "hint": "They were established around 450 BCE."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who were the plebeians?",
+              "options": [
+                "Wealthy nobles",
+                "Common people",
+                "Foreign slaves",
+                "Military generals"
+              ],
+              "correct": 1,
+              "hint": "They were represented by tribunes in the government."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who did Rome fight in the Punic Wars?",
+              "options": [
+                "Greece",
+                "Egypt",
+                "Carthage",
+                "Persia"
+              ],
+              "correct": 2,
+              "hint": "This rival was located in North Africa."
+            },
+            {
+              "type": "fill_in",
+              "question": "The wealthy ruling class of Rome were called ___.",
+              "answer": "patricians",
+              "hint": "They dominated the Senate and held most political power."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-3-2",
+          "title": "From Republic to Empire",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Roman Republic collapsed under the weight of its own success. As Rome's territory expanded, wealthy generals like Marius, Sulla, and Pompey gained enormous personal power through their armies, undermining republican institutions. Julius Caesar, a brilliant military commander who conquered Gaul (modern France), crossed the Rubicon River in 49 BCE with his army \u2014 an illegal act that started a civil war. After defeating Pompey, Caesar was appointed dictator for life but was assassinated by senators on March 15, 44 BCE (the Ides of March). After another civil war, Caesar's adopted heir Octavian defeated Mark Antony and Cleopatra and became Augustus Caesar, the first Roman Emperor, in 27 BCE. Augustus maintained republican appearances while concentrating power, establishing the Pax Romana \u2014 a 200-year period of relative peace and prosperity during which the empire reached its greatest extent, stretching from Britain to Mesopotamia.",
+            "examples": [
+              {
+                "problem": "Why did the Roman Republic fall?",
+                "answer": "Powerful generals used personal armies to gain political power, undermining republican institutions.",
+                "explanation": "As the republic expanded, generals became more loyal to their commanders than to the state. Civil wars between rival generals eventually made one-man rule inevitable."
+              },
+              {
+                "problem": "What does 'crossing the Rubicon' mean?",
+                "answer": "Taking an irreversible step \u2014 from Caesar illegally bringing his army across the Rubicon River into Roman territory in 49 BCE.",
+                "explanation": "Roman law forbade generals from bringing armies into Italy proper. By crossing the Rubicon, Caesar committed treason and started a civil war. Today, the phrase means passing a point of no return."
+              },
+              {
+                "problem": "What was the Pax Romana?",
+                "answer": "A roughly 200-year period (27 BCE\u2013180 CE) of relative peace and stability across the Roman Empire.",
+                "explanation": "Under Augustus and his successors, the empire enjoyed economic prosperity, extensive trade networks, monumental building projects, and cultural achievements. It was not entirely peaceful, but major wars were rare."
+              }
+            ],
+            "key_vocabulary": [
+              "Julius Caesar",
+              "Augustus",
+              "dictator",
+              "Pax Romana",
+              "Rubicon",
+              "Ides of March",
+              "civil war",
+              "empire"
+            ],
+            "real_world": "The phrase 'crossing the Rubicon' is still used today to describe any decision from which there is no turning back \u2014 in politics, business, and personal life."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was the first Roman Emperor?",
+              "options": [
+                "Julius Caesar",
+                "Augustus",
+                "Nero",
+                "Constantine"
+              ],
+              "correct": 1,
+              "hint": "He was Caesar's adopted heir, originally named Octavian."
+            },
+            {
+              "type": "fill_in",
+              "question": "Julius Caesar was assassinated on the ___ of March, 44 BCE.",
+              "answer": "Ides",
+              "hint": "This date (March 15) became a famous warning."
+            },
+            {
+              "type": "true_false",
+              "question": "The Pax Romana lasted approximately 200 years.",
+              "answer": true,
+              "hint": "It spanned roughly from 27 BCE to 180 CE."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What event started the civil war that ended the Republic?",
+              "options": [
+                "Caesar's assassination",
+                "Caesar crossing the Rubicon",
+                "The Punic Wars",
+                "The invasion of Britain"
+              ],
+              "correct": 1,
+              "hint": "Caesar illegally brought his army into Roman territory."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who did Octavian defeat to become emperor?",
+              "options": [
+                "Julius Caesar",
+                "Hannibal",
+                "Mark Antony and Cleopatra",
+                "Spartacus"
+              ],
+              "correct": 2,
+              "hint": "This battle occurred at Actium in 31 BCE."
+            },
+            {
+              "type": "fill_in",
+              "question": "The approximately 200-year period of peace under the Roman Empire was called the ___.",
+              "answer": "Pax Romana",
+              "hint": "The Latin phrase means 'Roman Peace.'"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-3-3",
+          "title": "Roman Law, Engineering, and Culture",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rome's lasting legacy extends far beyond its military conquests. Roman law established principles still fundamental to modern legal systems: innocence until proven guilty, the right to a fair trial, the right to present evidence, and the idea that laws should apply equally to all citizens. Roman engineering achievements were equally remarkable. The Romans perfected the arch and invented concrete, enabling them to build massive structures like the Colosseum (seating 50,000), the Pantheon (with its unreinforced concrete dome), and over 50,000 miles of roads connecting the empire. Roman aqueducts transported fresh water over long distances, and their sanitation systems included public toilets and sewers. Latin, the Roman language, evolved into the Romance languages (French, Spanish, Italian, Portuguese, Romanian) and heavily influenced English. Roman culture also adopted and spread Greek philosophy, art, and literature throughout the empire.",
+            "examples": [
+              {
+                "problem": "How did Roman law influence modern legal systems?",
+                "answer": "Principles like 'innocent until proven guilty' and equal application of law come from Roman legal tradition.",
+                "explanation": "The Roman legal code, especially the Justinian Code compiled in 534 CE, became the foundation for most European legal systems and influenced the legal traditions of countries worldwide."
+              },
+              {
+                "problem": "What made Roman engineering so advanced?",
+                "answer": "Romans perfected the arch, invented concrete, and built massive infrastructure including roads, aqueducts, and monumental buildings.",
+                "explanation": "Roman concrete was so durable that structures like the Pantheon still stand 2,000 years later. Their road network connected the entire empire and enabled rapid military movement and trade."
+              },
+              {
+                "problem": "How did Latin influence modern languages?",
+                "answer": "Latin evolved into the Romance languages and contributed thousands of words to English and other languages.",
+                "explanation": "French, Spanish, Italian, Portuguese, and Romanian all descended directly from Latin. About 60% of English words have Latin or Latin-derived roots, especially in law, medicine, and science."
+              }
+            ],
+            "key_vocabulary": [
+              "Roman law",
+              "aqueduct",
+              "concrete",
+              "Colosseum",
+              "Pantheon",
+              "Latin",
+              "Romance languages",
+              "infrastructure"
+            ],
+            "real_world": "When you use words like 'justice,' 'legal,' 'republic,' 'senate,' or 'citizen,' you are using words that come directly from Latin. Roman influence pervades modern language, law, and architecture."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What legal principle did Roman law establish that we still use today?",
+              "options": [
+                "Trial by combat",
+                "Innocent until proven guilty",
+                "Rule by the strongest",
+                "No right to appeal"
+              ],
+              "correct": 1,
+              "hint": "This principle protects accused people in modern courts."
+            },
+            {
+              "type": "fill_in",
+              "question": "Roman ___ transported fresh water over long distances to cities.",
+              "answer": "aqueducts",
+              "hint": "Some of these structures still stand in parts of Europe today."
+            },
+            {
+              "type": "true_false",
+              "question": "The Romans invented concrete.",
+              "answer": true,
+              "hint": "Their concrete was so durable that structures like the Pantheon still stand."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which modern languages descended from Latin?",
+              "options": [
+                "German, English, Dutch",
+                "French, Spanish, Italian",
+                "Chinese, Japanese, Korean",
+                "Arabic, Hebrew, Farsi"
+              ],
+              "correct": 1,
+              "hint": "These are called the Romance languages."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many miles of roads did the Romans build?",
+              "options": [
+                "5,000",
+                "10,000",
+                "50,000",
+                "500,000"
+              ],
+              "correct": 2,
+              "hint": "This vast network connected the entire empire."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___, seating 50,000, was Rome's famous amphitheater for gladiatorial games.",
+              "answer": "Colosseum",
+              "hint": "It is one of the most iconic structures from ancient Rome."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-3-4",
+          "title": "The Fall of the Roman Empire",
+          "type": "lesson",
+          "content": {
+            "explanation": "The decline and fall of the Western Roman Empire was a gradual process spanning centuries, not a single event. Historians identify multiple causes: political instability (26 emperors in the 50 years before Diocletian), economic problems (inflation, heavy taxation, trade disruption), military challenges (reliance on Germanic mercenaries, border pressure from 'barbarian' tribes), and social factors (plague, population decline, loss of civic virtue). Emperor Diocletian (284 CE) split the empire into eastern and western halves for easier administration. Emperor Constantine (306\u2013337 CE) legalized Christianity and moved the capital east to Constantinople. Despite reforms, the Western Empire continued to weaken. In 410 CE, the Visigoths sacked Rome, and in 476 CE, the last Western Roman Emperor was deposed by the Germanic leader Odoacer \u2014 traditionally marking the fall of Rome. The Eastern Roman (Byzantine) Empire, however, survived until 1453 CE, preserving Roman law, Greek culture, and Christian tradition.",
+            "examples": [
+              {
+                "problem": "What were the main causes of Rome's fall?",
+                "answer": "Political instability, economic problems, military weakness, and invasions by Germanic tribes.",
+                "explanation": "No single cause explains Rome's fall. It was a combination of internal decay (corruption, inflation, civil wars) and external pressure (migration and invasion by groups the Romans called 'barbarians')."
+              },
+              {
+                "problem": "How did Diocletian and Constantine try to save the empire?",
+                "answer": "Diocletian split it in two for easier management; Constantine legalized Christianity and moved the capital to Constantinople.",
+                "explanation": "These reforms helped stabilize the empire temporarily. The eastern half, benefiting from Constantinople's strategic location and stronger economy, survived nearly 1,000 years longer than the west."
+              },
+              {
+                "problem": "What happened to the Eastern Roman Empire?",
+                "answer": "It survived as the Byzantine Empire until 1453, preserving Roman law, Greek learning, and Christian tradition.",
+                "explanation": "The Byzantine Empire was a bridge between the ancient and modern worlds, preserving classical knowledge that would later fuel the Renaissance in Western Europe."
+              }
+            ],
+            "key_vocabulary": [
+              "decline",
+              "Diocletian",
+              "Constantine",
+              "Constantinople",
+              "Byzantine Empire",
+              "Visigoths",
+              "476 CE",
+              "Germanic tribes"
+            ],
+            "real_world": "Historians still debate why Rome fell, and the discussion has modern relevance. Questions about whether great powers decline due to internal problems or external threats apply to understanding geopolitics today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When is the traditional date for the fall of the Western Roman Empire?",
+              "options": [
+                "410 CE",
+                "476 CE",
+                "1453 CE",
+                "284 CE"
+              ],
+              "correct": 1,
+              "hint": "This was when the last Western emperor was deposed."
+            },
+            {
+              "type": "fill_in",
+              "question": "Emperor ___ split the Roman Empire into eastern and western halves.",
+              "answer": "Diocletian",
+              "hint": "He did this around 284 CE to make the empire easier to govern."
+            },
+            {
+              "type": "true_false",
+              "question": "The Eastern Roman Empire fell at the same time as the Western Empire.",
+              "answer": false,
+              "hint": "The Byzantine Empire survived until 1453 CE \u2014 nearly 1,000 years longer."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who legalized Christianity in the Roman Empire?",
+              "options": [
+                "Augustus",
+                "Nero",
+                "Diocletian",
+                "Constantine"
+              ],
+              "correct": 3,
+              "hint": "He also moved the capital to a new city named after himself."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which group sacked Rome in 410 CE?",
+              "options": [
+                "Vandals",
+                "Visigoths",
+                "Huns",
+                "Franks"
+              ],
+              "correct": 1,
+              "hint": "This Germanic tribe entered Italy under their leader Alaric."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Eastern Roman Empire is also known as the ___ Empire.",
+              "answer": "Byzantine",
+              "hint": "It preserved Roman and Greek culture for nearly a thousand years after Rome fell."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-3-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What type of government was the Roman Republic?",
+            "options": [
+              "Democracy",
+              "A system where citizens elected representatives",
+              "Monarchy",
+              "Theocracy"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The first Roman Emperor was ___.",
+            "answer": "Augustus"
+          },
+          {
+            "type": "true_false",
+            "question": "Roman concrete was so strong that structures like the Pantheon still stand.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "When did the Western Roman Empire fall?",
+            "options": [
+              "27 BCE",
+              "284 CE",
+              "476 CE",
+              "1453 CE"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the Pax Romana?",
+            "options": [
+              "A Roman road",
+              "200 years of relative peace",
+              "A legal code",
+              "A military formation"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ancient_rome_scholar"
+      }
+    },
+    {
+      "id": "9-ss-4",
+      "title": "World Religions",
+      "description": "Explore the origins, beliefs, and lasting influence of the world's major religions \u2014 Hinduism, Buddhism, Judaism, Christianity, and Islam \u2014 and how they have shaped civilizations.",
+      "lessons": [
+        {
+          "id": "9-social_studies-4-1",
+          "title": "Hinduism and Buddhism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Hinduism, one of the world's oldest religions, developed over thousands of years in the Indian subcontinent. Unlike most religions, it has no single founder, no single scripture, and no single set of teachings. Core Hindu beliefs include dharma (duty/righteousness), karma (actions have consequences across lifetimes), samsara (the cycle of birth, death, and rebirth), and moksha (liberation from this cycle). Hindus worship many deities, including Brahma (creator), Vishnu (preserver), and Shiva (destroyer), but many believe these are different aspects of one ultimate reality (Brahman). Buddhism emerged around 500 BCE when Siddhartha Gautama, a Hindu prince in Nepal, left his palace, encountered suffering, and sought enlightenment. After meditating under a Bodhi tree, he became the Buddha ('the awakened one'). He taught the Four Noble Truths \u2014 life involves suffering, suffering comes from desire, suffering can end, and the Eightfold Path leads to that end \u2014 offering a 'Middle Way' between luxury and extreme asceticism.",
+            "examples": [
+              {
+                "problem": "What is karma in Hindu belief?",
+                "answer": "The principle that one's actions have consequences that affect future lives \u2014 good actions lead to good outcomes, bad actions to bad.",
+                "explanation": "Karma is not about punishment but about natural cause and effect. Hindus believe it operates across multiple lifetimes, influencing what kind of life one is reborn into."
+              },
+              {
+                "problem": "What are the Four Noble Truths of Buddhism?",
+                "answer": "Life involves suffering; suffering arises from desire; suffering can end; the Eightfold Path leads to the end of suffering.",
+                "explanation": "The Buddha taught that attachment to worldly things causes dissatisfaction. By following the Eightfold Path (right understanding, intention, speech, action, livelihood, effort, mindfulness, concentration), one can achieve nirvana."
+              },
+              {
+                "problem": "How did Buddhism emerge from Hinduism?",
+                "answer": "Siddhartha Gautama, raised Hindu, rejected the caste system and ritual-focused worship, teaching a path to enlightenment open to all.",
+                "explanation": "While Buddhism shares concepts like karma and rebirth with Hinduism, it rejected the caste system, priestly authority, and many Hindu rituals, making spiritual liberation accessible regardless of social status."
+              }
+            ],
+            "key_vocabulary": [
+              "Hinduism",
+              "Buddhism",
+              "dharma",
+              "karma",
+              "samsara",
+              "moksha",
+              "Four Noble Truths",
+              "Eightfold Path",
+              "nirvana"
+            ],
+            "real_world": "Today, Hinduism has about 1.2 billion followers (mainly in India and Nepal) and Buddhism has about 500 million (mainly in East and Southeast Asia). Mindfulness meditation, rooted in Buddhist practice, has become widely popular worldwide."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was the founder of Buddhism?",
+              "options": [
+                "Brahma",
+                "Vishnu",
+                "Siddhartha Gautama",
+                "Ashoka"
+              ],
+              "correct": 2,
+              "hint": "He was a prince who left his palace to seek enlightenment."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Hindu concept of ___ refers to the cycle of birth, death, and rebirth.",
+              "answer": "samsara",
+              "hint": "Hindus seek liberation (moksha) from this cycle."
+            },
+            {
+              "type": "true_false",
+              "question": "Hinduism has a single founder like most major religions.",
+              "answer": false,
+              "hint": "It developed over thousands of years with no single founder."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the Eightfold Path?",
+              "options": [
+                "A Hindu pilgrimage route",
+                "The Buddha's guide to ending suffering",
+                "A meditation technique",
+                "A caste system"
+              ],
+              "correct": 1,
+              "hint": "It includes right speech, right action, right mindfulness, and more."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does 'karma' mean?",
+              "options": [
+                "Fate or destiny",
+                "Actions have consequences that affect future lives",
+                "A type of prayer",
+                "A social class"
+              ],
+              "correct": 1,
+              "hint": "Good deeds lead to good outcomes; bad deeds lead to bad outcomes."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ultimate goal of Hindu spiritual practice is ___, liberation from the cycle of rebirth.",
+              "answer": "moksha",
+              "hint": "It represents union with Brahman, the ultimate reality."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-4-2",
+          "title": "Judaism and Christianity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Judaism, the oldest monotheistic religion (belief in one God), emerged among the ancient Hebrews around 2000 BCE. Central to Judaism is the covenant (sacred agreement) between God and Abraham, and later God and Moses, who received the Torah (the first five books of the Hebrew Bible) including the Ten Commandments on Mount Sinai. Jews believe they are God's chosen people with a special responsibility to follow divine law and pursue justice. The Jewish experience of exile, diaspora (dispersion), and perseverance has profoundly shaped their identity. Christianity emerged from Judaism in the 1st century CE, founded on the teachings of Jesus of Nazareth, whom Christians believe was the Messiah (Christ) promised in Jewish scripture. Jesus taught love, forgiveness, and salvation through faith. After his crucifixion and what Christians believe was his resurrection, his followers spread his teachings throughout the Roman Empire. The apostle Paul was especially important in spreading Christianity to non-Jews (Gentiles). Christianity became Rome's official religion under Emperor Theodosius in 380 CE.",
+            "examples": [
+              {
+                "problem": "What is the covenant in Judaism?",
+                "answer": "A sacred agreement between God and the Jewish people \u2014 God will protect them if they follow His laws.",
+                "explanation": "The covenant with Abraham promised land and descendants; the covenant with Moses at Sinai established the Torah's laws. This mutual commitment between God and His people is central to Jewish identity."
+              },
+              {
+                "problem": "How did Christianity emerge from Judaism?",
+                "answer": "Jesus, a Jewish teacher, was believed by followers to be the Messiah promised in Jewish scripture, founding a new faith based on his teachings.",
+                "explanation": "Early Christians were Jews who believed Jesus fulfilled biblical prophecies. As Paul spread the message to Gentiles and the movement grew beyond Jewish communities, Christianity became a distinct religion."
+              },
+              {
+                "problem": "Why did Christianity spread so rapidly in the Roman Empire?",
+                "answer": "It offered hope to the poor, accepted all people regardless of status, had a strong organizational structure, and eventually gained imperial support.",
+                "explanation": "Christianity appealed to slaves, women, and the poor by teaching spiritual equality. Roman roads aided missionary travel. Constantine's conversion (312 CE) and Theodosius making it the official religion (380 CE) ensured its dominance."
+              }
+            ],
+            "key_vocabulary": [
+              "monotheism",
+              "covenant",
+              "Torah",
+              "Ten Commandments",
+              "Messiah",
+              "Jesus",
+              "apostle Paul",
+              "resurrection",
+              "diaspora"
+            ],
+            "real_world": "Judaism and Christianity together have shaped Western law, ethics, and culture. Concepts like human dignity, justice, charity, and the sanctity of life trace back to these religious traditions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What makes Judaism historically significant in religious history?",
+              "options": [
+                "It was the largest ancient religion",
+                "It was the first major monotheistic religion",
+                "It originated in Rome",
+                "It was founded by Jesus"
+              ],
+              "correct": 1,
+              "hint": "Monotheism means belief in one God."
+            },
+            {
+              "type": "fill_in",
+              "question": "Moses received the ___ on Mount Sinai, including the Ten Commandments.",
+              "answer": "Torah",
+              "hint": "It consists of the first five books of the Hebrew Bible."
+            },
+            {
+              "type": "true_false",
+              "question": "Christianity emerged as a distinct religion separate from Judaism.",
+              "answer": true,
+              "hint": "It began as a Jewish movement but became distinct as it spread to non-Jews."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who was most responsible for spreading Christianity to non-Jews?",
+              "options": [
+                "Moses",
+                "Abraham",
+                "The apostle Paul",
+                "Emperor Theodosius"
+              ],
+              "correct": 2,
+              "hint": "He traveled extensively throughout the Roman Empire establishing churches."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In what year did Christianity become Rome's official religion?",
+              "options": [
+                "33 CE",
+                "312 CE",
+                "380 CE",
+                "476 CE"
+              ],
+              "correct": 2,
+              "hint": "Emperor Theodosius made this declaration."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Jewish experience of being scattered across many lands is called the ___.",
+              "answer": "diaspora",
+              "hint": "This Greek word means 'dispersion' or 'scattering.'"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-4-3",
+          "title": "Islam",
+          "type": "lesson",
+          "content": {
+            "explanation": "Islam, the youngest of the three Abrahamic religions, was founded by the Prophet Muhammad in the Arabian Peninsula in the 7th century CE. Muslims believe Muhammad received divine revelations from God (Allah) through the angel Gabriel, which were compiled into the Quran, Islam's holy book. Islam teaches strict monotheism and shares roots with Judaism and Christianity \u2014 Muslims honor Abraham, Moses, and Jesus as prophets, with Muhammad as the final prophet. The Five Pillars of Islam guide Muslim life: Shahada (declaration of faith), Salat (five daily prayers), Zakat (charitable giving), Sawm (fasting during Ramadan), and Hajj (pilgrimage to Mecca). After Muhammad's death in 632 CE, Islam spread rapidly through conquest, trade, and missionary activity across the Middle East, North Africa, Spain, Persia, and into Central and South Asia. The Islamic Golden Age (8th\u201314th centuries) produced extraordinary advances in mathematics, science, medicine, and philosophy, preserving and building upon Greek and Roman knowledge.",
+            "examples": [
+              {
+                "problem": "What are the Five Pillars of Islam?",
+                "answer": "Shahada (faith declaration), Salat (prayer), Zakat (charity), Sawm (Ramadan fasting), and Hajj (Mecca pilgrimage).",
+                "explanation": "These five practices form the foundation of Muslim life. Every Muslim is expected to observe them, though Hajj is only required once in a lifetime if financially and physically able."
+              },
+              {
+                "problem": "How did Islam spread so rapidly?",
+                "answer": "Through a combination of military conquest, trade networks, and the appeal of its message of equality before God.",
+                "explanation": "Within a century of Muhammad's death, Islam stretched from Spain to India. Trade along the Silk Road and across the Indian Ocean spread Islam to Southeast Asia and sub-Saharan Africa."
+              },
+              {
+                "problem": "What was the Islamic Golden Age?",
+                "answer": "A period (8th\u201314th centuries) of extraordinary intellectual achievement in the Muslim world spanning math, science, medicine, and philosophy.",
+                "explanation": "Muslim scholars preserved Greek and Roman texts, invented algebra, advanced astronomy and optics, and made breakthroughs in medicine. This knowledge later helped fuel the European Renaissance."
+              }
+            ],
+            "key_vocabulary": [
+              "Islam",
+              "Muhammad",
+              "Quran",
+              "Allah",
+              "Five Pillars",
+              "mosque",
+              "Hajj",
+              "Islamic Golden Age",
+              "Mecca"
+            ],
+            "real_world": "The word 'algebra' comes from Arabic (al-jabr), and our number system (0-9) reached Europe through Muslim scholars. Coffee, hospitals, and universities all have roots in Islamic civilization."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who founded Islam?",
+              "options": [
+                "Abraham",
+                "Jesus",
+                "Muhammad",
+                "Moses"
+              ],
+              "correct": 2,
+              "hint": "He received revelations in the 7th century CE in Arabia."
+            },
+            {
+              "type": "fill_in",
+              "question": "Islam's holy book is called the ___.",
+              "answer": "Quran",
+              "hint": "Muslims believe it contains the direct word of God as revealed to Muhammad."
+            },
+            {
+              "type": "true_false",
+              "question": "Islam, Judaism, and Christianity all trace their origins to Abraham.",
+              "answer": true,
+              "hint": "They are called Abrahamic religions for this reason."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT one of the Five Pillars of Islam?",
+              "options": [
+                "Shahada (faith)",
+                "Salat (prayer)",
+                "Jihad (holy war)",
+                "Hajj (pilgrimage)"
+              ],
+              "correct": 2,
+              "hint": "The Five Pillars are personal religious duties."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What period is known as the Islamic Golden Age?",
+              "options": [
+                "1st\u20133rd centuries CE",
+                "8th\u201314th centuries CE",
+                "15th\u201317th centuries",
+                "19th century"
+              ],
+              "correct": 1,
+              "hint": "Muslim scholars made enormous advances during this era."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Five Pillars include Zakat, which means ___.",
+              "answer": "charitable giving",
+              "hint": "Muslims are expected to donate a portion of their wealth to those in need."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-4-4",
+          "title": "Comparing World Religions",
+          "type": "lesson",
+          "content": {
+            "explanation": "The major world religions \u2014 Hinduism, Buddhism, Judaism, Christianity, and Islam \u2014 have shaped billions of lives and profoundly influenced history, culture, law, and art. While they differ in many beliefs and practices, they share important common themes: the importance of ethical behavior, compassion for others, the search for meaning and purpose, and the existence of something greater than the individual. Judaism, Christianity, and Islam are monotheistic Abrahamic religions sharing common origins, prophets, and ethical teachings. Hinduism is polytheistic (or monistic, depending on interpretation) with roots stretching back thousands of years. Buddhism, which emerged from Hinduism, focuses on personal spiritual practice and the elimination of suffering. Religious interactions have produced both conflict (Crusades, religious persecution, sectarian violence) and cooperation (interfaith dialogue, shared charitable work, mutual cultural enrichment). Understanding world religions is essential for understanding world history and contemporary global society.",
+            "examples": [
+              {
+                "problem": "What do the major world religions have in common?",
+                "answer": "They all emphasize ethical behavior, compassion, the search for meaning, and something greater than the individual.",
+                "explanation": "Despite different theologies, rituals, and practices, all major religions teach some version of the Golden Rule \u2014 treat others as you wish to be treated. They all address fundamental human questions about purpose, suffering, and morality."
+              },
+              {
+                "problem": "What are the Abrahamic religions and why?",
+                "answer": "Judaism, Christianity, and Islam \u2014 all trace their spiritual lineage to Abraham.",
+                "explanation": "Jews trace descent through Abraham's son Isaac; Muslims through his son Ishmael. Christians see Abraham as a father of faith. All three worship one God, value prophecy, and share many ethical teachings."
+              },
+              {
+                "problem": "How have religions both united and divided people?",
+                "answer": "Religions have inspired great art, charity, and community while also being used to justify wars, persecution, and division.",
+                "explanation": "The same faith that inspired cathedrals, hospitals, and universities also motivated the Crusades, the Inquisition, and sectarian conflicts. Religion's impact on history is complex and multifaceted."
+              }
+            ],
+            "key_vocabulary": [
+              "monotheism",
+              "polytheism",
+              "Abrahamic religions",
+              "interfaith",
+              "ethics",
+              "Golden Rule",
+              "theology",
+              "sacred text"
+            ],
+            "real_world": "In today's interconnected world, interfaith dialogue is more important than ever. Understanding different religious perspectives helps build mutual respect and cooperation across cultural boundaries."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which religions are considered Abrahamic?",
+              "options": [
+                "Hinduism, Buddhism, Jainism",
+                "Judaism, Christianity, Islam",
+                "Buddhism, Taoism, Confucianism",
+                "Hinduism, Islam, Sikhism"
+              ],
+              "correct": 1,
+              "hint": "They all trace spiritual lineage to the same patriarch."
+            },
+            {
+              "type": "fill_in",
+              "question": "All major religions share an emphasis on ethical behavior and ___ for others.",
+              "answer": "compassion",
+              "hint": "This is reflected in various versions of the Golden Rule."
+            },
+            {
+              "type": "true_false",
+              "question": "Buddhism is an Abrahamic religion.",
+              "answer": false,
+              "hint": "Buddhism emerged from Hinduism in India, not from the Abrahamic tradition."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which religion is the oldest?",
+              "options": [
+                "Christianity",
+                "Islam",
+                "Buddhism",
+                "Hinduism"
+              ],
+              "correct": 3,
+              "hint": "It developed over thousands of years in the Indian subcontinent."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do historians call the principle 'treat others as you wish to be treated'?",
+              "options": [
+                "The Silver Rule",
+                "The Golden Rule",
+                "The First Commandment",
+                "The Social Contract"
+              ],
+              "correct": 1,
+              "hint": "This ethical principle appears in virtually all major religions."
+            },
+            {
+              "type": "fill_in",
+              "question": "Judaism, Christianity, and Islam are all ___ religions, believing in one God.",
+              "answer": "monotheistic",
+              "hint": "This sets them apart from polytheistic traditions with many gods."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-4-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which religion teaches the Four Noble Truths?",
+            "options": [
+              "Hinduism",
+              "Buddhism",
+              "Christianity",
+              "Islam"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Jewish holy text containing the first five books is the ___.",
+            "answer": "Torah"
+          },
+          {
+            "type": "true_false",
+            "question": "Islam is the oldest of the Abrahamic religions.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What are the Five Pillars?",
+            "options": [
+              "Hindu meditation practices",
+              "Buddhist noble truths",
+              "Core duties of Muslim life",
+              "Christian sacraments"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What concept do Hinduism and Buddhism share?",
+            "options": [
+              "The Trinity",
+              "Karma",
+              "The covenant",
+              "The Five Pillars"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_religions_scholar"
+      }
+    },
+    {
+      "id": "9-ss-5",
+      "title": "Medieval Europe",
+      "description": "Examine how feudalism, the Catholic Church, the Crusades, and the devastating Black Plague shaped European society during the Middle Ages.",
+      "lessons": [
+        {
+          "id": "9-social_studies-5-1",
+          "title": "Feudalism and the Manor System",
+          "type": "lesson",
+          "content": {
+            "explanation": "After the fall of the Western Roman Empire in 476 CE, Europe entered the Early Middle Ages (often called the 'Dark Ages,' though historians now avoid that term). Without a central government, Europeans developed feudalism \u2014 a political and social system based on land ownership and personal loyalty. Kings granted large estates (fiefs) to nobles (lords) in exchange for military service. Lords divided their land among lesser nobles (vassals), who provided knights and soldiers. At the bottom were serfs \u2014 peasants bound to the land who farmed in exchange for protection. The manor was the basic economic unit: a self-sufficient estate where serfs grew food, tended livestock, and produced most necessities. Serfs owed labor, a portion of their harvest, and various fees to their lord. While not technically slaves, serfs could not leave the manor without permission. This rigid hierarchy provided stability but offered little social mobility.",
+            "examples": [
+              {
+                "problem": "How did feudalism work?",
+                "answer": "Kings granted land to lords for military service; lords granted portions to vassals; serfs worked the land for protection.",
+                "explanation": "Feudalism was a pyramid of mutual obligations. Each level owed service to the one above and protection to the one below. It provided order during a chaotic time but locked people into rigid social positions."
+              },
+              {
+                "problem": "What was life like for serfs?",
+                "answer": "Serfs worked the lord's land, owed labor and crops, and could not leave the manor \u2014 but received protection and a small plot for themselves.",
+                "explanation": "Serfs typically worked three days per week on the lord's fields and the rest on their own strip of land. They paid fees to use the lord's mill, oven, and wine press. Life was hard, but they had some customary rights."
+              },
+              {
+                "problem": "Why did feudalism develop?",
+                "answer": "After Rome's fall, there was no central government or army to provide security, so people exchanged service for protection.",
+                "explanation": "Viking, Magyar, and Muslim raids threatened communities throughout Europe. Feudalism arose organically as local lords with warriors offered protection to vulnerable farmers in exchange for labor and loyalty."
+              }
+            ],
+            "key_vocabulary": [
+              "feudalism",
+              "fief",
+              "lord",
+              "vassal",
+              "serf",
+              "manor",
+              "knight",
+              "hierarchy",
+              "Middle Ages"
+            ],
+            "real_world": "While feudalism ended centuries ago, its legacy persists. The concept of land ownership, landlord-tenant relationships, and even the word 'service' in exchange for security echo feudal arrangements."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was a fief?",
+              "options": [
+                "A type of weapon",
+                "A grant of land given in exchange for military service",
+                "A religious ceremony",
+                "A tax paid to the king"
+              ],
+              "correct": 1,
+              "hint": "Lords received these from kings and granted portions to vassals."
+            },
+            {
+              "type": "fill_in",
+              "question": "Peasants bound to the land who farmed for their lord were called ___.",
+              "answer": "serfs",
+              "hint": "They were not slaves but could not leave the manor."
+            },
+            {
+              "type": "true_false",
+              "question": "Serfs could freely leave the manor whenever they wished.",
+              "answer": false,
+              "hint": "Serfs were bound to the land and needed permission to leave."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why did feudalism develop in Europe?",
+              "options": [
+                "Because of Roman law",
+                "Because there was no central government after Rome fell",
+                "Because the Church required it",
+                "Because of trade expansion"
+              ],
+              "correct": 1,
+              "hint": "People needed protection from raids and invasions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was a manor?",
+              "options": [
+                "A castle",
+                "A self-sufficient farming estate",
+                "A type of church",
+                "A trading post"
+              ],
+              "correct": 1,
+              "hint": "It was the basic economic unit where serfs lived and worked."
+            },
+            {
+              "type": "fill_in",
+              "question": "In feudalism, a ___ was a noble who received land from a lord in exchange for service.",
+              "answer": "vassal",
+              "hint": "This created a chain of loyalty from king to peasant."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-5-2",
+          "title": "The Medieval Church",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Roman Catholic Church was the most powerful institution in medieval Europe, influencing every aspect of life from birth to death. The Pope, based in Rome, claimed authority over all Christians and even over kings and emperors. The Church provided education (through monastery schools and later universities), healthcare (through hospitals run by religious orders), and social services. It collected tithes (10% of income), owned vast lands (perhaps one-third of Europe), and its canon law governed marriage, morality, and inheritance alongside secular law. Monasteries preserved classical learning, copied manuscripts, and advanced agriculture. The Church also wielded political power: popes could excommunicate rulers (cutting them off from the sacraments) or place entire kingdoms under interdict (banning all Church services). The investiture controversy between popes and Holy Roman Emperors over who could appoint bishops demonstrated the constant tension between religious and secular authority.",
+            "examples": [
+              {
+                "problem": "Why was the Church so powerful in medieval Europe?",
+                "answer": "It was the only pan-European institution, controlled education, owned vast land, and claimed spiritual authority over all Christians including kings.",
+                "explanation": "In an age when people deeply feared damnation, the Church's control over sacraments \u2014 especially confession and last rites \u2014 gave it enormous leverage. Excommunication was a terrifying threat."
+              },
+              {
+                "problem": "What role did monasteries play?",
+                "answer": "Monks preserved classical texts, advanced agriculture, provided education and healthcare, and served as centers of learning.",
+                "explanation": "Without monasteries, much of Greek and Roman knowledge might have been lost. Monks painstakingly copied manuscripts by hand, developed new farming techniques, and created some of Europe's first schools and hospitals."
+              },
+              {
+                "problem": "What was excommunication?",
+                "answer": "Being cut off from the Church's sacraments \u2014 essentially being condemned to hell in the medieval worldview.",
+                "explanation": "For a medieval Christian, excommunication meant no communion, no confession, no Christian burial. For a king, it could also release his subjects from their oaths of loyalty, threatening his power."
+              }
+            ],
+            "key_vocabulary": [
+              "Roman Catholic Church",
+              "Pope",
+              "tithe",
+              "monastery",
+              "excommunication",
+              "canon law",
+              "interdict",
+              "investiture"
+            ],
+            "real_world": "Many modern universities, including Oxford and Cambridge, began as Church-sponsored schools in the Middle Ages. The tradition of academic robes echoes the religious garments worn by medieval scholars."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What percentage of income did the Church collect as a tithe?",
+              "options": [
+                "5%",
+                "10%",
+                "15%",
+                "25%"
+              ],
+              "correct": 1,
+              "hint": "The word 'tithe' literally means 'tenth.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "The Pope could ___ a ruler, cutting them off from Church sacraments.",
+              "answer": "excommunicate",
+              "hint": "This was one of the Church's most powerful political weapons."
+            },
+            {
+              "type": "true_false",
+              "question": "The medieval Church had very little political power.",
+              "answer": false,
+              "hint": "It was the most powerful institution in medieval Europe."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did monasteries do for European knowledge?",
+              "options": [
+                "Destroyed classical texts",
+                "Preserved and copied manuscripts",
+                "Only taught military skills",
+                "Banned reading and writing"
+              ],
+              "correct": 1,
+              "hint": "Without monks, much classical learning would have been lost."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "About how much of Europe's land did the Church own?",
+              "options": [
+                "5%",
+                "15%",
+                "One-third",
+                "All of it"
+              ],
+              "correct": 2,
+              "hint": "The Church was the largest landowner in medieval Europe."
+            },
+            {
+              "type": "fill_in",
+              "question": "A Church ban on all religious services in an entire kingdom was called an ___.",
+              "answer": "interdict",
+              "hint": "This punishment affected everyone, not just the ruler."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-5-3",
+          "title": "The Crusades",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Crusades were a series of religious wars (1096\u20131291) launched by European Christians to recapture the Holy Land (especially Jerusalem) from Muslim control. Pope Urban II called the First Crusade in 1095, promising spiritual rewards (remission of sins) to those who fought. The First Crusade (1096\u20131099) succeeded in capturing Jerusalem and establishing Crusader states in the Levant. However, Muslim forces gradually recaptured territory. The great Muslim leader Saladin retook Jerusalem in 1187, prompting the Third Crusade led by Richard I of England, Philip II of France, and Frederick Barbarossa of the Holy Roman Empire \u2014 which failed to retake the city. Later Crusades were increasingly unsuccessful and sometimes misdirected (the Fourth Crusade attacked Constantinople instead of Muslim lands). While the Crusades failed militarily in the long run, they had profound consequences: increased trade between Europe and the East, transfer of knowledge and technology, weakened feudal lords (many died or went bankrupt), and strengthened royal power and merchant classes.",
+            "examples": [
+              {
+                "problem": "What caused the Crusades?",
+                "answer": "Pope Urban II called for Christian warriors to recapture Jerusalem and the Holy Land from Muslim control in 1095.",
+                "explanation": "Motivations were mixed: genuine religious fervor, desire for land and wealth, papal power politics, and the promise of sin forgiveness. The Byzantine Emperor had also asked for help against Muslim Turks."
+              },
+              {
+                "problem": "Who was Saladin?",
+                "answer": "A Kurdish Muslim leader who recaptured Jerusalem in 1187 and was respected by both Muslims and Christians for his military skill and chivalry.",
+                "explanation": "Saladin united much of the Muslim world and retook Jerusalem without the massacre that had marked the Christian capture in 1099. Even his enemies admired his honor and generosity."
+              },
+              {
+                "problem": "What were the lasting effects of the Crusades?",
+                "answer": "Increased East-West trade, transfer of knowledge and technology, weakened feudalism, and strengthened monarchies and merchant classes.",
+                "explanation": "Crusaders brought back spices, silk, sugar, Arabic numerals, and new ideas about medicine and science. The economic and social changes they set in motion helped end the medieval period."
+              }
+            ],
+            "key_vocabulary": [
+              "Crusades",
+              "Holy Land",
+              "Pope Urban II",
+              "Saladin",
+              "Jerusalem",
+              "Crusader states",
+              "Levant",
+              "pilgrimage"
+            ],
+            "real_world": "The Crusades left a complex legacy still felt today. In the West they are often romanticized; in the Middle East they are remembered as brutal invasions. Understanding multiple perspectives on the same events is a key historical skill."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who called the First Crusade?",
+              "options": [
+                "King Richard I",
+                "Saladin",
+                "Pope Urban II",
+                "Charlemagne"
+              ],
+              "correct": 2,
+              "hint": "He made the call in 1095, promising spiritual rewards to fighters."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Muslim leader who recaptured Jerusalem in 1187 was ___.",
+              "answer": "Saladin",
+              "hint": "He was respected by both sides for his military skill and honor."
+            },
+            {
+              "type": "true_false",
+              "question": "All Crusades were militarily successful for the Christians.",
+              "answer": false,
+              "hint": "Only the First Crusade fully achieved its goals; later Crusades largely failed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which Crusade attacked Constantinople instead of Muslim lands?",
+              "options": [
+                "First",
+                "Second",
+                "Third",
+                "Fourth"
+              ],
+              "correct": 3,
+              "hint": "This misdirected campaign damaged the Byzantine Empire."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was a major consequence of the Crusades?",
+              "options": [
+                "Decreased trade with the East",
+                "Increased East-West trade and cultural exchange",
+                "The end of Christianity in Europe",
+                "Permanent Christian control of Jerusalem"
+              ],
+              "correct": 1,
+              "hint": "Crusaders brought back goods, ideas, and technologies from the East."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Crusades lasted from 1096 to approximately ___ CE.",
+              "answer": "1291",
+              "hint": "They spanned nearly two centuries of intermittent warfare."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-5-4",
+          "title": "The Black Plague and Late Medieval Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Black Death (bubonic plague) struck Europe in 1347\u20131351, killing an estimated 25\u201350 million people \u2014 roughly one-third to one-half of Europe's population. The plague was caused by the bacterium Yersinia pestis, carried by fleas on rats that traveled along trade routes from Central Asia. Symptoms included painful swollen lymph nodes (buboes), fever, and death within days. Medieval medicine was powerless; people tried everything from prayer to burning herbs to blaming minority groups. The plague's aftermath transformed European society. With labor scarce, surviving peasants could demand higher wages and better conditions, weakening serfdom. The Church lost prestige when prayers failed to stop the plague. New wealth and social mobility emerged. Combined with the Hundred Years' War between England and France (1337\u20131453), the Great Schism in the Church (1378\u20131417), and growing trade and urbanization, the Black Death helped end the medieval period and set the stage for the Renaissance.",
+            "examples": [
+              {
+                "problem": "How did the Black Death reach Europe?",
+                "answer": "The plague bacteria traveled along trade routes from Central Asia, carried by fleas on rats aboard merchant ships.",
+                "explanation": "The most famous entry point was the port of Messina, Sicily, in 1347, where ships arrived with dead and dying sailors. From there, the plague spread rapidly along trade routes throughout Europe."
+              },
+              {
+                "problem": "How did the Black Death change European society?",
+                "answer": "Labor shortages gave peasants bargaining power, weakening serfdom and feudalism. The Church lost prestige. Social mobility increased.",
+                "explanation": "When one-third of the population died, the survivors were in demand. Peasants could negotiate for wages, move to better opportunities, and challenge the old social order. This was a major step toward ending feudalism."
+              },
+              {
+                "problem": "What was the Hundred Years' War?",
+                "answer": "A series of conflicts (1337\u20131453) between England and France over the French throne, which helped create national identities.",
+                "explanation": "Joan of Arc, a French peasant girl who claimed divine guidance, helped turn the tide for France. The war weakened feudal nobles, strengthened monarchies, and fostered English and French national identities."
+              }
+            ],
+            "key_vocabulary": [
+              "Black Death",
+              "bubonic plague",
+              "Yersinia pestis",
+              "pandemic",
+              "Hundred Years' War",
+              "Joan of Arc",
+              "Great Schism",
+              "serfdom"
+            ],
+            "real_world": "The COVID-19 pandemic drew many comparisons to the Black Death. Both disrupted economies, challenged governments, spread along trade and travel routes, and accelerated social changes already in progress."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Approximately what fraction of Europe's population died from the Black Death?",
+              "options": [
+                "One-tenth",
+                "One-quarter",
+                "One-third to one-half",
+                "Three-quarters"
+              ],
+              "correct": 2,
+              "hint": "The mortality was devastating \u2014 between 33% and 50%."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Black Death was caused by the bacterium ___.",
+              "answer": "Yersinia pestis",
+              "hint": "It was carried by fleas on rats along trade routes."
+            },
+            {
+              "type": "true_false",
+              "question": "The Black Death strengthened the feudal system.",
+              "answer": false,
+              "hint": "It actually weakened feudalism by giving surviving peasants more bargaining power."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did the plague affect the Church's authority?",
+              "options": [
+                "Increased it greatly",
+                "Weakened it because prayers failed to stop the plague",
+                "Had no effect",
+                "The Church gained political power"
+              ],
+              "correct": 1,
+              "hint": "People lost faith when religious responses failed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who was Joan of Arc?",
+              "options": [
+                "A French queen",
+                "An English general",
+                "A French peasant who helped turn the Hundred Years' War",
+                "A plague doctor"
+              ],
+              "correct": 2,
+              "hint": "She claimed divine guidance and inspired French forces."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Black Death reached Europe in the year ___.",
+              "answer": "1347",
+              "hint": "Ships carrying plague-infected rats arrived in Sicily."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-5-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "In feudalism, who worked the land?",
+            "options": [
+              "Knights",
+              "Lords",
+              "Serfs",
+              "Merchants"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The medieval Church could ___ a ruler, cutting them off from sacraments.",
+            "answer": "excommunicate"
+          },
+          {
+            "type": "true_false",
+            "question": "The Black Death killed roughly one-third to one-half of Europe's population.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who called the First Crusade?",
+            "options": [
+              "The King of England",
+              "Pope Urban II",
+              "Saladin",
+              "Charlemagne"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was a major result of the Black Death?",
+            "options": [
+              "Feudalism grew stronger",
+              "Peasants gained bargaining power",
+              "The Church gained authority",
+              "Trade decreased"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "medieval_europe_scholar"
+      }
+    },
+    {
+      "id": "9-ss-6",
+      "title": "African and Asian Kingdoms",
+      "description": "Discover the great empires of medieval Africa, China, the Mongols, and Japan \u2014 civilizations of extraordinary wealth, innovation, and cultural achievement.",
+      "lessons": [
+        {
+          "id": "9-social_studies-6-1",
+          "title": "West African Kingdoms: Ghana, Mali, and Songhai",
+          "type": "lesson",
+          "content": {
+            "explanation": "West Africa produced a succession of powerful empires built on gold and salt trade across the Sahara Desert. The Ghana Empire (c. 300\u20131200 CE) controlled gold mines and taxed trans-Saharan trade, growing fabulously wealthy. The Mali Empire (c. 1235\u20131600 CE) succeeded Ghana under Sundiata Keita and reached its peak under Mansa Musa (r. 1312\u20131337), who may have been the wealthiest person in history. Mansa Musa's famous 1324 hajj (pilgrimage) to Mecca, during which he distributed so much gold that he crashed the Egyptian economy for a decade, put Mali on European and Arab maps. He built the University of Sankore in Timbuktu, which attracted scholars from across the Islamic world. The Songhai Empire (c. 1464\u20131591 CE) replaced Mali under Sunni Ali and Askia Muhammad, becoming the largest empire in African history. It had a sophisticated bureaucracy, professional army, and centers of Islamic learning. All three empires demonstrate that medieval Africa had complex, wealthy, and intellectually vibrant civilizations.",
+            "examples": [
+              {
+                "problem": "Why was Mansa Musa significant?",
+                "answer": "Possibly the richest person in history, his 1324 pilgrimage to Mecca displayed Mali's wealth and put the empire on world maps.",
+                "explanation": "Mansa Musa traveled with 60,000 people and 12,000 slaves each carrying gold bars. His gold-giving crashed Egypt's economy. He returned with architects and scholars who helped build Timbuktu into a center of learning."
+              },
+              {
+                "problem": "What was Timbuktu's importance?",
+                "answer": "It was a major center of trade and learning with a famous university that attracted scholars from across the Islamic world.",
+                "explanation": "The University of Sankore at Timbuktu had libraries containing hundreds of thousands of manuscripts on mathematics, astronomy, law, and religion \u2014 rivaling European universities of the same period."
+              },
+              {
+                "problem": "What drove the wealth of West African empires?",
+                "answer": "Control of gold mines and trans-Saharan trade routes, especially the gold-for-salt exchange.",
+                "explanation": "Gold from West Africa was in enormous demand across the Mediterranean and Middle East. Salt, essential for food preservation, was equally valuable in tropical regions. Whoever controlled this exchange became rich and powerful."
+              }
+            ],
+            "key_vocabulary": [
+              "Ghana Empire",
+              "Mali Empire",
+              "Songhai Empire",
+              "Mansa Musa",
+              "Timbuktu",
+              "Sundiata Keita",
+              "trans-Saharan trade",
+              "Sankore"
+            ],
+            "real_world": "Timbuktu's manuscript libraries are still being preserved today. The Timbuktu Manuscripts Project works to digitize and protect hundreds of thousands of ancient texts that document Africa's rich intellectual history."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who may have been the wealthiest person in history?",
+              "options": [
+                "Genghis Khan",
+                "Mansa Musa",
+                "King Solomon",
+                "Alexander the Great"
+              ],
+              "correct": 1,
+              "hint": "His 1324 pilgrimage to Mecca is legendary for its display of gold."
+            },
+            {
+              "type": "fill_in",
+              "question": "The West African city of ___ was a famous center of trade and Islamic learning.",
+              "answer": "Timbuktu",
+              "hint": "Its university attracted scholars from across the Muslim world."
+            },
+            {
+              "type": "true_false",
+              "question": "West Africa had no complex civilizations before European contact.",
+              "answer": false,
+              "hint": "Ghana, Mali, and Songhai were all wealthy, sophisticated empires."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What two resources drove trans-Saharan trade?",
+              "options": [
+                "Silk and spices",
+                "Gold and salt",
+                "Iron and copper",
+                "Diamonds and ivory"
+              ],
+              "correct": 1,
+              "hint": "One was mined in the south, the other was essential for food preservation."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which was the largest empire in African history?",
+              "options": [
+                "Ghana",
+                "Mali",
+                "Songhai",
+                "Egypt"
+              ],
+              "correct": 2,
+              "hint": "It succeeded Mali and was led by Sunni Ali and Askia Muhammad."
+            },
+            {
+              "type": "fill_in",
+              "question": "The founder of the Mali Empire was ___.",
+              "answer": "Sundiata Keita",
+              "hint": "He is celebrated in the Epic of Sundiata, an oral tradition passed down by griots."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-6-2",
+          "title": "Tang and Song Dynasty China",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Tang Dynasty (618\u2013907 CE) is often considered China's golden age. Under rulers like Emperor Taizong, China became the world's most advanced civilization. The Tang capital, Chang'an (modern Xi'an), was the world's largest city with about 2 million residents and hosted merchants from across Eurasia via the Silk Road. Tang achievements included refined porcelain, woodblock printing, gunpowder, improvements to the compass, and flourishing poetry (Li Bai, Du Fu). The civil service examination system, based on Confucian classics, created a merit-based bureaucracy. The Song Dynasty (960\u20131279 CE) continued this golden era with further innovations: movable type printing (by Bi Sheng, c. 1040), paper money, advanced shipbuilding with magnetic compasses, and the world's first use of gunpowder in warfare. Song China had a thriving market economy and was likely the world's wealthiest and most technologically advanced society. Many inventions that would later transform Europe \u2014 printing, gunpowder, the compass \u2014 originated in Tang and Song China.",
+            "examples": [
+              {
+                "problem": "What made the Tang Dynasty a 'golden age'?",
+                "answer": "China was the world's most advanced civilization with achievements in art, technology, trade, and governance.",
+                "explanation": "The Tang capital was cosmopolitan and prosperous. Chinese porcelain, silk, and tea were prized worldwide. The merit-based examination system created effective government, and poetry and art flourished."
+              },
+              {
+                "problem": "What Chinese inventions later transformed the world?",
+                "answer": "Printing, gunpowder, the compass, and paper money all originated in Tang and Song China.",
+                "explanation": "These 'Four Great Inventions' eventually reached Europe via trade and contact, where they helped trigger the Age of Exploration (compass), the Reformation (printing), and military revolution (gunpowder)."
+              },
+              {
+                "problem": "What was the civil service examination system?",
+                "answer": "A merit-based system where government officials were selected through exams on Confucian classics rather than by birth.",
+                "explanation": "This system reduced aristocratic privilege and created competent governance. Any man could theoretically rise to high office through study and talent, though in practice, wealthy families had advantages in education."
+              }
+            ],
+            "key_vocabulary": [
+              "Tang Dynasty",
+              "Song Dynasty",
+              "Silk Road",
+              "civil service examinations",
+              "gunpowder",
+              "movable type",
+              "porcelain",
+              "Confucianism"
+            ],
+            "real_world": "China's civil service examination system influenced modern standardized testing worldwide. The SAT, civil service exams, and competitive government hiring processes all echo this ancient Chinese innovation."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which dynasty is often called China's golden age?",
+              "options": [
+                "Han",
+                "Tang",
+                "Ming",
+                "Qin"
+              ],
+              "correct": 1,
+              "hint": "Its capital Chang'an was the world's largest city."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Song Dynasty inventor ___ created movable type printing around 1040 CE.",
+              "answer": "Bi Sheng",
+              "hint": "This was about 400 years before Gutenberg's printing press in Europe."
+            },
+            {
+              "type": "true_false",
+              "question": "Gunpowder was invented in Europe.",
+              "answer": false,
+              "hint": "It was invented in China during the Tang Dynasty."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the purpose of the civil service examination system?",
+              "options": [
+                "Military recruitment",
+                "Selecting government officials based on merit",
+                "Religious education",
+                "Tax collection"
+              ],
+              "correct": 1,
+              "hint": "Officials were chosen by exam performance, not birth."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which inventions from China later transformed Europe?",
+              "options": [
+                "Aqueducts and concrete",
+                "Printing, gunpowder, and the compass",
+                "Democracy and philosophy",
+                "Iron and steel"
+              ],
+              "correct": 1,
+              "hint": "These 'Four Great Inventions' had revolutionary effects."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Road was the major trade route connecting China to Europe and the Middle East.",
+              "answer": "Silk",
+              "hint": "It carried goods, ideas, and technologies across Eurasia for centuries."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-6-3",
+          "title": "The Mongol Empire",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Mongol Empire, founded by Genghis Khan (c. 1162\u20131227), became the largest contiguous land empire in history, stretching from Korea to Hungary at its peak. Genghis Khan united the nomadic Mongol tribes through military genius, strict discipline, and a merit-based system of promotion. His armies used superior cavalry tactics, psychological warfare, and siege technology adopted from conquered peoples. After Genghis Khan's death, the empire was divided among his grandsons into four khanates. His grandson Kublai Khan conquered China and established the Yuan Dynasty (1271\u20131368). The Mongol Empire, despite its brutal conquests (which killed millions), created the Pax Mongolica \u2014 a period of relative peace across Eurasia that enabled unprecedented trade and cultural exchange along the Silk Road. The Mongols were religiously tolerant, promoted trade, established a postal system (yam), and facilitated the exchange of ideas, technology, and even diseases (the Black Death likely spread along Mongol trade routes).",
+            "examples": [
+              {
+                "problem": "How did Genghis Khan build the largest land empire in history?",
+                "answer": "Through military brilliance, strict discipline, merit-based promotion, and unifying the nomadic Mongol tribes.",
+                "explanation": "Genghis Khan promoted soldiers based on ability, not birth. His cavalry was the fastest and most disciplined in the world. He also adopted technologies from conquered peoples, including siege weapons from China."
+              },
+              {
+                "problem": "What was the Pax Mongolica?",
+                "answer": "A period of relative peace and stability across the vast Mongol Empire that enabled unprecedented trade and cultural exchange.",
+                "explanation": "With one authority controlling territory from China to Eastern Europe, merchants and travelers could move safely. Marco Polo's famous journey to China was possible because of the Pax Mongolica."
+              },
+              {
+                "problem": "What was the impact of the Mongol Empire on world history?",
+                "answer": "It connected East and West, facilitating trade, cultural exchange, and the spread of technology \u2014 but also diseases like the Black Death.",
+                "explanation": "The Mongols created a truly connected Eurasian world. Gunpowder, printing, and the compass moved westward; European goods and ideas moved east. But the same trade routes also carried the plague."
+              }
+            ],
+            "key_vocabulary": [
+              "Genghis Khan",
+              "Mongol Empire",
+              "Pax Mongolica",
+              "Kublai Khan",
+              "khanate",
+              "Yuan Dynasty",
+              "yam",
+              "Silk Road"
+            ],
+            "real_world": "Marco Polo's account of his travels to Kublai Khan's court fascinated Europeans and helped inspire the Age of Exploration. Christopher Columbus carried a copy of Polo's book when he sailed west in 1492."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who founded the Mongol Empire?",
+              "options": [
+                "Kublai Khan",
+                "Genghis Khan",
+                "Tamerlane",
+                "Attila"
+              ],
+              "correct": 1,
+              "hint": "He united the nomadic Mongol tribes."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Mongol Empire was the largest ___ land empire in history.",
+              "answer": "contiguous",
+              "hint": "It stretched from Korea to Hungary as one connected territory."
+            },
+            {
+              "type": "true_false",
+              "question": "The Mongol Empire only caused destruction and had no positive effects.",
+              "answer": false,
+              "hint": "The Pax Mongolica enabled unprecedented trade and cultural exchange."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who established the Yuan Dynasty in China?",
+              "options": [
+                "Genghis Khan",
+                "Marco Polo",
+                "Kublai Khan",
+                "Tamerlane"
+              ],
+              "correct": 2,
+              "hint": "He was Genghis Khan's grandson."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What likely spread along Mongol trade routes to Europe?",
+              "options": [
+                "Democracy",
+                "Christianity",
+                "The Black Death",
+                "Roman law"
+              ],
+              "correct": 2,
+              "hint": "The same routes that carried goods also carried disease."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Mongol postal and relay system was called the ___.",
+              "answer": "yam",
+              "hint": "It enabled rapid communication across the vast empire."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-6-4",
+          "title": "Feudal Japan",
+          "type": "lesson",
+          "content": {
+            "explanation": "Medieval Japan (c. 1185\u20131603) developed a feudal system with remarkable parallels to medieval Europe. The emperor remained a symbolic figurehead, but real power belonged to the shogun \u2014 a military dictator who ruled in the emperor's name. Below the shogun were the daimyo (powerful feudal lords) who controlled provinces and commanded armies of samurai \u2014 elite warriors bound by bushido, a strict code of honor emphasizing loyalty, courage, self-discipline, and honor even in death. Samurai valued their swords as sacred objects and trained in martial arts, poetry, and calligraphy. Japanese feudalism differed from European feudalism in important ways: loyalty was paramount (samurai would die rather than dishonor their lord), and there was a strong cultural emphasis on aesthetic refinement alongside martial skill. Japan also experienced periods of civil war (the Sengoku, or 'Warring States' period, 1467\u20131615) before being unified under Tokugawa Ieyasu, who established the Tokugawa Shogunate (1603\u20131868) and a long period of peace and isolation.",
+            "examples": [
+              {
+                "problem": "How was Japanese feudalism similar to European feudalism?",
+                "answer": "Both had a hierarchical system with a supreme leader, powerful lords controlling land, and warriors serving those lords in exchange for land and status.",
+                "explanation": "Japan's shogun-daimyo-samurai hierarchy parallels Europe's king-lord-knight system. Both societies valued loyalty and military service, and peasants worked the land at the bottom of the social order."
+              },
+              {
+                "problem": "What was bushido?",
+                "answer": "The samurai code of honor emphasizing loyalty, courage, self-discipline, respect, and honor \u2014 even unto death.",
+                "explanation": "Bushido governed every aspect of a samurai's life. A samurai who failed in duty might commit seppuku (ritual suicide) rather than live with dishonor. The code also valued poetry, calligraphy, and the tea ceremony."
+              },
+              {
+                "problem": "Who unified Japan and ended the Warring States period?",
+                "answer": "Tokugawa Ieyasu established the Tokugawa Shogunate in 1603, bringing peace and isolating Japan from outside influence.",
+                "explanation": "After decades of civil war, Tokugawa created a centralized feudal system. He restricted foreign contact and Christianity, beginning over 250 years of peace and isolation that allowed Japanese culture to flourish."
+              }
+            ],
+            "key_vocabulary": [
+              "shogun",
+              "daimyo",
+              "samurai",
+              "bushido",
+              "Tokugawa",
+              "Sengoku",
+              "feudalism",
+              "seppuku"
+            ],
+            "real_world": "Samurai culture continues to influence Japanese society today. Values of honor, discipline, loyalty, and attention to detail are reflected in Japanese business culture, martial arts, and aesthetics."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who held real political power in feudal Japan?",
+              "options": [
+                "The emperor",
+                "The shogun",
+                "Buddhist monks",
+                "Merchants"
+              ],
+              "correct": 1,
+              "hint": "This military leader ruled in the emperor's name."
+            },
+            {
+              "type": "fill_in",
+              "question": "The samurai code of honor was called ___.",
+              "answer": "bushido",
+              "hint": "It emphasized loyalty, courage, and self-discipline."
+            },
+            {
+              "type": "true_false",
+              "question": "The Japanese emperor held absolute power during the feudal period.",
+              "answer": false,
+              "hint": "The emperor was a figurehead; real power belonged to the shogun."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were daimyo?",
+              "options": [
+                "Peasant farmers",
+                "Powerful feudal lords",
+                "Samurai warriors",
+                "Buddhist priests"
+              ],
+              "correct": 1,
+              "hint": "They controlled provinces and commanded armies."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who unified Japan and established the Tokugawa Shogunate?",
+              "options": [
+                "Genghis Khan",
+                "Tokugawa Ieyasu",
+                "Emperor Meiji",
+                "Marco Polo"
+              ],
+              "correct": 1,
+              "hint": "He ended the Warring States period in 1603."
+            },
+            {
+              "type": "fill_in",
+              "question": "The period of Japanese civil war from 1467 to 1615 is called the ___ period.",
+              "answer": "Sengoku",
+              "hint": "It is also known as the 'Warring States' period."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-6-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who was possibly the wealthiest person in history?",
+            "options": [
+              "Genghis Khan",
+              "Mansa Musa",
+              "Kublai Khan",
+              "Tokugawa Ieyasu"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The ___ Dynasty is often considered China's golden age.",
+            "answer": "Tang"
+          },
+          {
+            "type": "true_false",
+            "question": "The Mongol Empire was the largest contiguous land empire in history.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the samurai code of honor called?",
+            "options": [
+              "Karma",
+              "Bushido",
+              "Dharma",
+              "Confucianism"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What drove the wealth of West African empires?",
+            "options": [
+              "Silver mining",
+              "Silk production",
+              "Gold and salt trade",
+              "Spice trade"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "african_asian_kingdoms_scholar"
+      }
+    },
+    {
+      "id": "9-ss-7",
+      "title": "The Renaissance",
+      "description": "Experience the 'rebirth' of learning and art that transformed Europe \u2014 from humanist philosophy and masterful art to the printing press and the dawn of modern science.",
+      "lessons": [
+        {
+          "id": "9-social_studies-7-1",
+          "title": "The Birth of the Renaissance",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Renaissance ('rebirth') was a cultural, intellectual, and artistic movement that began in Italy around 1350 and spread across Europe over the next three centuries. It represented a renewed interest in the classical learning of ancient Greece and Rome, combined with new ideas about human potential and the world. Several factors made Italy the birthplace of the Renaissance: wealthy city-states like Florence, Venice, and Milan; a prosperous merchant class willing to patronize the arts; proximity to ancient Roman ruins; and access to classical texts preserved by Byzantine and Islamic scholars. The Renaissance was driven by humanism \u2014 the belief that human beings have worth, dignity, and the capacity for achievement. Unlike the medieval emphasis on the afterlife and religious authority, humanists celebrated individual talent, curiosity, and the beauty of the natural world. The ideal 'Renaissance man' excelled in multiple fields: art, science, literature, and athletics.",
+            "examples": [
+              {
+                "problem": "What does 'Renaissance' mean?",
+                "answer": "'Rebirth' \u2014 referring to the revival of interest in classical Greek and Roman learning and culture.",
+                "explanation": "After centuries of focus on religious authority and the afterlife, Europeans rediscovered ancient texts on philosophy, science, and art. This sparked a new era of creativity, inquiry, and human achievement."
+              },
+              {
+                "problem": "Why did the Renaissance begin in Italy?",
+                "answer": "Italy had wealthy city-states, a prosperous merchant class, Roman ruins, and access to classical texts from Byzantine and Islamic sources.",
+                "explanation": "Florence, in particular, was home to the Medici family, wealthy bankers who lavishly funded artists and scholars. Italy's position at the center of Mediterranean trade brought wealth and cultural exchange."
+              },
+              {
+                "problem": "What was humanism?",
+                "answer": "A philosophy emphasizing human worth, individual potential, and the study of classical texts.",
+                "explanation": "Humanists believed in educating the 'whole person' \u2014 not just religious training, but also literature, history, philosophy, and science. They celebrated human achievement without necessarily rejecting religion."
+              }
+            ],
+            "key_vocabulary": [
+              "Renaissance",
+              "humanism",
+              "patron",
+              "city-state",
+              "classical",
+              "Florence",
+              "Medici",
+              "secular"
+            ],
+            "real_world": "The concept of the 'Renaissance person' \u2014 someone skilled in many areas \u2014 lives on today. People who excel in multiple fields (like someone who is both a scientist and a musician) are still called 'Renaissance men' or 'Renaissance women.'"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where did the Renaissance begin?",
+              "options": [
+                "England",
+                "France",
+                "Italy",
+                "Germany"
+              ],
+              "correct": 2,
+              "hint": "Wealthy city-states like Florence and Venice led the movement."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Renaissance philosophy emphasizing human worth and potential was called ___.",
+              "answer": "humanism",
+              "hint": "It celebrated individual achievement and classical learning."
+            },
+            {
+              "type": "true_false",
+              "question": "The Renaissance was primarily a military movement.",
+              "answer": false,
+              "hint": "It was a cultural, intellectual, and artistic movement."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which wealthy family were major patrons of the arts in Florence?",
+              "options": [
+                "Borgia",
+                "Tudor",
+                "Medici",
+                "Hapsburg"
+              ],
+              "correct": 2,
+              "hint": "These bankers funded many of the greatest Renaissance artists and scholars."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does 'Renaissance' literally mean?",
+              "options": [
+                "Revolution",
+                "Rebirth",
+                "Reason",
+                "Reformation"
+              ],
+              "correct": 1,
+              "hint": "It refers to the revival of classical learning."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ideal 'Renaissance ___' excelled in art, science, literature, and athletics.",
+              "answer": "man",
+              "hint": "Leonardo da Vinci is the most famous example of this ideal."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-7-2",
+          "title": "Renaissance Art: Da Vinci and Michelangelo",
+          "type": "lesson",
+          "content": {
+            "explanation": "Renaissance art represented a revolutionary break from medieval art through its emphasis on realism, perspective, human anatomy, and classical themes. Leonardo da Vinci (1452\u20131519) epitomized the Renaissance ideal \u2014 he was a painter, sculptor, architect, scientist, engineer, and inventor. His masterpieces include the Mona Lisa and The Last Supper, both demonstrating his mastery of sfumato (subtle gradation of color) and psychological depth. His notebooks contain designs for flying machines, tanks, and anatomical studies centuries ahead of their time. Michelangelo Buonarroti (1475\u20131564) was a sculptor, painter, architect, and poet. His David sculpture displays extraordinary anatomical precision, and his Sistine Chapel ceiling (painted for Pope Julius II over four years) is one of the greatest artistic achievements in history. Other major artists include Raphael (The School of Athens), Botticelli (The Birth of Venus), and Donatello (his bronze David). Renaissance art introduced techniques like linear perspective, chiaroscuro (light and shadow), and anatomical accuracy that remain foundational to Western art.",
+            "examples": [
+              {
+                "problem": "What made Leonardo da Vinci a 'Renaissance man'?",
+                "answer": "He excelled in painting, sculpture, engineering, anatomy, and invention \u2014 embodying the humanist ideal of broad achievement.",
+                "explanation": "Da Vinci's curiosity was boundless. He dissected cadavers to study anatomy, designed flying machines, painted masterpieces, and kept notebooks filled with observations on everything from water flow to optics."
+              },
+              {
+                "problem": "What was revolutionary about Renaissance art?",
+                "answer": "It introduced realism, linear perspective, anatomical accuracy, and emotional depth, breaking from the flat, symbolic style of medieval art.",
+                "explanation": "Medieval art was meant to teach religious lessons, so realism was less important than symbolism. Renaissance artists studied human anatomy, mathematics, and optics to create lifelike, three-dimensional scenes."
+              },
+              {
+                "problem": "Why is the Sistine Chapel ceiling considered a masterpiece?",
+                "answer": "Michelangelo painted over 300 figures with extraordinary anatomical detail on a 5,800-square-foot ceiling, creating one of art's greatest achievements.",
+                "explanation": "Working mostly alone on scaffolding for four years (1508\u20131512), Michelangelo depicted scenes from Genesis. The central image of God reaching out to Adam has become one of the most iconic images in Western culture."
+              }
+            ],
+            "key_vocabulary": [
+              "Leonardo da Vinci",
+              "Michelangelo",
+              "perspective",
+              "sfumato",
+              "Sistine Chapel",
+              "Mona Lisa",
+              "Raphael",
+              "Donatello"
+            ],
+            "real_world": "Da Vinci's notebooks, filled with mirror-written observations and inventions, continue to inspire scientists and engineers. Some of his designs \u2014 like a helicopter-like flying machine \u2014 were not realized until centuries later."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who painted the Mona Lisa?",
+              "options": [
+                "Michelangelo",
+                "Raphael",
+                "Leonardo da Vinci",
+                "Botticelli"
+              ],
+              "correct": 2,
+              "hint": "He was also a scientist, engineer, and inventor."
+            },
+            {
+              "type": "fill_in",
+              "question": "Michelangelo painted the ceiling of the ___ Chapel.",
+              "answer": "Sistine",
+              "hint": "He worked on it for four years for Pope Julius II."
+            },
+            {
+              "type": "true_false",
+              "question": "Renaissance art emphasized flat, symbolic figures like medieval art.",
+              "answer": false,
+              "hint": "Renaissance art introduced realism, perspective, and anatomical accuracy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What technique creates the illusion of depth on a flat surface?",
+              "options": [
+                "Sfumato",
+                "Linear perspective",
+                "Chiaroscuro",
+                "Fresco"
+              ],
+              "correct": 1,
+              "hint": "It uses converging lines to create a vanishing point."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which artist sculpted the famous David?",
+              "options": [
+                "Da Vinci",
+                "Raphael",
+                "Michelangelo",
+                "Donatello"
+              ],
+              "correct": 2,
+              "hint": "This Renaissance master was also a painter, architect, and poet."
+            },
+            {
+              "type": "fill_in",
+              "question": "Da Vinci's painting technique of subtle color gradation is called ___.",
+              "answer": "sfumato",
+              "hint": "It creates a soft, hazy effect seen in the Mona Lisa."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-7-3",
+          "title": "The Printing Press and Spread of Ideas",
+          "type": "lesson",
+          "content": {
+            "explanation": "Johannes Gutenberg's invention of the movable type printing press around 1440 in Mainz, Germany, was one of the most transformative innovations in human history. Before the printing press, books were copied by hand \u2014 a slow, expensive process that meant only churches, monasteries, and the wealthy had access to written knowledge. Gutenberg's press could produce books quickly and cheaply. His first major work, the Gutenberg Bible (c. 1455), demonstrated the technology's potential. Within 50 years, an estimated 20 million books had been printed in Europe. The printing press democratized knowledge: literacy rates rose, new ideas spread rapidly, and the monopoly of the Church and universities on information was broken. The press was essential to the Renaissance (spreading classical texts and humanist ideas), the Reformation (Luther's theses and pamphlets reached millions), and the Scientific Revolution (scientists could share discoveries). Historian Elizabeth Eisenstein called it 'the unacknowledged revolution.'",
+            "examples": [
+              {
+                "problem": "Why was Gutenberg's printing press so revolutionary?",
+                "answer": "It made books cheap and fast to produce, democratizing access to knowledge that had been limited to the elite.",
+                "explanation": "A hand-copied book might take months to produce and cost a year's wages. Printed books were hundreds of times cheaper and faster to make. This transformed every aspect of European society."
+              },
+              {
+                "problem": "How did the printing press affect the Renaissance?",
+                "answer": "It spread classical texts and humanist ideas rapidly across Europe, fueling the intellectual movement.",
+                "explanation": "Before printing, a scholar might travel hundreds of miles to read a single manuscript. Printed books made classical learning widely available, allowing the Renaissance to spread from Italy to all of Europe."
+              },
+              {
+                "problem": "How did the printing press change religion?",
+                "answer": "It allowed reformers like Martin Luther to spread their ideas to millions, making the Reformation possible.",
+                "explanation": "Luther's 95 Theses were reprinted and distributed across Germany within weeks. Without the press, his protest might have remained a local academic dispute instead of sparking a continent-wide reformation."
+              }
+            ],
+            "key_vocabulary": [
+              "Gutenberg",
+              "printing press",
+              "movable type",
+              "Gutenberg Bible",
+              "literacy",
+              "pamphlet",
+              "democratization",
+              "mass communication"
+            ],
+            "real_world": "The printing press is often compared to the internet \u2014 both radically expanded access to information and disrupted existing power structures. Just as the press challenged the Church's monopoly on knowledge, the internet challenges traditional media and institutions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who invented the European movable type printing press?",
+              "options": [
+                "Leonardo da Vinci",
+                "Martin Luther",
+                "Johannes Gutenberg",
+                "William Caxton"
+              ],
+              "correct": 2,
+              "hint": "He worked in Mainz, Germany, around 1440."
+            },
+            {
+              "type": "fill_in",
+              "question": "The first major book printed was the Gutenberg ___.",
+              "answer": "Bible",
+              "hint": "It was produced around 1455."
+            },
+            {
+              "type": "true_false",
+              "question": "Before the printing press, books were cheap and widely available.",
+              "answer": false,
+              "hint": "Books were hand-copied, extremely expensive, and rare."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many books had been printed within 50 years of the press's invention?",
+              "options": [
+                "1,000",
+                "100,000",
+                "1 million",
+                "20 million"
+              ],
+              "correct": 3,
+              "hint": "The spread was enormous and rapid."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did the press affect literacy?",
+              "options": [
+                "Literacy rates declined",
+                "Literacy rates increased as books became available",
+                "Only monks could read",
+                "There was no effect"
+              ],
+              "correct": 1,
+              "hint": "Cheap books meant more people could access reading material."
+            },
+            {
+              "type": "fill_in",
+              "question": "The printing press is often compared to the ___ as a technology that democratized information.",
+              "answer": "internet",
+              "hint": "Both transformed how people access and share knowledge."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-7-4",
+          "title": "The Scientific Revolution Begins",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Scientific Revolution, beginning in the mid-1500s, fundamentally changed how people understood the natural world. For centuries, European thinkers had accepted the geocentric model (Earth at the center of the universe) supported by the Church and the ancient authority of Aristotle and Ptolemy. In 1543, Nicolaus Copernicus published his heliocentric theory \u2014 that Earth and other planets orbit the Sun. Galileo Galilei (1564\u20131642) used the newly invented telescope to observe moons orbiting Jupiter and phases of Venus, providing evidence for Copernicus's theory. The Church tried and convicted Galileo of heresy, forcing him to recant. Johannes Kepler discovered that planetary orbits are elliptical, not circular. This scientific revolution was driven by a new method: observe nature, form hypotheses, test them through experiments, and revise based on evidence. Francis Bacon championed this empirical method, while Rene Descartes promoted rational, mathematical reasoning. Together, they established the foundation for modern science.",
+            "examples": [
+              {
+                "problem": "What was revolutionary about Copernicus's theory?",
+                "answer": "He proposed that the Sun, not Earth, was at the center of the solar system, challenging centuries of Church-supported belief.",
+                "explanation": "The geocentric model wasn't just a scientific theory \u2014 it was tied to theology (humans at the center of God's creation). Copernicus's heliocentric model threatened both scientific and religious authority."
+              },
+              {
+                "problem": "Why was Galileo put on trial?",
+                "answer": "The Church considered his support of the heliocentric theory to be heresy because it contradicted scriptural interpretation.",
+                "explanation": "Galileo's telescopic observations provided strong evidence for Copernicus's theory. The Church, threatened by challenges to its intellectual authority, forced him to publicly deny his findings. He reportedly muttered 'And yet it moves.'"
+              },
+              {
+                "problem": "What was the scientific method?",
+                "answer": "A systematic approach to understanding nature through observation, hypothesis, experimentation, and revision based on evidence.",
+                "explanation": "Before the scientific method, knowledge was based on ancient authorities and religious texts. The new approach said truth comes from evidence and testing, not from who said it. This was a radical shift in how humans pursue knowledge."
+              }
+            ],
+            "key_vocabulary": [
+              "Scientific Revolution",
+              "heliocentric",
+              "geocentric",
+              "Copernicus",
+              "Galileo",
+              "Kepler",
+              "scientific method",
+              "empiricism"
+            ],
+            "real_world": "Galileo's conflict with the Church echoes in modern debates about science and authority. Today, questions about evolution, climate change, and vaccines involve similar tensions between scientific evidence and non-scientific beliefs."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who proposed the heliocentric theory?",
+              "options": [
+                "Galileo",
+                "Copernicus",
+                "Kepler",
+                "Bacon"
+              ],
+              "correct": 1,
+              "hint": "He published his theory in 1543."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ used a telescope to find evidence supporting the heliocentric theory.",
+              "answer": "Galileo",
+              "hint": "He observed moons orbiting Jupiter and phases of Venus."
+            },
+            {
+              "type": "true_false",
+              "question": "The Church supported Galileo's scientific findings.",
+              "answer": false,
+              "hint": "The Church tried him for heresy and forced him to recant."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Kepler discover about planetary orbits?",
+              "options": [
+                "They are circular",
+                "They are elliptical",
+                "They are square",
+                "They don't exist"
+              ],
+              "correct": 1,
+              "hint": "This corrected an error in Copernicus's original model."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is empiricism?",
+              "options": [
+                "Reliance on religious authority",
+                "Knowledge through observation and experiment",
+                "The study of ancient texts",
+                "A type of art"
+              ],
+              "correct": 1,
+              "hint": "Francis Bacon championed this approach to knowledge."
+            },
+            {
+              "type": "fill_in",
+              "question": "The model placing Earth at the center of the universe was the ___ model.",
+              "answer": "geocentric",
+              "hint": "It was supported by Aristotle, Ptolemy, and the medieval Church."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-7-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What was humanism?",
+            "options": [
+              "A military doctrine",
+              "A belief in human worth and individual potential",
+              "A type of art",
+              "A religious movement"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "___ invented the European movable type printing press.",
+            "answer": "Gutenberg"
+          },
+          {
+            "type": "true_false",
+            "question": "Leonardo da Vinci only excelled in painting.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who painted the Sistine Chapel ceiling?",
+            "options": [
+              "Da Vinci",
+              "Raphael",
+              "Michelangelo",
+              "Donatello"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who proposed the heliocentric theory?",
+            "options": [
+              "Galileo",
+              "Copernicus",
+              "Newton",
+              "Aristotle"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "renaissance_scholar"
+      }
+    },
+    {
+      "id": "9-ss-8",
+      "title": "Reformation and Exploration",
+      "description": "Examine how the Protestant Reformation split Christianity, how European explorers connected the globe, and how the Columbian Exchange transformed the world forever.",
+      "lessons": [
+        {
+          "id": "9-social_studies-8-1",
+          "title": "The Protestant Reformation",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Protestant Reformation began on October 31, 1517, when Martin Luther, a German monk and theology professor, posted his 95 Theses on the door of the Wittenberg church, challenging Church practices \u2014 especially the sale of indulgences (payments believed to reduce punishment for sins in the afterlife). Luther argued that salvation comes through faith alone (sola fide), not through good works or payments to the Church; that scripture alone (sola scriptura) is the authority for Christian life, not Church tradition or papal decrees; and that all believers are priests before God, not just ordained clergy. Luther's ideas spread rapidly thanks to the printing press. He translated the Bible into German, making it accessible to common people. When the Pope and Holy Roman Emperor demanded Luther recant, he refused, famously declaring at the Diet of Worms (1521): 'Here I stand. I can do no other.' Luther's defiance split Western Christianity and ignited religious wars that reshaped Europe.",
+            "examples": [
+              {
+                "problem": "What were Luther's main objections to the Church?",
+                "answer": "The sale of indulgences, corruption, the Pope's authority over scripture, and the idea that salvation requires more than faith.",
+                "explanation": "Luther believed the Church had strayed from the Bible's teachings. He especially objected to Johann Tetzel's selling of indulgences with the slogan 'As soon as the coin in the coffer rings, the soul from purgatory springs.'"
+              },
+              {
+                "problem": "How did the printing press help the Reformation?",
+                "answer": "Luther's 95 Theses and writings were printed and distributed across Europe within weeks, reaching millions.",
+                "explanation": "Without the printing press, Luther's protest might have remained a local dispute. Instead, his ideas spread faster than the Church could suppress them, creating a mass movement."
+              },
+              {
+                "problem": "What does 'sola scriptura' mean?",
+                "answer": "'Scripture alone' \u2014 the belief that the Bible is the sole authority for Christian faith and practice.",
+                "explanation": "This challenged the Catholic Church's tradition that the Pope and Church councils could interpret and add to biblical teachings. Luther insisted every Christian should read and interpret the Bible themselves."
+              }
+            ],
+            "key_vocabulary": [
+              "Reformation",
+              "Martin Luther",
+              "95 Theses",
+              "indulgences",
+              "sola fide",
+              "sola scriptura",
+              "Protestant",
+              "Diet of Worms"
+            ],
+            "real_world": "The Reformation's emphasis on individual interpretation of scripture and resistance to authority influenced democratic thinking. The idea that individuals can challenge institutions became central to Western political philosophy."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What event traditionally marks the start of the Protestant Reformation?",
+              "options": [
+                "The printing of the Gutenberg Bible",
+                "Luther posting the 95 Theses",
+                "The Diet of Worms",
+                "Henry VIII's break with Rome"
+              ],
+              "correct": 1,
+              "hint": "This happened on October 31, 1517."
+            },
+            {
+              "type": "fill_in",
+              "question": "Luther argued that salvation comes through ___ alone.",
+              "answer": "faith",
+              "hint": "The Latin term is 'sola fide.'"
+            },
+            {
+              "type": "true_false",
+              "question": "The printing press played a minor role in the Reformation.",
+              "answer": false,
+              "hint": "It was essential \u2014 Luther's writings reached millions because of mass printing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were indulgences?",
+              "options": [
+                "Bible translations",
+                "Payments believed to reduce punishment for sins",
+                "Lutheran hymns",
+                "Church charities"
+              ],
+              "correct": 1,
+              "hint": "Luther especially objected to their sale."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happened at the Diet of Worms?",
+              "options": [
+                "Luther was executed",
+                "Luther refused to recant his teachings",
+                "The Pope accepted Luther's ideas",
+                "A peace treaty was signed"
+              ],
+              "correct": 1,
+              "hint": "Luther famously declared 'Here I stand. I can do no other.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Luther's principle of ___ ___ meant the Bible alone is the authority for faith.",
+              "answer": "sola scriptura",
+              "hint": "This challenged the authority of the Pope and Church tradition."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-8-2",
+          "title": "The Counter-Reformation and Religious Wars",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Catholic Church responded to the Protestant Reformation with the Counter-Reformation (also called the Catholic Reformation). The Council of Trent (1545\u20131563) reaffirmed core Catholic doctrines, reformed abuses like the sale of indulgences, improved education for priests, and strengthened the Inquisition to combat heresy. The Jesuits (Society of Jesus), founded by Ignatius of Loyola in 1540, became the Church's intellectual shock troops \u2014 establishing schools and universities, conducting foreign missions, and reclaiming Protestant areas through education and persuasion. Despite reform efforts, religious conflicts engulfed Europe. The French Wars of Religion (1562\u20131598) between Catholics and Huguenots (French Protestants) included the brutal St. Bartholomew's Day Massacre (1572). The devastating Thirty Years' War (1618\u20131648) \u2014 which killed an estimated 8 million people \u2014 ended with the Peace of Westphalia, establishing the principle that rulers could determine their territories' religion and laying groundwork for the modern nation-state system.",
+            "examples": [
+              {
+                "problem": "What was the Council of Trent?",
+                "answer": "A major Catholic Church council (1545\u20131563) that reformed abuses and reaffirmed Catholic doctrine in response to Protestantism.",
+                "explanation": "The Council addressed many of Luther's complaints about corruption while rejecting his theological positions. It improved priestly education, banned the worst abuses, and clarified Church teachings on salvation, sacraments, and scripture."
+              },
+              {
+                "problem": "Who were the Jesuits?",
+                "answer": "A Catholic religious order founded by Ignatius of Loyola that used education, missions, and intellectual rigor to counter Protestantism.",
+                "explanation": "The Jesuits established some of Europe's finest schools and universities, sent missionaries worldwide (including to Japan, China, and the Americas), and helped reclaim parts of Europe for Catholicism through education rather than force."
+              },
+              {
+                "problem": "Why was the Peace of Westphalia significant?",
+                "answer": "It ended the Thirty Years' War and established principles of state sovereignty and religious self-determination that underpin the modern international system.",
+                "explanation": "By allowing each ruler to choose their territory's religion, Westphalia moved Europe away from the idea of a single universal Christian authority and toward the modern system of sovereign nation-states."
+              }
+            ],
+            "key_vocabulary": [
+              "Counter-Reformation",
+              "Council of Trent",
+              "Jesuits",
+              "Ignatius of Loyola",
+              "Thirty Years' War",
+              "Peace of Westphalia",
+              "Huguenots",
+              "Inquisition"
+            ],
+            "real_world": "The Peace of Westphalia (1648) is considered the foundation of the modern international system. The principle that each nation is sovereign within its borders \u2014 the 'Westphalian system' \u2014 still governs international relations today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the Council of Trent?",
+              "options": [
+                "A Protestant assembly",
+                "A Catholic reform council",
+                "A peace conference",
+                "An art exhibition"
+              ],
+              "correct": 1,
+              "hint": "It met from 1545 to 1563 in response to the Reformation."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ were founded by Ignatius of Loyola to counter Protestantism through education.",
+              "answer": "Jesuits",
+              "hint": "They established schools, universities, and worldwide missions."
+            },
+            {
+              "type": "true_false",
+              "question": "The Thirty Years' War killed approximately 8 million people.",
+              "answer": true,
+              "hint": "It was one of Europe's most devastating conflicts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did the Peace of Westphalia establish?",
+              "options": [
+                "A unified European Church",
+                "Principles of state sovereignty and religious choice",
+                "Protestant victory",
+                "A new pope"
+              ],
+              "correct": 1,
+              "hint": "It laid groundwork for the modern nation-state system."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were Huguenots?",
+              "options": [
+                "German Lutherans",
+                "French Protestants",
+                "Spanish Catholics",
+                "English Puritans"
+              ],
+              "correct": 1,
+              "hint": "They fought Catholics in the French Wars of Religion."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Peace of Westphalia ended the ___ Years' War in 1648.",
+              "answer": "Thirty",
+              "hint": "This devastating conflict ravaged Central Europe."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-8-3",
+          "title": "The Age of Exploration",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Age of Exploration (15th\u201317th centuries) saw European nations sail to virtually every corner of the globe, driven by the 'Three Gs': God (spreading Christianity), Gold (seeking wealth and trade routes), and Glory (national prestige and individual fame). Portugal led the way under Prince Henry the Navigator, establishing trading posts along the African coast. Bartolomeu Dias rounded the Cape of Good Hope (1488), and Vasco da Gama reached India (1498), opening a sea route to Asian spices. Spain funded Christopher Columbus, who reached the Americas in 1492 while seeking a western route to Asia. Ferdinand Magellan's expedition (1519\u20131522) completed the first circumnavigation of the globe. Advances in navigation technology \u2014 the magnetic compass (from China), the astrolabe, improved maps, and the caravel (a fast, maneuverable ship) \u2014 made these voyages possible. European exploration led to colonization, the destruction of indigenous civilizations, the transatlantic slave trade, and a permanent reshaping of the global order.",
+            "examples": [
+              {
+                "problem": "What were the 'Three Gs' that motivated exploration?",
+                "answer": "God (spreading Christianity), Gold (wealth and trade), and Glory (national prestige and personal fame).",
+                "explanation": "These motivations were intertwined. Explorers sought personal fortune, monarchs wanted new sources of wealth and power, and the Church wanted to convert non-Christians. Trade with Asia for spices was especially lucrative."
+              },
+              {
+                "problem": "Why was Vasco da Gama's voyage significant?",
+                "answer": "He was the first European to reach India by sea (1498), opening a direct maritime trade route to Asia.",
+                "explanation": "This sea route bypassed the overland Silk Road and its Muslim and Italian middlemen, giving Portugal enormous wealth and establishing European maritime dominance over global trade."
+              },
+              {
+                "problem": "What technology made long-distance ocean voyages possible?",
+                "answer": "The compass, astrolabe, improved maps, and the caravel ship.",
+                "explanation": "The compass (from China via the Muslim world) allowed navigation far from shore. The astrolabe helped determine latitude. The caravel could sail against the wind. Together, they made transoceanic voyages feasible."
+              }
+            ],
+            "key_vocabulary": [
+              "Age of Exploration",
+              "Columbus",
+              "Vasco da Gama",
+              "Magellan",
+              "caravel",
+              "compass",
+              "astrolabe",
+              "circumnavigation"
+            ],
+            "real_world": "Columbus Day is increasingly controversial. While it marks European arrival in the Americas, it also marks the beginning of colonization, the destruction of indigenous peoples, and the transatlantic slave trade \u2014 leading many to observe Indigenous Peoples' Day instead."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What were the 'Three Gs' motivating exploration?",
+              "options": [
+                "Government, Geography, Geology",
+                "God, Gold, Glory",
+                "Grain, Goods, Growth",
+                "Greece, Gaul, Germania"
+              ],
+              "correct": 1,
+              "hint": "These three motivations drove European explorers to sea."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ da Gama was the first European to reach India by sea.",
+              "answer": "Vasco",
+              "hint": "He sailed for Portugal in 1498."
+            },
+            {
+              "type": "true_false",
+              "question": "Columbus was trying to reach India when he arrived in the Americas.",
+              "answer": true,
+              "hint": "He believed he could reach Asia by sailing west."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which expedition first circumnavigated the globe?",
+              "options": [
+                "Columbus",
+                "Da Gama",
+                "Magellan's",
+                "Drake's"
+              ],
+              "correct": 2,
+              "hint": "This voyage lasted from 1519 to 1522."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What type of ship was crucial for exploration?",
+              "options": [
+                "Galleon",
+                "Caravel",
+                "Trireme",
+                "Longship"
+              ],
+              "correct": 1,
+              "hint": "This fast, maneuverable Portuguese ship could sail against the wind."
+            },
+            {
+              "type": "fill_in",
+              "question": "Prince ___ the Navigator of Portugal promoted early exploration along the African coast.",
+              "answer": "Henry",
+              "hint": "He established a school of navigation and funded expeditions."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-social_studies-8-4",
+          "title": "The Columbian Exchange",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Columbian Exchange refers to the massive transfer of plants, animals, diseases, people, technology, and ideas between the Americas and the Old World (Europe, Africa, Asia) following Columbus's 1492 voyage. From the Americas to the Old World went crops that transformed global agriculture: potatoes, corn (maize), tomatoes, cacao (chocolate), tobacco, squash, and peppers. Potatoes alone helped fuel European population growth and the Industrial Revolution. From the Old World to the Americas came wheat, rice, sugarcane, horses, cattle, pigs, and \u2014 most devastatingly \u2014 diseases like smallpox, measles, and influenza, to which Native Americans had no immunity. These diseases killed an estimated 90% of the indigenous population of the Americas, one of the greatest demographic catastrophes in human history. The Columbian Exchange also drove the transatlantic slave trade, as European colonizers forced millions of Africans to labor on sugar, tobacco, and cotton plantations in the Americas. This exchange permanently reshaped the biology, demographics, and economies of the entire world.",
+            "examples": [
+              {
+                "problem": "What crops went from the Americas to the Old World?",
+                "answer": "Potatoes, corn, tomatoes, cacao, tobacco, squash, peppers, and many others.",
+                "explanation": "These crops revolutionized Old World agriculture. Potatoes fed Europe's growing population. Corn became a staple in Africa and Asia. Tomatoes transformed Italian cuisine. Cacao became the basis for chocolate."
+              },
+              {
+                "problem": "Why was disease the most devastating aspect of the Columbian Exchange?",
+                "answer": "European diseases like smallpox killed an estimated 90% of Native Americans, who had no immunity.",
+                "explanation": "Native Americans had been isolated from Eurasian disease pools for thousands of years. When exposed to smallpox, measles, and influenza, they had no biological defenses. Entire civilizations were decimated."
+              },
+              {
+                "problem": "How did the Columbian Exchange drive the slave trade?",
+                "answer": "European colonizers needed labor for plantations in the Americas, leading to the forced transportation of millions of Africans.",
+                "explanation": "With indigenous populations devastated by disease, colonizers turned to African slave labor for sugar, tobacco, and cotton plantations. The transatlantic slave trade forcibly transported an estimated 12.5 million Africans to the Americas."
+              }
+            ],
+            "key_vocabulary": [
+              "Columbian Exchange",
+              "smallpox",
+              "transatlantic slave trade",
+              "plantation",
+              "indigenous",
+              "epidemic",
+              "demographic catastrophe",
+              "colonization"
+            ],
+            "real_world": "The Columbian Exchange continues to shape our world. Without it, there would be no Italian tomato sauce, no Irish potatoes, no Swiss chocolate, no Thai chili peppers \u2014 and no horses on the American Great Plains."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does the 'Columbian Exchange' refer to?",
+              "options": [
+                "Columbus's trade deals",
+                "The massive transfer of plants, animals, diseases, and people between hemispheres",
+                "A type of currency",
+                "An agreement between Spain and Portugal"
+              ],
+              "correct": 1,
+              "hint": "It followed Columbus's 1492 voyage."
+            },
+            {
+              "type": "fill_in",
+              "question": "An estimated ___% of Native Americans died from European diseases.",
+              "answer": "90",
+              "hint": "Smallpox, measles, and influenza devastated populations with no immunity."
+            },
+            {
+              "type": "true_false",
+              "question": "Horses existed in the Americas before European contact.",
+              "answer": false,
+              "hint": "Horses were brought from the Old World to the Americas during the Columbian Exchange."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which crop from the Americas helped fuel European population growth?",
+              "options": [
+                "Wheat",
+                "Rice",
+                "Potatoes",
+                "Sugarcane"
+              ],
+              "correct": 2,
+              "hint": "It became a staple food across northern Europe."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many Africans were forcibly transported to the Americas through the slave trade?",
+              "options": [
+                "1 million",
+                "5 million",
+                "12.5 million",
+                "50 million"
+              ],
+              "correct": 2,
+              "hint": "They were enslaved to work on plantations."
+            },
+            {
+              "type": "fill_in",
+              "question": "European colonizers established ___ to grow sugar, tobacco, and cotton using slave labor.",
+              "answer": "plantations",
+              "hint": "These large-scale agricultural operations drove the demand for enslaved Africans."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ss-8-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What event started the Protestant Reformation?",
+            "options": [
+              "The Diet of Worms",
+              "Luther's 95 Theses",
+              "The Council of Trent",
+              "Henry VIII's divorce"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The massive transfer of plants, animals, and diseases between hemispheres is called the ___ Exchange.",
+            "answer": "Columbian"
+          },
+          {
+            "type": "true_false",
+            "question": "The Peace of Westphalia established principles of state sovereignty.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who first reached India by sea?",
+            "options": [
+              "Columbus",
+              "Magellan",
+              "Vasco da Gama",
+              "Drake"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What killed approximately 90% of Native Americans?",
+            "options": [
+              "Warfare",
+              "Famine",
+              "European diseases",
+              "Slavery"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "reformation_exploration_scholar"
+      }
+    }
+  ]
+}

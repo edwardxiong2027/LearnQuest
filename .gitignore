@@ -1,0 +1,56 @@
+# Python
+app/venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Database (generated on setup)
+app/database/learnquest.db
+
+# Ollama models (too large, downloaded on setup)
+ollama_models/
+
+# Config (contains local settings)
+config.json
+
+# PID files
+.pids/
+
+# Logs
+*.log
+.ollama.log
+.flask.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Generator scripts (used to build curriculum JSON, not needed at runtime)
+gen_*.py
+generate_curriculum.py
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if any)
+node_modules/
+
+# Firebase (website deployment cache)
+website/.firebase/

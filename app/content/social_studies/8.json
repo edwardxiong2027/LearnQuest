@@ -1,0 +1,759 @@
+{
+  "grade": 8,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "8-ss-1",
+      "title": "The U.S. Constitution and the Foundations of Government",
+      "description": "Explore the principles of the U.S. Constitution, the structure of the federal government, the Bill of Rights, and how the system of checks and balances protects democracy.",
+      "lessons": [
+        {
+          "id": "8-ss-1-1",
+          "title": "The Constitution and Its Principles",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States Constitution, written in 1787 and ratified in 1788, is the supreme law of the land and the framework for American government. It was created at the Constitutional Convention in Philadelphia, where delegates from 12 of the 13 states debated how to create a stronger national government while protecting individual freedoms. The Constitution is built on several key principles: popular sovereignty (the government's power comes from the people), limited government (the government can only exercise powers granted by the Constitution), separation of powers (dividing government into three branches), checks and balances (each branch can limit the others), federalism (power is shared between national and state governments), and individual rights (protected by the Bill of Rights). The Constitution has survived for over 230 years because it can be amended — changed to meet new challenges — while maintaining its core principles.",
+            "examples": [
+              {"problem": "What is popular sovereignty?", "answer": "The principle that the government's authority comes from the consent of the people.", "explanation": "The Constitution begins with 'We the People,' emphasizing that the government serves the citizens, not the other way around. Officials are elected by the people and can be voted out."},
+              {"problem": "What is federalism?", "answer": "A system of government in which power is shared between a central (national) government and state governments.", "explanation": "Under federalism, some powers belong to the federal government (like declaring war), some belong to states (like education), and some are shared (like taxation)."}
+            ],
+            "key_vocabulary": ["Constitution", "popular sovereignty", "limited government", "separation of powers", "checks and balances", "federalism", "ratification", "amendment"],
+            "real_world": "The U.S. Constitution is the oldest written national constitution still in use today. Its principles of democratic government have influenced constitutions around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When was the U.S. Constitution written?", "options": ["1776", "1787", "1791", "1800"], "correct": 1, "hint": "It was written about 11 years after the Declaration of Independence."},
+            {"type": "fill_in", "question": "The principle of ___ ___ means that the government's power comes from the consent of the people.", "answer": "popular sovereignty", "hint": "The Constitution begins with 'We the People.'"},
+            {"type": "true_false", "question": "The Constitution divides the federal government into two branches.", "answer": false, "hint": "Think about how many branches there are: legislative, executive, and..."},
+            {"type": "multiple_choice", "question": "What is federalism?", "options": ["A system where only the national government has power", "A system where only state governments have power", "A system where power is shared between national and state governments", "A system with no government"], "correct": 2, "hint": "Think about what 'federal' suggests — it's about sharing."},
+            {"type": "multiple_choice", "question": "What does it mean that the Constitution can be 'amended'?", "options": ["It can be rewritten entirely", "It can be changed or added to through a formal process", "It is permanent and cannot change", "It only applies to some states"], "correct": 1, "hint": "Amendments are additions or changes to the original document."},
+            {"type": "true_false", "question": "The U.S. Constitution is the oldest written national constitution still in use.", "answer": true, "hint": "It has been in effect since 1788 — over 230 years."},
+            {"type": "fill_in", "question": "The system of ___ and ___ allows each branch of government to limit the powers of the other branches.", "answer": "checks and balances", "hint": "This system prevents any one branch from becoming too powerful."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-1-2",
+          "title": "The Three Branches of Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution establishes three branches of the federal government, each with distinct powers and responsibilities. The Legislative Branch (Congress) makes the laws. Congress is divided into two chambers: the Senate (100 members, 2 per state, serving 6-year terms) and the House of Representatives (435 members, apportioned by state population, serving 2-year terms). The Executive Branch, headed by the President, enforces the laws. The President serves a 4-year term (limited to two terms by the 22nd Amendment), commands the military, conducts foreign policy, and appoints federal judges and cabinet members. The Judicial Branch, led by the Supreme Court, interprets the laws and determines whether they are constitutional. Supreme Court justices are appointed by the President, confirmed by the Senate, and serve for life. This separation of powers ensures that no single branch can dominate the government.",
+            "examples": [
+              {"problem": "Why does the Senate have equal representation while the House is based on population?", "answer": "This was the 'Great Compromise' at the Constitutional Convention, balancing the interests of large and small states.", "explanation": "Large states wanted representation based on population (the Virginia Plan), while small states wanted equal representation (the New Jersey Plan). The compromise gave them both: population-based in the House and equal in the Senate."},
+              {"problem": "Why do Supreme Court justices serve for life?", "answer": "To insulate them from political pressure so they can make decisions based on the Constitution, not on popular opinion or politics.", "explanation": "Because justices don't need to worry about re-election, they can focus on applying the law fairly without concern about public approval."}
+            ],
+            "key_vocabulary": ["legislative branch", "executive branch", "judicial branch", "Congress", "Senate", "House of Representatives", "President", "Supreme Court", "Great Compromise"],
+            "real_world": "The three branches interact daily in American government. For example, Congress passes a bill, the President signs or vetoes it, and the Supreme Court can review whether it's constitutional."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which branch of government makes the laws?", "options": ["Executive", "Legislative", "Judicial", "Military"], "correct": 1, "hint": "This branch includes Congress — the Senate and House of Representatives."},
+            {"type": "fill_in", "question": "The ___ branch, headed by the President, enforces the laws.", "answer": "executive", "hint": "The President 'executes' (carries out) the laws."},
+            {"type": "true_false", "question": "The House of Representatives has 100 members, two from each state.", "answer": false, "hint": "That describes the Senate. The House has a different number and is based on population."},
+            {"type": "multiple_choice", "question": "How many members are in the U.S. Senate?", "options": ["50", "100", "435", "538"], "correct": 1, "hint": "Each state gets two senators."},
+            {"type": "multiple_choice", "question": "How long does a President serve in one term?", "options": ["2 years", "4 years", "6 years", "For life"], "correct": 1, "hint": "Presidents are limited to two of these terms by the 22nd Amendment."},
+            {"type": "true_false", "question": "Supreme Court justices serve for life.", "answer": true, "hint": "This is designed to keep them independent from political pressure."},
+            {"type": "fill_in", "question": "The ___ branch, led by the Supreme Court, interprets the laws and determines their constitutionality.", "answer": "judicial", "hint": "Judges and courts are part of this branch."},
+            {"type": "multiple_choice", "question": "What was the Great Compromise?", "options": ["A treaty with Britain", "The agreement to create two chambers of Congress — one based on population and one with equal representation", "The decision to elect the president", "The agreement to add the Bill of Rights"], "correct": 1, "hint": "It resolved the dispute between large and small states at the Constitutional Convention."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-1-3",
+          "title": "The Bill of Rights and Constitutional Amendments",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Bill of Rights consists of the first ten amendments to the Constitution, ratified in 1791. These amendments were added because many Americans feared that a strong central government could threaten individual freedoms. The 1st Amendment protects freedom of religion, speech, press, assembly, and petition. The 2nd Amendment addresses the right to bear arms. The 4th Amendment protects against unreasonable searches and seizures. The 5th Amendment guarantees due process and protects against self-incrimination. The 6th Amendment ensures the right to a speedy, public trial by jury. The 8th Amendment prohibits cruel and unusual punishment. Beyond the Bill of Rights, the Constitution has been amended 17 more times, for a total of 27 amendments. Notable later amendments include the 13th (abolishing slavery), 14th (equal protection), 15th (voting rights regardless of race), 19th (women's suffrage), and 26th (lowering the voting age to 18).",
+            "examples": [
+              {"problem": "What does the 1st Amendment protect?", "answer": "Freedom of religion, speech, press, assembly, and petition.", "explanation": "These five freedoms are considered essential to democracy. They allow citizens to express their views, worship freely, report on the government, gather peacefully, and ask the government to address problems."},
+              {"problem": "What is 'due process'?", "answer": "The legal requirement that the government must follow fair procedures before depriving anyone of life, liberty, or property.", "explanation": "Protected by the 5th and 14th Amendments, due process means the government can't just punish someone — it must follow the law, give notice, and provide a fair hearing."}
+            ],
+            "key_vocabulary": ["Bill of Rights", "amendment", "1st Amendment", "due process", "self-incrimination", "cruel and unusual punishment", "freedom of speech", "right to bear arms", "search and seizure"],
+            "real_world": "The Bill of Rights affects daily life in America. Freedom of speech protects social media posts, the 4th Amendment affects how police can search your phone, and the 6th Amendment gives accused people the right to a lawyer."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many amendments make up the Bill of Rights?", "options": ["5", "10", "15", "27"], "correct": 1, "hint": "The Bill of Rights is the first set of amendments, ratified in 1791."},
+            {"type": "fill_in", "question": "The ___ Amendment protects freedom of religion, speech, press, assembly, and petition.", "answer": "1st", "hint": "It's the very first amendment in the Bill of Rights."},
+            {"type": "true_false", "question": "The Constitution has been amended a total of 27 times.", "answer": true, "hint": "This includes the original 10 amendments (Bill of Rights) plus 17 more."},
+            {"type": "multiple_choice", "question": "Which amendment protects against unreasonable searches and seizures?", "options": ["1st", "2nd", "4th", "8th"], "correct": 2, "hint": "This amendment requires police to have a warrant in most cases."},
+            {"type": "multiple_choice", "question": "What does the 8th Amendment prohibit?", "options": ["Self-incrimination", "Unreasonable searches", "Cruel and unusual punishment", "Restrictions on speech"], "correct": 2, "hint": "This amendment limits what the government can do as punishment."},
+            {"type": "true_false", "question": "The Bill of Rights was part of the original Constitution written in 1787.", "answer": false, "hint": "The Bill of Rights was added later as amendments, ratified in 1791."},
+            {"type": "fill_in", "question": "The ___ Amendment lowered the voting age to 18.", "answer": "26th", "hint": "It was ratified in 1971 during the Vietnam War era."},
+            {"type": "multiple_choice", "question": "What does the 5th Amendment protect people from?", "options": ["Having to testify against themselves (self-incrimination)", "Unreasonable searches", "Cruel punishment", "Having soldiers quartered in their homes"], "correct": 0, "hint": "This is why a person can 'plead the Fifth' in court."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-1-4",
+          "title": "How a Bill Becomes a Law",
+          "type": "lesson",
+          "content": {
+            "explanation": "The process of turning an idea into a law involves multiple steps and both chambers of Congress. First, a member of Congress introduces a bill — a proposed law. The bill is assigned to a committee that studies it, holds hearings, and may revise it. If the committee approves, the bill goes to the full chamber (House or Senate) for debate and a vote. If one chamber passes the bill, it goes to the other chamber, which repeats the process. If the House and Senate pass different versions, a conference committee works out the differences. Once both chambers pass the identical bill, it goes to the President. The President can sign the bill into law, veto it (reject it), or take no action (in which case it becomes law after 10 days if Congress is in session). If the President vetoes the bill, Congress can override the veto with a two-thirds vote in both chambers. This process ensures that laws are carefully considered and reflect broad agreement.",
+            "examples": [
+              {"problem": "What is a veto?", "answer": "The President's power to reject a bill passed by Congress.", "explanation": "The word 'veto' comes from Latin meaning 'I forbid.' The President uses the veto to block legislation they disagree with, but Congress can override it with a two-thirds vote."},
+              {"problem": "Why does a bill go through so many steps?", "answer": "To ensure thorough review, debate, and broad agreement before a proposal becomes law.", "explanation": "The founders designed this process to be deliberately slow and deliberate, preventing hasty or poorly-thought-out laws from being passed."}
+            ],
+            "key_vocabulary": ["bill", "committee", "debate", "vote", "veto", "override", "conference committee", "legislation", "hearing"],
+            "real_world": "You can track the progress of bills through Congress on the website congress.gov. Many bills are introduced each year, but only a small percentage actually become law."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where must a bill start?", "options": ["The White House", "The Supreme Court", "Either the House or Senate in Congress", "A state legislature"], "correct": 2, "hint": "Only members of Congress can introduce bills at the federal level."},
+            {"type": "fill_in", "question": "If the President rejects a bill, it is called a ___.", "answer": "veto", "hint": "Congress can override this with a two-thirds vote in both chambers."},
+            {"type": "true_false", "question": "A bill must pass both the House and Senate in identical form before going to the President.", "answer": true, "hint": "If the two chambers pass different versions, a conference committee resolves the differences."},
+            {"type": "multiple_choice", "question": "What fraction of Congress must vote to override a presidential veto?", "options": ["One-half", "Two-thirds", "Three-fourths", "Unanimous"], "correct": 1, "hint": "This is a higher threshold than a simple majority."},
+            {"type": "multiple_choice", "question": "What does a committee do with a bill?", "options": ["Immediately sends it to the President", "Studies it, holds hearings, and may revise it", "Destroys it", "Sends it to the Supreme Court"], "correct": 1, "hint": "Committees are where the detailed work on legislation happens."},
+            {"type": "true_false", "question": "Most bills that are introduced in Congress actually become law.", "answer": false, "hint": "Only a small percentage of proposed bills make it through the entire process."},
+            {"type": "fill_in", "question": "If the House and Senate pass different versions of a bill, a ___ committee works out the differences.", "answer": "conference", "hint": "Members from both chambers meet together to create a compromise version."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-1-5",
+          "title": "Elections and Political Participation",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a democracy, elections are how citizens choose their leaders and influence government policy. The United States holds elections at the federal, state, and local levels. Presidential elections occur every four years and use the Electoral College — a system where each state gets a number of electors equal to its total number of senators and representatives. A candidate needs 270 out of 538 electoral votes to win the presidency. Congressional elections happen every two years for all House seats and one-third of Senate seats. Beyond voting, citizens can participate in democracy by contacting elected officials, attending town halls, joining political campaigns, serving on juries, and exercising their right to free speech and peaceful protest. Political parties — primarily the Democratic and Republican parties — organize candidates, develop policy platforms, and mobilize voters. Understanding how elections work and participating in the democratic process is both a right and a responsibility of citizenship.",
+            "examples": [
+              {"problem": "What is the Electoral College?", "answer": "A system where electors from each state cast votes for president based on the state's popular vote results.", "explanation": "Each state gets a number of electors equal to its total congressional delegation (senators + representatives). In most states, the candidate who wins the popular vote in the state gets all of that state's electoral votes."},
+              {"problem": "Why is voter participation important?", "answer": "Elections determine who makes decisions that affect everyone's lives — from education to healthcare to taxes to national security.", "explanation": "When people don't vote, elected officials may not represent the views of all citizens. High participation ensures that government reflects the will of the people."}
+            ],
+            "key_vocabulary": ["election", "Electoral College", "popular vote", "electoral vote", "political party", "platform", "primary election", "campaign", "voter registration"],
+            "real_world": "Young people can start getting involved in the democratic process before they turn 18 by volunteering for campaigns, attending school board meetings, and staying informed about issues in their community."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many electoral votes are needed to win the presidency?", "options": ["100", "218", "270", "435"], "correct": 2, "hint": "It's a majority of the 538 total electoral votes."},
+            {"type": "fill_in", "question": "Presidential elections in the United States occur every ___ years.", "answer": "four", "hint": "The next presidential election after 2024 would be in 2028."},
+            {"type": "true_false", "question": "Members of the House of Representatives serve 6-year terms.", "answer": false, "hint": "House members have shorter terms than senators."},
+            {"type": "multiple_choice", "question": "What are the two major political parties in the United States?", "options": ["Federalist and Anti-Federalist", "Democratic and Republican", "Liberal and Conservative", "Labor and Green"], "correct": 1, "hint": "These two parties have dominated American politics since the mid-1800s."},
+            {"type": "multiple_choice", "question": "How does the Electoral College determine the number of electors per state?", "options": ["Equal number for each state", "Based solely on population", "Total of senators plus representatives", "Based on the state's size"], "correct": 2, "hint": "Every state has 2 senators, but the number of representatives varies by population."},
+            {"type": "true_false", "question": "Voting is the only way citizens can participate in democracy.", "answer": false, "hint": "Think about other ways people can be involved — contacting officials, attending meetings, protesting, etc."},
+            {"type": "fill_in", "question": "There are a total of ___ electoral votes in the Electoral College.", "answer": "538", "hint": "This equals 435 (House) + 100 (Senate) + 3 (Washington D.C.)."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which branch of government makes the laws?", "options": ["Executive", "Legislative", "Judicial", "All three equally"], "correct": 1},
+          {"type": "true_false", "question": "The Bill of Rights contains the first ten amendments to the Constitution.", "answer": true},
+          {"type": "multiple_choice", "question": "What principle means government power comes from the people?", "options": ["Federalism", "Popular sovereignty", "Judicial review", "Separation of powers"], "correct": 1},
+          {"type": "multiple_choice", "question": "How many electoral votes are needed to win the presidency?", "options": ["218", "270", "330", "435"], "correct": 1},
+          {"type": "true_false", "question": "The President can veto a bill passed by Congress.", "answer": true},
+          {"type": "multiple_choice", "question": "Which amendment protects freedom of speech?", "options": ["1st", "2nd", "4th", "5th"], "correct": 0},
+          {"type": "multiple_choice", "question": "How many members are in the U.S. Senate?", "options": ["50", "100", "435", "538"], "correct": 1},
+          {"type": "true_false", "question": "Congress can override a presidential veto with a two-thirds vote.", "answer": true},
+          {"type": "multiple_choice", "question": "What does federalism mean?", "options": ["Power belongs only to the national government", "Power is shared between national and state governments", "Power belongs only to the states", "Power belongs to the military"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "constitution_scholar"
+      }
+    },
+    {
+      "id": "8-ss-2",
+      "title": "Economics: How Markets Work",
+      "description": "Learn the fundamental principles of economics, including supply and demand, market systems, the role of government in the economy, and personal financial literacy.",
+      "lessons": [
+        {
+          "id": "8-ss-2-1",
+          "title": "Basic Economic Concepts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Economics is the study of how people, businesses, and governments make choices about using limited resources to satisfy unlimited wants. The fundamental problem of economics is scarcity — there are never enough resources to produce everything everyone wants. Because of scarcity, every choice involves a trade-off, and every decision has an opportunity cost — the value of the next best alternative you give up when making a choice. For example, if you spend your Saturday studying, the opportunity cost might be the time you could have spent with friends. The three basic economic questions every society must answer are: What to produce? How to produce it? For whom to produce it? The way a society answers these questions defines its economic system. The factors of production — land (natural resources), labor (workers), capital (tools, machines, factories), and entrepreneurship (people who organize and risk resources to start businesses) — are the building blocks of any economy.",
+            "examples": [
+              {"problem": "What is opportunity cost?", "answer": "The value of the next best alternative you give up when making a choice.", "explanation": "If you have $20 and choose to buy a book instead of a movie ticket, the opportunity cost of the book is the movie you didn't see. Every choice means giving up something else."},
+              {"problem": "What are the factors of production?", "answer": "Land (natural resources), labor (workers), capital (tools and machines), and entrepreneurship (people who organize production).", "explanation": "Every good or service requires some combination of these four factors. A pizza restaurant needs flour and tomatoes (land), cooks and servers (labor), ovens and tables (capital), and someone to run the business (entrepreneurship)."}
+            ],
+            "key_vocabulary": ["economics", "scarcity", "trade-off", "opportunity cost", "factors of production", "land", "labor", "capital", "entrepreneurship", "goods", "services"],
+            "real_world": "You make economic decisions every day: choosing how to spend your time, money, and energy. Understanding opportunity cost helps you make better decisions about what's truly worth your resources."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the fundamental problem of economics?", "options": ["Inflation", "Scarcity — limited resources and unlimited wants", "Unemployment", "Taxes"], "correct": 1, "hint": "There's never enough of everything for everyone."},
+            {"type": "fill_in", "question": "The value of the next best alternative you give up when making a choice is called ___ ___.", "answer": "opportunity cost", "hint": "Every choice means giving up something else."},
+            {"type": "true_false", "question": "Capital, as a factor of production, refers only to money.", "answer": false, "hint": "In economics, capital includes tools, machines, factories — not just money."},
+            {"type": "multiple_choice", "question": "Which of the following is NOT a factor of production?", "options": ["Land", "Labor", "Advertising", "Capital"], "correct": 2, "hint": "The four factors are land, labor, capital, and entrepreneurship."},
+            {"type": "multiple_choice", "question": "If you choose to spend $15 on lunch instead of a book, what is the opportunity cost?", "options": ["$15", "The book you didn't buy", "The lunch", "Nothing"], "correct": 1, "hint": "Opportunity cost is the next best alternative you gave up."},
+            {"type": "true_false", "question": "Every society must decide what to produce, how to produce it, and for whom to produce it.", "answer": true, "hint": "These are the three basic economic questions."},
+            {"type": "fill_in", "question": "___ is the study of how people make choices about using limited resources.", "answer": "Economics", "hint": "This subject deals with production, distribution, and consumption of goods and services."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-2-2",
+          "title": "Supply and Demand",
+          "type": "lesson",
+          "content": {
+            "explanation": "Supply and demand are the most fundamental forces in a market economy. Demand is the quantity of a good or service that consumers are willing and able to buy at various prices. The Law of Demand states that as the price of a good rises, the quantity demanded generally falls (and vice versa) — when something costs more, people buy less of it. Supply is the quantity of a good or service that producers are willing and able to sell at various prices. The Law of Supply states that as the price rises, the quantity supplied generally increases — higher prices give producers an incentive to make more. The equilibrium price is where the supply and demand curves intersect — the price at which the quantity supplied equals the quantity demanded. If the price is too high, there will be a surplus (unsold goods). If the price is too low, there will be a shortage (not enough goods to meet demand). Changes in consumer preferences, income, population, and technology can shift both supply and demand.",
+            "examples": [
+              {"problem": "If the price of a popular video game drops from $60 to $30, what happens to demand?", "answer": "The quantity demanded increases — more people buy it at the lower price.", "explanation": "This illustrates the Law of Demand: as price decreases, quantity demanded increases. The lower price makes the game affordable to more buyers."},
+              {"problem": "What is a surplus?", "answer": "When the quantity supplied exceeds the quantity demanded at a given price.", "explanation": "If a store orders 100 winter coats but only 60 people want to buy them at the listed price, there's a surplus of 40 coats. The store might then lower the price to sell the remaining coats."}
+            ],
+            "key_vocabulary": ["supply", "demand", "Law of Demand", "Law of Supply", "equilibrium price", "surplus", "shortage", "quantity demanded", "quantity supplied", "market"],
+            "real_world": "Supply and demand explain everyday pricing. Concert tickets for popular artists are expensive because demand is high. After the holidays, stores discount leftover inventory because demand has dropped."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "According to the Law of Demand, what happens when the price of a good increases?", "options": ["People buy more of it", "People buy less of it", "Nothing changes", "Supply decreases"], "correct": 1, "hint": "Think about what you do when something you want gets more expensive."},
+            {"type": "fill_in", "question": "The price at which the quantity supplied equals the quantity demanded is called the ___ price.", "answer": "equilibrium", "hint": "This is the balance point where supply meets demand."},
+            {"type": "true_false", "question": "A surplus occurs when there are not enough goods to meet demand.", "answer": false, "hint": "A surplus means there are MORE goods than people want to buy. You're thinking of a shortage."},
+            {"type": "multiple_choice", "question": "According to the Law of Supply, what happens when the price of a good increases?", "options": ["Producers make less of it", "Producers make more of it", "Nothing changes", "Demand increases"], "correct": 1, "hint": "Higher prices give producers more incentive to produce."},
+            {"type": "multiple_choice", "question": "If a new phone is so popular that stores run out, what is occurring?", "options": ["A surplus", "A shortage", "Equilibrium", "Inflation"], "correct": 1, "hint": "Demand exceeds supply at the current price."},
+            {"type": "true_false", "question": "If a product becomes trendy, the demand for it will likely increase.", "answer": true, "hint": "Changes in consumer preferences can shift demand."},
+            {"type": "fill_in", "question": "When the quantity supplied exceeds the quantity demanded, it creates a ___.", "answer": "surplus", "hint": "This is the opposite of a shortage."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-2-3",
+          "title": "Types of Economic Systems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Different societies organize their economies in different ways. In a traditional economy, economic decisions are based on customs, beliefs, and traditions passed down through generations — people produce what their ancestors produced. In a command economy (also called a planned economy), the government controls all major economic decisions: what to produce, how to produce it, and who gets the products. The former Soviet Union was an example. In a market economy (also called free enterprise or capitalism), individuals and businesses make economic decisions based on supply, demand, and self-interest, with minimal government involvement. In reality, most modern economies are mixed economies that combine elements of market and command systems. The United States has a mixed economy — primarily market-based, but with government regulations, public services (schools, roads, military), and programs like Social Security and Medicare. The debate over how much the government should be involved in the economy is one of the central questions of modern politics.",
+            "examples": [
+              {"problem": "What is a mixed economy?", "answer": "An economic system that combines elements of both market and command economies.", "explanation": "In the U.S., businesses are free to operate in a market, but the government regulates safety, sets minimum wage, collects taxes, and provides public services like education and defense."},
+              {"problem": "How does a market economy determine prices?", "answer": "Through supply and demand — buyers and sellers interact freely, and prices adjust based on competition and consumer preferences.", "explanation": "In a market economy, no one sets the price of a hamburger or a pair of shoes. Instead, competition between businesses and the choices of consumers determine prices."}
+            ],
+            "key_vocabulary": ["traditional economy", "command economy", "market economy", "mixed economy", "capitalism", "free enterprise", "competition", "regulation", "private property"],
+            "real_world": "Most countries today have mixed economies. The debate about the proper balance between free markets and government intervention is at the heart of many political discussions about healthcare, education, and the environment."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In which economic system does the government make all major economic decisions?", "options": ["Market economy", "Traditional economy", "Command economy", "Mixed economy"], "correct": 2, "hint": "The government 'commands' what happens in the economy."},
+            {"type": "fill_in", "question": "The United States has a ___ economy that combines market and command elements.", "answer": "mixed", "hint": "It's primarily market-based but with government involvement."},
+            {"type": "true_false", "question": "In a pure market economy, the government plays a major role in economic decisions.", "answer": false, "hint": "In a pure market economy, economic decisions are made by individuals and businesses."},
+            {"type": "multiple_choice", "question": "In a traditional economy, how are economic decisions primarily made?", "options": ["By the government", "By supply and demand", "Based on customs and traditions", "By international trade"], "correct": 2, "hint": "People follow the economic patterns of their ancestors."},
+            {"type": "multiple_choice", "question": "Which of these is an example of government involvement in the U.S. economy?", "options": ["Minimum wage laws", "Private businesses setting prices", "Consumers choosing what to buy", "Entrepreneurs starting companies"], "correct": 0, "hint": "The government sets this floor on how much workers can be paid."},
+            {"type": "true_false", "question": "Most real-world economies are purely one type (market, command, or traditional).", "answer": false, "hint": "Most modern economies blend elements from different systems."},
+            {"type": "fill_in", "question": "In a ___ economy, economic decisions are made by individuals and businesses based on supply and demand.", "answer": "market", "hint": "Also called free enterprise or capitalism."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-2-4",
+          "title": "Personal Finance and Financial Literacy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Financial literacy — understanding how money works — is essential for making smart decisions throughout your life. A budget is a plan for how you will spend and save your money, tracking income (money coming in) and expenses (money going out). Saving means setting aside money for future use, and investing means putting money into assets (like stocks or bonds) that you hope will grow in value over time. Interest is the cost of borrowing money or the reward for saving it: when you put money in a savings account, the bank pays you interest; when you borrow money (through a loan or credit card), you pay interest to the lender. Compound interest means earning interest on your interest, which can help savings grow significantly over time. Credit is the ability to borrow money with the promise to repay it later, and your credit score measures how reliable you are at repaying debts. Understanding these concepts helps you avoid debt traps, save for goals, and build financial security.",
+            "examples": [
+              {"problem": "What is compound interest?", "answer": "Interest earned on both the original amount of money (principal) and the interest that has already been earned.", "explanation": "If you save $100 at 5% interest, after one year you have $105. The next year, you earn 5% on $105 (not just $100), giving you $110.25. Over many years, this compounding effect can make savings grow dramatically."},
+              {"problem": "Why is a budget important?", "answer": "A budget helps you track your money, avoid overspending, and save for your goals.", "explanation": "Without a budget, it's easy to spend more than you earn and go into debt. A budget ensures you have enough for necessities and can save for things that matter to you."}
+            ],
+            "key_vocabulary": ["budget", "income", "expenses", "saving", "investing", "interest", "compound interest", "credit", "credit score", "debt", "loan"],
+            "real_world": "Financial literacy directly affects your life. Understanding compound interest helps you save for college, a car, or a home. Understanding credit helps you avoid costly debt and maintain a good credit score."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a budget?", "options": ["A type of bank account", "A plan for spending and saving money", "A government tax", "An investment strategy"], "correct": 1, "hint": "It helps you track money coming in and going out."},
+            {"type": "fill_in", "question": "___ interest means earning interest on both your original savings and the interest already earned.", "answer": "Compound", "hint": "This type of interest helps your savings grow faster over time."},
+            {"type": "true_false", "question": "Using a credit card means you are borrowing money that you must pay back.", "answer": true, "hint": "Credit cards provide a loan that you repay, often with interest."},
+            {"type": "multiple_choice", "question": "What is a credit score?", "options": ["Your bank account balance", "A measure of how reliable you are at repaying debts", "Your annual income", "The amount you have saved"], "correct": 1, "hint": "Lenders use this number to decide whether to lend you money."},
+            {"type": "multiple_choice", "question": "If you put $100 in a savings account with 5% annual interest, how much will you have after one year?", "options": ["$100", "$105", "$110", "$150"], "correct": 1, "hint": "Calculate 5% of $100 and add it to the original amount."},
+            {"type": "true_false", "question": "You should spend all of your income and not save any money.", "answer": false, "hint": "Financial experts recommend saving a portion of your income for emergencies and future goals."},
+            {"type": "fill_in", "question": "The cost of borrowing money is called ___.", "answer": "interest", "hint": "Banks charge this when they lend you money, and they pay this when you save with them."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is scarcity?", "options": ["Having too much of everything", "Limited resources and unlimited wants", "A type of economic system", "Government regulation"], "correct": 1},
+          {"type": "true_false", "question": "According to the Law of Demand, people buy more of a product when its price increases.", "answer": false},
+          {"type": "multiple_choice", "question": "What type of economy does the United States have?", "options": ["Pure market", "Pure command", "Traditional", "Mixed"], "correct": 3},
+          {"type": "multiple_choice", "question": "What is equilibrium price?", "options": ["The highest possible price", "Where quantity supplied equals quantity demanded", "The government-set price", "The lowest possible price"], "correct": 1},
+          {"type": "true_false", "question": "Compound interest helps savings grow faster over time.", "answer": true},
+          {"type": "multiple_choice", "question": "What is opportunity cost?", "options": ["The price of a product", "The value of the next best alternative given up", "A type of tax", "The cost of starting a business"], "correct": 1},
+          {"type": "multiple_choice", "question": "In a command economy, who makes the major economic decisions?", "options": ["Consumers", "Businesses", "The government", "Banks"], "correct": 2},
+          {"type": "true_false", "question": "A budget helps you track income and expenses.", "answer": true},
+          {"type": "multiple_choice", "question": "A shortage occurs when:", "options": ["Supply exceeds demand", "Demand exceeds supply", "Supply equals demand", "Prices are at equilibrium"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "economics_expert"
+      }
+    },
+    {
+      "id": "8-ss-3",
+      "title": "The United States in the Modern World",
+      "description": "Examine America's role in the world from the end of the Cold War to the present, including globalization, terrorism, technological change, and evolving foreign policy.",
+      "lessons": [
+        {
+          "id": "8-ss-3-1",
+          "title": "America After the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "When the Soviet Union dissolved in 1991, the United States became the world's sole superpower. The post-Cold War era brought both new opportunities and new challenges. The 1990s saw economic prosperity fueled by the rise of the internet and technology industries, the expansion of global trade, and relative peace. The United States played a role in international peacekeeping missions, including interventions in the Balkans (Bosnia and Kosovo) to stop ethnic cleansing. The North American Free Trade Agreement (NAFTA) in 1994 reduced trade barriers between the U.S., Canada, and Mexico, illustrating America's commitment to globalization. However, new threats emerged: terrorism, regional conflicts, and debates over America's role as a 'world police force.' The 1993 World Trade Center bombing and the 1998 U.S. embassy bombings in Africa foreshadowed the greater threat that would soon arrive. Americans debated whether the country should focus on problems at home or maintain its global leadership role.",
+            "examples": [
+              {"problem": "What was NAFTA?", "answer": "The North American Free Trade Agreement, which reduced trade barriers between the U.S., Canada, and Mexico.", "explanation": "NAFTA eliminated most tariffs (taxes on imported goods) between the three countries, increasing trade but also sparking debates about its impact on American jobs."},
+              {"problem": "Why was the 1990s considered a period of prosperity?", "answer": "The economy grew rapidly, unemployment was low, the stock market boomed, and the tech industry created new wealth.", "explanation": "The rise of the internet and technology companies drove economic growth, creating new industries and millions of jobs."}
+            ],
+            "key_vocabulary": ["sole superpower", "globalization", "NAFTA", "peacekeeping", "internet", "tech boom", "ethnic cleansing", "Balkans"],
+            "real_world": "NAFTA was renegotiated and replaced by the USMCA (United States-Mexico-Canada Agreement) in 2020, showing how trade agreements continue to evolve."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "After the Cold War ended, what was the United States' position in the world?", "options": ["One of several equal powers", "A declining power", "The world's sole superpower", "An isolationist nation"], "correct": 2, "hint": "With the Soviet Union gone, no other country matched U.S. military and economic power."},
+            {"type": "fill_in", "question": "___ was a trade agreement that reduced trade barriers between the U.S., Canada, and Mexico.", "answer": "NAFTA", "hint": "It stands for the North American Free Trade Agreement."},
+            {"type": "true_false", "question": "The 1990s was generally a period of economic recession in the United States.", "answer": false, "hint": "The tech boom and rising stock market characterized most of the 1990s."},
+            {"type": "multiple_choice", "question": "In which region did the U.S. intervene to stop ethnic cleansing in the 1990s?", "options": ["Middle East", "South America", "Balkans (Bosnia and Kosovo)", "Southeast Asia"], "correct": 2, "hint": "These conflicts occurred in the former Yugoslavia."},
+            {"type": "true_false", "question": "The rise of the internet in the 1990s helped drive economic growth.", "answer": true, "hint": "Technology companies created new industries and millions of jobs."},
+            {"type": "multiple_choice", "question": "What was a major debate in U.S. foreign policy after the Cold War?", "options": ["Whether to ally with the Soviet Union", "Whether to focus on domestic problems or maintain global leadership", "Whether to adopt communism", "Whether to join the European Union"], "correct": 1, "hint": "Some argued America should focus at home, while others wanted continued global engagement."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-3-2",
+          "title": "September 11 and the War on Terror",
+          "type": "lesson",
+          "content": {
+            "explanation": "On September 11, 2001, the United States experienced the deadliest terrorist attack in its history. Nineteen hijackers from the extremist group al-Qaeda, led by Osama bin Laden, seized four commercial airplanes. Two were crashed into the World Trade Center towers in New York City, one into the Pentagon in Virginia, and one — United Flight 93 — crashed in a Pennsylvania field after passengers fought to retake control. Nearly 3,000 people were killed. The attacks profoundly changed American life and foreign policy. President George W. Bush declared a 'War on Terror' and launched a military operation in Afghanistan to overthrow the Taliban government that had sheltered al-Qaeda. In 2003, the U.S. invaded Iraq based on claims that dictator Saddam Hussein possessed weapons of mass destruction — claims that proved to be wrong. The wars in Afghanistan and Iraq lasted for years, costing thousands of American and civilian lives and trillions of dollars. At home, the USA PATRIOT Act expanded government surveillance powers, sparking debates about the balance between security and civil liberties.",
+            "examples": [
+              {"problem": "What happened on September 11, 2001?", "answer": "Terrorists from al-Qaeda hijacked four planes and attacked the World Trade Center and Pentagon, killing nearly 3,000 people.", "explanation": "The 9/11 attacks were the deadliest terrorist attacks in American history and fundamentally changed U.S. foreign policy, leading to two major wars and significant changes to domestic security."},
+              {"problem": "What was the USA PATRIOT Act?", "answer": "A law passed after 9/11 that expanded government surveillance and investigation powers to combat terrorism.", "explanation": "While supporters said it was necessary to prevent future attacks, critics argued it violated civil liberties by allowing the government to monitor phone calls, emails, and financial records with reduced judicial oversight."}
+            ],
+            "key_vocabulary": ["September 11", "al-Qaeda", "terrorism", "War on Terror", "Taliban", "Afghanistan", "Iraq War", "USA PATRIOT Act", "homeland security"],
+            "real_world": "The effects of 9/11 are still felt today — from airport security measures to ongoing debates about government surveillance, civil liberties, and military intervention abroad."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many people were killed in the September 11, 2001 attacks?", "options": ["About 300", "About 1,000", "Nearly 3,000", "About 10,000"], "correct": 2, "hint": "It was the deadliest terrorist attack in American history."},
+            {"type": "fill_in", "question": "The terrorist group responsible for the 9/11 attacks was ___.", "answer": "al-Qaeda", "hint": "It was led by Osama bin Laden."},
+            {"type": "true_false", "question": "Weapons of mass destruction were found in Iraq after the U.S. invasion.", "answer": false, "hint": "The claims that justified the invasion proved to be incorrect."},
+            {"type": "multiple_choice", "question": "Which country did the U.S. invade first after 9/11?", "options": ["Iraq", "Iran", "Afghanistan", "Syria"], "correct": 2, "hint": "This country's Taliban government had sheltered al-Qaeda."},
+            {"type": "multiple_choice", "question": "What did the USA PATRIOT Act do?", "options": ["Reduced government power", "Expanded government surveillance powers", "Closed all borders", "Ended the War on Terror"], "correct": 1, "hint": "It gave the government more tools to investigate potential terrorism."},
+            {"type": "true_false", "question": "The passengers of United Flight 93 fought back against the hijackers, and the plane crashed in Pennsylvania instead of reaching its target.", "answer": true, "hint": "Their courageous actions likely saved many lives at the intended target."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-3-3",
+          "title": "Technology and the Information Age",
+          "type": "lesson",
+          "content": {
+            "explanation": "The late 20th and early 21st centuries brought a technological revolution that transformed virtually every aspect of life. The internet, which became widely available in the mid-1990s, connected billions of people worldwide, enabling instant communication, access to vast information, and new forms of commerce and entertainment. Social media platforms transformed how people interact, share information, and organize movements. Smartphones put powerful computers in almost everyone's pocket. These technologies brought enormous benefits: distance learning, telemedicine, global collaboration, and the democratization of information. However, they also created new challenges: the spread of misinformation and 'fake news,' concerns about privacy and data collection, cyberbullying, the digital divide (unequal access to technology), and questions about how social media affects mental health and democracy. The tech industry — led by companies like Apple, Google, Amazon, and Meta — became one of the most powerful forces in the global economy, raising questions about corporate power and regulation.",
+            "examples": [
+              {"problem": "What is the 'digital divide'?", "answer": "The gap between people who have access to modern technology and the internet and those who don't.", "explanation": "People in rural areas, lower-income communities, and developing countries often have less access to technology, which can limit their educational and economic opportunities."},
+              {"problem": "How has social media changed political participation?", "answer": "It allows people to organize movements, share information instantly, and engage with political leaders directly, but it also enables the spread of misinformation.", "explanation": "Social media has been used to organize protests, fundraise for causes, and hold leaders accountable, but it has also been used to spread false information and deepen political divisions."}
+            ],
+            "key_vocabulary": ["Information Age", "internet", "social media", "digital divide", "misinformation", "cybersecurity", "privacy", "artificial intelligence", "globalization"],
+            "real_world": "The technology that shapes your daily life — smartphones, social media, streaming, online learning — has all emerged in the last few decades and continues to evolve rapidly."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the 'digital divide'?", "options": ["A type of computer hardware", "The gap in access to technology between different groups", "A method of internet security", "A social media platform"], "correct": 1, "hint": "Not everyone has equal access to computers and the internet."},
+            {"type": "true_false", "question": "Social media has only positive effects on society.", "answer": false, "hint": "Think about issues like misinformation, cyberbullying, and privacy concerns."},
+            {"type": "fill_in", "question": "The spread of false or misleading information online is called ___.", "answer": "misinformation", "hint": "Sometimes called 'fake news,' this is a major challenge of the digital age."},
+            {"type": "multiple_choice", "question": "When did the internet become widely available to the public?", "options": ["1970s", "1980s", "Mid-1990s", "2010s"], "correct": 2, "hint": "The World Wide Web became popular during this decade."},
+            {"type": "multiple_choice", "question": "Which of these is a challenge created by new technology?", "options": ["Faster communication", "Greater access to information", "Privacy concerns and data collection", "Distance learning opportunities"], "correct": 2, "hint": "Think about what companies do with the personal data they collect."},
+            {"type": "true_false", "question": "The technology revolution has had a significant impact on the global economy.", "answer": true, "hint": "Tech companies are among the most valuable in the world."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-3-4",
+          "title": "Immigration and American Identity",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has always been a nation shaped by immigration, and debates about immigration policy continue to be among the most important in American politics. Throughout the 20th and 21st centuries, waves of immigrants from Latin America, Asia, Africa, and other regions have enriched American culture, economy, and society. Immigrants contribute to the economy as workers, entrepreneurs, consumers, and taxpayers. Many come seeking economic opportunity, family reunification, or refuge from war and persecution. The immigration system includes legal pathways such as family-based visas, employment-based visas, and refugee/asylum status. However, millions of undocumented immigrants also live in the United States, sparking debates about border security, paths to citizenship, and the treatment of immigrant families. These debates touch on fundamental questions about American identity: What does it mean to be American? How should the country balance economic needs, humanitarian values, and national security? Throughout history, each wave of immigration has been met with both welcome and resistance.",
+            "examples": [
+              {"problem": "What is the difference between a refugee and an asylum seeker?", "answer": "A refugee applies for protection from outside the United States, while an asylum seeker requests protection after arriving in the country.", "explanation": "Both are fleeing persecution, violence, or danger in their home countries. Under international and U.S. law, people have the right to seek refuge from life-threatening conditions."},
+              {"problem": "How do immigrants contribute to the American economy?", "answer": "As workers, entrepreneurs, consumers, taxpayers, and creators of new businesses and innovations.", "explanation": "Studies show that immigrants start businesses at higher rates than native-born Americans, fill important roles in industries from agriculture to technology, and contribute billions in taxes."}
+            ],
+            "key_vocabulary": ["immigration", "immigrant", "refugee", "asylum", "undocumented", "visa", "naturalization", "citizenship", "diversity", "assimilation"],
+            "real_world": "Immigration policy directly affects millions of people. Understanding the complexity of immigration helps you evaluate policies and participate in informed debates about one of America's most important issues."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is naturalization?", "options": ["Being born in the United States", "The legal process of becoming a U.S. citizen", "Visiting the United States on a tourist visa", "Moving to a different state"], "correct": 1, "hint": "It's how immigrants formally become citizens of the United States."},
+            {"type": "true_false", "question": "The United States has always had the same immigration policies throughout its history.", "answer": false, "hint": "Immigration laws have changed dramatically over time, from open borders to various restrictions."},
+            {"type": "fill_in", "question": "A ___ is someone who flees their home country due to persecution, war, or danger.", "answer": "refugee", "hint": "They seek protection in another country."},
+            {"type": "multiple_choice", "question": "Which of these is NOT a way immigrants contribute to the economy?", "options": ["Starting businesses", "Paying taxes", "Filling jobs in various industries", "Reducing the total workforce"], "correct": 3, "hint": "Immigrants generally ADD to the workforce, not reduce it."},
+            {"type": "true_false", "question": "Immigration to the United States has come from only one region of the world.", "answer": false, "hint": "Immigrants have come from every continent and virtually every country."},
+            {"type": "multiple_choice", "question": "What fundamental question does the immigration debate raise?", "options": ["Whether the U.S. should have a military", "What it means to be American and how to balance competing values", "Whether states should have governments", "Whether to abolish the Constitution"], "correct": 1, "hint": "The debate involves economic needs, humanitarian concerns, and national security."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "After the Cold War ended, the United States was:", "options": ["A declining power", "The world's sole superpower", "Allied with Russia", "Isolationist"], "correct": 1},
+          {"type": "true_false", "question": "Nearly 3,000 people were killed in the September 11, 2001 attacks.", "answer": true},
+          {"type": "multiple_choice", "question": "What is the 'digital divide'?", "options": ["A type of firewall", "Unequal access to technology", "A social media platform", "A computer virus"], "correct": 1},
+          {"type": "multiple_choice", "question": "What did NAFTA do?", "options": ["Increased trade barriers", "Reduced trade barriers between the U.S., Canada, and Mexico", "Created a European trade zone", "Established the United Nations"], "correct": 1},
+          {"type": "true_false", "question": "The USA PATRIOT Act expanded government surveillance powers.", "answer": true},
+          {"type": "multiple_choice", "question": "Which country did the U.S. invade first after 9/11?", "options": ["Iraq", "Afghanistan", "Iran", "Syria"], "correct": 1},
+          {"type": "true_false", "question": "Social media has had no impact on political participation.", "answer": false},
+          {"type": "multiple_choice", "question": "What is naturalization?", "options": ["Being born in the U.S.", "The process of becoming a citizen", "Visiting on a tourist visa", "Deportation"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "modern_america_scholar"
+      }
+    },
+    {
+      "id": "8-ss-4",
+      "title": "Global Connections",
+      "description": "Understand how the United States connects with the global community through international organizations, trade, diplomacy, and shared challenges.",
+      "lessons": [
+        {
+          "id": "8-ss-4-1",
+          "title": "International Organizations and Diplomacy",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the modern world, no country exists in isolation. International organizations help nations cooperate on shared challenges. The United Nations (UN), founded in 1945 after World War II, is the largest international organization, with 193 member nations. Its goals include maintaining international peace and security, promoting human rights, and fostering economic and social development. The UN Security Council has five permanent members (the U.S., UK, France, Russia, and China) with veto power. NATO (North Atlantic Treaty Organization) is a military alliance of democratic nations pledged to mutual defense — an attack on one member is considered an attack on all. The World Trade Organization (WTO) sets rules for international trade. Other organizations like the World Health Organization (WHO), the International Monetary Fund (IMF), and the World Bank address global health, financial stability, and development. Diplomacy — the practice of managing relations between nations through negotiation rather than war — remains essential to resolving conflicts and advancing shared interests.",
+            "examples": [
+              {"problem": "What is NATO?", "answer": "A military alliance where member nations agree to defend each other if attacked.", "explanation": "Founded in 1949, NATO originally aimed to counter the Soviet threat during the Cold War. Today it has 31 members and continues to serve as a collective security organization."},
+              {"problem": "What does the UN Security Council do?", "answer": "It is responsible for maintaining international peace and security, with the power to authorize peacekeeping missions and sanctions.", "explanation": "The five permanent members — the U.S., UK, France, Russia, and China — each have veto power, meaning any one of them can block a resolution."}
+            ],
+            "key_vocabulary": ["United Nations", "NATO", "diplomacy", "Security Council", "veto power", "treaty", "World Trade Organization", "World Health Organization", "sanctions"],
+            "real_world": "International organizations affect your daily life in ways you might not realize — from the WHO's role in pandemic response to trade agreements that affect the price of goods you buy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When was the United Nations founded?", "options": ["1919", "1945", "1950", "1991"], "correct": 1, "hint": "It was founded after the end of a major world war."},
+            {"type": "fill_in", "question": "___ is a military alliance where an attack on one member is considered an attack on all.", "answer": "NATO", "hint": "It stands for the North Atlantic Treaty Organization."},
+            {"type": "true_false", "question": "The UN Security Council has five permanent members with veto power.", "answer": true, "hint": "These are the U.S., UK, France, Russia, and China."},
+            {"type": "multiple_choice", "question": "What is diplomacy?", "options": ["The use of military force", "Managing relations between nations through negotiation", "International trade", "Espionage and spying"], "correct": 1, "hint": "It involves talking and negotiating rather than fighting."},
+            {"type": "multiple_choice", "question": "Which organization sets rules for international trade?", "options": ["NATO", "United Nations", "World Trade Organization", "Red Cross"], "correct": 2, "hint": "Its name suggests its focus on commerce between nations."},
+            {"type": "true_false", "question": "The United States is a member of the United Nations.", "answer": true, "hint": "The U.S. is actually one of the founding members and hosts the UN headquarters in New York City."},
+            {"type": "fill_in", "question": "The ___ ___ Organization (WHO) addresses global health issues.", "answer": "World Health", "hint": "This UN agency played a major role during the COVID-19 pandemic."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-4-2",
+          "title": "Global Trade and Interdependence",
+          "type": "lesson",
+          "content": {
+            "explanation": "In today's globalized world, countries are economically interconnected as never before. Global trade — the exchange of goods and services across national borders — has grown dramatically over the past century. Countries trade because of comparative advantage: each nation can produce certain goods more efficiently than others. For example, tropical countries can grow coffee beans more easily than northern countries, while technologically advanced countries can manufacture complex electronics. A single product like a smartphone contains materials and components from dozens of countries. This interdependence brings benefits — lower prices, greater variety, economic growth — but also risks. When one country's economy struggles, it can affect others around the world, as seen in the 2008 global financial crisis. Trade disputes, tariffs (taxes on imported goods), and debates about fair labor practices and environmental standards are ongoing challenges in global trade.",
+            "examples": [
+              {"problem": "What is comparative advantage?", "answer": "The ability of a country to produce a particular good more efficiently (at a lower opportunity cost) than other countries.", "explanation": "If Japan can produce electronics more efficiently and Brazil can grow coffee more efficiently, both benefit by specializing and trading — Japan exports electronics and imports coffee, and vice versa."},
+              {"problem": "What are tariffs?", "answer": "Taxes on imported goods.", "explanation": "Governments use tariffs to protect domestic industries from foreign competition. However, tariffs also raise prices for consumers and can lead to trade wars."}
+            ],
+            "key_vocabulary": ["global trade", "comparative advantage", "imports", "exports", "tariffs", "interdependence", "globalization", "free trade", "trade deficit", "multinational corporation"],
+            "real_world": "Look at the labels on your clothes, electronics, and food — you'll find products from dozens of countries. Global trade affects what you can buy, how much it costs, and where jobs are located."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a tariff?", "options": ["A type of trade agreement", "A tax on imported goods", "A type of currency", "A trade surplus"], "correct": 1, "hint": "Governments impose this to make imported goods more expensive."},
+            {"type": "fill_in", "question": "___ advantage means a country can produce certain goods more efficiently than other countries.", "answer": "Comparative", "hint": "It explains why countries specialize in producing different goods."},
+            {"type": "true_false", "question": "In today's global economy, countries are completely independent of each other.", "answer": false, "hint": "Think about how products are made using materials from many countries."},
+            {"type": "multiple_choice", "question": "What are imports?", "options": ["Goods sent to other countries", "Goods brought into a country from abroad", "Goods produced domestically", "Goods that are banned"], "correct": 1, "hint": "The opposite of exports — goods coming IN to a country."},
+            {"type": "multiple_choice", "question": "What happened during the 2008 global financial crisis?", "options": ["Only the U.S. was affected", "Economic problems in one country spread to others worldwide", "Trade increased dramatically", "All tariffs were removed"], "correct": 1, "hint": "This showed how interconnected the global economy has become."},
+            {"type": "true_false", "question": "A single smartphone may contain materials and components from dozens of different countries.", "answer": true, "hint": "Modern manufacturing relies on global supply chains."},
+            {"type": "fill_in", "question": "Goods sent from one country to another are called ___.", "answer": "exports", "hint": "The opposite of imports — goods going OUT of a country."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-4-3",
+          "title": "Global Challenges: Climate and Conflict",
+          "type": "lesson",
+          "content": {
+            "explanation": "The modern world faces several challenges that require international cooperation. Climate change — the long-term warming of the Earth's climate caused primarily by the burning of fossil fuels — threatens ecosystems, food production, water supplies, and coastal communities worldwide. The Paris Agreement (2015) brought nearly 200 nations together to set goals for reducing greenhouse gas emissions, though progress has been uneven. Armed conflicts continue in various parts of the world, creating humanitarian crises and refugee flows. Poverty remains a challenge for billions of people, with over 700 million living on less than $2 per day. Global health threats, including pandemics like COVID-19, demonstrate how quickly diseases can spread in a connected world. Human rights abuses, including child labor, human trafficking, and political repression, persist in many countries. These challenges don't respect national borders, making international cooperation essential for solutions.",
+            "examples": [
+              {"problem": "What is the Paris Agreement?", "answer": "An international treaty where nearly 200 nations agreed to work together to reduce greenhouse gas emissions and limit global warming.", "explanation": "Signed in 2015, the Paris Agreement aims to limit global temperature rise to 1.5-2 degrees Celsius above pre-industrial levels by having each country set and meet its own emissions reduction targets."},
+              {"problem": "Why are global challenges difficult to solve?", "answer": "They cross national borders, require cooperation between countries with different interests, and involve complex trade-offs between economic growth and other goals.", "explanation": "Climate change, for example, requires all major economies to reduce emissions, even though doing so may be costly in the short term. Getting 200 countries to agree and act is extremely challenging."}
+            ],
+            "key_vocabulary": ["climate change", "greenhouse gases", "fossil fuels", "Paris Agreement", "pandemic", "refugee", "humanitarian crisis", "human rights", "sustainability"],
+            "real_world": "These global challenges will shape your generation's future. Understanding them is the first step toward finding solutions — whether through policy, technology, activism, or everyday choices."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the primary cause of human-caused climate change?", "options": ["Deforestation alone", "The burning of fossil fuels", "Natural cycles", "Solar activity"], "correct": 1, "hint": "Burning coal, oil, and natural gas releases greenhouse gases."},
+            {"type": "fill_in", "question": "The ___ Agreement of 2015 brought nearly 200 nations together to address climate change.", "answer": "Paris", "hint": "This treaty is named after the city where it was signed."},
+            {"type": "true_false", "question": "Global challenges like climate change can be solved by one country acting alone.", "answer": false, "hint": "These challenges cross borders and require international cooperation."},
+            {"type": "multiple_choice", "question": "What did the COVID-19 pandemic demonstrate about the modern world?", "options": ["Countries are completely isolated from each other", "Diseases can spread quickly in a globally connected world", "Technology has no role in public health", "Pandemics only affect poor countries"], "correct": 1, "hint": "The virus spread to virtually every country within months."},
+            {"type": "multiple_choice", "question": "Approximately how many people worldwide live on less than $2 per day?", "options": ["100 million", "Over 700 million", "10 million", "5 billion"], "correct": 1, "hint": "Poverty remains a significant global challenge."},
+            {"type": "true_false", "question": "Human rights abuses such as child labor still exist in parts of the world today.", "answer": true, "hint": "Unfortunately, these issues persist despite international laws and agreements."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-4-4",
+          "title": "Cultural Exchange and Global Communication",
+          "type": "lesson",
+          "content": {
+            "explanation": "Globalization has not only connected economies but also cultures. American culture — including music, movies, television, fashion, and fast food — has spread around the world, sometimes called 'cultural globalization' or 'Americanization.' At the same time, cultures from around the world have influenced the United States: sushi restaurants, K-pop music, Bollywood films, soccer, yoga, and cuisines from every continent are now part of American life. The internet and social media have accelerated cultural exchange, allowing people to share ideas, art, and traditions instantly across borders. However, cultural globalization also raises concerns. Some worry about cultural homogenization — the idea that unique local cultures may be lost as global (often Western) culture becomes dominant. Others argue that cultural exchange enriches everyone. Language, food, music, fashion, and ideas flow in many directions, creating a more diverse and interconnected world. Understanding and respecting cultural differences is essential in an increasingly connected global community.",
+            "examples": [
+              {"problem": "What is cultural globalization?", "answer": "The spread and exchange of ideas, values, traditions, and cultural products across national borders.", "explanation": "When you listen to K-pop, eat Thai food, or watch a British TV show, you're experiencing cultural globalization. It works in many directions — other countries consume American culture too."},
+              {"problem": "What is cultural homogenization?", "answer": "The concern that unique local cultures may be lost as a dominant global (often Western) culture spreads.", "explanation": "When McDonald's and Starbucks appear in cities worldwide, some worry that local restaurants and traditions may decline. Others argue that local cultures adapt and incorporate global influences rather than being replaced."}
+            ],
+            "key_vocabulary": ["cultural globalization", "cultural exchange", "Americanization", "cultural homogenization", "diversity", "multiculturalism", "cultural diffusion", "cultural identity"],
+            "real_world": "Your daily life reflects cultural globalization — from the food you eat to the music you listen to. Being open to other cultures while valuing your own helps you thrive in a diverse, connected world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is cultural globalization?", "options": ["Isolating cultures from each other", "The exchange of cultural ideas and products across borders", "Forcing all countries to adopt one culture", "Eliminating all cultural differences"], "correct": 1, "hint": "It involves the flow of culture between nations."},
+            {"type": "true_false", "question": "Cultural exchange only flows from the United States to other countries.", "answer": false, "hint": "Think about K-pop, sushi, yoga, and other global influences on American culture."},
+            {"type": "fill_in", "question": "The concern that unique local cultures may be lost due to globalization is called cultural ___.", "answer": "homogenization", "hint": "This word suggests everything becoming the same."},
+            {"type": "multiple_choice", "question": "Which of the following is an example of cultural exchange influencing America?", "options": ["Americans watching only American movies", "The popularity of sushi restaurants in the U.S.", "American fast food being available only in America", "Americans only listening to American music"], "correct": 1, "hint": "This Japanese cuisine has become very popular in the United States."},
+            {"type": "multiple_choice", "question": "How has the internet affected cultural exchange?", "options": ["It has slowed cultural exchange", "It has accelerated the sharing of ideas and culture across borders", "It has had no effect on culture", "It has eliminated all cultural differences"], "correct": 1, "hint": "Social media and streaming allow instant sharing of culture worldwide."},
+            {"type": "true_false", "question": "Understanding and respecting cultural differences is important in a globally connected world.", "answer": true, "hint": "As the world becomes more connected, cultural competence becomes increasingly valuable."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "When was the United Nations founded?", "options": ["1919", "1945", "1960", "1991"], "correct": 1},
+          {"type": "true_false", "question": "NATO is a military alliance where members pledge mutual defense.", "answer": true},
+          {"type": "multiple_choice", "question": "What is comparative advantage?", "options": ["Being the biggest country", "Producing goods more efficiently than other countries", "Having the most natural resources", "Having the largest military"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is a tariff?", "options": ["A trade agreement", "A tax on imported goods", "A type of currency", "A government subsidy"], "correct": 1},
+          {"type": "true_false", "question": "Climate change is a challenge that can be solved by one country alone.", "answer": false},
+          {"type": "multiple_choice", "question": "What is cultural globalization?", "options": ["The isolation of cultures", "The exchange of cultural ideas across borders", "Government control of culture", "The elimination of all cultures"], "correct": 1},
+          {"type": "true_false", "question": "The Paris Agreement addresses climate change.", "answer": true},
+          {"type": "multiple_choice", "question": "What does interdependence mean in the context of global trade?", "options": ["Countries are independent of each other", "Countries rely on each other economically", "Only large countries trade", "Trade only happens between neighbors"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "global_connections_expert"
+      }
+    },
+    {
+      "id": "8-ss-5",
+      "title": "Current Events and Active Citizenship",
+      "description": "Develop skills for understanding current events, evaluating information sources, and participating as an informed and active citizen in a democratic society.",
+      "lessons": [
+        {
+          "id": "8-ss-5-1",
+          "title": "Media Literacy and Evaluating Sources",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the Information Age, the ability to evaluate news and information critically is more important than ever. Media literacy means understanding how media works, recognizing bias, and distinguishing reliable information from misinformation. Not all sources are equally trustworthy. Primary sources (firsthand accounts, original documents, data) are generally more reliable than secondary sources (interpretations or analyses of primary sources). When evaluating a news source, consider: Who created this content and why? What evidence supports the claims? Does the source have a bias or agenda? Do other reliable sources report the same facts? Be especially cautious of information shared on social media, where misinformation can spread rapidly. Look for established news organizations with editorial standards, fact-checking processes, and corrections policies. Understanding the difference between news (factual reporting), opinion (someone's interpretation or viewpoint), and propaganda (information designed to persuade rather than inform) is essential for being an informed citizen.",
+            "examples": [
+              {"problem": "What is the difference between bias and fake news?", "answer": "Bias means presenting information from a particular perspective or viewpoint, while fake news is deliberately false information created to deceive.", "explanation": "All sources have some bias — a sports reporter might favor the home team. But reputable news sources try to minimize bias and stick to facts. Fake news, by contrast, intentionally fabricates stories to mislead people."},
+              {"problem": "How can you check if a news story is accurate?", "answer": "Check if multiple reliable sources report the same facts, look at the evidence presented, check fact-checking websites, and consider the source's reputation.", "explanation": "If only one source reports a shocking story and you can't find it anywhere else, be skeptical. Cross-referencing with multiple trusted sources is one of the best ways to verify information."}
+            ],
+            "key_vocabulary": ["media literacy", "bias", "misinformation", "disinformation", "primary source", "secondary source", "fact-checking", "propaganda", "credibility", "editorial"],
+            "real_world": "Every time you read a news article, see a social media post, or watch a video, you're making judgments about whether the information is trustworthy. Strong media literacy skills protect you from being misled."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is media literacy?", "options": ["The ability to read quickly", "The ability to evaluate and analyze media critically", "The ability to create videos", "The ability to use social media"], "correct": 1, "hint": "It's about understanding how media works and thinking critically about the information you encounter."},
+            {"type": "fill_in", "question": "A ___ source is a firsthand account or original document, such as a diary entry or photograph.", "answer": "primary", "hint": "It comes directly from the time and place of an event, not from someone else's interpretation."},
+            {"type": "true_false", "question": "All information shared on social media is reliable and accurate.", "answer": false, "hint": "Social media makes it easy for anyone to share information, including false information."},
+            {"type": "multiple_choice", "question": "What is the best way to verify a news story?", "options": ["Believe whatever your friends share", "Check if multiple reliable sources report the same facts", "Only trust one source", "Ignore all news"], "correct": 1, "hint": "Cross-referencing with multiple trusted sources helps confirm accuracy."},
+            {"type": "multiple_choice", "question": "What is propaganda?", "options": ["Factual reporting", "Information designed to persuade rather than inform", "A type of newspaper", "Scientific research"], "correct": 1, "hint": "Its primary goal is to influence your opinion, not to give you balanced information."},
+            {"type": "true_false", "question": "All news sources have some degree of bias.", "answer": true, "hint": "Bias is a natural part of how humans communicate, but good journalists try to minimize it."},
+            {"type": "fill_in", "question": "Deliberately false information created to deceive people is called ___.", "answer": "disinformation", "hint": "Unlike misinformation (which may be unintentional), this is purposefully false."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-5-2",
+          "title": "Civic Engagement and Community Action",
+          "type": "lesson",
+          "content": {
+            "explanation": "Democracy depends on active participation from its citizens — not just voting, but engaging with their communities and government in meaningful ways. Civic engagement can take many forms: volunteering for community organizations, attending local government meetings (like school board or city council meetings), writing letters to elected officials, participating in peaceful protests, serving on juries, and staying informed about local, national, and global issues. Even young people who can't yet vote can make a difference: organizing school activities, participating in community service, raising awareness about issues they care about, and respectfully engaging in political discussions. Local government — including mayors, city councils, school boards, and county commissions — often has the most direct impact on daily life, making decisions about schools, roads, parks, libraries, and public safety. Being an active citizen means taking responsibility for your community and making your voice heard in the democratic process.",
+            "examples": [
+              {"problem": "Why is local government important?", "answer": "Local government makes decisions that directly affect daily life, including schools, roads, parks, and public safety.", "explanation": "While national politics gets more attention, your school board decides how your school is run, your city council decides how taxes are spent locally, and your county government manages services like libraries and emergency response."},
+              {"problem": "How can young people participate in civic life before they can vote?", "answer": "By volunteering, attending community meetings, organizing awareness campaigns, contacting elected officials, and participating in community service.", "explanation": "You don't have to be 18 to make a difference. Young people have led movements on climate change, gun violence prevention, and many other issues."}
+            ],
+            "key_vocabulary": ["civic engagement", "volunteer", "community service", "school board", "city council", "petition", "public hearing", "jury duty", "civic responsibility"],
+            "real_world": "Young activists around the world have made real change. From organizing school walkouts to launching environmental campaigns, young people have shown that age is not a barrier to civic engagement."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of the following is an example of civic engagement?", "options": ["Playing video games", "Attending a city council meeting", "Watching a movie", "Shopping online"], "correct": 1, "hint": "Civic engagement means actively participating in your community and government."},
+            {"type": "true_false", "question": "You must be 18 years old to participate in civic life in any way.", "answer": false, "hint": "Think about volunteering, community service, and attending public meetings."},
+            {"type": "fill_in", "question": "The ___ ___ is the local government body that makes decisions about public schools.", "answer": "school board", "hint": "This group decides policies about curriculum, budgets, and school operations."},
+            {"type": "multiple_choice", "question": "Which level of government most directly affects your daily life?", "options": ["Federal government", "State government", "Local government", "International organizations"], "correct": 2, "hint": "This level of government manages your schools, roads, parks, and local services."},
+            {"type": "multiple_choice", "question": "What is a petition?", "options": ["A type of election", "A written request signed by many people asking for a specific action", "A court order", "A type of tax"], "correct": 1, "hint": "It's a way for citizens to formally ask their government to take action on an issue."},
+            {"type": "true_false", "question": "Democracy only requires citizens to vote in presidential elections.", "answer": false, "hint": "Active citizenship involves much more than just voting every four years."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-5-3",
+          "title": "Analyzing Current Events",
+          "type": "lesson",
+          "content": {
+            "explanation": "Understanding current events requires more than just reading headlines — it requires critical thinking, context, and the ability to see issues from multiple perspectives. When analyzing a current event, start by asking the basic journalistic questions: Who is involved? What happened? When did it happen? Where did it happen? Why did it happen? How did it happen? Then go deeper: What is the historical context? What are the different perspectives on this issue? What are the potential consequences? How does this connect to broader themes in history, economics, or government? Current events don't exist in a vacuum — they're connected to historical trends, economic forces, and political dynamics. For example, understanding a debate about immigration policy requires knowledge of history, economics, constitutional law, and cultural values. By approaching current events with curiosity, critical thinking, and respect for different viewpoints, you become a more informed citizen capable of participating meaningfully in democratic discussions.",
+            "examples": [
+              {"problem": "Why is historical context important for understanding current events?", "answer": "Current events are shaped by historical trends, past decisions, and long-standing dynamics that provide essential background.", "explanation": "For example, understanding tensions in the Middle East requires knowledge of the region's history, including colonialism, the creation of Israel, the Cold War, and the rise of extremist groups."},
+              {"problem": "Why should you consider multiple perspectives on a current event?", "answer": "Different people and groups experience events differently based on their backgrounds, values, and interests, and understanding multiple viewpoints gives a more complete picture.", "explanation": "A new trade policy might benefit consumers through lower prices but hurt workers in certain industries. Understanding both perspectives helps you form a more nuanced opinion."}
+            ],
+            "key_vocabulary": ["current events", "perspective", "context", "critical thinking", "cause and effect", "stakeholder", "analysis", "viewpoint", "nuance"],
+            "real_world": "The ability to analyze current events thoughtfully is a skill you'll use throughout your life — in college, in your career, and as a citizen making decisions about the kind of society you want to live in."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is NOT one of the basic journalistic questions?", "options": ["Who?", "What?", "How much does it cost?", "Why?"], "correct": 2, "hint": "The basic questions are Who, What, When, Where, Why, and How."},
+            {"type": "true_false", "question": "Current events exist independently of historical trends and context.", "answer": false, "hint": "Current events are shaped by history, economics, and political dynamics."},
+            {"type": "fill_in", "question": "Looking at an issue from multiple ___ helps you understand the full picture.", "answer": "perspectives", "hint": "Different people and groups may see the same event very differently."},
+            {"type": "multiple_choice", "question": "Why is critical thinking important when reading about current events?", "options": ["So you can agree with everyone", "So you can evaluate information, identify bias, and form informed opinions", "So you can ignore information you disagree with", "So you can memorize more facts"], "correct": 1, "hint": "Critical thinking helps you go beyond surface-level understanding."},
+            {"type": "multiple_choice", "question": "What is a stakeholder?", "options": ["Someone who owns stocks", "Anyone who is affected by or has an interest in a particular issue", "A government official", "A news reporter"], "correct": 1, "hint": "Different stakeholders may have different interests and perspectives on an issue."},
+            {"type": "true_false", "question": "Every issue has only one correct perspective.", "answer": false, "hint": "Complex issues usually involve multiple valid perspectives that should be considered."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-5-4",
+          "title": "Making a Difference: Youth Activism and Social Change",
+          "type": "lesson",
+          "content": {
+            "explanation": "Throughout American history, young people have been powerful agents of social change. During the Civil Rights movement, young activists like the members of SNCC organized sit-ins and Freedom Rides. In 1963, children and teenagers in Birmingham, Alabama, marched for civil rights, facing fire hoses and police dogs — their courage helped turn public opinion and led to the Civil Rights Act. More recently, young people have led movements on a range of issues. Students organized the March for Our Lives to advocate for gun safety legislation after the 2018 school shooting in Parkland, Florida. Youth climate activists, inspired by Swedish teenager Greta Thunberg, have organized global climate strikes demanding action on climate change. Young people have also been at the forefront of movements for racial justice, LGBTQ+ rights, and mental health awareness. These examples show that you don't have to wait until you're an adult to make a difference. By identifying problems, organizing with others, using your voice, and working through democratic channels, you can contribute to positive social change.",
+            "examples": [
+              {"problem": "How did young people contribute to the Civil Rights movement?", "answer": "They organized sit-ins, participated in Freedom Rides, and marched in demonstrations like the Birmingham Children's Crusade.", "explanation": "The 1963 Children's Crusade in Birmingham saw thousands of young people peacefully marching for civil rights. Their courage — and the violent response from authorities — was broadcast on national television and helped build support for civil rights legislation."},
+              {"problem": "What is the March for Our Lives?", "answer": "A youth-led movement advocating for gun safety legislation, organized after the 2018 school shooting in Parkland, Florida.", "explanation": "Students who survived the shooting organized one of the largest youth-led protests in American history, with hundreds of thousands of people marching in Washington, D.C., and cities across the country."}
+            ],
+            "key_vocabulary": ["activism", "social change", "advocacy", "grassroots", "demonstration", "organizing", "petition", "awareness", "movement"],
+            "real_world": "You have the power to make a difference in your community and beyond. Whether it's organizing a school recycling program, volunteering at a food bank, or raising awareness about an issue you care about, every action counts."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was the Birmingham Children's Crusade?", "options": ["A medieval battle", "A children's book", "A 1963 march where young people protested for civil rights", "A school field trip"], "correct": 2, "hint": "Thousands of young people in Birmingham, Alabama, peacefully marched for civil rights."},
+            {"type": "true_false", "question": "Young people have never had a significant impact on social change in America.", "answer": false, "hint": "Think about the many examples of youth activism discussed in this lesson."},
+            {"type": "fill_in", "question": "The March for Our ___ was organized by students advocating for gun safety legislation.", "answer": "Lives", "hint": "This movement began after the 2018 school shooting in Parkland, Florida."},
+            {"type": "multiple_choice", "question": "Who is Greta Thunberg?", "options": ["A U.S. Senator", "A Swedish youth climate activist", "A news anchor", "A Supreme Court Justice"], "correct": 1, "hint": "She inspired youth climate strikes around the world."},
+            {"type": "multiple_choice", "question": "What is one way young people can make a difference in their community?", "options": ["Wait until they're 18 to do anything", "Volunteer, organize, and raise awareness about issues they care about", "Ignore all social problems", "Only follow what adults tell them to do"], "correct": 1, "hint": "You don't have to wait until you're an adult to take action."},
+            {"type": "true_false", "question": "Positive social change can start with ordinary people, including young people, taking action.", "answer": true, "hint": "Every movement starts with people who decide to do something about a problem they see."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is media literacy?", "options": ["Reading newspapers", "The ability to critically evaluate media and information", "Writing articles", "Using social media"], "correct": 1},
+          {"type": "true_false", "question": "All information on the internet is reliable and trustworthy.", "answer": false},
+          {"type": "multiple_choice", "question": "What is the best way to verify a news story?", "options": ["Believe the first source you find", "Check multiple reliable sources", "Ask a friend", "Read only the headline"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which level of government most directly affects daily life?", "options": ["Federal", "State", "Local", "International"], "correct": 2},
+          {"type": "true_false", "question": "Young people can participate in civic life even before they can vote.", "answer": true},
+          {"type": "multiple_choice", "question": "Why is it important to consider multiple perspectives on current events?", "options": ["To get confused", "To agree with everyone", "To form a more complete and nuanced understanding", "It's not important"], "correct": 2},
+          {"type": "true_false", "question": "The Birmingham Children's Crusade of 1963 showed that young people can be powerful agents of change.", "answer": true},
+          {"type": "multiple_choice", "question": "What is disinformation?", "options": ["Accurate news reporting", "Deliberately false information created to deceive", "A type of editorial", "Unbiased journalism"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is civic engagement?", "options": ["Only voting in elections", "Actively participating in community and government", "Watching the news", "Paying taxes"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "active_citizen"
+      }
+    },
+    {
+      "id": "8-ss-6",
+      "title": "Rights, Responsibilities, and Justice",
+      "description": "Explore the balance between individual rights and civic responsibilities, the American justice system, landmark Supreme Court cases, and the ongoing struggle for equal justice.",
+      "lessons": [
+        {
+          "id": "8-ss-6-1",
+          "title": "Individual Rights vs. the Common Good",
+          "type": "lesson",
+          "content": {
+            "explanation": "One of the fundamental tensions in American democracy is balancing individual rights with the common good — the well-being of the community as a whole. The Constitution protects many individual rights: freedom of speech, religion, press, and assembly; the right to bear arms; protection from unreasonable search and seizure; and the right to due process. However, these rights are not absolute. The classic example is that freedom of speech does not include the right to shout 'Fire!' in a crowded theater when there is no fire, because doing so would endanger others. Throughout American history, debates about where individual rights end and community responsibilities begin have shaped policy on issues like public health measures, gun regulations, environmental protections, and property rights. Finding the right balance requires thoughtful consideration of competing values and the democratic process of debate, legislation, and judicial review.",
+            "examples": [
+              {"problem": "Can the government ever limit individual rights?", "answer": "Yes, when there is a compelling government interest, such as protecting public safety, but limitations must be narrowly tailored and pass judicial scrutiny.", "explanation": "For example, the government can require people to drive under the speed limit (limiting freedom of movement) because speeding endangers others. But any restriction on rights must have a strong justification."},
+              {"problem": "What is an example of balancing rights with the common good?", "answer": "Public health requirements like vaccines for school attendance balance individual choice with protecting community health.", "explanation": "Individuals may feel their personal freedom is restricted, but the policy protects the broader community — especially those who are too young or too sick to be vaccinated."}
+            ],
+            "key_vocabulary": ["individual rights", "common good", "civil liberties", "public safety", "compelling interest", "judicial review", "due process", "equal protection"],
+            "real_world": "Debates about the balance between individual rights and the common good arise constantly — from public health mandates to gun regulations to free speech on social media. Understanding this balance helps you participate in these important discussions."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Are individual rights in the Constitution absolute (unlimited)?", "options": ["Yes, they can never be limited", "No, they can be limited when there is a compelling interest like public safety", "Only the 1st Amendment is absolute", "Only the President can limit rights"], "correct": 1, "hint": "Think about the example of shouting 'Fire!' in a crowded theater."},
+            {"type": "fill_in", "question": "The ___ ___ refers to the well-being of the community as a whole.", "answer": "common good", "hint": "It's what benefits society collectively, sometimes requiring individual sacrifice."},
+            {"type": "true_false", "question": "Freedom of speech means you can say anything without any consequences.", "answer": false, "hint": "Speech that directly causes harm (like inciting violence or committing fraud) is not protected."},
+            {"type": "multiple_choice", "question": "Which of these is an example of balancing individual rights with the common good?", "options": ["Speed limits on roads", "Allowing any behavior without limits", "Eliminating all government regulations", "Removing the Bill of Rights"], "correct": 0, "hint": "Speed limits restrict individual freedom to drive as fast as you want, but protect everyone's safety."},
+            {"type": "multiple_choice", "question": "What is judicial review?", "options": ["When judges review their own salaries", "When courts determine whether laws are constitutional", "When the President reviews court decisions", "When Congress approves judges"], "correct": 1, "hint": "This power allows the Supreme Court to strike down laws that violate the Constitution."},
+            {"type": "true_false", "question": "Finding the right balance between individual rights and community needs is always easy and straightforward.", "answer": false, "hint": "These debates are complex and involve competing values that reasonable people may weigh differently."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-6-2",
+          "title": "The American Justice System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American justice system is designed to protect rights, maintain order, and ensure that disputes are resolved fairly. It is divided into criminal law (dealing with crimes against society, like theft, assault, or fraud) and civil law (dealing with disputes between individuals or organizations, like contract disagreements or personal injury claims). In criminal cases, the government (prosecution) must prove the defendant's guilt 'beyond a reasonable doubt' — the highest standard of proof — because a conviction can result in loss of liberty. Every person accused of a crime has important rights: the right to remain silent (5th Amendment), the right to an attorney (6th Amendment), the right to a jury trial, and the presumption of innocence until proven guilty. The system includes multiple levels: trial courts (where cases are first heard), appellate courts (where decisions can be appealed), and the Supreme Court (the final authority on constitutional questions). While the system strives for justice, it is not perfect — wrongful convictions, unequal access to legal representation, and racial disparities in sentencing remain serious concerns.",
+            "examples": [
+              {"problem": "What does 'innocent until proven guilty' mean?", "answer": "A person accused of a crime is legally presumed innocent until the prosecution proves their guilt in court.", "explanation": "The burden of proof is on the government, not the accused. This principle protects individuals from being punished without evidence and is fundamental to a fair justice system."},
+              {"problem": "What is the difference between criminal and civil law?", "answer": "Criminal law deals with crimes against society (theft, assault) and can result in jail time; civil law deals with disputes between parties (contracts, property) and typically results in monetary damages.", "explanation": "In a criminal case, the government prosecutes; in a civil case, a private party sues. The standards of proof are also different — criminal cases require 'beyond a reasonable doubt,' while civil cases require a 'preponderance of evidence.'"}
+            ],
+            "key_vocabulary": ["criminal law", "civil law", "prosecution", "defendant", "beyond a reasonable doubt", "presumption of innocence", "jury trial", "appeal", "verdict", "sentence"],
+            "real_world": "If you ever serve on a jury (a civic duty), you'll need to understand these principles. The justice system also affects everyday life through laws about contracts, property, and personal rights."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In a criminal trial, who must prove the defendant's guilt?", "options": ["The defendant", "The judge", "The prosecution (government)", "The jury"], "correct": 2, "hint": "The burden of proof is on this party, not the accused."},
+            {"type": "fill_in", "question": "In criminal cases, guilt must be proven 'beyond a ___ doubt.'", "answer": "reasonable", "hint": "This is the highest standard of proof in the legal system."},
+            {"type": "true_false", "question": "In the American justice system, a person is considered guilty until they prove their innocence.", "answer": false, "hint": "The principle is 'innocent UNTIL proven guilty.'"},
+            {"type": "multiple_choice", "question": "What is the difference between criminal and civil law?", "options": ["There is no difference", "Criminal law deals with crimes; civil law deals with disputes between parties", "Criminal law is for adults; civil law is for children", "Criminal law is state; civil law is federal"], "correct": 1, "hint": "Think about the types of cases each addresses."},
+            {"type": "multiple_choice", "question": "Which amendment guarantees the right to an attorney?", "options": ["1st", "4th", "5th", "6th"], "correct": 3, "hint": "This amendment also guarantees the right to a speedy and public trial."},
+            {"type": "true_false", "question": "The American justice system is perfect and never makes mistakes.", "answer": false, "hint": "Wrongful convictions and disparities in the system are real problems that are being addressed."},
+            {"type": "fill_in", "question": "If someone disagrees with a court's decision, they can file an ___ to a higher court.", "answer": "appeal", "hint": "Higher courts review whether the law was applied correctly in the original trial."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-6-3",
+          "title": "Landmark Supreme Court Cases",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Supreme Court plays a crucial role in shaping American life through its interpretations of the Constitution. Several landmark cases have had far-reaching impact. Marbury v. Madison (1803) established the principle of judicial review — the Court's power to declare laws unconstitutional. Brown v. Board of Education (1954) declared school segregation unconstitutional. Miranda v. Arizona (1966) required police to inform arrested persons of their rights ('You have the right to remain silent...'). Tinker v. Des Moines (1969) ruled that students retain their free speech rights in school, as long as their expression doesn't substantially disrupt the educational process. Gideon v. Wainwright (1963) guaranteed the right to a lawyer for all defendants, even those who couldn't afford one. These cases show how the Supreme Court interprets the Constitution to address new situations and evolving values, and why the appointment of justices is such an important and often debated process.",
+            "examples": [
+              {"problem": "What are Miranda rights?", "answer": "Rights that police must inform arrested persons about, including the right to remain silent and the right to an attorney.", "explanation": "Named after the Miranda v. Arizona case, these rights ensure that people know their constitutional protections when arrested. You've probably heard them on TV: 'You have the right to remain silent. Anything you say can and will be used against you...'"},
+              {"problem": "Why is Tinker v. Des Moines important for students?", "answer": "It established that students don't 'shed their constitutional rights at the schoolhouse gate.'", "explanation": "In this case, students were suspended for wearing black armbands to protest the Vietnam War. The Supreme Court ruled that this was protected speech, establishing that students have free expression rights in school."}
+            ],
+            "key_vocabulary": ["Supreme Court", "judicial review", "Marbury v. Madison", "Brown v. Board of Education", "Miranda v. Arizona", "Tinker v. Des Moines", "Gideon v. Wainwright", "precedent", "landmark case"],
+            "real_world": "Supreme Court decisions affect your life directly. Miranda rights protect you if you're arrested. Tinker protects your speech at school. Gideon ensures you'll have a lawyer if accused of a crime, even if you can't pay for one."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which case established the principle of judicial review?", "options": ["Brown v. Board of Education", "Miranda v. Arizona", "Marbury v. Madison", "Tinker v. Des Moines"], "correct": 2, "hint": "This 1803 case gave the Supreme Court the power to declare laws unconstitutional."},
+            {"type": "fill_in", "question": "The Miranda v. ___ case required police to inform arrested persons of their rights.", "answer": "Arizona", "hint": "Ernesto Miranda was arrested in this state."},
+            {"type": "true_false", "question": "According to Tinker v. Des Moines, students have no free speech rights in school.", "answer": false, "hint": "The Court said students don't 'shed their constitutional rights at the schoolhouse gate.'"},
+            {"type": "multiple_choice", "question": "What did Gideon v. Wainwright guarantee?", "options": ["Freedom of the press", "The right to bear arms", "The right to a lawyer for all defendants", "Freedom of religion"], "correct": 2, "hint": "Before this case, some defendants who couldn't afford lawyers went to trial without legal representation."},
+            {"type": "multiple_choice", "question": "Which case declared school segregation unconstitutional?", "options": ["Plessy v. Ferguson", "Brown v. Board of Education", "Marbury v. Madison", "Miranda v. Arizona"], "correct": 1, "hint": "This 1954 case overturned the 'separate but equal' doctrine."},
+            {"type": "true_false", "question": "Supreme Court decisions set precedents that affect future cases.", "answer": true, "hint": "Lower courts generally follow the principles established by Supreme Court rulings."},
+            {"type": "fill_in", "question": "___ review is the Supreme Court's power to determine whether laws are constitutional.", "answer": "Judicial", "hint": "This power was established in Marbury v. Madison in 1803."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-6-4",
+          "title": "Equal Justice and Ongoing Challenges",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American ideal of 'equal justice under law' — inscribed on the front of the Supreme Court building — is an aspiration that the nation continues working to fulfill. While tremendous progress has been made since the days of slavery and Jim Crow, significant challenges remain. Studies consistently show racial disparities in the criminal justice system: people of color are more likely to be stopped by police, more likely to be arrested for similar offenses, and often receive longer sentences than white defendants for the same crimes. Access to quality legal representation varies greatly by income — wealthy defendants can hire the best lawyers, while public defenders are often overwhelmed with cases. Mass incarceration is a major issue: the United States has the highest incarceration rate in the world, with about 2 million people in prisons and jails. Reform efforts include addressing bail reform (so poor people aren't jailed simply because they can't afford bail), reducing mandatory minimum sentences, improving police-community relations, and investing in alternatives to incarceration like rehabilitation and mental health treatment.",
+            "examples": [
+              {"problem": "What does 'equal justice under law' mean?", "answer": "The principle that the legal system should treat all people fairly regardless of their race, wealth, gender, or social status.", "explanation": "While this is the ideal, achieving it in practice requires constant work. When some people receive better justice than others because of their race or income, the system falls short of its promise."},
+              {"problem": "What is mass incarceration?", "answer": "The dramatic increase in the number of people in prisons and jails, particularly since the 1980s, making the U.S. the world leader in incarceration.", "explanation": "Tough-on-crime policies, mandatory minimum sentences, and the War on Drugs contributed to a prison population that grew from about 300,000 in 1980 to over 2 million today, disproportionately affecting communities of color."}
+            ],
+            "key_vocabulary": ["equal justice", "racial disparity", "mass incarceration", "bail reform", "mandatory minimum", "rehabilitation", "criminal justice reform", "public defender", "systemic inequality"],
+            "real_world": "Criminal justice reform is one of the most actively debated issues in America. Understanding these challenges is essential for participating in discussions about how to make the justice system fairer for everyone."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which country has the highest incarceration rate in the world?", "options": ["China", "Russia", "United States", "Brazil"], "correct": 2, "hint": "About 2 million people are in American prisons and jails."},
+            {"type": "true_false", "question": "The American justice system treats all people exactly equally in practice.", "answer": false, "hint": "Studies show disparities based on race and income."},
+            {"type": "fill_in", "question": "___ reform addresses the concern that poor people are jailed simply because they can't afford to pay to be released before trial.", "answer": "Bail", "hint": "This is the money paid to be released from jail while awaiting trial."},
+            {"type": "multiple_choice", "question": "What is a public defender?", "options": ["A police officer", "A government-provided lawyer for people who can't afford their own", "A judge", "A prison guard"], "correct": 1, "hint": "The right to a lawyer was established in Gideon v. Wainwright."},
+            {"type": "multiple_choice", "question": "What are mandatory minimum sentences?", "options": ["Sentences that judges choose freely", "Required minimum prison terms set by law for certain crimes", "Sentences only for young offenders", "Community service requirements"], "correct": 1, "hint": "These laws require judges to impose at least a certain amount of prison time."},
+            {"type": "true_false", "question": "Criminal justice reform efforts include investing in alternatives to incarceration like rehabilitation and mental health treatment.", "answer": true, "hint": "Many reformers argue that not all offenses require prison time and that treatment can be more effective."},
+            {"type": "fill_in", "question": "'Equal ___ under law' is inscribed on the front of the Supreme Court building.", "answer": "justice", "hint": "This phrase captures the ideal that the legal system should be fair to everyone."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-ss-6-5",
+          "title": "Responsibilities of Citizenship",
+          "type": "lesson",
+          "content": {
+            "explanation": "Along with the rights guaranteed by the Constitution come responsibilities that help maintain a functioning democracy. Some responsibilities are legal obligations: obeying the law, paying taxes (which fund public services like schools, roads, and emergency services), serving on a jury when called (to ensure that everyone gets a fair trial by their peers), and registering for Selective Service (for males at age 18). Other responsibilities are civic duties that, while not legally required, are essential for a healthy democracy: voting in elections, staying informed about issues and candidates, respecting the rights of others, participating in community life, and defending the nation if needed. Good citizenship also means treating others with respect, tolerating diverse viewpoints, and working to solve problems constructively. A democracy is only as strong as the citizens who participate in it. When people neglect their civic responsibilities, the democratic system weakens, and government becomes less responsive to the people's needs.",
+            "examples": [
+              {"problem": "Why is paying taxes considered a civic responsibility?", "answer": "Taxes fund essential public services that everyone uses, including schools, roads, firefighters, police, and the military.", "explanation": "Without taxes, the government couldn't provide the services that everyone depends on. The phrase 'no taxation without representation' reminds us that in a democracy, citizens have a say in how their tax money is used."},
+              {"problem": "Why is serving on a jury important?", "answer": "It ensures that court cases are decided by ordinary citizens rather than just government officials, protecting the right to a fair trial.", "explanation": "The 6th Amendment guarantees the right to a jury trial. Without willing jurors, this fundamental right cannot be upheld."}
+            ],
+            "key_vocabulary": ["civic responsibility", "jury duty", "taxes", "Selective Service", "voting", "tolerance", "respect", "rule of law", "democratic participation"],
+            "real_world": "As you approach adulthood, these responsibilities become real. You'll register to vote at 18, males register for Selective Service, you'll file taxes, and you may be called for jury duty. Each of these contributes to a functioning democracy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of the following is a legal obligation of citizenship?", "options": ["Volunteering", "Voting", "Paying taxes", "Attending community meetings"], "correct": 2, "hint": "While voting is extremely important, it's not legally required. But this one IS required by law."},
+            {"type": "true_false", "question": "Serving on a jury is both a right and a responsibility of citizenship.", "answer": true, "hint": "The right to a jury trial depends on citizens being willing to serve."},
+            {"type": "fill_in", "question": "Males must register for ___ ___ when they turn 18.", "answer": "Selective Service", "hint": "This is a registration system in case military conscription is ever needed."},
+            {"type": "multiple_choice", "question": "What do taxes fund?", "options": ["Only the military", "Only schools", "Public services like schools, roads, emergency services, and defense", "Only politicians' salaries"], "correct": 2, "hint": "Tax revenue funds a wide range of services that benefit everyone."},
+            {"type": "multiple_choice", "question": "Which of these is an example of a civic duty that is not legally required?", "options": ["Paying taxes", "Obeying the law", "Voting in elections", "Registering for Selective Service"], "correct": 2, "hint": "While extremely important for democracy, no law requires citizens to do this."},
+            {"type": "true_false", "question": "A democracy can function well even if most citizens don't participate.", "answer": false, "hint": "Democracy depends on active participation from its citizens."},
+            {"type": "fill_in", "question": "A democracy is only as strong as the ___ who participate in it.", "answer": "citizens", "hint": "The people are the foundation of democratic government."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Are individual rights in the Constitution absolute?", "options": ["Yes, they can never be limited", "No, they can be limited when there is a compelling interest", "Only for adults", "Only during wartime"], "correct": 1},
+          {"type": "true_false", "question": "In the American justice system, a person is presumed innocent until proven guilty.", "answer": true},
+          {"type": "multiple_choice", "question": "Which case established judicial review?", "options": ["Brown v. Board", "Marbury v. Madison", "Miranda v. Arizona", "Gideon v. Wainwright"], "correct": 1},
+          {"type": "multiple_choice", "question": "What are Miranda rights?", "options": ["Property rights", "Rights police must inform arrested persons about", "Voting rights", "Tax rights"], "correct": 1},
+          {"type": "true_false", "question": "The United States has the highest incarceration rate in the world.", "answer": true},
+          {"type": "multiple_choice", "question": "What is a civic responsibility that is not legally required?", "options": ["Paying taxes", "Obeying the law", "Voting", "Registering for Selective Service"], "correct": 2},
+          {"type": "multiple_choice", "question": "What does 'equal justice under law' mean?", "options": ["Rich people get better justice", "The system should treat all people fairly", "Laws only apply to some people", "Justice is not important"], "correct": 1},
+          {"type": "true_false", "question": "According to Tinker v. Des Moines, students have free speech rights in school.", "answer": true},
+          {"type": "multiple_choice", "question": "Why is jury duty important?", "options": ["It pays well", "It ensures fair trials decided by ordinary citizens", "It's optional", "It only applies to lawyers"], "correct": 1},
+          {"type": "true_false", "question": "Taxes fund essential public services like schools, roads, and emergency services.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rights_and_justice_champion"
+      }
+    }
+  ]
+}

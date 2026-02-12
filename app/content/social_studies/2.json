@@ -1,0 +1,1694 @@
+{
+  "grade": 2,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "2-social-1",
+      "title": "Geography Basics",
+      "description": "Learn about the continents, oceans, different landforms, and natural resources found on Earth.",
+      "lessons": [
+        {
+          "id": "2-social-1-1",
+          "title": "The Seven Continents",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth has seven large areas of land called continents. They are: North America, South America, Europe, Africa, Asia, Australia, and Antarctica. North America is where the United States, Canada, and Mexico are. South America is below North America. Europe and Asia are connected but are counted as separate continents. Africa is the second largest continent. Australia is the smallest continent and is also a country. Antarctica is at the very bottom of the Earth and is covered in ice.",
+            "examples": [
+              {
+                "problem": "How many continents are there?",
+                "answer": "Seven.",
+                "explanation": "The seven continents are North America, South America, Europe, Africa, Asia, Australia, and Antarctica."
+              },
+              {
+                "problem": "Which continent do we live on in the United States?",
+                "answer": "North America.",
+                "explanation": "The United States is on the continent of North America, along with Canada and Mexico."
+              }
+            ],
+            "key_vocabulary": ["continent", "North America", "South America", "Europe", "Africa", "Asia", "Australia", "Antarctica"],
+            "real_world": "Look at a globe or world map. Can you find and point to all seven continents?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many continents are there?",
+              "options": ["4", "5", "7", "10"],
+              "correct": 2,
+              "hint": "Count them: North America, South America, Europe, Africa, Asia, Australia, Antarctica."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which continent is the United States on?",
+              "options": ["Europe", "Asia", "South America", "North America"],
+              "correct": 3,
+              "hint": "The US is in the northern part of the Americas."
+            },
+            {
+              "type": "true_false",
+              "question": "Antarctica is covered in ice.",
+              "answer": "true",
+              "hint": "Antarctica is at the very bottom of the Earth where it is extremely cold."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is the smallest continent?",
+              "options": ["Africa", "Antarctica", "Australia", "Europe"],
+              "correct": 2,
+              "hint": "This continent is also a country."
+            },
+            {
+              "type": "true_false",
+              "question": "Asia is one of the seven continents.",
+              "answer": "true",
+              "hint": "Asia is actually the largest continent."
+            },
+            {
+              "type": "fill_in",
+              "question": "The continent at the bottom of the Earth covered in ice is called ___.",
+              "answer": "Antarctica",
+              "hint": "This continent starts with the letter A and is very, very cold."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-1-2",
+          "title": "The Five Oceans",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth has five oceans. They are the Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, and Arctic Ocean. The Pacific Ocean is the biggest — it covers more area than all the land on Earth combined! The Atlantic Ocean is between the Americas and Europe/Africa. The Indian Ocean is near India and Africa. The Southern Ocean surrounds Antarctica. The Arctic Ocean is at the very top of the Earth, near the North Pole, and has ice floating on it.",
+            "examples": [
+              {
+                "problem": "What is the largest ocean?",
+                "answer": "The Pacific Ocean.",
+                "explanation": "The Pacific Ocean is so big that it covers more area than all the continents combined!"
+              },
+              {
+                "problem": "Which ocean is near the North Pole?",
+                "answer": "The Arctic Ocean.",
+                "explanation": "The Arctic Ocean is at the very top of the Earth and is the smallest ocean. It has lots of ice."
+              }
+            ],
+            "key_vocabulary": ["ocean", "Pacific", "Atlantic", "Indian", "Southern", "Arctic"],
+            "real_world": "If you have been to the beach on the east coast of the US, you were looking at the Atlantic Ocean!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many oceans are there?",
+              "options": ["3", "5", "7", "10"],
+              "correct": 1,
+              "hint": "Pacific, Atlantic, Indian, Southern, Arctic."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is the largest ocean?",
+              "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+              "correct": 2,
+              "hint": "This ocean is bigger than all the land on Earth!"
+            },
+            {
+              "type": "true_false",
+              "question": "The Arctic Ocean is near the North Pole.",
+              "answer": "true",
+              "hint": "Arctic sounds like 'artic' — it is very cold up north."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which ocean is between North America and Europe?",
+              "options": ["Pacific", "Indian", "Atlantic", "Southern"],
+              "correct": 2,
+              "hint": "This ocean is on the east coast of the United States."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Ocean surrounds Antarctica.",
+              "answer": "Southern",
+              "hint": "Antarctica is in the south, and the ocean around it is called the ___ Ocean."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-1-3",
+          "title": "Landforms",
+          "type": "lesson",
+          "content": {
+            "explanation": "Landforms are natural features on the surface of the Earth. A mountain is a very tall, steep area of land. A hill is like a small mountain. A valley is a low area of land between mountains or hills. A plain is a large, flat area of land. An island is land that is surrounded by water on all sides. A peninsula is land that is surrounded by water on three sides. A desert is a very dry area with little rain. Each landform makes the Earth unique and interesting!",
+            "examples": [
+              {
+                "problem": "What is a mountain?",
+                "answer": "A very tall, steep area of land.",
+                "explanation": "Mountains are the tallest landforms. Some are so tall that snow covers their tops all year!"
+              },
+              {
+                "problem": "What is an island?",
+                "answer": "Land surrounded by water on all sides.",
+                "explanation": "Hawaii is a group of islands in the Pacific Ocean."
+              }
+            ],
+            "key_vocabulary": ["landform", "mountain", "valley", "plain", "island", "peninsula", "desert"],
+            "real_world": "What landforms can you see where you live? Is your area flat (plains), hilly, or mountainous?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a mountain?",
+              "options": ["A flat area", "A very tall, steep area of land", "Land surrounded by water", "A dry area with no rain"],
+              "correct": 1,
+              "hint": "This landform goes up very high."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is an island?",
+              "options": ["Land next to a river", "A flat area of land", "Land surrounded by water on all sides", "A tall hill"],
+              "correct": 2,
+              "hint": "Water is all around this piece of land."
+            },
+            {
+              "type": "true_false",
+              "question": "A plain is a large, flat area of land.",
+              "answer": "true",
+              "hint": "Plains do not have mountains or hills."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A low area between mountains is called a ___.",
+              "options": ["Plain", "Desert", "Valley", "Island"],
+              "correct": 2,
+              "hint": "This landform is between higher areas."
+            },
+            {
+              "type": "true_false",
+              "question": "A desert gets a lot of rain.",
+              "answer": "false",
+              "hint": "Deserts are known for being very dry."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Land surrounded by water on three sides is called a ___.",
+              "options": ["Island", "Peninsula", "Valley", "Mountain"],
+              "correct": 1,
+              "hint": "It is almost an island, but one side is connected to larger land."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-1-4",
+          "title": "Natural Resources",
+          "type": "lesson",
+          "content": {
+            "explanation": "Natural resources are things from nature that people use. Water is a natural resource — we drink it, cook with it, and use it to grow plants. Trees are natural resources — we use wood to build homes and make paper. Soil is a natural resource — plants grow in it to give us food. Rocks and minerals are natural resources — we use them to build things. Air, sunlight, and wind are also natural resources. We must take care of our natural resources so they last for the future!",
+            "examples": [
+              {
+                "problem": "What is a natural resource?",
+                "answer": "Something from nature that people use.",
+                "explanation": "Natural resources come from the Earth and are useful to people."
+              },
+              {
+                "problem": "Name three natural resources.",
+                "answer": "Water, trees, and soil.",
+                "explanation": "Water for drinking, trees for wood, and soil for growing food are all important natural resources."
+              }
+            ],
+            "key_vocabulary": ["natural resource", "soil", "mineral", "renewable", "conserve"],
+            "real_world": "The paper in your notebook came from trees, a natural resource! We should recycle paper to save trees."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a natural resource?",
+              "options": ["Something made in a factory", "Something from nature that people use", "A type of machine", "A man-made building"],
+              "correct": 1,
+              "hint": "Natural resources come from nature."
+            },
+            {
+              "type": "true_false",
+              "question": "Water is a natural resource.",
+              "answer": "true",
+              "hint": "We use water for drinking, cooking, and growing plants."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a natural resource?",
+              "options": ["A computer", "A car", "A tree", "A toy"],
+              "correct": 2,
+              "hint": "This comes from nature and we use it for wood and paper."
+            },
+            {
+              "type": "true_false",
+              "question": "We should take care of our natural resources.",
+              "answer": "true",
+              "hint": "Natural resources need to last for the future."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What natural resource do plants grow in?",
+              "options": ["Rock", "Soil", "Ice", "Sand"],
+              "correct": 1,
+              "hint": "This natural resource is found on the ground and helps plants grow."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many continents are there?",
+            "options": ["5", "6", "7", "8"],
+            "correct": 2,
+            "hint": "Count all the large landmasses on Earth."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is the largest ocean?",
+            "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+            "correct": 1,
+            "hint": "This is the biggest body of water on Earth."
+          },
+          {
+            "type": "true_false",
+            "question": "A mountain is a flat area of land.",
+            "answer": "false",
+            "hint": "Mountains are very tall and steep."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is a natural resource?",
+            "options": ["A book", "A computer", "Water", "A backpack"],
+            "correct": 2,
+            "hint": "This comes from nature."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An island is land surrounded by water on ___ sides.",
+            "options": ["One", "Two", "Three", "All"],
+            "correct": 3,
+            "hint": "Water is everywhere around an island."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "geography_guru"
+      }
+    },
+    {
+      "id": "2-social-2",
+      "title": "Communities",
+      "description": "Learn about different types of communities — urban, suburban, and rural — and how they work.",
+      "lessons": [
+        {
+          "id": "2-social-2-1",
+          "title": "Urban Communities (Cities)",
+          "type": "lesson",
+          "content": {
+            "explanation": "An urban community is a city. Cities have lots of people living close together. There are tall buildings, apartments, stores, restaurants, and museums. Cities have busy streets with many cars, buses, and taxis. People in cities can walk to many places or ride public transportation like buses and trains. Cities have many jobs, schools, and things to do. Some famous cities in the United States are New York, Los Angeles, and Chicago.",
+            "examples": [
+              {
+                "problem": "What is an urban community?",
+                "answer": "A city with lots of people and tall buildings.",
+                "explanation": "Urban communities are busy places where many people live and work close together."
+              },
+              {
+                "problem": "How do people get around in a city?",
+                "answer": "By walking, bus, train, taxi, or car.",
+                "explanation": "Cities have many transportation options because lots of people need to get around."
+              }
+            ],
+            "key_vocabulary": ["urban", "city", "apartment", "public transportation", "population"],
+            "real_world": "Have you ever visited a big city? There are lots of people, tall buildings, and busy streets!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is an urban community?",
+              "options": ["A farm", "A city", "A forest", "A beach"],
+              "correct": 1,
+              "hint": "Urban means related to a city."
+            },
+            {
+              "type": "true_false",
+              "question": "Cities have lots of people living close together.",
+              "answer": "true",
+              "hint": "Urban communities have large populations."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a type of transportation in a city?",
+              "options": ["A horse", "A bus", "A canoe", "A tractor"],
+              "correct": 1,
+              "hint": "This public transportation vehicle carries many people along a route."
+            },
+            {
+              "type": "true_false",
+              "question": "New York is an urban community.",
+              "answer": "true",
+              "hint": "New York is one of the biggest cities in the country."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What kind of buildings are in cities?",
+              "options": ["Only small houses", "Tall buildings and apartments", "Only barns", "Only schools"],
+              "correct": 1,
+              "hint": "Cities are known for their tall buildings."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-2-2",
+          "title": "Suburban Communities",
+          "type": "lesson",
+          "content": {
+            "explanation": "A suburban community is an area near a city. It is called a suburb. Suburbs have houses with yards, schools, parks, and shopping centers. Suburbs are less crowded than cities but have more people than rural areas. Many families live in suburbs because they like having more space and quieter neighborhoods. People in suburbs often drive cars to get around. Many people who live in suburbs work in the nearby city.",
+            "examples": [
+              {
+                "problem": "What is a suburb?",
+                "answer": "A community near a city with houses and yards.",
+                "explanation": "Suburbs are between cities and rural areas. They have neighborhoods with houses, parks, and stores."
+              },
+              {
+                "problem": "Why do many families like suburbs?",
+                "answer": "They have more space and quieter neighborhoods.",
+                "explanation": "Suburbs give families room for yards and neighborhoods that are not as busy as a big city."
+              }
+            ],
+            "key_vocabulary": ["suburban", "suburb", "neighborhood", "yard", "commute"],
+            "real_world": "Many children live in suburbs. If you live in a neighborhood with houses, yards, and nearby parks, you might live in a suburb!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A suburban community is ___.",
+              "options": ["In the middle of a city", "Far from any city", "Near a city", "On an island"],
+              "correct": 2,
+              "hint": "Suburbs are close to cities but not in them."
+            },
+            {
+              "type": "true_false",
+              "question": "Suburbs often have houses with yards.",
+              "answer": "true",
+              "hint": "Suburbs tend to have more space than cities."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do most people in suburbs get around?",
+              "options": ["By boat", "By driving cars", "By horseback", "By helicopter"],
+              "correct": 1,
+              "hint": "Suburbs usually require driving to get places."
+            },
+            {
+              "type": "true_false",
+              "question": "Suburbs are more crowded than cities.",
+              "answer": "false",
+              "hint": "Cities have more people in a smaller space."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Many people who live in suburbs work in the nearby ___.",
+              "options": ["Farm", "City", "Forest", "Desert"],
+              "correct": 1,
+              "hint": "Suburbs are close to cities where many jobs are."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-2-3",
+          "title": "Rural Communities (Country)",
+          "type": "lesson",
+          "content": {
+            "explanation": "A rural community is in the country, far from cities. Rural areas have lots of open land, farms, forests, and fields. There are fewer people and buildings in rural areas. Houses are spread far apart. People in rural areas might farm, raise animals, or work with natural resources. Stores and schools can be far away, so people often drive long distances. Rural areas are quiet and peaceful, with beautiful views of nature.",
+            "examples": [
+              {
+                "problem": "What is a rural community?",
+                "answer": "A community in the country with farms and open land.",
+                "explanation": "Rural areas have lots of space, few people, and are far from big cities."
+              },
+              {
+                "problem": "What kinds of work do people do in rural areas?",
+                "answer": "Farming, raising animals, and working with natural resources.",
+                "explanation": "Many rural jobs involve growing food or working with the land."
+              }
+            ],
+            "key_vocabulary": ["rural", "farm", "country", "crops", "livestock"],
+            "real_world": "The food you eat often comes from rural communities where farmers grow crops and raise animals."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a rural community?",
+              "options": ["A big city", "An area near a city", "A community in the country", "An island"],
+              "correct": 2,
+              "hint": "Rural means in the country, far from cities."
+            },
+            {
+              "type": "true_false",
+              "question": "Rural areas have lots of farms and open land.",
+              "answer": "true",
+              "hint": "The country has wide open spaces."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many people usually live in rural areas?",
+              "options": ["Millions", "Fewer than in cities", "More than in cities", "No one lives in rural areas"],
+              "correct": 1,
+              "hint": "Rural areas have less people than urban or suburban areas."
+            },
+            {
+              "type": "true_false",
+              "question": "In rural areas, houses are very close together.",
+              "answer": "false",
+              "hint": "Rural homes are spread far apart with lots of land between them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What might someone do for work in a rural area?",
+              "options": ["Work in a skyscraper", "Farm", "Ride the subway", "Work in a museum"],
+              "correct": 1,
+              "hint": "Rural jobs often involve growing food or raising animals."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-2-4",
+          "title": "How Communities Work Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "Urban, suburban, and rural communities all depend on each other. Farmers in rural areas grow food that is sold in suburban and urban stores. City factories make products that people everywhere use. Suburban communities provide homes for workers who commute to city jobs. When communities work together, everyone benefits. Roads, trains, and trucks help move goods between communities. This connection is what makes our country work!",
+            "examples": [
+              {
+                "problem": "How do rural and urban communities depend on each other?",
+                "answer": "Rural areas grow food for cities; cities make products for rural areas.",
+                "explanation": "Farmers grow the food that city people eat, and city factories make things that farmers use."
+              },
+              {
+                "problem": "How do goods move between communities?",
+                "answer": "By roads, trains, and trucks.",
+                "explanation": "Transportation systems connect communities and move food, products, and people between them."
+              }
+            ],
+            "key_vocabulary": ["depend", "connect", "transport", "goods", "benefit"],
+            "real_world": "The milk at your school lunch started at a rural farm, was put on a truck, and delivered to your school. Communities work together!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who grows most of the food we eat?",
+              "options": ["City workers", "Suburban shoppers", "Rural farmers", "Teachers"],
+              "correct": 2,
+              "hint": "Food grows on farms in the country."
+            },
+            {
+              "type": "true_false",
+              "question": "Communities depend on each other.",
+              "answer": "true",
+              "hint": "Do cities need food from farms? Do farms need products from cities?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do goods move between communities?",
+              "options": ["They walk", "By truck, train, and road", "By magic", "They do not move"],
+              "correct": 1,
+              "hint": "Transportation carries goods from one place to another."
+            },
+            {
+              "type": "true_false",
+              "question": "Urban, suburban, and rural communities do not need each other.",
+              "answer": "false",
+              "hint": "All types of communities help each other."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do suburban communities provide?",
+              "options": ["Most of the country's food", "Homes for workers who commute to the city", "All the water", "Nothing"],
+              "correct": 1,
+              "hint": "Many people live in suburbs and travel to cities for work."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "An urban community is a ___.",
+            "options": ["Farm", "City", "Forest", "Beach"],
+            "correct": 1,
+            "hint": "Urban means city."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A suburb is near a ___.",
+            "options": ["Lake", "Mountain", "City", "Desert"],
+            "correct": 2,
+            "hint": "Suburbs are close to cities."
+          },
+          {
+            "type": "true_false",
+            "question": "Rural areas have farms and open land.",
+            "answer": "true",
+            "hint": "The country has wide open spaces."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which community has the MOST people?",
+            "options": ["Rural", "Suburban", "Urban", "They all have the same"],
+            "correct": 2,
+            "hint": "Cities are the most crowded."
+          },
+          {
+            "type": "true_false",
+            "question": "Communities depend on each other.",
+            "answer": "true",
+            "hint": "Each type of community provides something others need."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "community_captain"
+      }
+    },
+    {
+      "id": "2-social-3",
+      "title": "Government",
+      "description": "Learn about local government, what a mayor does, how laws are made, and how community decisions happen.",
+      "lessons": [
+        {
+          "id": "2-social-3-1",
+          "title": "What Is Government?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A government is a group of people who make rules and decisions for a community, state, or country. The government keeps people safe, builds roads and schools, and makes sure laws are followed. Without government, there would be no one to organize important services like fire departments and police. Every town, city, state, and country has a government. The people in government are chosen by voters — the citizens who vote in elections.",
+            "examples": [
+              {
+                "problem": "What does the government do?",
+                "answer": "Makes rules, keeps people safe, and builds important things like roads and schools.",
+                "explanation": "The government provides services and makes decisions that affect everyone in the community."
+              },
+              {
+                "problem": "How are government leaders chosen?",
+                "answer": "Citizens vote for them in elections.",
+                "explanation": "In the United States, people vote to choose their leaders."
+              }
+            ],
+            "key_vocabulary": ["government", "law", "election", "voter", "leader"],
+            "real_world": "The roads you drive on, the parks you play in, and the schools you attend are all provided by the government."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a government?",
+              "options": ["A type of building", "A group that makes rules for a community", "A game", "A school"],
+              "correct": 1,
+              "hint": "Government leaders make decisions for the community."
+            },
+            {
+              "type": "true_false",
+              "question": "The government helps build roads and schools.",
+              "answer": "true",
+              "hint": "These are services the government provides."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How are government leaders chosen?",
+              "options": ["By height", "By voting", "By luck", "By age"],
+              "correct": 1,
+              "hint": "Citizens pick their leaders in elections."
+            },
+            {
+              "type": "true_false",
+              "question": "Every community has a government.",
+              "answer": "true",
+              "hint": "Towns, cities, states, and countries all have governments."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What would happen without government?",
+              "options": ["Everything would be perfect", "There would be no rules or organized services", "Nothing would change", "Everyone would be happy"],
+              "correct": 1,
+              "hint": "The government provides important services like police and fire departments."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-3-2",
+          "title": "The Mayor",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mayor is the leader of a city or town. The mayor is elected by the people who live there. The mayor's job is to help run the city. They work to keep the city safe, clean, and running smoothly. The mayor helps decide how to spend the city's money — on things like fixing roads, building parks, and paying firefighters and police officers. The mayor works with other city leaders called the city council to make good decisions for the community.",
+            "examples": [
+              {
+                "problem": "What does a mayor do?",
+                "answer": "The mayor leads the city and helps make decisions.",
+                "explanation": "The mayor works to keep the city running well — safe, clean, and organized."
+              },
+              {
+                "problem": "Who elects the mayor?",
+                "answer": "The citizens of the city or town.",
+                "explanation": "People who live in the city vote to choose who they want as mayor."
+              }
+            ],
+            "key_vocabulary": ["mayor", "elect", "city council", "budget", "local government"],
+            "real_world": "Your town or city has a mayor! Do you know who it is?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who is the leader of a city or town?",
+              "options": ["The President", "The governor", "The mayor", "The teacher"],
+              "correct": 2,
+              "hint": "This person runs a city or town."
+            },
+            {
+              "type": "true_false",
+              "question": "The mayor is elected by the people.",
+              "answer": "true",
+              "hint": "Citizens vote for the mayor."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the mayor help decide?",
+              "options": ["What to watch on TV", "How to spend the city's money", "What games to play", "What to eat for lunch"],
+              "correct": 1,
+              "hint": "The mayor makes important decisions about money for roads, parks, and services."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The mayor works with the ___ to make decisions.",
+              "options": ["Army", "City council", "Teachers", "Farmers"],
+              "correct": 1,
+              "hint": "These are other city leaders who work with the mayor."
+            },
+            {
+              "type": "true_false",
+              "question": "The mayor helps keep the city safe and clean.",
+              "answer": "true",
+              "hint": "Safety and cleanliness are part of the mayor's job."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-3-3",
+          "title": "Laws and Why We Need Them",
+          "type": "lesson",
+          "content": {
+            "explanation": "Laws are rules that everyone in a community must follow. Laws are made by the government. Some laws keep us safe, like speed limits and traffic lights. Some laws protect our property, like laws against stealing. Some laws help the environment, like laws against littering. When people break laws, there are consequences. Police officers and judges help make sure laws are followed. Laws are important because they help everyone live together peacefully.",
+            "examples": [
+              {
+                "problem": "What is a law?",
+                "answer": "A rule made by the government that everyone must follow.",
+                "explanation": "Laws are official rules for the community, not just for one place like a school."
+              },
+              {
+                "problem": "Why are traffic laws important?",
+                "answer": "They keep drivers and pedestrians safe.",
+                "explanation": "Speed limits and traffic lights prevent accidents and help traffic flow safely."
+              }
+            ],
+            "key_vocabulary": ["law", "speed limit", "traffic", "consequence", "judge", "protect"],
+            "real_world": "When you see a stop sign, that is a law! Drivers must stop to keep everyone safe."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who makes laws?",
+              "options": ["Teachers", "Students", "The government", "Farmers"],
+              "correct": 2,
+              "hint": "Laws come from the people who run the community."
+            },
+            {
+              "type": "true_false",
+              "question": "Laws help keep people safe.",
+              "answer": "true",
+              "hint": "Think about speed limits and traffic signals."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens when someone breaks a law?",
+              "options": ["Nothing", "They get a prize", "There are consequences", "Everyone claps"],
+              "correct": 2,
+              "hint": "Breaking laws has results, just like breaking rules."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a law?",
+              "options": ["Raise your hand in class", "Speed limits for driving", "Clean your room", "Eat your vegetables"],
+              "correct": 1,
+              "hint": "This is a law that applies to all drivers on the road."
+            },
+            {
+              "type": "true_false",
+              "question": "Judges help make sure laws are followed.",
+              "answer": "true",
+              "hint": "Judges work in courtrooms and decide what happens when laws are broken."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-3-4",
+          "title": "How Decisions Are Made",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a community, decisions are made in different ways. Sometimes leaders like the mayor and city council make decisions after discussing what is best for the community. Sometimes citizens vote to decide on important issues. Town meetings are gatherings where community members can share their opinions and ideas. Everyone gets a voice! When decisions affect many people, it is important to listen to different views and try to be fair. Good leaders listen to the people they serve.",
+            "examples": [
+              {
+                "problem": "How can citizens help make community decisions?",
+                "answer": "By voting and attending town meetings.",
+                "explanation": "Citizens can vote in elections and share their opinions at meetings to help shape their community."
+              },
+              {
+                "problem": "What is a town meeting?",
+                "answer": "A gathering where community members share opinions and ideas.",
+                "explanation": "Town meetings give everyone a chance to speak up about community issues."
+              }
+            ],
+            "key_vocabulary": ["decision", "town meeting", "discuss", "opinion", "voice"],
+            "real_world": "Your school might have a student council where students help make decisions. This is similar to how government works!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who can help make community decisions?",
+              "options": ["Only the mayor", "Only teachers", "Citizens by voting and sharing opinions", "Only very old people"],
+              "correct": 2,
+              "hint": "In a community, many people can have a say."
+            },
+            {
+              "type": "true_false",
+              "question": "Town meetings let community members share their ideas.",
+              "answer": "true",
+              "hint": "Town meetings are a way for citizens to speak up."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should good leaders do?",
+              "options": ["Ignore everyone", "Listen to the people they serve", "Only listen to their friends", "Never change their mind"],
+              "correct": 1,
+              "hint": "Good leaders care about what people think."
+            },
+            {
+              "type": "true_false",
+              "question": "Only one person should make all the decisions for a community.",
+              "answer": "false",
+              "hint": "In a good community, many people help make decisions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A town meeting is ___.",
+              "options": ["A party", "A place to buy food", "A gathering to discuss community issues", "A type of game"],
+              "correct": 2,
+              "hint": "Community members come together to talk about important topics."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What does the government do?",
+            "options": ["Plays games", "Makes rules and provides services", "Sells food", "Teaches children"],
+            "correct": 1,
+            "hint": "The government keeps the community running."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who leads a city or town?",
+            "options": ["The President", "A king", "The mayor", "A judge"],
+            "correct": 2,
+            "hint": "This local leader is elected by citizens."
+          },
+          {
+            "type": "true_false",
+            "question": "Laws are made by the government.",
+            "answer": "true",
+            "hint": "The government creates rules for the community."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How can citizens help make decisions?",
+            "options": ["By voting", "By hiding", "By sleeping", "By running away"],
+            "correct": 0,
+            "hint": "Citizens have the right to ___."
+          },
+          {
+            "type": "true_false",
+            "question": "Town meetings let people share their ideas.",
+            "answer": "true",
+            "hint": "Community members can speak up at these meetings."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "government_guide"
+      }
+    },
+    {
+      "id": "2-social-4",
+      "title": "Economics Basics",
+      "description": "Learn about producers, consumers, goods, services, and how trade works.",
+      "lessons": [
+        {
+          "id": "2-social-4-1",
+          "title": "Producers and Consumers",
+          "type": "lesson",
+          "content": {
+            "explanation": "A producer is someone who makes or grows something to sell. A farmer who grows apples is a producer. A baker who makes bread is a producer. A consumer is someone who buys and uses things. When you buy an apple at the store, you are a consumer. Everyone is both a producer and a consumer! A teacher produces lessons for students, and then that same teacher consumes food at the grocery store.",
+            "examples": [
+              {
+                "problem": "What is a producer?",
+                "answer": "Someone who makes or grows something to sell.",
+                "explanation": "Producers create goods that consumers buy and use."
+              },
+              {
+                "problem": "What is a consumer?",
+                "answer": "Someone who buys and uses things.",
+                "explanation": "When you buy something from a store, you are a consumer."
+              }
+            ],
+            "key_vocabulary": ["producer", "consumer", "make", "buy", "sell"],
+            "real_world": "When your family buys groceries, your family members are consumers. The farmers who grew the food are the producers!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A producer is someone who ___.",
+              "options": ["Only buys things", "Makes or grows things to sell", "Never works", "Breaks things"],
+              "correct": 1,
+              "hint": "Producers create goods for others."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A consumer is someone who ___.",
+              "options": ["Makes things", "Grows food", "Buys and uses things", "Sells things"],
+              "correct": 2,
+              "hint": "Think about what you do at a store."
+            },
+            {
+              "type": "true_false",
+              "question": "A farmer who grows vegetables is a producer.",
+              "answer": "true",
+              "hint": "The farmer grows things for people to buy."
+            },
+            {
+              "type": "true_false",
+              "question": "A person can only be a producer OR a consumer, never both.",
+              "answer": "false",
+              "hint": "A baker makes bread (producer) and buys milk at the store (consumer)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When you buy a sandwich from a store, you are a ___.",
+              "options": ["Producer", "Consumer", "Mayor", "Teacher"],
+              "correct": 1,
+              "hint": "You are buying and eating something."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-4-2",
+          "title": "Goods and Services",
+          "type": "lesson",
+          "content": {
+            "explanation": "Goods are things that are made or grown and can be bought. Books, food, toys, and clothes are all goods. You can hold goods in your hands. Services are things that people do for others. A teacher teaches, a doctor heals, a barber cuts hair, and a mechanic fixes cars — these are all services. You cannot hold a service in your hand because it is an action. People pay money for both goods and services.",
+            "examples": [
+              {
+                "problem": "Is a bicycle a good or a service?",
+                "answer": "A good.",
+                "explanation": "A bicycle is something you can touch and buy, so it is a good."
+              },
+              {
+                "problem": "Is a dentist visit a good or a service?",
+                "answer": "A service.",
+                "explanation": "The dentist cleans your teeth — that is an action they do for you, making it a service."
+              }
+            ],
+            "key_vocabulary": ["goods", "services", "product", "action", "payment"],
+            "real_world": "At school, your teacher provides a service (teaching). The pencil you write with is a good (a product someone made)."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a good?",
+              "options": ["A haircut", "Teaching", "A backpack", "Dog walking"],
+              "correct": 2,
+              "hint": "A good is something you can hold."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a service?",
+              "options": ["A shoe", "A book", "A car wash", "A sandwich"],
+              "correct": 2,
+              "hint": "A service is something someone does for you."
+            },
+            {
+              "type": "true_false",
+              "question": "You can hold a service in your hand.",
+              "answer": "false",
+              "hint": "Services are actions, not objects."
+            },
+            {
+              "type": "true_false",
+              "question": "A toy is a good.",
+              "answer": "true",
+              "hint": "Can you hold a toy? Things you can touch and buy are goods."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A plumber fixing your sink is providing a ___.",
+              "options": ["Good", "Service", "Gift", "Game"],
+              "correct": 1,
+              "hint": "Fixing a sink is something the plumber does — an action."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-4-3",
+          "title": "Trade",
+          "type": "lesson",
+          "content": {
+            "explanation": "Trade is when people exchange goods or services. Long ago, people traded by swapping things — a farmer might trade vegetables for a blacksmith's tools. This is called bartering. Today, we usually trade using money. You give money to a store, and the store gives you goods. Trade also happens between countries. The United States sells things to other countries and buys things from them. Trade helps everyone get what they need.",
+            "examples": [
+              {
+                "problem": "What is trade?",
+                "answer": "Exchanging goods or services.",
+                "explanation": "Trade is when people give something and get something in return."
+              },
+              {
+                "problem": "What is bartering?",
+                "answer": "Trading by swapping goods without using money.",
+                "explanation": "Before money was invented, people bartered by trading items they had for items they needed."
+              }
+            ],
+            "key_vocabulary": ["trade", "barter", "exchange", "money", "buy", "sell"],
+            "real_world": "Have you ever traded a snack with a friend? That is a simple form of bartering!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is trade?",
+              "options": ["Giving things away for free", "Exchanging goods or services", "Breaking things", "Hiding things"],
+              "correct": 1,
+              "hint": "Trade is about giving and getting."
+            },
+            {
+              "type": "true_false",
+              "question": "Bartering means trading without using money.",
+              "answer": "true",
+              "hint": "Bartering is swapping one thing for another."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Today, most people trade using ___.",
+              "options": ["Rocks", "Stickers", "Money", "Seashells"],
+              "correct": 2,
+              "hint": "We use coins and bills to buy things."
+            },
+            {
+              "type": "true_false",
+              "question": "Countries can trade with each other.",
+              "answer": "true",
+              "hint": "Countries buy and sell goods to each other."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Trading a banana for an apple is an example of ___.",
+              "options": ["Buying", "Selling", "Bartering", "Stealing"],
+              "correct": 2,
+              "hint": "Swapping items without money is called ___."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-4-4",
+          "title": "Spending and Saving",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you get money, you have two main choices: spend it or save it. Spending means using money to buy something now, like a toy or a snack. Saving means keeping money to use later, like putting it in a piggy bank or a savings account at a bank. It is smart to save money for things you really want or for emergencies. A budget is a plan for how to spend and save your money. Good budgeting means making sure you have enough for the things you need before buying things you want.",
+            "examples": [
+              {
+                "problem": "What is saving?",
+                "answer": "Keeping money to use later.",
+                "explanation": "When you save money, you do not spend it right away. You keep it for something special or important in the future."
+              },
+              {
+                "problem": "What is a budget?",
+                "answer": "A plan for how to spend and save money.",
+                "explanation": "A budget helps you decide how much to spend and how much to save."
+              }
+            ],
+            "key_vocabulary": ["spend", "save", "budget", "bank", "piggy bank"],
+            "real_world": "If you get $10 for your birthday, you could spend $5 on a small toy and save $5 in your piggy bank. That is budgeting!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does saving mean?",
+              "options": ["Spending all your money right away", "Keeping money to use later", "Giving money away", "Losing money"],
+              "correct": 1,
+              "hint": "Saving is keeping money for the future."
+            },
+            {
+              "type": "true_false",
+              "question": "A budget is a plan for spending and saving money.",
+              "answer": "true",
+              "hint": "A budget helps you manage your money."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where can you save money?",
+              "options": ["In the trash", "In a piggy bank or savings account", "Under a rock outside", "In your shoe"],
+              "correct": 1,
+              "hint": "These are safe places to keep your money."
+            },
+            {
+              "type": "true_false",
+              "question": "It is smart to spend all your money at once.",
+              "answer": "false",
+              "hint": "What if you need money for something important later?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should you pay for first?",
+              "options": ["Toys", "Candy", "Needs like food and shelter", "Video games"],
+              "correct": 2,
+              "hint": "Take care of necessities before extras."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A producer ___.",
+            "options": ["Buys things", "Makes or grows things to sell", "Breaks things", "Hides things"],
+            "correct": 1,
+            "hint": "Producers create goods."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A pair of shoes is a ___.",
+            "options": ["Service", "Good", "Law", "Rule"],
+            "correct": 1,
+            "hint": "Can you hold shoes? Goods are things you can touch."
+          },
+          {
+            "type": "true_false",
+            "question": "Bartering is trading without money.",
+            "answer": "true",
+            "hint": "Swapping items is bartering."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A budget is ___.",
+            "options": ["A type of food", "A plan for spending and saving", "A kind of toy", "A game"],
+            "correct": 1,
+            "hint": "A budget helps you manage money."
+          },
+          {
+            "type": "true_false",
+            "question": "Saving money means keeping it for later.",
+            "answer": "true",
+            "hint": "You save money instead of spending it right away."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "money_master"
+      }
+    },
+    {
+      "id": "2-social-5",
+      "title": "American Heroes",
+      "description": "Learn about important Americans who changed history, including George Washington, Abraham Lincoln, Rosa Parks, and more.",
+      "lessons": [
+        {
+          "id": "2-social-5-1",
+          "title": "George Washington",
+          "type": "lesson",
+          "content": {
+            "explanation": "George Washington was the first President of the United States. Before he was President, he was the leader of the American army during the Revolutionary War. He helped America win freedom from England. Washington was so respected that people called him the 'Father of Our Country.' He served as President for eight years. His face is on the one-dollar bill and the quarter. Presidents' Day in February honors George Washington and other presidents.",
+            "examples": [
+              {
+                "problem": "Why is George Washington called the 'Father of Our Country'?",
+                "answer": "Because he was the first President and helped create the United States.",
+                "explanation": "Washington led the army to victory and then became the first leader of the new country."
+              },
+              {
+                "problem": "Where can you see George Washington's face?",
+                "answer": "On the one-dollar bill and the quarter.",
+                "explanation": "Washington is honored on American money because of his importance to the country."
+              }
+            ],
+            "key_vocabulary": ["George Washington", "President", "Revolutionary War", "independence", "Father of Our Country"],
+            "real_world": "Check a one-dollar bill — you will see George Washington's face on the front!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "George Washington was the ___ President.",
+              "options": ["Second", "Third", "First", "Last"],
+              "correct": 2,
+              "hint": "He was the very first person to hold this job."
+            },
+            {
+              "type": "true_false",
+              "question": "George Washington is called the 'Father of Our Country.'",
+              "answer": "true",
+              "hint": "He helped create the United States."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What war did Washington lead the army in?",
+              "options": ["The Civil War", "World War I", "The Revolutionary War", "The Space War"],
+              "correct": 2,
+              "hint": "This war was for American independence from England."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Washington's face is on the ___.",
+              "options": ["Ten-dollar bill", "Five-dollar bill", "One-dollar bill", "Twenty-dollar bill"],
+              "correct": 2,
+              "hint": "This is the smallest paper bill."
+            },
+            {
+              "type": "true_false",
+              "question": "Presidents' Day honors George Washington.",
+              "answer": "true",
+              "hint": "This holiday in February celebrates our presidents."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-5-2",
+          "title": "Abraham Lincoln",
+          "type": "lesson",
+          "content": {
+            "explanation": "Abraham Lincoln was the 16th President of the United States. He is famous for helping to end slavery. Slavery was when people were forced to work without pay and without freedom. Lincoln believed this was wrong. During the Civil War, he signed the Emancipation Proclamation, which declared that enslaved people should be free. Lincoln also gave a famous speech called the Gettysburg Address. His face is on the penny and the five-dollar bill.",
+            "examples": [
+              {
+                "problem": "What did Abraham Lincoln help end?",
+                "answer": "Slavery.",
+                "explanation": "Lincoln believed all people should be free, and he worked hard to end the practice of slavery."
+              },
+              {
+                "problem": "What is the Emancipation Proclamation?",
+                "answer": "A document that declared enslaved people should be free.",
+                "explanation": "Lincoln signed this important paper during the Civil War to help free enslaved people."
+              }
+            ],
+            "key_vocabulary": ["Abraham Lincoln", "slavery", "Civil War", "Emancipation Proclamation", "Gettysburg Address"],
+            "real_world": "Look at a penny — you can see Abraham Lincoln's face on it!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Abraham Lincoln was the ___ President.",
+              "options": ["1st", "10th", "16th", "20th"],
+              "correct": 2,
+              "hint": "His number was sixteen."
+            },
+            {
+              "type": "true_false",
+              "question": "Lincoln helped end slavery.",
+              "answer": "true",
+              "hint": "He believed all people should be free."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Lincoln's face is on the ___.",
+              "options": ["Quarter", "Dime", "Penny", "Nickel"],
+              "correct": 2,
+              "hint": "This is the smallest and most common coin."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What war happened during Lincoln's presidency?",
+              "options": ["Revolutionary War", "World War II", "Civil War", "Cold War"],
+              "correct": 2,
+              "hint": "This war was between the North and South of the United States."
+            },
+            {
+              "type": "true_false",
+              "question": "The Emancipation Proclamation said enslaved people should be free.",
+              "answer": "true",
+              "hint": "Lincoln signed this document to free enslaved people."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-5-3",
+          "title": "Rosa Parks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rosa Parks was a brave woman who helped change unfair laws. In the 1950s, there were laws that said Black people and white people had to sit in different parts of a bus. Black people had to sit in the back and give up their seats if a white person wanted them. One day in 1955, Rosa Parks was riding a bus in Montgomery, Alabama. She was told to give up her seat, but she refused. She was arrested, but her courage inspired others. People stopped riding the buses in protest. This was called the Montgomery Bus Boycott. Rosa Parks is called the 'Mother of the Civil Rights Movement.'",
+            "examples": [
+              {
+                "problem": "What did Rosa Parks do?",
+                "answer": "She refused to give up her bus seat to a white person.",
+                "explanation": "Rosa Parks stood up against an unfair law by staying in her seat, which started a big movement for equal rights."
+              },
+              {
+                "problem": "What was the Montgomery Bus Boycott?",
+                "answer": "When people stopped riding buses to protest unfair laws.",
+                "explanation": "After Rosa Parks was arrested, many people refused to ride the bus until the unfair law was changed."
+              }
+            ],
+            "key_vocabulary": ["Rosa Parks", "civil rights", "boycott", "segregation", "protest", "courage"],
+            "real_world": "Rosa Parks showed that one person can make a big difference by standing up for what is right."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did Rosa Parks refuse to do?",
+              "options": ["Go to school", "Give up her bus seat", "Eat dinner", "Walk to work"],
+              "correct": 1,
+              "hint": "She stayed seated on the bus."
+            },
+            {
+              "type": "true_false",
+              "question": "Rosa Parks is called the 'Mother of the Civil Rights Movement.'",
+              "answer": "true",
+              "hint": "Her brave action started a big movement for equal rights."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Montgomery Bus Boycott?",
+              "options": ["A new bus route", "A bus race", "People refusing to ride buses in protest", "A bus party"],
+              "correct": 2,
+              "hint": "People stopped riding to change an unfair law."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happened after Rosa Parks refused to move?",
+              "options": ["Nothing", "She was arrested", "She won a prize", "She drove the bus"],
+              "correct": 1,
+              "hint": "Parks was brave even though she faced consequences."
+            },
+            {
+              "type": "true_false",
+              "question": "Rosa Parks showed that one person can make a big difference.",
+              "answer": "true",
+              "hint": "Her actions inspired millions of people."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-5-4",
+          "title": "Other American Heroes",
+          "type": "lesson",
+          "content": {
+            "explanation": "America has many heroes! Harriet Tubman escaped from slavery and then went back many times to help other enslaved people escape through a secret network called the Underground Railroad. She was very brave. Susan B. Anthony fought for women's right to vote. For a long time, only men could vote, and Anthony believed that was unfair. She worked hard until women gained the right to vote. Dr. Martin Luther King Jr., whom you learned about before, led the Civil Rights Movement through peaceful protest. All these heroes made America a fairer place.",
+            "examples": [
+              {
+                "problem": "What did Harriet Tubman do?",
+                "answer": "She helped enslaved people escape to freedom through the Underground Railroad.",
+                "explanation": "Tubman risked her life many times to lead people to freedom."
+              },
+              {
+                "problem": "What did Susan B. Anthony fight for?",
+                "answer": "Women's right to vote.",
+                "explanation": "Anthony believed women should have the same rights as men, including the right to vote."
+              }
+            ],
+            "key_vocabulary": ["Harriet Tubman", "Underground Railroad", "Susan B. Anthony", "right to vote", "equal rights"],
+            "real_world": "Because of Susan B. Anthony, women in America can vote today. Her face was even put on a special dollar coin!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Harriet Tubman helped people escape slavery through the ___.",
+              "options": ["Express Train", "Highway", "Underground Railroad", "Secret Bridge"],
+              "correct": 2,
+              "hint": "This was a secret network of safe houses."
+            },
+            {
+              "type": "true_false",
+              "question": "Susan B. Anthony fought for women's right to vote.",
+              "answer": "true",
+              "hint": "She believed women should have equal rights."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Harriet Tubman do after escaping slavery?",
+              "options": ["She forgot about others", "She went back to help others escape", "She moved to another country", "She became President"],
+              "correct": 1,
+              "hint": "She risked her life to help other enslaved people."
+            },
+            {
+              "type": "true_false",
+              "question": "Long ago, only men could vote in America.",
+              "answer": "true",
+              "hint": "Women had to fight for their right to vote."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "All these heroes helped make America more ___.",
+              "options": ["Confusing", "Fair", "Small", "Quiet"],
+              "correct": 1,
+              "hint": "They fought for equal rights for all people."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who was the first President of the United States?",
+            "options": ["Abraham Lincoln", "George Washington", "Benjamin Franklin", "Thomas Jefferson"],
+            "correct": 1,
+            "hint": "He is the 'Father of Our Country.'"
+          },
+          {
+            "type": "true_false",
+            "question": "Abraham Lincoln helped end slavery.",
+            "answer": "true",
+            "hint": "He signed the Emancipation Proclamation."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Rosa Parks refused to give up her ___.",
+            "options": ["Lunch", "Book", "Bus seat", "Hat"],
+            "correct": 2,
+            "hint": "She stayed seated to protest an unfair law."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Harriet Tubman helped people escape through the ___.",
+            "options": ["Highway", "Underground Railroad", "Airport", "Secret Tunnel"],
+            "correct": 1,
+            "hint": "This was a network of safe places."
+          },
+          {
+            "type": "true_false",
+            "question": "Susan B. Anthony fought for women's right to vote.",
+            "answer": "true",
+            "hint": "She believed men and women should have equal rights."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "hero_historian"
+      }
+    },
+    {
+      "id": "2-social-6",
+      "title": "Map Skills",
+      "description": "Practice reading maps, using a compass rose, understanding map scale, and recognizing map symbols.",
+      "lessons": [
+        {
+          "id": "2-social-6-1",
+          "title": "Reading Maps",
+          "type": "lesson",
+          "content": {
+            "explanation": "To read a map, you need to know a few things. First, find the title. The title tells you what the map shows. Next, find the compass rose — it shows which direction is north, south, east, and west. Then, look at the map key or legend — it explains what the symbols on the map mean. Finally, look for a scale — it tells you how far apart things really are. Using all these parts together, you can read any map!",
+            "examples": [
+              {
+                "problem": "What is the first thing to look for on a map?",
+                "answer": "The title.",
+                "explanation": "The title tells you what the map is about — like 'Map of the United States' or 'Map of Our School.'"
+              },
+              {
+                "problem": "What does the map key do?",
+                "answer": "It explains what the symbols mean.",
+                "explanation": "The map key is like a dictionary for the map — it tells you what each symbol represents."
+              }
+            ],
+            "key_vocabulary": ["title", "compass rose", "map key", "legend", "scale", "symbol"],
+            "real_world": "Try reading a map at a park, zoo, or museum. Look for the title, compass rose, and map key!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The title of a map tells you ___.",
+              "options": ["How to draw the map", "What the map shows", "Who made the map", "When to use the map"],
+              "correct": 1,
+              "hint": "The title is the name of the map."
+            },
+            {
+              "type": "true_false",
+              "question": "The compass rose shows directions on a map.",
+              "answer": "true",
+              "hint": "The compass rose points to N, S, E, and W."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the map key explain?",
+              "options": ["How to fold the map", "What the symbols mean", "Where to buy the map", "How to draw maps"],
+              "correct": 1,
+              "hint": "The key is like a guide to reading the symbols."
+            },
+            {
+              "type": "true_false",
+              "question": "A map scale tells you how far apart things really are.",
+              "answer": "true",
+              "hint": "The scale helps you figure out real distances."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To read a map, you should look at the title, compass rose, key, and ___.",
+              "options": ["Color", "Price", "Scale", "Weight"],
+              "correct": 2,
+              "hint": "This tells you about distances on the map."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-6-2",
+          "title": "Using a Compass Rose",
+          "type": "lesson",
+          "content": {
+            "explanation": "The compass rose is one of the most important parts of a map. It shows the four cardinal directions: North (N), South (S), East (E), and West (W). It also shows the in-between directions: Northeast (NE), Southeast (SE), Southwest (SW), and Northwest (NW). To use the compass rose, first find it on the map. Then, look at where things are compared to each other. If a park is above a school on the map, the park is north of the school. If a store is to the right of a school, the store is east of the school.",
+            "examples": [
+              {
+                "problem": "If the library is above the school on a map, the library is ___ of the school.",
+                "answer": "North.",
+                "explanation": "On most maps, up means north. So if the library is above the school, it is north of it."
+              },
+              {
+                "problem": "If the park is to the left of the store on a map, the park is ___ of the store.",
+                "answer": "West.",
+                "explanation": "On most maps, left means west."
+              }
+            ],
+            "key_vocabulary": ["compass rose", "cardinal direction", "northeast", "southeast", "southwest", "northwest"],
+            "real_world": "Try using the compass rose on a map to figure out which direction places are from each other!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "If something is below another thing on a map, it is ___ of it.",
+              "options": ["North", "South", "East", "West"],
+              "correct": 1,
+              "hint": "Down on a map means south."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If something is to the right on a map, it is ___ of it.",
+              "options": ["North", "South", "East", "West"],
+              "correct": 2,
+              "hint": "Right on a map means east."
+            },
+            {
+              "type": "true_false",
+              "question": "NW stands for Northwest on a compass rose.",
+              "answer": "true",
+              "hint": "N = North and W = West."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The direction between South and East is ___.",
+              "options": ["Northwest", "Northeast", "Southwest", "Southeast"],
+              "correct": 3,
+              "hint": "Combine South and East."
+            },
+            {
+              "type": "true_false",
+              "question": "The compass rose only shows two directions.",
+              "answer": "false",
+              "hint": "It shows at least four main directions, and sometimes eight."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-6-3",
+          "title": "Map Scale",
+          "type": "lesson",
+          "content": {
+            "explanation": "Maps are much smaller than the real places they show. A map scale tells you how distance on the map relates to real distance. For example, one inch on a map might equal one mile in real life. The scale is usually shown as a bar at the bottom of the map. If you measure the distance between two places on the map and it is two inches, and the scale says 1 inch = 1 mile, then the real distance is two miles. Map scales help us figure out how far apart places really are.",
+            "examples": [
+              {
+                "problem": "What does a map scale do?",
+                "answer": "It tells you how distance on the map compares to real distance.",
+                "explanation": "The map scale is like a ruler that helps you figure out real distances."
+              },
+              {
+                "problem": "If 1 inch = 1 mile on a map, and two places are 3 inches apart, how far apart are they?",
+                "answer": "3 miles.",
+                "explanation": "Each inch equals one mile, so 3 inches means 3 miles in real life."
+              }
+            ],
+            "key_vocabulary": ["scale", "distance", "mile", "inch", "measure"],
+            "real_world": "Next time you see a map, look at the scale bar at the bottom. It helps you figure out real distances!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a map scale tell you?",
+              "options": ["The name of the map", "How far apart things really are", "What the colors mean", "Which direction is north"],
+              "correct": 1,
+              "hint": "The scale helps with figuring out distances."
+            },
+            {
+              "type": "true_false",
+              "question": "Maps are much smaller than the real places they show.",
+              "answer": "true",
+              "hint": "Can you fit a real city on a piece of paper?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If 1 inch = 1 mile and two places are 2 inches apart, they are ___ miles apart.",
+              "options": ["1 mile", "2 miles", "3 miles", "10 miles"],
+              "correct": 1,
+              "hint": "Each inch is one mile, and 2 inches means 2 miles."
+            },
+            {
+              "type": "true_false",
+              "question": "The map scale is usually at the bottom of the map.",
+              "answer": "true",
+              "hint": "Look near the bottom for a small bar with measurements."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where is the scale usually shown on a map?",
+              "options": ["In the title", "As a bar at the bottom", "In the compass rose", "Inside the map key"],
+              "correct": 1,
+              "hint": "The scale looks like a small ruler."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-social-6-4",
+          "title": "Map Symbols",
+          "type": "lesson",
+          "content": {
+            "explanation": "Map symbols are small pictures or shapes that stand for real things. A tiny airplane might mean an airport. A small tent might mean a campground. A cross or an H might mean a hospital. Blue wavy lines mean rivers. A star often means a capital city. Green areas usually mean parks or forests. These symbols make it easier to show many things on a small map. Always check the map key to learn what each symbol means!",
+            "examples": [
+              {
+                "problem": "What might a star symbol on a map mean?",
+                "answer": "A capital city.",
+                "explanation": "Many maps use a star to show where the capital city of a state or country is."
+              },
+              {
+                "problem": "What do blue wavy lines on a map mean?",
+                "answer": "Rivers.",
+                "explanation": "Blue represents water on maps, and wavy lines show flowing water like rivers."
+              }
+            ],
+            "key_vocabulary": ["symbol", "airport", "capital", "river", "forest", "hospital"],
+            "real_world": "Map symbols are like a secret code. Once you learn what they mean, you can read any map like a pro!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A star on a map often means ___.",
+              "options": ["A park", "A capital city", "A river", "A mountain"],
+              "correct": 1,
+              "hint": "This symbol marks an important city."
+            },
+            {
+              "type": "true_false",
+              "question": "Blue wavy lines on a map represent rivers.",
+              "answer": "true",
+              "hint": "Blue = water, and wavy lines = flowing water."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A tiny airplane symbol on a map likely means ___.",
+              "options": ["A school", "A park", "An airport", "A store"],
+              "correct": 2,
+              "hint": "Where do airplanes take off and land?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do you find out what map symbols mean?",
+              "options": ["In the title", "In the compass rose", "In the map key", "In the scale"],
+              "correct": 2,
+              "hint": "The map key explains all the symbols."
+            },
+            {
+              "type": "true_false",
+              "question": "Green areas on a map usually mean parks or forests.",
+              "answer": "true",
+              "hint": "Green is the color of trees and nature."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The title of a map tells you ___.",
+            "options": ["The directions", "What the map shows", "The distance", "The time"],
+            "correct": 1,
+            "hint": "The title names the map."
+          },
+          {
+            "type": "true_false",
+            "question": "The compass rose shows directions.",
+            "answer": "true",
+            "hint": "N, S, E, W are on the compass rose."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The map scale tells you about ___.",
+            "options": ["Colors", "Symbols", "Distances", "Names"],
+            "correct": 2,
+            "hint": "The scale relates map distance to real distance."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A star on a map usually means ___.",
+            "options": ["A park", "A capital city", "A school", "A beach"],
+            "correct": 1,
+            "hint": "Important cities are marked with this symbol."
+          },
+          {
+            "type": "true_false",
+            "question": "The map key explains what symbols mean.",
+            "answer": "true",
+            "hint": "The key is like a guide to reading the map."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "map_master"
+      }
+    }
+  ]
+}

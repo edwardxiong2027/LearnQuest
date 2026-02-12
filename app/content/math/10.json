@@ -1,0 +1,3046 @@
+{
+  "grade": 10,
+  "subject": "math",
+  "units": [
+    {
+      "id": "10-math-1",
+      "title": "Foundations of Geometry",
+      "description": "Points, lines, planes, segments, angles, and angle relationships.",
+      "lessons": [
+        {
+          "id": "10-math-1-1",
+          "title": "Points, Lines, and Planes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A point has no dimension (just location). A line extends infinitely in both directions. A plane extends infinitely in two dimensions. Collinear points lie on the same line. Coplanar points lie on the same plane. Two lines intersect at a point. Two planes intersect along a line.",
+            "examples": [
+              {
+                "problem": "Name 3 collinear points on line AB with C between",
+                "answer": "A, C, B",
+                "explanation": "Points on the same line are collinear."
+              },
+              {
+                "problem": "Two planes intersect forming a...",
+                "answer": "line",
+                "explanation": "The intersection of two planes is always a line."
+              },
+              {
+                "problem": "How many lines through 2 points?",
+                "answer": "Exactly 1",
+                "explanation": "Two points determine exactly one line."
+              }
+            ],
+            "key_vocabulary": [
+              "point",
+              "line",
+              "plane",
+              "collinear",
+              "coplanar",
+              "intersection"
+            ],
+            "real_world": "Architects use points, lines, and planes to design buildings."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Two points determine:",
+              "options": [
+                "Exactly one line",
+                "Exactly two lines",
+                "A plane",
+                "Nothing"
+              ],
+              "correct": 0,
+              "hint": "Two points \u2192 one line."
+            },
+            {
+              "type": "fill_in",
+              "question": "Collinear points lie on the same ___",
+              "answer": "line",
+              "hint": "Same line = collinear."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Intersection of two planes is a:",
+              "options": [
+                "point",
+                "line",
+                "plane",
+                "segment"
+              ],
+              "correct": 1,
+              "hint": "Two planes meet in a line."
+            },
+            {
+              "type": "fill_in",
+              "question": "Three noncollinear points determine a plane.",
+              "answer": "true",
+              "hint": "3 noncollinear points define exactly one plane."
+            },
+            {
+              "type": "fill_in",
+              "question": "A line extends infinitely in ___ directions",
+              "answer": "2",
+              "hint": "A line goes both ways."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Coplanar points lie on the same:",
+              "options": [
+                "line",
+                "plane",
+                "segment",
+                "ray"
+              ],
+              "correct": 1,
+              "hint": "Coplanar = same plane."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-1-2",
+          "title": "Segments, Rays, and Angles",
+          "type": "lesson",
+          "content": {
+            "explanation": "A segment has two endpoints. A ray has one endpoint and extends infinitely. An angle is formed by two rays sharing an endpoint (vertex). Angle types: acute (<90\u00b0), right (90\u00b0), obtuse (>90\u00b0, <180\u00b0), straight (180\u00b0). Adjacent angles share a vertex and a side.",
+            "examples": [
+              {
+                "problem": "Classify 75\u00b0",
+                "answer": "Acute",
+                "explanation": "75\u00b0 < 90\u00b0."
+              },
+              {
+                "problem": "Classify 130\u00b0",
+                "answer": "Obtuse",
+                "explanation": "90\u00b0 < 130\u00b0 < 180\u00b0."
+              },
+              {
+                "problem": "Classify 90\u00b0",
+                "answer": "Right",
+                "explanation": "Exactly 90\u00b0."
+              }
+            ],
+            "key_vocabulary": [
+              "segment",
+              "ray",
+              "angle",
+              "vertex",
+              "acute",
+              "right",
+              "obtuse",
+              "straight",
+              "adjacent"
+            ],
+            "real_world": "Angles appear everywhere: clock hands, door openings, ramps."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An angle of 45\u00b0 is:",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Straight"
+              ],
+              "correct": 0,
+              "hint": "45\u00b0 < 90\u00b0 = acute."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An angle of 120\u00b0 is:",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Straight"
+              ],
+              "correct": 2,
+              "hint": "90\u00b0 < 120\u00b0 < 180\u00b0 = obtuse."
+            },
+            {
+              "type": "fill_in",
+              "question": "A straight angle measures ___ degrees",
+              "answer": "180",
+              "hint": "A straight angle is a line."
+            },
+            {
+              "type": "fill_in",
+              "question": "A right angle measures ___ degrees",
+              "answer": "90",
+              "hint": "Right angle = 90\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "A ray has two endpoints.",
+              "answer": "false",
+              "hint": "A ray has ONE endpoint."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Adjacent angles share:",
+              "options": [
+                "Nothing",
+                "A vertex only",
+                "A vertex and a side",
+                "Everything"
+              ],
+              "correct": 2,
+              "hint": "Adjacent = share vertex + side."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-1-3",
+          "title": "Angle Pairs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Complementary angles sum to 90\u00b0. Supplementary angles sum to 180\u00b0. Vertical angles are opposite when two lines cross \u2014 they're always equal. Linear pair: supplementary adjacent angles formed by two intersecting lines.",
+            "examples": [
+              {
+                "problem": "Complement of 35\u00b0",
+                "answer": "55\u00b0",
+                "explanation": "90\u00b0 - 35\u00b0 = 55\u00b0."
+              },
+              {
+                "problem": "Supplement of 110\u00b0",
+                "answer": "70\u00b0",
+                "explanation": "180\u00b0 - 110\u00b0 = 70\u00b0."
+              },
+              {
+                "problem": "Vertical angles: one is 40\u00b0, the other?",
+                "answer": "40\u00b0",
+                "explanation": "Vertical angles are equal."
+              }
+            ],
+            "key_vocabulary": [
+              "complementary",
+              "supplementary",
+              "vertical angles",
+              "linear pair"
+            ],
+            "real_world": "A door opens to create supplementary angles with the wall."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Complement of 60\u00b0 = ___ degrees",
+              "answer": "30",
+              "hint": "90-60=30."
+            },
+            {
+              "type": "fill_in",
+              "question": "Supplement of 75\u00b0 = ___ degrees",
+              "answer": "105",
+              "hint": "180-75=105."
+            },
+            {
+              "type": "fill_in",
+              "question": "Vertical angle to 42\u00b0 = ___ degrees",
+              "answer": "42",
+              "hint": "Vertical angles are equal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Two angles sum to 90\u00b0. They are:",
+              "options": [
+                "Supplementary",
+                "Complementary",
+                "Vertical",
+                "Linear pair"
+              ],
+              "correct": 1,
+              "hint": "Sum to 90\u00b0 = complementary."
+            },
+            {
+              "type": "fill_in",
+              "question": "Supplement of 90\u00b0 = ___ degrees",
+              "answer": "90",
+              "hint": "180-90=90."
+            },
+            {
+              "type": "fill_in",
+              "question": "Vertical angles are always equal.",
+              "answer": "true",
+              "hint": "Vertical angles are congruent."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-1-4",
+          "title": "Midpoint and Distance",
+          "type": "lesson",
+          "content": {
+            "explanation": "Midpoint formula: M = ((x\u2081+x\u2082)/2, (y\u2081+y\u2082)/2). Distance formula: d = \u221a((x\u2082-x\u2081)\u00b2 + (y\u2082-y\u2081)\u00b2). These come from averaging coordinates and the Pythagorean theorem, respectively.",
+            "examples": [
+              {
+                "problem": "Midpoint of (2,4) and (8,10)",
+                "answer": "(5, 7)",
+                "explanation": "((2+8)/2, (4+10)/2) = (5,7)."
+              },
+              {
+                "problem": "Distance from (0,0) to (3,4)",
+                "answer": "5",
+                "explanation": "\u221a(9+16)=\u221a25=5."
+              },
+              {
+                "problem": "Distance from (1,2) to (4,6)",
+                "answer": "5",
+                "explanation": "\u221a(9+16)=\u221a25=5."
+              }
+            ],
+            "key_vocabulary": [
+              "midpoint",
+              "distance formula",
+              "coordinate",
+              "Pythagorean theorem"
+            ],
+            "real_world": "GPS uses the distance formula to calculate how far you are from a destination."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Midpoint of (0,0) and (6,8) = (3,___)",
+              "answer": "4",
+              "hint": "(0+8)/2=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "Distance from (0,0) to (5,12) = ___",
+              "answer": "13",
+              "hint": "\u221a(25+144)=\u221a169=13."
+            },
+            {
+              "type": "fill_in",
+              "question": "Midpoint of (2,3) and (10,7) = (6,___)",
+              "answer": "5",
+              "hint": "(3+7)/2=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "Distance from (1,1) to (4,5) = ___",
+              "answer": "5",
+              "hint": "\u221a(9+16)=5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Midpoint of (-2,6) and (4,2):",
+              "options": [
+                "(1,4)",
+                "(2,8)",
+                "(3,4)",
+                "(1,2)"
+              ],
+              "correct": 0,
+              "hint": "((-2+4)/2,(6+2)/2)=(1,4)."
+            },
+            {
+              "type": "fill_in",
+              "question": "Distance from (0,0) to (6,8) = ___",
+              "answer": "10",
+              "hint": "\u221a(36+64)=\u221a100=10."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-1-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Complement of 25\u00b0 = ___ degrees",
+            "answer": "65"
+          },
+          {
+            "type": "fill_in",
+            "question": "Supplement of 130\u00b0 = ___ degrees",
+            "answer": "50"
+          },
+          {
+            "type": "fill_in",
+            "question": "Midpoint of (0,0) and (10,6) = (5,___)",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "Distance from (0,0) to (8,6) = ___",
+            "answer": "10"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Vertical angles are:",
+            "options": [
+              "Supplementary",
+              "Complementary",
+              "Equal",
+              "Adjacent"
+            ],
+            "correct": 2,
+            "hint": "Vertical angles are always equal."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "geometry_foundations"
+      }
+    },
+    {
+      "id": "10-math-2",
+      "title": "Reasoning and Proof",
+      "description": "Use inductive and deductive reasoning, write two-column proofs.",
+      "lessons": [
+        {
+          "id": "10-math-2-1",
+          "title": "Inductive and Deductive Reasoning",
+          "type": "lesson",
+          "content": {
+            "explanation": "Inductive reasoning: observe patterns \u2192 make a conjecture (guess). Can be disproven by a counterexample. Deductive reasoning: use facts, definitions, and theorems \u2192 reach a guaranteed conclusion. Deductive is more reliable.",
+            "examples": [
+              {
+                "problem": "Pattern: 2,4,6,8,... Next?",
+                "answer": "10",
+                "explanation": "Inductive: pattern adds 2."
+              },
+              {
+                "problem": "All dogs are mammals. Rex is a dog. So...",
+                "answer": "Rex is a mammal",
+                "explanation": "Deductive: from general to specific."
+              },
+              {
+                "problem": "Counterexample to 'all primes are odd'?",
+                "answer": "2",
+                "explanation": "2 is prime and even."
+              }
+            ],
+            "key_vocabulary": [
+              "inductive",
+              "deductive",
+              "conjecture",
+              "counterexample",
+              "theorem",
+              "proof"
+            ],
+            "real_world": "Scientists use inductive reasoning to form hypotheses, then deductive reasoning to test them."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Observing patterns is:",
+              "options": [
+                "Deductive",
+                "Inductive",
+                "Neither",
+                "Both"
+              ],
+              "correct": 1,
+              "hint": "Patterns \u2192 inductive."
+            },
+            {
+              "type": "fill_in",
+              "question": "A ___ disproves a conjecture",
+              "answer": "counterexample",
+              "hint": "One false case disproves it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Using theorems to reach a conclusion is:",
+              "options": [
+                "Inductive",
+                "Deductive",
+                "Guessing",
+                "Random"
+              ],
+              "correct": 1,
+              "hint": "Theorems \u2192 deductive."
+            },
+            {
+              "type": "fill_in",
+              "question": "Inductive reasoning guarantees truth.",
+              "answer": "false",
+              "hint": "Inductive reasoning can be wrong."
+            },
+            {
+              "type": "fill_in",
+              "question": "Conjecture from 1,3,5,7: next is ___",
+              "answer": "9",
+              "hint": "Pattern adds 2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'All squares are rectangles. ABCD is a square. So ABCD is a rectangle.' This is:",
+              "options": [
+                "Inductive",
+                "Deductive",
+                "Neither",
+                "Invalid"
+              ],
+              "correct": 1,
+              "hint": "General rule \u2192 specific case = deductive."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-2-2",
+          "title": "Conditional Statements",
+          "type": "lesson",
+          "content": {
+            "explanation": "A conditional has the form 'If p, then q' (p \u2192 q). p is the hypothesis, q is the conclusion. Converse: q \u2192 p. Inverse: ~p \u2192 ~q. Contrapositive: ~q \u2192 ~p. A conditional and its contrapositive are logically equivalent.",
+            "examples": [
+              {
+                "problem": "Conditional: If it rains, the ground is wet. Converse?",
+                "answer": "If the ground is wet, it rained.",
+                "explanation": "Swap hypothesis and conclusion."
+              },
+              {
+                "problem": "Contrapositive of 'If sunny, I go outside'",
+                "answer": "If I don't go outside, it's not sunny",
+                "explanation": "Negate and swap."
+              },
+              {
+                "problem": "Are a conditional and its converse equivalent?",
+                "answer": "Not necessarily",
+                "explanation": "The converse may be false even if the original is true."
+              }
+            ],
+            "key_vocabulary": [
+              "conditional",
+              "hypothesis",
+              "conclusion",
+              "converse",
+              "inverse",
+              "contrapositive",
+              "biconditional"
+            ],
+            "real_world": "Legal contracts use conditional logic: 'If payment is late, then a fee applies.'"
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "In 'If p, then q': p is the ___",
+              "answer": "hypothesis",
+              "hint": "p = hypothesis, q = conclusion."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Converse of 'If A then B':",
+              "options": [
+                "If B then A",
+                "If not A then not B",
+                "If not B then not A",
+                "If A then not B"
+              ],
+              "correct": 0,
+              "hint": "Swap: If B then A."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Contrapositive of 'If A then B':",
+              "options": [
+                "If B then A",
+                "If not A then not B",
+                "If not B then not A",
+                "If A then not B"
+              ],
+              "correct": 2,
+              "hint": "Negate and swap."
+            },
+            {
+              "type": "fill_in",
+              "question": "A statement and its contrapositive are equivalent.",
+              "answer": "true",
+              "hint": "Always logically equivalent."
+            },
+            {
+              "type": "fill_in",
+              "question": "Inverse of 'If p then q' is 'If not p then not ___'",
+              "answer": "q",
+              "hint": "Negate both parts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is equivalent to the original conditional?",
+              "options": [
+                "Converse",
+                "Inverse",
+                "Contrapositive",
+                "None"
+              ],
+              "correct": 2,
+              "hint": "Contrapositive is equivalent."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-2-3",
+          "title": "Two-Column Proofs",
+          "type": "lesson",
+          "content": {
+            "explanation": "A two-column proof lists Statements (left) and Reasons (right). Reasons include: Given, Definition, Postulate, Theorem, Properties (reflexive, symmetric, transitive). Every step must have a justification. Start with Given, end with what you're proving.",
+            "examples": [
+              {
+                "problem": "Prove: If 2x+3=9, then x=3",
+                "answer": "Statement: 2x+3=9 (Given), 2x=6 (Subtraction Property), x=3 (Division Property)",
+                "explanation": "Each step justified."
+              },
+              {
+                "problem": "Reason for 'AB = AB'",
+                "answer": "Reflexive Property",
+                "explanation": "Anything equals itself."
+              },
+              {
+                "problem": "Reason for 'If a=b and b=c, then a=c'",
+                "answer": "Transitive Property",
+                "explanation": "Chain of equality."
+              }
+            ],
+            "key_vocabulary": [
+              "proof",
+              "statement",
+              "reason",
+              "given",
+              "postulate",
+              "theorem",
+              "reflexive",
+              "transitive"
+            ],
+            "real_world": "Legal arguments follow a proof structure: state a claim, provide evidence for each step."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'AB = AB' is justified by:",
+              "options": [
+                "Reflexive",
+                "Symmetric",
+                "Transitive",
+                "Given"
+              ],
+              "correct": 0,
+              "hint": "Equal to itself = reflexive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'If a=b then b=a' is:",
+              "options": [
+                "Reflexive",
+                "Symmetric",
+                "Transitive",
+                "Distributive"
+              ],
+              "correct": 1,
+              "hint": "Swap sides = symmetric."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'If a=b and b=c then a=c' is:",
+              "options": [
+                "Reflexive",
+                "Symmetric",
+                "Transitive",
+                "Substitution"
+              ],
+              "correct": 2,
+              "hint": "Chain = transitive."
+            },
+            {
+              "type": "fill_in",
+              "question": "A proof starts with what is ___",
+              "answer": "given",
+              "hint": "Always start with the given."
+            },
+            {
+              "type": "fill_in",
+              "question": "Every statement in a proof needs a reason.",
+              "answer": "true",
+              "hint": "No unjustified steps."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a valid reason?",
+              "options": [
+                "Given",
+                "Theorem",
+                "I think so",
+                "Definition"
+              ],
+              "correct": 2,
+              "hint": "Opinions aren't valid reasons."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-2-4",
+          "title": "Algebraic Proofs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Use algebraic properties as reasons: Addition Property (add same to both sides), Subtraction Property, Multiplication Property, Division Property, Distributive Property, Substitution Property. These justify each step when solving equations.",
+            "examples": [
+              {
+                "problem": "Justify: 2x=8 \u2192 x=4",
+                "answer": "Division Property of Equality",
+                "explanation": "Divided both sides by 2."
+              },
+              {
+                "problem": "Justify: x+5=12 \u2192 x=7",
+                "answer": "Subtraction Property of Equality",
+                "explanation": "Subtracted 5 from both sides."
+              },
+              {
+                "problem": "Justify: 3(x+2)=3x+6",
+                "answer": "Distributive Property",
+                "explanation": "Distributed the 3."
+              }
+            ],
+            "key_vocabulary": [
+              "addition property",
+              "subtraction property",
+              "multiplication property",
+              "division property",
+              "substitution"
+            ],
+            "real_world": "Programming uses logical proofs to verify that code is correct."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "x+3=10 \u2192 x=7. Reason:",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Multiplication",
+                "Division"
+              ],
+              "correct": 1,
+              "hint": "Subtracted 3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "5x=20 \u2192 x=4. Reason:",
+              "options": [
+                "Addition",
+                "Subtraction",
+                "Multiplication",
+                "Division"
+              ],
+              "correct": 3,
+              "hint": "Divided by 5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "2(x+1)=2x+2. Reason:",
+              "options": [
+                "Commutative",
+                "Associative",
+                "Distributive",
+                "Transitive"
+              ],
+              "correct": 2,
+              "hint": "Distributed the 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "Adding 5 to both sides uses the ___ Property",
+              "answer": "Addition",
+              "hint": "Adding = Addition Property of Equality."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "x=3, 2x+1=7. Replacing x with 3 uses:",
+              "options": [
+                "Reflexive",
+                "Substitution",
+                "Transitive",
+                "Symmetric"
+              ],
+              "correct": 1,
+              "hint": "Replacing = Substitution."
+            },
+            {
+              "type": "fill_in",
+              "question": "You can multiply both sides of an equation by 0.",
+              "answer": "true",
+              "hint": "You can, but you'd lose information (0=0)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Observing patterns to make a guess is:",
+            "options": [
+              "Deductive",
+              "Inductive",
+              "Neither",
+              "Both"
+            ],
+            "correct": 1,
+            "hint": "Pattern \u2192 conjecture = inductive."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Contrapositive of 'If A then B':",
+            "options": [
+              "If B then A",
+              "If not B then not A",
+              "If not A then not B",
+              "None"
+            ],
+            "correct": 1,
+            "hint": "Negate and swap."
+          },
+          {
+            "type": "fill_in",
+            "question": "'AB = AB' uses the ___ property",
+            "answer": "reflexive"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "'If a=b and b=c then a=c' is:",
+            "options": [
+              "Reflexive",
+              "Transitive",
+              "Symmetric",
+              "Distributive"
+            ],
+            "correct": 1,
+            "hint": "Chain = transitive."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "3x=15 \u2192 x=5. Reason:",
+            "options": [
+              "Addition",
+              "Subtraction",
+              "Multiplication",
+              "Division"
+            ],
+            "correct": 3,
+            "hint": "Divided by 3."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "proof_master"
+      }
+    },
+    {
+      "id": "10-math-3",
+      "title": "Parallel and Perpendicular Lines",
+      "description": "Angle relationships formed by parallel lines and transversals.",
+      "lessons": [
+        {
+          "id": "10-math-3-1",
+          "title": "Parallel Lines and Transversals",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a transversal crosses two parallel lines, it creates 8 angles. Special pairs: Corresponding angles are equal (same position). Alternate interior angles are equal (opposite sides, between lines). Alternate exterior angles are equal (opposite sides, outside lines). Co-interior (same-side interior) angles are supplementary (sum to 180\u00b0).",
+            "examples": [
+              {
+                "problem": "Corresponding angles with parallel lines",
+                "answer": "Equal",
+                "explanation": "Same position at each intersection."
+              },
+              {
+                "problem": "Alternate interior angles",
+                "answer": "Equal",
+                "explanation": "Opposite sides, between the parallel lines."
+              },
+              {
+                "problem": "Co-interior angles",
+                "answer": "Supplementary (180\u00b0)",
+                "explanation": "Same side, between the lines."
+              }
+            ],
+            "key_vocabulary": [
+              "parallel",
+              "transversal",
+              "corresponding",
+              "alternate interior",
+              "alternate exterior",
+              "co-interior",
+              "supplementary"
+            ],
+            "real_world": "Railroad tracks are parallel lines. A road crossing them is a transversal."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Alternate interior angles are ___",
+              "answer": "equal",
+              "hint": "They're congruent."
+            },
+            {
+              "type": "fill_in",
+              "question": "Co-interior angles sum to ___",
+              "answer": "180",
+              "hint": "They're supplementary."
+            },
+            {
+              "type": "fill_in",
+              "question": "If one corresponding angle is 70\u00b0, the other is ___",
+              "answer": "70",
+              "hint": "Corresponding = equal."
+            },
+            {
+              "type": "fill_in",
+              "question": "If one co-interior angle is 110\u00b0, the other is ___",
+              "answer": "70",
+              "hint": "180-110=70."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Corresponding angles are:",
+              "options": [
+                "Equal",
+                "Supplementary",
+                "Complementary",
+                "Vertical"
+              ],
+              "correct": 0,
+              "hint": "Same position = equal."
+            },
+            {
+              "type": "fill_in",
+              "question": "If alternate interior angle is 55\u00b0, the other is ___",
+              "answer": "55",
+              "hint": "Alternate interior = equal."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-3-2",
+          "title": "Proving Lines Parallel",
+          "type": "lesson",
+          "content": {
+            "explanation": "You can prove lines are parallel if: corresponding angles are equal, alternate interior angles are equal, alternate exterior angles are equal, or co-interior angles are supplementary. These are the CONVERSES of the parallel line theorems.",
+            "examples": [
+              {
+                "problem": "If corresponding angles = 65\u00b0 each, are lines parallel?",
+                "answer": "Yes",
+                "explanation": "Equal corresponding angles \u2192 parallel."
+              },
+              {
+                "problem": "Co-interior angles are 100\u00b0 and 80\u00b0. Parallel?",
+                "answer": "Yes",
+                "explanation": "100+80=180 \u2192 parallel."
+              },
+              {
+                "problem": "Alternate interior: 40\u00b0 and 50\u00b0. Parallel?",
+                "answer": "No",
+                "explanation": "40\u226050, not parallel."
+              }
+            ],
+            "key_vocabulary": [
+              "converse",
+              "prove parallel",
+              "corresponding converse",
+              "alternate interior converse"
+            ],
+            "real_world": "Builders use angle measurements to ensure walls are parallel."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Equal alternate interior angles prove lines parallel.",
+              "answer": "true",
+              "hint": "Converse of the theorem."
+            },
+            {
+              "type": "fill_in",
+              "question": "Co-interior angles 120\u00b0 and 60\u00b0. Sum=___. Parallel?",
+              "answer": "180",
+              "hint": "180 = supplementary \u2192 yes."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To prove parallel, corresponding angles must be:",
+              "options": [
+                "Supplementary",
+                "Complementary",
+                "Equal",
+                "90\u00b0"
+              ],
+              "correct": 2,
+              "hint": "Equal corresponding \u2192 parallel."
+            },
+            {
+              "type": "fill_in",
+              "question": "Alt. interior angles 45\u00b0 and 45\u00b0. Lines are ___",
+              "answer": "parallel",
+              "hint": "Equal alt. interior \u2192 parallel."
+            },
+            {
+              "type": "fill_in",
+              "question": "If alt. interior angles differ, lines are NOT parallel.",
+              "answer": "true",
+              "hint": "They must be equal for parallel."
+            },
+            {
+              "type": "fill_in",
+              "question": "Co-interior 95\u00b0 and 75\u00b0. Sum=___. Parallel?",
+              "answer": "170",
+              "hint": "170\u2260180, not parallel."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-3-3",
+          "title": "Slopes of Parallel and Perpendicular Lines",
+          "type": "lesson",
+          "content": {
+            "explanation": "Parallel lines have equal slopes (m\u2081 = m\u2082). Perpendicular lines have negative reciprocal slopes (m\u2081 \u00b7 m\u2082 = -1). Horizontal lines (slope 0) are perpendicular to vertical lines (undefined slope).",
+            "examples": [
+              {
+                "problem": "Are y=3x+1 and y=3x-4 parallel?",
+                "answer": "Yes",
+                "explanation": "Same slope (3)."
+              },
+              {
+                "problem": "Are y=2x+1 and y=-\u00bdx+3 perpendicular?",
+                "answer": "Yes",
+                "explanation": "2 \u00d7 (-\u00bd) = -1."
+              },
+              {
+                "problem": "Line parallel to y=-4x+2 through (0,5)",
+                "answer": "y=-4x+5",
+                "explanation": "Same slope, new intercept."
+              }
+            ],
+            "key_vocabulary": [
+              "slope",
+              "parallel",
+              "perpendicular",
+              "negative reciprocal"
+            ],
+            "real_world": "City streets often form parallel and perpendicular grids."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Slope parallel to m=7: ___",
+              "answer": "7",
+              "hint": "Same slope."
+            },
+            {
+              "type": "fill_in",
+              "question": "Slope perpendicular to m=3: ___",
+              "answer": "-1/3",
+              "hint": "Negative reciprocal."
+            },
+            {
+              "type": "fill_in",
+              "question": "Slope perpendicular to m=-2: ___",
+              "answer": "1/2",
+              "hint": "Negative reciprocal of -2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "y=5x+1 and y=5x-3 are:",
+              "options": [
+                "Parallel",
+                "Perpendicular",
+                "Neither",
+                "Same line"
+              ],
+              "correct": 0,
+              "hint": "Same slope = parallel."
+            },
+            {
+              "type": "fill_in",
+              "question": "Slope perpendicular to m=1: ___",
+              "answer": "-1",
+              "hint": "Negative reciprocal of 1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "y=2x+1 and y=-0.5x+4 are:",
+              "options": [
+                "Parallel",
+                "Perpendicular",
+                "Neither",
+                "Same line"
+              ],
+              "correct": 1,
+              "hint": "2\u00d7(-0.5)=-1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-3-4",
+          "title": "Writing Equations of Parallel and Perpendicular Lines",
+          "type": "lesson",
+          "content": {
+            "explanation": "To write a parallel/perpendicular line through a point: 1) Find the required slope (same or negative reciprocal). 2) Use point-slope form: y-y\u2081=m(x-x\u2081). 3) Convert to slope-intercept if needed.",
+            "examples": [
+              {
+                "problem": "Line parallel to y=2x+3 through (1,5)",
+                "answer": "y=2x+3... wait, y-5=2(x-1) \u2192 y=2x+3",
+                "explanation": "Slope 2, through (1,5): y=2x+3."
+              },
+              {
+                "problem": "Line perpendicular to y=3x-1 through (6,2)",
+                "answer": "y=-\u2153x+4",
+                "explanation": "Slope -\u2153: y-2=-\u2153(x-6) \u2192 y=-\u2153x+4."
+              },
+              {
+                "problem": "Line parallel to y=-x+4 through (0,1)",
+                "answer": "y=-x+1",
+                "explanation": "Slope -1, y-int 1."
+              }
+            ],
+            "key_vocabulary": [
+              "point-slope form",
+              "parallel",
+              "perpendicular",
+              "write equation"
+            ],
+            "real_world": "Engineers calculate perpendicular supports for bridges."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Parallel to y=4x+1 through (0,3): y=4x+___",
+              "answer": "3",
+              "hint": "Same slope, new y-intercept."
+            },
+            {
+              "type": "fill_in",
+              "question": "Perpendicular to y=2x through (0,0): y=___x",
+              "answer": "-1/2",
+              "hint": "Slope -1/2 through origin."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Parallel to y=-3x+5 through (1,2):",
+              "options": [
+                "y=-3x+5",
+                "y=-3x-1",
+                "y=3x-1",
+                "y=-3x+2"
+              ],
+              "correct": 0,
+              "hint": "Wait... y-2=-3(x-1)=y=-3x+5. Actually let me check: y-2=-3x+3, y=-3x+5. Yes!"
+            },
+            {
+              "type": "fill_in",
+              "question": "Perpendicular to y=5x, slope is ___",
+              "answer": "-1/5",
+              "hint": "Negative reciprocal of 5."
+            },
+            {
+              "type": "fill_in",
+              "question": "Parallel to y=x-2 through (0,7): y=x+___",
+              "answer": "7",
+              "hint": "Slope 1, y-int 7."
+            },
+            {
+              "type": "fill_in",
+              "question": "Perp to y=-4x+1 through (0,0): y=___x",
+              "answer": "1/4",
+              "hint": "Slope 1/4 through origin."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "If corresponding angles are 65\u00b0 and 65\u00b0, lines are ___",
+            "answer": "parallel"
+          },
+          {
+            "type": "fill_in",
+            "question": "Slope perpendicular to 4: ___",
+            "answer": "-1/4"
+          },
+          {
+            "type": "fill_in",
+            "question": "Co-interior angles: 115\u00b0 and ___\u00b0 = supplementary",
+            "answer": "65"
+          },
+          {
+            "type": "fill_in",
+            "question": "Parallel to y=3x+1 through (0,5): y=3x+___",
+            "answer": "5"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Alternate interior angles with parallel lines are:",
+            "options": [
+              "Equal",
+              "Supplementary",
+              "Complementary",
+              "Vertical"
+            ],
+            "correct": 0,
+            "hint": "Alternate interior = equal."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "parallel_perpendicular_pro"
+      }
+    },
+    {
+      "id": "10-math-4",
+      "title": "Triangle Congruence",
+      "description": "Prove triangles congruent using SSS, SAS, ASA, AAS, and CPCTC.",
+      "lessons": [
+        {
+          "id": "10-math-4-1",
+          "title": "Classifying Triangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "By sides: equilateral (3 equal), isosceles (2 equal), scalene (0 equal). By angles: acute (all <90\u00b0), right (one =90\u00b0), obtuse (one >90\u00b0), equiangular (all 60\u00b0). Triangle Angle Sum: angles add to 180\u00b0. Exterior angle = sum of two non-adjacent interior angles.",
+            "examples": [
+              {
+                "problem": "Angles 60\u00b0, 60\u00b0, 60\u00b0",
+                "answer": "Equilateral/Equiangular",
+                "explanation": "All angles equal, all sides equal."
+              },
+              {
+                "problem": "Sides 3, 4, 5",
+                "answer": "Scalene right triangle",
+                "explanation": "All different sides, 3\u00b2+4\u00b2=5\u00b2."
+              },
+              {
+                "problem": "Third angle if two are 50\u00b0 and 70\u00b0",
+                "answer": "60\u00b0",
+                "explanation": "180-50-70=60\u00b0."
+              }
+            ],
+            "key_vocabulary": [
+              "equilateral",
+              "isosceles",
+              "scalene",
+              "acute",
+              "right",
+              "obtuse",
+              "triangle angle sum"
+            ],
+            "real_world": "Triangles are the strongest shape in construction \u2014 used in bridges and trusses."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Sum of angles in a triangle = ___\u00b0",
+              "answer": "180",
+              "hint": "Always 180\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Third angle if two are 45\u00b0 and 90\u00b0: ___\u00b0",
+              "answer": "45",
+              "hint": "180-45-90=45."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A triangle with sides 5,5,5 is:",
+              "options": [
+                "Scalene",
+                "Isosceles",
+                "Equilateral",
+                "Right"
+              ],
+              "correct": 2,
+              "hint": "All equal = equilateral."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A triangle with angles 30\u00b0,60\u00b0,90\u00b0 is:",
+              "options": [
+                "Acute",
+                "Right",
+                "Obtuse",
+                "Equiangular"
+              ],
+              "correct": 1,
+              "hint": "Has a 90\u00b0 angle."
+            },
+            {
+              "type": "fill_in",
+              "question": "Exterior angle = 50\u00b0+70\u00b0 = ___\u00b0",
+              "answer": "120",
+              "hint": "Sum of non-adjacent interior."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A triangle with sides 3,4,6 is:",
+              "options": [
+                "Equilateral",
+                "Isosceles",
+                "Scalene",
+                "Right"
+              ],
+              "correct": 2,
+              "hint": "All different = scalene."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-4-2",
+          "title": "SSS and SAS Congruence",
+          "type": "lesson",
+          "content": {
+            "explanation": "SSS (Side-Side-Side): If all 3 sides of one triangle equal all 3 sides of another, the triangles are congruent. SAS (Side-Angle-Side): If 2 sides and the INCLUDED angle are equal, the triangles are congruent. The angle must be BETWEEN the two sides.",
+            "examples": [
+              {
+                "problem": "\u25b3ABC: AB=5, BC=7, CA=8. \u25b3DEF: DE=5, EF=7, FD=8.",
+                "answer": "Congruent by SSS",
+                "explanation": "All 3 pairs of sides match."
+              },
+              {
+                "problem": "\u25b3PQR: PQ=4, \u2220Q=60\u00b0, QR=6. \u25b3STU: ST=4, \u2220T=60\u00b0, TU=6.",
+                "answer": "Congruent by SAS",
+                "explanation": "2 sides and included angle match."
+              },
+              {
+                "problem": "Two sides and a NON-included angle match. Congruent?",
+                "answer": "Not necessarily",
+                "explanation": "SSA is NOT a congruence shortcut."
+              }
+            ],
+            "key_vocabulary": [
+              "congruent",
+              "SSS",
+              "SAS",
+              "included angle",
+              "corresponding parts"
+            ],
+            "real_world": "Manufacturing uses congruence \u2014 every copy of a part must match the original exactly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "SSS requires matching:",
+              "options": [
+                "3 sides",
+                "2 sides + angle",
+                "2 angles + side",
+                "3 angles"
+              ],
+              "correct": 0,
+              "hint": "All 3 sides."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In SAS, the angle must be:",
+              "options": [
+                "Any angle",
+                "Between the two sides",
+                "The largest",
+                "Opposite a side"
+              ],
+              "correct": 1,
+              "hint": "Included (between) the sides."
+            },
+            {
+              "type": "fill_in",
+              "question": "SSA is a valid congruence shortcut.",
+              "answer": "false",
+              "hint": "SSA doesn't guarantee congruence."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "AB=DE, BC=EF, AC=DF. Method:",
+              "options": [
+                "SSS",
+                "SAS",
+                "ASA",
+                "AAS"
+              ],
+              "correct": 0,
+              "hint": "All 3 sides match = SSS."
+            },
+            {
+              "type": "fill_in",
+              "question": "If triangles are congruent, all parts match.",
+              "answer": "true",
+              "hint": "Congruent = all corresponding parts equal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "PQ=ST, \u2220Q=\u2220T, QR=TU. Method:",
+              "options": [
+                "SSS",
+                "SAS",
+                "ASA",
+                "AAS"
+              ],
+              "correct": 1,
+              "hint": "Side-angle-side with included angle."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-4-3",
+          "title": "ASA and AAS Congruence",
+          "type": "lesson",
+          "content": {
+            "explanation": "ASA (Angle-Side-Angle): If 2 angles and the INCLUDED side are equal, triangles are congruent. AAS (Angle-Angle-Side): If 2 angles and a NON-included side are equal, triangles are congruent. Note: AAA does NOT prove congruence (only similarity).",
+            "examples": [
+              {
+                "problem": "\u2220A=\u2220D, AB=DE, \u2220B=\u2220E",
+                "answer": "Congruent by ASA",
+                "explanation": "Two angles and the side between them."
+              },
+              {
+                "problem": "\u2220A=\u2220D, \u2220B=\u2220E, BC=EF",
+                "answer": "Congruent by AAS",
+                "explanation": "Two angles and a non-included side."
+              },
+              {
+                "problem": "All 3 angles equal. Congruent?",
+                "answer": "Not necessarily (AAA = similar, not congruent)",
+                "explanation": "Same shape but could be different size."
+              }
+            ],
+            "key_vocabulary": [
+              "ASA",
+              "AAS",
+              "included side",
+              "congruence shortcut"
+            ],
+            "real_world": "Surveyors use angle measurements to determine if land plots are congruent."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "ASA requires:",
+              "options": [
+                "2 angles + included side",
+                "2 angles + any side",
+                "3 angles",
+                "2 sides + angle"
+              ],
+              "correct": 0,
+              "hint": "Angles and the side between them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "AAS requires:",
+              "options": [
+                "2 angles + included side",
+                "2 angles + non-included side",
+                "3 angles",
+                "2 sides + angle"
+              ],
+              "correct": 1,
+              "hint": "Angles and a side not between them."
+            },
+            {
+              "type": "fill_in",
+              "question": "AAA proves congruence.",
+              "answer": "false",
+              "hint": "AAA only proves similarity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "\u2220P=\u2220X, PQ=XY, \u2220Q=\u2220Y. Method:",
+              "options": [
+                "SSS",
+                "SAS",
+                "ASA",
+                "AAS"
+              ],
+              "correct": 2,
+              "hint": "Angle-side-angle."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "\u2220A=\u2220D, \u2220C=\u2220F, BC=EF. Method:",
+              "options": [
+                "SSS",
+                "SAS",
+                "ASA",
+                "AAS"
+              ],
+              "correct": 3,
+              "hint": "Two angles + non-included side."
+            },
+            {
+              "type": "fill_in",
+              "question": "How many congruence shortcuts exist? (SSS,SAS,ASA,AAS,HL)",
+              "answer": "5",
+              "hint": "SSS, SAS, ASA, AAS, HL."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-4-4",
+          "title": "CPCTC and Triangle Proofs",
+          "type": "lesson",
+          "content": {
+            "explanation": "CPCTC: Corresponding Parts of Congruent Triangles are Congruent. After proving triangles congruent (by SSS, SAS, ASA, or AAS), you can conclude any corresponding parts are equal. This is used as the FINAL step after establishing congruence.",
+            "examples": [
+              {
+                "problem": "\u25b3ABC \u2245 \u25b3DEF. What equals AB?",
+                "answer": "DE",
+                "explanation": "Corresponding parts: A\u2194D, B\u2194E, C\u2194F."
+              },
+              {
+                "problem": "After proving \u25b3PQR \u2245 \u25b3XYZ, what is \u2220P equal to?",
+                "answer": "\u2220X",
+                "explanation": "First letters correspond: P\u2194X."
+              },
+              {
+                "problem": "Use of CPCTC",
+                "answer": "Prove triangles congruent FIRST, then use CPCTC for parts",
+                "explanation": "Must establish congruence before using CPCTC."
+              }
+            ],
+            "key_vocabulary": [
+              "CPCTC",
+              "corresponding parts",
+              "congruent triangles",
+              "proof strategy"
+            ],
+            "real_world": "Quality control: if two manufactured parts are congruent, every measurement must match."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "CPCTC stands for: Corresponding ___ of Congruent Triangles are Congruent",
+              "answer": "Parts",
+              "hint": "Corresponding Parts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When can you use CPCTC?",
+              "options": [
+                "Before proving congruence",
+                "After proving congruence",
+                "Anytime",
+                "Never"
+              ],
+              "correct": 1,
+              "hint": "Must prove congruent first."
+            },
+            {
+              "type": "fill_in",
+              "question": "If \u25b3ABC \u2245 \u25b3XYZ, then BC = ___",
+              "answer": "YZ",
+              "hint": "B\u2194Y, C\u2194Z."
+            },
+            {
+              "type": "fill_in",
+              "question": "If \u25b3ABC \u2245 \u25b3XYZ, then \u2220C = \u2220___",
+              "answer": "Z",
+              "hint": "C\u2194Z."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The order of letters in congruence statements tells you:",
+              "options": [
+                "Nothing",
+                "Which parts correspond",
+                "The size",
+                "The shape"
+              ],
+              "correct": 1,
+              "hint": "Letter order shows correspondence."
+            },
+            {
+              "type": "fill_in",
+              "question": "CPCTC can be used as the reason for a step in a proof.",
+              "answer": "true",
+              "hint": "It's a valid reason after establishing congruence."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Sum of triangle angles = ___\u00b0",
+            "answer": "180"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "3 sides match = congruent by:",
+            "options": [
+              "SSS",
+              "SAS",
+              "ASA",
+              "AAS"
+            ],
+            "correct": 0,
+            "hint": "All 3 sides = SSS."
+          },
+          {
+            "type": "fill_in",
+            "question": "AAA proves congruence.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "CPCTC is used:",
+            "options": [
+              "Before",
+              "After",
+              "Instead of",
+              "Without"
+            ],
+            "correct": 1,
+            "hint": "After proving congruence."
+          },
+          {
+            "type": "fill_in",
+            "question": "Third angle if two are 35\u00b0 and 80\u00b0: ___\u00b0",
+            "answer": "65"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "congruence_champion"
+      }
+    },
+    {
+      "id": "10-math-5",
+      "title": "Similarity",
+      "description": "Understand similar figures, AA/SAS/SSS similarity, and proportional reasoning.",
+      "lessons": [
+        {
+          "id": "10-math-5-1",
+          "title": "Ratios and Proportions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A ratio compares two quantities: a:b or a/b. A proportion states two ratios are equal: a/b = c/d. Cross-multiply to solve: ad = bc. Scale factor is the ratio between corresponding lengths of similar figures.",
+            "examples": [
+              {
+                "problem": "Solve: x/4 = 6/8",
+                "answer": "x=3",
+                "explanation": "Cross multiply: 8x=24, x=3."
+              },
+              {
+                "problem": "Solve: 3/x = 9/12",
+                "answer": "x=4",
+                "explanation": "Cross multiply: 36=9x, x=4."
+              },
+              {
+                "problem": "Scale factor from 6 to 18",
+                "answer": "3",
+                "explanation": "18/6=3."
+              }
+            ],
+            "key_vocabulary": [
+              "ratio",
+              "proportion",
+              "cross multiply",
+              "scale factor"
+            ],
+            "real_world": "Map scales use proportions: 1 inch = 50 miles."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Solve x/5=6/10. x=___",
+              "answer": "3",
+              "hint": "10x=30, x=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "Solve 4/x=8/6. x=___",
+              "answer": "3",
+              "hint": "24=8x, x=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "Solve 2/3=x/12. x=___",
+              "answer": "8",
+              "hint": "24=3x, x=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "Scale factor from 4 to 20: ___",
+              "answer": "5",
+              "hint": "20/4=5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a/b=c/d, then ad=___",
+              "options": [
+                "bc",
+                "bd",
+                "ac",
+                "ab"
+              ],
+              "correct": 0,
+              "hint": "Cross multiply."
+            },
+            {
+              "type": "fill_in",
+              "question": "Solve 5/8=15/x. x=___",
+              "answer": "24",
+              "hint": "5x=120, x=24."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-5-2",
+          "title": "AA, SAS, SSS Similarity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Similar triangles have same shape, different size. All angles equal, sides proportional. AA (Angle-Angle): 2 pairs of equal angles \u2192 similar. SAS Similarity: 2 pairs of proportional sides with included angle equal. SSS Similarity: all 3 pairs of sides proportional.",
+            "examples": [
+              {
+                "problem": "Angles 30\u00b0,60\u00b0,90\u00b0 and 30\u00b0,60\u00b0,90\u00b0",
+                "answer": "Similar by AA",
+                "explanation": "Two pairs of equal angles."
+              },
+              {
+                "problem": "Sides 3,4,5 and 6,8,10",
+                "answer": "Similar by SSS",
+                "explanation": "Ratios: 3/6=4/8=5/10=1/2."
+              },
+              {
+                "problem": "Are all equilateral triangles similar?",
+                "answer": "Yes",
+                "explanation": "All have 60\u00b0-60\u00b0-60\u00b0 angles (AA)."
+              }
+            ],
+            "key_vocabulary": [
+              "similar",
+              "AA similarity",
+              "SAS similarity",
+              "SSS similarity",
+              "proportional"
+            ],
+            "real_world": "Photographers use similar triangles to calculate distances with shadows."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "AA requires:",
+              "options": [
+                "2 equal angles",
+                "2 equal sides",
+                "3 equal sides",
+                "1 angle"
+              ],
+              "correct": 0,
+              "hint": "Two pairs of equal angles."
+            },
+            {
+              "type": "fill_in",
+              "question": "All squares are similar.",
+              "answer": "true",
+              "hint": "Same shape (all 90\u00b0 angles), sides proportional."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sides 2,3,4 and 4,6,8. Scale factor = ___",
+              "answer": "2",
+              "hint": "4/2=6/3=8/4=2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sides 3,5,7 and 6,10,14. Similar by:",
+              "options": [
+                "AA",
+                "SAS",
+                "SSS",
+                "Not similar"
+              ],
+              "correct": 2,
+              "hint": "All ratios = 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "All rectangles are similar.",
+              "answer": "false",
+              "hint": "A 1\u00d72 rectangle isn't similar to a 1\u00d75."
+            },
+            {
+              "type": "fill_in",
+              "question": "If scale factor is 3, and a side is 5, corresponding side = ___",
+              "answer": "15",
+              "hint": "5\u00d73=15."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-5-3",
+          "title": "Proportions in Triangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Triangle Proportionality Theorem: A line parallel to one side of a triangle divides the other two sides proportionally. Midsegment: connects midpoints of two sides, is parallel to the third side, and half its length.",
+            "examples": [
+              {
+                "problem": "In \u25b3ABC, DE\u2225BC with AD=3, DB=6, AE=4. Find EC.",
+                "answer": "8",
+                "explanation": "3/6=4/EC \u2192 EC=8."
+              },
+              {
+                "problem": "Midsegment of triangle with base 10",
+                "answer": "5",
+                "explanation": "Half the base."
+              },
+              {
+                "problem": "AD=2, DB=5, AE=4. Is DE\u2225BC if EC=10?",
+                "answer": "Yes",
+                "explanation": "2/5=4/10 \u2713"
+              }
+            ],
+            "key_vocabulary": [
+              "proportionality theorem",
+              "midsegment",
+              "parallel",
+              "proportional sides"
+            ],
+            "real_world": "Engineering uses proportional triangles for structural calculations."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "AD=4, DB=8, AE=3. If DE\u2225BC, EC=___",
+              "answer": "6",
+              "hint": "4/8=3/EC, EC=6."
+            },
+            {
+              "type": "fill_in",
+              "question": "Midsegment if base=16: ___",
+              "answer": "8",
+              "hint": "Half of 16."
+            },
+            {
+              "type": "fill_in",
+              "question": "AD=5, DB=10, AE=7. EC=___",
+              "answer": "14",
+              "hint": "5/10=7/EC, EC=14."
+            },
+            {
+              "type": "fill_in",
+              "question": "A midsegment is parallel to the base.",
+              "answer": "true",
+              "hint": "Always parallel to the third side."
+            },
+            {
+              "type": "fill_in",
+              "question": "AD=3, DB=9, AE=2. EC=___",
+              "answer": "6",
+              "hint": "3/9=2/EC, 3EC=18, EC=6."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Midsegment length compared to base:",
+              "options": [
+                "Equal",
+                "Double",
+                "Half",
+                "Quarter"
+              ],
+              "correct": 2,
+              "hint": "Half the base."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-5-4",
+          "title": "Applications of Similarity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Similar triangles can find unknown heights and distances. Set up proportions with corresponding sides. Shadow problems: object height / shadow length = other object height / other shadow length (sun's rays are parallel).",
+            "examples": [
+              {
+                "problem": "Tree shadow 15ft, person 6ft casts 4ft shadow",
+                "answer": "22.5 ft",
+                "explanation": "6/4=x/15, x=22.5."
+              },
+              {
+                "problem": "Map: 2cm = 50mi. Cities 7cm apart = ?",
+                "answer": "175 mi",
+                "explanation": "2/50=7/x, x=175."
+              },
+              {
+                "problem": "Photo enlarged 3x. If original is 4\u00d76, new size?",
+                "answer": "12\u00d718",
+                "explanation": "4\u00d73=12, 6\u00d73=18."
+              }
+            ],
+            "key_vocabulary": [
+              "indirect measurement",
+              "shadow",
+              "proportion",
+              "scale"
+            ],
+            "real_world": "Architects use scale models \u2014 similar figures \u2014 to design buildings before construction."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Shadow: 5ft person, 3ft shadow. 12ft shadow tree height=___",
+              "answer": "20",
+              "hint": "5/3=x/12, x=20."
+            },
+            {
+              "type": "fill_in",
+              "question": "Map scale 1cm:25mi. 8cm = ___ miles",
+              "answer": "200",
+              "hint": "8\u00d725=200."
+            },
+            {
+              "type": "fill_in",
+              "question": "Model car 1:24 scale. Real car 12ft. Model=___ inches",
+              "answer": "6",
+              "hint": "12ft=144in. 144/24=6in."
+            },
+            {
+              "type": "fill_in",
+              "question": "6ft person, 4ft shadow. Flagpole 30ft shadow = ___ ft tall",
+              "answer": "45",
+              "hint": "6/4=x/30, x=45."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Two similar rectangles: one 3\u00d75, other 9\u00d7?",
+              "options": [
+                "15",
+                "12",
+                "10",
+                "45"
+              ],
+              "correct": 0,
+              "hint": "Scale factor 3. 5\u00d73=15."
+            },
+            {
+              "type": "fill_in",
+              "question": "Photo scale factor 2. Original 8cm. Enlarged=___cm",
+              "answer": "16",
+              "hint": "8\u00d72=16."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-5-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Solve x/6=4/8. x=___",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "AA Similarity requires:",
+            "options": [
+              "2 angles",
+              "3 sides",
+              "2 sides",
+              "1 angle"
+            ],
+            "correct": 0,
+            "hint": "Two pairs of equal angles."
+          },
+          {
+            "type": "fill_in",
+            "question": "Scale factor 4. Side=3. Corresponding=___",
+            "answer": "12"
+          },
+          {
+            "type": "fill_in",
+            "question": "Shadow: 5ft person, 2ft shadow. 10ft shadow \u2192 height=___",
+            "answer": "25"
+          },
+          {
+            "type": "fill_in",
+            "question": "Midsegment if base=20: ___",
+            "answer": "10"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "similarity_sage"
+      }
+    },
+    {
+      "id": "10-math-6",
+      "title": "Right Triangles and Trigonometry",
+      "description": "Pythagorean theorem, special triangles, and intro to SOH-CAH-TOA.",
+      "lessons": [
+        {
+          "id": "10-math-6-1",
+          "title": "Pythagorean Theorem",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a right triangle: a\u00b2 + b\u00b2 = c\u00b2 where c is the hypotenuse (longest side, opposite the right angle). Pythagorean triples: (3,4,5), (5,12,13), (8,15,17), (7,24,25) and their multiples. Converse: if a\u00b2+b\u00b2=c\u00b2, the triangle is right.",
+            "examples": [
+              {
+                "problem": "Legs 6 and 8. Hypotenuse?",
+                "answer": "10",
+                "explanation": "6\u00b2+8\u00b2=36+64=100=10\u00b2."
+              },
+              {
+                "problem": "Hyp 13, leg 5. Other leg?",
+                "answer": "12",
+                "explanation": "13\u00b2-5\u00b2=169-25=144=12\u00b2."
+              },
+              {
+                "problem": "Is 9,12,15 a right triangle?",
+                "answer": "Yes",
+                "explanation": "9\u00b2+12\u00b2=81+144=225=15\u00b2."
+              }
+            ],
+            "key_vocabulary": [
+              "Pythagorean theorem",
+              "hypotenuse",
+              "leg",
+              "Pythagorean triple",
+              "converse"
+            ],
+            "real_world": "Builders use 3-4-5 triangles to check if corners are exactly 90\u00b0."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Legs 3 and 4. Hypotenuse=___",
+              "answer": "5",
+              "hint": "9+16=25. \u221a25=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "Legs 5 and 12. Hypotenuse=___",
+              "answer": "13",
+              "hint": "25+144=169. \u221a169=13."
+            },
+            {
+              "type": "fill_in",
+              "question": "Hyp=10, leg=6. Other leg=___",
+              "answer": "8",
+              "hint": "100-36=64. \u221a64=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "Hyp=25, leg=7. Other leg=___",
+              "answer": "24",
+              "hint": "625-49=576. \u221a576=24."
+            },
+            {
+              "type": "fill_in",
+              "question": "(6,8,10) is a Pythagorean triple.",
+              "answer": "true",
+              "hint": "36+64=100. \u2713"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The hypotenuse is:",
+              "options": [
+                "Shortest side",
+                "Longest side",
+                "Any side",
+                "The right angle"
+              ],
+              "correct": 1,
+              "hint": "Always the longest, opposite the right angle."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-6-2",
+          "title": "Special Right Triangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "45-45-90: legs equal, hypotenuse = leg\u00d7\u221a2. If leg=a, sides are a, a, a\u221a2. 30-60-90: shortest side opposite 30\u00b0, hypotenuse = 2\u00d7short, long leg = short\u00d7\u221a3. Sides are a, a\u221a3, 2a.",
+            "examples": [
+              {
+                "problem": "45-45-90 with leg 5",
+                "answer": "5, 5, 5\u221a2",
+                "explanation": "Hypotenuse = 5\u221a2 \u2248 7.07."
+              },
+              {
+                "problem": "30-60-90 with short leg 4",
+                "answer": "4, 4\u221a3, 8",
+                "explanation": "Long leg=4\u221a3, hyp=8."
+              },
+              {
+                "problem": "30-60-90 with hyp 10",
+                "answer": "5, 5\u221a3, 10",
+                "explanation": "Short leg = 10/2 = 5."
+              }
+            ],
+            "key_vocabulary": [
+              "45-45-90",
+              "30-60-90",
+              "special right triangle",
+              "\u221a2",
+              "\u221a3"
+            ],
+            "real_world": "45-45-90 triangles appear in the diagonal of a square. 30-60-90 in equilateral triangles cut in half."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "45-45-90: leg=7. Hypotenuse=7\u221a___",
+              "answer": "2",
+              "hint": "Hyp = leg \u00d7 \u221a2."
+            },
+            {
+              "type": "fill_in",
+              "question": "30-60-90: short leg=6. Hypotenuse=___",
+              "answer": "12",
+              "hint": "Hyp = 2 \u00d7 short."
+            },
+            {
+              "type": "fill_in",
+              "question": "30-60-90: short leg=3. Long leg=3\u221a___",
+              "answer": "3",
+              "hint": "Long = short \u00d7 \u221a3."
+            },
+            {
+              "type": "fill_in",
+              "question": "45-45-90: hyp=10\u221a2. Leg=___",
+              "answer": "10",
+              "hint": "Leg = hyp/\u221a2."
+            },
+            {
+              "type": "fill_in",
+              "question": "30-60-90: hyp=20. Short leg=___",
+              "answer": "10",
+              "hint": "Short = hyp/2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In 30-60-90, sides are in ratio:",
+              "options": [
+                "1:1:\u221a2",
+                "1:\u221a3:2",
+                "1:2:3",
+                "1:1:2"
+              ],
+              "correct": 1,
+              "hint": "Short : long : hyp = 1:\u221a3:2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-6-3",
+          "title": "Trigonometric Ratios: SOH-CAH-TOA",
+          "type": "lesson",
+          "content": {
+            "explanation": "For a right triangle with angle \u03b8: sin(\u03b8) = Opposite/Hypotenuse (SOH). cos(\u03b8) = Adjacent/Hypotenuse (CAH). tan(\u03b8) = Opposite/Adjacent (TOA). The 'opposite' and 'adjacent' sides depend on WHICH angle you're looking at.",
+            "examples": [
+              {
+                "problem": "Right triangle: opp=3, hyp=5. sin(\u03b8)?",
+                "answer": "3/5 = 0.6",
+                "explanation": "Opposite over hypotenuse."
+              },
+              {
+                "problem": "Right triangle: adj=4, hyp=5. cos(\u03b8)?",
+                "answer": "4/5 = 0.8",
+                "explanation": "Adjacent over hypotenuse."
+              },
+              {
+                "problem": "Right triangle: opp=3, adj=4. tan(\u03b8)?",
+                "answer": "3/4 = 0.75",
+                "explanation": "Opposite over adjacent."
+              }
+            ],
+            "key_vocabulary": [
+              "sine",
+              "cosine",
+              "tangent",
+              "SOH-CAH-TOA",
+              "opposite",
+              "adjacent",
+              "hypotenuse"
+            ],
+            "real_world": "Pilots use trigonometry to calculate glide paths and approach angles."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sin = Opposite / ___",
+              "answer": "Hypotenuse",
+              "hint": "SOH: sin = opp/hyp."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos = ___ / Hypotenuse",
+              "answer": "Adjacent",
+              "hint": "CAH: cos = adj/hyp."
+            },
+            {
+              "type": "fill_in",
+              "question": "tan = Opposite / ___",
+              "answer": "Adjacent",
+              "hint": "TOA: tan = opp/adj."
+            },
+            {
+              "type": "fill_in",
+              "question": "Opp=5, hyp=13. sin=5/___",
+              "answer": "13",
+              "hint": "sin = opp/hyp = 5/13."
+            },
+            {
+              "type": "fill_in",
+              "question": "Adj=12, hyp=13. cos=12/___",
+              "answer": "13",
+              "hint": "cos = adj/hyp."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "SOH-CAH-TOA helps remember:",
+              "options": [
+                "Angle types",
+                "Trig ratios",
+                "Triangle types",
+                "Proof methods"
+              ],
+              "correct": 1,
+              "hint": "Mnemonic for sin, cos, tan."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-6-4",
+          "title": "Solving Right Triangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Use trig to find missing sides or angles. To find a side: set up the trig ratio and solve. To find an angle: use inverse trig (sin\u207b\u00b9, cos\u207b\u00b9, tan\u207b\u00b9). Example: if sin(\u03b8)=0.5, then \u03b8=sin\u207b\u00b9(0.5)=30\u00b0.",
+            "examples": [
+              {
+                "problem": "Find x: angle 30\u00b0, hyp=10, x=opposite",
+                "answer": "5",
+                "explanation": "sin30\u00b0=x/10, x=10\u00d70.5=5."
+              },
+              {
+                "problem": "Find \u03b8: opp=4, adj=4",
+                "answer": "45\u00b0",
+                "explanation": "tan(\u03b8)=4/4=1, \u03b8=tan\u207b\u00b9(1)=45\u00b0."
+              },
+              {
+                "problem": "Find x: angle 60\u00b0, adj=7, x=opposite",
+                "answer": "7\u221a3\u224812.12",
+                "explanation": "tan60\u00b0=x/7, x=7\u00d7\u221a3."
+              }
+            ],
+            "key_vocabulary": [
+              "inverse trig",
+              "solve",
+              "sin\u207b\u00b9",
+              "cos\u207b\u00b9",
+              "tan\u207b\u00b9",
+              "angle of elevation"
+            ],
+            "real_world": "Surveyors measure angles of elevation to calculate building heights."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sin30\u00b0=0.5. If hyp=20, opp=___",
+              "answer": "10",
+              "hint": "20\u00d70.5=10."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos60\u00b0=0.5. If hyp=16, adj=___",
+              "answer": "8",
+              "hint": "16\u00d70.5=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "tan45\u00b0=1. If adj=9, opp=___",
+              "answer": "9",
+              "hint": "9\u00d71=9."
+            },
+            {
+              "type": "fill_in",
+              "question": "sin(\u03b8)=1. \u03b8=___\u00b0",
+              "answer": "90",
+              "hint": "sin\u207b\u00b9(1)=90\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "tan(\u03b8)=1. \u03b8=___\u00b0",
+              "answer": "45",
+              "hint": "tan\u207b\u00b9(1)=45\u00b0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To find an angle, use:",
+              "options": [
+                "Regular trig",
+                "Inverse trig",
+                "Pythagorean",
+                "Algebra"
+              ],
+              "correct": 1,
+              "hint": "Inverse trig functions."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Legs 9 and 12. Hypotenuse=___",
+            "answer": "15"
+          },
+          {
+            "type": "fill_in",
+            "question": "45-45-90 leg=8. Hyp=8\u221a___",
+            "answer": "2"
+          },
+          {
+            "type": "fill_in",
+            "question": "30-60-90 short leg=5. Hyp=___",
+            "answer": "10"
+          },
+          {
+            "type": "fill_in",
+            "question": "sin=opp/___",
+            "answer": "Hypotenuse"
+          },
+          {
+            "type": "fill_in",
+            "question": "tan45\u00b0=___",
+            "answer": "1"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "trig_trailblazer"
+      }
+    },
+    {
+      "id": "10-math-7",
+      "title": "Circles",
+      "description": "Parts of circles, central and inscribed angles, arc length, and sector area.",
+      "lessons": [
+        {
+          "id": "10-math-7-1",
+          "title": "Parts of a Circle",
+          "type": "lesson",
+          "content": {
+            "explanation": "Circle parts: center, radius (center to edge), diameter (2\u00d7radius, through center), chord (segment with both endpoints on circle), secant (line through two points), tangent (line touching at exactly one point, perpendicular to radius at that point). Circumference = 2\u03c0r = \u03c0d. Area = \u03c0r\u00b2.",
+            "examples": [
+              {
+                "problem": "Radius 5. Diameter?",
+                "answer": "10",
+                "explanation": "d = 2r = 10."
+              },
+              {
+                "problem": "Radius 7. Circumference?",
+                "answer": "14\u03c0 \u2248 43.98",
+                "explanation": "C = 2\u03c0(7) = 14\u03c0."
+              },
+              {
+                "problem": "Radius 3. Area?",
+                "answer": "9\u03c0 \u2248 28.27",
+                "explanation": "A = \u03c0(3\u00b2) = 9\u03c0."
+              }
+            ],
+            "key_vocabulary": [
+              "radius",
+              "diameter",
+              "chord",
+              "secant",
+              "tangent",
+              "circumference",
+              "area"
+            ],
+            "real_world": "Wheels, clocks, and pizzas are all circles with practical applications."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Diameter=12. Radius=___",
+              "answer": "6",
+              "hint": "r=d/2=6."
+            },
+            {
+              "type": "fill_in",
+              "question": "Radius=10. Circumference=___\u03c0",
+              "answer": "20",
+              "hint": "C=2\u03c0r=20\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Radius=4. Area=___\u03c0",
+              "answer": "16",
+              "hint": "A=\u03c0r\u00b2=16\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "A tangent is perpendicular to the radius at the point of tangency.",
+              "answer": "true",
+              "hint": "Always 90\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Diameter=20. Area=___\u03c0",
+              "answer": "100",
+              "hint": "r=10. A=100\u03c0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A chord that passes through the center is a:",
+              "options": [
+                "Radius",
+                "Diameter",
+                "Secant",
+                "Tangent"
+              ],
+              "correct": 1,
+              "hint": "Diameter goes through center."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-7-2",
+          "title": "Central and Inscribed Angles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Central angle: vertex at center, measure = intercepted arc. Inscribed angle: vertex on circle, measure = HALF the intercepted arc. So inscribed angle = central angle / 2 for the same arc. An inscribed angle in a semicircle = 90\u00b0.",
+            "examples": [
+              {
+                "problem": "Central angle = 80\u00b0. Arc?",
+                "answer": "80\u00b0",
+                "explanation": "Central angle = arc."
+              },
+              {
+                "problem": "Arc = 120\u00b0. Inscribed angle?",
+                "answer": "60\u00b0",
+                "explanation": "Inscribed = arc/2 = 60\u00b0."
+              },
+              {
+                "problem": "Inscribed angle in semicircle (arc 180\u00b0)?",
+                "answer": "90\u00b0",
+                "explanation": "180\u00b0/2 = 90\u00b0."
+              }
+            ],
+            "key_vocabulary": [
+              "central angle",
+              "inscribed angle",
+              "intercepted arc",
+              "semicircle",
+              "Thales' theorem"
+            ],
+            "real_world": "Satellite dishes use the angle properties of circles to focus signals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Central angle for 100\u00b0 arc: ___\u00b0",
+              "answer": "100",
+              "hint": "Central = arc."
+            },
+            {
+              "type": "fill_in",
+              "question": "Inscribed angle for 80\u00b0 arc: ___\u00b0",
+              "answer": "40",
+              "hint": "Inscribed = arc/2."
+            },
+            {
+              "type": "fill_in",
+              "question": "Inscribed angle = 35\u00b0. Arc = ___\u00b0",
+              "answer": "70",
+              "hint": "Arc = 2 \u00d7 inscribed."
+            },
+            {
+              "type": "fill_in",
+              "question": "Inscribed angle in semicircle = ___\u00b0",
+              "answer": "90",
+              "hint": "Always 90\u00b0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Central angle is ___ the inscribed angle for same arc:",
+              "options": [
+                "Half",
+                "Equal to",
+                "Double",
+                "Triple"
+              ],
+              "correct": 2,
+              "hint": "Central = 2 \u00d7 inscribed."
+            },
+            {
+              "type": "fill_in",
+              "question": "Central=140\u00b0. Inscribed angle for same arc=___\u00b0",
+              "answer": "70",
+              "hint": "140/2=70."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-7-3",
+          "title": "Arc Length and Sector Area",
+          "type": "lesson",
+          "content": {
+            "explanation": "Arc length = (\u03b8/360\u00b0) \u00d7 2\u03c0r = (\u03b8/360\u00b0) \u00d7 circumference. Sector area = (\u03b8/360\u00b0) \u00d7 \u03c0r\u00b2 = (\u03b8/360\u00b0) \u00d7 total area. \u03b8 is the central angle in degrees. Think of it as a fraction of the whole circle.",
+            "examples": [
+              {
+                "problem": "r=6, \u03b8=90\u00b0. Arc length?",
+                "answer": "3\u03c0",
+                "explanation": "(90/360)\u00d72\u03c0(6)=(1/4)(12\u03c0)=3\u03c0."
+              },
+              {
+                "problem": "r=10, \u03b8=36\u00b0. Sector area?",
+                "answer": "10\u03c0",
+                "explanation": "(36/360)\u00d7\u03c0(100)=(1/10)(100\u03c0)=10\u03c0."
+              },
+              {
+                "problem": "r=8, \u03b8=180\u00b0. Arc length?",
+                "answer": "8\u03c0",
+                "explanation": "(180/360)\u00d72\u03c0(8)=(1/2)(16\u03c0)=8\u03c0."
+              }
+            ],
+            "key_vocabulary": [
+              "arc length",
+              "sector",
+              "central angle",
+              "fraction of circle"
+            ],
+            "real_world": "Pizza slices are sectors. A quarter of a pizza is a 90\u00b0 sector."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "r=4, \u03b8=90\u00b0. Arc length=___\u03c0",
+              "answer": "2",
+              "hint": "(1/4)\u00d72\u03c0(4)=2\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "r=6, \u03b8=60\u00b0. Sector area=___\u03c0",
+              "answer": "6",
+              "hint": "(60/360)\u00d7\u03c0(36)=(1/6)(36\u03c0)=6\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "r=10, \u03b8=180\u00b0. Arc length=___\u03c0",
+              "answer": "10",
+              "hint": "(1/2)\u00d72\u03c0(10)=10\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "r=5, \u03b8=72\u00b0. Sector area=___\u03c0",
+              "answer": "5",
+              "hint": "(72/360)\u00d725\u03c0=(1/5)(25\u03c0)=5\u03c0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A full circle has central angle:",
+              "options": [
+                "180\u00b0",
+                "270\u00b0",
+                "360\u00b0",
+                "90\u00b0"
+              ],
+              "correct": 2,
+              "hint": "Full circle = 360\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "r=3, \u03b8=120\u00b0. Arc length=___\u03c0",
+              "answer": "2",
+              "hint": "(120/360)\u00d72\u03c0(3)=(1/3)(6\u03c0)=2\u03c0."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-7-4",
+          "title": "Tangent Lines and Chord Properties",
+          "type": "lesson",
+          "content": {
+            "explanation": "Tangent-radius: tangent \u22a5 radius at point of tangency. Two tangent segments from the same external point are equal. Chord properties: perpendicular from center to chord bisects the chord. Equal chords are equidistant from center.",
+            "examples": [
+              {
+                "problem": "Tangent from point P to circle, radius=5, distance to center=13. Tangent length?",
+                "answer": "12",
+                "explanation": "5\u00b2+t\u00b2=13\u00b2, t\u00b2=144, t=12."
+              },
+              {
+                "problem": "Two tangents from P: PA=8, PB=?",
+                "answer": "8",
+                "explanation": "Tangent segments from same point are equal."
+              },
+              {
+                "problem": "Chord 10cm, distance from center 12cm. Radius?",
+                "answer": "13",
+                "explanation": "Half chord=5. 5\u00b2+12\u00b2=169. r=13."
+              }
+            ],
+            "key_vocabulary": [
+              "tangent",
+              "perpendicular",
+              "bisect",
+              "equidistant",
+              "tangent segment"
+            ],
+            "real_world": "Gears in machinery rely on tangent line properties for smooth rotation."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Radius=3, distance to center=5. Tangent length=___",
+              "answer": "4",
+              "hint": "3\u00b2+t\u00b2=5\u00b2, t\u00b2=16, t=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "Two tangents from P: one is 7. Other=___",
+              "answer": "7",
+              "hint": "Equal from same point."
+            },
+            {
+              "type": "fill_in",
+              "question": "A tangent is perpendicular to the radius.",
+              "answer": "true",
+              "hint": "Always at point of tangency."
+            },
+            {
+              "type": "fill_in",
+              "question": "Chord=24, perpendicular from center bisects it. Half=___",
+              "answer": "12",
+              "hint": "24/2=12."
+            },
+            {
+              "type": "fill_in",
+              "question": "Half-chord=8, distance from center=6. Radius=___",
+              "answer": "10",
+              "hint": "8\u00b2+6\u00b2=100, r=10."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Perpendicular from center to chord:",
+              "options": [
+                "Bisects chord",
+                "Doubles chord",
+                "Removes chord",
+                "Extends chord"
+              ],
+              "correct": 0,
+              "hint": "Bisects (cuts in half)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Radius=7. Circumference=___\u03c0",
+            "answer": "14"
+          },
+          {
+            "type": "fill_in",
+            "question": "Inscribed angle for 100\u00b0 arc: ___\u00b0",
+            "answer": "50"
+          },
+          {
+            "type": "fill_in",
+            "question": "r=5, \u03b8=90\u00b0. Sector area=___\u03c0",
+            "answer": "6.25"
+          },
+          {
+            "type": "fill_in",
+            "question": "Radius=5, distance=13. Tangent=___",
+            "answer": "12"
+          },
+          {
+            "type": "fill_in",
+            "question": "Radius=6. Area=___\u03c0",
+            "answer": "36"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "circle_scholar"
+      }
+    },
+    {
+      "id": "10-math-8",
+      "title": "Area, Surface Area, and Volume",
+      "description": "Calculate area, surface area, and volume for various 2D and 3D figures.",
+      "lessons": [
+        {
+          "id": "10-math-8-1",
+          "title": "Area of Polygons",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rectangle: A=lw. Triangle: A=\u00bdbh. Parallelogram: A=bh. Trapezoid: A=\u00bd(b\u2081+b\u2082)h. Regular polygon: A=\u00bd(apothem)(perimeter). Composite figures: break into simpler shapes and add/subtract areas.",
+            "examples": [
+              {
+                "problem": "Triangle: b=10, h=6",
+                "answer": "30",
+                "explanation": "\u00bd(10)(6)=30."
+              },
+              {
+                "problem": "Trapezoid: b\u2081=5, b\u2082=9, h=4",
+                "answer": "28",
+                "explanation": "\u00bd(5+9)(4)=\u00bd(14)(4)=28."
+              },
+              {
+                "problem": "Parallelogram: b=8, h=5",
+                "answer": "40",
+                "explanation": "8\u00d75=40."
+              }
+            ],
+            "key_vocabulary": [
+              "area",
+              "base",
+              "height",
+              "apothem",
+              "composite figure",
+              "trapezoid",
+              "parallelogram"
+            ],
+            "real_world": "Landscapers calculate area to determine how much sod or fertilizer to buy."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Triangle b=12, h=8. Area=___",
+              "answer": "48",
+              "hint": "\u00bd(12)(8)=48."
+            },
+            {
+              "type": "fill_in",
+              "question": "Parallelogram b=7, h=9. Area=___",
+              "answer": "63",
+              "hint": "7\u00d79=63."
+            },
+            {
+              "type": "fill_in",
+              "question": "Trapezoid b\u2081=6, b\u2082=10, h=5. Area=___",
+              "answer": "40",
+              "hint": "\u00bd(16)(5)=40."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rectangle 15\u00d78. Area=___",
+              "answer": "120",
+              "hint": "15\u00d78=120."
+            },
+            {
+              "type": "fill_in",
+              "question": "Square side=9. Area=___",
+              "answer": "81",
+              "hint": "9\u00b2=81."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Triangle area formula:",
+              "options": [
+                "bh",
+                "\u00bdbh",
+                "2bh",
+                "b+h"
+              ],
+              "correct": 1,
+              "hint": "A=\u00bdbh."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-8-2",
+          "title": "Surface Area of Prisms and Cylinders",
+          "type": "lesson",
+          "content": {
+            "explanation": "Prism SA = 2(base area) + (perimeter of base)(height). Cylinder SA = 2\u03c0r\u00b2 + 2\u03c0rh. The lateral area is the 'wrapper' around the sides. Think of unfolding the 3D shape into a flat net.",
+            "examples": [
+              {
+                "problem": "Rectangular prism 3\u00d74\u00d75",
+                "answer": "94",
+                "explanation": "2(12+15+20)=2(47)=94."
+              },
+              {
+                "problem": "Cylinder r=3, h=10",
+                "answer": "78\u03c0",
+                "explanation": "2\u03c0(9)+2\u03c0(3)(10)=18\u03c0+60\u03c0=78\u03c0."
+              },
+              {
+                "problem": "Cube side=6",
+                "answer": "216",
+                "explanation": "6(36)=216."
+              }
+            ],
+            "key_vocabulary": [
+              "surface area",
+              "prism",
+              "cylinder",
+              "lateral area",
+              "net"
+            ],
+            "real_world": "Gift wrapping requires calculating surface area to cut enough paper."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Cube side=5. SA=___",
+              "answer": "150",
+              "hint": "6(25)=150."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rectangular prism 2\u00d73\u00d74. SA=___",
+              "answer": "52",
+              "hint": "2(6+8+12)=52."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cylinder r=2, h=7. SA=___\u03c0",
+              "answer": "36",
+              "hint": "2(4)\u03c0+2(2)(7)\u03c0=8\u03c0+28\u03c0=36\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cylinder r=5, h=3. Lateral area=___\u03c0",
+              "answer": "30",
+              "hint": "2\u03c0rh=2\u03c0(5)(3)=30\u03c0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "SA of a cube with side s:",
+              "options": [
+                "4s\u00b2",
+                "5s\u00b2",
+                "6s\u00b2",
+                "s\u00b3"
+              ],
+              "correct": 2,
+              "hint": "6 faces, each s\u00b2."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rectangular prism 1\u00d72\u00d73. SA=___",
+              "answer": "22",
+              "hint": "2(2+3+6)=22."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-8-3",
+          "title": "Volume of Prisms and Cylinders",
+          "type": "lesson",
+          "content": {
+            "explanation": "Volume = Base area \u00d7 height. Prism: V = Bh where B is the area of the base. Cylinder: V = \u03c0r\u00b2h. Cube: V = s\u00b3. These all follow the same principle: base area times height.",
+            "examples": [
+              {
+                "problem": "Rectangular prism 4\u00d75\u00d76",
+                "answer": "120",
+                "explanation": "4\u00d75\u00d76=120."
+              },
+              {
+                "problem": "Cylinder r=3, h=8",
+                "answer": "72\u03c0",
+                "explanation": "\u03c0(9)(8)=72\u03c0."
+              },
+              {
+                "problem": "Triangular prism: triangle base 6, height 4, prism height 10",
+                "answer": "120",
+                "explanation": "B=\u00bd(6)(4)=12. V=12(10)=120."
+              }
+            ],
+            "key_vocabulary": [
+              "volume",
+              "prism",
+              "cylinder",
+              "base area",
+              "cubic units"
+            ],
+            "real_world": "Aquarium designers calculate volume to know how much water is needed."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Cube side=4. V=___",
+              "answer": "64",
+              "hint": "4\u00b3=64."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cylinder r=5, h=6. V=___\u03c0",
+              "answer": "150",
+              "hint": "\u03c0(25)(6)=150\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rectangular prism 3\u00d75\u00d78. V=___",
+              "answer": "120",
+              "hint": "3\u00d75\u00d78=120."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cylinder r=2, h=10. V=___\u03c0",
+              "answer": "40",
+              "hint": "\u03c0(4)(10)=40\u03c0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Volume of cube with side 10:",
+              "options": [
+                "100",
+                "600",
+                "1000",
+                "10000"
+              ],
+              "correct": 2,
+              "hint": "10\u00b3=1000."
+            },
+            {
+              "type": "fill_in",
+              "question": "Triangular prism: B=15, h=8. V=___",
+              "answer": "120",
+              "hint": "15\u00d78=120."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-math-8-4",
+          "title": "Volume of Pyramids, Cones, and Spheres",
+          "type": "lesson",
+          "content": {
+            "explanation": "Pyramid: V = \u2153Bh. Cone: V = \u2153\u03c0r\u00b2h. Sphere: V = (4/3)\u03c0r\u00b3. SA of sphere = 4\u03c0r\u00b2. Pyramids and cones are \u2153 of their prism/cylinder counterparts.",
+            "examples": [
+              {
+                "problem": "Cone r=3, h=7",
+                "answer": "21\u03c0",
+                "explanation": "\u2153\u03c0(9)(7)=21\u03c0."
+              },
+              {
+                "problem": "Sphere r=6",
+                "answer": "288\u03c0",
+                "explanation": "(4/3)\u03c0(216)=288\u03c0."
+              },
+              {
+                "problem": "Square pyramid: base 10\u00d710, h=12",
+                "answer": "400",
+                "explanation": "\u2153(100)(12)=400."
+              }
+            ],
+            "key_vocabulary": [
+              "pyramid",
+              "cone",
+              "sphere",
+              "one-third",
+              "four-thirds"
+            ],
+            "real_world": "The Egyptian pyramids, ice cream cones, and basketballs are all these shapes."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Cone r=6, h=10. V=___\u03c0",
+              "answer": "120",
+              "hint": "\u2153\u03c0(36)(10)=120\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sphere r=3. V=___\u03c0",
+              "answer": "36",
+              "hint": "(4/3)\u03c0(27)=36\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Square pyramid base=6, h=9. V=___",
+              "answer": "108",
+              "hint": "\u2153(36)(9)=108."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sphere r=2. SA=___\u03c0",
+              "answer": "16",
+              "hint": "4\u03c0(4)=16\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cone r=4, h=9. V=___\u03c0",
+              "answer": "48",
+              "hint": "\u2153\u03c0(16)(9)=48\u03c0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Cone volume compared to cylinder (same r,h):",
+              "options": [
+                "Same",
+                "Double",
+                "One-third",
+                "Half"
+              ],
+              "correct": 2,
+              "hint": "Cone = \u2153 cylinder."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-math-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Trapezoid b\u2081=4, b\u2082=10, h=6. Area=___",
+            "answer": "42"
+          },
+          {
+            "type": "fill_in",
+            "question": "Cylinder r=3, h=5. V=___\u03c0",
+            "answer": "45"
+          },
+          {
+            "type": "fill_in",
+            "question": "Sphere r=5. V=___\u03c0",
+            "answer": "500/3"
+          },
+          {
+            "type": "fill_in",
+            "question": "Cube side=7. SA=___",
+            "answer": "294"
+          },
+          {
+            "type": "fill_in",
+            "question": "Cone r=3, h=12. V=___\u03c0",
+            "answer": "36"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "3d_geometry_guru"
+      }
+    }
+  ]
+}

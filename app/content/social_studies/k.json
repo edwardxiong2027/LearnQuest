@@ -1,0 +1,1682 @@
+{
+  "grade": 0,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "k-social-1",
+      "title": "All About Me and My Family",
+      "description": "Learn about families, the roles people play, traditions we share, and how to make a family tree.",
+      "lessons": [
+        {
+          "id": "k-social-1-1",
+          "title": "What Is a Family?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A family is a group of people who care about each other. Families can be big or small. Some families have a mom and a dad. Some have one parent. Some children live with grandparents, aunts, uncles, or other caring adults. No matter what a family looks like, the most important thing is that family members love and help each other. Every family is special!",
+            "examples": [
+              {
+                "problem": "Who can be in a family?",
+                "answer": "Parents, grandparents, brothers, sisters, aunts, uncles, and other caring people.",
+                "explanation": "Families come in all shapes and sizes. What matters most is that family members care for one another."
+              },
+              {
+                "problem": "What do families do together?",
+                "answer": "Eat meals, play, celebrate holidays, and help each other.",
+                "explanation": "Families share special times together. They also help each other when things are hard."
+              }
+            ],
+            "key_vocabulary": ["family", "parents", "siblings", "grandparents", "relatives"],
+            "real_world": "Think about your own family. Who lives in your home? Who are the people who take care of you?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a family?",
+              "options": ["A group of people who care about each other", "Only people who look the same", "People who live far away", "Only children"],
+              "correct": 0,
+              "hint": "Think about what makes people a family — is it how they look or how they feel about each other?"
+            },
+            {
+              "type": "true_false",
+              "question": "All families look exactly the same.",
+              "answer": "false",
+              "hint": "Think about your friends' families. Do they all have the same number of people?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which person could be part of a family?",
+              "options": ["Only a mom and dad", "Only children", "A grandparent who takes care of you", "Only people with the same last name"],
+              "correct": 2,
+              "hint": "Remember, families can include many different people who care about each other."
+            },
+            {
+              "type": "true_false",
+              "question": "Family members help and care for each other.",
+              "answer": "true",
+              "hint": "What do the people in your home do for you?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is something families do together?",
+              "options": ["Ignore each other", "Eat meals together", "Never talk", "Live in different houses always"],
+              "correct": 1,
+              "hint": "Think about the things you do with your family at home."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-1-2",
+          "title": "Family Roles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every person in a family has a role, or a special job. Parents and guardians take care of children. They make sure everyone is safe, fed, and healthy. Brothers and sisters are called siblings. Siblings can play together and help each other. Grandparents are the parents of your parents! They often share stories and wisdom. Everyone in a family can help by doing chores like picking up toys, setting the table, or feeding a pet.",
+            "examples": [
+              {
+                "problem": "What is the role of a parent?",
+                "answer": "To take care of children and keep them safe.",
+                "explanation": "Parents and guardians have the big job of making sure their family is healthy and happy."
+              },
+              {
+                "problem": "What can children do to help the family?",
+                "answer": "Pick up toys, help set the table, and be kind to siblings.",
+                "explanation": "Even young children have an important role — they can help around the house and be kind to others."
+              }
+            ],
+            "key_vocabulary": ["role", "parent", "guardian", "sibling", "chores", "responsibility"],
+            "real_world": "What is one job you do to help your family at home? Maybe you put away your shoes or help feed a pet."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a role?",
+              "options": ["A type of bread", "A special job or part someone plays", "A game", "A kind of animal"],
+              "correct": 1,
+              "hint": "Think about what each person in a family does. That is their ___."
+            },
+            {
+              "type": "true_false",
+              "question": "Only grown-ups have roles in a family.",
+              "answer": "false",
+              "hint": "Can children help around the house too?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do parents do?",
+              "options": ["Play video games all day", "Take care of children and keep them safe", "Go to the playground", "Sleep all the time"],
+              "correct": 1,
+              "hint": "Think about the things your parent or guardian does for you every day."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who are siblings?",
+              "options": ["Your teachers", "Brothers and sisters", "Your neighbors", "Your pets"],
+              "correct": 1,
+              "hint": "This word means brothers and sisters."
+            },
+            {
+              "type": "true_false",
+              "question": "Children can help their family by doing chores.",
+              "answer": "true",
+              "hint": "Is picking up toys a way to help?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-1-3",
+          "title": "Family Traditions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A tradition is something special that a family does again and again, often at the same time each year. Some families have a big dinner on holidays. Some families sing songs together. Some families tell stories before bedtime. Traditions help families feel close to each other. They can come from your culture, your religion, or just things your family enjoys. Traditions are passed down from grandparents to parents to children.",
+            "examples": [
+              {
+                "problem": "What is a tradition?",
+                "answer": "Something special a family does over and over again.",
+                "explanation": "Traditions are repeated activities that bring families together and create happy memories."
+              },
+              {
+                "problem": "Give an example of a family tradition.",
+                "answer": "Having a big dinner on Thanksgiving.",
+                "explanation": "Many families gather together for a special meal on holidays. This is a tradition they repeat every year."
+              }
+            ],
+            "key_vocabulary": ["tradition", "culture", "celebration", "custom", "heritage"],
+            "real_world": "Does your family do something special for birthdays or holidays? That is a tradition!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a tradition?",
+              "options": ["Something you only do once", "Something special a family does again and again", "A type of food", "A kind of house"],
+              "correct": 1,
+              "hint": "Traditions happen more than once — families repeat them."
+            },
+            {
+              "type": "true_false",
+              "question": "All families have the exact same traditions.",
+              "answer": "false",
+              "hint": "Does every family celebrate holidays the same way?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a family tradition?",
+              "options": ["Brushing your teeth", "Going to a store once", "Having a special dinner every Thanksgiving", "Taking a math test"],
+              "correct": 2,
+              "hint": "A tradition is something special that happens again and again."
+            },
+            {
+              "type": "true_false",
+              "question": "Traditions can be passed down from grandparents to parents to children.",
+              "answer": "true",
+              "hint": "Think about things your grandparents might have done that your family still does."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why are traditions important?",
+              "options": ["They cost a lot of money", "They help families feel close to each other", "They are boring", "They only happen at school"],
+              "correct": 1,
+              "hint": "How do traditions make family members feel?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-1-4",
+          "title": "My Family Tree",
+          "type": "lesson",
+          "content": {
+            "explanation": "A family tree is a special picture that shows the people in your family. It looks like a tree! You are at the bottom. Your parents are above you. Your grandparents are above your parents. A family tree helps you see how everyone in your family is connected. It shows where you came from. Some family trees have many branches with aunts, uncles, and cousins too!",
+            "examples": [
+              {
+                "problem": "What is a family tree?",
+                "answer": "A picture that shows how family members are connected.",
+                "explanation": "A family tree is like a drawing or chart. It uses lines to show how people in a family are related to each other."
+              },
+              {
+                "problem": "Who goes at the top of a family tree?",
+                "answer": "Grandparents (or the oldest family members).",
+                "explanation": "The oldest family members go near the top, and the youngest go near the bottom."
+              }
+            ],
+            "key_vocabulary": ["family tree", "generation", "ancestors", "relatives", "connected"],
+            "real_world": "Try drawing your own family tree! Start with yourself at the bottom, then add your parents above you, and your grandparents above them."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a family tree show?",
+              "options": ["What your family likes to eat", "How family members are connected", "Where trees grow", "What games to play"],
+              "correct": 1,
+              "hint": "A family tree is about people, not real trees!"
+            },
+            {
+              "type": "true_false",
+              "question": "A family tree is a real tree you plant in the ground.",
+              "answer": "false",
+              "hint": "Is a family tree made of wood and leaves, or is it a picture?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who goes near the top of a family tree?",
+              "options": ["You", "Your pets", "Your grandparents", "Your friends"],
+              "correct": 2,
+              "hint": "The oldest family members go near the top."
+            },
+            {
+              "type": "true_false",
+              "question": "You would go near the bottom of your family tree.",
+              "answer": "true",
+              "hint": "Are you one of the youngest people in your family?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are the parents of your parents called?",
+              "options": ["Siblings", "Cousins", "Grandparents", "Neighbors"],
+              "correct": 2,
+              "hint": "Your mom's mom or your dad's dad is your grand___."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is a family?",
+            "options": ["Only people with the same last name", "A group of people who care about each other", "Only people who look alike", "People who live in different houses"],
+            "correct": 1,
+            "hint": "Think about what makes a family special."
+          },
+          {
+            "type": "true_false",
+            "question": "Everyone in a family has a role or job.",
+            "answer": "true",
+            "hint": "Do parents have jobs? Do children help too?"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is a tradition?",
+            "options": ["A type of pet", "Something special a family does again and again", "A school subject", "A kind of toy"],
+            "correct": 1,
+            "hint": "Traditions are repeated special activities."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A family tree shows how family members are ___.",
+            "options": ["Tall", "Connected", "Old", "Fast"],
+            "correct": 1,
+            "hint": "A family tree shows relationships between people."
+          },
+          {
+            "type": "true_false",
+            "question": "All families are exactly the same.",
+            "answer": "false",
+            "hint": "Think about your friends' families. Are they all the same?"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "family_explorer"
+      }
+    },
+    {
+      "id": "k-social-2",
+      "title": "My School and Community",
+      "description": "Learn about school rules, the people who help in our community, and what makes a neighborhood special.",
+      "lessons": [
+        {
+          "id": "k-social-2-1",
+          "title": "School Rules",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rules are instructions that tell us what to do and what not to do. At school, rules help keep everyone safe and happy. Some school rules are: raise your hand before speaking, walk in the hallways, keep your hands to yourself, and listen when the teacher is talking. Rules are important because without them, things would be messy and unsafe. When everyone follows the rules, school is a great place to learn and play!",
+            "examples": [
+              {
+                "problem": "Why do we have rules at school?",
+                "answer": "To keep everyone safe and help us learn.",
+                "explanation": "Rules make sure everyone can have a good day at school without getting hurt or being distracted."
+              },
+              {
+                "problem": "Name a school rule.",
+                "answer": "Raise your hand before speaking.",
+                "explanation": "This rule helps everyone get a turn to talk and makes it easier to hear what people say."
+              }
+            ],
+            "key_vocabulary": ["rules", "safe", "respect", "responsibility", "cooperate"],
+            "real_world": "Think about the rules in your classroom. What is one rule you follow every day?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why do we have rules at school?",
+              "options": ["To be mean", "To keep everyone safe and happy", "To make school boring", "To keep everyone quiet forever"],
+              "correct": 1,
+              "hint": "Rules help make school a good place for everyone."
+            },
+            {
+              "type": "true_false",
+              "question": "Running in the hallway is a good school rule to follow.",
+              "answer": "false",
+              "hint": "Is running in the hallway safe?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a good school rule?",
+              "options": ["Shout whenever you want", "Keep your hands to yourself", "Run in the halls", "Take other people's things"],
+              "correct": 1,
+              "hint": "Good rules keep people safe and show respect."
+            },
+            {
+              "type": "true_false",
+              "question": "Raising your hand before speaking is a school rule.",
+              "answer": "true",
+              "hint": "Think about what your teacher asks you to do before you talk in class."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens when everyone follows the rules?",
+              "options": ["School is boring", "Everyone is sad", "School is safe and fun", "Nobody learns anything"],
+              "correct": 2,
+              "hint": "Rules help make school a good place."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-2-2",
+          "title": "Community Helpers",
+          "type": "lesson",
+          "content": {
+            "explanation": "A community is the place where you live, work, and play. There are many people in the community whose job is to help others. Police officers keep people safe. Firefighters put out fires and help in emergencies. Doctors and nurses help people who are sick or hurt. Teachers help children learn. Mail carriers deliver letters and packages to your home. Each community helper has an important job that makes our community a better place.",
+            "examples": [
+              {
+                "problem": "What does a firefighter do?",
+                "answer": "A firefighter puts out fires and helps in emergencies.",
+                "explanation": "Firefighters are brave community helpers. They rush to help when there is a fire or when someone is in danger."
+              },
+              {
+                "problem": "What does a mail carrier do?",
+                "answer": "A mail carrier delivers letters and packages.",
+                "explanation": "Mail carriers bring mail to homes and businesses every day, rain or shine."
+              }
+            ],
+            "key_vocabulary": ["community", "community helper", "police officer", "firefighter", "emergency"],
+            "real_world": "Who are some community helpers you have seen in your neighborhood? Have you ever waved at a mail carrier or seen a fire truck?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who helps put out fires?",
+              "options": ["A teacher", "A mail carrier", "A firefighter", "A chef"],
+              "correct": 2,
+              "hint": "This person rides on a big red truck."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does a police officer do?",
+              "options": ["Bake bread", "Keep people safe", "Fly airplanes", "Build houses"],
+              "correct": 1,
+              "hint": "Police officers help protect the community."
+            },
+            {
+              "type": "true_false",
+              "question": "A doctor helps people who are sick or hurt.",
+              "answer": "true",
+              "hint": "Where do you go when you are not feeling well?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who delivers letters and packages to your home?",
+              "options": ["A firefighter", "A mail carrier", "A doctor", "A farmer"],
+              "correct": 1,
+              "hint": "This person brings mail to your mailbox."
+            },
+            {
+              "type": "true_false",
+              "question": "Teachers are community helpers.",
+              "answer": "true",
+              "hint": "Teachers help children learn — is that an important job?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-2-3",
+          "title": "My Neighborhood",
+          "type": "lesson",
+          "content": {
+            "explanation": "A neighborhood is the area around your home. It is part of your community. In your neighborhood, you might see houses, apartments, stores, parks, and schools. Neighbors are the people who live near you. Good neighbors are friendly and helpful. They wave hello, share, and look out for each other. Every neighborhood is different, but they all have people who live and work together.",
+            "examples": [
+              {
+                "problem": "What is a neighborhood?",
+                "answer": "The area around your home where people live and work.",
+                "explanation": "Your neighborhood includes the streets, buildings, and people near where you live."
+              },
+              {
+                "problem": "What might you find in a neighborhood?",
+                "answer": "Houses, stores, parks, and schools.",
+                "explanation": "Neighborhoods have many different places where people live, shop, play, and learn."
+              }
+            ],
+            "key_vocabulary": ["neighborhood", "neighbor", "community", "apartment", "block"],
+            "real_world": "Look outside your window. What do you see in your neighborhood? Maybe you see trees, houses, or a park."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a neighborhood?",
+              "options": ["A country far away", "The area around your home", "A toy store", "A type of animal"],
+              "correct": 1,
+              "hint": "Think about the place where you live and the things near your home."
+            },
+            {
+              "type": "true_false",
+              "question": "Neighbors are people who live near you.",
+              "answer": "true",
+              "hint": "Think about the people who live on your street."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What might you find in a neighborhood?",
+              "options": ["An ocean", "A volcano", "A park and houses", "A jungle"],
+              "correct": 2,
+              "hint": "Think about what you see near your home."
+            },
+            {
+              "type": "true_false",
+              "question": "Every neighborhood looks exactly the same.",
+              "answer": "false",
+              "hint": "Do all neighborhoods have the same houses and stores?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does a good neighbor do?",
+              "options": ["Shout at people", "Is friendly and helpful", "Ignores everyone", "Breaks things"],
+              "correct": 1,
+              "hint": "Good neighbors treat other people well."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-2-4",
+          "title": "Places in Our Community",
+          "type": "lesson",
+          "content": {
+            "explanation": "Communities have many special places. A library is where you can borrow books for free. A grocery store is where people buy food. A hospital is where doctors help people who are very sick or hurt. A fire station is where firefighters work. A post office is where you mail letters. A school is where children learn. All these places help the community work well.",
+            "examples": [
+              {
+                "problem": "What is a library?",
+                "answer": "A place where you can borrow books for free.",
+                "explanation": "Libraries have books, computers, and fun activities. You can get a library card and borrow books to read at home."
+              },
+              {
+                "problem": "What happens at a hospital?",
+                "answer": "Doctors and nurses help people who are sick or hurt.",
+                "explanation": "Hospitals are important community places where people get medical care."
+              }
+            ],
+            "key_vocabulary": ["library", "hospital", "fire station", "post office", "grocery store"],
+            "real_world": "Have you visited a library or a post office? What did you see there?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where can you borrow books for free?",
+              "options": ["A grocery store", "A fire station", "A library", "A hospital"],
+              "correct": 2,
+              "hint": "This place is full of books you can take home and read."
+            },
+            {
+              "type": "true_false",
+              "question": "A grocery store is where people buy food.",
+              "answer": "true",
+              "hint": "Think about where your family gets food."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do firefighters work?",
+              "options": ["A post office", "A library", "A grocery store", "A fire station"],
+              "correct": 3,
+              "hint": "This place has fire trucks."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where do you go to mail a letter?",
+              "options": ["A hospital", "A post office", "A school", "A park"],
+              "correct": 1,
+              "hint": "This place helps you send letters and packages."
+            },
+            {
+              "type": "true_false",
+              "question": "Schools are places where children learn.",
+              "answer": "true",
+              "hint": "What do you do at school every day?"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Why do we have rules at school?",
+            "options": ["To make school boring", "To keep everyone safe and happy", "To punish students", "Rules are not important"],
+            "correct": 1,
+            "hint": "Rules help everyone at school."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who puts out fires in our community?",
+            "options": ["Police officer", "Teacher", "Firefighter", "Librarian"],
+            "correct": 2,
+            "hint": "This helper rides a big red truck."
+          },
+          {
+            "type": "true_false",
+            "question": "A neighborhood is the area around your home.",
+            "answer": "true",
+            "hint": "What is near where you live?"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Where can you borrow books?",
+            "options": ["Fire station", "Library", "Hospital", "Post office"],
+            "correct": 1,
+            "hint": "This place has many, many books."
+          },
+          {
+            "type": "true_false",
+            "question": "All neighborhoods look exactly the same.",
+            "answer": "false",
+            "hint": "Are all neighborhoods identical?"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "community_star"
+      }
+    },
+    {
+      "id": "k-social-3",
+      "title": "Maps and Globes",
+      "description": "Discover what maps and globes are, learn about directions, and see where land and water are on Earth.",
+      "lessons": [
+        {
+          "id": "k-social-3-1",
+          "title": "What Is a Map?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A map is a drawing of a place. It shows what a place looks like from above, like a bird looking down. Maps help us find where things are. A map of your classroom might show where the desks, door, and windows are. A map of your town might show streets, parks, and schools. Maps are flat and can be put on paper or a screen. They help us find our way!",
+            "examples": [
+              {
+                "problem": "What is a map?",
+                "answer": "A drawing of a place seen from above.",
+                "explanation": "Maps show what places look like if you were flying above them like a bird."
+              },
+              {
+                "problem": "What can a map show?",
+                "answer": "Streets, buildings, parks, rivers, and other features of a place.",
+                "explanation": "Different maps show different things. A town map might show streets, while a playground map shows the swings and slides."
+              }
+            ],
+            "key_vocabulary": ["map", "above", "flat", "drawing", "location"],
+            "real_world": "Have you ever seen a map? Maybe your family used one on a trip to find where to go!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a map?",
+              "options": ["A type of hat", "A drawing of a place", "A kind of food", "A game"],
+              "correct": 1,
+              "hint": "Maps help us see what places look like."
+            },
+            {
+              "type": "true_false",
+              "question": "A map shows a place from above, like a bird looking down.",
+              "answer": "true",
+              "hint": "Imagine you could fly — what would your school look like from up high?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What can a map help you do?",
+              "options": ["Cook dinner", "Find where things are", "Ride a bike", "Feed a pet"],
+              "correct": 1,
+              "hint": "Maps help you find your way."
+            },
+            {
+              "type": "true_false",
+              "question": "Maps are always shaped like a ball.",
+              "answer": "false",
+              "hint": "Maps are usually drawn on flat paper."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A map of your classroom might show where the ___ and ___ are.",
+              "options": ["Stars and moon", "Desks and door", "Oceans and mountains", "Cars and trucks"],
+              "correct": 1,
+              "hint": "Think about what is inside your classroom."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-3-2",
+          "title": "Directions: Up, Down, Left, Right",
+          "type": "lesson",
+          "content": {
+            "explanation": "Directions help us describe where things are. The four basic directions are up, down, left, and right. On a map, up usually means north, and down usually means south. Left usually means west, and right usually means east. When someone says 'the park is to the right of the school,' they are using directions to help you find the park. Knowing directions helps us read maps and find places!",
+            "examples": [
+              {
+                "problem": "What are the four basic directions?",
+                "answer": "Up, down, left, and right.",
+                "explanation": "These simple directions help us describe where things are."
+              },
+              {
+                "problem": "On a map, which direction is usually at the top?",
+                "answer": "North (up).",
+                "explanation": "Most maps put north at the top. That means south is at the bottom, west is on the left, and east is on the right."
+              }
+            ],
+            "key_vocabulary": ["directions", "north", "south", "east", "west", "left", "right"],
+            "real_world": "Stand up and point to the right. Now point to the left. You just used directions!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "On most maps, which direction is at the top?",
+              "options": ["South", "East", "West", "North"],
+              "correct": 3,
+              "hint": "Think: 'North is at the top of the map.'"
+            },
+            {
+              "type": "true_false",
+              "question": "Directions help us describe where things are.",
+              "answer": "true",
+              "hint": "If you say 'the ball is to the left,' are you using a direction?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If north is up, what direction is down?",
+              "options": ["East", "West", "South", "North"],
+              "correct": 2,
+              "hint": "The opposite of up (north) is down, which is ___."
+            },
+            {
+              "type": "true_false",
+              "question": "On a map, left usually means east.",
+              "answer": "false",
+              "hint": "Left on a map is west, not east."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are directions used for?",
+              "options": ["Cooking", "Sleeping", "Finding where things are", "Drawing pictures"],
+              "correct": 2,
+              "hint": "Directions help us find our way."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-3-3",
+          "title": "Land and Water",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth has both land and water. Land is the solid ground where people, animals, and plants live. Water is found in oceans, rivers, lakes, and streams. On a map, land is usually shown in green or brown, and water is usually shown in blue. There is more water on Earth than land! The biggest areas of water are called oceans. The biggest areas of land are called continents.",
+            "examples": [
+              {
+                "problem": "What color shows water on a map?",
+                "answer": "Blue.",
+                "explanation": "On most maps, blue stands for water — oceans, rivers, and lakes."
+              },
+              {
+                "problem": "Is there more land or water on Earth?",
+                "answer": "More water.",
+                "explanation": "About 70% of Earth's surface is covered by water. That is a lot of water!"
+              }
+            ],
+            "key_vocabulary": ["land", "water", "ocean", "continent", "river", "lake"],
+            "real_world": "Next time you see a map, look for the blue parts. Those are oceans, lakes, and rivers!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "On a map, what color usually shows water?",
+              "options": ["Red", "Green", "Blue", "Yellow"],
+              "correct": 2,
+              "hint": "Water in real life often looks blue."
+            },
+            {
+              "type": "true_false",
+              "question": "There is more water than land on Earth.",
+              "answer": "true",
+              "hint": "Earth is sometimes called the 'Blue Planet' because of all the water."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the biggest area of water called?",
+              "options": ["A pond", "A puddle", "An ocean", "A bathtub"],
+              "correct": 2,
+              "hint": "This is a really, really big body of water."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What color usually shows land on a map?",
+              "options": ["Blue", "Green or brown", "White", "Pink"],
+              "correct": 1,
+              "hint": "Think about the color of grass and dirt."
+            },
+            {
+              "type": "true_false",
+              "question": "A river is a body of water.",
+              "answer": "true",
+              "hint": "Rivers are long flowing streams of water."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-3-4",
+          "title": "What Is a Globe?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A globe is a round model of the Earth. It is shaped like a ball because the Earth is shaped like a ball! A globe shows all the land and water on Earth. You can spin a globe to see different parts of the world. Globes are different from maps because maps are flat and globes are round. A globe shows the true shape of the Earth better than a flat map can.",
+            "examples": [
+              {
+                "problem": "What shape is a globe?",
+                "answer": "Round, like a ball.",
+                "explanation": "A globe is round because it is a model of Earth, and Earth is round."
+              },
+              {
+                "problem": "How is a globe different from a map?",
+                "answer": "A globe is round and a map is flat.",
+                "explanation": "Both show land and water, but a globe shows the round shape of Earth while a map is flat."
+              }
+            ],
+            "key_vocabulary": ["globe", "round", "model", "Earth", "spin"],
+            "real_world": "Have you ever seen a globe in your classroom or at a library? Try spinning it and pointing to where you think you live!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What shape is a globe?",
+              "options": ["Square", "Flat", "Round like a ball", "Triangle"],
+              "correct": 2,
+              "hint": "Think about the shape of the Earth."
+            },
+            {
+              "type": "true_false",
+              "question": "A globe is a round model of the Earth.",
+              "answer": "true",
+              "hint": "Globes look like mini versions of our planet."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How is a globe different from a map?",
+              "options": ["A globe is flat and a map is round", "A globe is round and a map is flat", "They are exactly the same", "A globe only shows water"],
+              "correct": 1,
+              "hint": "Think about the shapes — one is flat and one is round."
+            },
+            {
+              "type": "true_false",
+              "question": "You can spin a globe to see different parts of the world.",
+              "answer": "true",
+              "hint": "Globes sit on a stand and can turn."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is a globe round?",
+              "options": ["Because all toys are round", "Because the Earth is round", "Because maps are round", "Because water is round"],
+              "correct": 1,
+              "hint": "A globe is meant to look like the real Earth."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is a map?",
+            "options": ["A ball", "A drawing of a place", "A type of game", "A kind of book"],
+            "correct": 1,
+            "hint": "Maps show what places look like."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "On most maps, north is at the ___.",
+            "options": ["Bottom", "Left", "Right", "Top"],
+            "correct": 3,
+            "hint": "North is usually at the ___ of a map."
+          },
+          {
+            "type": "true_false",
+            "question": "Blue on a map usually means water.",
+            "answer": "true",
+            "hint": "What color is the ocean?"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What shape is a globe?",
+            "options": ["Flat", "Square", "Round", "Triangle"],
+            "correct": 2,
+            "hint": "A globe is shaped like the Earth."
+          },
+          {
+            "type": "true_false",
+            "question": "There is more land than water on Earth.",
+            "answer": "false",
+            "hint": "Earth has a LOT of oceans."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "map_explorer"
+      }
+    },
+    {
+      "id": "k-social-4",
+      "title": "American Symbols",
+      "description": "Learn about important American symbols like the flag, the Statue of Liberty, the bald eagle, and the White House.",
+      "lessons": [
+        {
+          "id": "k-social-4-1",
+          "title": "The American Flag",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American flag is a symbol of the United States. A symbol is something that stands for something else. The flag has red and white stripes and white stars on a blue background. There are 50 stars — one for each state. There are 13 stripes — one for each of the first 13 colonies that became the United States. We show respect for the flag by standing and placing our hand over our heart during the Pledge of Allegiance.",
+            "examples": [
+              {
+                "problem": "How many stars are on the American flag?",
+                "answer": "50 stars.",
+                "explanation": "Each star stands for one of the 50 states in the United States."
+              },
+              {
+                "problem": "How many stripes are on the flag?",
+                "answer": "13 stripes.",
+                "explanation": "The 13 stripes stand for the first 13 colonies that became the United States."
+              }
+            ],
+            "key_vocabulary": ["flag", "symbol", "stars", "stripes", "Pledge of Allegiance"],
+            "real_world": "Look for the American flag at your school. How many stars and stripes can you count?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many stars are on the American flag?",
+              "options": ["13", "25", "50", "100"],
+              "correct": 2,
+              "hint": "There is one star for each state in the United States."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many stripes are on the American flag?",
+              "options": ["50", "13", "7", "20"],
+              "correct": 1,
+              "hint": "The stripes stand for the first colonies."
+            },
+            {
+              "type": "true_false",
+              "question": "The American flag is a symbol of the United States.",
+              "answer": "true",
+              "hint": "A symbol stands for something important."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do the 50 stars on the flag stand for?",
+              "options": ["50 presidents", "50 states", "50 cities", "50 songs"],
+              "correct": 1,
+              "hint": "Each star represents one ___."
+            },
+            {
+              "type": "true_false",
+              "question": "The American flag has purple and yellow stripes.",
+              "answer": "false",
+              "hint": "Think about the real colors of the flag."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-4-2",
+          "title": "The Statue of Liberty",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Statue of Liberty is a very big statue in New York City. She stands on a small island in the water. The statue was a gift from the country of France to the United States. She holds a torch high in the air and wears a crown with seven points. The Statue of Liberty is a symbol of freedom and welcome. For many years, people coming to America by ship saw her first. She seemed to say, 'Welcome to America!'",
+            "examples": [
+              {
+                "problem": "Where is the Statue of Liberty?",
+                "answer": "In New York City, on an island.",
+                "explanation": "The Statue of Liberty stands on Liberty Island in New York Harbor."
+              },
+              {
+                "problem": "What does the Statue of Liberty hold?",
+                "answer": "A torch.",
+                "explanation": "She holds a torch up high. The torch stands for light and hope."
+              }
+            ],
+            "key_vocabulary": ["Statue of Liberty", "symbol", "freedom", "torch", "France"],
+            "real_world": "The Statue of Liberty is one of the most famous statues in the world. People visit her from all over!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where is the Statue of Liberty?",
+              "options": ["California", "Texas", "New York City", "Florida"],
+              "correct": 2,
+              "hint": "This famous statue is in a very big city on the east coast."
+            },
+            {
+              "type": "true_false",
+              "question": "The Statue of Liberty was a gift from France.",
+              "answer": "true",
+              "hint": "Another country gave this statue as a gift."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the Statue of Liberty hold?",
+              "options": ["A flag", "A book", "A torch", "A sword"],
+              "correct": 2,
+              "hint": "She holds something that gives light up high in the air."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Statue of Liberty is a symbol of ___.",
+              "options": ["Sadness", "Freedom", "Music", "Food"],
+              "correct": 1,
+              "hint": "She welcomed people who came to America looking for a better life."
+            },
+            {
+              "type": "true_false",
+              "question": "The Statue of Liberty is very small.",
+              "answer": "false",
+              "hint": "People can see her from far away."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-4-3",
+          "title": "The Bald Eagle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The bald eagle is a large bird that is a symbol of the United States. It was chosen as the national bird because it is strong and free. Bald eagles are not really bald — they have white feathers on their head and brown feathers on their body. They have a yellow beak and yellow feet. You can see the bald eagle on coins, dollar bills, and many government buildings. The bald eagle reminds us of strength and freedom.",
+            "examples": [
+              {
+                "problem": "What kind of bird is the symbol of the United States?",
+                "answer": "The bald eagle.",
+                "explanation": "The bald eagle was chosen because it is strong, brave, and free — just like America wants to be."
+              },
+              {
+                "problem": "What does a bald eagle look like?",
+                "answer": "White head feathers, brown body feathers, yellow beak.",
+                "explanation": "Despite its name, the bald eagle is not bald. It has beautiful white feathers on its head."
+              }
+            ],
+            "key_vocabulary": ["bald eagle", "national bird", "symbol", "strength", "freedom"],
+            "real_world": "Look at a quarter or a dollar bill. Can you find the bald eagle?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the national bird of the United States?",
+              "options": ["Robin", "Blue jay", "Bald eagle", "Parrot"],
+              "correct": 2,
+              "hint": "This large bird is a symbol of the United States."
+            },
+            {
+              "type": "true_false",
+              "question": "The bald eagle has white feathers on its head.",
+              "answer": "true",
+              "hint": "The word 'bald' is tricky — the eagle actually has white feathers on its head."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why was the bald eagle chosen as a symbol?",
+              "options": ["Because it is small and cute", "Because it is strong and free", "Because it can talk", "Because it is colorful"],
+              "correct": 1,
+              "hint": "The eagle represents important American values."
+            },
+            {
+              "type": "true_false",
+              "question": "You can find the bald eagle on some coins and dollar bills.",
+              "answer": "true",
+              "hint": "Look at the back of a quarter!"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What color is a bald eagle's beak?",
+              "options": ["Red", "Blue", "Black", "Yellow"],
+              "correct": 3,
+              "hint": "It is a bright, warm color."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-4-4",
+          "title": "The White House",
+          "type": "lesson",
+          "content": {
+            "explanation": "The White House is the home and office of the President of the United States. It is located in Washington, D.C., which is the capital of the country. The White House is painted white, which is how it got its name. It has 132 rooms! The President lives there with their family and works there every day, making important decisions for the country. The White House is a symbol of the American government.",
+            "examples": [
+              {
+                "problem": "Who lives in the White House?",
+                "answer": "The President of the United States.",
+                "explanation": "The White House is both the home and the workplace of the President."
+              },
+              {
+                "problem": "Where is the White House?",
+                "answer": "Washington, D.C.",
+                "explanation": "Washington, D.C. is the capital city of the United States, and the White House is located there."
+              }
+            ],
+            "key_vocabulary": ["White House", "President", "Washington D.C.", "capital", "government"],
+            "real_world": "The White House is one of the most famous buildings in the world. Every President has lived there since 1800."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who lives in the White House?",
+              "options": ["A king", "The President", "A teacher", "A firefighter"],
+              "correct": 1,
+              "hint": "The leader of the United States lives there."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where is the White House?",
+              "options": ["New York", "Los Angeles", "Washington, D.C.", "Chicago"],
+              "correct": 2,
+              "hint": "It is in the capital city of the United States."
+            },
+            {
+              "type": "true_false",
+              "question": "The White House is painted white.",
+              "answer": "true",
+              "hint": "Its name gives you a big clue!"
+            },
+            {
+              "type": "true_false",
+              "question": "The White House has only 2 rooms.",
+              "answer": "false",
+              "hint": "The White House is very big with many, many rooms."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The White House is a symbol of the American ___.",
+              "options": ["Zoo", "Government", "School", "Farm"],
+              "correct": 1,
+              "hint": "The President runs the ___ from the White House."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many stars are on the American flag?",
+            "options": ["13", "50", "25", "100"],
+            "correct": 1,
+            "hint": "One star for each state."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Statue of Liberty was a gift from which country?",
+            "options": ["England", "Spain", "France", "Germany"],
+            "correct": 2,
+            "hint": "This country in Europe gave the statue as a gift."
+          },
+          {
+            "type": "true_false",
+            "question": "The bald eagle is the national bird of the United States.",
+            "answer": "true",
+            "hint": "This strong bird is a symbol of America."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who lives in the White House?",
+            "options": ["The mayor", "The President", "The governor", "A king"],
+            "correct": 1,
+            "hint": "The leader of the whole country lives there."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What do the 13 stripes on the flag stand for?",
+            "options": ["13 presidents", "13 states today", "The first 13 colonies", "13 cities"],
+            "correct": 2,
+            "hint": "The stripes remember the very first parts of the United States."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "symbol_scholar"
+      }
+    },
+    {
+      "id": "k-social-5",
+      "title": "Holidays and Traditions",
+      "description": "Learn about important American holidays like Thanksgiving, Independence Day, and Martin Luther King Jr. Day, plus celebrations from around the world.",
+      "lessons": [
+        {
+          "id": "k-social-5-1",
+          "title": "Thanksgiving",
+          "type": "lesson",
+          "content": {
+            "explanation": "Thanksgiving is a holiday celebrated in November. Long ago, the Pilgrims came to America on a ship called the Mayflower. Their first winter was very hard. The Native Americans helped them learn to grow food. When they had a good harvest, they celebrated with a big feast together. Today, families celebrate Thanksgiving by eating a special meal together and saying what they are thankful for. Common foods include turkey, stuffing, and pumpkin pie.",
+            "examples": [
+              {
+                "problem": "When is Thanksgiving?",
+                "answer": "In November.",
+                "explanation": "Thanksgiving is celebrated on the fourth Thursday of November every year."
+              },
+              {
+                "problem": "Who helped the Pilgrims?",
+                "answer": "The Native Americans.",
+                "explanation": "Native Americans taught the Pilgrims how to grow corn and other foods so they could survive."
+              }
+            ],
+            "key_vocabulary": ["Thanksgiving", "Pilgrims", "Mayflower", "feast", "thankful", "harvest"],
+            "real_world": "What are you thankful for? On Thanksgiving, many families share what they appreciate about their lives."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In what month is Thanksgiving?",
+              "options": ["July", "December", "November", "March"],
+              "correct": 2,
+              "hint": "It is in the fall, near the end of the year."
+            },
+            {
+              "type": "true_false",
+              "question": "The Pilgrims came to America on a ship called the Mayflower.",
+              "answer": "true",
+              "hint": "This famous ship brought the Pilgrims across the ocean."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who helped the Pilgrims learn to grow food?",
+              "options": ["Astronauts", "Native Americans", "Pirates", "Cowboys"],
+              "correct": 1,
+              "hint": "The people who were already living in America helped them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do families do on Thanksgiving?",
+              "options": ["Open presents", "Eat a special meal and share what they are thankful for", "Wear costumes", "Watch fireworks"],
+              "correct": 1,
+              "hint": "Think about what people say and do at the Thanksgiving table."
+            },
+            {
+              "type": "true_false",
+              "question": "Turkey is a common Thanksgiving food.",
+              "answer": "true",
+              "hint": "This big bird is often the main dish at Thanksgiving dinner."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-5-2",
+          "title": "Independence Day (Fourth of July)",
+          "type": "lesson",
+          "content": {
+            "explanation": "Independence Day is celebrated on July 4th. It is also called the Fourth of July. This holiday celebrates America's birthday! Long ago, America was ruled by a king in England. The people in America wanted to be free and make their own rules. On July 4, 1776, the leaders of America signed a special paper called the Declaration of Independence. It said America was its own country. Today, people celebrate with fireworks, parades, barbecues, and waving the American flag.",
+            "examples": [
+              {
+                "problem": "When is Independence Day?",
+                "answer": "July 4th.",
+                "explanation": "Independence Day is always on the fourth day of July."
+              },
+              {
+                "problem": "What does Independence Day celebrate?",
+                "answer": "America becoming its own country (America's birthday).",
+                "explanation": "On this day, we remember when America declared it was free from England's rule."
+              }
+            ],
+            "key_vocabulary": ["Independence Day", "Fourth of July", "freedom", "Declaration of Independence", "fireworks"],
+            "real_world": "Have you ever watched fireworks on the Fourth of July? The bright colors and loud booms celebrate America's freedom!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When is Independence Day?",
+              "options": ["January 1", "July 4", "October 31", "December 25"],
+              "correct": 1,
+              "hint": "It is also called the Fourth of ___."
+            },
+            {
+              "type": "true_false",
+              "question": "Independence Day celebrates America's birthday.",
+              "answer": "true",
+              "hint": "This holiday is about when America became its own country."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do people celebrate the Fourth of July?",
+              "options": ["By planting trees", "With fireworks and parades", "By going to school", "By building snowmen"],
+              "correct": 1,
+              "hint": "Think about the bright lights in the sky and fun events in the street."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What special paper was signed on July 4, 1776?",
+              "options": ["A birthday card", "The Declaration of Independence", "A recipe", "A map"],
+              "correct": 1,
+              "hint": "This paper said America was free."
+            },
+            {
+              "type": "true_false",
+              "question": "Before Independence Day, America was ruled by a king in England.",
+              "answer": "true",
+              "hint": "America wanted to be free from another country's rule."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-5-3",
+          "title": "Martin Luther King Jr. Day",
+          "type": "lesson",
+          "content": {
+            "explanation": "Martin Luther King Jr. Day is a holiday celebrated in January. Dr. Martin Luther King Jr. was a leader who believed that all people should be treated fairly, no matter what they look like. Long ago, some people were not treated equally because of the color of their skin. Dr. King gave speeches and led peaceful marches to change unfair laws. His most famous speech is called 'I Have a Dream.' He dreamed of a world where everyone is treated with kindness and respect. We honor him by being kind and fair to everyone.",
+            "examples": [
+              {
+                "problem": "What did Martin Luther King Jr. believe?",
+                "answer": "That all people should be treated fairly.",
+                "explanation": "Dr. King worked hard so that everyone would have equal rights and be treated with respect."
+              },
+              {
+                "problem": "What is Dr. King's most famous speech called?",
+                "answer": "'I Have a Dream.'",
+                "explanation": "In this speech, Dr. King shared his dream of a world where everyone is treated equally."
+              }
+            ],
+            "key_vocabulary": ["Martin Luther King Jr.", "fairness", "equal", "peaceful", "dream", "respect"],
+            "real_world": "You can honor Dr. King every day by being kind to everyone and treating all people fairly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In what month is Martin Luther King Jr. Day?",
+              "options": ["March", "January", "September", "June"],
+              "correct": 1,
+              "hint": "It is celebrated near the beginning of the year."
+            },
+            {
+              "type": "true_false",
+              "question": "Martin Luther King Jr. believed all people should be treated fairly.",
+              "answer": "true",
+              "hint": "Dr. King wanted equal treatment for everyone."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is Dr. King's famous speech called?",
+              "options": ["I Have a Plan", "I Have a Dream", "I Have a Song", "I Have a Story"],
+              "correct": 1,
+              "hint": "Dr. King shared his ___ for a better world."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did Dr. King try to change unfair laws?",
+              "options": ["By being mean", "Through peaceful marches and speeches", "By running away", "By being quiet"],
+              "correct": 1,
+              "hint": "Dr. King believed in peace, not violence."
+            },
+            {
+              "type": "true_false",
+              "question": "We honor Dr. King by being kind and fair to everyone.",
+              "answer": "true",
+              "hint": "What would Dr. King want us to do?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-5-4",
+          "title": "Celebrations Around the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "People all around the world celebrate special holidays and events! In China, people celebrate the Lunar New Year with dragon dances, red lanterns, and special foods. In Mexico, families celebrate Dia de los Muertos (Day of the Dead) by remembering loved ones who have passed away with colorful decorations and special treats. In India, people celebrate Diwali, the Festival of Lights, by lighting lamps and sharing sweets. Every culture has its own special celebrations, and learning about them helps us understand and appreciate each other.",
+            "examples": [
+              {
+                "problem": "What is Diwali?",
+                "answer": "The Festival of Lights, celebrated in India.",
+                "explanation": "During Diwali, people light lamps and candles, share sweets, and celebrate with family."
+              },
+              {
+                "problem": "What happens during Lunar New Year in China?",
+                "answer": "Dragon dances, red lanterns, and special foods.",
+                "explanation": "Lunar New Year is a big celebration in China with parades, fireworks, and family gatherings."
+              }
+            ],
+            "key_vocabulary": ["celebration", "Lunar New Year", "Dia de los Muertos", "Diwali", "culture"],
+            "real_world": "Does your family celebrate any special holidays? Every family and culture has traditions that make them special!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is Diwali also called?",
+              "options": ["Festival of Colors", "Festival of Lights", "Festival of Music", "Festival of Food"],
+              "correct": 1,
+              "hint": "People light lamps and candles during this celebration."
+            },
+            {
+              "type": "true_false",
+              "question": "Lunar New Year is celebrated in China.",
+              "answer": "true",
+              "hint": "This big celebration happens in China and other Asian countries."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do people do during Lunar New Year?",
+              "options": ["Build snowmen", "Dragon dances and light red lanterns", "Go swimming", "Plant gardens"],
+              "correct": 1,
+              "hint": "Think about the colorful dances and decorations."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Dia de los Muertos is a celebration from which country?",
+              "options": ["Japan", "France", "Mexico", "Australia"],
+              "correct": 2,
+              "hint": "This celebration has a Spanish name."
+            },
+            {
+              "type": "true_false",
+              "question": "Learning about other cultures' celebrations helps us understand each other.",
+              "answer": "true",
+              "hint": "When we learn about others, we can appreciate how special everyone is."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "In what month is Thanksgiving?",
+            "options": ["July", "November", "December", "March"],
+            "correct": 1,
+            "hint": "It is in the fall."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does Independence Day celebrate?",
+            "options": ["Thanksgiving", "America's birthday", "Halloween", "New Year"],
+            "correct": 1,
+            "hint": "It is also called the Fourth of July."
+          },
+          {
+            "type": "true_false",
+            "question": "Dr. Martin Luther King Jr. believed in treating all people fairly.",
+            "answer": "true",
+            "hint": "He had a dream about fairness."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is Diwali?",
+            "options": ["A type of food", "A game", "The Festival of Lights", "A kind of animal"],
+            "correct": 2,
+            "hint": "People light lamps during this holiday."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who helped the Pilgrims learn to grow food?",
+            "options": ["Cowboys", "Native Americans", "Pirates", "Astronauts"],
+            "correct": 1,
+            "hint": "The people who already lived in America helped the Pilgrims."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "holiday_hero"
+      }
+    },
+    {
+      "id": "k-social-6",
+      "title": "Needs and Wants",
+      "description": "Learn the difference between things we need to survive and things we want, plus learn about goods and services.",
+      "lessons": [
+        {
+          "id": "k-social-6-1",
+          "title": "What Are Needs?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Needs are things we must have to live. Everyone needs food to eat, water to drink, clothes to wear, and a home to live in. These are called basic needs. Without food and water, we would get sick. Without clothes and shelter, we would be too cold or too hot. Needs are things we cannot live without. They are different from wants, which are things we would like to have but do not need to survive.",
+            "examples": [
+              {
+                "problem": "What are the basic needs?",
+                "answer": "Food, water, clothing, and shelter.",
+                "explanation": "These four things are what every person needs to survive and stay healthy."
+              },
+              {
+                "problem": "Is water a need or a want?",
+                "answer": "A need.",
+                "explanation": "We must drink water to live. Without water, our bodies cannot work."
+              }
+            ],
+            "key_vocabulary": ["needs", "food", "water", "clothing", "shelter", "survive"],
+            "real_world": "Think about what you had for breakfast today. Food is a need because your body needs it to have energy and grow."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of these is a need?",
+              "options": ["A toy car", "A video game", "Food", "A stuffed animal"],
+              "correct": 2,
+              "hint": "A need is something you must have to live."
+            },
+            {
+              "type": "true_false",
+              "question": "Water is a basic need.",
+              "answer": "true",
+              "hint": "Can you live without water?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are the four basic needs?",
+              "options": ["Toys, games, candy, TV", "Food, water, clothing, shelter", "Books, pencils, crayons, paper", "Cars, bikes, trains, planes"],
+              "correct": 1,
+              "hint": "Think about what every person must have to survive."
+            },
+            {
+              "type": "true_false",
+              "question": "Shelter means a place to live.",
+              "answer": "true",
+              "hint": "A house or apartment is an example of ___."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do we need clothes?",
+              "options": ["To look cool", "To protect our body from heat and cold", "Because our teacher says so", "To play games"],
+              "correct": 1,
+              "hint": "Clothing helps keep our body safe from weather."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-6-2",
+          "title": "Wants vs. Needs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Wants are things we would like to have, but we do not need them to survive. Toys, candy, video games, and fancy shoes are wants. You can live without them, even though they are nice to have. It is important to know the difference between needs and wants. Families must make sure they have enough money for needs first, like food and a home. After paying for needs, they can use extra money for wants. Both needs and wants are okay, but needs come first!",
+            "examples": [
+              {
+                "problem": "Is a toy a need or a want?",
+                "answer": "A want.",
+                "explanation": "Toys are fun, but you can survive without them. That makes them a want, not a need."
+              },
+              {
+                "problem": "Is a warm coat in winter a need or a want?",
+                "answer": "A need.",
+                "explanation": "In cold weather, a coat protects you from the cold and keeps you healthy. That makes it a need."
+              }
+            ],
+            "key_vocabulary": ["wants", "needs", "choice", "money", "important"],
+            "real_world": "If you could buy one thing at a store, would you pick something you need or something you want? Why?"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a want?",
+              "options": ["Water", "A house", "A video game", "Food"],
+              "correct": 2,
+              "hint": "You can survive without this, even though it is fun."
+            },
+            {
+              "type": "true_false",
+              "question": "A bicycle is a need.",
+              "answer": "false",
+              "hint": "Can you survive without a bicycle?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which should families pay for first?",
+              "options": ["Toys", "Video games", "Needs like food and shelter", "Candy"],
+              "correct": 2,
+              "hint": "The most important things to pay for are things you must have to live."
+            },
+            {
+              "type": "true_false",
+              "question": "Candy is a need.",
+              "answer": "false",
+              "hint": "Is candy something you must eat to survive?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the difference between a need and a want?",
+              "options": ["There is no difference", "Needs are things you must have to survive; wants are nice to have", "Wants are more important than needs", "Only adults have needs"],
+              "correct": 1,
+              "hint": "Think about what you must have vs. what you would like to have."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-6-3",
+          "title": "Goods and Services",
+          "type": "lesson",
+          "content": {
+            "explanation": "Goods are things people make or grow that you can buy. Bread, toys, shoes, and books are all goods. You can touch and hold goods. Services are jobs that people do to help others. A haircut is a service. Fixing a car is a service. Teaching children is a service. You cannot hold a service in your hand — it is an action someone does for you. We use money to pay for both goods and services.",
+            "examples": [
+              {
+                "problem": "What are goods?",
+                "answer": "Things people make or grow that can be bought.",
+                "explanation": "Goods are physical things you can touch, like food, clothes, and toys."
+              },
+              {
+                "problem": "What is a service?",
+                "answer": "A job someone does to help others.",
+                "explanation": "A doctor's checkup, a haircut, or a bus ride are all services — things people do for you."
+              }
+            ],
+            "key_vocabulary": ["goods", "services", "buy", "sell", "money"],
+            "real_world": "When you buy an apple at the store, the apple is a good. When a doctor checks your health, that is a service."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a good?",
+              "options": ["A haircut", "A bus ride", "A book", "A checkup at the doctor"],
+              "correct": 2,
+              "hint": "A good is something you can touch and hold."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a service?",
+              "options": ["A toy", "A pair of shoes", "A sandwich", "A haircut"],
+              "correct": 3,
+              "hint": "A service is something someone does for you."
+            },
+            {
+              "type": "true_false",
+              "question": "You can touch and hold a good.",
+              "answer": "true",
+              "hint": "Goods are physical things like food and toys."
+            },
+            {
+              "type": "true_false",
+              "question": "A service is something you can hold in your hand.",
+              "answer": "false",
+              "hint": "Services are actions, not objects."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "We use ___ to pay for goods and services.",
+              "options": ["Stickers", "Money", "Toys", "Crayons"],
+              "correct": 1,
+              "hint": "Coins and dollar bills are examples of ___."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-social-6-4",
+          "title": "Making Choices",
+          "type": "lesson",
+          "content": {
+            "explanation": "People cannot have everything they want. Money is limited, so people must make choices. When you choose one thing, you give up something else. If you have one dollar and candy costs one dollar and a sticker costs one dollar, you must choose — you cannot buy both! Making good choices means thinking about what is most important. Needs should come before wants. It is okay to want things, but it is smart to think carefully before spending money.",
+            "examples": [
+              {
+                "problem": "Why do people have to make choices?",
+                "answer": "Because they cannot have everything — money is limited.",
+                "explanation": "Since we only have so much money, we have to decide what to buy and what to skip."
+              },
+              {
+                "problem": "What is a good way to make choices about spending?",
+                "answer": "Think about what is most important and buy needs first.",
+                "explanation": "Smart spending means making sure you have what you need before buying what you want."
+              }
+            ],
+            "key_vocabulary": ["choice", "decide", "spend", "save", "limit"],
+            "real_world": "If you got $5 as a gift, would you spend it all on candy or save some for later? Making choices is something we do every day!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why do we have to make choices about what to buy?",
+              "options": ["Because stores are closed", "Because we have unlimited money", "Because money is limited", "Because we don't like things"],
+              "correct": 2,
+              "hint": "We only have a certain amount of money."
+            },
+            {
+              "type": "true_false",
+              "question": "If you have $1 and two things each cost $1, you can buy both.",
+              "answer": "false",
+              "hint": "Do you have enough money for both?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should you buy first?",
+              "options": ["Toys", "Candy", "Things you need", "Stickers"],
+              "correct": 2,
+              "hint": "What is most important for survival?"
+            },
+            {
+              "type": "true_false",
+              "question": "It is smart to think carefully before spending money.",
+              "answer": "true",
+              "hint": "Making good choices means thinking before you buy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When you choose one thing, what happens?",
+              "options": ["You get everything", "You give up something else", "Nothing happens", "You get more money"],
+              "correct": 1,
+              "hint": "Choosing one thing means you cannot pick the other."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which is a basic need?",
+            "options": ["A toy", "Food", "A video game", "Candy"],
+            "correct": 1,
+            "hint": "Needs are things you must have to live."
+          },
+          {
+            "type": "true_false",
+            "question": "A want is something you need to survive.",
+            "answer": "false",
+            "hint": "Wants are nice to have but not necessary."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A book you can hold is a ___.",
+            "options": ["Service", "Good", "Rule", "Law"],
+            "correct": 1,
+            "hint": "Things you can touch and buy are called ___."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A haircut is a ___.",
+            "options": ["Good", "Need", "Service", "Want"],
+            "correct": 2,
+            "hint": "A haircut is something someone does for you."
+          },
+          {
+            "type": "true_false",
+            "question": "People must make choices because money is limited.",
+            "answer": "true",
+            "hint": "We cannot buy everything."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "smart_shopper"
+      }
+    }
+  ]
+}

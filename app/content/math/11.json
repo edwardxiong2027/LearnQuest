@@ -1,0 +1,2880 @@
+{
+  "grade": 11,
+  "subject": "math",
+  "units": [
+    {
+      "id": "11-math-1",
+      "title": "Functions Review",
+      "description": "Domain, range, function operations, transformations, and inverses.",
+      "lessons": [
+        {
+          "id": "11-math-1-1",
+          "title": "Domain and Range",
+          "type": "lesson",
+          "content": {
+            "explanation": "The domain is all possible input (x) values. The range is all possible output (y) values. Restrictions: no dividing by 0, no even roots of negatives, and logarithms need positive inputs. Interval notation: [a,b] includes endpoints, (a,b) excludes them.",
+            "examples": [
+              {
+                "problem": "f(x)=\u221a(x-3). Domain?",
+                "answer": "x \u2265 3 or [3, \u221e)",
+                "explanation": "x-3 \u2265 0 \u2192 x \u2265 3."
+              },
+              {
+                "problem": "f(x)=1/(x-2). Domain?",
+                "answer": "x \u2260 2 or (-\u221e,2)\u222a(2,\u221e)",
+                "explanation": "Denominator can't be 0."
+              },
+              {
+                "problem": "f(x)=x\u00b2. Range?",
+                "answer": "y \u2265 0 or [0, \u221e)",
+                "explanation": "Squaring always gives \u2265 0."
+              }
+            ],
+            "key_vocabulary": [
+              "domain",
+              "range",
+              "interval notation",
+              "restriction",
+              "function"
+            ],
+            "real_world": "Engineers define domains when modeling \u2014 a bridge length can't be negative."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=\u221ax. Domain: x \u2265 ___",
+              "answer": "0",
+              "hint": "Can't take \u221a of negative."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=1/x. Domain excludes x = ___",
+              "answer": "0",
+              "hint": "Can't divide by 0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(x)=x\u00b2. Range?",
+              "options": [
+                "All reals",
+                "y \u2265 0",
+                "y > 0",
+                "y \u2264 0"
+              ],
+              "correct": 1,
+              "hint": "Squares are \u2265 0."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=\u221a(x+5). Domain: x \u2265 ___",
+              "answer": "-5",
+              "hint": "x+5 \u2265 0 \u2192 x \u2265 -5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(x)=|x|. Range?",
+              "options": [
+                "All reals",
+                "y \u2265 0",
+                "y > 0",
+                "y \u2264 0"
+              ],
+              "correct": 1,
+              "hint": "Absolute value \u2265 0."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=1/(x+3). Domain excludes x = ___",
+              "answer": "-3",
+              "hint": "x+3 \u2260 0."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-1-2",
+          "title": "Function Notation and Operations",
+          "type": "lesson",
+          "content": {
+            "explanation": "f(x) means 'the output of function f at input x'. Operations: (f+g)(x)=f(x)+g(x), (f-g)(x)=f(x)-g(x), (fg)(x)=f(x)\u00b7g(x), (f/g)(x)=f(x)/g(x). Composition: (f\u2218g)(x)=f(g(x)) \u2014 apply g first, then f.",
+            "examples": [
+              {
+                "problem": "f(x)=2x+1. f(3)=?",
+                "answer": "7",
+                "explanation": "2(3)+1=7."
+              },
+              {
+                "problem": "f(x)=x+1, g(x)=x\u00b2. (f+g)(2)=?",
+                "answer": "7",
+                "explanation": "f(2)+g(2)=3+4=7."
+              },
+              {
+                "problem": "f(x)=x\u00b2, g(x)=x+3. f(g(1))=?",
+                "answer": "16",
+                "explanation": "g(1)=4, f(4)=16."
+              }
+            ],
+            "key_vocabulary": [
+              "function notation",
+              "composition",
+              "sum",
+              "difference",
+              "product",
+              "quotient"
+            ],
+            "real_world": "Computer programs chain functions together \u2014 composition in action."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=3x-2. f(4)=___",
+              "answer": "10",
+              "hint": "3(4)-2=10."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2, g(x)=x+1. (fg)(3)=___",
+              "answer": "36",
+              "hint": "f(3)\u00b7g(3)=9\u00b74=36."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=2x, g(x)=x+5. f(g(3))=___",
+              "answer": "16",
+              "hint": "g(3)=8, f(8)=16."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x+2, g(x)=3x. g(f(1))=___",
+              "answer": "9",
+              "hint": "f(1)=3, g(3)=9."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "(f\u2218g)(x) means:",
+              "options": [
+                "f(x)\u00b7g(x)",
+                "f(g(x))",
+                "g(f(x))",
+                "f(x)+g(x)"
+              ],
+              "correct": 1,
+              "hint": "Apply g first, then f."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x-1, g(x)=x\u00b2. (f\u2218g)(3)=___",
+              "answer": "8",
+              "hint": "g(3)=9, f(9)=8."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-1-3",
+          "title": "Transformations of Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Starting from y=f(x): f(x)+k shifts UP k. f(x)-k shifts DOWN k. f(x-h) shifts RIGHT h. f(x+h) shifts LEFT h. -f(x) reflects over x-axis. f(-x) reflects over y-axis. af(x) stretches vertically by a. f(bx) compresses horizontally by b.",
+            "examples": [
+              {
+                "problem": "y=x\u00b2 shifted up 3",
+                "answer": "y = x\u00b2 + 3",
+                "explanation": "Add 3 to the function."
+              },
+              {
+                "problem": "y=|x| shifted right 2",
+                "answer": "y = |x - 2|",
+                "explanation": "Replace x with (x-2)."
+              },
+              {
+                "problem": "y=\u221ax reflected over x-axis",
+                "answer": "y = -\u221ax",
+                "explanation": "Negate the function."
+              }
+            ],
+            "key_vocabulary": [
+              "translation",
+              "reflection",
+              "stretch",
+              "compression",
+              "transformation"
+            ],
+            "real_world": "Video game graphics use transformations to move and resize objects on screen."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "f(x)+5 shifts:",
+              "options": [
+                "Left 5",
+                "Right 5",
+                "Up 5",
+                "Down 5"
+              ],
+              "correct": 2,
+              "hint": "Adding to output = up."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(x-3) shifts:",
+              "options": [
+                "Left 3",
+                "Right 3",
+                "Up 3",
+                "Down 3"
+              ],
+              "correct": 1,
+              "hint": "Subtract inside = right."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "-f(x) is a reflection over:",
+              "options": [
+                "x-axis",
+                "y-axis",
+                "origin",
+                "line y=x"
+              ],
+              "correct": 0,
+              "hint": "Negate output = x-axis reflection."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(-x) is a reflection over:",
+              "options": [
+                "x-axis",
+                "y-axis",
+                "origin",
+                "line y=x"
+              ],
+              "correct": 1,
+              "hint": "Negate input = y-axis reflection."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=x\u00b2 shifted left 4: y=(x+___)\u00b2",
+              "answer": "4",
+              "hint": "Left 4 means (x+4)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "2f(x) is a vertical:",
+              "options": [
+                "Shift",
+                "Stretch",
+                "Compression",
+                "Reflection"
+              ],
+              "correct": 1,
+              "hint": "Multiplying output by 2 = stretch."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-1-4",
+          "title": "Inverse Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "The inverse f\u207b\u00b9 undoes f: f(f\u207b\u00b9(x))=x. To find it: swap x and y, solve for y. The graphs of f and f\u207b\u00b9 are reflections over y=x. A function has an inverse only if it's one-to-one (passes horizontal line test).",
+            "examples": [
+              {
+                "problem": "f(x)=2x+1. f\u207b\u00b9(x)=?",
+                "answer": "(x-1)/2",
+                "explanation": "y=2x+1 \u2192 x=2y+1 \u2192 y=(x-1)/2."
+              },
+              {
+                "problem": "f(x)=x\u00b3. f\u207b\u00b9(x)=?",
+                "answer": "\u221bx",
+                "explanation": "y=x\u00b3 \u2192 x=y\u00b3 \u2192 y=\u221bx."
+              },
+              {
+                "problem": "f(3)=7. Then f\u207b\u00b9(7)=?",
+                "answer": "3",
+                "explanation": "Inverse reverses input/output."
+              }
+            ],
+            "key_vocabulary": [
+              "inverse function",
+              "one-to-one",
+              "horizontal line test",
+              "f\u207b\u00b9"
+            ],
+            "real_world": "Encoding/decoding messages uses inverse functions \u2014 one encodes, the other decodes."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=x+5. f\u207b\u00b9(x)=x-___",
+              "answer": "5",
+              "hint": "Undo adding 5 by subtracting 5."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=3x. f\u207b\u00b9(x)=x/___",
+              "answer": "3",
+              "hint": "Undo multiplying by 3."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x/4+1. f\u207b\u00b9(x)=4(x-___)",
+              "answer": "1",
+              "hint": "Undo: subtract 1, multiply by 4."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2 (all reals) has an inverse function.",
+              "answer": "false",
+              "hint": "Fails horizontal line test."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Graphs of f and f\u207b\u00b9 are reflections over:",
+              "options": [
+                "x-axis",
+                "y-axis",
+                "y=x",
+                "origin"
+              ],
+              "correct": 2,
+              "hint": "Always reflect over y=x."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(5)=12. f\u207b\u00b9(12)=___",
+              "answer": "5",
+              "hint": "Inverse swaps input and output."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-1-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "f(x)=\u221a(x-1). Domain: x \u2265 ___",
+            "answer": "1"
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=2x+3. f(4)=___",
+            "answer": "11"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "f(x-2) shifts:",
+            "options": [
+              "Left 2",
+              "Right 2",
+              "Up 2",
+              "Down 2"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=5x. f\u207b\u00b9(x)=x/___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=x+1, g(x)=x\u00b2. f(g(3))=___",
+            "answer": "10"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "functions_review"
+      }
+    },
+    {
+      "id": "11-math-2",
+      "title": "Quadratic Functions",
+      "description": "Vertex form, completing the square, quadratic formula, and discriminant.",
+      "lessons": [
+        {
+          "id": "11-math-2-1",
+          "title": "Standard and Vertex Form",
+          "type": "lesson",
+          "content": {
+            "explanation": "Standard form: y=ax\u00b2+bx+c. Vertex form: y=a(x-h)\u00b2+k where (h,k) is the vertex. If a>0 parabola opens up (minimum). If a<0 opens down (maximum). Axis of symmetry: x=h. In standard form, vertex x-coordinate = -b/(2a).",
+            "examples": [
+              {
+                "problem": "y=2(x-3)\u00b2+1. Vertex?",
+                "answer": "(3, 1)",
+                "explanation": "h=3, k=1."
+              },
+              {
+                "problem": "y=x\u00b2-4x+7. Vertex x?",
+                "answer": "-(-4)/(2\u00b71) = 2",
+                "explanation": "x=-b/(2a)=2. y=4-8+7=3. Vertex (2,3)."
+              },
+              {
+                "problem": "y=-(x+2)\u00b2+5. Opens?",
+                "answer": "Down (maximum at (-2,5))",
+                "explanation": "a=-1<0, opens down."
+              }
+            ],
+            "key_vocabulary": [
+              "vertex",
+              "axis of symmetry",
+              "parabola",
+              "standard form",
+              "vertex form",
+              "minimum",
+              "maximum"
+            ],
+            "real_world": "Projectile paths are parabolas \u2014 the vertex is the highest point."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "y=3(x-1)\u00b2-4. Vertex is (1,___).",
+              "answer": "-4",
+              "hint": "k=-4."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=x\u00b2+6x+10. Vertex x = -6/(2\u00b71) = ___",
+              "answer": "-3",
+              "hint": "x=-b/(2a)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "a>0 means parabola opens:",
+              "options": [
+                "Up",
+                "Down",
+                "Left",
+                "Right"
+              ],
+              "correct": 0,
+              "hint": "Positive a = opens up."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=-(x-5)\u00b2+8. Maximum value = ___",
+              "answer": "8",
+              "hint": "Opens down, vertex y=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=(x+3)\u00b2-7. Axis of symmetry: x = ___",
+              "answer": "-3",
+              "hint": "x=h=-3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "y=-2(x-1)\u00b2+3. Opens:",
+              "options": [
+                "Up",
+                "Down",
+                "Left",
+                "Right"
+              ],
+              "correct": 1,
+              "hint": "a=-2<0 = down."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-2-2",
+          "title": "Completing the Square",
+          "type": "lesson",
+          "content": {
+            "explanation": "To convert y=ax\u00b2+bx+c to vertex form: 1) Factor out a from first two terms. 2) Take half of b/a, square it, add and subtract inside. 3) Factor the perfect square trinomial. Example: x\u00b2+6x+1 = (x\u00b2+6x+9)-9+1 = (x+3)\u00b2-8.",
+            "examples": [
+              {
+                "problem": "x\u00b2+6x+? = (x+3)\u00b2",
+                "answer": "add 9",
+                "explanation": "Half of 6 is 3, 3\u00b2=9."
+              },
+              {
+                "problem": "x\u00b2-10x+? = (x-5)\u00b2",
+                "answer": "add 25",
+                "explanation": "Half of -10 is -5, (-5)\u00b2=25."
+              },
+              {
+                "problem": "x\u00b2+6x+1 in vertex form",
+                "answer": "(x+3)\u00b2-8",
+                "explanation": "x\u00b2+6x+9-9+1=(x+3)\u00b2-8."
+              }
+            ],
+            "key_vocabulary": [
+              "completing the square",
+              "perfect square trinomial",
+              "vertex form"
+            ],
+            "real_world": "Completing the square is used in GPS calculations to determine position."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+8x+? = (x+4)\u00b2. Add ___",
+              "answer": "16",
+              "hint": "Half of 8 is 4, 4\u00b2=16."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-4x+? = (x-2)\u00b2. Add ___",
+              "answer": "4",
+              "hint": "Half of 4 is 2, 2\u00b2=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+12x+? = (x+6)\u00b2. Add ___",
+              "answer": "36",
+              "hint": "Half of 12 is 6, 6\u00b2=36."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+6x+2 = (x+3)\u00b2-___",
+              "answer": "7",
+              "hint": "(x\u00b2+6x+9)-9+2=(x+3)\u00b2-7."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-2x+5 = (x-1)\u00b2+___",
+              "answer": "4",
+              "hint": "(x\u00b2-2x+1)-1+5=(x-1)\u00b2+4."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+10x+3 = (x+5)\u00b2-___",
+              "answer": "22",
+              "hint": "(x\u00b2+10x+25)-25+3=(x+5)\u00b2-22."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-2-3",
+          "title": "Quadratic Formula and Discriminant",
+          "type": "lesson",
+          "content": {
+            "explanation": "For ax\u00b2+bx+c=0: x=(-b\u00b1\u221a(b\u00b2-4ac))/(2a). The discriminant D=b\u00b2-4ac tells the nature of roots: D>0 \u2192 two real roots, D=0 \u2192 one repeated root, D<0 \u2192 two complex roots.",
+            "examples": [
+              {
+                "problem": "x\u00b2-5x+6=0",
+                "answer": "x=3 or x=2",
+                "explanation": "(5\u00b1\u221a(25-24))/2=(5\u00b11)/2."
+              },
+              {
+                "problem": "2x\u00b2+3x-2=0",
+                "answer": "x=1/2 or x=-2",
+                "explanation": "(-3\u00b1\u221a(9+16))/4=(-3\u00b15)/4."
+              },
+              {
+                "problem": "x\u00b2+4=0. Discriminant?",
+                "answer": "D=0-16=-16 < 0, complex roots",
+                "explanation": "No real solutions."
+              }
+            ],
+            "key_vocabulary": [
+              "quadratic formula",
+              "discriminant",
+              "real roots",
+              "complex roots",
+              "repeated root"
+            ],
+            "real_world": "The quadratic formula appears in physics for calculating projectile landing times."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-7x+12=0. Roots: x=3 and x=___",
+              "answer": "4",
+              "hint": "(7\u00b1\u221a(49-48))/2=(7\u00b11)/2."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-4x+4=0. D=16-16=___",
+              "answer": "0",
+              "hint": "One repeated root: x=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+2x-8=0. Roots: x=2 and x=___",
+              "answer": "-4",
+              "hint": "(-2\u00b1\u221a(4+32))/2=(-2\u00b16)/2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "D<0 means:",
+              "options": [
+                "Two real roots",
+                "One root",
+                "No real roots",
+                "Infinite roots"
+              ],
+              "correct": 2,
+              "hint": "Complex roots, no real ones."
+            },
+            {
+              "type": "fill_in",
+              "question": "3x\u00b2+x-2=0. D=1+24=___",
+              "answer": "25",
+              "hint": "D=b\u00b2-4ac=1+24=25."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+x+1=0. D=1-4=___",
+              "answer": "-3",
+              "hint": "D<0, complex roots."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-2-4",
+          "title": "Applications of Quadratics",
+          "type": "lesson",
+          "content": {
+            "explanation": "Projectile motion: h(t)=-16t\u00b2+v\u2080t+h\u2080 (height in feet). Revenue: R=price\u00d7quantity. Maximum/minimum at vertex. Set equation to 0 to find x-intercepts (zeros). The vertex gives the optimal value.",
+            "examples": [
+              {
+                "problem": "h(t)=-16t\u00b2+64t. Max height?",
+                "answer": "64 ft",
+                "explanation": "Vertex at t=-64/(2\u00b7-16)=2. h(2)=-64+128=64."
+              },
+              {
+                "problem": "h(t)=-16t\u00b2+96t. When hits ground?",
+                "answer": "t=6 sec",
+                "explanation": "0=-16t(t-6), t=0 or t=6."
+              },
+              {
+                "problem": "Revenue R=-2x\u00b2+40x. Max revenue?",
+                "answer": "$200",
+                "explanation": "x=-40/(2\u00b7-2)=10. R=-200+400=200."
+              }
+            ],
+            "key_vocabulary": [
+              "projectile",
+              "vertex",
+              "maximum",
+              "zeros",
+              "optimization"
+            ],
+            "real_world": "Companies use quadratic models to find the price that maximizes profit."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "h(t)=-16t\u00b2+32t. Max height at t=-32/(2\u00b7-16)=___",
+              "answer": "1",
+              "hint": "t=1 second."
+            },
+            {
+              "type": "fill_in",
+              "question": "h(1)=-16+32=___",
+              "answer": "16",
+              "hint": "Max height is 16 ft."
+            },
+            {
+              "type": "fill_in",
+              "question": "R=-x\u00b2+10x. Vertex at x=___",
+              "answer": "5",
+              "hint": "x=-10/(2\u00b7-1)=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "R(5)=-25+50=___",
+              "answer": "25",
+              "hint": "Max revenue is $25."
+            },
+            {
+              "type": "fill_in",
+              "question": "-16t\u00b2+48t=0. t=0 or t=___",
+              "answer": "3",
+              "hint": "Factor: -16t(t-3)=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The vertex of a downward parabola gives:",
+              "options": [
+                "Minimum",
+                "Maximum",
+                "Zero",
+                "Undefined"
+              ],
+              "correct": 1,
+              "hint": "Opens down = maximum."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-2-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "x\u00b2+8x+? = (x+4)\u00b2. Add ___",
+            "answer": "16"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2-3x-10=0. Roots: x=5 and x=___",
+            "answer": "-2"
+          },
+          {
+            "type": "fill_in",
+            "question": "y=(x-2)\u00b2+3. Vertex y-value=___",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "D=0 means:",
+            "options": [
+              "Two real",
+              "One repeated",
+              "No real",
+              "Complex"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "-16t\u00b2+64t=0. t=0 or t=___",
+            "answer": "4"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "quadratics_master"
+      }
+    },
+    {
+      "id": "11-math-3",
+      "title": "Complex Numbers",
+      "description": "Imaginary unit i, complex operations, conjugates, and complex solutions.",
+      "lessons": [
+        {
+          "id": "11-math-3-1",
+          "title": "Imaginary Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "The imaginary unit i=\u221a(-1), so i\u00b2=-1. Powers of i cycle: i\u00b9=i, i\u00b2=-1, i\u00b3=-i, i\u2074=1, then repeats. For any negative radicand: \u221a(-a)=i\u221aa. Complex number: a+bi where a is real part, b is imaginary part.",
+            "examples": [
+              {
+                "problem": "\u221a(-9)",
+                "answer": "3i",
+                "explanation": "\u221a(-9)=\u221a(9)\u00b7\u221a(-1)=3i."
+              },
+              {
+                "problem": "i\u2076=?",
+                "answer": "i\u2076=i\u2074\u00b7i\u00b2=1\u00b7(-1)=-1",
+                "explanation": "Cycle of 4: 6 mod 4 = 2, so i\u00b2=-1."
+              },
+              {
+                "problem": "\u221a(-50)",
+                "answer": "5i\u221a2",
+                "explanation": "\u221a(50)\u00b7i=5\u221a2\u00b7i."
+              }
+            ],
+            "key_vocabulary": [
+              "imaginary unit",
+              "i",
+              "complex number",
+              "real part",
+              "imaginary part"
+            ],
+            "real_world": "Electrical engineers use imaginary numbers to analyze alternating current circuits."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "i\u00b2=___",
+              "answer": "-1",
+              "hint": "By definition."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u221a(-16)=___i",
+              "answer": "4",
+              "hint": "\u221a16\u00b7i=4i."
+            },
+            {
+              "type": "fill_in",
+              "question": "i\u2074=___",
+              "answer": "1",
+              "hint": "i\u2074=(i\u00b2)\u00b2=(-1)\u00b2=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "i\u00b3=i\u00b2\u00b7i=(-1)\u00b7i=___",
+              "answer": "-i",
+              "hint": "i\u00b3=-i."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u221a(-49)=___i",
+              "answer": "7",
+              "hint": "\u221a49=7."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Real part of 3+5i:",
+              "options": [
+                "5",
+                "3",
+                "3+5i",
+                "5i"
+              ],
+              "correct": 1,
+              "hint": "a=3 in a+bi."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-3-2",
+          "title": "Operations with Complex Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Add/subtract: combine real and imaginary parts separately. Multiply: use FOIL and replace i\u00b2 with -1. Example: (2+3i)(4+i)=8+2i+12i+3i\u00b2=8+14i-3=5+14i.",
+            "examples": [
+              {
+                "problem": "(3+2i)+(1+4i)",
+                "answer": "4+6i",
+                "explanation": "Add reals: 3+1=4. Add imaginaries: 2i+4i=6i."
+              },
+              {
+                "problem": "(5+3i)-(2+i)",
+                "answer": "3+2i",
+                "explanation": "5-2=3, 3i-i=2i."
+              },
+              {
+                "problem": "(2+i)(3+2i)",
+                "answer": "4+7i",
+                "explanation": "6+4i+3i+2i\u00b2=6+7i-2=4+7i."
+              }
+            ],
+            "key_vocabulary": [
+              "FOIL",
+              "add",
+              "subtract",
+              "multiply",
+              "complex"
+            ],
+            "real_world": "Signal processing multiplies complex numbers to combine wave signals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(4+3i)+(2+5i)=6+___i",
+              "answer": "8",
+              "hint": "3+5=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "(7+2i)-(3+i)=4+___i",
+              "answer": "1",
+              "hint": "2-1=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "(1+i)(1+i)=1+2i+i\u00b2=___+2i",
+              "answer": "0",
+              "hint": "1+i\u00b2=1-1=0. So 2i."
+            },
+            {
+              "type": "fill_in",
+              "question": "(3+i)(2-i)=6-3i+2i-i\u00b2=6-i+___",
+              "answer": "1",
+              "hint": "\u2212i\u00b2=+1. Answer: 7-i."
+            },
+            {
+              "type": "fill_in",
+              "question": "(2+3i)(1+i)=2+2i+3i+3i\u00b2=___+5i",
+              "answer": "-1",
+              "hint": "2+3(-1)=-1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "i\u00b2 always equals:",
+              "options": [
+                "1",
+                "-1",
+                "i",
+                "-i"
+              ],
+              "correct": 1,
+              "hint": "By definition i\u00b2=-1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-3-3",
+          "title": "Complex Conjugates and Division",
+          "type": "lesson",
+          "content": {
+            "explanation": "Conjugate of a+bi is a-bi. Product: (a+bi)(a-bi)=a\u00b2+b\u00b2 (always real). To divide complex numbers: multiply top and bottom by the conjugate of the denominator.",
+            "examples": [
+              {
+                "problem": "Conjugate of 3+2i",
+                "answer": "3-2i",
+                "explanation": "Change sign of imaginary part."
+              },
+              {
+                "problem": "(3+2i)(3-2i)",
+                "answer": "13",
+                "explanation": "9-4i\u00b2=9+4=13."
+              },
+              {
+                "problem": "(1+i)/(2-i)",
+                "answer": "(1+3i)/5",
+                "explanation": "Multiply by (2+i)/(2+i): (2+i+2i+i\u00b2)/(4+1)=(1+3i)/5."
+              }
+            ],
+            "key_vocabulary": [
+              "conjugate",
+              "rationalize",
+              "divide",
+              "modulus"
+            ],
+            "real_world": "Complex conjugates are used in quantum mechanics to calculate probabilities."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Conjugate of 5-3i is 5+___i",
+              "answer": "3",
+              "hint": "Flip the sign."
+            },
+            {
+              "type": "fill_in",
+              "question": "(4+i)(4-i)=16+___",
+              "answer": "1",
+              "hint": "16-i\u00b2=16+1=17. Wait, =17."
+            },
+            {
+              "type": "fill_in",
+              "question": "(2+i)(2-i)=4-i\u00b2=___",
+              "answer": "5",
+              "hint": "4+1=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "(1+i)/(1-i): multiply by (1+i)/(1+i). Denominator=___",
+              "answer": "2",
+              "hint": "(1-i)(1+i)=1+1=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "(1+i)\u00b2=1+2i+i\u00b2=___+2i",
+              "answer": "0",
+              "hint": "1-1=0. Result: 2i."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "(a+bi)(a-bi)=",
+              "options": [
+                "a\u00b2-b\u00b2",
+                "a\u00b2+b\u00b2",
+                "2a",
+                "2bi"
+              ],
+              "correct": 1,
+              "hint": "a\u00b2-(bi)\u00b2=a\u00b2+b\u00b2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-3-4",
+          "title": "Quadratics with Complex Solutions",
+          "type": "lesson",
+          "content": {
+            "explanation": "When the discriminant D=b\u00b2-4ac<0, solutions are complex: x=(-b\u00b1i\u221a|D|)/(2a). Complex roots always come in conjugate pairs. Example: x\u00b2-2x+5=0 \u2192 x=(2\u00b1\u221a(-16))/2=(2\u00b14i)/2=1\u00b12i.",
+            "examples": [
+              {
+                "problem": "x\u00b2+1=0",
+                "answer": "x=\u00b1i",
+                "explanation": "D=0-4=-4. x=(0\u00b12i)/2=\u00b1i."
+              },
+              {
+                "problem": "x\u00b2+4=0",
+                "answer": "x=\u00b12i",
+                "explanation": "D=0-16=-16. x=(0\u00b14i)/2=\u00b12i."
+              },
+              {
+                "problem": "x\u00b2-2x+5=0",
+                "answer": "x=1\u00b12i",
+                "explanation": "D=4-20=-16. x=(2\u00b14i)/2=1\u00b12i."
+              }
+            ],
+            "key_vocabulary": [
+              "discriminant",
+              "complex roots",
+              "conjugate pair"
+            ],
+            "real_world": "Control systems in engineering use complex roots to analyze stability."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+9=0. x=\u00b1___i",
+              "answer": "3",
+              "hint": "x\u00b2=-9, x=\u00b13i."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+16=0. x=\u00b1___i",
+              "answer": "4",
+              "hint": "x\u00b2=-16, x=\u00b14i."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-6x+10=0. D=36-40=___",
+              "answer": "-4",
+              "hint": "D<0, complex roots."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-6x+10=0. x=(6\u00b12i)/2=___\u00b1i",
+              "answer": "3",
+              "hint": "x=3\u00b1i."
+            },
+            {
+              "type": "fill_in",
+              "question": "Complex roots come in conjugate pairs.",
+              "answer": "true",
+              "hint": "Always."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+2x+5=0. x=(-2\u00b14i)/2=___\u00b12i",
+              "answer": "-1",
+              "hint": "x=-1\u00b12i."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "i\u00b2=___",
+            "answer": "-1"
+          },
+          {
+            "type": "fill_in",
+            "question": "(3+2i)+(1+4i)=4+___i",
+            "answer": "6"
+          },
+          {
+            "type": "fill_in",
+            "question": "Conjugate of 2+7i is 2-___i",
+            "answer": "7"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2+25=0. x=\u00b1___i",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "(5+i)(5-i)=___",
+            "answer": "26"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "complex_numbers_champion"
+      }
+    },
+    {
+      "id": "11-math-4",
+      "title": "Polynomials",
+      "description": "Operations, factoring, division, and finding zeros of polynomials.",
+      "lessons": [
+        {
+          "id": "11-math-4-1",
+          "title": "Polynomial Operations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Add/subtract: combine like terms. Multiply: distribute each term. Degree = highest exponent. Leading coefficient = coefficient of highest-degree term. Standard form: descending order of exponents.",
+            "examples": [
+              {
+                "problem": "(x\u00b2+3x+2)+(2x\u00b2-x+1)",
+                "answer": "3x\u00b2+2x+3",
+                "explanation": "Combine like terms."
+              },
+              {
+                "problem": "(x+2)(x\u00b2-x+3)",
+                "answer": "x\u00b3+x\u00b2+x+6",
+                "explanation": "x\u00b3-x\u00b2+3x+2x\u00b2-2x+6=x\u00b3+x\u00b2+x+6."
+              },
+              {
+                "problem": "Degree of 5x\u2074-3x\u00b2+1",
+                "answer": "4",
+                "explanation": "Highest exponent is 4."
+              }
+            ],
+            "key_vocabulary": [
+              "polynomial",
+              "degree",
+              "leading coefficient",
+              "like terms",
+              "standard form"
+            ],
+            "real_world": "Polynomial equations model roller coaster curves and economic trends."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(2x\u00b2+x)+(x\u00b2-3x)=___x\u00b2-2x",
+              "answer": "3",
+              "hint": "2+1=3, 1-3=-2."
+            },
+            {
+              "type": "fill_in",
+              "question": "Degree of 7x\u00b3+2x-1 is ___",
+              "answer": "3",
+              "hint": "Highest power is 3."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+1)(x+2)=x\u00b2+3x+___",
+              "answer": "2",
+              "hint": "FOIL: 1\u00b72=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+3)(x-3)=x\u00b2-___",
+              "answer": "9",
+              "hint": "Difference of squares."
+            },
+            {
+              "type": "fill_in",
+              "question": "(2x-1)(x+4)=2x\u00b2+7x-___",
+              "answer": "4",
+              "hint": "2x\u00b74+(-1)x+(-1)4=8x-x-4."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Leading coefficient of -3x\u2075+x\u00b2:",
+              "options": [
+                "1",
+                "-3",
+                "5",
+                "x\u2075"
+              ],
+              "correct": 1,
+              "hint": "Coefficient of highest degree term."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-4-2",
+          "title": "Factoring Polynomials",
+          "type": "lesson",
+          "content": {
+            "explanation": "Key patterns: Difference of squares: a\u00b2-b\u00b2=(a-b)(a+b). Sum of cubes: a\u00b3+b\u00b3=(a+b)(a\u00b2-ab+b\u00b2). Difference of cubes: a\u00b3-b\u00b3=(a-b)(a\u00b2+ab+b\u00b2). Factor by grouping for 4-term polynomials.",
+            "examples": [
+              {
+                "problem": "x\u00b3-8",
+                "answer": "(x-2)(x\u00b2+2x+4)",
+                "explanation": "Difference of cubes: a=x, b=2."
+              },
+              {
+                "problem": "x\u00b3+27",
+                "answer": "(x+3)(x\u00b2-3x+9)",
+                "explanation": "Sum of cubes: a=x, b=3."
+              },
+              {
+                "problem": "x\u2074-16",
+                "answer": "(x\u00b2-4)(x\u00b2+4)=(x-2)(x+2)(x\u00b2+4)",
+                "explanation": "Factor twice."
+              }
+            ],
+            "key_vocabulary": [
+              "difference of squares",
+              "sum of cubes",
+              "difference of cubes",
+              "grouping"
+            ],
+            "real_world": "Factoring is used in cryptography to test whether large numbers are prime."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-49=(x-7)(x+___)",
+              "answer": "7",
+              "hint": "Difference of squares."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b3-1=(x-1)(x\u00b2+x+___)",
+              "answer": "1",
+              "hint": "Difference of cubes with b=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b3+8=(x+2)(x\u00b2-2x+___)",
+              "answer": "4",
+              "hint": "Sum of cubes with b=2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "a\u00b2-b\u00b2 factors as:",
+              "options": [
+                "(a+b)\u00b2",
+                "(a-b)\u00b2",
+                "(a-b)(a+b)",
+                "(a+b)(a-b+1)"
+              ],
+              "correct": 2,
+              "hint": "Difference of squares."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u2074-81=(x\u00b2-9)(x\u00b2+___)",
+              "answer": "9",
+              "hint": "81=9\u00b2. Then x\u00b2-9=(x-3)(x+3)."
+            },
+            {
+              "type": "fill_in",
+              "question": "8x\u00b3+1=(2x+1)(4x\u00b2-2x+___)",
+              "answer": "1",
+              "hint": "Sum of cubes: a=2x, b=1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-4-3",
+          "title": "Polynomial Division",
+          "type": "lesson",
+          "content": {
+            "explanation": "Long division: divide leading terms, multiply, subtract, bring down, repeat. Synthetic division (dividing by x-c): write coefficients, bring down first, multiply by c, add down. Remainder theorem: f(c) = remainder when dividing by (x-c).",
+            "examples": [
+              {
+                "problem": "(x\u00b3+2x\u00b2-5x+1)\u00f7(x-1)",
+                "answer": "x\u00b2+3x-2 R -1",
+                "explanation": "Synthetic: 1|1 2 -5 1 \u2192 1 3 -2 -1."
+              },
+              {
+                "problem": "(x\u00b3-6x\u00b2+11x-6)\u00f7(x-1)",
+                "answer": "x\u00b2-5x+6 R 0",
+                "explanation": "1|1 -6 11 -6 \u2192 1 -5 6 0. So x=1 is a root."
+              },
+              {
+                "problem": "f(x)=x\u00b2+3x+5. f(2)=?",
+                "answer": "15",
+                "explanation": "Remainder when dividing by (x-2) is f(2)=4+6+5=15."
+              }
+            ],
+            "key_vocabulary": [
+              "long division",
+              "synthetic division",
+              "remainder theorem",
+              "quotient",
+              "divisor"
+            ],
+            "real_world": "Engineers use polynomial division to simplify transfer functions in control systems."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-4)\u00f7(x-2)=x+___",
+              "answer": "2",
+              "hint": "(x-2)(x+2)/(x-2)=x+2."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b3-1. f(1)=1-1=___",
+              "answer": "0",
+              "hint": "So (x-1) is a factor."
+            },
+            {
+              "type": "fill_in",
+              "question": "Synthetic: (x\u00b2+5x+6)\u00f7(x+2). Use c=___",
+              "answer": "-2",
+              "hint": "x-c=x+2 means c=-2."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b3-8)\u00f7(x-2): remainder = f(2) = 8-8 = ___",
+              "answer": "0",
+              "hint": "x=2 is a root."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Remainder Theorem: f(c) equals the:",
+              "options": [
+                "Quotient",
+                "Remainder",
+                "Degree",
+                "Factor"
+              ],
+              "correct": 1,
+              "hint": "f(c)=remainder when dividing by (x-c)."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2+x-6)\u00f7(x-2)=x+___",
+              "answer": "3",
+              "hint": "(x-2)(x+3)/(x-2)=x+3."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-4-4",
+          "title": "Finding Zeros of Polynomials",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rational Root Theorem: possible rational zeros = \u00b1(factors of constant)/(factors of leading coeff). Factor Theorem: if f(c)=0, then (x-c) is a factor. Strategy: find one zero, factor it out, repeat.",
+            "examples": [
+              {
+                "problem": "f(x)=x\u00b3-6x\u00b2+11x-6. Possible rational roots:",
+                "answer": "\u00b11,\u00b12,\u00b13,\u00b16",
+                "explanation": "Factors of 6 / factors of 1."
+              },
+              {
+                "problem": "Test x=1: f(1)=1-6+11-6=",
+                "answer": "0. So (x-1) is a factor.",
+                "explanation": "Then factor x\u00b2-5x+6=(x-2)(x-3)."
+              },
+              {
+                "problem": "Zeros of x\u00b3-6x\u00b2+11x-6",
+                "answer": "x=1, 2, 3",
+                "explanation": "f(x)=(x-1)(x-2)(x-3)."
+              }
+            ],
+            "key_vocabulary": [
+              "rational root theorem",
+              "factor theorem",
+              "zeros",
+              "roots",
+              "multiplicity"
+            ],
+            "real_world": "Finding polynomial zeros helps economists locate break-even points."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Possible rational roots of x\u00b3+2x-3: factors of ___",
+              "answer": "3",
+              "hint": "Constant term is -3; factors: \u00b11,\u00b13."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b3-3x\u00b2+2x. Factor out x: x(x\u00b2-3x+___)",
+              "answer": "2",
+              "hint": "x(x-1)(x-2)."
+            },
+            {
+              "type": "fill_in",
+              "question": "Zeros of x(x-1)(x-2): x=0, 1, ___",
+              "answer": "2",
+              "hint": "Set each factor to 0."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2-5x+6. f(2)=4-10+6=___",
+              "answer": "0",
+              "hint": "x=2 is a zero."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If f(3)=0, then ___ is a factor.",
+              "options": [
+                "x+3",
+                "x-3",
+                "3x",
+                "x/3"
+              ],
+              "correct": 1,
+              "hint": "Factor theorem."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b3-x=x(x\u00b2-1)=x(x-1)(x+___). Zeros: -1,0,1",
+              "answer": "1",
+              "hint": "x\u00b2-1=(x-1)(x+1)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "x\u00b3+64=(x+4)(x\u00b2-4x+___)",
+            "answer": "16"
+          },
+          {
+            "type": "fill_in",
+            "question": "Degree of 2x\u2075-x\u00b3+1 is ___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "(x\u00b2-9)\u00f7(x+3)=x-___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=x\u00b2-4. f(2)=___",
+            "answer": "0"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "x\u2074-1 factors as:",
+            "options": [
+              "(x\u00b2-1)(x\u00b2+1)",
+              "(x-1)\u2074",
+              "(x\u00b2-1)\u00b2",
+              "Cannot factor"
+            ],
+            "correct": 0
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "polynomial_pro"
+      }
+    },
+    {
+      "id": "11-math-5",
+      "title": "Rational Functions",
+      "description": "Simplify, operate on, and solve rational expressions and equations.",
+      "lessons": [
+        {
+          "id": "11-math-5-1",
+          "title": "Simplifying Rational Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A rational expression is a fraction with polynomials. To simplify: factor numerator and denominator, cancel common factors. State restrictions (values that make denominator 0).",
+            "examples": [
+              {
+                "problem": "(x\u00b2-4)/(x-2)",
+                "answer": "x+2, x\u22602",
+                "explanation": "(x-2)(x+2)/(x-2)=x+2."
+              },
+              {
+                "problem": "(x\u00b2-x-6)/(x\u00b2-9)",
+                "answer": "(x+2)/(x+3), x\u2260\u00b13",
+                "explanation": "(x-3)(x+2)/((x-3)(x+3))."
+              },
+              {
+                "problem": "(2x+4)/(x+2)",
+                "answer": "2, x\u2260-2",
+                "explanation": "2(x+2)/(x+2)=2."
+              }
+            ],
+            "key_vocabulary": [
+              "rational expression",
+              "simplify",
+              "restriction",
+              "cancel",
+              "factor"
+            ],
+            "real_world": "Rates like speed=distance/time are rational expressions in disguise."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-1)/(x-1)=x+___, x\u22601",
+              "answer": "1",
+              "hint": "(x-1)(x+1)/(x-1)=x+1."
+            },
+            {
+              "type": "fill_in",
+              "question": "(3x+6)/(x+2)=___, x\u2260-2",
+              "answer": "3",
+              "hint": "3(x+2)/(x+2)=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2+5x+6)/(x+2)=x+___",
+              "answer": "3",
+              "hint": "(x+2)(x+3)/(x+2)=x+3."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-16)/(x+4)=x-___",
+              "answer": "4",
+              "hint": "(x-4)(x+4)/(x+4)=x-4."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Restriction for 5/(x-3):",
+              "options": [
+                "x\u22600",
+                "x\u22603",
+                "x\u2260-3",
+                "x\u22605"
+              ],
+              "correct": 1,
+              "hint": "Denominator x-3\u22600."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-25)/(x-5)=x+___",
+              "answer": "5",
+              "hint": "(x-5)(x+5)/(x-5)=x+5."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-5-2",
+          "title": "Multiplying and Dividing Rational Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiply: factor everything, cancel, multiply remaining. Divide: flip the second fraction and multiply. Always factor before canceling.",
+            "examples": [
+              {
+                "problem": "(x/y)\u00b7(y\u00b2/x\u00b2)",
+                "answer": "y/x",
+                "explanation": "Cancel one x and one y."
+              },
+              {
+                "problem": "(x\u00b2-1)/(x+2) \u00f7 (x-1)/(x+2)",
+                "answer": "x+1",
+                "explanation": "Flip and multiply: (x\u00b2-1)/(x-1)=x+1."
+              },
+              {
+                "problem": "(x+3)/4 \u00b7 8/(x+3)",
+                "answer": "2",
+                "explanation": "8/4=2, (x+3) cancels."
+              }
+            ],
+            "key_vocabulary": [
+              "multiply",
+              "divide",
+              "reciprocal",
+              "cancel"
+            ],
+            "real_world": "Pharmacists multiply rational expressions when calculating drug concentrations."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x/3)\u00b7(9/x)=___",
+              "answer": "3",
+              "hint": "9/3=3, x cancels."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-4)/(x+1) \u00b7 (x+1)/(x-2)=x+___",
+              "answer": "2",
+              "hint": "Cancel (x+1), (x-2). Left: x+2."
+            },
+            {
+              "type": "fill_in",
+              "question": "(6/x) \u00f7 (3/x)=___",
+              "answer": "2",
+              "hint": "(6/x)\u00b7(x/3)=6/3=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+1)/5 \u00b7 10/(x+1)=___",
+              "answer": "2",
+              "hint": "10/5=2, (x+1) cancels."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To divide fractions:",
+              "options": [
+                "Cross multiply",
+                "Flip second and multiply",
+                "Add",
+                "Subtract"
+              ],
+              "correct": 1,
+              "hint": "Multiply by reciprocal."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x\u00b2-9)/(x+1) \u00f7 (x-3)/(x+1)=x+___",
+              "answer": "3",
+              "hint": "(x-3)(x+3)/(x-3)=x+3."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-5-3",
+          "title": "Adding and Subtracting Rational Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Same denominator: add/subtract numerators. Different denominators: find LCD, rewrite each fraction, then add/subtract. LCD = least common multiple of denominators.",
+            "examples": [
+              {
+                "problem": "1/x + 1/y",
+                "answer": "(y+x)/(xy)",
+                "explanation": "LCD=xy. y/(xy)+x/(xy)=(x+y)/(xy)."
+              },
+              {
+                "problem": "2/(x+1) + 3/(x-1)",
+                "answer": "(5x+1)/((x+1)(x-1))",
+                "explanation": "2(x-1)+3(x+1)=5x+1."
+              },
+              {
+                "problem": "5/x - 3/x",
+                "answer": "2/x",
+                "explanation": "Same denominator: (5-3)/x=2/x."
+              }
+            ],
+            "key_vocabulary": [
+              "LCD",
+              "common denominator",
+              "add",
+              "subtract",
+              "rational"
+            ],
+            "real_world": "Adding fractions with different units (like combining rates) uses LCD."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "3/x + 2/x = ___/x",
+              "answer": "5",
+              "hint": "Same denominator: 3+2=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "1/2 + 1/3 = ___/6",
+              "answer": "5",
+              "hint": "3/6+2/6=5/6."
+            },
+            {
+              "type": "fill_in",
+              "question": "1/(x+1) + 1/(x-1). LCD=(x+1)(x-___)",
+              "answer": "1",
+              "hint": "LCD is product of denominators."
+            },
+            {
+              "type": "fill_in",
+              "question": "x/3 + x/6 = ___x/6",
+              "answer": "3",
+              "hint": "2x/6+x/6=3x/6."
+            },
+            {
+              "type": "fill_in",
+              "question": "2/x - 1/x = ___/x",
+              "answer": "1",
+              "hint": "Same denominator: 2-1=1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To add fractions with different denominators:",
+              "options": [
+                "Cross multiply",
+                "Find LCD",
+                "Flip",
+                "Cancel"
+              ],
+              "correct": 1,
+              "hint": "Need common denominator."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-5-4",
+          "title": "Solving Rational Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiply both sides by LCD to eliminate fractions. Solve the resulting equation. CHECK for extraneous solutions (values that make original denominator 0).",
+            "examples": [
+              {
+                "problem": "1/x + 1/3 = 1/2",
+                "answer": "x=6",
+                "explanation": "LCD=6x: 6+2x=3x \u2192 x=6. Check: 1/6+1/3=1/6+2/6=3/6=1/2 \u2713"
+              },
+              {
+                "problem": "x/(x-2) = 3/(x-2) + 2",
+                "answer": "x=1",
+                "explanation": "LCD=(x-2): x=3+2(x-2)=2x-1 \u2192 x=1. Check: 1/(-1)=-1, 3/(-1)+2=-1 \u2713"
+              },
+              {
+                "problem": "1/(x-1)=2/(x+1)",
+                "answer": "x=3",
+                "explanation": "x+1=2(x-1) \u2192 x+1=2x-2 \u2192 x=3. Check: 1/2=2/4 \u2713"
+              }
+            ],
+            "key_vocabulary": [
+              "LCD",
+              "extraneous solution",
+              "rational equation",
+              "check"
+            ],
+            "real_world": "Rate problems (work, speed) often lead to rational equations."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "3/x=1. x=___",
+              "answer": "3",
+              "hint": "Multiply both sides by x: 3=x."
+            },
+            {
+              "type": "fill_in",
+              "question": "2/x+1/x=1. 3/x=1. x=___",
+              "answer": "3",
+              "hint": "Combine: 3/x=1, x=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "x/(x-3)=3/(x-3). x=3 is extraneous because x-3=___",
+              "answer": "0",
+              "hint": "Makes denominator 0."
+            },
+            {
+              "type": "fill_in",
+              "question": "1/x+1/4=1/3. LCD=12x. 12+3x=4x. x=___",
+              "answer": "12",
+              "hint": "12=x."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An extraneous solution:",
+              "options": [
+                "Is correct",
+                "Makes denominator 0",
+                "Is negative",
+                "Is imaginary"
+              ],
+              "correct": 1,
+              "hint": "Makes denominator zero."
+            },
+            {
+              "type": "fill_in",
+              "question": "2/(x+1)=1. x+1=2. x=___",
+              "answer": "1",
+              "hint": "Multiply by (x+1): 2=x+1."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-5-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "(x\u00b2-9)/(x-3)=x+___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "(x/2)\u00b7(6/x)=___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "1/x+1/5=1/4. x=___",
+            "answer": "20"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Extraneous solutions make the ___ zero:",
+            "options": [
+              "Numerator",
+              "Denominator",
+              "Variable",
+              "Coefficient"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "1/3+1/6=___/6",
+            "answer": "3"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rational_functions_ace"
+      }
+    },
+    {
+      "id": "11-math-6",
+      "title": "Radical and Exponential Functions",
+      "description": "Nth roots, rational exponents, radical operations, and exponential functions.",
+      "lessons": [
+        {
+          "id": "11-math-6-1",
+          "title": "Nth Roots and Rational Exponents",
+          "type": "lesson",
+          "content": {
+            "explanation": "\u207f\u221aa = a^(1/n). a^(m/n) = (\u207f\u221aa)^m. Rules: a^m \u00b7 a^n = a^(m+n). (a^m)^n = a^(mn). a^(-n) = 1/a^n. a^0 = 1.",
+            "examples": [
+              {
+                "problem": "8^(2/3)",
+                "answer": "4",
+                "explanation": "(\u221b8)\u00b2=2\u00b2=4."
+              },
+              {
+                "problem": "27^(1/3)",
+                "answer": "3",
+                "explanation": "\u221b27=3."
+              },
+              {
+                "problem": "16^(3/4)",
+                "answer": "8",
+                "explanation": "(\u2074\u221a16)\u00b3=2\u00b3=8."
+              }
+            ],
+            "key_vocabulary": [
+              "nth root",
+              "rational exponent",
+              "radical",
+              "base",
+              "index"
+            ],
+            "real_world": "Compound interest formulas use rational exponents for fractional time periods."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "4^(1/2)=___",
+              "answer": "2",
+              "hint": "\u221a4=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "8^(1/3)=___",
+              "answer": "2",
+              "hint": "\u221b8=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "27^(2/3)=___",
+              "answer": "9",
+              "hint": "(\u221b27)\u00b2=3\u00b2=9."
+            },
+            {
+              "type": "fill_in",
+              "question": "16^(3/4)=___",
+              "answer": "8",
+              "hint": "(\u2074\u221a16)\u00b3=2\u00b3=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "32^(1/5)=___",
+              "answer": "2",
+              "hint": "\u2075\u221a32=2 since 2\u2075=32."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "a^(1/n) means:",
+              "options": [
+                "a\u00b7n",
+                "a/n",
+                "\u207f\u221aa",
+                "a\u207f"
+              ],
+              "correct": 2,
+              "hint": "nth root of a."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-6-2",
+          "title": "Simplifying Radicals",
+          "type": "lesson",
+          "content": {
+            "explanation": "\u221a(ab)=\u221aa\u00b7\u221ab. \u221a(a/b)=\u221aa/\u221ab. Simplify by extracting perfect square factors. Add/subtract radicals with same radicand (like terms). Rationalize denominators by multiplying by \u221an/\u221an.",
+            "examples": [
+              {
+                "problem": "\u221a12",
+                "answer": "2\u221a3",
+                "explanation": "\u221a(4\u00b73)=2\u221a3."
+              },
+              {
+                "problem": "\u221a50",
+                "answer": "5\u221a2",
+                "explanation": "\u221a(25\u00b72)=5\u221a2."
+              },
+              {
+                "problem": "\u221a8+\u221a18",
+                "answer": "5\u221a2",
+                "explanation": "2\u221a2+3\u221a2=5\u221a2."
+              }
+            ],
+            "key_vocabulary": [
+              "simplify",
+              "radicand",
+              "rationalize",
+              "like radicals"
+            ],
+            "real_world": "Pythagorean theorem calculations often require simplifying radicals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "\u221a75=___\u221a3",
+              "answer": "5",
+              "hint": "\u221a(25\u00b73)=5\u221a3."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u221a32=___\u221a2",
+              "answer": "4",
+              "hint": "\u221a(16\u00b72)=4\u221a2."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u221a20+\u221a45=2\u221a5+3\u221a5=___\u221a5",
+              "answer": "5",
+              "hint": "Like radicals."
+            },
+            {
+              "type": "fill_in",
+              "question": "3\u221a2+\u221a2=___\u221a2",
+              "answer": "4",
+              "hint": "3+1=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u221a48=___\u221a3",
+              "answer": "4",
+              "hint": "\u221a(16\u00b73)=4\u221a3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "\u221a(a\u00b7b)=",
+              "options": [
+                "\u221aa+\u221ab",
+                "\u221aa\u00b7\u221ab",
+                "(ab)\u00b2",
+                "a\u221ab"
+              ],
+              "correct": 1,
+              "hint": "Product rule for radicals."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-6-3",
+          "title": "Exponential Functions and Growth",
+          "type": "lesson",
+          "content": {
+            "explanation": "f(x)=a\u00b7b\u02e3. If b>1: exponential growth. If 0<b<1: exponential decay. Compound interest: A=P(1+r/n)^(nt). Continuously compounded: A=Pe^(rt). Half-life: A=A\u2080\u00b7(1/2)^(t/h).",
+            "examples": [
+              {
+                "problem": "f(x)=2\u02e3. f(3)=?",
+                "answer": "8",
+                "explanation": "2\u00b3=8."
+              },
+              {
+                "problem": "$1000 at 5% annual, 10 years",
+                "answer": "$1000(1.05)^10 \u2248 $1628.89",
+                "explanation": "Compound interest."
+              },
+              {
+                "problem": "Half-life 3 years. After 6 years?",
+                "answer": "25%",
+                "explanation": "(1/2)\u00b2=1/4 remaining."
+              }
+            ],
+            "key_vocabulary": [
+              "exponential growth",
+              "decay",
+              "compound interest",
+              "half-life",
+              "base"
+            ],
+            "real_world": "Population growth, radioactive decay, and bank interest all follow exponential models."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=3\u02e3. f(4)=___",
+              "answer": "81",
+              "hint": "3\u2074=81."
+            },
+            {
+              "type": "fill_in",
+              "question": "2\u02e3=32. x=___",
+              "answer": "5",
+              "hint": "2\u2075=32."
+            },
+            {
+              "type": "fill_in",
+              "question": "Half-life 4 hrs. After 8 hrs, fraction left=1/___",
+              "answer": "4",
+              "hint": "(1/2)\u00b2=1/4."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "b>1 means:",
+              "options": [
+                "Growth",
+                "Decay",
+                "Constant",
+                "Undefined"
+              ],
+              "correct": 0,
+              "hint": "b>1 = growth."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=5\u00b72\u02e3. f(0)=___",
+              "answer": "5",
+              "hint": "5\u00b72\u2070=5\u00b71=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "3\u02e3=27. x=___",
+              "answer": "3",
+              "hint": "3\u00b3=27."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-6-4",
+          "title": "Solving Exponential Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Same base method: if b\u02e3=b\u02b8, then x=y. Rewrite both sides with the same base. If bases can't match, use logarithms (covered next unit). Key: 4=2\u00b2, 8=2\u00b3, 9=3\u00b2, 27=3\u00b3, 16=2\u2074, etc.",
+            "examples": [
+              {
+                "problem": "2\u02e3=16",
+                "answer": "x=4",
+                "explanation": "16=2\u2074, so x=4."
+              },
+              {
+                "problem": "3^(2x)=81",
+                "answer": "x=2",
+                "explanation": "81=3\u2074, so 2x=4, x=2."
+              },
+              {
+                "problem": "5^(x+1)=125",
+                "answer": "x=2",
+                "explanation": "125=5\u00b3, so x+1=3, x=2."
+              }
+            ],
+            "key_vocabulary": [
+              "same base",
+              "exponential equation",
+              "rewrite",
+              "power"
+            ],
+            "real_world": "Exponential equations model the spread of viral content on social media."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "2\u02e3=64. x=___",
+              "answer": "6",
+              "hint": "2\u2076=64."
+            },
+            {
+              "type": "fill_in",
+              "question": "3\u02e3=243. x=___",
+              "answer": "5",
+              "hint": "3\u2075=243."
+            },
+            {
+              "type": "fill_in",
+              "question": "4\u02e3=64. x=___",
+              "answer": "3",
+              "hint": "4\u00b3=64."
+            },
+            {
+              "type": "fill_in",
+              "question": "5^(2x)=625. 2x=4. x=___",
+              "answer": "2",
+              "hint": "625=5\u2074."
+            },
+            {
+              "type": "fill_in",
+              "question": "2^(x+1)=32. x+1=5. x=___",
+              "answer": "4",
+              "hint": "32=2\u2075."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If 9\u02e3=27, rewrite as:",
+              "options": [
+                "(3\u00b2)\u02e3=3\u00b3",
+                "9\u02e3=9\u00b3",
+                "3\u02e3=27",
+                "Can't solve"
+              ],
+              "correct": 0,
+              "hint": "3^(2x)=3\u00b3, so 2x=3."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "8^(2/3)=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "\u221a72=___\u221a2",
+            "answer": "6"
+          },
+          {
+            "type": "fill_in",
+            "question": "2\u02e3=128. x=___",
+            "answer": "7"
+          },
+          {
+            "type": "fill_in",
+            "question": "27^(1/3)=___",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "0<b<1 means:",
+            "options": [
+              "Growth",
+              "Decay",
+              "Constant",
+              "Linear"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "radical_exponential_expert"
+      }
+    },
+    {
+      "id": "11-math-7",
+      "title": "Logarithmic Functions",
+      "description": "Logarithm definition, properties, solving equations, and applications.",
+      "lessons": [
+        {
+          "id": "11-math-7-1",
+          "title": "Introduction to Logarithms",
+          "type": "lesson",
+          "content": {
+            "explanation": "log_b(x)=y means b^y=x. A logarithm answers: 'What exponent gives me x?' log_b(b)=1. log_b(1)=0. Common log: log=log\u2081\u2080. Natural log: ln=log\u2091. Inverse: b^(log_b(x))=x.",
+            "examples": [
+              {
+                "problem": "log\u2082(8)",
+                "answer": "3",
+                "explanation": "2\u00b3=8."
+              },
+              {
+                "problem": "log\u2083(81)",
+                "answer": "4",
+                "explanation": "3\u2074=81."
+              },
+              {
+                "problem": "log\u2081\u2080(1000)",
+                "answer": "3",
+                "explanation": "10\u00b3=1000."
+              }
+            ],
+            "key_vocabulary": [
+              "logarithm",
+              "base",
+              "common log",
+              "natural log",
+              "inverse"
+            ],
+            "real_world": "The Richter scale uses log\u2081\u2080 \u2014 each unit is 10\u00d7 more intense."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "log\u2082(16)=___",
+              "answer": "4",
+              "hint": "2\u2074=16."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2083(27)=___",
+              "answer": "3",
+              "hint": "3\u00b3=27."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2085(125)=___",
+              "answer": "3",
+              "hint": "5\u00b3=125."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2081\u2080(100)=___",
+              "answer": "2",
+              "hint": "10\u00b2=100."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2084(1)=___",
+              "answer": "0",
+              "hint": "Any base: log_b(1)=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "log_b(b)=",
+              "options": [
+                "0",
+                "1",
+                "b",
+                "b\u00b2"
+              ],
+              "correct": 1,
+              "hint": "b\u00b9=b, so log=1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-7-2",
+          "title": "Properties of Logarithms",
+          "type": "lesson",
+          "content": {
+            "explanation": "Product rule: log(ab)=log(a)+log(b). Quotient rule: log(a/b)=log(a)-log(b). Power rule: log(a\u207f)=n\u00b7log(a). Change of base: log_b(x)=log(x)/log(b)=ln(x)/ln(b).",
+            "examples": [
+              {
+                "problem": "log(2\u00b75)",
+                "answer": "log2+log5=log10=1",
+                "explanation": "Product rule."
+              },
+              {
+                "problem": "log(x\u00b3)",
+                "answer": "3log(x)",
+                "explanation": "Power rule: bring exponent down."
+              },
+              {
+                "problem": "log\u2082(8) via change of base",
+                "answer": "log8/log2=0.903/0.301=3",
+                "explanation": "Change of base formula."
+              }
+            ],
+            "key_vocabulary": [
+              "product rule",
+              "quotient rule",
+              "power rule",
+              "change of base",
+              "expand",
+              "condense"
+            ],
+            "real_world": "Sound decibels use logarithms: dB=10\u00b7log(I/I\u2080)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "log(ab)=log(a)+log(___)",
+              "answer": "b",
+              "hint": "Product rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(a/b)=log(a)-log(___)",
+              "answer": "b",
+              "hint": "Quotient rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(x\u2075)=___\u00b7log(x)",
+              "answer": "5",
+              "hint": "Power rule."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "log\u2083(9)=log(9)/log(___):",
+              "options": [
+                "3",
+                "9",
+                "1",
+                "27"
+              ],
+              "correct": 0,
+              "hint": "Change of base: divide by log(3)."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(8)=log(2\u00b3)=3\u00b7log(___)",
+              "answer": "2",
+              "hint": "Power rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(20)=log(4\u00b75)=log(4)+log(___)",
+              "answer": "5",
+              "hint": "Product rule."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-7-3",
+          "title": "Solving Logarithmic Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strategy 1: Convert log to exponential form. log_b(x)=c \u2192 x=b^c. Strategy 2: If log_b(A)=log_b(B), then A=B. Always check: argument of log must be positive.",
+            "examples": [
+              {
+                "problem": "log\u2082(x)=5",
+                "answer": "x=32",
+                "explanation": "2\u2075=32."
+              },
+              {
+                "problem": "log(x)+log(2)=log(10)",
+                "answer": "x=5",
+                "explanation": "log(2x)=log(10) \u2192 2x=10 \u2192 x=5."
+              },
+              {
+                "problem": "ln(x)=0",
+                "answer": "x=1",
+                "explanation": "e\u2070=1."
+              }
+            ],
+            "key_vocabulary": [
+              "exponential form",
+              "logarithmic equation",
+              "check",
+              "domain"
+            ],
+            "real_world": "pH in chemistry is solved using logarithmic equations: pH=-log[H\u207a]."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "log\u2083(x)=4. x=___",
+              "answer": "81",
+              "hint": "3\u2074=81."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2082(x)=6. x=___",
+              "answer": "64",
+              "hint": "2\u2076=64."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(x)+log(5)=log(20). x=___",
+              "answer": "4",
+              "hint": "log(5x)=log(20) \u2192 x=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "ln(x)=1. x=___",
+              "answer": "e",
+              "hint": "e\u00b9=e \u2248 2.718."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2085(x)=0. x=___",
+              "answer": "1",
+              "hint": "5\u2070=1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "log_b(x)=y means:",
+              "options": [
+                "x=by",
+                "x=b^y",
+                "y=bx",
+                "b=x^y"
+              ],
+              "correct": 1,
+              "hint": "Convert to exponential."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-7-4",
+          "title": "Applications of Logarithms",
+          "type": "lesson",
+          "content": {
+            "explanation": "Compound interest: A=Pe^(rt), solve for t: t=ln(A/P)/r. pH=-log[H\u207a]. Richter magnitude: each unit=10\u00d7 energy. Decibels: dB=10\u00b7log(I/I\u2080). Population doubling time: t=ln(2)/r.",
+            "examples": [
+              {
+                "problem": "$1000 doubles at 7%. Time?",
+                "answer": "t=ln(2)/0.07\u22489.9 years",
+                "explanation": "ln(2)\u22480.693. 0.693/0.07\u22489.9."
+              },
+              {
+                "problem": "[H\u207a]=10\u207b\u2074. pH?",
+                "answer": "4",
+                "explanation": "pH=-log(10\u207b\u2074)=4."
+              },
+              {
+                "problem": "Population grows 3%/year. Doubling time?",
+                "answer": "\u224823 years",
+                "explanation": "ln(2)/0.03\u224823.1."
+              }
+            ],
+            "key_vocabulary": [
+              "compound interest",
+              "pH",
+              "Richter",
+              "decibels",
+              "doubling time"
+            ],
+            "real_world": "Carbon-14 dating uses logarithms to determine the age of fossils."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "pH=-log(10\u207b\u2077)=___",
+              "answer": "7",
+              "hint": "Neutral water."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH=-log(10\u207b\u00b3)=___",
+              "answer": "3",
+              "hint": "Acidic."
+            },
+            {
+              "type": "fill_in",
+              "question": "Doubling time at 5%: ln(2)/0.05 \u2248 0.693/0.05 = ___",
+              "answer": "13.86",
+              "hint": "\u224814 years."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Each Richter unit is ___ times more intense:",
+              "options": [
+                "2",
+                "5",
+                "10",
+                "100"
+              ],
+              "correct": 2,
+              "hint": "Logarithmic scale, base 10."
+            },
+            {
+              "type": "fill_in",
+              "question": "A=1000e^(0.1\u00b710)=1000e^1=1000\u00b7___",
+              "answer": "e",
+              "hint": "\u2248$2718."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH=-log(10\u207b\u2075)=___",
+              "answer": "5",
+              "hint": "-(-5)=5."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "log\u2082(32)=___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "log(x\u2074)=4\u00b7log(___)",
+            "answer": "x"
+          },
+          {
+            "type": "fill_in",
+            "question": "log\u2083(x)=3. x=___",
+            "answer": "27"
+          },
+          {
+            "type": "fill_in",
+            "question": "pH=-log(10\u207b\u2079)=___",
+            "answer": "9"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "log(ab)=",
+            "options": [
+              "log(a)\u00b7log(b)",
+              "log(a)+log(b)",
+              "log(a)-log(b)",
+              "log(a)/log(b)"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "logarithm_legend"
+      }
+    },
+    {
+      "id": "11-math-8",
+      "title": "Trigonometric Functions",
+      "description": "Unit circle, radian measure, graphs, identities, and solving trig equations.",
+      "lessons": [
+        {
+          "id": "11-math-8-1",
+          "title": "Unit Circle and Radian Measure",
+          "type": "lesson",
+          "content": {
+            "explanation": "Radians: 360\u00b0=2\u03c0, 180\u00b0=\u03c0, 90\u00b0=\u03c0/2, 60\u00b0=\u03c0/3, 45\u00b0=\u03c0/4, 30\u00b0=\u03c0/6. Convert: rad=deg\u00d7\u03c0/180. Key values: sin(30\u00b0)=1/2, cos(30\u00b0)=\u221a3/2, sin(45\u00b0)=\u221a2/2, cos(45\u00b0)=\u221a2/2, sin(60\u00b0)=\u221a3/2, cos(60\u00b0)=1/2.",
+            "examples": [
+              {
+                "problem": "Convert 90\u00b0 to radians",
+                "answer": "\u03c0/2",
+                "explanation": "90\u00d7\u03c0/180=\u03c0/2."
+              },
+              {
+                "problem": "sin(\u03c0/6)=sin(30\u00b0)",
+                "answer": "1/2",
+                "explanation": "Standard unit circle value."
+              },
+              {
+                "problem": "cos(\u03c0/4)=cos(45\u00b0)",
+                "answer": "\u221a2/2",
+                "explanation": "45\u00b0 is on the diagonal."
+              }
+            ],
+            "key_vocabulary": [
+              "radian",
+              "unit circle",
+              "convert",
+              "sine",
+              "cosine",
+              "reference angle"
+            ],
+            "real_world": "Rotating wheels, pendulums, and orbits all measure angles in radians."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "180\u00b0 = ___ radians",
+              "answer": "\u03c0",
+              "hint": "180\u00b0=\u03c0."
+            },
+            {
+              "type": "fill_in",
+              "question": "360\u00b0 = ___ radians",
+              "answer": "2\u03c0",
+              "hint": "Full circle."
+            },
+            {
+              "type": "fill_in",
+              "question": "sin(30\u00b0)=1/___",
+              "answer": "2",
+              "hint": "sin(30\u00b0)=0.5=1/2."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos(60\u00b0)=1/___",
+              "answer": "2",
+              "hint": "cos(60\u00b0)=0.5."
+            },
+            {
+              "type": "fill_in",
+              "question": "Convert 45\u00b0 to radians: \u03c0/___",
+              "answer": "4",
+              "hint": "45/180=1/4."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "sin(90\u00b0)=",
+              "options": [
+                "0",
+                "1/2",
+                "\u221a2/2",
+                "1"
+              ],
+              "correct": 3,
+              "hint": "sin(90\u00b0)=1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-8-2",
+          "title": "Graphing Sine and Cosine",
+          "type": "lesson",
+          "content": {
+            "explanation": "y=A\u00b7sin(Bx+C)+D. Amplitude=|A| (height). Period=2\u03c0/B (one cycle length). Phase shift=-C/B (horizontal shift). Vertical shift=D. sin starts at 0, cos starts at max. sin and cos have same shape, shifted \u03c0/2.",
+            "examples": [
+              {
+                "problem": "y=3sin(2x). Amplitude? Period?",
+                "answer": "Amp=3, Period=\u03c0",
+                "explanation": "|3|=3, 2\u03c0/2=\u03c0."
+              },
+              {
+                "problem": "y=sin(x)+1. Vertical shift?",
+                "answer": "Up 1",
+                "explanation": "D=1."
+              },
+              {
+                "problem": "y=cos(x-\u03c0/2). Phase shift?",
+                "answer": "Right \u03c0/2",
+                "explanation": "Shift=-(-\u03c0/2)/1=\u03c0/2 right."
+              }
+            ],
+            "key_vocabulary": [
+              "amplitude",
+              "period",
+              "phase shift",
+              "vertical shift",
+              "sinusoidal"
+            ],
+            "real_world": "Sound waves are modeled by sine functions \u2014 amplitude is volume, frequency is pitch."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "y=5sin(x). Amplitude=___",
+              "answer": "5",
+              "hint": "|A|=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=sin(4x). Period=2\u03c0/___",
+              "answer": "4",
+              "hint": "Period=2\u03c0/B."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=sin(x)+3. Vertical shift=___",
+              "answer": "3",
+              "hint": "D=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "y=2cos(\u03c0x). Period=2\u03c0/\u03c0=___",
+              "answer": "2",
+              "hint": "Period=2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "sin(0)=",
+              "options": [
+                "0",
+                "1",
+                "-1",
+                "1/2"
+              ],
+              "correct": 0,
+              "hint": "Sine starts at 0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "cos(0)=",
+              "options": [
+                "0",
+                "1",
+                "-1",
+                "1/2"
+              ],
+              "correct": 1,
+              "hint": "Cosine starts at max=1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-8-3",
+          "title": "Trigonometric Identities",
+          "type": "lesson",
+          "content": {
+            "explanation": "Pythagorean: sin\u00b2\u03b8+cos\u00b2\u03b8=1, tan\u00b2\u03b8+1=sec\u00b2\u03b8, 1+cot\u00b2\u03b8=csc\u00b2\u03b8. Quotient: tan\u03b8=sin\u03b8/cos\u03b8. Reciprocal: csc\u03b8=1/sin\u03b8, sec\u03b8=1/cos\u03b8, cot\u03b8=1/tan\u03b8. Double angle: sin(2\u03b8)=2sin\u03b8cos\u03b8, cos(2\u03b8)=cos\u00b2\u03b8-sin\u00b2\u03b8.",
+            "examples": [
+              {
+                "problem": "Verify: sin\u00b2\u03b8+cos\u00b2\u03b8",
+                "answer": "1",
+                "explanation": "Fundamental Pythagorean identity."
+              },
+              {
+                "problem": "sin(2\u00b730\u00b0)=sin(60\u00b0)",
+                "answer": "\u221a3/2",
+                "explanation": "Also: 2sin30\u00b0cos30\u00b0=2(1/2)(\u221a3/2)=\u221a3/2. \u2713"
+              },
+              {
+                "problem": "If sin\u03b8=3/5, cos\u03b8=4/5. tan\u03b8=?",
+                "answer": "3/4",
+                "explanation": "tan\u03b8=sin\u03b8/cos\u03b8=3/4."
+              }
+            ],
+            "key_vocabulary": [
+              "Pythagorean identity",
+              "quotient identity",
+              "reciprocal",
+              "double angle"
+            ],
+            "real_world": "Engineers use trig identities to simplify wave interference calculations."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sin\u00b2\u03b8+cos\u00b2\u03b8=___",
+              "answer": "1",
+              "hint": "Fundamental identity."
+            },
+            {
+              "type": "fill_in",
+              "question": "tan\u03b8=sin\u03b8/___",
+              "answer": "cos\u03b8",
+              "hint": "Quotient identity."
+            },
+            {
+              "type": "fill_in",
+              "question": "sin(2\u03b8)=2sin\u03b8\u00b7___",
+              "answer": "cos\u03b8",
+              "hint": "Double angle formula."
+            },
+            {
+              "type": "fill_in",
+              "question": "1/sin\u03b8=___",
+              "answer": "csc\u03b8",
+              "hint": "Reciprocal identity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "cos(2\u03b8)=",
+              "options": [
+                "2cos\u03b8",
+                "cos\u00b2\u03b8-sin\u00b2\u03b8",
+                "cos\u03b8-sin\u03b8",
+                "2cos\u03b8sin\u03b8"
+              ],
+              "correct": 1,
+              "hint": "Double angle for cosine."
+            },
+            {
+              "type": "fill_in",
+              "question": "If sin\u03b8=5/13, cos\u03b8=12/13. tan\u03b8=5/___",
+              "answer": "12",
+              "hint": "tan=sin/cos."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-math-8-4",
+          "title": "Solving Trigonometric Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Isolate the trig function, then find the angle. Remember: sine and cosine repeat every 2\u03c0. Use reference angles and check all quadrants. General solution includes +2\u03c0n (n integer).",
+            "examples": [
+              {
+                "problem": "sinx=1/2, 0\u2264x<2\u03c0",
+                "answer": "x=\u03c0/6 or x=5\u03c0/6",
+                "explanation": "sin positive in Q1 and Q2."
+              },
+              {
+                "problem": "cosx=0, 0\u2264x<2\u03c0",
+                "answer": "x=\u03c0/2 or x=3\u03c0/2",
+                "explanation": "cos=0 at top and bottom."
+              },
+              {
+                "problem": "2sinx-1=0",
+                "answer": "sinx=1/2 \u2192 x=\u03c0/6, 5\u03c0/6 (+2\u03c0n)",
+                "explanation": "Isolate sin first."
+              }
+            ],
+            "key_vocabulary": [
+              "reference angle",
+              "quadrant",
+              "general solution",
+              "inverse trig",
+              "period"
+            ],
+            "real_world": "Navigation systems solve trig equations to determine direction and heading."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sinx=1. x=___\u00b0 (0\u00b0-360\u00b0)",
+              "answer": "90",
+              "hint": "sin(90\u00b0)=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "cosx=-1. x=___\u00b0 (0\u00b0-360\u00b0)",
+              "answer": "180",
+              "hint": "cos(180\u00b0)=-1."
+            },
+            {
+              "type": "fill_in",
+              "question": "tanx=1. x=45\u00b0 and ___\u00b0 (0\u00b0-360\u00b0)",
+              "answer": "225",
+              "hint": "Tan positive in Q1 and Q3."
+            },
+            {
+              "type": "fill_in",
+              "question": "sinx=0. x=0\u00b0 and ___\u00b0 (0\u00b0-360\u00b0)",
+              "answer": "180",
+              "hint": "sin(0\u00b0)=sin(180\u00b0)=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "sinx=\u221a2/2. In [0,2\u03c0], x=\u03c0/4 and:",
+              "options": [
+                "3\u03c0/4",
+                "5\u03c0/4",
+                "7\u03c0/4",
+                "2\u03c0"
+              ],
+              "correct": 0,
+              "hint": "Sin positive in Q1 and Q2."
+            },
+            {
+              "type": "fill_in",
+              "question": "2cosx=1. cosx=1/2. x=60\u00b0 and ___\u00b0",
+              "answer": "300",
+              "hint": "Cos positive in Q1 and Q4."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-math-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "sin(30\u00b0)=1/___",
+            "answer": "2"
+          },
+          {
+            "type": "fill_in",
+            "question": "y=4sin(x). Amplitude=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "sin\u00b2\u03b8+cos\u00b2\u03b8=___",
+            "answer": "1"
+          },
+          {
+            "type": "fill_in",
+            "question": "Convert 60\u00b0 to radians: \u03c0/___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "cosx=0. x=90\u00b0 and ___\u00b0 (0\u00b0-360\u00b0)",
+            "answer": "270"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "trig_titan"
+      }
+    }
+  ]
+}

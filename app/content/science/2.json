@@ -1,0 +1,665 @@
+{
+  "grade": 2,
+  "subject": "science",
+  "units": [
+    {
+      "id": "2-science-1",
+      "title": "States of Matter",
+      "description": "Explore solids, liquids, and gases in depth, and learn how matter can change from one state to another.",
+      "lessons": [
+        {
+          "id": "2-science-1-1",
+          "title": "Reviewing Solids, Liquids, and Gases",
+          "type": "lesson",
+          "content": {
+            "explanation": "Remember, matter comes in three states: solid, liquid, and gas. Solids have a fixed shape, like a chair or a block. Liquids flow and take the shape of their container, like water or juice. Gases spread out to fill all the space they can, like the air around us. Each state of matter behaves differently because of how tiny particles inside are moving. In solids, particles are packed tightly. In liquids, they slide around. In gases, they fly all over!",
+            "examples": [
+              {"problem": "Sort these: ice cube, orange juice, helium in a balloon.", "answer": "Ice cube = solid, orange juice = liquid, helium = gas", "explanation": "Each one is a different state of matter!"},
+              {"problem": "Why does water take the shape of a glass?", "answer": "Because water is a liquid and liquids take the shape of their container.", "explanation": "The tiny particles in a liquid can slide around each other."}
+            ],
+            "key_vocabulary": ["solid", "liquid", "gas", "particles", "state of matter", "container"],
+            "real_world": "Your morning routine involves all three states! You eat solid cereal, drink liquid milk, and breathe in gaseous air."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In which state of matter are particles packed tightly together?", "options": ["Liquid", "Gas", "Solid", "All of them"], "correct": 2, "hint": "Think about how a rock keeps its shape."},
+            {"type": "multiple_choice", "question": "Which is a liquid?", "options": ["A coin", "Maple syrup", "Oxygen", "A brick"], "correct": 1, "hint": "Which one flows and can be poured?"},
+            {"type": "true_false", "question": "Gases spread out to fill any space.", "answer": "true", "hint": "That is why you can smell perfume from across the room."},
+            {"type": "fill_in", "question": "Liquids take the shape of their ___.", "answer": "container", "hint": "A glass, a bowl, or a bottle."},
+            {"type": "multiple_choice", "question": "Which state of matter has particles that fly all over?", "options": ["Solid", "Liquid", "Gas", "None"], "correct": 2, "hint": "These particles move the fastest and spread out."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-1-2",
+          "title": "Melting: Solid to Liquid",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a solid gets warm enough, it can melt and become a liquid! This is called melting. An ice cube melts when it gets warm and turns into water. A popsicle melts on a hot day. Butter melts in a hot pan. Chocolate melts in your hand! The solid changes to a liquid because heat makes the tiny particles move faster and spread apart. The temperature at which something melts is called its melting point.",
+            "examples": [
+              {"problem": "What happens when ice melts?", "answer": "It turns into liquid water.", "explanation": "Heat causes the solid ice to change into liquid water."},
+              {"problem": "What causes melting?", "answer": "Heat (warmth)", "explanation": "When you add heat to a solid, the particles start moving faster and the solid melts."}
+            ],
+            "key_vocabulary": ["melting", "heat", "solid", "liquid", "temperature", "melting point"],
+            "real_world": "On a hot summer day, ice cream melts quickly! The heat from the air turns the solid ice cream into a liquid puddle."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What causes a solid to melt?", "options": ["Cold", "Heat", "Wind", "Darkness"], "correct": 1, "hint": "Think about what makes ice cream melt."},
+            {"type": "true_false", "question": "When ice melts, it becomes a liquid.", "answer": "true", "hint": "Solid ice turns into liquid water."},
+            {"type": "multiple_choice", "question": "Which of these can melt?", "options": ["A rock", "An ice cube", "Air", "Light"], "correct": 1, "hint": "What happens when you leave ice out of the freezer?"},
+            {"type": "fill_in", "question": "Changing from a solid to a liquid is called ___.", "answer": "melting", "hint": "This is what ice does on a warm day."},
+            {"type": "true_false", "question": "Butter can melt in a hot pan.", "answer": "true", "hint": "Think about cooking in the kitchen."},
+            {"type": "multiple_choice", "question": "When ice melts, its particles ___.", "options": ["Stop moving", "Move slower", "Move faster and spread apart", "Disappear"], "correct": 2, "hint": "Heat makes particles move more."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-1-3",
+          "title": "Freezing: Liquid to Solid",
+          "type": "lesson",
+          "content": {
+            "explanation": "Freezing is the opposite of melting! When a liquid gets cold enough, it turns into a solid. This is called freezing. When you put water in the freezer, it freezes and becomes ice. When it gets very cold outside, puddles can freeze into ice. Juice can freeze into popsicles! Freezing happens when heat is taken away from a liquid. The particles slow down and lock into place, forming a solid.",
+            "examples": [
+              {"problem": "What happens when water freezes?", "answer": "It turns into solid ice.", "explanation": "When water gets cold enough, it changes from a liquid to a solid (ice)."},
+              {"problem": "At what temperature does water freeze?", "answer": "32 degrees Fahrenheit (0 degrees Celsius)", "explanation": "Water freezes at 32°F or 0°C. That is why ice forms in winter!"}
+            ],
+            "key_vocabulary": ["freezing", "cold", "liquid", "solid", "ice", "freezing point"],
+            "real_world": "When you make ice cubes at home, you pour liquid water into a tray and put it in the freezer. The cold makes the water freeze into solid ice cubes!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What causes a liquid to freeze?", "options": ["Heat", "Light", "Cold", "Wind"], "correct": 2, "hint": "Think about what is inside your freezer."},
+            {"type": "true_false", "question": "Freezing is the opposite of melting.", "answer": "true", "hint": "Melting goes solid to liquid. Freezing goes liquid to solid."},
+            {"type": "fill_in", "question": "When water freezes, it becomes ___.", "answer": "ice", "hint": "This is solid water."},
+            {"type": "multiple_choice", "question": "Which of these is an example of freezing?", "options": ["Ice cream melting", "Water becoming ice cubes", "Boiling water on the stove", "Steam coming from a kettle"], "correct": 1, "hint": "Which one changes from liquid to solid?"},
+            {"type": "true_false", "question": "Puddles can freeze into ice on a very cold day.", "answer": "true", "hint": "In winter, puddles turn to ice when the temperature drops below freezing."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-1-4",
+          "title": "Evaporation and Condensation",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a liquid gets very hot, it turns into a gas. This is called evaporation. When you boil water on the stove, it turns into steam (water vapor), which is a gas. Puddles dry up on a sunny day because the water evaporates into the air. The opposite is condensation. When a gas cools down, it turns back into a liquid. When you breathe on a cold window, your warm breath (water vapor) cools and forms tiny water drops on the glass. That is condensation!",
+            "examples": [
+              {"problem": "What is evaporation?", "answer": "When a liquid turns into a gas.", "explanation": "Heat causes liquid water to evaporate and become water vapor in the air."},
+              {"problem": "What is condensation?", "answer": "When a gas cools and turns into a liquid.", "explanation": "Water drops on a cold glass of lemonade are condensation!"}
+            ],
+            "key_vocabulary": ["evaporation", "condensation", "water vapor", "steam", "boil", "cool"],
+            "real_world": "After it rains, puddles disappear because the water evaporates into the air. Later, that water vapor can condense into clouds!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When liquid water heats up and becomes a gas, it is called ___.", "options": ["Freezing", "Melting", "Evaporation", "Condensation"], "correct": 2, "hint": "This is how puddles dry up on sunny days."},
+            {"type": "multiple_choice", "question": "When water vapor cools and becomes liquid, it is called ___.", "options": ["Evaporation", "Freezing", "Melting", "Condensation"], "correct": 3, "hint": "Think about water drops forming on a cold glass."},
+            {"type": "true_false", "question": "Steam from boiling water is a gas.", "answer": "true", "hint": "Water vapor is water in its gas form."},
+            {"type": "fill_in", "question": "Puddles dry up because water ___ into the air.", "answer": "evaporates", "hint": "The liquid turns into gas."},
+            {"type": "true_false", "question": "Condensation happens when a gas cools down.", "answer": "true", "hint": "Cooling turns gas back into liquid drops."},
+            {"type": "multiple_choice", "question": "Water drops on a cold glass of lemonade are an example of ___.", "options": ["Melting", "Freezing", "Evaporation", "Condensation"], "correct": 3, "hint": "The warm air cools on the cold glass and water appears."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What happens when you heat ice?", "options": ["It freezes", "It melts into water", "It turns to gas immediately", "Nothing happens"], "correct": 1, "hint": "Adding heat changes ice."},
+          {"type": "fill_in", "question": "When a liquid turns to a solid, it is called ___.", "answer": "freezing", "hint": "This is what happens to water in a freezer."},
+          {"type": "true_false", "question": "Evaporation turns a liquid into a gas.", "answer": "true", "hint": "Think about puddles drying up."},
+          {"type": "multiple_choice", "question": "Water drops on a cold window are an example of ___.", "options": ["Evaporation", "Melting", "Freezing", "Condensation"], "correct": 3, "hint": "Gas cooling into liquid."},
+          {"type": "multiple_choice", "question": "In a solid, particles are ___.", "options": ["Flying around fast", "Packed tightly together", "Spread far apart", "Not there"], "correct": 1, "hint": "That is why solids keep their shape."},
+          {"type": "true_false", "question": "Melting changes a solid into a liquid.", "answer": "true", "hint": "Think about an ice cream cone on a hot day."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "state_changer"
+      }
+    },
+    {
+      "id": "2-science-2",
+      "title": "Animal Life Cycles",
+      "description": "Learn how different animals grow and change throughout their lives.",
+      "lessons": [
+        {
+          "id": "2-science-2-1",
+          "title": "What Is a Life Cycle?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A life cycle is the series of stages a living thing goes through from birth to adulthood. All animals have life cycles. They are born, they grow, they become adults, and they can have babies of their own. Then the babies go through the same stages. It is a cycle because it repeats over and over! Different animals have different life cycles. Some animals look like tiny versions of their parents when they are born, and some look completely different.",
+            "examples": [
+              {"problem": "What is a life cycle?", "answer": "The stages a living thing goes through from birth to adulthood.", "explanation": "Every animal goes through stages of growth and change."},
+              {"problem": "Why is it called a cycle?", "answer": "Because it repeats. Adults have babies, and those babies grow up and have their own babies.", "explanation": "A cycle goes around and around, just like a circle."}
+            ],
+            "key_vocabulary": ["life cycle", "stages", "birth", "growth", "adult", "cycle"],
+            "real_world": "You are going through your own life cycle! You were a baby, now you are a kid, and someday you will be an adult."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a life cycle?", "options": ["A type of bicycle", "The stages an animal goes through from birth to adulthood", "A game animals play", "A type of food"], "correct": 1, "hint": "Think about how animals grow and change."},
+            {"type": "true_false", "question": "All animals have life cycles.", "answer": "true", "hint": "Every animal is born, grows, and becomes an adult."},
+            {"type": "fill_in", "question": "A life cycle repeats over and over like a ___.", "answer": "circle", "hint": "Cycles go around and around."},
+            {"type": "multiple_choice", "question": "What happens after an animal becomes an adult?", "options": ["It disappears", "It can have babies that start the cycle again", "It turns into a different animal", "Nothing happens"], "correct": 1, "hint": "The cycle keeps going!"},
+            {"type": "true_false", "question": "All baby animals look exactly like their parents.", "answer": "false", "hint": "Think about a caterpillar and a butterfly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-2-2",
+          "title": "The Butterfly Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "Butterflies have an amazing life cycle with four stages! First, an adult butterfly lays a tiny egg on a leaf. Second, a caterpillar (or larva) hatches from the egg. The caterpillar eats lots of leaves and grows bigger. Third, the caterpillar makes a hard shell around itself called a chrysalis (or pupa). Inside, it goes through a huge change! Fourth, a beautiful butterfly comes out of the chrysalis. This big change is called metamorphosis.",
+            "examples": [
+              {"problem": "What are the four stages of a butterfly life cycle?", "answer": "Egg, caterpillar (larva), chrysalis (pupa), butterfly (adult)", "explanation": "A butterfly changes completely during its life cycle!"},
+              {"problem": "What is metamorphosis?", "answer": "A big change in an animal's body during its life cycle.", "explanation": "A caterpillar changing into a butterfly is an amazing example of metamorphosis."}
+            ],
+            "key_vocabulary": ["egg", "caterpillar", "larva", "chrysalis", "pupa", "butterfly", "metamorphosis"],
+            "real_world": "If you find a caterpillar, you are looking at a future butterfly! It will go through metamorphosis to become a winged adult."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What hatches from a butterfly egg?", "options": ["A baby butterfly", "A caterpillar", "A chrysalis", "A bird"], "correct": 1, "hint": "This stage looks like a worm and eats lots of leaves."},
+            {"type": "multiple_choice", "question": "What is the chrysalis?", "options": ["A type of food", "The hard shell a caterpillar forms around itself", "A baby butterfly", "An egg"], "correct": 1, "hint": "The caterpillar changes inside this."},
+            {"type": "fill_in", "question": "The big change from caterpillar to butterfly is called ___.", "answer": "metamorphosis", "hint": "This big word describes a dramatic transformation."},
+            {"type": "true_false", "question": "A caterpillar eats lots of leaves to grow.", "answer": "true", "hint": "Caterpillars are hungry! They eat and eat."},
+            {"type": "multiple_choice", "question": "What is the correct order of a butterfly life cycle?", "options": ["Butterfly, egg, caterpillar, chrysalis", "Egg, caterpillar, chrysalis, butterfly", "Chrysalis, egg, butterfly, caterpillar", "Caterpillar, butterfly, egg, chrysalis"], "correct": 1, "hint": "Start with the egg."},
+            {"type": "true_false", "question": "A caterpillar looks like a tiny butterfly.", "answer": "false", "hint": "A caterpillar looks very different from a butterfly!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-2-3",
+          "title": "The Frog Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "Frogs also go through metamorphosis! A frog starts as a tiny egg laid in water. Many frog eggs look like jelly. A tadpole hatches from the egg. Tadpoles live in water and breathe through gills, like fish. They have a tail but no legs. As the tadpole grows, it develops legs and its tail gets shorter. Its gills change into lungs so it can breathe air. Finally, it becomes an adult frog that can live on land and in water!",
+            "examples": [
+              {"problem": "What hatches from a frog egg?", "answer": "A tadpole", "explanation": "Tadpoles are baby frogs that live in water and look like tiny fish."},
+              {"problem": "How does a tadpole change into a frog?", "answer": "It grows legs, its tail shrinks, and it develops lungs.", "explanation": "The tadpole slowly transforms into a frog through metamorphosis."}
+            ],
+            "key_vocabulary": ["egg", "tadpole", "gills", "legs", "lungs", "frog", "metamorphosis"],
+            "real_world": "Visit a pond in the spring and you might see frog eggs or tiny tadpoles swimming around. If you come back later, you might see them growing legs!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What hatches from a frog egg?", "options": ["A tiny frog", "A caterpillar", "A tadpole", "A fish"], "correct": 2, "hint": "This baby frog swims in water with a tail."},
+            {"type": "true_false", "question": "Tadpoles breathe through gills like fish.", "answer": "true", "hint": "Tadpoles live in water and cannot breathe air yet."},
+            {"type": "multiple_choice", "question": "As a tadpole grows, what does it develop?", "options": ["Wings", "Legs", "Feathers", "Fur"], "correct": 1, "hint": "Adult frogs hop using these."},
+            {"type": "fill_in", "question": "A baby frog is called a ___.", "answer": "tadpole", "hint": "It swims in water and has a tail."},
+            {"type": "true_false", "question": "A tadpole's tail stays the same size as it grows.", "answer": "false", "hint": "The tail gets shorter and eventually disappears."},
+            {"type": "multiple_choice", "question": "Where does a frog lay its eggs?", "options": ["In a tree", "In the sand", "In water", "On a rock"], "correct": 2, "hint": "Tadpoles need water to survive."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-2-4",
+          "title": "Mammal Life Cycles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mammals have a simpler life cycle than butterflies and frogs. Mammals are animals with fur or hair that feed their babies milk. Dogs, cats, horses, and humans are all mammals. Most baby mammals are born live (not from eggs). They look like small versions of their parents. Baby mammals drink their mother's milk and grow bigger. As they grow, they learn to find food on their own. Eventually they become adults and can have their own babies.",
+            "examples": [
+              {"problem": "How is a mammal life cycle different from a butterfly?", "answer": "Mammals do not go through metamorphosis. Baby mammals look like small versions of their parents.", "explanation": "A puppy looks like a small dog, but a caterpillar looks nothing like a butterfly!"},
+              {"problem": "What do baby mammals eat?", "answer": "Their mother's milk", "explanation": "All mammals feed their babies milk. That is what makes them mammals!"}
+            ],
+            "key_vocabulary": ["mammal", "milk", "fur", "hair", "born live", "grow"],
+            "real_world": "You are a mammal! When you were a baby, you drank milk and looked like a tiny human. Now you are bigger but still look like a person!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What makes an animal a mammal?", "options": ["It has scales", "It has fur or hair and feeds babies milk", "It lays eggs", "It has wings"], "correct": 1, "hint": "Think about dogs, cats, and humans."},
+            {"type": "true_false", "question": "Baby mammals drink their mother's milk.", "answer": "true", "hint": "This is one of the special things about mammals."},
+            {"type": "multiple_choice", "question": "Do mammals go through metamorphosis?", "options": ["Yes, always", "No, baby mammals look like small adults", "Only some do", "Only in winter"], "correct": 1, "hint": "A puppy already looks like a dog."},
+            {"type": "fill_in", "question": "Animals with fur or hair that feed babies milk are called ___.", "answer": "mammals", "hint": "Humans, dogs, and cats are all this type of animal."},
+            {"type": "true_false", "question": "A puppy looks completely different from an adult dog.", "answer": "false", "hint": "A puppy is a smaller version of a dog."},
+            {"type": "multiple_choice", "question": "Which of these is a mammal?", "options": ["A frog", "A butterfly", "A cat", "A fish"], "correct": 2, "hint": "Which one has fur and feeds its babies milk?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a life cycle?", "options": ["A kind of bike", "The stages from birth to adulthood", "A type of game", "A kind of food"], "correct": 1, "hint": "Think about how animals grow and change."},
+          {"type": "multiple_choice", "question": "What is the correct butterfly life cycle order?", "options": ["Butterfly, egg, chrysalis, caterpillar", "Egg, caterpillar, chrysalis, butterfly", "Caterpillar, egg, butterfly, chrysalis", "Chrysalis, caterpillar, egg, butterfly"], "correct": 1, "hint": "Start with the egg."},
+          {"type": "fill_in", "question": "A baby frog is called a ___.", "answer": "tadpole", "hint": "It swims in water with a tail."},
+          {"type": "true_false", "question": "Metamorphosis is when an animal changes dramatically during its life cycle.", "answer": "true", "hint": "Caterpillar to butterfly is a big change!"},
+          {"type": "multiple_choice", "question": "Which animal goes through metamorphosis?", "options": ["Dog", "Cat", "Butterfly", "Horse"], "correct": 2, "hint": "Which one looks completely different as a baby vs an adult?"},
+          {"type": "true_false", "question": "Baby mammals drink milk from their mothers.", "answer": "true", "hint": "This is what makes mammals special."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "life_cycle_expert"
+      }
+    },
+    {
+      "id": "2-science-3",
+      "title": "Ecosystems Basics",
+      "description": "Learn about ecosystems, food chains, and how living things depend on each other.",
+      "lessons": [
+        {
+          "id": "2-science-3-1",
+          "title": "What Is an Ecosystem?",
+          "type": "lesson",
+          "content": {
+            "explanation": "An ecosystem is a community of living things and their environment. It includes all the plants, animals, and other organisms in a place, plus the nonliving things like water, soil, air, and sunlight. A pond is an ecosystem with fish, frogs, plants, water, and mud. A forest is an ecosystem with trees, deer, birds, soil, and water. All the parts of an ecosystem work together. If one part changes, it affects everything else!",
+            "examples": [
+              {"problem": "What is an ecosystem?", "answer": "A community of living and nonliving things in an environment.", "explanation": "An ecosystem includes plants, animals, water, soil, air, and sunlight all working together."},
+              {"problem": "Name an ecosystem.", "answer": "A pond, a forest, a desert, or an ocean.", "explanation": "Each of these has its own community of living and nonliving things."}
+            ],
+            "key_vocabulary": ["ecosystem", "community", "environment", "organisms", "living", "nonliving"],
+            "real_world": "Your backyard is a small ecosystem! It has grass, trees, bugs, birds, soil, water, and sunlight all working together."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An ecosystem includes ___.", "options": ["Only animals", "Only plants", "Living and nonliving things", "Only rocks and water"], "correct": 2, "hint": "Ecosystems have plants, animals, water, soil, and more."},
+            {"type": "true_false", "question": "A pond is an ecosystem.", "answer": "true", "hint": "A pond has fish, plants, water, and mud all working together."},
+            {"type": "fill_in", "question": "All the parts of an ___ work together.", "answer": "ecosystem", "hint": "This word describes a community of living and nonliving things."},
+            {"type": "multiple_choice", "question": "Which is a nonliving part of an ecosystem?", "options": ["A bird", "A tree", "Water", "A deer"], "correct": 2, "hint": "Which one is not alive?"},
+            {"type": "true_false", "question": "If one part of an ecosystem changes, it can affect other parts.", "answer": "true", "hint": "Everything in an ecosystem is connected."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-3-2",
+          "title": "Food Chains",
+          "type": "lesson",
+          "content": {
+            "explanation": "A food chain shows how energy passes from one living thing to another through eating. It usually starts with a plant. Plants use sunlight to make food, so they are called producers. Animals that eat plants are called herbivores or consumers. Then other animals eat those animals! For example: Grass grows using sunlight. A rabbit eats the grass. A fox eats the rabbit. That is a food chain! The arrows in a food chain show where the energy goes.",
+            "examples": [
+              {"problem": "What is a food chain?", "answer": "A chain that shows how energy passes from one living thing to another through eating.", "explanation": "Food chains show who eats whom in an ecosystem."},
+              {"problem": "Give an example of a food chain.", "answer": "Sun → Grass → Rabbit → Fox", "explanation": "The sun gives energy to grass, the rabbit eats the grass, and the fox eats the rabbit."}
+            ],
+            "key_vocabulary": ["food chain", "producer", "consumer", "herbivore", "energy", "predator", "prey"],
+            "real_world": "You are part of a food chain too! The sun helps plants grow. You eat fruits and vegetables from plants. Energy flows from the sun to the plant to you!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do food chains show?", "options": ["How animals sleep", "How energy moves from one living thing to another", "Where animals live", "How weather changes"], "correct": 1, "hint": "Think about eating and energy."},
+            {"type": "multiple_choice", "question": "What is a producer?", "options": ["An animal that eats plants", "A plant that makes its own food", "An animal that eats other animals", "A rock"], "correct": 1, "hint": "Plants produce their own food using sunlight."},
+            {"type": "true_false", "question": "A food chain usually starts with a plant.", "answer": "true", "hint": "Plants make food from sunlight and start the chain."},
+            {"type": "fill_in", "question": "Animals that eat plants are called ___.", "answer": "herbivores", "hint": "Herb- means plant. These animals eat plants."},
+            {"type": "multiple_choice", "question": "In the food chain: Grass → Mouse → Snake, what does the mouse eat?", "options": ["Snake", "Grass", "Rocks", "Other mice"], "correct": 1, "hint": "Follow the arrows! The mouse eats what comes before it."},
+            {"type": "true_false", "question": "A fox eating a rabbit is part of a food chain.", "answer": "true", "hint": "Energy passes from the rabbit to the fox."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-3-3",
+          "title": "Producers and Consumers",
+          "type": "lesson",
+          "content": {
+            "explanation": "In an ecosystem, living things are either producers or consumers. Producers are plants and algae that make their own food using sunlight. They are the start of every food chain. Consumers are animals that eat other living things. There are different types of consumers. Herbivores eat only plants (like rabbits and deer). Carnivores eat only other animals (like lions and hawks). Omnivores eat both plants and animals (like bears and humans)!",
+            "examples": [
+              {"problem": "What is the difference between a producer and a consumer?", "answer": "Producers make their own food. Consumers eat other living things.", "explanation": "Plants produce food, animals consume it."},
+              {"problem": "Is a bear an herbivore, carnivore, or omnivore?", "answer": "Omnivore", "explanation": "Bears eat both plants (berries) and animals (fish), so they are omnivores."}
+            ],
+            "key_vocabulary": ["producer", "consumer", "herbivore", "carnivore", "omnivore", "algae"],
+            "real_world": "Think about what you ate today. If you had both plants (like vegetables) and meat (like chicken), you ate like an omnivore!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a producer?", "options": ["A rabbit", "A wolf", "A tree", "A hawk"], "correct": 2, "hint": "Which one makes its own food from sunlight?"},
+            {"type": "multiple_choice", "question": "An animal that eats ONLY plants is called a ___.", "options": ["Carnivore", "Herbivore", "Omnivore", "Producer"], "correct": 1, "hint": "Herb- means plant."},
+            {"type": "multiple_choice", "question": "An animal that eats ONLY other animals is called a ___.", "options": ["Herbivore", "Omnivore", "Carnivore", "Producer"], "correct": 2, "hint": "Carn- means meat."},
+            {"type": "fill_in", "question": "An animal that eats both plants and animals is called an ___.", "answer": "omnivore", "hint": "Omni- means all."},
+            {"type": "true_false", "question": "Humans are omnivores.", "answer": "true", "hint": "Most people eat both vegetables and meat."},
+            {"type": "multiple_choice", "question": "Which of these is a carnivore?", "options": ["A cow", "A lion", "A rabbit", "A deer"], "correct": 1, "hint": "Which one eats only other animals?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-3-4",
+          "title": "How Living Things Depend on Each Other",
+          "type": "lesson",
+          "content": {
+            "explanation": "Living things in an ecosystem depend on each other. Plants need bees to help them pollinate and make seeds. Bees need flowers for food (nectar and pollen). Birds eat insects that might harm plants. Worms break down dead leaves and make the soil healthy for plants. If one type of living thing disappears, it affects all the others. For example, if all the bees disappeared, many plants could not make seeds and would not grow.",
+            "examples": [
+              {"problem": "How do bees help plants?", "answer": "Bees pollinate flowers so plants can make seeds.", "explanation": "When bees visit flowers for nectar, they spread pollen and help plants reproduce."},
+              {"problem": "What would happen if all the worms disappeared?", "answer": "The soil would not be as healthy and plants would not grow as well.", "explanation": "Worms break down dead plants and mix the soil, keeping it healthy."}
+            ],
+            "key_vocabulary": ["depend", "pollinate", "nectar", "pollen", "balance", "connected"],
+            "real_world": "A garden works because of teamwork! Bees pollinate flowers, worms keep the soil healthy, and birds eat harmful insects. Everything is connected."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How do bees help plants?", "options": ["They water them", "They pollinate them", "They give them sunlight", "They eat them"], "correct": 1, "hint": "Bees spread something between flowers."},
+            {"type": "true_false", "question": "Living things in an ecosystem depend on each other.", "answer": "true", "hint": "Everything in nature is connected."},
+            {"type": "fill_in", "question": "Worms help keep the ___ healthy for plants.", "answer": "soil", "hint": "Worms dig through the dirt."},
+            {"type": "multiple_choice", "question": "What would happen if all the plants in an ecosystem disappeared?", "options": ["Nothing", "Herbivores would have no food", "Everything would be fine", "More animals would appear"], "correct": 1, "hint": "Plants are at the bottom of the food chain."},
+            {"type": "true_false", "question": "If one type of animal disappears from an ecosystem, it does not affect anything else.", "answer": "false", "hint": "Everything in an ecosystem is connected."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is an ecosystem?", "options": ["Just animals", "A community of living and nonliving things", "Just plants", "A type of weather"], "correct": 1, "hint": "Everything in an environment working together."},
+          {"type": "fill_in", "question": "Plants that make their own food are called ___.", "answer": "producers", "hint": "They produce food from sunlight."},
+          {"type": "multiple_choice", "question": "In a food chain: Grass → Rabbit → Fox, what is the rabbit?", "options": ["A producer", "A herbivore", "A carnivore", "A plant"], "correct": 1, "hint": "The rabbit eats grass (a plant)."},
+          {"type": "true_false", "question": "Omnivores eat both plants and animals.", "answer": "true", "hint": "Omni means all."},
+          {"type": "multiple_choice", "question": "What would happen if all the plants disappeared?", "options": ["Nothing", "Animals would find new food", "Many animals would not have food", "More plants would grow"], "correct": 2, "hint": "Plants are the base of food chains."},
+          {"type": "true_false", "question": "Bees help plants by pollinating them.", "answer": "true", "hint": "Bees carry pollen between flowers."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ecosystem_expert"
+      }
+    },
+    {
+      "id": "2-science-4",
+      "title": "Earth's Surface",
+      "description": "Explore landforms like mountains, valleys, and plains, and bodies of water like oceans, rivers, and lakes.",
+      "lessons": [
+        {
+          "id": "2-science-4-1",
+          "title": "Mountains and Hills",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mountains are very tall landforms that rise high above the land around them. They have steep sides and a peak (top). Some mountains are so tall that they have snow on top all year! Hills are like small mountains. They are raised areas of land but not as tall or steep as mountains. Mountains and hills were formed over millions of years by forces inside the Earth pushing land upward.",
+            "examples": [
+              {"problem": "What is the difference between a mountain and a hill?", "answer": "Mountains are taller and steeper than hills.", "explanation": "Both are raised landforms, but mountains are much bigger."},
+              {"problem": "What is the top of a mountain called?", "answer": "A peak or summit", "explanation": "The very top point of a mountain is its peak."}
+            ],
+            "key_vocabulary": ["mountain", "hill", "peak", "summit", "steep", "landform"],
+            "real_world": "Mount Everest is the tallest mountain in the world! It is so tall that climbers need extra oxygen to breathe at the top."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is taller?", "options": ["A hill", "A mountain", "They are the same", "A valley"], "correct": 1, "hint": "One of these is much bigger than the other."},
+            {"type": "fill_in", "question": "The top of a mountain is called its ___.", "answer": "peak", "hint": "The highest point."},
+            {"type": "true_false", "question": "Some mountains have snow on top all year.", "answer": "true", "hint": "Very tall mountains are cold enough for snow even in summer."},
+            {"type": "multiple_choice", "question": "A mountain is a type of ___.", "options": ["Body of water", "Landform", "Weather", "Plant"], "correct": 1, "hint": "Mountains are features of the land."},
+            {"type": "true_false", "question": "Hills are steeper and taller than mountains.", "answer": "false", "hint": "It is the other way around!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-4-2",
+          "title": "Valleys and Plains",
+          "type": "lesson",
+          "content": {
+            "explanation": "A valley is a low area of land between mountains or hills. Valleys are often shaped like the letter V or U. Rivers often flow through valleys. Valleys can have rich soil that is great for farming. Plains are large, flat areas of land. They stretch out for miles and miles. Plains are good for growing crops like wheat and corn. The middle of the United States has huge plains called the Great Plains.",
+            "examples": [
+              {"problem": "What is a valley?", "answer": "A low area of land between mountains or hills.", "explanation": "Valleys are like dips or gaps between higher land."},
+              {"problem": "What is a plain?", "answer": "A large, flat area of land.", "explanation": "Plains are flat and often used for farming."}
+            ],
+            "key_vocabulary": ["valley", "plain", "flat", "river", "farming", "land"],
+            "real_world": "Many towns are built in valleys because the land is flat and rivers provide water. Farmers love plains because the flat land is easy to farm."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A valley is found ___.", "options": ["On top of a mountain", "Between mountains or hills", "In the ocean", "In the sky"], "correct": 1, "hint": "Valleys are low areas surrounded by higher land."},
+            {"type": "true_false", "question": "Plains are large, flat areas of land.", "answer": "true", "hint": "Plains stretch out with no mountains."},
+            {"type": "fill_in", "question": "A low area between mountains is called a ___.", "answer": "valley", "hint": "Rivers often flow through these."},
+            {"type": "multiple_choice", "question": "Why are plains good for farming?", "options": ["They are very hilly", "They are flat", "They are underwater", "They are covered in snow"], "correct": 1, "hint": "Flat land is easier to plant crops on."},
+            {"type": "true_false", "question": "Rivers often flow through valleys.", "answer": "true", "hint": "Water flows downhill into the lowest areas."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-4-3",
+          "title": "Oceans, Rivers, and Lakes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth has many bodies of water. Oceans are the biggest. They cover most of Earth's surface and are filled with salt water. There are five oceans: Pacific, Atlantic, Indian, Southern, and Arctic. Rivers are long, flowing bodies of fresh water. They usually start in mountains and flow downhill to the ocean. Lakes are bodies of water surrounded by land. Most lakes have fresh water. Ponds are like small lakes.",
+            "examples": [
+              {"problem": "What is the difference between an ocean and a lake?", "answer": "Oceans are huge bodies of salt water. Lakes are smaller bodies of fresh water surrounded by land.", "explanation": "Oceans are much bigger and saltier than lakes."},
+              {"problem": "Where do rivers usually start?", "answer": "In mountains", "explanation": "Rivers begin high up in mountains where snow melts or rain collects, then flow downhill."}
+            ],
+            "key_vocabulary": ["ocean", "river", "lake", "pond", "salt water", "fresh water"],
+            "real_world": "The Pacific Ocean is the biggest ocean. It is so big that you could fit all the land on Earth inside it and still have room left over!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many oceans are there?", "options": ["Three", "Four", "Five", "Six"], "correct": 2, "hint": "Pacific, Atlantic, Indian, Southern, Arctic."},
+            {"type": "true_false", "question": "Oceans have salt water.", "answer": "true", "hint": "If you taste ocean water, it is very salty!"},
+            {"type": "multiple_choice", "question": "A lake is ___.", "options": ["A flowing body of water", "A body of water surrounded by land", "The biggest body of water", "A body of salt water"], "correct": 1, "hint": "Land goes all the way around a lake."},
+            {"type": "fill_in", "question": "Rivers flow from mountains to the ___.", "answer": "ocean", "hint": "Rivers end at the biggest body of water."},
+            {"type": "true_false", "question": "Most lakes have fresh water.", "answer": "true", "hint": "Fresh water means it is not salty."},
+            {"type": "multiple_choice", "question": "Which is the biggest body of water?", "options": ["A pond", "A lake", "A river", "An ocean"], "correct": 3, "hint": "This covers most of Earth's surface."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-4-4",
+          "title": "Islands and Deserts",
+          "type": "lesson",
+          "content": {
+            "explanation": "An island is a piece of land completely surrounded by water. Hawaii is a group of islands in the Pacific Ocean. Islands can be big or small. Some have forests, mountains, and beaches! A desert is a very dry area that gets very little rain. Deserts can be hot, like the Sahara Desert in Africa, or cold, like parts of Antarctica! Even though deserts are dry, some plants and animals live there. Cactuses store water inside their thick stems.",
+            "examples": [
+              {"problem": "What is an island?", "answer": "A piece of land surrounded by water on all sides.", "explanation": "You would need a boat or plane to get to an island!"},
+              {"problem": "Do all deserts have to be hot?", "answer": "No! Some deserts are cold, like Antarctica.", "explanation": "A desert is defined by how dry it is, not how hot it is."}
+            ],
+            "key_vocabulary": ["island", "desert", "surrounded", "dry", "rain", "cactus"],
+            "real_world": "Hawaii is a beautiful island chain in the middle of the Pacific Ocean. People travel there by airplane because it is surrounded by water."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An island is land surrounded by ___.", "options": ["Mountains", "Water", "Desert", "Forest"], "correct": 1, "hint": "You would need a boat to leave."},
+            {"type": "true_false", "question": "All deserts are hot.", "answer": "false", "hint": "Some deserts, like Antarctica, are very cold!"},
+            {"type": "fill_in", "question": "A ___ is a very dry area that gets little rain.", "answer": "desert", "hint": "Think about sand and cactuses."},
+            {"type": "multiple_choice", "question": "How do cactuses survive in the desert?", "options": ["They drink from rivers", "They store water in their stems", "They do not need water", "They move to find rain"], "correct": 1, "hint": "Cactuses have thick, water-storing stems."},
+            {"type": "true_false", "question": "Hawaii is an island.", "answer": "true", "hint": "Hawaii is surrounded by the Pacific Ocean."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which landform is tall with a peak?", "options": ["Valley", "Plain", "Mountain", "Island"], "correct": 2, "hint": "This landform rises high above the land."},
+          {"type": "fill_in", "question": "A low area between mountains is a ___.", "answer": "valley", "hint": "Rivers often flow through these."},
+          {"type": "true_false", "question": "Oceans contain salt water.", "answer": "true", "hint": "Ocean water tastes very salty."},
+          {"type": "multiple_choice", "question": "An island is surrounded by ___.", "options": ["Mountains", "Desert", "Water", "Plains"], "correct": 2, "hint": "You need a boat to get there."},
+          {"type": "multiple_choice", "question": "How many oceans are on Earth?", "options": ["3", "4", "5", "7"], "correct": 2, "hint": "Pacific, Atlantic, Indian, Southern, Arctic."},
+          {"type": "true_false", "question": "Plains are large, flat areas of land.", "answer": "true", "hint": "Great for farming!"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "earth_surface_explorer"
+      }
+    },
+    {
+      "id": "2-science-5",
+      "title": "Changes Caused by Weather",
+      "description": "Learn how weather and water shape the Earth over time through erosion and weathering.",
+      "lessons": [
+        {
+          "id": "2-science-5-1",
+          "title": "How Water Changes the Land",
+          "type": "lesson",
+          "content": {
+            "explanation": "Water is powerful! Over time, flowing water can change the shape of the land. Rivers carve valleys and canyons by wearing away rock bit by bit. This is called erosion. Rain can wash away soil from hillsides. Ocean waves pound on cliffs and wear them down. The Grand Canyon was carved by the Colorado River over millions of years! Even a small stream can move rocks and soil over time.",
+            "examples": [
+              {"problem": "How did the Grand Canyon form?", "answer": "The Colorado River carved it by wearing away rock over millions of years.", "explanation": "Water erosion slowly cut deeper and deeper into the rock."},
+              {"problem": "What is erosion?", "answer": "When water or wind wears away rock and soil and moves it somewhere else.", "explanation": "Erosion slowly changes the shape of the land."}
+            ],
+            "key_vocabulary": ["erosion", "carve", "canyon", "river", "wear away", "flow"],
+            "real_world": "After a rainstorm, look at the sidewalk. Do you see little channels where the water flowed? That is erosion on a small scale!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is erosion?", "options": ["Building up land", "Wearing away rock and soil", "Planting trees", "Making rain"], "correct": 1, "hint": "Water and wind remove bits of land over time."},
+            {"type": "true_false", "question": "Rivers can carve valleys over time.", "answer": "true", "hint": "Flowing water is very powerful over millions of years."},
+            {"type": "fill_in", "question": "The Grand ___ was carved by a river.", "answer": "Canyon", "hint": "It is a very famous deep valley in Arizona."},
+            {"type": "multiple_choice", "question": "What causes erosion?", "options": ["Only earthquakes", "Water and wind", "Only sunlight", "Animals"], "correct": 1, "hint": "These natural forces move rock and soil."},
+            {"type": "true_false", "question": "Ocean waves can wear down cliffs.", "answer": "true", "hint": "Waves pound on rocks day after day."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-5-2",
+          "title": "How Wind Changes the Land",
+          "type": "lesson",
+          "content": {
+            "explanation": "Wind can also change the land! Strong winds blow sand against rocks and slowly wear them down. Over a very long time, wind can carve rocks into interesting shapes. In the desert, wind blows sand into big hills called sand dunes. Sand dunes can move as the wind blows sand from one side to the other. Wind can also blow soil away from fields, which is why farmers plant trees to block the wind.",
+            "examples": [
+              {"problem": "How does wind change rocks?", "answer": "Wind blows sand against rocks and slowly wears them down into interesting shapes.", "explanation": "This is called wind erosion. It takes a very long time."},
+              {"problem": "What is a sand dune?", "answer": "A hill of sand formed by wind.", "explanation": "Wind blows sand into piles that form hills in the desert."}
+            ],
+            "key_vocabulary": ["wind erosion", "sand dune", "blow", "desert", "carve", "shape"],
+            "real_world": "In deserts, you can see amazing rock formations carved by wind over thousands of years. They look like sculptures!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Wind blows sand into hills called ___.", "options": ["Mountains", "Valleys", "Sand dunes", "Cliffs"], "correct": 2, "hint": "These are found in deserts."},
+            {"type": "true_false", "question": "Wind can wear down rocks over time.", "answer": "true", "hint": "Sand blown by wind acts like sandpaper on rocks."},
+            {"type": "fill_in", "question": "Wind blowing sand against rocks causes wind ___.", "answer": "erosion", "hint": "The wearing away of rock and soil."},
+            {"type": "multiple_choice", "question": "Why do farmers plant trees near their fields?", "options": ["For shade", "To block wind from blowing away soil", "For decoration", "To attract birds"], "correct": 1, "hint": "Wind can blow soil away from farmland."},
+            {"type": "true_false", "question": "Sand dunes can move as wind blows.", "answer": "true", "hint": "Wind keeps pushing the sand, so the dune shifts."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-5-3",
+          "title": "Weathering: Breaking Down Rocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weathering is when rocks break down into smaller pieces. Water can seep into cracks in rocks. When the water freezes, it expands and pushes the crack open wider. Over time, this breaks the rock apart! Plant roots can also grow into cracks and break rocks apart. Temperature changes cause rocks to expand and contract, which can crack them. Weathering is different from erosion. Weathering breaks rocks apart. Erosion moves the pieces somewhere else.",
+            "examples": [
+              {"problem": "What is weathering?", "answer": "When rocks break down into smaller pieces.", "explanation": "Water, ice, plants, and temperature changes can all break rocks apart."},
+              {"problem": "How is weathering different from erosion?", "answer": "Weathering breaks rocks apart. Erosion moves the pieces.", "explanation": "First the rock breaks (weathering), then the pieces get carried away (erosion)."}
+            ],
+            "key_vocabulary": ["weathering", "cracks", "freeze", "expand", "roots", "break down"],
+            "real_world": "Look at an old sidewalk. Do you see cracks where weeds are growing through? That is weathering! The plant roots are breaking the concrete apart."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Weathering is when rocks ___.", "options": ["Get bigger", "Break into smaller pieces", "Turn to water", "Float away"], "correct": 1, "hint": "Rocks crumble and crack over time."},
+            {"type": "true_false", "question": "Water freezing in a crack can break a rock.", "answer": "true", "hint": "Ice takes up more space than water."},
+            {"type": "multiple_choice", "question": "How can plants cause weathering?", "options": ["By eating the rocks", "By growing roots into cracks", "By covering rocks with leaves", "By watering the rocks"], "correct": 1, "hint": "Roots are strong and can push cracks apart."},
+            {"type": "fill_in", "question": "Weathering breaks rocks down. ___ moves the pieces.", "answer": "Erosion", "hint": "Water and wind carry rock pieces away."},
+            {"type": "true_false", "question": "Weathering and erosion are the same thing.", "answer": "false", "hint": "One breaks rocks apart, the other moves the pieces."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-5-4",
+          "title": "How Storms Change the Earth",
+          "type": "lesson",
+          "content": {
+            "explanation": "Big storms can cause fast changes to Earth's surface. Heavy rain can cause floods that wash away soil and move rocks. Hurricanes bring strong winds and huge waves that can change the shape of beaches and coastlines. Tornadoes can knock down trees and damage buildings. Mudslides happen when heavy rain makes mud slide down hills. While normal weather slowly changes the Earth, storms can change things quickly!",
+            "examples": [
+              {"problem": "How can a flood change the land?", "answer": "Floods wash away soil and move rocks, changing the shape of the land.", "explanation": "All that moving water is very powerful and can change things fast."},
+              {"problem": "How do hurricanes change beaches?", "answer": "Strong waves wash away sand and change the shape of the shoreline.", "explanation": "After a hurricane, a beach might look very different."}
+            ],
+            "key_vocabulary": ["flood", "hurricane", "tornado", "mudslide", "storm", "damage"],
+            "real_world": "After a big rainstorm, look for places where water has moved soil or made new paths. Storms can change the land overnight!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What can heavy rain cause?", "options": ["Earthquakes", "Floods", "Tornadoes", "Snowstorms"], "correct": 1, "hint": "Too much water overflows and covers the land."},
+            {"type": "true_false", "question": "Storms can change Earth's surface quickly.", "answer": "true", "hint": "A big storm can reshape the land in just days."},
+            {"type": "multiple_choice", "question": "How do hurricanes change beaches?", "options": ["They add more sand", "They wash sand away and change the shoreline", "They freeze the water", "They make the sand turn colors"], "correct": 1, "hint": "Huge waves move sand during hurricanes."},
+            {"type": "fill_in", "question": "When heavy rain causes mud to slide down a hill, it is called a ___.", "answer": "mudslide", "hint": "Mud + slide = ?"},
+            {"type": "true_false", "question": "Tornadoes can knock down trees.", "answer": "true", "hint": "Tornadoes have very powerful winds."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is erosion?", "options": ["Rocks getting bigger", "Wearing away and moving rock and soil", "Rocks melting", "Plants growing"], "correct": 1, "hint": "Water and wind move bits of land."},
+          {"type": "true_false", "question": "Wind can create sand dunes.", "answer": "true", "hint": "Wind blows sand into hills."},
+          {"type": "fill_in", "question": "When rocks break into smaller pieces, it is called ___.", "answer": "weathering", "hint": "This breaks rocks apart."},
+          {"type": "multiple_choice", "question": "How can water break apart a rock?", "options": ["By melting it", "By freezing in cracks and expanding", "By painting it", "By heating it up"], "correct": 1, "hint": "Ice takes up more space than water."},
+          {"type": "true_false", "question": "Storms can cause fast changes to Earth's surface.", "answer": "true", "hint": "Floods and hurricanes reshape the land quickly."},
+          {"type": "multiple_choice", "question": "What carved the Grand Canyon?", "options": ["Wind", "A river", "An earthquake", "People"], "correct": 1, "hint": "The Colorado River did this over millions of years."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "weather_warrior"
+      }
+    },
+    {
+      "id": "2-science-6",
+      "title": "Magnets and Forces",
+      "description": "Discover the amazing world of magnets and how they push and pull objects.",
+      "lessons": [
+        {
+          "id": "2-science-6-1",
+          "title": "What Are Magnets?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A magnet is a special object that can pull certain metals toward it. Magnets attract (pull toward) objects made of iron, steel, nickel, and cobalt. A magnet will NOT attract plastic, wood, paper, glass, or aluminum. Magnets come in different shapes: bar magnets, horseshoe magnets, ring magnets, and disc magnets. The refrigerator magnets in your kitchen are magnets too! Magnets have an invisible force around them called a magnetic field.",
+            "examples": [
+              {"problem": "What objects will a magnet attract?", "answer": "Objects made of iron, steel, nickel, and cobalt.", "explanation": "Magnets only attract certain metals, not all materials."},
+              {"problem": "Will a magnet pick up a wooden block?", "answer": "No", "explanation": "Magnets do not attract wood. They only attract certain metals."}
+            ],
+            "key_vocabulary": ["magnet", "attract", "iron", "steel", "magnetic", "force", "metal"],
+            "real_world": "Refrigerator magnets stick to the fridge because the fridge door is made of steel, which magnets attract!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these will a magnet attract?", "options": ["A wooden spoon", "A paper clip (steel)", "A rubber ball", "A glass cup"], "correct": 1, "hint": "Magnets attract certain metals."},
+            {"type": "true_false", "question": "Magnets attract all materials.", "answer": "false", "hint": "Magnets only attract certain metals like iron and steel."},
+            {"type": "multiple_choice", "question": "Which shape is NOT a common magnet shape?", "options": ["Bar", "Horseshoe", "Triangle", "Disc"], "correct": 2, "hint": "Think about common magnet shapes."},
+            {"type": "fill_in", "question": "Magnets pull certain metals toward them. This is called ___.", "answer": "attract", "hint": "The opposite of repel."},
+            {"type": "true_false", "question": "A magnet will pick up a paper clip.", "answer": "true", "hint": "Paper clips are made of steel."},
+            {"type": "multiple_choice", "question": "Which material will a magnet NOT attract?", "options": ["Iron nail", "Steel spoon", "Plastic toy", "Nickel coin"], "correct": 2, "hint": "Plastic is not a metal."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-6-2",
+          "title": "Magnetic Poles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every magnet has two ends called poles. One end is the north pole (often marked N) and the other is the south pole (often marked S). The magnetic force is strongest at the poles. Here is the most important rule about magnets: opposite poles attract and same poles repel. That means a north pole and a south pole pull toward each other (attract). But two north poles push away from each other (repel). Two south poles also push away from each other.",
+            "examples": [
+              {"problem": "What happens when you put two north poles together?", "answer": "They push apart (repel).", "explanation": "Same poles repel each other. N and N push apart. S and S push apart."},
+              {"problem": "What happens when you put a north pole and a south pole together?", "answer": "They pull together (attract).", "explanation": "Opposite poles attract. N and S pull toward each other."}
+            ],
+            "key_vocabulary": ["north pole", "south pole", "attract", "repel", "opposite", "same"],
+            "real_world": "Try putting two magnets together! If they stick, you are holding opposite poles together. If they push apart, you are holding the same poles together."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Every magnet has ___.", "options": ["One pole", "Two poles", "Three poles", "No poles"], "correct": 1, "hint": "North and south."},
+            {"type": "true_false", "question": "Opposite poles attract each other.", "answer": "true", "hint": "North and south pull toward each other."},
+            {"type": "multiple_choice", "question": "What happens when two south poles come near each other?", "options": ["They attract", "They repel (push apart)", "Nothing happens", "They explode"], "correct": 1, "hint": "Same poles do not get along!"},
+            {"type": "fill_in", "question": "When two magnets push apart, they ___.", "answer": "repel", "hint": "The opposite of attract."},
+            {"type": "true_false", "question": "Same poles attract each other.", "answer": "false", "hint": "Same poles repel. Opposite poles attract."},
+            {"type": "multiple_choice", "question": "Which poles attract?", "options": ["North and North", "South and South", "North and South", "None of them"], "correct": 2, "hint": "Opposites attract!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-6-3",
+          "title": "Magnets in Everyday Life",
+          "type": "lesson",
+          "content": {
+            "explanation": "Magnets are used in many things we see every day! Refrigerator magnets hold papers and pictures on the fridge. Cabinet doors have magnets to keep them closed. Credit cards and hotel key cards have a magnetic stripe. Speakers and headphones use magnets to make sound. Electric motors in fans, washing machines, and cars use magnets. Even the Earth is a giant magnet! That is why a compass needle always points north.",
+            "examples": [
+              {"problem": "Name three things that use magnets.", "answer": "Refrigerator magnets, speakers, and compass needles.", "explanation": "Magnets are used in many everyday objects!"},
+              {"problem": "Why does a compass always point north?", "answer": "Because the Earth is a giant magnet and the compass needle is attracted to Earth's north pole.", "explanation": "A compass has a tiny magnet inside that aligns with Earth's magnetic field."}
+            ],
+            "key_vocabulary": ["compass", "refrigerator magnet", "speaker", "motor", "Earth", "magnetic field"],
+            "real_world": "A compass uses a magnet to help people find their way. No matter where you are, the compass needle points north because of Earth's magnetic field!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why does a compass needle point north?", "options": ["Because of the sun", "Because the Earth is a giant magnet", "Because of gravity", "Because of the moon"], "correct": 1, "hint": "The Earth has its own magnetic field."},
+            {"type": "true_false", "question": "Speakers use magnets to make sound.", "answer": "true", "hint": "Magnets are inside speakers and headphones."},
+            {"type": "multiple_choice", "question": "Which of these uses a magnet?", "options": ["A pencil", "A glass of water", "A refrigerator magnet", "A pillow"], "correct": 2, "hint": "This sticks to the fridge!"},
+            {"type": "fill_in", "question": "The Earth itself is a giant ___.", "answer": "magnet", "hint": "That is why compasses work."},
+            {"type": "true_false", "question": "Electric motors use magnets.", "answer": "true", "hint": "Motors in fans and washing machines use magnets to spin."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-science-6-4",
+          "title": "Gravity: A Pulling Force",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gravity is an invisible force that pulls things toward the ground. When you drop a ball, gravity pulls it down. When you jump, gravity pulls you back to the ground. Gravity keeps us on Earth so we do not float into space! The Earth's gravity also keeps the Moon going around the Earth. Gravity pulls harder on heavier objects, which is why heavy things feel harder to lift. But all objects fall at the same speed due to gravity (without air resistance).",
+            "examples": [
+              {"problem": "What is gravity?", "answer": "A force that pulls things toward the ground.", "explanation": "Gravity is why things fall down instead of up!"},
+              {"problem": "What would happen without gravity?", "answer": "We would float away into space!", "explanation": "Gravity keeps us on Earth. Astronauts float in space because there is much less gravity."}
+            ],
+            "key_vocabulary": ["gravity", "force", "pull", "weight", "fall", "Earth"],
+            "real_world": "Astronauts on the International Space Station float because they are in orbit where the effect of gravity is different. On Earth, gravity keeps everything on the ground!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is gravity?", "options": ["A pushing force", "A pulling force toward Earth", "A type of magnet", "A kind of wind"], "correct": 1, "hint": "Gravity pulls things down."},
+            {"type": "true_false", "question": "Gravity keeps us on the ground.", "answer": "true", "hint": "Without gravity, we would float away."},
+            {"type": "multiple_choice", "question": "When you drop a ball, which way does it go?", "options": ["Up", "Down", "Sideways", "It floats"], "correct": 1, "hint": "Gravity pulls things toward the ground."},
+            {"type": "fill_in", "question": "Gravity pulls things toward the ___.", "answer": "ground", "hint": "Things fall down, not up."},
+            {"type": "true_false", "question": "Astronauts float in space because there is much less gravity.", "answer": "true", "hint": "Without strong gravity, things float around."},
+            {"type": "multiple_choice", "question": "Gravity keeps the Moon going around the ___.", "options": ["Sun", "Earth", "Mars", "Stars"], "correct": 1, "hint": "The Moon orbits our planet."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which material does a magnet attract?", "options": ["Wood", "Glass", "Steel", "Plastic"], "correct": 2, "hint": "Magnets attract certain metals."},
+          {"type": "true_false", "question": "Opposite magnetic poles attract each other.", "answer": "true", "hint": "North and south pull together."},
+          {"type": "fill_in", "question": "Same magnetic poles ___ each other.", "answer": "repel", "hint": "They push apart."},
+          {"type": "multiple_choice", "question": "What is gravity?", "options": ["A pushing force", "A pulling force toward Earth", "A magnetic force", "A type of weather"], "correct": 1, "hint": "It is why things fall down."},
+          {"type": "true_false", "question": "A compass uses a magnet to point north.", "answer": "true", "hint": "The Earth's magnetic field makes compass needles point north."},
+          {"type": "multiple_choice", "question": "The Earth is a giant ___.", "options": ["Speaker", "Magnet", "Motor", "Compass"], "correct": 1, "hint": "That is why compasses work!"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "magnet_master"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2915 @@
+{
+  "grade": 12,
+  "subject": "math",
+  "units": [
+    {
+      "id": "12-math-1",
+      "title": "Advanced Functions",
+      "description": "Analyze polynomial, rational, and piecewise functions in depth.",
+      "lessons": [
+        {
+          "id": "12-math-1-1",
+          "title": "Polynomial End Behavior and Graphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "End behavior depends on degree and leading coefficient. Even degree: both ends same direction. Odd degree: ends opposite. Positive leading coeff: right side goes up. Turning points \u2264 degree-1. Zeros where graph crosses x-axis.",
+            "examples": [
+              {
+                "problem": "f(x)=x\u00b3-3x. End behavior?",
+                "answer": "Left\u2193, Right\u2191",
+                "explanation": "Odd degree, positive leading coeff."
+              },
+              {
+                "problem": "f(x)=-2x\u2074. End behavior?",
+                "answer": "Both ends\u2193",
+                "explanation": "Even degree, negative leading coeff."
+              },
+              {
+                "problem": "f(x)=x\u00b3. Max turning points?",
+                "answer": "2",
+                "explanation": "Degree 3: at most 3-1=2."
+              }
+            ],
+            "key_vocabulary": [
+              "end behavior",
+              "turning point",
+              "leading coefficient",
+              "degree",
+              "zeros"
+            ],
+            "real_world": "Roller coaster designers use polynomial graphs to plan hills and valleys."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "x\u00b3+2x: ends go",
+              "options": [
+                "Both up",
+                "Both down",
+                "Left\u2193 Right\u2191",
+                "Left\u2191 Right\u2193"
+              ],
+              "correct": 2,
+              "hint": "Odd, positive leading coeff."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "-x\u2074+x: ends go",
+              "options": [
+                "Both up",
+                "Both down",
+                "Left\u2193 Right\u2191",
+                "Left\u2191 Right\u2193"
+              ],
+              "correct": 1,
+              "hint": "Even, negative coeff."
+            },
+            {
+              "type": "fill_in",
+              "question": "Degree 5 polynomial: max turning points=___",
+              "answer": "4",
+              "hint": "Degree-1."
+            },
+            {
+              "type": "fill_in",
+              "question": "Degree 4 polynomial: max turning points=___",
+              "answer": "3",
+              "hint": "4-1=3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "x\u00b2+1: ends go",
+              "options": [
+                "Both up",
+                "Both down",
+                "Left\u2193 Right\u2191",
+                "Left\u2191 Right\u2193"
+              ],
+              "correct": 0,
+              "hint": "Even, positive coeff."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u2074-x\u00b2. Degree=___",
+              "answer": "4",
+              "hint": "Highest exponent."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-1-2",
+          "title": "Rational Functions and Asymptotes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Vertical asymptote: denominator=0 (factor doesn't cancel). Horizontal asymptote: compare degrees. Same degree: ratio of leading coefficients. Numerator degree < denominator: y=0. Numerator degree > denominator: no horizontal (may have oblique).",
+            "examples": [
+              {
+                "problem": "f(x)=1/(x-3). VA?",
+                "answer": "x=3",
+                "explanation": "x-3=0."
+              },
+              {
+                "problem": "f(x)=(2x+1)/(x-1). HA?",
+                "answer": "y=2",
+                "explanation": "Same degree: 2/1=2."
+              },
+              {
+                "problem": "f(x)=1/x\u00b2. HA?",
+                "answer": "y=0",
+                "explanation": "Numerator degree < denominator degree."
+              }
+            ],
+            "key_vocabulary": [
+              "vertical asymptote",
+              "horizontal asymptote",
+              "oblique",
+              "hole",
+              "rational function"
+            ],
+            "real_world": "Asymptotes model diminishing returns in economics and drug absorption in medicine."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=3/(x+2). VA: x=___",
+              "answer": "-2",
+              "hint": "x+2=0."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=(4x)/(x+1). HA: y=___",
+              "answer": "4",
+              "hint": "Same degree: 4/1=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=5/(x\u00b2+1). HA: y=___",
+              "answer": "0",
+              "hint": "Degree 0 < degree 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=1/(x-5). VA: x=___",
+              "answer": "5",
+              "hint": "Denominator=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(x)=(x\u00b2+1)/x. Horizontal asymptote?",
+              "options": [
+                "y=0",
+                "y=1",
+                "y=x",
+                "None (oblique)"
+              ],
+              "correct": 3,
+              "hint": "Num degree > den degree."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=(3x-1)/(x+4). HA: y=___",
+              "answer": "3",
+              "hint": "Leading coefficients: 3/1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-1-3",
+          "title": "Piecewise and Absolute Value Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Piecewise: different formulas for different x-intervals. Evaluate by finding which piece applies. Absolute value: |x|=x if x\u22650, |x|=-x if x<0. |ax+b|=c gives ax+b=c or ax+b=-c.",
+            "examples": [
+              {
+                "problem": "|x-3|=5",
+                "answer": "x=8 or x=-2",
+                "explanation": "x-3=5 or x-3=-5."
+              },
+              {
+                "problem": "|2x+1|=7",
+                "answer": "x=3 or x=-4",
+                "explanation": "2x+1=7 \u2192 x=3. 2x+1=-7 \u2192 x=-4."
+              },
+              {
+                "problem": "|x|<3",
+                "answer": "-3<x<3",
+                "explanation": "Distance from 0 is less than 3."
+              }
+            ],
+            "key_vocabulary": [
+              "piecewise",
+              "absolute value",
+              "interval",
+              "evaluate"
+            ],
+            "real_world": "Tax brackets are piecewise functions \u2014 different rates for different income ranges."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "|x-4|=6. x=10 or x=___",
+              "answer": "-2",
+              "hint": "x-4=-6 \u2192 x=-2."
+            },
+            {
+              "type": "fill_in",
+              "question": "|2x|=10. x=5 or x=___",
+              "answer": "-5",
+              "hint": "2x=-10 \u2192 x=-5."
+            },
+            {
+              "type": "fill_in",
+              "question": "|x+1|=0. x=___",
+              "answer": "-1",
+              "hint": "x+1=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "|x|<5 means:",
+              "options": [
+                "x<5",
+                "x>-5",
+                "-5<x<5",
+                "x<-5 or x>5"
+              ],
+              "correct": 2,
+              "hint": "Distance from 0 < 5."
+            },
+            {
+              "type": "fill_in",
+              "question": "|3x-6|=0. x=___",
+              "answer": "2",
+              "hint": "3x=6."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "|x|>2 means:",
+              "options": [
+                "x>2",
+                "-2<x<2",
+                "x<-2 or x>2",
+                "x=2"
+              ],
+              "correct": 2,
+              "hint": "Distance from 0 > 2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-1-4",
+          "title": "Function Composition and Decomposition",
+          "type": "lesson",
+          "content": {
+            "explanation": "Composition: (f\u2218g)(x)=f(g(x)). Order matters: f\u2218g \u2260 g\u2218f usually. Decomposition: express a complex function as a composition of simpler ones. If h(x)=(2x+1)\u00b3, let g(x)=2x+1, f(x)=x\u00b3, then h=f\u2218g.",
+            "examples": [
+              {
+                "problem": "f(x)=x\u00b2, g(x)=x+1. f(g(3))=?",
+                "answer": "16",
+                "explanation": "g(3)=4, f(4)=16."
+              },
+              {
+                "problem": "f(x)=\u221ax, g(x)=x+4. (f\u2218g)(5)=?",
+                "answer": "3",
+                "explanation": "g(5)=9, \u221a9=3."
+              },
+              {
+                "problem": "Decompose h(x)=\u221a(3x-1)",
+                "answer": "f(x)=\u221ax, g(x)=3x-1",
+                "explanation": "h=f\u2218g."
+              }
+            ],
+            "key_vocabulary": [
+              "composition",
+              "decomposition",
+              "inner function",
+              "outer function"
+            ],
+            "real_world": "Data encryption applies function composition \u2014 encode then decode."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=x+3, g(x)=2x. f(g(5))=___",
+              "answer": "13",
+              "hint": "g(5)=10, f(10)=13."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2, g(x)=x-1. g(f(3))=___",
+              "answer": "8",
+              "hint": "f(3)=9, g(9)=8."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=3x, g(x)=x+2. (f\u2218g)(1)=___",
+              "answer": "9",
+              "hint": "g(1)=3, f(3)=9."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x-1, g(x)=x\u00b2. (g\u2218f)(4)=___",
+              "answer": "9",
+              "hint": "f(4)=3, g(3)=9."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "h(x)=(x+5)\u00b2. Outer function:",
+              "options": [
+                "x+5",
+                "x\u00b2",
+                "(x+5)\u00b2",
+                "\u221ax"
+              ],
+              "correct": 1,
+              "hint": "Squaring is the outer function."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=1/x, g(x)=x+1. f(g(3))=1/___",
+              "answer": "4",
+              "hint": "g(3)=4, f(4)=1/4."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-1-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "f(x)=1/(x-4). VA: x=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=(5x)/(x+2). HA: y=___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "|x-7|=3. x=10 or x=___",
+            "answer": "4"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "x\u2075-x: ends go",
+            "options": [
+              "Both up",
+              "Both down",
+              "Left\u2193 Right\u2191",
+              "Left\u2191 Right\u2193"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=x+2, g(x)=3x. f(g(4))=___",
+            "answer": "14"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "advanced_functions"
+      }
+    },
+    {
+      "id": "12-math-2",
+      "title": "Polynomial and Rational Analysis",
+      "description": "Zeros, multiplicity, partial fractions, and polynomial inequalities.",
+      "lessons": [
+        {
+          "id": "12-math-2-1",
+          "title": "Zeros, Multiplicity, and Graphing",
+          "type": "lesson",
+          "content": {
+            "explanation": "A zero with multiplicity m: if m is odd, graph crosses x-axis. If m is even, graph touches and bounces. Fundamental Theorem of Algebra: degree n polynomial has exactly n zeros (counting multiplicity, including complex).",
+            "examples": [
+              {
+                "problem": "f(x)=(x-1)\u00b2(x+2). Zero x=1 multiplicity?",
+                "answer": "2 (bounces)",
+                "explanation": "Even multiplicity \u2192 touches."
+              },
+              {
+                "problem": "f(x)=x\u00b3. Zero x=0 multiplicity?",
+                "answer": "3 (crosses)",
+                "explanation": "Odd multiplicity \u2192 crosses."
+              },
+              {
+                "problem": "Degree 4 polynomial: how many zeros?",
+                "answer": "4",
+                "explanation": "Counting multiplicity and complex."
+              }
+            ],
+            "key_vocabulary": [
+              "multiplicity",
+              "zero",
+              "bounce",
+              "cross",
+              "Fundamental Theorem of Algebra"
+            ],
+            "real_world": "Signal processing uses polynomial zeros to filter specific frequencies."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x-3)\u00b2(x+1). Multiplicity of x=3: ___",
+              "answer": "2",
+              "hint": "Exponent on (x-3)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Even multiplicity means graph:",
+              "options": [
+                "Crosses",
+                "Bounces",
+                "Has a hole",
+                "Goes to infinity"
+              ],
+              "correct": 1,
+              "hint": "Touches and turns around."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u2075 has degree 5. Total zeros (with multiplicity)=___",
+              "answer": "5",
+              "hint": "Degree = number of zeros."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Odd multiplicity means graph:",
+              "options": [
+                "Crosses",
+                "Bounces",
+                "Has a hole",
+                "Stops"
+              ],
+              "correct": 0,
+              "hint": "Crosses x-axis."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+1)\u00b3(x-2)\u00b9. Total degree=___",
+              "answer": "4",
+              "hint": "3+1=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=(x-4)\u00b2. The zero x=4 has multiplicity ___",
+              "answer": "2",
+              "hint": "Exponent is 2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-2-2",
+          "title": "Polynomial Inequalities",
+          "type": "lesson",
+          "content": {
+            "explanation": "To solve f(x)>0: 1) Find zeros. 2) Plot on number line. 3) Test each interval. 4) Include zeros for \u2265 (not for >). Sign changes at odd-multiplicity zeros.",
+            "examples": [
+              {
+                "problem": "x\u00b2-4>0",
+                "answer": "x<-2 or x>2",
+                "explanation": "Zeros: \u00b12. Test intervals: positive outside."
+              },
+              {
+                "problem": "(x-1)(x+3)\u22640",
+                "answer": "-3\u2264x\u22641",
+                "explanation": "Negative between zeros, include endpoints."
+              },
+              {
+                "problem": "x\u00b3>0",
+                "answer": "x>0",
+                "explanation": "Zero at 0, positive for x>0."
+              }
+            ],
+            "key_vocabulary": [
+              "inequality",
+              "interval",
+              "number line",
+              "test point",
+              "sign chart"
+            ],
+            "real_world": "Engineers solve inequalities to find safe operating ranges for machinery."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-9>0. Zeros: x=\u00b13. Solution: x<-3 or x>___",
+              "answer": "3",
+              "hint": "Positive outside the zeros."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x-2)(x+1)<0. Solution: -1<x<___",
+              "answer": "2",
+              "hint": "Negative between zeros."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-1\u22650. Solution: x\u2264-1 or x\u2265___",
+              "answer": "1",
+              "hint": "Include zeros for \u2265."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "x\u00b2<0 has:",
+              "options": [
+                "No solution",
+                "x=0",
+                "All reals",
+                "x<0"
+              ],
+              "correct": 0,
+              "hint": "Squares are never negative."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+4)(x-3)>0. Positive when x<-4 or x>___",
+              "answer": "3",
+              "hint": "Outside the zeros."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2-16<0. Solution: -4<x<___",
+              "answer": "4",
+              "hint": "Negative between -4 and 4."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-2-3",
+          "title": "Rational Inequalities",
+          "type": "lesson",
+          "content": {
+            "explanation": "To solve f(x)/g(x)>0: find zeros of numerator AND denominator. Plot on number line. Test intervals. Never include values where denominator=0.",
+            "examples": [
+              {
+                "problem": "(x-1)/(x+2)>0",
+                "answer": "x<-2 or x>1",
+                "explanation": "Critical points: -2, 1. Test intervals."
+              },
+              {
+                "problem": "1/x<0",
+                "answer": "x<0",
+                "explanation": "1 is positive, so need x<0."
+              },
+              {
+                "problem": "(x+3)/(x-1)\u22640",
+                "answer": "-3\u2264x<1",
+                "explanation": "Include -3 (zero), exclude 1 (undefined)."
+              }
+            ],
+            "key_vocabulary": [
+              "rational inequality",
+              "critical point",
+              "undefined",
+              "test interval"
+            ],
+            "real_world": "Dose-response curves in pharmacology use rational inequalities for safe ranges."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x-2)/(x+1)>0. Critical points: -1 and ___",
+              "answer": "2",
+              "hint": "Numerator=0 and denominator=0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Include denominator zeros?",
+              "options": [
+                "Yes",
+                "No",
+                "Sometimes",
+                "Only if \u2265"
+              ],
+              "correct": 1,
+              "hint": "Denominator=0 is undefined."
+            },
+            {
+              "type": "fill_in",
+              "question": "1/(x-3)>0. Solution: x>___",
+              "answer": "3",
+              "hint": "Need denominator positive."
+            },
+            {
+              "type": "fill_in",
+              "question": "x/(x+4)<0. Neg when -4<x<___",
+              "answer": "0",
+              "hint": "Critical pts: -4, 0."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x-5)/(x+2)\u22650. Include x=___ but not x=-2",
+              "answer": "5",
+              "hint": "Include numerator zero."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At denominator zero, the function is:",
+              "options": [
+                "Zero",
+                "One",
+                "Undefined",
+                "Infinite"
+              ],
+              "correct": 2,
+              "hint": "Division by zero."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-2-4",
+          "title": "Complex Zeros and Conjugate Pairs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Complex zeros of polynomials with real coefficients come in conjugate pairs: if a+bi is a zero, so is a-bi. Use this to build polynomials from zeros. A degree-n polynomial with real coefficients can have 0, 2, 4, ... complex zeros.",
+            "examples": [
+              {
+                "problem": "Zeros: 2, 3+i. Third zero?",
+                "answer": "3-i",
+                "explanation": "Complex conjugate."
+              },
+              {
+                "problem": "Build polynomial: zeros 1, -1, 2i, -2i",
+                "answer": "(x-1)(x+1)(x\u00b2+4)=x\u2074+3x\u00b2-4",
+                "explanation": "Pair complex zeros: (x-2i)(x+2i)=x\u00b2+4."
+              },
+              {
+                "problem": "Degree 3, zeros: 4, 1+i. All zeros?",
+                "answer": "4, 1+i, 1-i",
+                "explanation": "Conjugate pair + real zero = 3."
+              }
+            ],
+            "key_vocabulary": [
+              "conjugate pair",
+              "real coefficients",
+              "build polynomial",
+              "complex zero"
+            ],
+            "real_world": "Signal processing uses conjugate pairs to ensure real-valued output signals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "If 2+3i is a zero, so is 2-___i",
+              "answer": "3",
+              "hint": "Conjugate pair."
+            },
+            {
+              "type": "fill_in",
+              "question": "Zeros: 1, -1, i, -i. Degree must be at least ___",
+              "answer": "4",
+              "hint": "Four zeros."
+            },
+            {
+              "type": "fill_in",
+              "question": "A degree 3 polynomial can have 2 complex zeros.",
+              "answer": "true",
+              "hint": "2 complex + 1 real = 3."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x-i)(x+i)=x\u00b2+___",
+              "answer": "1",
+              "hint": "x\u00b2-i\u00b2=x\u00b2+1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Degree 5 with real coefficients: possible # of complex zeros?",
+              "options": [
+                "0,2,4",
+                "1,3,5",
+                "0,1,2",
+                "Any number"
+              ],
+              "correct": 0,
+              "hint": "Must be even number."
+            },
+            {
+              "type": "fill_in",
+              "question": "If 1-i is a zero, conjugate is 1+___",
+              "answer": "i",
+              "hint": "Flip sign of imaginary."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-2-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "(x-2)\u00b3. Multiplicity of x=2: ___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2-25>0. x<-5 or x>___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "If 4+i is a zero, so is 4-___",
+            "answer": "i"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Even multiplicity: graph ___",
+            "options": [
+              "Crosses",
+              "Bounces",
+              "Has a hole",
+              "Ends"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "(x+1)/(x-2)>0. Critical points: -1 and ___",
+            "answer": "2"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "polynomial_analyst"
+      }
+    },
+    {
+      "id": "12-math-3",
+      "title": "Exponential and Logarithmic Applications",
+      "description": "Advanced exp/log equations, modeling, and natural logarithms.",
+      "lessons": [
+        {
+          "id": "12-math-3-1",
+          "title": "Solving Exponential Equations with Logarithms",
+          "type": "lesson",
+          "content": {
+            "explanation": "When bases don't match, take log of both sides. 2\u02e3=7 \u2192 x=log(7)/log(2)\u22482.807. General: b\u02e3=c \u2192 x=ln(c)/ln(b). For e-based: e\u02e3=c \u2192 x=ln(c).",
+            "examples": [
+              {
+                "problem": "2\u02e3=10",
+                "answer": "x=log10/log2\u22483.322",
+                "explanation": "log both sides."
+              },
+              {
+                "problem": "e\u02e3=5",
+                "answer": "x=ln5\u22481.609",
+                "explanation": "Natural log both sides."
+              },
+              {
+                "problem": "3^(2x)=15",
+                "answer": "x=log15/(2log3)\u22481.232",
+                "explanation": "2x=log15/log3."
+              }
+            ],
+            "key_vocabulary": [
+              "logarithm",
+              "natural log",
+              "change of base",
+              "exponential equation"
+            ],
+            "real_world": "Radiocarbon dating solves exponential equations to find artifact ages."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "5\u02e3=25. x=___",
+              "answer": "2",
+              "hint": "5\u00b2=25."
+            },
+            {
+              "type": "fill_in",
+              "question": "e\u02e3=1. x=___",
+              "answer": "0",
+              "hint": "e\u2070=1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "2\u02e3=7. x=",
+              "options": [
+                "log7/log2",
+                "log2/log7",
+                "7/2",
+                "2/7"
+              ],
+              "correct": 0,
+              "hint": "x=log\u20827=log7/log2."
+            },
+            {
+              "type": "fill_in",
+              "question": "10\u02e3=1000. x=___",
+              "answer": "3",
+              "hint": "10\u00b3=1000."
+            },
+            {
+              "type": "fill_in",
+              "question": "e\u02e3=e\u2074. x=___",
+              "answer": "4",
+              "hint": "Same base, equal exponents."
+            },
+            {
+              "type": "fill_in",
+              "question": "3\u02e3=9. x=___",
+              "answer": "2",
+              "hint": "3\u00b2=9."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-3-2",
+          "title": "Solving Logarithmic Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Convert to exponential: log_b(x)=c \u2192 x=b\u1d9c. Combine logs first: log(A)+log(B)=log(AB). Check solutions: argument must be positive. Extraneous solutions may appear.",
+            "examples": [
+              {
+                "problem": "log\u2082(x-1)=3",
+                "answer": "x=9",
+                "explanation": "x-1=2\u00b3=8, x=9."
+              },
+              {
+                "problem": "log(x)+log(x-3)=1",
+                "answer": "x=5",
+                "explanation": "log(x(x-3))=1, x\u00b2-3x=10, x\u00b2-3x-10=0, (x-5)(x+2)=0. x=5 (x=-2 rejected)."
+              },
+              {
+                "problem": "ln(2x)=ln(8)",
+                "answer": "x=4",
+                "explanation": "2x=8, x=4."
+              }
+            ],
+            "key_vocabulary": [
+              "convert",
+              "combine",
+              "extraneous",
+              "domain"
+            ],
+            "real_world": "Seismologists solve log equations to calculate earthquake energy from magnitude."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "log\u2083(x)=4. x=___",
+              "answer": "81",
+              "hint": "3\u2074=81."
+            },
+            {
+              "type": "fill_in",
+              "question": "log(x)+log(5)=2. log(5x)=2. x=___",
+              "answer": "20",
+              "hint": "5x=100, x=20."
+            },
+            {
+              "type": "fill_in",
+              "question": "ln(x-2)=0. x-2=1. x=___",
+              "answer": "3",
+              "hint": "e\u2070=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2082(x+3)=5. x=___",
+              "answer": "29",
+              "hint": "x+3=32, x=29."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "log(x)+log(4)=log(20). x=",
+              "options": [
+                "5",
+                "80",
+                "16",
+                "4"
+              ],
+              "correct": 0,
+              "hint": "4x=20, x=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "log\u2085(2x-1)=2. 2x-1=25. x=___",
+              "answer": "13",
+              "hint": "2x=26."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-3-3",
+          "title": "Exponential Growth and Decay Models",
+          "type": "lesson",
+          "content": {
+            "explanation": "Growth: A=A\u2080e\u1d4f\u1d57 (k>0). Decay: A=A\u2080e\u1d4f\u1d57 (k<0). Half-life: t\u2081/\u2082=ln(2)/|k|. Doubling time: t=ln(2)/k. Logistic growth: P=M/(1+ce\u207b\u1d4f\u1d57) approaches carrying capacity M.",
+            "examples": [
+              {
+                "problem": "A\u2080=100, k=0.05, t=10. A=?",
+                "answer": "100e\u2070\u00b7\u2075\u2248164.87",
+                "explanation": "Exponential growth."
+              },
+              {
+                "problem": "Half-life 5 years. k=?",
+                "answer": "k=-ln2/5\u2248-0.1386",
+                "explanation": "k=-0.693/5."
+              },
+              {
+                "problem": "Doubling time at 8%?",
+                "answer": "t=ln2/0.08\u22488.66 years",
+                "explanation": "0.693/0.08\u22488.66."
+              }
+            ],
+            "key_vocabulary": [
+              "growth rate",
+              "decay",
+              "half-life",
+              "doubling time",
+              "logistic",
+              "carrying capacity"
+            ],
+            "real_world": "Epidemiologists use logistic models to predict pandemic curves."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Half-life 10 yrs. After 20 yrs, fraction remaining=1/___",
+              "answer": "4",
+              "hint": "(1/2)\u00b2=1/4."
+            },
+            {
+              "type": "fill_in",
+              "question": "Doubling time at 10%: ln2/0.1\u2248___",
+              "answer": "6.93",
+              "hint": "0.693/0.1."
+            },
+            {
+              "type": "fill_in",
+              "question": "k=-0.2. Half-life=ln2/0.2\u2248___",
+              "answer": "3.47",
+              "hint": "0.693/0.2\u22483.465."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "k>0 means:",
+              "options": [
+                "Growth",
+                "Decay",
+                "Constant",
+                "Oscillation"
+              ],
+              "correct": 0,
+              "hint": "Positive k = growth."
+            },
+            {
+              "type": "fill_in",
+              "question": "100 bacteria double every 3 hrs. After 6 hrs: ___",
+              "answer": "400",
+              "hint": "Two doublings: 100\u2192200\u2192400."
+            },
+            {
+              "type": "fill_in",
+              "question": "Half-life 4 days. After 12 days: (1/2)^___ remains",
+              "answer": "3",
+              "hint": "12/4=3 half-lives."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-3-4",
+          "title": "Compound Interest and Financial Models",
+          "type": "lesson",
+          "content": {
+            "explanation": "Periodic: A=P(1+r/n)^(nt). Continuous: A=Pe^(rt). P=principal, r=annual rate, n=compounds/year, t=years. APY=(1+r/n)^n-1 for effective annual rate.",
+            "examples": [
+              {
+                "problem": "$1000, 6%, quarterly, 5 yrs",
+                "answer": "A=1000(1.015)^20\u2248$1346.86",
+                "explanation": "r/n=0.06/4=0.015, nt=20."
+              },
+              {
+                "problem": "$5000, 4%, continuous, 3 yrs",
+                "answer": "A=5000e^0.12\u2248$5637.48",
+                "explanation": "e^0.12\u22481.1275."
+              },
+              {
+                "problem": "$2000 to $3000 at 5%. Time?",
+                "answer": "t=ln(1.5)/0.05\u22488.11 yrs",
+                "explanation": "3000=2000e^(0.05t)."
+              }
+            ],
+            "key_vocabulary": [
+              "principal",
+              "compound",
+              "continuous",
+              "APY",
+              "periodic"
+            ],
+            "real_world": "Every savings account, mortgage, and loan uses compound interest formulas."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "$1000, 10%, annual, 2 yrs: A=1000(1.1)\u00b2=___",
+              "answer": "1210",
+              "hint": "1.1\u00b2=1.21. 1000\u00d71.21."
+            },
+            {
+              "type": "fill_in",
+              "question": "$500, 8%, continuous, 1 yr: A=500e^0.08\u2248500\u00d71.0833\u2248___",
+              "answer": "541.64",
+              "hint": "e^0.08\u22481.0833."
+            },
+            {
+              "type": "fill_in",
+              "question": "P=2000, A=4000, r=0.07. t=ln(2)/0.07\u2248___",
+              "answer": "9.9",
+              "hint": "ln2\u22480.693."
+            },
+            {
+              "type": "fill_in",
+              "question": "$100 at 12% monthly: r/n=0.12/12=___",
+              "answer": "0.01",
+              "hint": "Monthly rate."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "More compounding periods means:",
+              "options": [
+                "Less interest",
+                "More interest",
+                "Same interest",
+                "No interest"
+              ],
+              "correct": 1,
+              "hint": "More frequent = more interest."
+            },
+            {
+              "type": "fill_in",
+              "question": "$1000, 5%, semiannual, 1 yr: A=1000(1.025)\u00b2=___",
+              "answer": "1050.63",
+              "hint": "1.025\u00b2=1.050625."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "2\u02e3=16. x=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "log\u2082(x)=6. x=___",
+            "answer": "64"
+          },
+          {
+            "type": "fill_in",
+            "question": "Half-life 8 yrs. After 24 yrs: (1/2)^___",
+            "answer": "3"
+          },
+          {
+            "type": "fill_in",
+            "question": "$1000 at 10% annual for 3 yrs: 1000(1.1)\u00b3=___",
+            "answer": "1331"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "e\u02e3=7. x=",
+            "options": [
+              "log7",
+              "ln7",
+              "7/e",
+              "e/7"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "exp_log_master"
+      }
+    },
+    {
+      "id": "12-math-4",
+      "title": "Advanced Trigonometry",
+      "description": "Inverse trig, law of sines/cosines, identities, and polar coordinates.",
+      "lessons": [
+        {
+          "id": "12-math-4-1",
+          "title": "Inverse Trigonometric Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "sin\u207b\u00b9(x): domain [-1,1], range [-\u03c0/2,\u03c0/2]. cos\u207b\u00b9(x): domain [-1,1], range [0,\u03c0]. tan\u207b\u00b9(x): domain all reals, range (-\u03c0/2,\u03c0/2). These give the principal value (one specific angle).",
+            "examples": [
+              {
+                "problem": "sin\u207b\u00b9(1/2)",
+                "answer": "\u03c0/6 = 30\u00b0",
+                "explanation": "sin(30\u00b0)=1/2, and 30\u00b0 is in [-90\u00b0,90\u00b0]."
+              },
+              {
+                "problem": "cos\u207b\u00b9(-1)",
+                "answer": "\u03c0 = 180\u00b0",
+                "explanation": "cos(180\u00b0)=-1."
+              },
+              {
+                "problem": "tan\u207b\u00b9(1)",
+                "answer": "\u03c0/4 = 45\u00b0",
+                "explanation": "tan(45\u00b0)=1."
+              }
+            ],
+            "key_vocabulary": [
+              "inverse trig",
+              "arcsin",
+              "arccos",
+              "arctan",
+              "principal value",
+              "domain",
+              "range"
+            ],
+            "real_world": "GPS systems use inverse trig to calculate bearing angles between coordinates."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sin\u207b\u00b9(0)=___",
+              "answer": "0",
+              "hint": "sin(0)=0."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos\u207b\u00b9(0)=\u03c0/___",
+              "answer": "2",
+              "hint": "cos(\u03c0/2)=0."
+            },
+            {
+              "type": "fill_in",
+              "question": "tan\u207b\u00b9(0)=___",
+              "answer": "0",
+              "hint": "tan(0)=0."
+            },
+            {
+              "type": "fill_in",
+              "question": "sin\u207b\u00b9(1)=\u03c0/___",
+              "answer": "2",
+              "hint": "sin(\u03c0/2)=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos\u207b\u00b9(1)=___",
+              "answer": "0",
+              "hint": "cos(0)=1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Range of sin\u207b\u00b9:",
+              "options": [
+                "[0,\u03c0]",
+                "[-\u03c0/2,\u03c0/2]",
+                "[0,2\u03c0]",
+                "(-\u221e,\u221e)"
+              ],
+              "correct": 1,
+              "hint": "Restricted to [-\u03c0/2,\u03c0/2]."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-4-2",
+          "title": "Law of Sines and Cosines",
+          "type": "lesson",
+          "content": {
+            "explanation": "Law of Sines: a/sinA = b/sinB = c/sinC. Use when you know AAS, ASA, or SSA. Law of Cosines: c\u00b2=a\u00b2+b\u00b2-2ab\u00b7cosC. Use when you know SAS or SSS. Ambiguous case (SSA): may have 0, 1, or 2 solutions.",
+            "examples": [
+              {
+                "problem": "Triangle: A=30\u00b0, a=5, b=8. sinB?",
+                "answer": "sinB=8sin30\u00b0/5=0.8, B\u224853.1\u00b0",
+                "explanation": "Law of Sines."
+              },
+              {
+                "problem": "Triangle: a=7, b=8, C=60\u00b0. Find c.",
+                "answer": "c\u00b2=49+64-2(7)(8)(0.5)=57. c\u22487.55",
+                "explanation": "Law of Cosines."
+              },
+              {
+                "problem": "Triangle: a=3, b=4, c=5. Find C.",
+                "answer": "cosC=(9+16-25)/24=0. C=90\u00b0",
+                "explanation": "It's a right triangle!"
+              }
+            ],
+            "key_vocabulary": [
+              "law of sines",
+              "law of cosines",
+              "ambiguous case",
+              "oblique triangle",
+              "SAS",
+              "AAS"
+            ],
+            "real_world": "Surveyors use law of sines and cosines to measure distances across rivers and valleys."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "a/sinA=b/sinB. If a=10, A=30\u00b0, B=60\u00b0: b=10sin60\u00b0/sin30\u00b0=___",
+              "answer": "17.32",
+              "hint": "10(\u221a3/2)/(1/2)=10\u221a3\u224817.32."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Use Law of Cosines when you know:",
+              "options": [
+                "AAS",
+                "ASA",
+                "SAS",
+                "AAA"
+              ],
+              "correct": 2,
+              "hint": "Need two sides and included angle."
+            },
+            {
+              "type": "fill_in",
+              "question": "a=5,b=5,C=60\u00b0. c\u00b2=25+25-2(25)(0.5)=___",
+              "answer": "25",
+              "hint": "c\u00b2=50-25=25, c=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "Equilateral: a=b=c=5, C=___\u00b0",
+              "answer": "60",
+              "hint": "All angles 60\u00b0."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Law of Sines relates:",
+              "options": [
+                "Sides to sides",
+                "Angles to angles",
+                "Sides to opposite angles",
+                "Areas"
+              ],
+              "correct": 2,
+              "hint": "Side/sin(opposite angle)."
+            },
+            {
+              "type": "fill_in",
+              "question": "a=3,b=4,C=90\u00b0. c\u00b2=9+16-0=___",
+              "answer": "25",
+              "hint": "cos90\u00b0=0, so c\u00b2=25, c=5."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-4-3",
+          "title": "Sum, Difference, and Double Angle Formulas",
+          "type": "lesson",
+          "content": {
+            "explanation": "sin(A\u00b1B)=sinAcosB\u00b1cosAsinB. cos(A\u00b1B)=cosAcosB\u2213sinAsinB. Double: sin2A=2sinAcosA. cos2A=cos\u00b2A-sin\u00b2A=2cos\u00b2A-1=1-2sin\u00b2A. Half: sin(A/2)=\u00b1\u221a((1-cosA)/2).",
+            "examples": [
+              {
+                "problem": "sin(75\u00b0)=sin(45\u00b0+30\u00b0)",
+                "answer": "(\u221a6+\u221a2)/4",
+                "explanation": "sin45cos30+cos45sin30."
+              },
+              {
+                "problem": "cos(15\u00b0)=cos(45\u00b0-30\u00b0)",
+                "answer": "(\u221a6+\u221a2)/4",
+                "explanation": "cos45cos30+sin45sin30."
+              },
+              {
+                "problem": "sin(2\u00b745\u00b0)=sin90\u00b0",
+                "answer": "1",
+                "explanation": "Also: 2sin45cos45=2(\u221a2/2)(\u221a2/2)=1. \u2713"
+              }
+            ],
+            "key_vocabulary": [
+              "sum formula",
+              "difference formula",
+              "double angle",
+              "half angle"
+            ],
+            "real_world": "Wave interference in physics uses sum and difference formulas to combine signals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "sin(A+B)=sinAcosB+cosA\u00b7___",
+              "answer": "sinB",
+              "hint": "Sum formula for sine."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos(A+B)=cosAcosB-sinA\u00b7___",
+              "answer": "sinB",
+              "hint": "Sum formula for cosine."
+            },
+            {
+              "type": "fill_in",
+              "question": "sin(2A)=2sinA\u00b7___",
+              "answer": "cosA",
+              "hint": "Double angle formula."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos2A=cos\u00b2A-___\u00b2A",
+              "answer": "sin",
+              "hint": "cos\u00b2A-sin\u00b2A."
+            },
+            {
+              "type": "fill_in",
+              "question": "cos(2\u00b760\u00b0)=cos120\u00b0=___",
+              "answer": "-1/2",
+              "hint": "2cos\u00b260\u00b0-1=2(1/4)-1=-1/2. \u2713"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "cos(A-B)=cosAcosB+",
+              "options": [
+                "sinAsinB",
+                "-sinAsinB",
+                "cosAsinB",
+                "sinAcosB"
+              ],
+              "correct": 0,
+              "hint": "Plus for difference."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-4-4",
+          "title": "Polar Coordinates",
+          "type": "lesson",
+          "content": {
+            "explanation": "Point (r,\u03b8): r=distance from origin, \u03b8=angle from positive x-axis. Convert: x=rcos\u03b8, y=rsin\u03b8. Reverse: r=\u221a(x\u00b2+y\u00b2), \u03b8=arctan(y/x). Same point has multiple representations: (r,\u03b8)=(-r,\u03b8+\u03c0).",
+            "examples": [
+              {
+                "problem": "(3, \u03c0/3) to rectangular",
+                "answer": "(1.5, 2.598)",
+                "explanation": "x=3cos60\u00b0=1.5, y=3sin60\u00b0=3\u221a3/2\u22482.598."
+              },
+              {
+                "problem": "(3,4) to polar",
+                "answer": "(5, 53.1\u00b0)",
+                "explanation": "r=\u221a(9+16)=5, \u03b8=arctan(4/3)\u224853.1\u00b0."
+              },
+              {
+                "problem": "(2, \u03c0/2) to rectangular",
+                "answer": "(0, 2)",
+                "explanation": "x=2cos90\u00b0=0, y=2sin90\u00b0=2."
+              }
+            ],
+            "key_vocabulary": [
+              "polar",
+              "rectangular",
+              "convert",
+              "radius",
+              "angle",
+              "origin"
+            ],
+            "real_world": "Radar systems use polar coordinates to track objects by distance and angle."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(4, 0\u00b0) in rectangular: x=4, y=___",
+              "answer": "0",
+              "hint": "4cos0=4, 4sin0=0."
+            },
+            {
+              "type": "fill_in",
+              "question": "(5, 90\u00b0) in rectangular: x=0, y=___",
+              "answer": "5",
+              "hint": "5cos90=0, 5sin90=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "(0,5) in polar: r=___",
+              "answer": "5",
+              "hint": "\u221a(0+25)=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "(3,4) in polar: r=___",
+              "answer": "5",
+              "hint": "\u221a(9+16)=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "(1,1) in polar: r=___",
+              "answer": "\u221a2",
+              "hint": "\u221a(1+1)=\u221a2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In polar, r is the:",
+              "options": [
+                "x-coordinate",
+                "y-coordinate",
+                "distance from origin",
+                "angle"
+              ],
+              "correct": 2,
+              "hint": "Distance from origin."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "sin\u207b\u00b9(1)=\u03c0/___",
+            "answer": "2"
+          },
+          {
+            "type": "fill_in",
+            "question": "a=3,b=4,C=90\u00b0. c=___",
+            "answer": "5"
+          },
+          {
+            "type": "fill_in",
+            "question": "sin(2A)=2sinA\u00b7___",
+            "answer": "cosA"
+          },
+          {
+            "type": "fill_in",
+            "question": "(5,0\u00b0) rectangular: x=5,y=___",
+            "answer": "0"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Law of Cosines: c\u00b2=a\u00b2+b\u00b2-",
+            "options": [
+              "2absinC",
+              "2abcosC",
+              "a+b",
+              "cosC"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "advanced_trig_ace"
+      }
+    },
+    {
+      "id": "12-math-5",
+      "title": "Conic Sections",
+      "description": "Circles, ellipses, parabolas, and hyperbolas.",
+      "lessons": [
+        {
+          "id": "12-math-5-1",
+          "title": "Circles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Standard form: (x-h)\u00b2+(y-k)\u00b2=r\u00b2. Center (h,k), radius r. General form: x\u00b2+y\u00b2+Dx+Ey+F=0. Complete the square to convert. Two circles intersect if |r\u2081-r\u2082| < d < r\u2081+r\u2082.",
+            "examples": [
+              {
+                "problem": "(x-3)\u00b2+(y+1)\u00b2=16. Center and radius?",
+                "answer": "Center (3,-1), radius 4",
+                "explanation": "h=3, k=-1, r=\u221a16=4."
+              },
+              {
+                "problem": "x\u00b2+y\u00b2=25. Center and radius?",
+                "answer": "Center (0,0), radius 5",
+                "explanation": "Origin-centered, r=5."
+              },
+              {
+                "problem": "x\u00b2+y\u00b2-6x+4y-12=0. Standard form?",
+                "answer": "(x-3)\u00b2+(y+2)\u00b2=25",
+                "explanation": "Complete the square: (x\u00b2-6x+9)+(y\u00b2+4y+4)=12+9+4=25."
+              }
+            ],
+            "key_vocabulary": [
+              "circle",
+              "center",
+              "radius",
+              "standard form",
+              "complete the square"
+            ],
+            "real_world": "Cell tower coverage areas are modeled as circles on maps."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(x-1)\u00b2+(y-2)\u00b2=9. Radius=___",
+              "answer": "3",
+              "hint": "\u221a9=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+4)\u00b2+y\u00b2=49. Center x-coordinate=___",
+              "answer": "-4",
+              "hint": "h=-4."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2+y\u00b2=100. Radius=___",
+              "answer": "10",
+              "hint": "\u221a100=10."
+            },
+            {
+              "type": "fill_in",
+              "question": "Center (0,0), radius 6. Equation: x\u00b2+y\u00b2=___",
+              "answer": "36",
+              "hint": "6\u00b2=36."
+            },
+            {
+              "type": "fill_in",
+              "question": "Center (2,3), radius 5: (x-2)\u00b2+(y-3)\u00b2=___",
+              "answer": "25",
+              "hint": "5\u00b2=25."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "x\u00b2+y\u00b2+Dx+Ey+F=0 is always a:",
+              "options": [
+                "Line",
+                "Circle",
+                "Parabola",
+                "Ellipse"
+              ],
+              "correct": 1,
+              "hint": "General form of circle."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-5-2",
+          "title": "Ellipses",
+          "type": "lesson",
+          "content": {
+            "explanation": "Standard form: (x-h)\u00b2/a\u00b2+(y-k)\u00b2/b\u00b2=1. Center (h,k). If a>b: horizontal major axis, vertices (h\u00b1a,k), foci (h\u00b1c,k) where c\u00b2=a\u00b2-b\u00b2. If b>a: vertical major axis. Eccentricity e=c/a (0<e<1).",
+            "examples": [
+              {
+                "problem": "x\u00b2/25+y\u00b2/9=1. a,b,c?",
+                "answer": "a=5,b=3,c=4",
+                "explanation": "c\u00b2=25-9=16, c=4."
+              },
+              {
+                "problem": "x\u00b2/16+y\u00b2/25=1. Major axis?",
+                "answer": "Vertical",
+                "explanation": "b=5>a=4, vertical."
+              },
+              {
+                "problem": "Center (0,0), a=5, b=3. Eccentricity?",
+                "answer": "4/5=0.8",
+                "explanation": "c=4, e=c/a=4/5."
+              }
+            ],
+            "key_vocabulary": [
+              "ellipse",
+              "major axis",
+              "minor axis",
+              "vertex",
+              "focus",
+              "eccentricity"
+            ],
+            "real_world": "Planets orbit the sun in ellipses, with the sun at one focus (Kepler's 1st law)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/36+y\u00b2/16=1. a=___",
+              "answer": "6",
+              "hint": "a\u00b2=36, a=6 (larger)."
+            },
+            {
+              "type": "fill_in",
+              "question": "a=5, b=3. c\u00b2=25-9=___",
+              "answer": "16",
+              "hint": "c=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/9+y\u00b2/25=1. Major axis is ___",
+              "answer": "vertical",
+              "hint": "b\u00b2=25>a\u00b2=9."
+            },
+            {
+              "type": "fill_in",
+              "question": "a=10, b=6. c=___",
+              "answer": "8",
+              "hint": "c\u00b2=100-36=64, c=8."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Eccentricity of ellipse is:",
+              "options": [
+                "0",
+                "Between 0 and 1",
+                "1",
+                "Greater than 1"
+              ],
+              "correct": 1,
+              "hint": "0<e<1 for ellipses."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/49+y\u00b2/24=1. c\u00b2=49-24=___",
+              "answer": "25",
+              "hint": "c=5."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-5-3",
+          "title": "Parabolas",
+          "type": "lesson",
+          "content": {
+            "explanation": "Vertical: (x-h)\u00b2=4p(y-k). Opens up if p>0, down if p<0. Focus at (h,k+p). Directrix y=k-p. Horizontal: (y-k)\u00b2=4p(x-h). Opens right if p>0, left if p<0. Focus at (h+p,k). |p|=distance from vertex to focus.",
+            "examples": [
+              {
+                "problem": "x\u00b2=12y. Find focus.",
+                "answer": "(0,3)",
+                "explanation": "4p=12, p=3. Focus at (0,0+3)=(0,3)."
+              },
+              {
+                "problem": "(y-1)\u00b2=8(x-2). Opens?",
+                "answer": "Right (p=2>0)",
+                "explanation": "4p=8, p=2. Horizontal, p>0."
+              },
+              {
+                "problem": "x\u00b2=-16y. Directrix?",
+                "answer": "y=4",
+                "explanation": "4p=-16, p=-4. Directrix y=-(-4)=4."
+              }
+            ],
+            "key_vocabulary": [
+              "parabola",
+              "focus",
+              "directrix",
+              "vertex",
+              "axis of symmetry"
+            ],
+            "real_world": "Satellite dishes and car headlights use parabolic shapes to focus signals and light."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2=8y. 4p=8, p=___",
+              "answer": "2",
+              "hint": "Focus at (0,2)."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2=20y. Focus at (0,___)",
+              "answer": "5",
+              "hint": "4p=20, p=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "y\u00b2=16x. Focus at (___,0)",
+              "answer": "4",
+              "hint": "4p=16, p=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2=-4y. Opens ___",
+              "answer": "down",
+              "hint": "p=-1<0."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2=24y. Directrix: y=___",
+              "answer": "-6",
+              "hint": "p=6, directrix y=-6."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Parabola focus and directrix are equidistant from:",
+              "options": [
+                "Origin",
+                "Center",
+                "Any point on curve",
+                "Vertex only"
+              ],
+              "correct": 2,
+              "hint": "Definition of parabola."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-5-4",
+          "title": "Hyperbolas",
+          "type": "lesson",
+          "content": {
+            "explanation": "Standard form: (x-h)\u00b2/a\u00b2-(y-k)\u00b2/b\u00b2=1 (horizontal) or (y-k)\u00b2/a\u00b2-(x-h)\u00b2/b\u00b2=1 (vertical). c\u00b2=a\u00b2+b\u00b2 (note: PLUS). Asymptotes: y-k=\u00b1(b/a)(x-h) for horizontal. Eccentricity e=c/a>1.",
+            "examples": [
+              {
+                "problem": "x\u00b2/9-y\u00b2/16=1. a,b,c?",
+                "answer": "a=3,b=4,c=5",
+                "explanation": "c\u00b2=9+16=25, c=5."
+              },
+              {
+                "problem": "x\u00b2/4-y\u00b2/9=1. Asymptotes?",
+                "answer": "y=\u00b1(3/2)x",
+                "explanation": "\u00b1b/a=\u00b13/2."
+              },
+              {
+                "problem": "y\u00b2/25-x\u00b2/144=1. Type?",
+                "answer": "Vertical (y first)",
+                "explanation": "y\u00b2 term positive, vertical."
+              }
+            ],
+            "key_vocabulary": [
+              "hyperbola",
+              "transverse axis",
+              "asymptote",
+              "focus",
+              "eccentricity"
+            ],
+            "real_world": "LORAN navigation uses hyperbolas formed by time differences of radio signals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/16-y\u00b2/9=1. c\u00b2=16+9=___",
+              "answer": "25",
+              "hint": "c=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/25-y\u00b2/144=1. a=___",
+              "answer": "5",
+              "hint": "a\u00b2=25."
+            },
+            {
+              "type": "fill_in",
+              "question": "x\u00b2/4-y\u00b2/1=1. Asymptotes: y=\u00b1x/___",
+              "answer": "2",
+              "hint": "b/a=1/2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "For hyperbola, c\u00b2=",
+              "options": [
+                "a\u00b2-b\u00b2",
+                "a\u00b2+b\u00b2",
+                "a\u00b2\u00b7b\u00b2",
+                "(a+b)\u00b2"
+              ],
+              "correct": 1,
+              "hint": "Plus for hyperbolas."
+            },
+            {
+              "type": "fill_in",
+              "question": "Eccentricity of hyperbola is ___ 1",
+              "answer": "greater than",
+              "hint": "e=c/a>1 always."
+            },
+            {
+              "type": "fill_in",
+              "question": "y\u00b2/9-x\u00b2/16=1. Opens ___",
+              "answer": "vertically",
+              "hint": "y\u00b2 term first."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-5-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "(x-1)\u00b2+(y+2)\u00b2=16. Radius=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2/25+y\u00b2/9=1. c\u00b2=25-9=___",
+            "answer": "16"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2=16y. Focus at (0,___)",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "x\u00b2/9-y\u00b2/16=1. c\u00b2=___",
+            "answer": "25"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Ellipse eccentricity:",
+            "options": [
+              "e=0",
+              "0<e<1",
+              "e=1",
+              "e>1"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "conics_commander"
+      }
+    },
+    {
+      "id": "12-math-6",
+      "title": "Sequences and Series",
+      "description": "Arithmetic, geometric, and other sequences; sigma notation; convergence.",
+      "lessons": [
+        {
+          "id": "12-math-6-1",
+          "title": "Arithmetic Sequences and Series",
+          "type": "lesson",
+          "content": {
+            "explanation": "Arithmetic: constant difference d. a\u2099=a\u2081+(n-1)d. Sum: S\u2099=n(a\u2081+a\u2099)/2=n/2(2a\u2081+(n-1)d). Gauss's trick: pair first and last terms.",
+            "examples": [
+              {
+                "problem": "2,5,8,11,... a\u2081\u2080?",
+                "answer": "29",
+                "explanation": "a\u2081\u2080=2+9(3)=29."
+              },
+              {
+                "problem": "Sum of 1+2+...+100",
+                "answer": "5050",
+                "explanation": "100(1+100)/2=5050."
+              },
+              {
+                "problem": "a\u2081=3, d=4. S\u2085?",
+                "answer": "55",
+                "explanation": "S\u2085=5(2\u00b73+4\u00b74)/2=5(22)/2=55."
+              }
+            ],
+            "key_vocabulary": [
+              "arithmetic",
+              "common difference",
+              "nth term",
+              "sum",
+              "series"
+            ],
+            "real_world": "Stacking objects (like cans in a pyramid) follows arithmetic series."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "3,7,11,15,... d=___",
+              "answer": "4",
+              "hint": "7-3=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=5, d=3. a\u2081\u2080=5+9(3)=___",
+              "answer": "32",
+              "hint": "5+27=32."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sum 1+2+...+50=50(51)/2=___",
+              "answer": "1275",
+              "hint": "50\u00d751/2."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=2, d=5. a\u2082\u2080=2+19(5)=___",
+              "answer": "97",
+              "hint": "2+95=97."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=10, a\u2099=50, n=5. S=5(10+50)/2=___",
+              "answer": "150",
+              "hint": "5\u00d760/2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Arithmetic sequence has constant:",
+              "options": [
+                "Ratio",
+                "Difference",
+                "Product",
+                "Sum"
+              ],
+              "correct": 1,
+              "hint": "Common difference d."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-6-2",
+          "title": "Geometric Sequences and Series",
+          "type": "lesson",
+          "content": {
+            "explanation": "Geometric: constant ratio r. a\u2099=a\u2081\u00b7r\u207f\u207b\u00b9. Finite sum: S\u2099=a\u2081(1-r\u207f)/(1-r). Infinite sum (|r|<1): S=a\u2081/(1-r). If |r|\u22651, infinite series diverges.",
+            "examples": [
+              {
+                "problem": "2,6,18,54,... r=?",
+                "answer": "3",
+                "explanation": "6/2=3."
+              },
+              {
+                "problem": "a\u2081=3, r=2. a\u2085?",
+                "answer": "48",
+                "explanation": "3\u00b72\u2074=3\u00b716=48."
+              },
+              {
+                "problem": "a\u2081=1, r=1/2. Infinite sum?",
+                "answer": "2",
+                "explanation": "1/(1-1/2)=1/(1/2)=2."
+              }
+            ],
+            "key_vocabulary": [
+              "geometric",
+              "common ratio",
+              "finite sum",
+              "infinite sum",
+              "converge",
+              "diverge"
+            ],
+            "real_world": "Compound interest is a geometric sequence \u2014 each year multiplies by (1+r)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "5,15,45,135,... r=___",
+              "answer": "3",
+              "hint": "15/5=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=4, r=3. a\u2084=4\u00b73\u00b3=4\u00b727=___",
+              "answer": "108",
+              "hint": "a\u2084=108."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=10, r=1/2. S\u221e=10/(1-1/2)=___",
+              "answer": "20",
+              "hint": "10/(1/2)=20."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=6, r=1/3. S\u221e=6/(2/3)=___",
+              "answer": "9",
+              "hint": "6\u00d73/2=9."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "|r|\u22651 means the series:",
+              "options": [
+                "Converges",
+                "Diverges",
+                "Equals 0",
+                "Equals 1"
+              ],
+              "correct": 1,
+              "hint": "Only converges if |r|<1."
+            },
+            {
+              "type": "fill_in",
+              "question": "a\u2081=1, r=2. a\u2086=1\u00b72\u2075=___",
+              "answer": "32",
+              "hint": "2\u2075=32."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-6-3",
+          "title": "Sigma Notation",
+          "type": "lesson",
+          "content": {
+            "explanation": "\u2211\u1d62\u208c\u2081\u207f a\u1d62 means a\u2081+a\u2082+...+a\u2099. Properties: \u2211(a\u1d62+b\u1d62)=\u2211a\u1d62+\u2211b\u1d62. \u2211ca\u1d62=c\u2211a\u1d62. Key formulas: \u2211i=n(n+1)/2. \u2211i\u00b2=n(n+1)(2n+1)/6. \u22111=n.",
+            "examples": [
+              {
+                "problem": "\u2211\u1d62\u208c\u2081\u2074 i",
+                "answer": "10",
+                "explanation": "1+2+3+4=10."
+              },
+              {
+                "problem": "\u2211\u1d62\u208c\u2081\u00b3 i\u00b2",
+                "answer": "14",
+                "explanation": "1+4+9=14."
+              },
+              {
+                "problem": "\u2211\u1d62\u208c\u2081\u2075 2i",
+                "answer": "30",
+                "explanation": "2+4+6+8+10=30=2\u00b7\u2211i=2\u00b715."
+              }
+            ],
+            "key_vocabulary": [
+              "sigma notation",
+              "summation",
+              "index",
+              "formula"
+            ],
+            "real_world": "Computer science uses summation to analyze algorithm efficiency (Big O notation)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "\u2211\u1d62\u208c\u2081\u2075 i=___",
+              "answer": "15",
+              "hint": "1+2+3+4+5=15."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u2211\u1d62\u208c\u2081\u2074 3=___",
+              "answer": "12",
+              "hint": "3+3+3+3=12."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u2211\u1d62\u208c\u2081\u00b3 2i=2+4+6=___",
+              "answer": "12",
+              "hint": "Sum=12."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u2211\u1d62\u208c\u2081\u00b9\u2070 1=___",
+              "answer": "10",
+              "hint": "Ten 1's."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u2211\u1d62\u208c\u2081\u2074 i\u00b2=1+4+9+16=___",
+              "answer": "30",
+              "hint": "Sum of squares."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "\u2211\u1d62\u208c\u2081\u207f i=",
+              "options": [
+                "n\u00b2",
+                "n(n+1)/2",
+                "n(n-1)/2",
+                "2n"
+              ],
+              "correct": 1,
+              "hint": "Gauss's formula."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-6-4",
+          "title": "Binomial Theorem",
+          "type": "lesson",
+          "content": {
+            "explanation": "(a+b)\u207f=\u2211\u2096\u208c\u2080\u207f C(n,k)\u00b7a\u207f\u207b\u1d4f\u00b7b\u1d4f. C(n,k)=n!/(k!(n-k)!) = 'n choose k'. Pascal's Triangle gives coefficients. (a+b)\u00b2=a\u00b2+2ab+b\u00b2. (a+b)\u00b3=a\u00b3+3a\u00b2b+3ab\u00b2+b\u00b3.",
+            "examples": [
+              {
+                "problem": "(x+1)\u00b3",
+                "answer": "x\u00b3+3x\u00b2+3x+1",
+                "explanation": "Coefficients: 1,3,3,1."
+              },
+              {
+                "problem": "C(5,2)",
+                "answer": "10",
+                "explanation": "5!/(2!3!)=120/12=10."
+              },
+              {
+                "problem": "(2x+1)\u00b2",
+                "answer": "4x\u00b2+4x+1",
+                "explanation": "(2x)\u00b2+2(2x)(1)+1\u00b2."
+              }
+            ],
+            "key_vocabulary": [
+              "binomial",
+              "Pascal's Triangle",
+              "combination",
+              "coefficient",
+              "expansion"
+            ],
+            "real_world": "Probability calculations use binomial theorem for success/failure experiments."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "(a+b)\u00b2=a\u00b2+___ab+b\u00b2",
+              "answer": "2",
+              "hint": "Coefficient is 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "C(4,2)=4!/(2!2!)=___",
+              "answer": "6",
+              "hint": "24/4=6."
+            },
+            {
+              "type": "fill_in",
+              "question": "(x+1)\u2074: coefficient of x\u00b2=C(4,2)=___",
+              "answer": "6",
+              "hint": "Pascal's: 1,4,6,4,1."
+            },
+            {
+              "type": "fill_in",
+              "question": "C(6,0)=___",
+              "answer": "1",
+              "hint": "Anything choose 0 = 1."
+            },
+            {
+              "type": "fill_in",
+              "question": "C(5,5)=___",
+              "answer": "1",
+              "hint": "n choose n = 1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Row 4 of Pascal's Triangle:",
+              "options": [
+                "1,3,3,1",
+                "1,4,6,4,1",
+                "1,5,10,10,5,1",
+                "1,2,1"
+              ],
+              "correct": 1,
+              "hint": "Row starts with n=0: 1,4,6,4,1."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "a\u2081=3, d=4. a\u2081\u2080=3+9(4)=___",
+            "answer": "39"
+          },
+          {
+            "type": "fill_in",
+            "question": "a\u2081=2, r=3. a\u2085=2\u00b73\u2074=___",
+            "answer": "162"
+          },
+          {
+            "type": "fill_in",
+            "question": "a\u2081=8, r=1/2. S\u221e=___",
+            "answer": "16"
+          },
+          {
+            "type": "fill_in",
+            "question": "\u2211\u1d62\u208c\u2081\u2075 i=___",
+            "answer": "15"
+          },
+          {
+            "type": "fill_in",
+            "question": "C(4,2)=___",
+            "answer": "6"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "sequences_series_star"
+      }
+    },
+    {
+      "id": "12-math-7",
+      "title": "Vectors and Matrices",
+      "description": "Vector operations, dot product, matrix operations, and determinants.",
+      "lessons": [
+        {
+          "id": "12-math-7-1",
+          "title": "Vectors: Basics and Operations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A vector has magnitude and direction: v=\u27e8a,b\u27e9. Magnitude: |v|=\u221a(a\u00b2+b\u00b2). Add: \u27e8a,b\u27e9+\u27e8c,d\u27e9=\u27e8a+c,b+d\u27e9. Scalar multiply: k\u27e8a,b\u27e9=\u27e8ka,kb\u27e9. Unit vector: v/|v|.",
+            "examples": [
+              {
+                "problem": "v=\u27e83,4\u27e9. |v|=?",
+                "answer": "5",
+                "explanation": "\u221a(9+16)=5."
+              },
+              {
+                "problem": "\u27e81,2\u27e9+\u27e83,4\u27e9",
+                "answer": "\u27e84,6\u27e9",
+                "explanation": "1+3=4, 2+4=6."
+              },
+              {
+                "problem": "3\u27e82,1\u27e9",
+                "answer": "\u27e86,3\u27e9",
+                "explanation": "3\u00b72=6, 3\u00b71=3."
+              }
+            ],
+            "key_vocabulary": [
+              "vector",
+              "magnitude",
+              "direction",
+              "unit vector",
+              "scalar",
+              "component"
+            ],
+            "real_world": "Forces in physics are vectors \u2014 direction and strength both matter."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "|\u27e85,12\u27e9|=___",
+              "answer": "13",
+              "hint": "\u221a(25+144)=13."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u27e82,3\u27e9+\u27e84,1\u27e9=\u27e86,___\u27e9",
+              "answer": "4",
+              "hint": "3+1=4."
+            },
+            {
+              "type": "fill_in",
+              "question": "2\u27e83,5\u27e9=\u27e86,___\u27e9",
+              "answer": "10",
+              "hint": "2\u00b75=10."
+            },
+            {
+              "type": "fill_in",
+              "question": "|\u27e86,8\u27e9|=___",
+              "answer": "10",
+              "hint": "\u221a(36+64)=10."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u27e87,1\u27e9-\u27e83,4\u27e9=\u27e84,___\u27e9",
+              "answer": "-3",
+              "hint": "1-4=-3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A unit vector has magnitude:",
+              "options": [
+                "0",
+                "1",
+                "2",
+                "Variable"
+              ],
+              "correct": 1,
+              "hint": "Unit = magnitude 1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-7-2",
+          "title": "Dot Product",
+          "type": "lesson",
+          "content": {
+            "explanation": "u\u00b7v=a\u2081a\u2082+b\u2081b\u2082. Also u\u00b7v=|u||v|cos\u03b8. If u\u00b7v=0, vectors are perpendicular (orthogonal). cos \u03b8=u\u00b7v/(|u||v|). The dot product is a scalar, not a vector.",
+            "examples": [
+              {
+                "problem": "\u27e81,2\u27e9\u00b7\u27e83,4\u27e9",
+                "answer": "11",
+                "explanation": "1\u00b73+2\u00b74=3+8=11."
+              },
+              {
+                "problem": "\u27e82,3\u27e9\u00b7\u27e83,-2\u27e9",
+                "answer": "0",
+                "explanation": "6-6=0. Perpendicular!"
+              },
+              {
+                "problem": "\u27e81,0\u27e9\u00b7\u27e80,1\u27e9",
+                "answer": "0",
+                "explanation": "Perpendicular (x and y axes)."
+              }
+            ],
+            "key_vocabulary": [
+              "dot product",
+              "orthogonal",
+              "perpendicular",
+              "angle",
+              "scalar"
+            ],
+            "real_world": "Work in physics is a dot product: W=F\u00b7d (force dot displacement)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "\u27e82,5\u27e9\u00b7\u27e83,1\u27e9=6+5=___",
+              "answer": "11",
+              "hint": "a\u2081a\u2082+b\u2081b\u2082."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u27e84,3\u27e9\u00b7\u27e8-3,4\u27e9=-12+12=___",
+              "answer": "0",
+              "hint": "Perpendicular."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u27e81,1\u27e9\u00b7\u27e81,1\u27e9=1+1=___",
+              "answer": "2",
+              "hint": "Also |v|\u00b2=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "If dot product = 0, vectors are perpendicular.",
+              "answer": "true",
+              "hint": "Definition of orthogonal."
+            },
+            {
+              "type": "fill_in",
+              "question": "\u27e83,0\u27e9\u00b7\u27e80,7\u27e9=___",
+              "answer": "0",
+              "hint": "0+0=0. Perpendicular."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Dot product result is a:",
+              "options": [
+                "Vector",
+                "Scalar",
+                "Matrix",
+                "Unit vector"
+              ],
+              "correct": 1,
+              "hint": "Always a number."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-7-3",
+          "title": "Matrix Operations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Add/subtract: element by element (same dimensions). Scalar multiply: multiply every element. Matrix multiply: dot product of rows \u00d7 columns. AB \u2260 BA generally. Dimensions: (m\u00d7n)(n\u00d7p)=(m\u00d7p).",
+            "examples": [
+              {
+                "problem": "[1,2]+[3,4]",
+                "answer": "[4,6]",
+                "explanation": "Element by element."
+              },
+              {
+                "problem": "2\u00b7[1,3;2,4]",
+                "answer": "[2,6;4,8]",
+                "explanation": "Multiply each by 2."
+              },
+              {
+                "problem": "[1,2]\u00b7[3;4]",
+                "answer": "[11]",
+                "explanation": "1\u00b73+2\u00b74=11."
+              }
+            ],
+            "key_vocabulary": [
+              "matrix",
+              "add",
+              "multiply",
+              "dimensions",
+              "scalar",
+              "element"
+            ],
+            "real_world": "Computer graphics use matrices to rotate, scale, and translate 3D objects."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "[1,0]+[0,1]=[___,1]",
+              "answer": "1",
+              "hint": "1+0=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "3\u00b7[2,4]=[6,___]",
+              "answer": "12",
+              "hint": "3\u00b74=12."
+            },
+            {
+              "type": "fill_in",
+              "question": "[1,2;3,4] is a ___\u00d72 matrix",
+              "answer": "2",
+              "hint": "2 rows, 2 columns."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "For AB to exist, columns of A must equal:",
+              "options": [
+                "Rows of A",
+                "Columns of B",
+                "Rows of B",
+                "Rows of AB"
+              ],
+              "correct": 2,
+              "hint": "Columns of A = Rows of B."
+            },
+            {
+              "type": "fill_in",
+              "question": "Matrix multiplication is commutative (AB=BA).",
+              "answer": "false",
+              "hint": "Generally AB\u2260BA."
+            },
+            {
+              "type": "fill_in",
+              "question": "[1,0;0,1]\u00b7[a,b;c,d]=[a,___; c,d]",
+              "answer": "b",
+              "hint": "Identity matrix: no change."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-7-4",
+          "title": "Determinants and Inverses",
+          "type": "lesson",
+          "content": {
+            "explanation": "2\u00d72 determinant: |a,b;c,d|=ad-bc. If det\u22600, matrix is invertible. Inverse of [a,b;c,d]: (1/det)\u00b7[d,-b;-c,a]. det=0 means no inverse (singular matrix). Cramer's Rule uses determinants to solve systems.",
+            "examples": [
+              {
+                "problem": "det[3,1;2,4]",
+                "answer": "10",
+                "explanation": "3\u00b74-1\u00b72=10."
+              },
+              {
+                "problem": "det[1,2;3,6]",
+                "answer": "0",
+                "explanation": "1\u00b76-2\u00b73=0. Singular!"
+              },
+              {
+                "problem": "Inverse of [2,1;1,1]",
+                "answer": "[1,-1;-1,2]",
+                "explanation": "det=2-1=1. (1/1)[1,-1;-1,2]."
+              }
+            ],
+            "key_vocabulary": [
+              "determinant",
+              "inverse",
+              "singular",
+              "Cramer's Rule",
+              "identity matrix"
+            ],
+            "real_world": "Cryptography uses matrix inverses for encoding and decoding messages."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "det[5,3;2,4]=5(4)-3(2)=___",
+              "answer": "14",
+              "hint": "20-6=14."
+            },
+            {
+              "type": "fill_in",
+              "question": "det[1,2;2,4]=4-4=___",
+              "answer": "0",
+              "hint": "Singular matrix."
+            },
+            {
+              "type": "fill_in",
+              "question": "det[2,0;0,3]=___",
+              "answer": "6",
+              "hint": "2\u00b73-0\u00b70=6."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "det=0 means:",
+              "options": [
+                "Invertible",
+                "Singular",
+                "Identity",
+                "Orthogonal"
+              ],
+              "correct": 1,
+              "hint": "No inverse exists."
+            },
+            {
+              "type": "fill_in",
+              "question": "det[1,0;0,1]=___",
+              "answer": "1",
+              "hint": "Identity matrix det=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "Every matrix has an inverse.",
+              "answer": "false",
+              "hint": "Only if det\u22600."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "|\u27e88,6\u27e9|=___",
+            "answer": "10"
+          },
+          {
+            "type": "fill_in",
+            "question": "\u27e82,3\u27e9\u00b7\u27e83,-2\u27e9=___",
+            "answer": "0"
+          },
+          {
+            "type": "fill_in",
+            "question": "det[4,2;1,3]=12-2=___",
+            "answer": "10"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "AB=BA for matrices?",
+            "options": [
+              "Always",
+              "Never",
+              "Sometimes",
+              "Only square"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "\u27e81,2\u27e9+\u27e83,4\u27e9=\u27e84,___\u27e9",
+            "answer": "6"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "vectors_matrices_master"
+      }
+    },
+    {
+      "id": "12-math-8",
+      "title": "Limits and Introduction to Calculus",
+      "description": "Concept of limits, evaluating limits, continuity, and rates of change.",
+      "lessons": [
+        {
+          "id": "12-math-8-1",
+          "title": "Introduction to Limits",
+          "type": "lesson",
+          "content": {
+            "explanation": "lim(x\u2192c) f(x) = L means f(x) gets close to L as x gets close to c. The function doesn't need to be defined at c. Left limit (x\u2192c\u207b) and right limit (x\u2192c\u207a) must agree for the limit to exist.",
+            "examples": [
+              {
+                "problem": "lim(x\u21922) (x\u00b2-4)/(x-2)",
+                "answer": "4",
+                "explanation": "(x-2)(x+2)/(x-2)=x+2. At x=2: 4."
+              },
+              {
+                "problem": "lim(x\u21920) sin(x)/x",
+                "answer": "1",
+                "explanation": "Famous limit. Approaches 1."
+              },
+              {
+                "problem": "f(x)=|x|/x. lim(x\u21920)?",
+                "answer": "DNE",
+                "explanation": "Left limit=-1, right limit=1. Different."
+              }
+            ],
+            "key_vocabulary": [
+              "limit",
+              "approaches",
+              "left limit",
+              "right limit",
+              "does not exist"
+            ],
+            "real_world": "Speed at an instant is a limit of average speed over shrinking time intervals."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21923) (x\u00b2-9)/(x-3)=lim(x\u21923)(x+3)=___",
+              "answer": "6",
+              "hint": "Factor and cancel."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21921) (x-1)/(x\u00b2-1)=lim 1/(x+1)=1/___",
+              "answer": "2",
+              "hint": "(x-1)/((x-1)(x+1))."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u2192\u221e) 1/x=___",
+              "answer": "0",
+              "hint": "Gets smaller and smaller."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21920) (x\u00b2+x)/x=lim(x+1)=___",
+              "answer": "1",
+              "hint": "Factor out x, cancel."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If left\u2260right limit:",
+              "options": [
+                "Limit is average",
+                "Limit is left",
+                "Limit is right",
+                "Limit DNE"
+              ],
+              "correct": 3,
+              "hint": "Must agree for limit to exist."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21924) \u221ax=___",
+              "answer": "2",
+              "hint": "\u221a4=2. Direct substitution."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-8-2",
+          "title": "Evaluating Limits",
+          "type": "lesson",
+          "content": {
+            "explanation": "Direct substitution: plug in c. If 0/0 (indeterminate): factor, rationalize, or simplify. Limits at infinity: divide by highest power. Leading terms dominate. lim(x\u2192\u221e) p(x)/q(x): compare degrees.",
+            "examples": [
+              {
+                "problem": "lim(x\u2192\u221e) (3x\u00b2+1)/(x\u00b2-5)",
+                "answer": "3",
+                "explanation": "Divide by x\u00b2: 3/1=3."
+              },
+              {
+                "problem": "lim(x\u2192\u221e) (2x)/(x\u00b2+1)",
+                "answer": "0",
+                "explanation": "Degree 1 / Degree 2 \u2192 0."
+              },
+              {
+                "problem": "lim(x\u21922) (x\u00b2-4)/(x-2)",
+                "answer": "4",
+                "explanation": "Factor: (x+2). Plug in 2."
+              }
+            ],
+            "key_vocabulary": [
+              "direct substitution",
+              "indeterminate",
+              "factor",
+              "rationalize",
+              "infinity"
+            ],
+            "real_world": "Engineers evaluate limits to determine maximum stress a material can handle."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "lim(x\u2192\u221e) (5x\u00b3)/(x\u00b3+1)=___",
+              "answer": "5",
+              "hint": "Same degree: 5/1=5."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u2192\u221e) 3/x\u00b2=___",
+              "answer": "0",
+              "hint": "Denominator grows, fraction\u21920."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u2192\u221e) (x+1)/(2x)=1/___",
+              "answer": "2",
+              "hint": "Divide by x: 1/2."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21921) (x\u00b2-1)/(x-1)=___",
+              "answer": "2",
+              "hint": "(x+1), plug in 1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "0/0 is:",
+              "options": [
+                "Zero",
+                "Undefined",
+                "Indeterminate",
+                "Infinity"
+              ],
+              "correct": 2,
+              "hint": "Need more work to evaluate."
+            },
+            {
+              "type": "fill_in",
+              "question": "lim(x\u21923) (x-3)/(x\u00b2-9)=1/(3+3)=1/___",
+              "answer": "6",
+              "hint": "Factor denominator."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-8-3",
+          "title": "Continuity",
+          "type": "lesson",
+          "content": {
+            "explanation": "f is continuous at c if: 1) f(c) exists, 2) lim(x\u2192c)f(x) exists, 3) lim(x\u2192c)f(x)=f(c). Types of discontinuity: removable (hole), jump, infinite (asymptote). Polynomials are continuous everywhere.",
+            "examples": [
+              {
+                "problem": "f(x)=(x\u00b2-1)/(x-1) at x=1",
+                "answer": "Removable discontinuity (hole)",
+                "explanation": "Limit=2 but f(1) undefined."
+              },
+              {
+                "problem": "f(x)=|x|/x at x=0",
+                "answer": "Jump discontinuity",
+                "explanation": "Left=-1, right=1."
+              },
+              {
+                "problem": "f(x)=1/x at x=0",
+                "answer": "Infinite discontinuity",
+                "explanation": "Vertical asymptote."
+              }
+            ],
+            "key_vocabulary": [
+              "continuous",
+              "discontinuity",
+              "removable",
+              "jump",
+              "infinite",
+              "hole"
+            ],
+            "real_world": "Smooth animations in games require continuous functions \u2014 no jumps or breaks."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is always continuous?",
+              "options": [
+                "1/x",
+                "|x|/x",
+                "x\u00b2+1",
+                "\u221ax"
+              ],
+              "correct": 2,
+              "hint": "Polynomials are continuous everywhere."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A hole is a ___ discontinuity:",
+              "options": [
+                "Removable",
+                "Jump",
+                "Infinite",
+                "Essential"
+              ],
+              "correct": 0,
+              "hint": "Can be 'filled' by defining f(c)."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=1/(x-3) is continuous at x=3.",
+              "answer": "false",
+              "hint": "Vertical asymptote at x=3."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2. lim(x\u21922)f(x)=f(2)=___",
+              "answer": "4",
+              "hint": "Continuous: limit=value."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "f(c) undefined means:",
+              "options": [
+                "Continuous",
+                "Removable or infinite",
+                "Always jump",
+                "No limit"
+              ],
+              "correct": 1,
+              "hint": "Could be hole or asymptote."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=(x-2)/(x-2) at x=2: type of discontinuity=___",
+              "answer": "removable",
+              "hint": "Limit=1 but undefined at x=2."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "12-math-8-4",
+          "title": "Average and Instantaneous Rate of Change",
+          "type": "lesson",
+          "content": {
+            "explanation": "Average rate of change = (f(b)-f(a))/(b-a) = slope of secant line. Instantaneous rate = lim(h\u21920)(f(x+h)-f(x))/h = slope of tangent = derivative. For f(x)=x\u00b2, derivative=2x. This is the foundation of calculus.",
+            "examples": [
+              {
+                "problem": "f(x)=x\u00b2. Avg rate on [1,3]?",
+                "answer": "(9-1)/(3-1)=4",
+                "explanation": "Secant slope."
+              },
+              {
+                "problem": "f(x)=x\u00b2. Instantaneous rate at x=2?",
+                "answer": "4",
+                "explanation": "lim(h\u21920)(( 2+h)\u00b2-4)/h=lim(4h+h\u00b2)/h=lim(4+h)=4."
+              },
+              {
+                "problem": "f(x)=3x+1. Rate of change?",
+                "answer": "3",
+                "explanation": "Linear function: constant slope."
+              }
+            ],
+            "key_vocabulary": [
+              "average rate",
+              "instantaneous rate",
+              "secant",
+              "tangent",
+              "derivative",
+              "slope"
+            ],
+            "real_world": "Speed is instantaneous rate of change of position \u2014 the basis of physics."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2. Avg rate [2,4]=(16-4)/(4-2)=___",
+              "answer": "6",
+              "hint": "12/2=6."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=2x. Rate of change=___",
+              "answer": "2",
+              "hint": "Linear: constant slope."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b3. Avg rate [1,2]=(8-1)/(2-1)=___",
+              "answer": "7",
+              "hint": "7/1=7."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2. Derivative at x=3: 2(3)=___",
+              "answer": "6",
+              "hint": "f'(x)=2x."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Instantaneous rate is the slope of:",
+              "options": [
+                "Secant",
+                "Tangent",
+                "Horizontal",
+                "Vertical"
+              ],
+              "correct": 1,
+              "hint": "Tangent line at a point."
+            },
+            {
+              "type": "fill_in",
+              "question": "f(x)=x\u00b2. Avg rate [0,2]=(4-0)/(2-0)=___",
+              "answer": "2",
+              "hint": "4/2=2."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "12-math-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "lim(x\u21922)(x\u00b2-4)/(x-2)=___",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "lim(x\u2192\u221e)(3x)/(x+1)=___",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Polynomial functions are:",
+            "options": [
+              "Sometimes continuous",
+              "Always continuous",
+              "Never continuous",
+              "Continuous at 0 only"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=x\u00b2. Avg rate [1,5]=(25-1)/4=___",
+            "answer": "6"
+          },
+          {
+            "type": "fill_in",
+            "question": "f(x)=x\u00b2. f'(x)=2x. f'(4)=___",
+            "answer": "8"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "precalculus_pioneer"
+      }
+    }
+  ]
+}

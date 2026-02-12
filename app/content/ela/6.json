@@ -1,0 +1,791 @@
+{
+  "grade": 6,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "6-ela-1",
+      "title": "Literary Analysis: Point of View & Theme",
+      "description": "Learn to identify point of view in literature and uncover themes that authors weave into their stories.",
+      "lessons": [
+        {
+          "id": "6-ela-1-1",
+          "title": "Understanding Point of View",
+          "type": "lesson",
+          "content": {
+            "explanation": "Point of view is the perspective from which a story is told. First-person point of view uses 'I' and 'me,' letting us see the world through one character's eyes. Third-person limited follows one character but uses 'he,' 'she,' or 'they,' while third-person omniscient allows the narrator to know the thoughts and feelings of all characters. Second-person point of view, which uses 'you,' is rare in fiction but common in instructions and choose-your-own-adventure books. The point of view an author chooses affects how much information the reader receives and how closely we connect with the characters.",
+            "examples": [
+              {"problem": "Identify the point of view: 'I walked into the room and immediately felt uneasy.'", "answer": "First person", "explanation": "The use of 'I' tells us the narrator is a character in the story, making this first-person point of view."},
+              {"problem": "Identify the point of view: 'She walked into the room and immediately felt uneasy. Meanwhile, across town, her brother was thinking about her.'", "answer": "Third-person omniscient", "explanation": "The narrator knows the thoughts and feelings of multiple characters (she felt uneasy, her brother was thinking), which is the hallmark of third-person omniscient."},
+              {"problem": "Identify the point of view: 'Marcus stared at the locked door. He had no idea what waited on the other side.'", "answer": "Third-person limited", "explanation": "The narrator uses 'he' and only shares Marcus's perspective and knowledge, making this third-person limited."}
+            ],
+            "key_vocabulary": ["point of view", "first person", "third-person limited", "third-person omniscient", "narrator", "perspective"],
+            "real_world": "When you tell a friend about your weekend, you use first-person point of view. News reporters often use third person to report events objectively."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which point of view uses the pronouns 'I' and 'me'?", "options": ["First person", "Second person", "Third-person limited", "Third-person omniscient"], "correct": 0, "hint": "Think about which perspective puts the narrator inside the story as a character."},
+            {"type": "multiple_choice", "question": "Read this passage: 'You open the door and step into darkness.' What point of view is this?", "options": ["First person", "Second person", "Third-person limited", "Third-person omniscient"], "correct": 1, "hint": "Notice the pronoun used to address the reader directly."},
+            {"type": "true_false", "question": "In third-person omniscient, the narrator can reveal the thoughts of all characters.", "answer": true, "hint": "Think about what 'omniscient' means — it comes from a Latin word meaning 'all-knowing.'"},
+            {"type": "fill_in", "question": "A narrator who uses 'he' or 'she' and only knows one character's thoughts is called third-person ___.", "answer": "limited", "hint": "The narrator's knowledge is restricted to just one character."},
+            {"type": "multiple_choice", "question": "Why might an author choose first-person point of view?", "options": ["To create distance from the characters", "To show what every character is thinking", "To create a personal, intimate connection with the reader", "To make the story feel like a news report"], "correct": 2, "hint": "First person lets us experience the story as if we are the narrator."},
+            {"type": "true_false", "question": "Second-person point of view is the most common point of view in novels.", "answer": false, "hint": "Second person ('you') is actually quite rare in fiction."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-1-2",
+          "title": "Identifying Theme in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "A theme is the central message or insight about life that an author conveys through a story. Unlike the topic (what the story is about), the theme is the deeper meaning or lesson the reader takes away. For example, the topic of a story might be 'friendship,' but the theme could be 'true friends support each other even in difficult times.' Themes are rarely stated directly; instead, readers must infer them from character actions, conflicts, dialogue, and how the story resolves. A single story can have multiple themes, and the same theme can appear across many different works of literature.",
+            "examples": [
+              {"problem": "A story follows a boy who cheats on a test, gets a good grade, but feels guilty and eventually confesses. What is a possible theme?", "answer": "Honesty is more important than success.", "explanation": "The character's journey from cheating to confessing shows that integrity matters more than getting a good grade."},
+              {"problem": "In a story, a girl moves to a new town, struggles to make friends, and eventually finds her place by being herself. What is a theme?", "answer": "Being true to yourself helps you find where you belong.", "explanation": "The resolution — finding friends by being authentic — reveals the theme about self-acceptance."},
+              {"problem": "What is the difference between a topic and a theme?", "answer": "A topic is a single word or phrase (like 'courage'); a theme is a complete statement about that topic (like 'courage means acting despite fear').", "explanation": "Topics are broad subjects, while themes express what the author believes about those subjects."}
+            ],
+            "key_vocabulary": ["theme", "topic", "central message", "moral", "infer", "universal theme"],
+            "real_world": "Movies, songs, and even video games have themes. The theme of many superhero stories is that with great power comes great responsibility."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the best definition of a theme?", "options": ["The main character of a story", "A message or lesson about life conveyed through a story", "The setting where a story takes place", "A summary of what happens in a story"], "correct": 1, "hint": "Theme is about the deeper meaning, not the plot details."},
+            {"type": "multiple_choice", "question": "A story is about a group of animals who must work together to survive a flood. Which is most likely a theme?", "options": ["Animals can swim", "Floods are dangerous", "Cooperation helps us overcome challenges", "Weather is unpredictable"], "correct": 2, "hint": "Look for the lesson about life that the story teaches through its events."},
+            {"type": "true_false", "question": "A story can only have one theme.", "answer": false, "hint": "Think about your favorite book — does it teach just one lesson, or several?"},
+            {"type": "fill_in", "question": "The ___ of a story is a broad subject like 'friendship,' while the theme is a specific message about that subject.", "answer": "topic", "hint": "This is a single word or phrase, not a full sentence."},
+            {"type": "multiple_choice", "question": "Which of these is a theme (not just a topic)?", "options": ["Love", "Bravery", "Hard work leads to success", "Family"], "correct": 2, "hint": "A theme is a complete statement that expresses an insight about life."},
+            {"type": "true_false", "question": "Themes are usually stated directly by the narrator in the first paragraph.", "answer": false, "hint": "Most themes are implied — readers must figure them out from the story's events and characters."},
+            {"type": "multiple_choice", "question": "How can a reader identify the theme of a story?", "options": ["By reading only the title", "By looking at the characters' actions, the conflict, and how the story resolves", "By counting the number of pages", "By reading the author's biography"], "correct": 1, "hint": "Theme is revealed through the story's content, not outside information."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-1-3",
+          "title": "Symbolism in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Symbolism is a literary device where an object, person, or event represents something beyond its literal meaning. Authors use symbols to add deeper layers of meaning to their writing. For instance, a storm in a story might symbolize turmoil or conflict in a character's life. A dove often symbolizes peace, while darkness can represent fear or the unknown. Symbols can be universal (recognized across cultures) or specific to a particular story. To identify symbolism, pay attention to objects or images that appear repeatedly or seem to carry extra significance in the narrative.",
+            "examples": [
+              {"problem": "In a story, a character plants a seed at the beginning and by the end, it has grown into a strong tree. What might the tree symbolize?", "answer": "Growth, maturity, or personal development", "explanation": "The tree's growth from seed to full size mirrors the character's own journey and development throughout the story."},
+              {"problem": "A character always wears a red scarf that belonged to her grandmother. What might this symbolize?", "answer": "Connection to family, heritage, or memory", "explanation": "The scarf is more than clothing — it represents the character's bond with her grandmother and her past."},
+              {"problem": "Why might an author describe a broken mirror in a scene where two friends are fighting?", "answer": "The broken mirror could symbolize the fractured relationship between the friends.", "explanation": "A mirror that is broken or cracked can represent something that is damaged or divided, paralleling the broken friendship."}
+            ],
+            "key_vocabulary": ["symbolism", "symbol", "represent", "literal meaning", "figurative meaning", "motif"],
+            "real_world": "Symbols are everywhere in daily life. A red traffic light symbolizes 'stop,' a heart shape symbolizes love, and national flags symbolize countries and their values."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is symbolism in literature?", "options": ["Using similes and metaphors", "When an object represents something beyond its literal meaning", "A type of poetry", "The main idea of a story"], "correct": 1, "hint": "Think about when something in a story stands for a bigger idea."},
+            {"type": "multiple_choice", "question": "In many stories, a journey or road often symbolizes:", "options": ["The need for a car", "Life's path and personal growth", "That the character is lost", "The author's love of travel"], "correct": 1, "hint": "Think about the figurative meaning of traveling from one place to another."},
+            {"type": "true_false", "question": "A symbol can only have one fixed meaning across all stories.", "answer": false, "hint": "The meaning of a symbol can change depending on the context of the story."},
+            {"type": "fill_in", "question": "A recurring symbol or image throughout a work of literature is called a ___.", "answer": "motif", "hint": "This word describes a symbol or idea that appears again and again in a story."},
+            {"type": "multiple_choice", "question": "An author writes about a bird escaping from a cage. This most likely symbolizes:", "options": ["The importance of bird-watching", "Freedom or liberation", "The dangers of pets", "Bad weather approaching"], "correct": 1, "hint": "Think about what a cage represents (confinement) and what escaping it would mean."},
+            {"type": "true_false", "question": "Darkness in literature commonly symbolizes fear, mystery, or the unknown.", "answer": true, "hint": "Think about how you feel in a dark room versus a bright one."},
+            {"type": "multiple_choice", "question": "How can you identify a symbol in a story?", "options": ["It is always explained by the author", "It appears repeatedly or seems to carry extra significance", "It is always an animal", "It is listed in the glossary"], "correct": 1, "hint": "Symbols stand out because they feel important beyond their surface meaning."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-1-4",
+          "title": "Analyzing How Point of View Shapes a Story",
+          "type": "lesson",
+          "content": {
+            "explanation": "The point of view an author selects fundamentally shapes the reader's experience. A first-person narrator can be unreliable — they may not understand everything happening around them, or they might have biases that color their telling. Third-person limited creates suspense because the reader only knows what one character knows. Third-person omniscient gives the reader a god-like view but can reduce tension since we know everyone's thoughts. When analyzing literature, consider why the author chose a particular point of view and how the story would change if told from a different perspective. This critical thinking skill helps you become a deeper, more thoughtful reader.",
+            "examples": [
+              {"problem": "A mystery story is told from the detective's first-person perspective. Why is this effective?", "answer": "The reader discovers clues at the same time as the detective, creating suspense.", "explanation": "First person limits us to the detective's knowledge, so we share the experience of solving the mystery."},
+              {"problem": "How would 'Charlotte's Web' be different if told from Wilbur's first-person point of view instead of third-person omniscient?", "answer": "We would only know Wilbur's thoughts and feelings, and we might not understand Charlotte's plan until Wilbur does.", "explanation": "Switching to first person would limit our knowledge and change the emotional experience of the story."},
+              {"problem": "What is an unreliable narrator?", "answer": "A narrator whose account of events cannot be fully trusted due to bias, limited knowledge, or dishonesty.", "explanation": "Unreliable narrators are usually first-person narrators who mislead the reader, whether intentionally or not."}
+            ],
+            "key_vocabulary": ["unreliable narrator", "bias", "perspective", "suspense", "narrative voice", "credibility"],
+            "real_world": "In a courtroom, two witnesses might describe the same event differently because of their different perspectives — just like different narrators in a story."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An unreliable narrator is most commonly found in which point of view?", "options": ["Second person", "Third-person omniscient", "First person", "Third-person objective"], "correct": 2, "hint": "Which point of view is most personal and subjective?"},
+            {"type": "true_false", "question": "Changing the point of view of a story would not affect how the reader experiences it.", "answer": false, "hint": "Think about how much information the reader receives depending on the narrator."},
+            {"type": "multiple_choice", "question": "A story about a school bully is told from the bully's first-person perspective. What might this achieve?", "options": ["It makes the bully seem less important", "It helps readers understand the bully's motivations and feelings", "It removes all conflict from the story", "It makes the story shorter"], "correct": 1, "hint": "First person lets us see inside a character's mind."},
+            {"type": "fill_in", "question": "When a narrator's account cannot be fully trusted, they are called an ___ narrator.", "answer": "unreliable", "hint": "This word means not dependable or trustworthy."},
+            {"type": "multiple_choice", "question": "Third-person omniscient is useful when an author wants to:", "options": ["Keep secrets from the reader", "Show the thoughts and feelings of multiple characters", "Tell the story in second person", "Make the story autobiographical"], "correct": 1, "hint": "Omniscient means 'all-knowing.'"},
+            {"type": "true_false", "question": "A first-person narrator always tells the complete truth about events.", "answer": false, "hint": "First-person narrators are limited by their own perceptions and biases."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-1-5",
+          "title": "Comparing Themes Across Texts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strong readers can identify similar themes across different texts, even when the stories have very different characters, settings, and plots. For example, both a Greek myth about Icarus and a modern story about a teen who cheats to win a race might share the theme that shortcuts and arrogance lead to downfall. Comparing themes helps you see universal truths about human nature that appear across time periods and cultures. When comparing themes, look at how each author develops the theme differently — through different characters, conflicts, and resolutions — and consider what each text uniquely adds to your understanding of the theme.",
+            "examples": [
+              {"problem": "Both 'The Tortoise and the Hare' and a story about a student who studies steadily for a test while her classmate crams the night before share what theme?", "answer": "Slow and steady effort is more reliable than last-minute bursts.", "explanation": "Both texts show that consistent, patient work leads to better outcomes than overconfidence or rushing."},
+              {"problem": "A myth about a king who loses everything due to greed and a modern story about a CEO who sacrifices family for wealth share what theme?", "answer": "Greed leads to the loss of what truly matters.", "explanation": "Despite different settings and time periods, both stories warn about the dangers of valuing wealth above all else."},
+              {"problem": "How would you compare the theme of 'perseverance' in two different stories?", "answer": "Examine how each story defines perseverance, what obstacles the characters face, and what the outcome of persevering is in each text.", "explanation": "Comparing means looking at both similarities and differences in how the authors treat the same theme."}
+            ],
+            "key_vocabulary": ["compare", "contrast", "universal theme", "parallel", "across texts", "literary analysis"],
+            "real_world": "Recognizing common themes helps you connect ideas across books, movies, and real life. Themes like 'courage in the face of fear' appear in everything from ancient epics to modern superhero films."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A universal theme is one that:", "options": ["Only appears in one story", "Is about the universe and space", "Appears across many cultures and time periods", "Is always about love"], "correct": 2, "hint": "Universal means it applies broadly to human experience."},
+            {"type": "true_false", "question": "Two stories with completely different settings can share the same theme.", "answer": true, "hint": "Theme is about the message, not the surface details of the story."},
+            {"type": "multiple_choice", "question": "When comparing themes across texts, you should look at:", "options": ["Only the titles of the stories", "How each author develops the theme through characters, conflict, and resolution", "Which story is longer", "The publication dates"], "correct": 1, "hint": "Comparison means examining how the theme is built, not just naming it."},
+            {"type": "fill_in", "question": "When you examine how two texts are alike and different, you ___ and contrast them.", "answer": "compare", "hint": "This word means to look at similarities."},
+            {"type": "multiple_choice", "question": "A fairy tale and a science fiction novel both feature characters who must sacrifice something to save others. The shared theme is likely:", "options": ["Science fiction is better than fairy tales", "Technology is dangerous", "True heroism requires sacrifice", "Fairy tales are for children"], "correct": 2, "hint": "Focus on what the characters' actions reveal about the human experience."},
+            {"type": "true_false", "question": "Only stories written in the same time period can share themes.", "answer": false, "hint": "Human experiences like love, loss, and courage are timeless."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which point of view uses 'I' as the narrator?", "options": ["First person", "Second person", "Third-person limited", "Third-person omniscient"], "correct": 0},
+          {"type": "true_false", "question": "A theme is the same as a topic.", "answer": false},
+          {"type": "multiple_choice", "question": "In literature, a dove often symbolizes:", "options": ["Danger", "Peace", "Wealth", "Confusion"], "correct": 1},
+          {"type": "multiple_choice", "question": "An unreliable narrator is one who:", "options": ["Tells the story in third person", "Cannot be fully trusted to give an accurate account", "Always tells the truth", "Narrates a nonfiction book"], "correct": 1},
+          {"type": "fill_in", "question": "A recurring symbol throughout a literary work is called a ___.", "answer": "motif"},
+          {"type": "true_false", "question": "Third-person omniscient narration reveals only one character's thoughts.", "answer": false},
+          {"type": "multiple_choice", "question": "What is a universal theme?", "options": ["A theme about outer space", "A theme found across many cultures and time periods", "A theme that only children understand", "A theme stated directly by the author"], "correct": 1},
+          {"type": "multiple_choice", "question": "Why might an author choose first-person point of view for a mystery?", "options": ["To reveal the ending immediately", "To let the reader discover clues alongside the narrator", "To show every character's thoughts", "To make the story less interesting"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "literary_analyst"
+      }
+    },
+    {
+      "id": "6-ela-2",
+      "title": "Grammar & Mechanics: Semicolons, Colons, and Dashes",
+      "description": "Master advanced punctuation marks that will elevate your writing and help you express complex ideas clearly.",
+      "lessons": [
+        {
+          "id": "6-ela-2-1",
+          "title": "The Semicolon",
+          "type": "lesson",
+          "content": {
+            "explanation": "A semicolon (;) connects two closely related independent clauses — complete sentences that could stand alone but are linked in meaning. Instead of using a period to create two short, choppy sentences, a semicolon shows the reader that the ideas are connected. For example, 'I love reading; my sister prefers painting' links two related ideas smoothly. Semicolons are also used with conjunctive adverbs like 'however,' 'therefore,' and 'moreover' to join clauses. Remember: both sides of a semicolon must be complete sentences. You cannot use a semicolon to attach a fragment to a sentence.",
+            "examples": [
+              {"problem": "Combine these sentences using a semicolon: 'The test was difficult. Most students passed anyway.'", "answer": "The test was difficult; most students passed anyway.", "explanation": "Both clauses are complete sentences with a clear relationship, making a semicolon the perfect connector."},
+              {"problem": "Is this correct? 'I went to the store; and bought milk.'", "answer": "No, this is incorrect.", "explanation": "'And bought milk' is not a complete sentence (it lacks a subject), so a semicolon cannot be used here."},
+              {"problem": "Use a semicolon with a conjunctive adverb: 'It rained all day. We still had fun.'", "answer": "It rained all day; however, we still had fun.", "explanation": "The conjunctive adverb 'however' shows contrast, and the semicolon properly joins the two independent clauses."}
+            ],
+            "key_vocabulary": ["semicolon", "independent clause", "conjunctive adverb", "compound sentence", "punctuation"],
+            "real_world": "Professional writers use semicolons in emails, reports, and articles to connect related ideas smoothly and show sophisticated writing skills."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a semicolon connect?", "options": ["A dependent and independent clause", "Two independent clauses", "An adjective and a noun", "A title and subtitle"], "correct": 1, "hint": "Both parts must be able to stand alone as complete sentences."},
+            {"type": "true_false", "question": "You can use a semicolon to connect a sentence fragment to a complete sentence.", "answer": false, "hint": "Both sides of a semicolon must be independent clauses."},
+            {"type": "multiple_choice", "question": "Which sentence uses the semicolon correctly?", "options": ["I like dogs; and cats.", "She studied hard; she passed the exam.", "The blue; car drove away.", "Running quickly; he was tired."], "correct": 1, "hint": "Check that both sides of the semicolon are complete sentences."},
+            {"type": "fill_in", "question": "A word like 'however' or 'therefore' that is used with a semicolon to join clauses is called a conjunctive ___.", "answer": "adverb", "hint": "It modifies or connects, and it is a type of word that often ends in '-ly.'"},
+            {"type": "multiple_choice", "question": "Which conjunctive adverb shows contrast?", "options": ["Therefore", "Moreover", "However", "Furthermore"], "correct": 2, "hint": "This word means 'but' or 'on the other hand.'"},
+            {"type": "true_false", "question": "The sentence 'I enjoy soccer; it keeps me active' uses the semicolon correctly.", "answer": true, "hint": "Check if both sides are independent clauses that are related."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-2-2",
+          "title": "The Colon",
+          "type": "lesson",
+          "content": {
+            "explanation": "A colon (:) is a punctuation mark that introduces what comes next. It signals to the reader, 'Here is what I mean' or 'Here is what follows.' Colons are used to introduce a list, an explanation, or a quotation. The key rule is that the clause before the colon must be a complete sentence. For example, 'I need three things: a pencil, paper, and an eraser' is correct because 'I need three things' is a complete thought. However, 'I need: a pencil, paper, and an eraser' is incorrect because 'I need' is not a complete sentence on its own. Colons are also used in time (3:30), ratios (2:1), and formal greetings (Dear Mr. Smith:).",
+            "examples": [
+              {"problem": "Add a colon: 'She had one goal win the championship.'", "answer": "She had one goal: win the championship.", "explanation": "The colon introduces the specific goal, and 'She had one goal' is a complete sentence."},
+              {"problem": "Is this correct? 'My favorite colors are: blue, green, and red.'", "answer": "No, it is incorrect.", "explanation": "'My favorite colors are' is not a complete sentence because 'are' needs a complement. Correct: 'My favorite colors are blue, green, and red' (no colon) or 'I have three favorite colors: blue, green, and red.'"},
+              {"problem": "Use a colon to introduce a quotation: 'The coach always said the same thing practice makes perfect.'", "answer": "The coach always said the same thing: practice makes perfect.", "explanation": "The colon introduces the specific quotation that 'the same thing' refers to."}
+            ],
+            "key_vocabulary": ["colon", "introduce", "independent clause", "list", "explanation", "quotation"],
+            "real_world": "You see colons in recipes (Ingredients: flour, sugar, eggs), on clocks (2:30 PM), and in business emails (Dear Ms. Johnson:)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A colon is used to:", "options": ["Connect two independent clauses of equal weight", "Introduce a list, explanation, or quotation", "Separate items in a simple list", "End a question"], "correct": 1, "hint": "Think of a colon as saying 'here is what follows.'"},
+            {"type": "true_false", "question": "The clause before a colon must be a complete sentence.", "answer": true, "hint": "If the words before the colon can't stand alone as a sentence, the colon is incorrect."},
+            {"type": "multiple_choice", "question": "Which sentence uses the colon correctly?", "options": ["I like: pizza, tacos, and burgers.", "There is one rule: be kind.", "The cat: sat on the mat.", "She went: to the store."], "correct": 1, "hint": "Check that the words before the colon form a complete sentence."},
+            {"type": "fill_in", "question": "A colon can be used to introduce a ___, an explanation, or a quotation.", "answer": "list", "hint": "Think of items written one after another."},
+            {"type": "multiple_choice", "question": "Which is a correct use of a colon?", "options": ["Dear: Mom", "The time is: 3:00", "She packed everything she needed: clothes, shoes, and a toothbrush.", "He: ran fast."], "correct": 2, "hint": "Look for a complete sentence before the colon that sets up what follows."},
+            {"type": "true_false", "question": "'The three primary colors are: red, blue, and yellow' uses the colon correctly.", "answer": false, "hint": "'The three primary colors are' is incomplete — 'are' needs a complement to finish the sentence."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-2-3",
+          "title": "The Dash (Em Dash and En Dash)",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dashes add emphasis, interruption, or additional information to your writing. The em dash (—) is the longer dash and is the most versatile. It can replace commas, parentheses, or colons for a more dramatic effect. A pair of em dashes can set off a parenthetical thought within a sentence: 'My brother — the one who never studies — got an A on the test.' A single em dash can create a dramatic pause or shift: 'She opened the box and found — nothing.' The en dash (–) is shorter and primarily used for ranges (pages 10–15, the years 2020–2025). In casual writing, dashes should be used sparingly; overuse can make your writing feel choppy or overly dramatic.",
+            "examples": [
+              {"problem": "Add em dashes to set off extra information: 'The dog a golden retriever loved to swim.'", "answer": "The dog — a golden retriever — loved to swim.", "explanation": "The em dashes set off 'a golden retriever' as additional, nonessential information, similar to parentheses but with more emphasis."},
+              {"problem": "Use an em dash for dramatic effect: 'He reached into his pocket and pulled out a diamond.'", "answer": "He reached into his pocket and pulled out — a diamond.", "explanation": "The em dash creates a pause that builds anticipation before the surprising reveal."},
+              {"problem": "When would you use an en dash instead of an em dash?", "answer": "For number ranges, such as 'pages 5–10' or 'Monday–Friday.'", "explanation": "The en dash specifically indicates a range or span between values."}
+            ],
+            "key_vocabulary": ["em dash", "en dash", "parenthetical", "emphasis", "interruption", "nonessential information"],
+            "real_world": "Dashes appear frequently in journalism, blogs, and creative writing. News headlines often use en dashes for ranges: 'Students ages 10–14 participated in the event.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An em dash is used for:", "options": ["Number ranges only", "Emphasis, interruption, or additional information", "Ending sentences", "Hyphenating compound words"], "correct": 1, "hint": "The em dash is the most versatile dash."},
+            {"type": "true_false", "question": "An en dash is used to show number ranges, such as 'pages 10–20.'", "answer": true, "hint": "The en dash connects ranges of numbers, dates, and times."},
+            {"type": "multiple_choice", "question": "Which sentence uses em dashes correctly?", "options": ["My best friend—who lives next door—is moving away.", "I have—three—cats.", "The store opens—at nine.", "She—ran."], "correct": 0, "hint": "Em dashes should set off meaningful additional information."},
+            {"type": "fill_in", "question": "A pair of em dashes can set off a ___ thought within a sentence, similar to parentheses.", "answer": "parenthetical", "hint": "This word describes information that is added but not essential to the main sentence."},
+            {"type": "multiple_choice", "question": "Which use of the en dash is correct?", "options": ["I love — pizza.", "The meeting is from 2–4 PM.", "She was — happy.", "He ran — fast."], "correct": 1, "hint": "En dashes are for ranges."},
+            {"type": "true_false", "question": "You should use dashes frequently in every sentence to make your writing more exciting.", "answer": false, "hint": "Overusing dashes can make writing feel choppy. Use them sparingly for effect."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-2-4",
+          "title": "Choosing the Right Punctuation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now that you know semicolons, colons, and dashes, the key skill is knowing when to use each one. A semicolon connects two related independent clauses of equal importance. A colon introduces something — a list, explanation, or quotation — after a complete sentence. An em dash adds emphasis, creates a dramatic pause, or sets off extra information. Often, you could use more than one of these punctuation marks in the same spot, but each creates a slightly different effect. A colon is formal and direct. An em dash is dramatic and conversational. A semicolon is balanced and elegant. Choosing the right punctuation mark is a craft skill that develops with practice and reading.",
+            "examples": [
+              {"problem": "Which punctuation fits best? 'She needed one thing __ courage.'", "answer": "A colon: 'She needed one thing: courage.'", "explanation": "A colon is best here because it introduces and defines 'one thing.' An em dash would also work for more dramatic effect."},
+              {"problem": "Which punctuation fits best? 'The rain stopped __ the sun came out.'", "answer": "A semicolon: 'The rain stopped; the sun came out.'", "explanation": "These are two related independent clauses of equal importance, making a semicolon the best choice."},
+              {"problem": "Which punctuation fits best? 'My neighbor __ the one with the loud dog __ apologized for the noise.'", "answer": "Em dashes: 'My neighbor — the one with the loud dog — apologized for the noise.'", "explanation": "Em dashes set off the parenthetical description, adding emphasis to the extra information."}
+            ],
+            "key_vocabulary": ["punctuation", "tone", "effect", "formal", "conversational", "emphasis"],
+            "real_world": "Professional writers make deliberate punctuation choices. A novelist might use em dashes for fast-paced action scenes, while a journalist might prefer colons for clarity in reporting."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which punctuation mark is best for connecting two balanced, related independent clauses?", "options": ["Colon", "Em dash", "Semicolon", "Comma"], "correct": 2, "hint": "This mark shows equal importance between two complete thoughts."},
+            {"type": "multiple_choice", "question": "Which punctuation mark creates the most dramatic effect?", "options": ["Semicolon", "Colon", "Em dash", "Period"], "correct": 2, "hint": "This mark is the most conversational and can create suspenseful pauses."},
+            {"type": "fill_in", "question": "A ___ introduces a list, explanation, or quotation after a complete sentence.", "answer": "colon", "hint": "This punctuation mark says 'here is what follows.'"},
+            {"type": "true_false", "question": "A semicolon, colon, and em dash can sometimes be used in the same position in a sentence, but each creates a different effect.", "answer": true, "hint": "Punctuation choices affect tone and emphasis."},
+            {"type": "multiple_choice", "question": "Fill in the blank with the best punctuation: 'He had visited many countries __ France, Japan, Brazil, and Egypt.'", "options": ["Semicolon (;)", "Colon (:)", "Em dash (—)", "Comma (,)"], "correct": 1, "hint": "What follows is a list that explains 'many countries.'"},
+            {"type": "multiple_choice", "question": "Fill in the blank: 'The door creaked open and there stood __ a ghost.'", "options": ["Semicolon (;)", "Colon (:)", "Em dash (—)", "Period (.)"], "correct": 2, "hint": "This sentence builds suspense before a dramatic reveal."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A semicolon connects:", "options": ["A fragment and a sentence", "Two independent clauses", "A noun and a verb", "A list of items"], "correct": 1},
+          {"type": "true_false", "question": "The clause before a colon must be a complete sentence.", "answer": true},
+          {"type": "multiple_choice", "question": "Which sentence uses punctuation correctly?", "options": ["I need; eggs, milk, and flour.", "She had one dream: to fly.", "The dog — barked.", "He ran: fast."], "correct": 1},
+          {"type": "multiple_choice", "question": "An en dash is used for:", "options": ["Dramatic pauses", "Setting off extra information", "Number ranges", "Ending questions"], "correct": 2},
+          {"type": "fill_in", "question": "A ___ connects two related independent clauses and shows they are equal in importance.", "answer": "semicolon"},
+          {"type": "true_false", "question": "An em dash can replace commas or parentheses to add emphasis.", "answer": true},
+          {"type": "multiple_choice", "question": "Which is correct?", "options": ["I like three sports: soccer, basketball, and tennis.", "I like three sports; soccer, basketball, and tennis.", "I like: three sports soccer, basketball, and tennis.", "I like — three — sports."], "correct": 0},
+          {"type": "multiple_choice", "question": "What effect does an em dash create in writing?", "options": ["Formality and structure", "Dramatic emphasis or interruption", "A mathematical equation", "A question"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "punctuation_pro"
+      }
+    },
+    {
+      "id": "6-ela-3",
+      "title": "Expository Writing",
+      "description": "Learn to write clear, well-organized essays that explain, inform, and describe topics for an audience.",
+      "lessons": [
+        {
+          "id": "6-ela-3-1",
+          "title": "What is Expository Writing?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Expository writing explains, informs, or describes a topic to the reader. Unlike narrative writing (which tells a story) or persuasive writing (which argues a position), expository writing is objective — it presents facts and information without the writer's personal opinions. You encounter expository writing every day in textbooks, encyclopedias, news articles, and how-to guides. A good expository essay has a clear thesis statement, well-organized body paragraphs with evidence and examples, and a conclusion that ties everything together. The goal is to help the reader understand something clearly.",
+            "examples": [
+              {"problem": "Which is expository writing? A) 'The water cycle has three main stages.' B) 'I think rain is the best kind of weather.'", "answer": "A", "explanation": "Option A states a fact and explains a topic. Option B expresses a personal opinion, making it persuasive or personal writing."},
+              {"problem": "Write a thesis statement for an expository essay about recycling.", "answer": "Recycling benefits the environment by reducing waste, conserving natural resources, and decreasing pollution.", "explanation": "This thesis is objective, specific, and previews the three main points the essay will cover."},
+              {"problem": "What is the difference between expository and narrative writing?", "answer": "Expository writing explains facts and information; narrative writing tells a story with characters and plot.", "explanation": "Expository = inform; Narrative = entertain through storytelling."}
+            ],
+            "key_vocabulary": ["expository", "thesis statement", "objective", "inform", "evidence", "body paragraph"],
+            "real_world": "Expository writing is one of the most common forms of writing in school and careers — from research papers to business reports to user manuals."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The main purpose of expository writing is to:", "options": ["Tell a story", "Persuade the reader", "Explain or inform", "Express personal feelings"], "correct": 2, "hint": "Think about what 'expose' means — to reveal or show."},
+            {"type": "true_false", "question": "Expository writing includes the author's personal opinions.", "answer": false, "hint": "Expository writing is objective — it sticks to facts."},
+            {"type": "multiple_choice", "question": "Which is an example of expository writing?", "options": ["A fairy tale", "A love poem", "A textbook chapter about photosynthesis", "A letter to a friend"], "correct": 2, "hint": "Which option explains factual information?"},
+            {"type": "fill_in", "question": "The sentence that states the main idea of an expository essay is called the ___ statement.", "answer": "thesis", "hint": "This word comes from Greek and means 'a proposition.'"},
+            {"type": "multiple_choice", "question": "A good thesis statement should be:", "options": ["Vague and general", "Specific and preview the main points", "A question", "One word long"], "correct": 1, "hint": "The thesis tells the reader exactly what the essay will cover."},
+            {"type": "true_false", "question": "A recipe is an example of expository writing because it explains how to do something.", "answer": true, "hint": "Any writing that informs or explains is expository."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-3-2",
+          "title": "Organizing an Expository Essay",
+          "type": "lesson",
+          "content": {
+            "explanation": "A well-organized expository essay follows a clear structure that helps the reader follow your ideas. The standard structure includes an introduction with a hook and thesis statement, body paragraphs that each focus on one main point, and a conclusion that summarizes your ideas. Each body paragraph should begin with a topic sentence that introduces the paragraph's main idea, followed by evidence (facts, examples, statistics), and an explanation of how the evidence supports the point. Transition words like 'first,' 'additionally,' 'in contrast,' and 'finally' help guide the reader smoothly from one idea to the next. Think of your essay like a building — the thesis is the blueprint, and each paragraph is a floor built on a strong foundation.",
+            "examples": [
+              {"problem": "What are the three main parts of an expository essay?", "answer": "Introduction, body paragraphs, and conclusion.", "explanation": "The introduction presents the topic and thesis, body paragraphs develop the main points with evidence, and the conclusion wraps everything up."},
+              {"problem": "Write a topic sentence for a body paragraph about how exercise improves mental health.", "answer": "Regular exercise improves mental health by reducing stress and boosting mood.", "explanation": "This topic sentence clearly states the paragraph's main idea and previews the supporting details."},
+              {"problem": "List three transition words that show addition.", "answer": "Additionally, furthermore, moreover.", "explanation": "These words signal to the reader that more information about the same point is coming."}
+            ],
+            "key_vocabulary": ["introduction", "body paragraph", "conclusion", "topic sentence", "transition words", "evidence"],
+            "real_world": "Organizing your ideas clearly is essential in school essays, work presentations, and even persuasive conversations. A clear structure makes your message more convincing."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should come first in an expository essay?", "options": ["The conclusion", "A body paragraph", "The introduction with a hook and thesis", "A bibliography"], "correct": 2, "hint": "Every essay starts by introducing the topic and main idea."},
+            {"type": "fill_in", "question": "The first sentence of a body paragraph that states the paragraph's main idea is called a ___ sentence.", "answer": "topic", "hint": "This sentence tells the reader what the paragraph is about."},
+            {"type": "true_false", "question": "Each body paragraph should cover multiple main points to save space.", "answer": false, "hint": "Each body paragraph should focus on just one main point for clarity."},
+            {"type": "multiple_choice", "question": "Which is a transition word that shows contrast?", "options": ["Additionally", "However", "Furthermore", "Also"], "correct": 1, "hint": "This word signals that the next idea is different from or opposite to the previous one."},
+            {"type": "multiple_choice", "question": "What should a conclusion do?", "options": ["Introduce a new main point", "Restate the thesis and summarize key points", "Include a new piece of evidence", "Ask five questions"], "correct": 1, "hint": "The conclusion wraps up the essay by revisiting the main ideas."},
+            {"type": "true_false", "question": "Transition words help guide the reader from one idea to the next.", "answer": true, "hint": "Transitions act as bridges between paragraphs and ideas."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-3-3",
+          "title": "Writing Strong Introductions and Conclusions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Your introduction is the first impression your essay makes, so it needs to grab the reader's attention. Start with a hook — this could be a surprising fact, a thought-provoking question, a vivid description, or a brief anecdote. After the hook, provide context that gives background information on your topic. End the introduction with your thesis statement. Your conclusion is the last thing the reader sees, so make it memorable. Restate your thesis in different words, summarize your main points briefly, and end with a closing thought — a call to action, a prediction, or a thought-provoking question that leaves the reader thinking. Avoid introducing new information in your conclusion.",
+            "examples": [
+              {"problem": "Write a hook for an essay about ocean pollution.", "answer": "Every year, eight million tons of plastic enter the world's oceans — that is equivalent to dumping a garbage truck of plastic into the sea every minute.", "explanation": "This startling statistic immediately grabs the reader's attention and makes them want to learn more."},
+              {"problem": "What should you avoid in a conclusion?", "answer": "Introducing new information, evidence, or arguments that were not discussed in the body.", "explanation": "The conclusion should wrap up existing ideas, not start new ones."},
+              {"problem": "Restate this thesis in different words: 'Social media affects teens by reducing sleep, increasing anxiety, and lowering self-esteem.'", "answer": "The impact of social media on teenagers is significant, disrupting their rest, heightening their worries, and diminishing their confidence.", "explanation": "The restated thesis conveys the same ideas using different vocabulary and sentence structure."}
+            ],
+            "key_vocabulary": ["hook", "attention grabber", "context", "restate", "closing thought", "call to action"],
+            "real_world": "Hooks are used everywhere — movie trailers start with exciting scenes, news articles lead with catchy headlines, and speeches open with powerful statements. The goal is always to grab attention."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a 'hook' in an essay introduction?", "options": ["The thesis statement", "An attention-grabbing opening sentence", "The topic sentence of the first body paragraph", "A transition word"], "correct": 1, "hint": "A hook 'catches' the reader's interest, just like a fishing hook catches a fish."},
+            {"type": "multiple_choice", "question": "Which would make a good hook?", "options": ["This essay is about dogs.", "In this essay I will discuss dogs.", "A dog's sense of smell is 40 times more powerful than a human's.", "Dogs are nice."], "correct": 2, "hint": "The best hook is specific, interesting, and makes the reader curious."},
+            {"type": "true_false", "question": "You should introduce new arguments or evidence in your conclusion.", "answer": false, "hint": "The conclusion summarizes existing ideas — save new information for body paragraphs."},
+            {"type": "fill_in", "question": "The introduction should end with the ___ statement, which tells the reader the essay's main idea.", "answer": "thesis", "hint": "This is the most important sentence in the entire essay."},
+            {"type": "multiple_choice", "question": "A good conclusion might end with:", "options": ["A new thesis statement", "A call to action or thought-provoking question", "An apology for the essay being too long", "A list of sources"], "correct": 1, "hint": "The ending should leave the reader thinking about the topic."},
+            {"type": "true_false", "question": "Restating the thesis in the conclusion means copying it word for word from the introduction.", "answer": false, "hint": "Restating means expressing the same idea in different words."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-3-4",
+          "title": "Using Evidence and Examples",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strong expository writing is built on evidence — the facts, examples, statistics, and details that support your main points. Every claim you make in a body paragraph should be backed up with evidence. There are several types of evidence: facts and statistics (measurable, verifiable data), examples (specific instances that illustrate your point), expert opinions (quotes or ideas from authorities on the topic), and anecdotes (brief stories that make a point relatable). After presenting evidence, always explain how it connects to your topic sentence and thesis. This explanation is called commentary or analysis. A common mistake is listing evidence without explaining its significance — remember, evidence without explanation is like a puzzle piece without the picture on the box.",
+            "examples": [
+              {"problem": "Which is stronger evidence? A) 'Lots of students like reading.' B) 'According to a 2023 survey, 72% of sixth graders read for pleasure at least once a week.'", "answer": "B", "explanation": "Option B provides specific, verifiable data from a source. Option A is vague and unsupported."},
+              {"problem": "Write commentary for this evidence: 'Studies show that students who eat breakfast score 17% higher on tests.'", "answer": "This data demonstrates that nutrition directly impacts academic performance, suggesting that schools should prioritize breakfast programs to help all students succeed.", "explanation": "The commentary explains why the evidence matters and connects it to a larger point."},
+              {"problem": "What is the difference between evidence and commentary?", "answer": "Evidence is the factual support (data, examples, quotes); commentary is the writer's explanation of what the evidence means and why it matters.", "explanation": "Evidence is the 'what'; commentary is the 'so what.'"}
+            ],
+            "key_vocabulary": ["evidence", "commentary", "analysis", "statistics", "anecdote", "support"],
+            "real_world": "Lawyers use evidence to prove cases in court. Scientists use evidence to support their discoveries. In everyday life, you use evidence when you give reasons to convince your parents to let you stay up late."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the purpose of evidence in an expository essay?", "options": ["To make the essay longer", "To support and prove your main points", "To confuse the reader", "To replace the thesis statement"], "correct": 1, "hint": "Evidence backs up the claims you make."},
+            {"type": "true_false", "question": "After presenting evidence, you should always explain how it connects to your point.", "answer": true, "hint": "Evidence without explanation leaves the reader to guess why it matters."},
+            {"type": "multiple_choice", "question": "Which is the strongest piece of evidence?", "options": ["Everyone knows exercise is good for you.", "My friend said exercise is important.", "The American Heart Association recommends 60 minutes of physical activity daily for children.", "Exercise is cool."], "correct": 2, "hint": "Look for specific, credible, and verifiable information."},
+            {"type": "fill_in", "question": "The writer's explanation of what the evidence means is called ___ or analysis.", "answer": "commentary", "hint": "This is where the writer interprets the evidence and explains its significance."},
+            {"type": "multiple_choice", "question": "A brief story used to illustrate a point is called:", "options": ["A statistic", "An anecdote", "A thesis", "A bibliography"], "correct": 1, "hint": "This type of evidence makes a point relatable through a short narrative."},
+            {"type": "true_false", "question": "Listing lots of evidence without any explanation makes an essay stronger.", "answer": false, "hint": "Without commentary, the reader does not know why the evidence is important."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-3-5",
+          "title": "Revising and Editing Expository Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Writing is rewriting. The first draft of any essay is never the final version. Revising means looking at the big picture — improving your ideas, organization, evidence, and clarity. Editing means fixing the smaller details — grammar, spelling, punctuation, and word choice. When revising, ask yourself: Is my thesis clear? Does each body paragraph have a topic sentence and strong evidence? Are my transitions smooth? Does my conclusion effectively wrap up my ideas? When editing, read your essay slowly, check for common errors (run-on sentences, fragments, subject-verb agreement), and vary your sentence structure to keep the writing interesting. Reading your essay aloud is one of the best revision strategies because your ear catches awkward phrasing that your eye might miss.",
+            "examples": [
+              {"problem": "What is the difference between revising and editing?", "answer": "Revising focuses on content and organization (big picture); editing focuses on grammar, spelling, and mechanics (details).", "explanation": "Think of revising as remodeling a house (moving walls) and editing as painting and decorating (finishing touches)."},
+              {"problem": "Revise this sentence for clarity: 'The thing about the stuff is that it is really very important and we should pay attention to it.'", "answer": "Climate change is a critical issue that demands our immediate attention.", "explanation": "The revised sentence replaces vague words ('thing,' 'stuff') with specific language and eliminates unnecessary words."},
+              {"problem": "Find the error: 'Each of the students have finished their project.'", "answer": "'Each of the students has finished their project.' (subject-verb agreement: 'each' is singular)", "explanation": "'Each' is a singular pronoun, so it requires the singular verb 'has,' not the plural 'have.'"}
+            ],
+            "key_vocabulary": ["revising", "editing", "clarity", "sentence variety", "word choice", "proofreading"],
+            "real_world": "Professional authors often write dozens of drafts before publishing a book. Even short professional emails are often revised for clarity before sending."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Revising focuses on:", "options": ["Spelling and punctuation", "Content, organization, and clarity", "Font size and margins", "Word count only"], "correct": 1, "hint": "Revising is about the big picture of your writing."},
+            {"type": "true_false", "question": "Reading your essay aloud can help you catch awkward phrasing.", "answer": true, "hint": "Your ear can catch problems that your eye might miss."},
+            {"type": "fill_in", "question": "Fixing grammar, spelling, and punctuation errors is called ___.", "answer": "editing", "hint": "This is the detail-level work you do after revising the big picture."},
+            {"type": "multiple_choice", "question": "Which revision improves this sentence? 'The dog was nice and the dog was big and the dog was brown.'", "options": ["The big, brown dog was nice.", "The dog was nice, big, brown.", "Dog: nice, big, brown.", "The nice dog. The big dog. The brown dog."], "correct": 0, "hint": "Combine repetitive sentences by using adjectives efficiently."},
+            {"type": "true_false", "question": "Your first draft should be your final draft.", "answer": false, "hint": "Good writing always involves multiple rounds of revision and editing."},
+            {"type": "multiple_choice", "question": "Which question should you ask when revising?", "options": ["Is my font attractive?", "Is my thesis clear and supported by evidence?", "Is my essay exactly 500 words?", "Did I use the word 'very' enough?"], "correct": 1, "hint": "Revision focuses on the strength of your ideas and how well they are communicated."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "The main purpose of expository writing is to:", "options": ["Entertain with a story", "Express personal emotions", "Explain or inform with facts", "Argue a controversial opinion"], "correct": 2},
+          {"type": "true_false", "question": "Every body paragraph should begin with a topic sentence.", "answer": true},
+          {"type": "multiple_choice", "question": "A hook is:", "options": ["The last sentence of an essay", "An attention-grabbing opening", "A type of evidence", "A transition word"], "correct": 1},
+          {"type": "fill_in", "question": "The writer's explanation of why evidence matters is called ___.", "answer": "commentary"},
+          {"type": "multiple_choice", "question": "Which is the correct order for an expository essay?", "options": ["Conclusion, body, introduction", "Body, introduction, conclusion", "Introduction, body, conclusion", "Hook, evidence, hook"], "correct": 2},
+          {"type": "true_false", "question": "Revising and editing are the same thing.", "answer": false},
+          {"type": "multiple_choice", "question": "Strong evidence includes:", "options": ["Vague statements and personal feelings", "Facts, statistics, examples, and expert opinions", "Only the writer's personal stories", "Unrelated information"], "correct": 1},
+          {"type": "multiple_choice", "question": "A good conclusion should:", "options": ["Introduce a new argument", "Restate the thesis and summarize main points", "Apologize to the reader", "Be longer than the introduction"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "expository_expert"
+      }
+    },
+    {
+      "id": "6-ela-4",
+      "title": "Narrative Techniques",
+      "description": "Explore the tools authors use to craft compelling stories, including dialogue, pacing, description, and character development.",
+      "lessons": [
+        {
+          "id": "6-ela-4-1",
+          "title": "Writing Effective Dialogue",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dialogue is the conversation between characters in a story, and it is one of the most powerful tools a writer has. Good dialogue reveals character personality, advances the plot, and creates tension or humor. Each character should sound distinct — a five-year-old would not speak the same way as a professor. When writing dialogue, use quotation marks around the spoken words, start a new paragraph each time the speaker changes, and use dialogue tags (said, whispered, exclaimed) to show who is speaking and how. Avoid overusing fancy dialogue tags; 'said' is invisible to readers and works best most of the time. Most importantly, dialogue should sound natural — read it aloud to test whether it sounds like real speech.",
+            "examples": [
+              {"problem": "Punctuate this dialogue: Maya said I can not believe we won the game", "answer": "Maya said, \"I can't believe we won the game!\"", "explanation": "The dialogue tag 'Maya said' is followed by a comma, the spoken words are in quotation marks, and the exclamation point shows excitement."},
+              {"problem": "Which dialogue tag is more effective? A) 'I'm fine,' she said. B) 'I'm fine,' she vociferated.", "answer": "A is more effective.", "explanation": "'Said' is natural and unobtrusive. 'Vociferated' is distracting and draws attention away from the dialogue itself."},
+              {"problem": "How can you show a character is nervous through dialogue without saying 'he said nervously'?", "answer": "Show the character stuttering, trailing off, or speaking in short, fragmented sentences: 'I — I don't know. Maybe we should... I mean, what if something goes wrong?'", "explanation": "Showing nervousness through speech patterns is more vivid than telling the reader the character is nervous."}
+            ],
+            "key_vocabulary": ["dialogue", "dialogue tag", "quotation marks", "characterization", "subtext", "paragraph break"],
+            "real_world": "Screenwriters write almost entirely in dialogue. The words characters say in movies and TV shows are carefully crafted to reveal personality and move the story forward."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When writing dialogue, you should start a new paragraph:", "options": ["At the beginning of every sentence", "Every time the speaker changes", "Only at the start of the story", "Never"], "correct": 1, "hint": "This helps the reader keep track of who is speaking."},
+            {"type": "true_false", "question": "'Said' is considered a weak dialogue tag that should always be replaced with more descriptive words.", "answer": false, "hint": "'Said' is actually preferred by most writers because it is invisible to the reader."},
+            {"type": "multiple_choice", "question": "Which dialogue reveals that a character is shy?", "options": ["'GIVE ME THAT!' Marcus demanded.", "'Oh, um, could I maybe... never mind,' Ella whispered.", "'Let's go to the park!' shouted James.", "'The answer is 42,' stated the professor."], "correct": 1, "hint": "Look for hesitation, trailing off, and a quiet dialogue tag."},
+            {"type": "fill_in", "question": "Words like 'said,' 'whispered,' and 'shouted' that identify the speaker are called dialogue ___.", "answer": "tags", "hint": "These 'label' or identify who is speaking and sometimes how."},
+            {"type": "multiple_choice", "question": "Which is punctuated correctly?", "options": ["\"Let's go she said.\"", "\"Let's go,\" she said.", "\"Let's go\" she said.", "Let's go, \"she said.\""], "correct": 1, "hint": "The comma goes inside the quotation marks, before the closing quote."},
+            {"type": "true_false", "question": "Good dialogue should make every character sound the same to be fair.", "answer": false, "hint": "Each character should have a distinct voice that reflects their personality, age, and background."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-4-2",
+          "title": "Pacing: Controlling the Speed of a Story",
+          "type": "lesson",
+          "content": {
+            "explanation": "Pacing is how fast or slow a story moves. Authors control pacing to create different effects — fast pacing builds excitement and tension, while slow pacing allows for reflection, description, and character development. Action scenes use short sentences, quick dialogue, and minimal description to create a rapid pace. Quiet, emotional moments use longer sentences, detailed descriptions, and internal thoughts to slow things down. Authors also use paragraph length to control pacing: short paragraphs feel fast, while long paragraphs feel slower. Time can be compressed ('Three years passed') or expanded (spending an entire chapter on one afternoon). Mastering pacing means knowing when to speed up and when to slow down to keep the reader engaged.",
+            "examples": [
+              {"problem": "Which has faster pacing? A) 'She ran. The door slammed. Footsteps behind her.' B) 'She moved through the quiet hallway, her fingers trailing along the cool, smooth wall as memories of childhood flooded her mind.'", "answer": "A has faster pacing.", "explanation": "Short, choppy sentences with action verbs create urgency. Long, descriptive sentences slow the reader down."},
+              {"problem": "How would you slow down the pacing of an exciting scene?", "answer": "Add detailed descriptions, internal character thoughts, flashbacks, or longer sentences.", "explanation": "These techniques give the reader time to absorb details and reflect, reducing the sense of urgency."},
+              {"problem": "What is time compression in fiction?", "answer": "When an author covers a long period of time in just a few words or sentences, such as 'Years passed before they met again.'", "explanation": "This technique skips over uneventful periods to keep the story moving toward important events."}
+            ],
+            "key_vocabulary": ["pacing", "tension", "action", "description", "time compression", "scene"],
+            "real_world": "Movies use pacing too — fast editing and quick cuts during action scenes, and long, lingering shots during emotional moments."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Short, choppy sentences create:", "options": ["Slow, reflective pacing", "Fast, urgent pacing", "Confusion", "Boredom"], "correct": 1, "hint": "Think about how reading short sentences feels — it is quick and punchy."},
+            {"type": "true_false", "question": "Adding detailed descriptions to a scene speeds up the pacing.", "answer": false, "hint": "Description makes the reader slow down to absorb details."},
+            {"type": "fill_in", "question": "When an author covers a long period of time in just a sentence or two, it is called time ___.", "answer": "compression", "hint": "The author squeezes or presses time into a smaller space."},
+            {"type": "multiple_choice", "question": "Which technique would speed up the pacing of a story?", "options": ["Adding a long flashback", "Using short sentences and quick dialogue", "Including detailed descriptions of the setting", "Having the character reflect on memories"], "correct": 1, "hint": "Brevity and action create speed."},
+            {"type": "multiple_choice", "question": "When should an author slow the pacing?", "options": ["During a car chase", "During an emotional conversation between characters", "During an explosion", "During a race"], "correct": 1, "hint": "Emotional moments need time for the reader to feel the characters' feelings."},
+            {"type": "true_false", "question": "Paragraph length can affect the pacing of a story.", "answer": true, "hint": "Short paragraphs feel fast; long paragraphs feel slower."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-4-3",
+          "title": "Descriptive Language and Sensory Details",
+          "type": "lesson",
+          "content": {
+            "explanation": "Great writers use descriptive language and sensory details to create vivid images in the reader's mind. Sensory details appeal to the five senses: sight, sound, smell, taste, and touch. Instead of writing 'The kitchen smelled good,' a skilled writer might say 'The warm aroma of cinnamon and fresh-baked bread drifted from the kitchen.' This technique is called 'show, don't tell' — rather than telling the reader how to feel, you show them a scene so vivid they experience it themselves. Figurative language such as similes ('the snow was like a white blanket'), metaphors ('the classroom was a zoo'), and personification ('the wind whispered through the trees') also adds richness to descriptive writing.",
+            "examples": [
+              {"problem": "Rewrite 'The sunset was pretty' using sensory details.", "answer": "The sky blazed with streaks of orange and pink, fading into deep purple at the horizon, while the last golden rays of sunlight warmed our faces.", "explanation": "This version appeals to sight (colors) and touch (warmth), creating a vivid image the reader can experience."},
+              {"problem": "Identify the figurative language: 'The old house groaned in the wind.'", "answer": "Personification — the house is given the human quality of groaning.", "explanation": "Houses cannot actually groan; giving it this human action makes the description more vivid and eerie."},
+              {"problem": "Which sentence 'shows' rather than 'tells'? A) 'She was scared.' B) 'Her hands trembled, and her heart hammered so loudly she was sure everyone could hear it.'", "answer": "B shows rather than tells.", "explanation": "Option B describes physical sensations that let the reader feel the fear, rather than just naming the emotion."}
+            ],
+            "key_vocabulary": ["sensory details", "show don't tell", "simile", "metaphor", "personification", "imagery"],
+            "real_world": "Advertisers use sensory language to sell products — food commercials describe 'crispy, golden chicken' rather than just 'good chicken' because vivid language makes you hungry."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Sensory details appeal to:", "options": ["Only sight", "The five senses: sight, sound, smell, taste, and touch", "Only emotions", "Only hearing"], "correct": 1, "hint": "The word 'sensory' comes from 'senses.'"},
+            {"type": "multiple_choice", "question": "'The stars danced across the night sky' is an example of:", "options": ["Simile", "Metaphor", "Personification", "Alliteration"], "correct": 2, "hint": "Stars cannot actually dance — they are given a human action."},
+            {"type": "true_false", "question": "'Show, don't tell' means describing actions and sensations instead of directly naming emotions.", "answer": true, "hint": "Instead of saying 'he was happy,' show him smiling, laughing, or jumping."},
+            {"type": "fill_in", "question": "A comparison using 'like' or 'as' is called a ___.", "answer": "simile", "hint": "Think of the word 'similar.'"},
+            {"type": "multiple_choice", "question": "Which sentence uses the best sensory details?", "options": ["The food was good.", "The tangy lemon sauce sizzled on the grilled fish, filling the air with a mouthwatering citrus aroma.", "I ate some food and it was nice.", "The meal was tasty and filling."], "correct": 1, "hint": "Look for specific details that appeal to taste, sound, and smell."},
+            {"type": "true_false", "question": "'Her smile was a ray of sunshine' is a metaphor.", "answer": true, "hint": "It compares her smile to sunshine directly without using 'like' or 'as.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-4-4",
+          "title": "Character Development",
+          "type": "lesson",
+          "content": {
+            "explanation": "Well-developed characters are the heart of any great story. Authors reveal characters through several methods: their actions (what they do), their dialogue (what they say), their thoughts (what they think), their appearance (how they look), and other characters' reactions to them. A dynamic character changes or grows throughout the story, usually as a result of the conflict they face. A static character stays the same. Most protagonists are dynamic — they learn lessons, overcome flaws, or gain new perspectives. When developing characters, authors often give them both strengths and weaknesses to make them feel real and relatable. A character's motivation — what they want and why — drives the plot forward.",
+            "examples": [
+              {"problem": "A character starts the story afraid to speak up but ends by giving a speech to the whole school. Is this a dynamic or static character?", "answer": "Dynamic", "explanation": "The character undergoes significant change (from shy to brave), which is the defining trait of a dynamic character."},
+              {"problem": "How does an author reveal character indirectly?", "answer": "Through the character's actions, dialogue, thoughts, and how others react to them — rather than directly stating traits.", "explanation": "Indirect characterization lets the reader figure out what a character is like through evidence, which is more engaging than being told."},
+              {"problem": "Why is it important for characters to have flaws?", "answer": "Flaws make characters realistic and relatable. Perfect characters are boring because readers cannot connect with them.", "explanation": "Flaws also create opportunities for growth and conflict, which make the story interesting."}
+            ],
+            "key_vocabulary": ["dynamic character", "static character", "characterization", "motivation", "protagonist", "antagonist"],
+            "real_world": "Understanding character development helps you understand real people too. In history, leaders are often studied through their actions, words, and how they changed over time."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A dynamic character is one who:", "options": ["Stays the same throughout the story", "Changes or grows as a result of the story's events", "Is always the villain", "Appears in every chapter"], "correct": 1, "hint": "Dynamic means changing or active."},
+            {"type": "fill_in", "question": "Revealing a character's personality through their actions and dialogue rather than directly stating it is called indirect ___.", "answer": "characterization", "hint": "This technique shows rather than tells what a character is like."},
+            {"type": "true_false", "question": "A static character does not change throughout the story.", "answer": true, "hint": "Static means staying in place or unchanged."},
+            {"type": "multiple_choice", "question": "What drives a character's actions in a story?", "options": ["The page count", "Their motivation — what they want and why", "The weather in the setting", "The author's biography"], "correct": 1, "hint": "Characters act because they want something — that desire is their motivation."},
+            {"type": "multiple_choice", "question": "Which is an example of indirect characterization?", "options": ["'Maria was kind.'", "'Maria knelt down and helped the little boy tie his shoe, then walked him to his classroom.'", "'Maria had brown hair.'", "'Everyone said Maria was nice.'"], "correct": 1, "hint": "Which option shows kindness through actions rather than just stating it?"},
+            {"type": "true_false", "question": "The best characters are perfect and have no flaws.", "answer": false, "hint": "Flaws make characters realistic and give them room to grow."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "In dialogue, you start a new paragraph when:", "options": ["The sentence is long", "The speaker changes", "A new page begins", "The scene changes"], "correct": 1},
+          {"type": "true_false", "question": "Short sentences create fast pacing in a story.", "answer": true},
+          {"type": "multiple_choice", "question": "'The thunder clapped its angry hands' is an example of:", "options": ["Simile", "Personification", "Alliteration", "Onomatopoeia"], "correct": 1},
+          {"type": "fill_in", "question": "A character who changes throughout the story is called a ___ character.", "answer": "dynamic"},
+          {"type": "multiple_choice", "question": "Which dialogue tag is most commonly recommended?", "options": ["Exclaimed", "Vociferated", "Said", "Announced"], "correct": 2},
+          {"type": "true_false", "question": "'Show, don't tell' means using sensory details and actions instead of naming emotions directly.", "answer": true},
+          {"type": "multiple_choice", "question": "A comparison using 'like' or 'as' is a:", "options": ["Metaphor", "Simile", "Personification", "Hyperbole"], "correct": 1},
+          {"type": "multiple_choice", "question": "Pacing in a story refers to:", "options": ["How many characters are in the story", "How fast or slow the story moves", "The size of the font", "The number of chapters"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "narrative_novelist"
+      }
+    },
+    {
+      "id": "6-ela-5",
+      "title": "Vocabulary in Context",
+      "description": "Learn strategies for determining the meaning of unfamiliar words using context clues, word parts, and reference resources.",
+      "lessons": [
+        {
+          "id": "6-ela-5-1",
+          "title": "Context Clues: Definition, Synonym, and Antonym",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you encounter an unfamiliar word, the surrounding text often provides clues to its meaning. Context clues are hints that an author gives to help the reader understand new or difficult words. There are several types of context clues. A definition clue directly explains the word, often using signal words like 'which means,' 'is defined as,' or 'in other words.' A synonym clue uses a word with a similar meaning nearby, often connected by 'or' or commas. An antonym clue uses a word with the opposite meaning, often signaled by 'but,' 'unlike,' or 'however.' Learning to use context clues is one of the most important reading skills because it allows you to understand new vocabulary without constantly reaching for a dictionary.",
+            "examples": [
+              {"problem": "Use context clues: 'The arid desert, dry and barren, stretched for miles.'", "answer": "Arid means very dry.", "explanation": "The words 'dry and barren' directly describe what 'arid' means — this is a synonym/definition clue."},
+              {"problem": "Use context clues: 'Unlike her gregarious sister who loved parties, Maya was shy and preferred to be alone.'", "answer": "Gregarious means sociable or outgoing.", "explanation": "'Unlike' signals an antonym clue. Maya is shy, so her gregarious sister is the opposite — outgoing and social."},
+              {"problem": "Use context clues: 'The benevolent king, known for his kindness and generosity, lowered taxes for the poor.'", "answer": "Benevolent means kind and generous.", "explanation": "'Known for his kindness and generosity' is a definition clue that explains benevolent."}
+            ],
+            "key_vocabulary": ["context clues", "synonym", "antonym", "definition clue", "infer", "vocabulary"],
+            "real_world": "You use context clues constantly in everyday life — when someone uses a slang word you do not know, you figure out its meaning from how they use it in conversation."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are context clues?", "options": ["Definitions in a dictionary", "Hints in the surrounding text that help you understand a word", "Pictures in a textbook", "The title of a chapter"], "correct": 1, "hint": "The word 'context' means the surrounding information."},
+            {"type": "multiple_choice", "question": "'The lethargic cat, too tired to move, lay in the sun all day.' What does lethargic mean?", "options": ["Energetic", "Hungry", "Sluggish and tired", "Playful"], "correct": 2, "hint": "Look at the phrase 'too tired to move' for your clue."},
+            {"type": "fill_in", "question": "A context clue that uses a word with the opposite meaning is called an ___ clue.", "answer": "antonym", "hint": "This word means the opposite of 'synonym.'"},
+            {"type": "true_false", "question": "The word 'but' can signal an antonym context clue.", "answer": true, "hint": "'But' shows contrast, which means the second idea is opposite to the first."},
+            {"type": "multiple_choice", "question": "'She was known for her candor — in other words, her honesty and openness.' What is the context clue type?", "options": ["Antonym", "Example", "Definition", "Inference"], "correct": 2, "hint": "'In other words' signals that a definition is coming."},
+            {"type": "multiple_choice", "question": "'The food was bland, but the salsa made it flavorful.' What does bland mean?", "options": ["Spicy", "Lacking flavor", "Colorful", "Expensive"], "correct": 1, "hint": "'But' signals contrast — flavorful is the opposite of bland."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-5-2",
+          "title": "Context Clues: Example and Inference",
+          "type": "lesson",
+          "content": {
+            "explanation": "Beyond definition, synonym, and antonym clues, authors also use example clues and inference clues. Example clues provide specific instances that illustrate the unknown word's meaning, often signaled by phrases like 'such as,' 'for example,' 'including,' or 'like.' For instance, 'Nocturnal animals, such as owls, bats, and raccoons, are active at night.' The examples help you understand that nocturnal means active at night. Inference clues are the trickiest — there is no single word or phrase that gives the meaning away. Instead, you must use the overall meaning of the sentence or passage to make an educated guess about the word's meaning. Strong readers combine multiple types of context clues to build an understanding of unfamiliar vocabulary.",
+            "examples": [
+              {"problem": "'Percussion instruments, such as drums, cymbals, and tambourines, create rhythm in music.' What does percussion mean?", "answer": "Instruments played by striking or shaking.", "explanation": "The examples (drums, cymbals, tambourines) all share the quality of being hit or shaken, which defines percussion."},
+              {"problem": "'After the marathon, the exhausted runner collapsed on the grass, gasping for air, her legs trembling uncontrollably.' What does exhausted mean?", "answer": "Extremely tired.", "explanation": "No single word defines 'exhausted,' but the details — collapsing, gasping, trembling — allow you to infer extreme tiredness."},
+              {"problem": "What signal words indicate an example clue?", "answer": "'Such as,' 'for example,' 'including,' and 'like.'", "explanation": "These phrases introduce specific instances that demonstrate the meaning of the unfamiliar word."}
+            ],
+            "key_vocabulary": ["example clue", "inference clue", "signal words", "illustrate", "deduce", "context"],
+            "real_world": "Detectives use inference skills to solve cases — they gather clues and piece them together, just as readers piece together context clues to understand new words."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which signal phrase introduces an example clue?", "options": ["But", "However", "Such as", "Unlike"], "correct": 2, "hint": "This phrase introduces specific instances of something."},
+            {"type": "multiple_choice", "question": "'Reptiles, including snakes, lizards, and turtles, are cold-blooded.' What are reptiles?", "options": ["Only snakes", "Warm-blooded animals", "Animals like snakes, lizards, and turtles that are cold-blooded", "A type of insect"], "correct": 2, "hint": "The examples and the phrase 'cold-blooded' define what reptiles are."},
+            {"type": "true_false", "question": "Inference clues require the reader to use the overall meaning of the passage to guess a word's meaning.", "answer": true, "hint": "Inference means making an educated guess based on available evidence."},
+            {"type": "fill_in", "question": "Context clues that provide specific instances of a word's meaning are called ___ clues.", "answer": "example", "hint": "These clues give you specific cases or illustrations of the word."},
+            {"type": "multiple_choice", "question": "'The magician's performance was so captivating that no one in the audience looked away for even a second.' What does captivating mean?", "options": ["Boring", "Confusing", "Fascinating and attention-holding", "Scary"], "correct": 2, "hint": "The clue is that no one looked away — the performance held everyone's attention completely."},
+            {"type": "true_false", "question": "Sometimes you need to combine multiple context clues to figure out a word's meaning.", "answer": true, "hint": "A single clue might not be enough — look at everything around the unfamiliar word."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-5-3",
+          "title": "Word Parts: Prefixes, Suffixes, and Roots",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many English words are built from smaller parts: prefixes, roots, and suffixes. A root is the core of a word that carries its primary meaning. A prefix is added to the beginning of a root to change its meaning, and a suffix is added to the end to change its meaning or part of speech. For example, the root 'port' means 'to carry.' Adding the prefix 'trans-' (across) gives us 'transport' (carry across). Adding the suffix '-able' gives us 'portable' (able to be carried). Knowing common word parts is like having a secret decoder ring — it allows you to figure out the meaning of thousands of words you have never seen before. Some common prefixes include 'un-' (not), 're-' (again), 'pre-' (before), and 'mis-' (wrong). Common suffixes include '-tion' (act of), '-less' (without), '-ful' (full of), and '-ly' (in a way).",
+            "examples": [
+              {"problem": "What does 'unhappiness' mean, broken into word parts?", "answer": "un- (not) + happy (root) + -ness (state of) = the state of not being happy", "explanation": "Breaking the word into its prefix, root, and suffix reveals the meaning clearly."},
+              {"problem": "If 'bio' means 'life' and '-logy' means 'study of,' what does 'biology' mean?", "answer": "The study of life.", "explanation": "Combining the Greek root 'bio' with the suffix '-logy' gives us the meaning directly."},
+              {"problem": "What does the prefix 'mis-' mean in the word 'misunderstand'?", "answer": "Wrongly or incorrectly.", "explanation": "To misunderstand is to understand something wrongly. The prefix 'mis-' changes the meaning of 'understand' to its incorrect version."}
+            ],
+            "key_vocabulary": ["prefix", "suffix", "root word", "etymology", "word parts", "morphology"],
+            "real_world": "Medical and scientific terms are almost entirely built from Greek and Latin roots. Knowing word parts helps you understand terms like 'cardiovascular' (cardio = heart, vascular = vessels)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A prefix is added to the:", "options": ["End of a word", "Middle of a word", "Beginning of a word", "Top of a word"], "correct": 2, "hint": "'Pre' means before — a prefix comes before the root."},
+            {"type": "fill_in", "question": "The prefix 'un-' means ___.", "answer": "not", "hint": "Think of 'unhappy,' 'unfair,' or 'unable.'"},
+            {"type": "multiple_choice", "question": "If 'aud' means 'hear' and '-ible' means 'able to be,' what does 'audible' mean?", "options": ["Able to be seen", "Able to be heard", "Able to be touched", "Able to be tasted"], "correct": 1, "hint": "Think of 'audience' and 'audio' — they all relate to hearing."},
+            {"type": "true_false", "question": "The suffix '-less' means 'full of.'", "answer": false, "hint": "Think of 'careless' or 'homeless' — does '-less' add something or remove something?"},
+            {"type": "multiple_choice", "question": "What does 'rewrite' mean?", "options": ["Write badly", "Write before", "Write again", "Stop writing"], "correct": 2, "hint": "The prefix 're-' means 'again.'"},
+            {"type": "multiple_choice", "question": "Which word has a suffix that means 'without'?", "options": ["Thankful", "Hopeless", "Darkness", "Brighten"], "correct": 1, "hint": "The suffix '-less' means 'without.'"},
+            {"type": "true_false", "question": "Knowing common word parts can help you figure out the meaning of unfamiliar words.", "answer": true, "hint": "Word parts are like building blocks — understanding the pieces helps you understand the whole."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-5-4",
+          "title": "Using Reference Resources",
+          "type": "lesson",
+          "content": {
+            "explanation": "While context clues and word parts are powerful strategies, sometimes you need a reference resource to confirm or clarify a word's meaning. A dictionary provides the definition, pronunciation, part of speech, and sometimes the origin of a word. A thesaurus provides synonyms (words with similar meanings) and antonyms (words with opposite meanings), which is useful for improving your writing by finding more precise or varied words. A glossary, found at the back of textbooks, defines specialized terms used in that particular subject. When using a dictionary, pay attention to multiple definitions — many words have more than one meaning, and you need to choose the definition that fits the context. For example, 'bat' can mean a flying mammal, a piece of sports equipment, or the act of swinging at a ball.",
+            "examples": [
+              {"problem": "The word 'set' has over 400 definitions. How do you choose the right one?", "answer": "Look at the context in which the word is used and choose the definition that fits.", "explanation": "If the sentence is 'She set the table,' you need the definition related to placing or arranging, not the definition about a group or a tennis term."},
+              {"problem": "When would you use a thesaurus instead of a dictionary?", "answer": "When you know what you want to say but need a better or more specific word.", "explanation": "A thesaurus helps you find alternatives — if you have used 'happy' too many times, it can suggest 'joyful,' 'content,' or 'elated.'"},
+              {"problem": "What information does a dictionary entry typically include?", "answer": "The word's spelling, pronunciation, part of speech, definition(s), and sometimes its origin and example sentences.", "explanation": "All of this information helps you understand and use the word correctly."}
+            ],
+            "key_vocabulary": ["dictionary", "thesaurus", "glossary", "definition", "pronunciation", "part of speech"],
+            "real_world": "Online dictionaries and thesauruses are tools that professional writers use daily. Even famous authors look up words to make sure they are using them correctly."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A thesaurus is best used when you want to find:", "options": ["The pronunciation of a word", "Synonyms and antonyms", "The definition of a word", "The spelling of a word"], "correct": 1, "hint": "A thesaurus is all about alternative words with similar or opposite meanings."},
+            {"type": "true_false", "question": "Many English words have only one definition.", "answer": false, "hint": "Think about words like 'run,' 'set,' or 'right' — they have many meanings."},
+            {"type": "fill_in", "question": "A ___ is found at the back of a textbook and defines specialized terms used in that subject.", "answer": "glossary", "hint": "This reference tool is specific to one book or subject area."},
+            {"type": "multiple_choice", "question": "When a word has multiple definitions, how do you choose the right one?", "options": ["Always pick the first one", "Pick the longest definition", "Choose the definition that fits the context", "Pick a random one"], "correct": 2, "hint": "The meaning depends on how the word is used in the sentence."},
+            {"type": "multiple_choice", "question": "Which reference would help you find a more precise word for 'nice'?", "options": ["Dictionary", "Thesaurus", "Encyclopedia", "Atlas"], "correct": 1, "hint": "You know the meaning you want — you need alternative words."},
+            {"type": "true_false", "question": "A dictionary entry includes the pronunciation of a word.", "answer": true, "hint": "Dictionaries show you how to say the word, usually with phonetic symbols."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "'The timid mouse, frightened by every sound, hid in the corner.' What does timid mean?", "options": ["Brave", "Shy and easily scared", "Loud", "Fast"], "correct": 1},
+          {"type": "true_false", "question": "The prefix 're-' means 'again.'", "answer": true},
+          {"type": "multiple_choice", "question": "Which type of context clue uses 'such as' or 'for example'?", "options": ["Antonym clue", "Definition clue", "Example clue", "Inference clue"], "correct": 2},
+          {"type": "fill_in", "question": "A word part added to the end of a root word is called a ___.", "answer": "suffix"},
+          {"type": "multiple_choice", "question": "'Unlike the diligent student who always studied, her lazy brother never opened a book.' Diligent means:", "options": ["Lazy", "Hardworking", "Tired", "Smart"], "correct": 1},
+          {"type": "true_false", "question": "A thesaurus provides definitions of words.", "answer": false},
+          {"type": "multiple_choice", "question": "If 'aqua' means 'water,' what does 'aquatic' probably mean?", "options": ["Related to air", "Related to water", "Related to fire", "Related to earth"], "correct": 1},
+          {"type": "multiple_choice", "question": "The best strategy for unfamiliar words is to:", "options": ["Skip them entirely", "Use context clues, word parts, and reference resources", "Guess randomly", "Only use a dictionary"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "vocabulary_virtuoso"
+      }
+    },
+    {
+      "id": "6-ela-6",
+      "title": "Introduction to Rhetoric",
+      "description": "Discover how speakers and writers use persuasive techniques to influence an audience, including ethos, pathos, and logos.",
+      "lessons": [
+        {
+          "id": "6-ela-6-1",
+          "title": "What is Rhetoric?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rhetoric is the art of persuasion — the skill of using language effectively to convince, inform, or motivate an audience. The study of rhetoric goes back to ancient Greece, where philosophers like Aristotle identified three main appeals that speakers and writers use to persuade: ethos (credibility), pathos (emotion), and logos (logic). Every time someone tries to convince you of something — whether it is a friend persuading you to see a movie, a politician making a speech, or an advertisement selling a product — they are using rhetoric. Understanding rhetoric makes you a smarter reader, listener, and writer because you can recognize how language is being used to influence you.",
+            "examples": [
+              {"problem": "Is this rhetoric? A coach gives a halftime speech to motivate the team.", "answer": "Yes, this is rhetoric.", "explanation": "The coach is using language strategically to persuade and motivate the team — that is the essence of rhetoric."},
+              {"problem": "Who was Aristotle, and why is he important to rhetoric?", "answer": "Aristotle was an ancient Greek philosopher who identified the three main persuasive appeals: ethos, pathos, and logos.", "explanation": "His framework for understanding persuasion has been used for over 2,000 years and is still taught today."},
+              {"problem": "Where do you encounter rhetoric in everyday life?", "answer": "Advertisements, political speeches, social media posts, debates, and even everyday conversations where someone is trying to convince you of something.", "explanation": "Rhetoric is everywhere — any time language is used to persuade, rhetoric is at work."}
+            ],
+            "key_vocabulary": ["rhetoric", "persuasion", "ethos", "pathos", "logos", "audience", "appeal"],
+            "real_world": "Advertisers spend billions of dollars on rhetoric — every commercial, billboard, and social media ad is carefully designed to persuade you to buy something."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Rhetoric is the art of:", "options": ["Drawing pictures", "Persuasion through language", "Solving math problems", "Writing poetry"], "correct": 1, "hint": "Rhetoric is about using words to convince or influence others."},
+            {"type": "fill_in", "question": "The three main rhetorical appeals identified by Aristotle are ethos, pathos, and ___.", "answer": "logos", "hint": "This appeal is based on logic and reasoning."},
+            {"type": "true_false", "question": "Rhetoric is only used in formal speeches and essays.", "answer": false, "hint": "Think about how friends, advertisers, and parents use persuasion in everyday life."},
+            {"type": "multiple_choice", "question": "Which of the following is an example of rhetoric?", "options": ["A recipe for cookies", "A political campaign speech", "A math textbook", "A phone directory"], "correct": 1, "hint": "Which option involves trying to convince or motivate an audience?"},
+            {"type": "multiple_choice", "question": "Why is understanding rhetoric important?", "options": ["It helps you pass spelling tests", "It helps you recognize how language is used to influence you", "It makes you a faster reader", "It improves your handwriting"], "correct": 1, "hint": "Rhetoric awareness makes you a critical thinker who can evaluate persuasive messages."},
+            {"type": "true_false", "question": "Aristotle lived in ancient Greece.", "answer": true, "hint": "Aristotle was one of the most famous Greek philosophers, living around 384-322 BCE."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-6-2",
+          "title": "Ethos: The Appeal to Credibility",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ethos is a rhetorical appeal based on the speaker's or writer's credibility, character, and trustworthiness. When someone uses ethos, they are convincing you to believe them because of who they are — their expertise, experience, reputation, or moral character. A doctor giving health advice uses ethos because their medical training makes them credible. A celebrity endorsing a product uses ethos (though sometimes misleadingly, since being famous does not make someone an expert on everything). To build ethos, writers may mention their qualifications, use a professional tone, cite reputable sources, or demonstrate knowledge of the topic. As a critical reader, you should evaluate whether a speaker's ethos is legitimate — does their background genuinely qualify them on this topic?",
+            "examples": [
+              {"problem": "A dentist recommends a toothpaste brand. Which appeal is this?", "answer": "Ethos", "explanation": "The dentist's professional expertise gives them credibility on dental care topics."},
+              {"problem": "A student writes in an essay: 'According to Dr. Jane Smith, a leading climate scientist at NASA...' What is the student building?", "answer": "Ethos — by citing a credible expert.", "explanation": "Referring to an expert from a reputable institution builds the argument's credibility."},
+              {"problem": "Why should you question a celebrity endorsing a nutrition product?", "answer": "Because being famous does not make someone a nutrition expert. Their ethos on this topic may not be legitimate.", "explanation": "True ethos comes from relevant expertise, not just fame or popularity."}
+            ],
+            "key_vocabulary": ["ethos", "credibility", "trustworthiness", "expertise", "authority", "reputation"],
+            "real_world": "Job interviews are all about ethos — you try to convince the employer that your experience and skills make you credible and trustworthy for the position."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Ethos is an appeal based on:", "options": ["Emotion", "Logic and facts", "Credibility and trustworthiness", "Humor"], "correct": 2, "hint": "Ethos is about the character and authority of the speaker."},
+            {"type": "true_false", "question": "A famous athlete is always a credible source for medical advice.", "answer": false, "hint": "Credibility must be relevant to the topic — being famous at sports does not make someone a medical expert."},
+            {"type": "multiple_choice", "question": "Which builds ethos in an essay?", "options": ["Using slang and informal language", "Citing reputable sources and experts", "Making emotional pleas", "Using lots of exclamation points"], "correct": 1, "hint": "Ethos is strengthened by showing your sources are reliable and authoritative."},
+            {"type": "fill_in", "question": "Ethos is the Greek word for ___.", "answer": "character", "hint": "This relates to the speaker's moral qualities and reputation."},
+            {"type": "multiple_choice", "question": "A fire chief speaks about fire safety. Why is this an example of ethos?", "options": ["Because fire chiefs are funny", "Because the fire chief has professional expertise in fire safety", "Because fires are scary", "Because fire chiefs are famous"], "correct": 1, "hint": "The fire chief's experience and training make them a credible authority on this topic."},
+            {"type": "true_false", "question": "Using a professional and knowledgeable tone helps build ethos in writing.", "answer": true, "hint": "Sounding informed and respectful makes the audience more likely to trust you."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-6-3",
+          "title": "Pathos: The Appeal to Emotion",
+          "type": "lesson",
+          "content": {
+            "explanation": "Pathos is a rhetorical appeal that targets the audience's emotions. Writers and speakers use pathos to make their audience feel something — sympathy, anger, joy, fear, pride, or sadness — in order to persuade them. Pathos is powerful because humans are emotional beings; we often make decisions based on how we feel. Techniques for creating pathos include vivid storytelling, emotional language, personal anecdotes, powerful imagery, and rhetorical questions. For example, an animal shelter might show pictures of sad puppies to make you feel compassion and donate money. While pathos is a legitimate and effective tool, it can also be used to manipulate. Critical readers should ask: 'Is this appeal to emotion being used to support a good argument, or is it being used to distract me from weak reasoning?'",
+            "examples": [
+              {"problem": "'Imagine a child, cold and hungry, with no one to turn to. Your donation can change that child's life.' Which appeal is this?", "answer": "Pathos", "explanation": "The vivid image of a suffering child is designed to evoke sympathy and compassion, motivating the audience to donate."},
+              {"problem": "A commercial shows a family laughing and hugging while eating a certain brand of cereal. What appeal is being used?", "answer": "Pathos — the commercial associates the cereal with feelings of happiness and family love.", "explanation": "The commercial does not argue that the cereal is nutritious (logos) or cite experts (ethos) — it makes you feel warm emotions."},
+              {"problem": "When can pathos be misleading?", "answer": "When it is used to manipulate emotions to distract from a weak argument or lack of evidence.", "explanation": "For example, a politician might tell a sad story to distract from the fact that their policy has no factual support."}
+            ],
+            "key_vocabulary": ["pathos", "emotion", "empathy", "sympathy", "imagery", "anecdote", "manipulation"],
+            "real_world": "Charity organizations use pathos constantly — emotional stories and images motivate people to donate. Movie trailers use pathos to make you excited to see a film."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Pathos appeals to the audience's:", "options": ["Logic", "Credibility", "Emotions", "Vocabulary"], "correct": 2, "hint": "Pathos comes from the Greek word for 'suffering' or 'feeling.'"},
+            {"type": "true_false", "question": "Pathos can be used to manipulate an audience.", "answer": true, "hint": "While emotions are powerful, they can be exploited to distract from weak arguments."},
+            {"type": "multiple_choice", "question": "Which is an example of pathos?", "options": ["'Studies show that 90% of scientists agree.'", "'As a doctor with 20 years of experience...'", "'Picture your grandmother's face lighting up when she opens your gift.'", "'The data clearly supports this conclusion.'"], "correct": 2, "hint": "Which option makes you feel something emotional?"},
+            {"type": "fill_in", "question": "A short personal story used to create an emotional connection is called an ___.", "answer": "anecdote", "hint": "This is a brief narrative about a real experience."},
+            {"type": "multiple_choice", "question": "How should a critical reader respond to pathos?", "options": ["Ignore all emotional appeals", "Consider whether the emotion supports a strong argument or distracts from a weak one", "Only trust arguments that make them cry", "Believe everything that makes them feel happy"], "correct": 1, "hint": "Emotions are valid, but they should not replace evidence and logic."},
+            {"type": "true_false", "question": "A rhetorical question can be a form of pathos.", "answer": true, "hint": "Questions like 'Don't you want a better future for your children?' appeal to emotions."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-6-4",
+          "title": "Logos: The Appeal to Logic",
+          "type": "lesson",
+          "content": {
+            "explanation": "Logos is a rhetorical appeal based on logic, reasoning, and evidence. When someone uses logos, they present facts, statistics, data, logical arguments, and clear reasoning to convince the audience. Logos is the backbone of strong academic and professional writing. Examples of logos include citing research studies, providing statistical data, using cause-and-effect reasoning, making logical comparisons, and presenting a well-organized argument. A logos-based argument says, 'Here are the facts and the logical reasoning — the conclusion is clear.' While logos is generally the most reliable appeal, it is important to check that the facts are accurate, the statistics are not misleading, and the reasoning does not contain logical fallacies (errors in reasoning).",
+            "examples": [
+              {"problem": "'Students who read for 30 minutes daily score 20% higher on reading tests.' Which appeal is this?", "answer": "Logos", "explanation": "This statement presents specific data (30 minutes, 20% higher) to make a logical, evidence-based argument."},
+              {"problem": "'If we reduce class sizes, teachers can give more individual attention to each student, which research shows improves learning outcomes.' What appeal is this?", "answer": "Logos — cause-and-effect reasoning supported by research.", "explanation": "The argument follows a logical chain: smaller classes lead to more attention, which leads to better outcomes, supported by evidence."},
+              {"problem": "Can logos be misleading?", "answer": "Yes, if the statistics are taken out of context, the data is cherry-picked, or the reasoning contains logical fallacies.", "explanation": "Just because something sounds logical does not mean it is true — always evaluate the quality of the evidence and reasoning."}
+            ],
+            "key_vocabulary": ["logos", "logic", "reasoning", "evidence", "statistics", "data", "logical fallacy"],
+            "real_world": "Scientists use logos when they present research findings. In court, lawyers use logos when they present evidence and logical arguments to prove their case."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Logos is an appeal based on:", "options": ["Emotion", "Character", "Logic and evidence", "Humor"], "correct": 2, "hint": "Logos comes from the Greek word for 'reason' or 'word.'"},
+            {"type": "true_false", "question": "Statistics and data are examples of logos.", "answer": true, "hint": "Numbers and research findings support logical arguments."},
+            {"type": "multiple_choice", "question": "Which is an example of logos?", "options": ["'Imagine how proud your parents will be.'", "'Trust me, I have been doing this for years.'", "'According to a study by Harvard, students who sleep 8 hours perform 25% better on exams.'", "'Everyone is doing it, so you should too.'"], "correct": 2, "hint": "Which option uses specific evidence and research to make its point?"},
+            {"type": "fill_in", "question": "An error in reasoning is called a logical ___.", "answer": "fallacy", "hint": "This word means a mistaken belief or flawed argument."},
+            {"type": "multiple_choice", "question": "Why is logos important in academic writing?", "options": ["It makes essays emotional", "It adds humor", "It ensures arguments are based on evidence and sound reasoning", "It makes essays longer"], "correct": 2, "hint": "Academic writing values facts and logic over emotion."},
+            {"type": "multiple_choice", "question": "Which would strengthen a logos-based argument about school lunches?", "options": ["A sad story about a hungry child", "A celebrity endorsement", "Nutritional data comparing current and proposed menus", "A colorful poster"], "correct": 2, "hint": "Logos relies on concrete data and evidence."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ela-6-5",
+          "title": "Identifying Rhetorical Appeals in Texts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now that you understand ethos, pathos, and logos individually, the key skill is identifying them when they appear together in a text. Most persuasive texts use a combination of all three appeals. A strong argument balances logos (solid evidence), ethos (credible sources), and pathos (emotional connection). When analyzing a text, ask three questions: What evidence and logic does the author use? (logos) Why should I trust this author? (ethos) What emotions does the author try to make me feel? (pathos) Then evaluate whether the appeals are used effectively and ethically. A well-crafted argument blends all three seamlessly, while a weak or manipulative argument may rely too heavily on one appeal while neglecting the others.",
+            "examples": [
+              {"problem": "Identify the appeals: 'As a pediatrician for 15 years (ethos), I have seen the data showing that screen time over 2 hours harms children's development (logos). Think about your child's future — don't you want them to thrive? (pathos)'", "answer": "All three: ethos (doctor's credentials), logos (data about screen time), pathos (concern for child's future).", "explanation": "The author strategically uses all three appeals to build a convincing case."},
+              {"problem": "A car commercial shows a family driving through beautiful scenery with dramatic music. At the end, it says 'Rated #1 in safety by Consumer Reports.' Identify the appeals.", "answer": "Pathos (beautiful scenery, emotional music, family) and logos (safety rating from a credible source). The source also adds ethos.", "explanation": "The commercial blends emotional imagery with factual evidence to persuade buyers."},
+              {"problem": "An essay argues for more recess time but only says 'kids deserve to have fun.' What appeal is missing?", "answer": "Logos — the essay needs evidence such as studies showing the academic and health benefits of recess.", "explanation": "Relying only on pathos makes the argument feel weak. Adding logos would strengthen it significantly."}
+            ],
+            "key_vocabulary": ["rhetorical analysis", "persuasive technique", "balanced argument", "appeal", "evaluate", "ethical"],
+            "real_world": "Being able to identify rhetorical appeals helps you evaluate everything from political speeches to social media posts to advertisements, making you a more informed citizen."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A strong persuasive text usually uses:", "options": ["Only pathos", "Only logos", "Only ethos", "A combination of ethos, pathos, and logos"], "correct": 3, "hint": "The best arguments appeal to credibility, emotion, and logic together."},
+            {"type": "multiple_choice", "question": "'As a former Marine and father of three, I urge you to support this safety measure. The data shows it will reduce accidents by 40%. Your family's safety is at stake.' Which appeals are present?", "options": ["Only pathos", "Only logos", "Only ethos", "Ethos, logos, and pathos"], "correct": 3, "hint": "Look for credentials (ethos), data (logos), and emotional language (pathos)."},
+            {"type": "true_false", "question": "An argument that relies only on emotion with no evidence is always the strongest type of argument.", "answer": false, "hint": "Without evidence, an emotional argument can be manipulative and unconvincing to critical thinkers."},
+            {"type": "fill_in", "question": "When you examine how a text uses rhetorical appeals, you are performing rhetorical ___.", "answer": "analysis", "hint": "This means breaking something down to understand how it works."},
+            {"type": "multiple_choice", "question": "A classmate argues 'You should vote for me for class president because I will make Fridays fun days.' What appeal is primarily being used?", "options": ["Ethos", "Logos", "Pathos", "All three equally"], "correct": 2, "hint": "The argument appeals to the desire for fun (emotion) without offering credentials or evidence."},
+            {"type": "true_false", "question": "Understanding rhetorical appeals helps you think critically about the messages you encounter daily.", "answer": true, "hint": "Recognizing persuasive techniques makes you a smarter consumer of information."},
+            {"type": "multiple_choice", "question": "Which question helps identify ethos in a text?", "options": ["What evidence is presented?", "What emotions does the author evoke?", "Why should I trust this author?", "How long is the text?"], "correct": 2, "hint": "Ethos is about the author's credibility and trustworthiness."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Rhetoric is:", "options": ["A type of poetry", "The art of persuasion through language", "A grammar rule", "A type of fiction"], "correct": 1},
+          {"type": "fill_in", "question": "The rhetorical appeal based on credibility is called ___.", "answer": "ethos"},
+          {"type": "multiple_choice", "question": "Which is an example of pathos?", "options": ["Citing a research study", "Mentioning your professional qualifications", "Describing a heart-wrenching personal story", "Presenting a logical argument"], "correct": 2},
+          {"type": "true_false", "question": "Logos relies on facts, statistics, and logical reasoning.", "answer": true},
+          {"type": "multiple_choice", "question": "A doctor recommending a medication is primarily an example of:", "options": ["Pathos", "Logos", "Ethos", "Hyperbole"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which rhetorical appeal is being used? 'According to NASA, global temperatures have risen 1.8 degrees Fahrenheit since 1880.'", "options": ["Pathos", "Ethos and logos", "Only ethos", "Only pathos"], "correct": 1},
+          {"type": "true_false", "question": "A well-balanced argument uses only one rhetorical appeal.", "answer": false},
+          {"type": "multiple_choice", "question": "An error in reasoning is called a:", "options": ["Rhetorical device", "Logical fallacy", "Thesis statement", "Transition word"], "correct": 1},
+          {"type": "multiple_choice", "question": "Why is it important to recognize rhetorical appeals?", "options": ["To avoid reading", "To think critically about how language is used to influence you", "To write longer essays", "To memorize vocabulary"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rhetoric_rookie"
+      }
+    }
+  ]
+}

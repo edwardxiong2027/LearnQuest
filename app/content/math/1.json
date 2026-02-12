@@ -1,0 +1,739 @@
+{
+  "grade": 1,
+  "subject": "math",
+  "units": [
+    {
+      "id": "1-math-1",
+      "title": "Addition within 20",
+      "description": "Master addition with single-digit and teen numbers, including doubles, near doubles, and making 10.",
+      "lessons": [
+        {
+          "id": "1-math-1-1",
+          "title": "Adding Single Digits",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we add two small numbers, we put them together to find the total. You can count on from the bigger number. For example, to add 3 + 5, start at 5 and count on 3 more: 6, 7, 8. The answer is 8! It's faster to start from the bigger number.",
+            "examples": [
+              {"problem": "3 + 4", "answer": "7", "explanation": "Start at 4 (the bigger number) and count on 3 more: 5, 6, 7. The answer is 7!"},
+              {"problem": "6 + 2", "answer": "8", "explanation": "Start at 6 and count on 2 more: 7, 8. The answer is 8!"},
+              {"problem": "5 + 4", "answer": "9", "explanation": "Start at 5 and count on 4 more: 6, 7, 8, 9. The answer is 9!"}
+            ],
+            "key_vocabulary": ["add", "plus", "sum", "total", "count on", "altogether"],
+            "real_world": "If you pick 4 flowers in the morning and 5 flowers in the afternoon, you have 4 + 5 = 9 flowers altogether!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "3 + 5 = ___", "answer": "8", "hint": "Start at 5 and count on 3 more."},
+            {"type": "fill_in", "question": "7 + 2 = ___", "answer": "9", "hint": "Start at 7, count on 2: 8, 9."},
+            {"type": "multiple_choice", "question": "4 + 3 = ?", "options": ["6", "7", "8", "9"], "correct": 1, "hint": "Start at 4, count on 3."},
+            {"type": "fill_in", "question": "6 + 3 = ___", "answer": "9", "hint": "Start at 6 and count on 3."},
+            {"type": "multiple_choice", "question": "5 + 3 = ?", "options": ["7", "8", "9", "10"], "correct": 1, "hint": "Start at 5, count on 3: 6, 7, 8."},
+            {"type": "word_problem", "question": "Sam has 4 toy cars. He gets 5 more for his birthday. How many toy cars does Sam have now?", "answer": "9", "operation": "4 + 5", "hint": "Add the two groups together."},
+            {"type": "fill_in", "question": "2 + 6 = ___", "answer": "8", "hint": "Start at 6 (bigger number), count on 2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-1-2",
+          "title": "Doubles Facts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Doubles are when you add a number to itself! 1+1, 2+2, 3+3, 4+4, 5+5, and so on. Doubles are special and worth memorizing because they help you solve other problems too. 2+2=4, 3+3=6, 4+4=8, 5+5=10. See the pattern? The answer is always an even number!",
+            "examples": [
+              {"problem": "3 + 3", "answer": "6", "explanation": "Double 3 is 6! Think of 3 fingers on each hand: 6 fingers total."},
+              {"problem": "5 + 5", "answer": "10", "explanation": "Double 5 is 10! Like 5 fingers on each hand = 10 fingers."},
+              {"problem": "4 + 4", "answer": "8", "explanation": "Double 4 is 8! Think of 4 legs on one dog and 4 legs on another dog. That's 8 legs!"}
+            ],
+            "key_vocabulary": ["doubles", "same number", "double", "twice"],
+            "real_world": "If you and your friend each bring 6 cookies to share, there are 6 + 6 = 12 cookies in all!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "2 + 2 = ___", "answer": "4", "hint": "Double 2!"},
+            {"type": "fill_in", "question": "6 + 6 = ___", "answer": "12", "hint": "Double 6!"},
+            {"type": "multiple_choice", "question": "7 + 7 = ?", "options": ["12", "13", "14", "15"], "correct": 2, "hint": "Double 7!"},
+            {"type": "fill_in", "question": "8 + 8 = ___", "answer": "16", "hint": "Double 8!"},
+            {"type": "fill_in", "question": "9 + 9 = ___", "answer": "18", "hint": "Double 9!"},
+            {"type": "multiple_choice", "question": "1 + 1 = ?", "options": ["1", "2", "3", "11"], "correct": 1, "hint": "Double 1!"},
+            {"type": "word_problem", "question": "Each twin has 5 marbles. How many marbles do they have together?", "answer": "10", "operation": "5 + 5", "hint": "They each have the same amount. Add 5 + 5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-1-3",
+          "title": "Near Doubles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Near doubles are problems where the two numbers are just 1 apart, like 3+4 or 6+7. You can use your doubles facts to solve them! If you know 3+3=6, then 3+4 is just 1 more, so 3+4=7. If you know 6+6=12, then 6+7 is 1 more, so 6+7=13. Doubles plus one!",
+            "examples": [
+              {"problem": "4 + 5", "answer": "9", "explanation": "Think: 4+4=8, and 5 is one more than 4, so 4+5=8+1=9!"},
+              {"problem": "7 + 8", "answer": "15", "explanation": "Think: 7+7=14, and 8 is one more than 7, so 7+8=14+1=15!"},
+              {"problem": "3 + 4", "answer": "7", "explanation": "Think: 3+3=6, and 4 is one more than 3, so 3+4=6+1=7!"}
+            ],
+            "key_vocabulary": ["near doubles", "doubles plus one", "one more", "strategy"],
+            "real_world": "If two boxes have almost the same number of crayons (like 5 and 6), you can use near doubles to quickly find the total: 5+6=11!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "5 + 6 = ___", "answer": "11", "hint": "Think: 5+5=10, plus 1 more = 11."},
+            {"type": "fill_in", "question": "6 + 7 = ___", "answer": "13", "hint": "Think: 6+6=12, plus 1 more = 13."},
+            {"type": "multiple_choice", "question": "8 + 9 = ?", "options": ["15", "16", "17", "18"], "correct": 2, "hint": "Think: 8+8=16, plus 1 more."},
+            {"type": "fill_in", "question": "2 + 3 = ___", "answer": "5", "hint": "Think: 2+2=4, plus 1 more."},
+            {"type": "multiple_choice", "question": "4 + 3 = ?", "options": ["5", "6", "7", "8"], "correct": 2, "hint": "Think: 3+3=6, plus 1 more."},
+            {"type": "fill_in", "question": "7 + 6 = ___", "answer": "13", "hint": "Think: 6+6=12, plus 1 more."},
+            {"type": "word_problem", "question": "Mia has 8 grapes. Leo has 9 grapes. How many grapes do they have together?", "answer": "17", "operation": "8 + 9", "hint": "Near doubles: 8+8=16, plus 1 more."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-1-4",
+          "title": "Making 10",
+          "type": "lesson",
+          "content": {
+            "explanation": "Making 10 is a powerful strategy! When you add two numbers, see if you can make a 10 first. For example, 8+5: take 2 from the 5 to make the 8 into 10. Now you have 10+3=13! The pairs that make 10 are: 1+9, 2+8, 3+7, 4+6, 5+5. Memorize these!",
+            "examples": [
+              {"problem": "8 + 5", "answer": "13", "explanation": "Take 2 from the 5 and give it to the 8. Now you have 10 + 3 = 13!"},
+              {"problem": "9 + 4", "answer": "13", "explanation": "Take 1 from the 4 and give it to the 9. Now you have 10 + 3 = 13!"},
+              {"problem": "7 + 6", "answer": "13", "explanation": "Take 3 from the 6 and give it to the 7. Now you have 10 + 3 = 13!"}
+            ],
+            "key_vocabulary": ["make 10", "ten", "strategy", "break apart", "partners of 10"],
+            "real_world": "If you have 7 red crayons and 5 blue crayons, you can think: 7 needs 3 more to make 10, take 3 from 5, leaving 2. So 10 + 2 = 12 crayons total!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "What number goes with 6 to make 10? ___", "answer": "4", "hint": "6 + ? = 10"},
+            {"type": "fill_in", "question": "What number goes with 3 to make 10? ___", "answer": "7", "hint": "3 + ? = 10"},
+            {"type": "fill_in", "question": "9 + 6 = ___ (use making 10)", "answer": "15", "hint": "9 needs 1 more to make 10. Take 1 from 6 to get 10 + 5."},
+            {"type": "multiple_choice", "question": "8 + 4 = ?", "options": ["11", "12", "13", "14"], "correct": 1, "hint": "8 needs 2 to make 10. Take 2 from 4. 10 + 2 = ?"},
+            {"type": "fill_in", "question": "7 + 5 = ___", "answer": "12", "hint": "7 needs 3 to make 10. Take 3 from 5. 10 + 2 = 12."},
+            {"type": "multiple_choice", "question": "What two numbers make 10?", "options": ["3 and 6", "2 and 8", "4 and 5", "1 and 8"], "correct": 1, "hint": "Try adding each pair. Which equals 10?"},
+            {"type": "fill_in", "question": "9 + 7 = ___", "answer": "16", "hint": "9 needs 1 to make 10. Take 1 from 7. 10 + 6 = 16."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-1-5",
+          "title": "Adding Three Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes we add three numbers together! Look for numbers that make 10 or doubles to make it easier. For example, 3 + 7 + 2: notice 3+7=10, then add 2 more for 12. You can add the numbers in any order and get the same answer!",
+            "examples": [
+              {"problem": "2 + 5 + 5", "answer": "12", "explanation": "Notice the doubles: 5+5=10. Then add 2 more: 10+2=12!"},
+              {"problem": "4 + 6 + 3", "answer": "13", "explanation": "4+6=10 (make 10 strategy!). Then add 3: 10+3=13!"},
+              {"problem": "3 + 3 + 4", "answer": "10", "explanation": "3+3=6 (doubles!). Then add 4: 6+4=10!"}
+            ],
+            "key_vocabulary": ["three addends", "add in any order", "group", "strategy"],
+            "real_world": "If you find 3 shells in the morning, 5 at lunch, and 2 in the afternoon, how many total? 3+5+2=10 shells!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "2 + 8 + 1 = ___", "answer": "11", "hint": "2+8=10, then add 1 more."},
+            {"type": "fill_in", "question": "4 + 4 + 2 = ___", "answer": "10", "hint": "4+4=8, then 8+2=10."},
+            {"type": "multiple_choice", "question": "3 + 7 + 5 = ?", "options": ["13", "14", "15", "16"], "correct": 2, "hint": "3+7=10, then add 5 more."},
+            {"type": "fill_in", "question": "5 + 5 + 3 = ___", "answer": "13", "hint": "5+5=10, then add 3."},
+            {"type": "word_problem", "question": "You eat 2 grapes, then 6 grapes, then 4 grapes. How many grapes did you eat in all?", "answer": "12", "operation": "2 + 6 + 4", "hint": "6+4=10, then 10+2=12."},
+            {"type": "fill_in", "question": "1 + 9 + 3 = ___", "answer": "13", "hint": "1+9=10, then 10+3=13."},
+            {"type": "multiple_choice", "question": "6 + 2 + 4 = ?", "options": ["10", "11", "12", "13"], "correct": 2, "hint": "6+4=10, then add 2 more."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "8 + 7 = ___", "answer": "15", "hint": "Near doubles or make 10."},
+          {"type": "multiple_choice", "question": "6 + 6 = ?", "options": ["10", "11", "12", "13"], "correct": 2, "hint": "Double 6."},
+          {"type": "fill_in", "question": "9 + 5 = ___", "answer": "14", "hint": "9+1=10, 10+4=14."},
+          {"type": "word_problem", "question": "Lily has 7 stickers. She gets 8 more. How many stickers does she have?", "answer": "15", "operation": "7 + 8", "hint": "Near doubles: 7+7=14, plus 1 more."},
+          {"type": "fill_in", "question": "3 + 7 + 4 = ___", "answer": "14", "hint": "3+7=10, then 10+4=14."},
+          {"type": "multiple_choice", "question": "What number goes with 8 to make 10?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "8 + ? = 10"},
+          {"type": "fill_in", "question": "9 + 9 = ___", "answer": "18", "hint": "Double 9."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "addition_ace"
+      }
+    },
+    {
+      "id": "1-math-2",
+      "title": "Subtraction within 20",
+      "description": "Learn subtraction strategies including counting back, using related addition facts, and fact families.",
+      "lessons": [
+        {
+          "id": "1-math-2-1",
+          "title": "Subtracting Single Digits",
+          "type": "lesson",
+          "content": {
+            "explanation": "To subtract, you can count back from the bigger number. For 8 - 3, start at 8 and count back 3: 7, 6, 5. The answer is 5! You can also use your fingers. Hold up 8 fingers, then put down 3, and count what's left.",
+            "examples": [
+              {"problem": "9 - 4", "answer": "5", "explanation": "Start at 9 and count back 4: 8, 7, 6, 5. The answer is 5!"},
+              {"problem": "7 - 3", "answer": "4", "explanation": "Start at 7 and count back 3: 6, 5, 4. The answer is 4!"},
+              {"problem": "10 - 6", "answer": "4", "explanation": "Start at 10 and count back 6: 9, 8, 7, 6, 5, 4. The answer is 4!"}
+            ],
+            "key_vocabulary": ["subtract", "minus", "count back", "difference", "take away", "remaining"],
+            "real_world": "If you have 9 candies and eat 4, count back from 9: 8, 7, 6, 5. You have 5 candies left!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "8 - 3 = ___", "answer": "5", "hint": "Start at 8, count back 3: 7, 6, 5."},
+            {"type": "fill_in", "question": "7 - 2 = ___", "answer": "5", "hint": "Start at 7, count back 2."},
+            {"type": "multiple_choice", "question": "10 - 4 = ?", "options": ["5", "6", "7", "8"], "correct": 1, "hint": "Start at 10, count back 4."},
+            {"type": "fill_in", "question": "6 - 1 = ___", "answer": "5", "hint": "Start at 6, count back 1."},
+            {"type": "multiple_choice", "question": "9 - 5 = ?", "options": ["3", "4", "5", "6"], "correct": 1, "hint": "Start at 9, count back 5."},
+            {"type": "word_problem", "question": "There are 8 birds on a fence. 5 fly away. How many are left?", "answer": "3", "operation": "8 - 5", "hint": "Start at 8, count back 5."},
+            {"type": "fill_in", "question": "10 - 7 = ___", "answer": "3", "hint": "Start at 10, count back 7."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-2-2",
+          "title": "Subtracting from Teen Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To subtract from numbers like 13, 15, or 18, you can think about making 10 first. For example, 14 - 6: think of 14 as 10 + 4. Take away 4 first to get to 10, then take away 2 more (because 4+2=6). So 14 - 6 = 8!",
+            "examples": [
+              {"problem": "13 - 5", "answer": "8", "explanation": "13 minus 3 gets to 10. Then minus 2 more (because 3+2=5). 10 - 2 = 8!"},
+              {"problem": "15 - 7", "answer": "8", "explanation": "15 minus 5 gets to 10. Then minus 2 more (because 5+2=7). 10 - 2 = 8!"},
+              {"problem": "11 - 4", "answer": "7", "explanation": "11 minus 1 gets to 10. Then minus 3 more (because 1+3=4). 10 - 3 = 7!"}
+            ],
+            "key_vocabulary": ["teen number", "get to 10", "break apart", "subtract"],
+            "real_world": "If you have 16 stickers and give 9 to a friend, think: 16 minus 6 gets to 10, minus 3 more gets to 7. You have 7 stickers left!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "12 - 5 = ___", "answer": "7", "hint": "Get to 10 first: 12-2=10, then 10-3=7."},
+            {"type": "fill_in", "question": "14 - 8 = ___", "answer": "6", "hint": "14-4=10, 10-4=6."},
+            {"type": "multiple_choice", "question": "16 - 9 = ?", "options": ["5", "6", "7", "8"], "correct": 2, "hint": "16-6=10, 10-3=7."},
+            {"type": "fill_in", "question": "11 - 3 = ___", "answer": "8", "hint": "11-1=10, 10-2=8."},
+            {"type": "multiple_choice", "question": "15 - 6 = ?", "options": ["8", "9", "10", "11"], "correct": 1, "hint": "15-5=10, 10-1=9."},
+            {"type": "word_problem", "question": "There were 17 kids at the park. 8 went home. How many are still at the park?", "answer": "9", "operation": "17 - 8", "hint": "17-7=10, 10-1=9."},
+            {"type": "fill_in", "question": "18 - 9 = ___", "answer": "9", "hint": "18-8=10, 10-1=9."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-2-3",
+          "title": "Related Addition and Subtraction Facts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Addition and subtraction are related! If you know that 7 + 5 = 12, then you also know that 12 - 5 = 7 and 12 - 7 = 5. This is called using a related fact. If you can't remember a subtraction fact, think of the related addition fact!",
+            "examples": [
+              {"problem": "If 8 + 6 = 14, what is 14 - 6?", "answer": "8", "explanation": "Since 8 + 6 = 14, we know 14 - 6 = 8. The addition and subtraction are related!"},
+              {"problem": "If 9 + 3 = 12, what is 12 - 9?", "answer": "3", "explanation": "Since 9 + 3 = 12, we know 12 - 9 = 3!"},
+              {"problem": "13 - 7 = ? Think: 7 + ? = 13", "answer": "6", "explanation": "Think: 7 + 6 = 13, so 13 - 7 = 6!"}
+            ],
+            "key_vocabulary": ["related facts", "addition fact", "subtraction fact", "think addition"],
+            "real_world": "If you know 5 + 4 = 9, then you can quickly figure out 9 - 4 = 5 without counting back!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "If 6 + 8 = 14, then 14 - 8 = ___", "answer": "6", "hint": "Use the related addition fact."},
+            {"type": "fill_in", "question": "If 7 + 9 = 16, then 16 - 7 = ___", "answer": "9", "hint": "Use the related addition fact."},
+            {"type": "multiple_choice", "question": "If 5 + 7 = 12, then 12 - 5 = ?", "options": ["5", "6", "7", "8"], "correct": 2, "hint": "Use the addition fact: 5 + ? = 12"},
+            {"type": "fill_in", "question": "15 - 8 = ___ (think: 8 + ? = 15)", "answer": "7", "hint": "What plus 8 equals 15?"},
+            {"type": "fill_in", "question": "11 - 6 = ___ (think: 6 + ? = 11)", "answer": "5", "hint": "What plus 6 equals 11?"},
+            {"type": "multiple_choice", "question": "If 4 + 9 = 13, then 13 - 4 = ?", "options": ["4", "7", "8", "9"], "correct": 3, "hint": "Use the related fact. 4 + 9 = 13, so 13 - 4 = 9."},
+            {"type": "fill_in", "question": "17 - 9 = ___ (think: 9 + ? = 17)", "answer": "8", "hint": "What plus 9 equals 17?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-2-4",
+          "title": "Fact Families",
+          "type": "lesson",
+          "content": {
+            "explanation": "A fact family is a group of related addition and subtraction facts that use the same three numbers. For the numbers 3, 5, and 8: 3+5=8, 5+3=8, 8-3=5, 8-5=3. That's four facts in one family! Knowing one fact helps you know all four.",
+            "examples": [
+              {"problem": "Write the fact family for 4, 7, and 11", "answer": "4+7=11, 7+4=11, 11-4=7, 11-7=4", "explanation": "All four facts use the same numbers: 4, 7, and 11."},
+              {"problem": "Write the fact family for 6, 9, and 15", "answer": "6+9=15, 9+6=15, 15-6=9, 15-9=6", "explanation": "The three numbers 6, 9, and 15 make up this whole family of facts!"},
+              {"problem": "If 8 + 5 = 13, name another fact in the family.", "answer": "13 - 5 = 8", "explanation": "The fact family for 5, 8, and 13 includes: 5+8=13, 8+5=13, 13-5=8, 13-8=5."}
+            ],
+            "key_vocabulary": ["fact family", "related facts", "addition", "subtraction", "three numbers"],
+            "real_world": "Fact families are like a real family - the same people (numbers) show up in different combinations!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Fact family: 3 + 9 = 12, 9 + 3 = 12, 12 - 3 = 9, 12 - 9 = ___", "answer": "3", "hint": "What is left when you take 9 from 12?"},
+            {"type": "multiple_choice", "question": "Which is NOT in the fact family for 5, 8, and 13?", "options": ["5 + 8 = 13", "13 - 5 = 8", "8 + 5 = 13", "8 - 5 = 3"], "correct": 3, "hint": "The fact family only uses 5, 8, and 13."},
+            {"type": "fill_in", "question": "6 + 7 = 13. Name one subtraction fact in this family: 13 - 7 = ___", "answer": "6", "hint": "Use the same three numbers: 6, 7, 13."},
+            {"type": "fill_in", "question": "Fact family for 4, 8, 12: 4 + 8 = 12, 8 + 4 = 12, 12 - 8 = 4, 12 - 4 = ___", "answer": "8", "hint": "12 minus 4 equals?"},
+            {"type": "multiple_choice", "question": "What three numbers make up the fact family: 9+7=16, 7+9=16, 16-9=7, 16-7=9?", "options": ["7, 9, 16", "7, 9, 15", "9, 16, 25", "7, 16, 23"], "correct": 0, "hint": "Look at the numbers used in all four facts."},
+            {"type": "fill_in", "question": "The fact family for 2, 9, and 11: 2 + 9 = ___", "answer": "11", "hint": "Add 2 and 9."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "15 - 7 = ___", "answer": "8", "hint": "Think: 7 + ? = 15."},
+          {"type": "multiple_choice", "question": "12 - 5 = ?", "options": ["6", "7", "8", "9"], "correct": 1, "hint": "Count back from 12 or think addition."},
+          {"type": "fill_in", "question": "If 8 + 9 = 17, then 17 - 9 = ___", "answer": "8", "hint": "Related facts!"},
+          {"type": "word_problem", "question": "Amy had 14 erasers. She gave 6 to her friend. How many does she have left?", "answer": "8", "operation": "14 - 6", "hint": "14 minus 6."},
+          {"type": "fill_in", "question": "Fact family: 5 + 6 = 11, 6 + 5 = 11, 11 - 5 = 6, 11 - 6 = ___", "answer": "5", "hint": "Use the same three numbers."},
+          {"type": "multiple_choice", "question": "16 - 8 = ?", "options": ["6", "7", "8", "9"], "correct": 2, "hint": "Think: 8 + 8 = 16, so 16 - 8 = 8."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "subtraction_star"
+      }
+    },
+    {
+      "id": "1-math-3",
+      "title": "Place Value",
+      "description": "Understand tens and ones, read 2-digit numbers, and write numbers in expanded form.",
+      "lessons": [
+        {
+          "id": "1-math-3-1",
+          "title": "Tens and Ones",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every two-digit number is made of tens and ones. A ten is a group of 10 things bundled together. The digit on the left tells how many tens. The digit on the right tells how many ones. For example, 34 has 3 tens and 4 ones. That's 30 + 4 = 34!",
+            "examples": [
+              {"problem": "How many tens and ones in 25?", "answer": "2 tens and 5 ones", "explanation": "The 2 is in the tens place (2 groups of ten = 20). The 5 is in the ones place. 20 + 5 = 25!"},
+              {"problem": "How many tens and ones in 47?", "answer": "4 tens and 7 ones", "explanation": "4 tens means 40. Plus 7 ones. 40 + 7 = 47!"},
+              {"problem": "What number has 6 tens and 3 ones?", "answer": "63", "explanation": "6 tens = 60, and 3 ones = 3. Together: 60 + 3 = 63!"}
+            ],
+            "key_vocabulary": ["tens", "ones", "place value", "digit", "two-digit number"],
+            "real_world": "Think of packing crayons: if you put 10 in each box, 3 boxes and 2 loose crayons = 32 crayons!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "How many tens in 58? ___", "answer": "5", "hint": "The left digit tells the tens."},
+            {"type": "fill_in", "question": "How many ones in 58? ___", "answer": "8", "hint": "The right digit tells the ones."},
+            {"type": "multiple_choice", "question": "What number has 7 tens and 2 ones?", "options": ["27", "72", "702", "207"], "correct": 1, "hint": "7 tens = 70, plus 2 ones = 72."},
+            {"type": "fill_in", "question": "In the number 41, how many tens? ___", "answer": "4", "hint": "Look at the first digit."},
+            {"type": "fill_in", "question": "What number has 3 tens and 9 ones? ___", "answer": "39", "hint": "3 tens = 30, plus 9 = 39."},
+            {"type": "multiple_choice", "question": "Which number has 8 tens and 0 ones?", "options": ["08", "80", "800", "8"], "correct": 1, "hint": "8 tens = 80, plus 0 ones = 80."},
+            {"type": "fill_in", "question": "How many ones in 90? ___", "answer": "0", "hint": "90 has 9 tens and how many ones?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-3-2",
+          "title": "Understanding 2-Digit Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two-digit numbers go from 10 to 99. Each one tells you how many tens and ones. The number 10 has 1 ten and 0 ones. The number 99 has 9 tens and 9 ones. When you read a two-digit number, the tens place is worth 10 times more than the ones place!",
+            "examples": [
+              {"problem": "What does the 3 mean in 36?", "answer": "3 tens or 30", "explanation": "The 3 is in the tens place, so it means 30, not just 3!"},
+              {"problem": "What does the 6 mean in 36?", "answer": "6 ones or 6", "explanation": "The 6 is in the ones place, so it means 6."},
+              {"problem": "Is 52 the same as 25?", "answer": "No", "explanation": "52 means 5 tens and 2 ones (fifty-two). 25 means 2 tens and 5 ones (twenty-five). The digits are in different places, so the numbers are different!"}
+            ],
+            "key_vocabulary": ["tens place", "ones place", "value", "position", "two-digit"],
+            "real_world": "Your house number uses place value! If your house is number 46, that's 4 tens (40) and 6 ones (6)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the 7 mean in 73?", "options": ["7 ones", "7 tens (70)", "700", "7"], "correct": 1, "hint": "The 7 is in the tens place."},
+            {"type": "multiple_choice", "question": "What does the 4 mean in 84?", "options": ["4 tens (40)", "4 ones (4)", "400", "4 hundreds"], "correct": 1, "hint": "The 4 is in the ones place."},
+            {"type": "fill_in", "question": "In the number 19, the 1 means ___ ten(s).", "answer": "1", "hint": "How many tens does the 1 represent?"},
+            {"type": "multiple_choice", "question": "Which is greater: 67 or 76?", "options": ["67", "76", "they are equal"], "correct": 1, "hint": "Compare the tens first: 7 tens vs 6 tens."},
+            {"type": "fill_in", "question": "What number has 5 in the tens place and 1 in the ones place? ___", "answer": "51", "hint": "5 tens and 1 one."},
+            {"type": "multiple_choice", "question": "In the number 30, how many ones are there?", "options": ["3", "0", "30", "10"], "correct": 1, "hint": "Look at the ones digit."},
+            {"type": "fill_in", "question": "Put these in order from least to greatest: 42, 24, 44. Write the smallest: ___", "answer": "24", "hint": "Compare the tens digits: 4, 2, 4. Which has the fewest tens?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-3-3",
+          "title": "Expanded Form",
+          "type": "lesson",
+          "content": {
+            "explanation": "Expanded form shows a number as the sum of its tens and ones. For example, 57 in expanded form is 50 + 7. We break the number apart to show the value of each digit. The 5 is really worth 50 (five tens), and the 7 is worth 7 (seven ones). 50 + 7 = 57!",
+            "examples": [
+              {"problem": "Write 34 in expanded form", "answer": "30 + 4", "explanation": "34 = 3 tens + 4 ones = 30 + 4."},
+              {"problem": "Write 89 in expanded form", "answer": "80 + 9", "explanation": "89 = 8 tens + 9 ones = 80 + 9."},
+              {"problem": "What number is 60 + 2?", "answer": "62", "explanation": "60 + 2 = 62. That's 6 tens and 2 ones!"}
+            ],
+            "key_vocabulary": ["expanded form", "break apart", "value", "tens", "ones", "sum"],
+            "real_world": "Expanded form is like unpacking a number! 45 marbles = 40 marbles in bags of 10 + 5 loose marbles."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Write 53 in expanded form: 50 + ___", "answer": "3", "hint": "What is the ones part of 53?"},
+            {"type": "fill_in", "question": "Write 76 in expanded form: ___ + 6", "answer": "70", "hint": "What is 7 tens worth?"},
+            {"type": "multiple_choice", "question": "What number is 40 + 8?", "options": ["84", "408", "48", "480"], "correct": 2, "hint": "4 tens plus 8 ones."},
+            {"type": "fill_in", "question": "Write 21 in expanded form: ___ + 1", "answer": "20", "hint": "2 tens is 20."},
+            {"type": "multiple_choice", "question": "Which is the expanded form of 65?", "options": ["6 + 5", "60 + 5", "600 + 5", "6 + 50"], "correct": 1, "hint": "The 6 means 6 tens = 60."},
+            {"type": "fill_in", "question": "What number is 90 + 1? ___", "answer": "91", "hint": "9 tens plus 1 one."},
+            {"type": "fill_in", "question": "Write 17 in expanded form: 10 + ___", "answer": "7", "hint": "17 is 1 ten and 7 ones."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-3-4",
+          "title": "Comparing Two-Digit Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To compare two-digit numbers, first look at the tens. The number with more tens is greater. If the tens are the same, look at the ones. For example, 45 and 52: 4 tens vs 5 tens, so 52 is greater. For 37 and 34: both have 3 tens, so compare ones: 7 > 4, so 37 > 34.",
+            "examples": [
+              {"problem": "Which is greater: 63 or 48?", "answer": "63", "explanation": "Compare tens: 6 tens > 4 tens. So 63 is greater than 48!"},
+              {"problem": "Which is greater: 55 or 59?", "answer": "59", "explanation": "Both have 5 tens. Compare ones: 9 > 5. So 59 is greater!"},
+              {"problem": "Put in order from least to greatest: 71, 17, 37", "answer": "17, 37, 71", "explanation": "17 has 1 ten, 37 has 3 tens, 71 has 7 tens. So the order is 17, 37, 71!"}
+            ],
+            "key_vocabulary": ["compare", "greater than", "less than", "equal to", "order"],
+            "real_world": "If one book has 85 pages and another has 58 pages, 85 > 58 because 8 tens is more than 5 tens."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is greater: 34 or 43?", "options": ["34", "43", "they are equal"], "correct": 1, "hint": "Compare tens: 3 vs 4."},
+            {"type": "multiple_choice", "question": "Which is less: 67 or 62?", "options": ["67", "62", "they are equal"], "correct": 1, "hint": "Same tens (6). Compare ones: 7 vs 2."},
+            {"type": "fill_in", "question": "Write a number greater than 50 but less than 55: ___", "answer": "51", "hint": "Pick any number between 50 and 55, such as 51, 52, 53, or 54."},
+            {"type": "multiple_choice", "question": "Which is the greatest: 28, 82, 48?", "options": ["28", "82", "48"], "correct": 1, "hint": "Compare tens: 2, 8, 4. Which has the most tens?"},
+            {"type": "multiple_choice", "question": "Is 55 greater than, less than, or equal to 55?", "options": ["greater than", "less than", "equal to"], "correct": 2, "hint": "They are the same number!"},
+            {"type": "multiple_choice", "question": "Which is the least: 91, 19, 90?", "options": ["91", "19", "90"], "correct": 1, "hint": "Compare tens: 9, 1, 9. Which has the fewest tens?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "How many tens in 74? ___", "answer": "7", "hint": "Look at the left digit."},
+          {"type": "fill_in", "question": "What number has 6 tens and 1 one? ___", "answer": "61", "hint": "6 tens = 60, plus 1 one."},
+          {"type": "multiple_choice", "question": "Which is the expanded form of 38?", "options": ["3 + 8", "30 + 8", "300 + 8", "30 + 80"], "correct": 1, "hint": "3 tens = 30."},
+          {"type": "multiple_choice", "question": "Which is greater: 56 or 65?", "options": ["56", "65", "they are equal"], "correct": 1, "hint": "Compare tens: 5 vs 6."},
+          {"type": "fill_in", "question": "What does the 9 mean in 93? It means ___ tens.", "answer": "9", "hint": "The 9 is in the tens place."},
+          {"type": "multiple_choice", "question": "40 + 5 = ?", "options": ["9", "45", "54", "405"], "correct": 1, "hint": "4 tens and 5 ones."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "place_value_pro"
+      }
+    },
+    {
+      "id": "1-math-4",
+      "title": "Measuring Lengths",
+      "description": "Compare lengths, measure using non-standard units, and order objects by length.",
+      "lessons": [
+        {
+          "id": "1-math-4-1",
+          "title": "Comparing Lengths",
+          "type": "lesson",
+          "content": {
+            "explanation": "We can compare how long two things are. Place them side by side and line up one end. The one that sticks out further is longer. The other one is shorter. If they are the same, we say they have equal length.",
+            "examples": [
+              {"problem": "A pencil is 7 inches long. A crayon is 3 inches long. Which is longer?", "answer": "the pencil", "explanation": "7 inches is more than 3 inches, so the pencil is longer."},
+              {"problem": "A red ribbon is 5 inches. A blue ribbon is 5 inches. Compare them.", "answer": "equal length", "explanation": "Both are 5 inches, so they have equal length!"},
+              {"problem": "A book is 10 inches tall. A cup is 4 inches tall. Which is shorter?", "answer": "the cup", "explanation": "4 inches is less than 10 inches, so the cup is shorter."}
+            ],
+            "key_vocabulary": ["longer", "shorter", "taller", "equal length", "compare", "length"],
+            "real_world": "Stand next to your friend. Who is taller? Who is shorter? That's comparing lengths!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A snake is 12 inches long. A worm is 4 inches long. Which is longer?", "options": ["the snake", "the worm", "they are equal"], "correct": 0, "hint": "Compare 12 and 4."},
+            {"type": "multiple_choice", "question": "Rope A is 8 inches. Rope B is 8 inches. Which is shorter?", "options": ["Rope A", "Rope B", "Neither - they are equal"], "correct": 2, "hint": "Both are the same length."},
+            {"type": "multiple_choice", "question": "A marker is 6 inches. A pen is 5 inches. Which is shorter?", "options": ["the marker", "the pen", "they are equal"], "correct": 1, "hint": "Compare 6 and 5."},
+            {"type": "multiple_choice", "question": "A table is 3 feet long. A rug is 5 feet long. Which is longer?", "options": ["the table", "the rug", "they are equal"], "correct": 1, "hint": "Compare 3 and 5."},
+            {"type": "multiple_choice", "question": "Your hand is about 6 inches. A spoon is about 7 inches. Which is longer?", "options": ["your hand", "the spoon", "they are equal"], "correct": 1, "hint": "Compare 6 and 7."},
+            {"type": "multiple_choice", "question": "A building is taller than a house. A house is taller than a dog. What is the tallest?", "options": ["the dog", "the house", "the building"], "correct": 2, "hint": "Which is taller than everything else?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-4-2",
+          "title": "Measuring with Non-Standard Units",
+          "type": "lesson",
+          "content": {
+            "explanation": "You don't always need a ruler to measure! You can use small objects like paper clips, cubes, or your own hand spans. Place the objects end to end along the thing you want to measure. Count how many fit. That's the measurement! For example, a book might be 5 paper clips long.",
+            "examples": [
+              {"problem": "A pencil is 6 paper clips long. How long is it?", "answer": "6 paper clips", "explanation": "We lined up 6 paper clips along the pencil. The pencil is 6 paper clips long!"},
+              {"problem": "A desk is 10 hand spans wide. How wide is it?", "answer": "10 hand spans", "explanation": "We used our hands to measure. The desk is 10 hand spans wide!"},
+              {"problem": "A shoe is 3 cubes long. How long is it?", "answer": "3 cubes", "explanation": "We laid 3 cubes along the shoe with no gaps. The shoe is 3 cubes long!"}
+            ],
+            "key_vocabulary": ["measure", "unit", "paper clip", "cube", "hand span", "length"],
+            "real_world": "Use paper clips to measure your pencil, your book, and your hand. Which is longest?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "You measure a book with paper clips. It is 8 paper clips long. You measure a notebook. It is 6 paper clips long. Which is longer?", "options": ["the book", "the notebook", "they are equal"], "correct": 0, "hint": "Compare 8 and 6 paper clips."},
+            {"type": "fill_in", "question": "A ruler is 12 cubes long. A crayon is 4 cubes long. How many more cubes is the ruler? ___", "answer": "8", "hint": "12 - 4 = ?"},
+            {"type": "multiple_choice", "question": "You measure a table with hand spans. Which is important?", "options": ["Use big and small hand spans", "Use the same size hand span each time", "It doesn't matter"], "correct": 1, "hint": "To measure accurately, each unit should be the same size."},
+            {"type": "fill_in", "question": "A pen is 5 paper clips long. A marker is 7 paper clips long. How much longer is the marker? ___", "answer": "2", "hint": "7 - 5 = ?"},
+            {"type": "multiple_choice", "question": "Why do we line objects up end to end with no gaps when measuring?", "options": ["It looks nicer", "To get an accurate measurement", "It doesn't matter"], "correct": 1, "hint": "Gaps would give a wrong answer."},
+            {"type": "fill_in", "question": "A string is 9 cubes long. You cut off 3 cubes worth. How long is it now? ___", "answer": "6", "hint": "9 - 3 = ?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-4-3",
+          "title": "Ordering by Length",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you have three or more objects, you can put them in order from shortest to longest (or longest to shortest). Compare each pair and arrange them. The shortest goes first when ordering from shortest to longest.",
+            "examples": [
+              {"problem": "Order from shortest to longest: 8 inches, 3 inches, 5 inches", "answer": "3 inches, 5 inches, 8 inches", "explanation": "3 is the smallest, then 5, then 8. From shortest to longest: 3, 5, 8!"},
+              {"problem": "Order from longest to shortest: 2 cubes, 9 cubes, 6 cubes", "answer": "9 cubes, 6 cubes, 2 cubes", "explanation": "9 is the biggest, then 6, then 2. From longest to shortest: 9, 6, 2!"},
+              {"problem": "A pencil is 7 inches. A crayon is 3 inches. An eraser is 2 inches. Order shortest to longest.", "answer": "eraser, crayon, pencil", "explanation": "Eraser (2) is shortest, then crayon (3), then pencil (7) is longest."}
+            ],
+            "key_vocabulary": ["order", "shortest", "longest", "compare", "arrange"],
+            "real_world": "Line up your crayons from shortest to longest! See how they make a staircase pattern."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Order from shortest to longest: 10, 4, 7. What is the shortest?", "options": ["10", "4", "7"], "correct": 1, "hint": "Which number is the smallest?"},
+            {"type": "multiple_choice", "question": "Order from longest to shortest: 5 inches, 12 inches, 1 inch. What is the longest?", "options": ["5 inches", "12 inches", "1 inch"], "correct": 1, "hint": "Which number is the largest?"},
+            {"type": "fill_in", "question": "Three sticks: 6 cubes, 2 cubes, 9 cubes. The shortest is ___ cubes.", "answer": "2", "hint": "Which number is the smallest?"},
+            {"type": "fill_in", "question": "Three ribbons: 4 inches, 11 inches, 7 inches. The longest is ___ inches.", "answer": "11", "hint": "Which number is the biggest?"},
+            {"type": "multiple_choice", "question": "A cat is 18 inches. A hamster is 5 inches. A dog is 24 inches. Order shortest to longest.", "options": ["cat, hamster, dog", "hamster, cat, dog", "dog, cat, hamster", "hamster, dog, cat"], "correct": 1, "hint": "5 < 18 < 24."},
+            {"type": "fill_in", "question": "Three strings: 8 cm, 3 cm, 8 cm. How many strings are the same length? ___", "answer": "2", "hint": "Two of the strings are both 8 cm."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-4-4",
+          "title": "Length Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "We can use addition and subtraction to solve problems about length! If a snake is 12 inches long and grows 3 more inches, it is 12 + 3 = 15 inches long. If a 10-inch rope is cut by 4 inches, it is 10 - 4 = 6 inches long.",
+            "examples": [
+              {"problem": "A ribbon is 8 inches long. You cut off 3 inches. How long is it now?", "answer": "5 inches", "explanation": "8 - 3 = 5 inches. The ribbon is 5 inches long after cutting."},
+              {"problem": "A worm is 4 inches. It grows 5 inches. How long is it now?", "answer": "9 inches", "explanation": "4 + 5 = 9 inches. The worm is now 9 inches long!"},
+              {"problem": "String A is 11 inches. String B is 7 inches. How much longer is String A?", "answer": "4 inches", "explanation": "11 - 7 = 4 inches. String A is 4 inches longer."}
+            ],
+            "key_vocabulary": ["how long", "how much longer", "how much shorter", "total length", "remaining"],
+            "real_world": "If you tape two pieces of paper together, one 8 inches and one 5 inches, the total is 8 + 5 = 13 inches long!"
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A caterpillar is 3 inches long. It grows 6 inches. How long is it now?", "answer": "9", "operation": "3 + 6", "hint": "Add the growth to the original length."},
+            {"type": "word_problem", "question": "A piece of yarn is 15 inches. You cut off 8 inches. How long is the remaining yarn?", "answer": "7", "operation": "15 - 8", "hint": "Subtract the cut part from the total."},
+            {"type": "word_problem", "question": "Pencil A is 7 inches. Pencil B is 4 inches. How much longer is Pencil A?", "answer": "3", "operation": "7 - 4", "hint": "Subtract to find the difference."},
+            {"type": "word_problem", "question": "You connect a 6-inch stick and a 9-inch stick end to end. How long is the combined stick?", "answer": "15", "operation": "6 + 9", "hint": "Add the two lengths together."},
+            {"type": "word_problem", "question": "A scarf is 18 inches long. A belt is 12 inches long. How much longer is the scarf?", "answer": "6", "operation": "18 - 12", "hint": "Subtract to find how much longer."},
+            {"type": "word_problem", "question": "A rope is 10 inches long. You add 7 more inches of rope. How long is it now?", "answer": "17", "operation": "10 + 7", "hint": "Add the extra length."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A pencil is 7 inches and a pen is 5 inches. Which is shorter?", "options": ["pencil", "pen", "they are equal"], "correct": 1, "hint": "Compare 7 and 5."},
+          {"type": "fill_in", "question": "A book is 9 paper clips long. A phone is 5 paper clips long. How many more paper clips is the book? ___", "answer": "4", "hint": "9 - 5 = ?"},
+          {"type": "word_problem", "question": "You have a 12-inch ribbon. You cut off 5 inches. How long is the remaining ribbon?", "answer": "7", "operation": "12 - 5", "hint": "Subtract the cut part."},
+          {"type": "multiple_choice", "question": "Three worms: 4 inches, 9 inches, 6 inches. Which is longest?", "options": ["4 inches", "9 inches", "6 inches"], "correct": 1, "hint": "Which number is biggest?"},
+          {"type": "word_problem", "question": "A piece of tape is 8 inches. You add 6 more inches. How long is it now?", "answer": "14", "operation": "8 + 6", "hint": "Add the two lengths."},
+          {"type": "fill_in", "question": "A string is 6 cubes long. A stick is 6 cubes long. Are they the same length? (yes or no) ___", "answer": "yes", "hint": "Compare 6 and 6."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "measurement_master"
+      }
+    },
+    {
+      "id": "1-math-5",
+      "title": "Telling Time",
+      "description": "Learn to read clocks at the hour and half hour, and understand time vocabulary.",
+      "lessons": [
+        {
+          "id": "1-math-5-1",
+          "title": "Hour and O'Clock",
+          "type": "lesson",
+          "content": {
+            "explanation": "A clock has two hands. The short hand (hour hand) points to the hour. The long hand (minute hand) points to 12 when it is exactly on the hour. When the long hand points to 12, we say 'o'clock.' If the short hand points to 3, it is 3 o'clock!",
+            "examples": [
+              {"problem": "The short hand points to 5. The long hand points to 12. What time is it?", "answer": "5 o'clock", "explanation": "The short hand shows the hour (5) and the long hand at 12 means o'clock. It's 5 o'clock!"},
+              {"problem": "It is 8 o'clock. Where does the short hand point?", "answer": "8", "explanation": "At 8 o'clock, the short hand points to the 8."},
+              {"problem": "It is 12 o'clock. Where do both hands point?", "answer": "Both point to 12", "explanation": "At 12 o'clock, both the short and long hands point to the 12!"}
+            ],
+            "key_vocabulary": ["clock", "hour hand", "minute hand", "o'clock", "short hand", "long hand"],
+            "real_world": "You might eat lunch at 12 o'clock and go to bed at 8 o'clock!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The short hand points to 3 and the long hand points to 12. What time is it?", "options": ["12 o'clock", "3 o'clock", "6 o'clock", "3:30"], "correct": 1, "hint": "The short hand shows the hour."},
+            {"type": "fill_in", "question": "It is 7 o'clock. The short hand points to ___.", "answer": "7", "hint": "The hour tells you where the short hand points."},
+            {"type": "multiple_choice", "question": "At 10 o'clock, where does the long hand point?", "options": ["10", "12", "6", "3"], "correct": 1, "hint": "At any o'clock time, the long hand is at 12."},
+            {"type": "multiple_choice", "question": "The short hand is at 1 and the long hand is at 12. What time is it?", "options": ["12 o'clock", "1 o'clock", "12:01", "1:12"], "correct": 1, "hint": "Short hand shows the hour; long hand at 12 means o'clock."},
+            {"type": "fill_in", "question": "It is 9 o'clock. Write the time with numbers: ___", "answer": "9:00", "hint": "O'clock means :00 in digital time."},
+            {"type": "multiple_choice", "question": "Which hand on a clock is shorter?", "options": ["minute hand", "hour hand", "second hand", "both are the same"], "correct": 1, "hint": "The hour hand is the short one."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-5-2",
+          "title": "Half Past (Half Hour)",
+          "type": "lesson",
+          "content": {
+            "explanation": "When the long hand (minute hand) points to 6, it is half past the hour. The clock has gone halfway around! If the short hand is between the 2 and 3 and the long hand is at 6, it is 2:30 or 'half past 2.' The short hand moves between numbers at the half hour.",
+            "examples": [
+              {"problem": "The long hand points to 6 and the short hand is between 4 and 5. What time is it?", "answer": "4:30", "explanation": "Long hand at 6 means half past. Short hand is past 4 but not yet at 5. It is 4:30 or half past 4!"},
+              {"problem": "It is half past 7. Where does the long hand point?", "answer": "6", "explanation": "Half past always means the long hand is pointing at 6."},
+              {"problem": "It is 1:30. Where is the short hand?", "answer": "between 1 and 2", "explanation": "At 1:30, the hour hand has moved halfway from 1 to 2."}
+            ],
+            "key_vocabulary": ["half past", "half hour", "thirty", ":30", "between"],
+            "real_world": "School might start at 8:30 (half past 8). Snack time might be at 10:30 (half past 10)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "At half past 3, where does the long hand point?", "options": ["3", "12", "6", "9"], "correct": 2, "hint": "Half past always has the long hand at 6."},
+            {"type": "fill_in", "question": "The long hand is at 6 and the short hand is between 8 and 9. What time is it? Write as _:30.", "answer": "8:30", "hint": "The short hand just passed 8."},
+            {"type": "multiple_choice", "question": "What is another way to say 5:30?", "options": ["five o'clock", "half past 5", "quarter past 5", "5 to 6"], "correct": 1, "hint": ":30 means half past."},
+            {"type": "fill_in", "question": "It is half past 11. Write the time with numbers: ___", "answer": "11:30", "hint": "Half past means :30."},
+            {"type": "multiple_choice", "question": "At 6:30, where is the short hand?", "options": ["at the 6", "at the 7", "between 6 and 7", "at the 12"], "correct": 2, "hint": "At half past, the short hand is between two numbers."},
+            {"type": "multiple_choice", "question": "Which shows half past 2?", "options": ["2:00", "2:15", "2:30", "2:45"], "correct": 2, "hint": "Half past means :30."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-5-3",
+          "title": "Reading Analog Clocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Let's practice reading analog clocks! Remember: find the short hand first to know the hour. Then look at the long hand. If the long hand is at 12, it's on the hour (o'clock). If the long hand is at 6, it's half past (:30). Always look at BOTH hands to tell the time correctly!",
+            "examples": [
+              {"problem": "Short hand at 6, long hand at 12", "answer": "6:00", "explanation": "Short hand at 6 tells the hour. Long hand at 12 means o'clock. It's 6:00!"},
+              {"problem": "Short hand between 10 and 11, long hand at 6", "answer": "10:30", "explanation": "Short hand passed 10 means the hour is 10. Long hand at 6 means :30. It's 10:30!"},
+              {"problem": "Short hand at 12, long hand at 12", "answer": "12:00", "explanation": "Both hands at 12 means 12:00 - noon or midnight!"}
+            ],
+            "key_vocabulary": ["analog clock", "read", "hour hand", "minute hand", "time"],
+            "real_world": "Practice reading the clock at home. What time do you eat dinner? What time do you go to bed?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Short hand at 4, long hand at 12. What time?", "options": ["12:04", "4:00", "4:12", "12:00"], "correct": 1, "hint": "Short hand at 4 = hour is 4. Long hand at 12 = o'clock."},
+            {"type": "fill_in", "question": "Short hand between 7 and 8, long hand at 6. What time? ___", "answer": "7:30", "hint": "Short hand past 7, long hand at 6 means :30."},
+            {"type": "multiple_choice", "question": "Short hand at 9, long hand at 12. What time?", "options": ["9:00", "12:09", "9:12", "12:00"], "correct": 0, "hint": "Short hand = hour, long hand at 12 = o'clock."},
+            {"type": "fill_in", "question": "Short hand between 1 and 2, long hand at 6. What time? ___", "answer": "1:30", "hint": "Past the 1, so it's 1:30."},
+            {"type": "multiple_choice", "question": "At 3:00, where is the short hand?", "options": ["at the 12", "at the 3", "at the 6", "between 2 and 3"], "correct": 1, "hint": "At exactly 3:00, the short hand is right at 3."},
+            {"type": "fill_in", "question": "Short hand at 11, long hand at 12. What time? ___", "answer": "11:00", "hint": "Short hand shows hour 11, long hand at 12 means o'clock."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-5-4",
+          "title": "Time Vocabulary",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are special words we use for time. Morning is when the sun comes up and you go to school. Afternoon is after lunch until dinnertime. Evening is around dinnertime. Night is when it's dark and you sleep. 'Before' means earlier. 'After' means later. A day has 24 hours and each hour has 60 minutes.",
+            "examples": [
+              {"problem": "Is breakfast in the morning or evening?", "answer": "morning", "explanation": "We eat breakfast in the morning, when the day starts!"},
+              {"problem": "Which comes first: 3 o'clock or 7 o'clock?", "answer": "3 o'clock", "explanation": "3 o'clock comes before 7 o'clock. 3 is earlier in the day."},
+              {"problem": "How many hours are in one day?", "answer": "24", "explanation": "One full day has 24 hours, from midnight to midnight."}
+            ],
+            "key_vocabulary": ["morning", "afternoon", "evening", "night", "before", "after", "hour", "minute", "day"],
+            "real_world": "You wake up in the morning, go to school before lunch, play in the afternoon, eat dinner in the evening, and sleep at night!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When do you eat dinner?", "options": ["morning", "afternoon", "evening", "midnight"], "correct": 2, "hint": "Dinner is usually around 5-7 PM."},
+            {"type": "multiple_choice", "question": "Which comes AFTER 2 o'clock?", "options": ["1 o'clock", "12 o'clock", "5 o'clock", "2 o'clock"], "correct": 2, "hint": "After means later. A higher number is later."},
+            {"type": "fill_in", "question": "How many hours are in one day? ___", "answer": "24", "hint": "A full day, from midnight to midnight."},
+            {"type": "multiple_choice", "question": "You go to school in the ___.", "options": ["night", "evening", "morning", "midnight"], "correct": 2, "hint": "School starts early in the day."},
+            {"type": "multiple_choice", "question": "Which comes BEFORE 8 o'clock?", "options": ["9 o'clock", "10 o'clock", "6 o'clock", "11 o'clock"], "correct": 2, "hint": "Before means earlier. A smaller number is earlier."},
+            {"type": "multiple_choice", "question": "What time of day is it dark outside and you sleep?", "options": ["morning", "afternoon", "evening", "night"], "correct": 3, "hint": "It's dark and time for bed."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Short hand at 5, long hand at 12. What time?", "options": ["12:05", "5:00", "5:12", "12:00"], "correct": 1, "hint": "Short hand = hour, long hand at 12 = o'clock."},
+          {"type": "fill_in", "question": "It is half past 9. Write the time: ___", "answer": "9:30", "hint": "Half past = :30."},
+          {"type": "multiple_choice", "question": "At 2:30, where does the long hand point?", "options": ["2", "12", "6", "3"], "correct": 2, "hint": "Half past (:30) means long hand at 6."},
+          {"type": "multiple_choice", "question": "Which comes first in the day: morning or evening?", "options": ["morning", "evening", "they are the same"], "correct": 0, "hint": "Morning is when the sun comes up."},
+          {"type": "fill_in", "question": "Short hand between 3 and 4, long hand at 6. What time? ___", "answer": "3:30", "hint": "Past the 3, so 3:30."},
+          {"type": "fill_in", "question": "How many minutes are in one hour? ___", "answer": "60", "hint": "There are 60 minutes in each hour."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "time_teller"
+      }
+    },
+    {
+      "id": "1-math-6",
+      "title": "Shapes and Fractions",
+      "description": "Identify 2D and 3D shapes, understand equal parts, and learn about halves and quarters.",
+      "lessons": [
+        {
+          "id": "1-math-6-1",
+          "title": "Identifying 2D Shapes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two-dimensional (2D) shapes are flat shapes. Let's review them! A circle has 0 sides and 0 corners. A triangle has 3 sides and 3 corners. A square has 4 equal sides and 4 corners. A rectangle has 4 sides (opposite sides equal) and 4 corners. A hexagon has 6 sides and 6 corners. Count sides and corners to identify shapes!",
+            "examples": [
+              {"problem": "A shape has 6 sides. What is it?", "answer": "hexagon", "explanation": "A shape with 6 sides is a hexagon. 'Hex' means six!"},
+              {"problem": "How are a square and a rectangle alike?", "answer": "Both have 4 sides and 4 corners", "explanation": "A square IS a special rectangle where all sides are equal. Both have 4 sides and 4 corners."},
+              {"problem": "A shape has 3 sides. What is it?", "answer": "triangle", "explanation": "A shape with 3 sides is a triangle. 'Tri' means three!"}
+            ],
+            "key_vocabulary": ["2D", "flat", "circle", "triangle", "square", "rectangle", "hexagon", "sides", "corners"],
+            "real_world": "Road signs come in different shapes! A yield sign is a triangle. A stop sign is an octagon (8 sides)!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A triangle has ___ sides.", "answer": "3", "hint": "Tri means three."},
+            {"type": "multiple_choice", "question": "Which shape has NO sides and NO corners?", "options": ["square", "triangle", "circle", "rectangle"], "correct": 2, "hint": "It's perfectly round."},
+            {"type": "fill_in", "question": "A hexagon has ___ sides.", "answer": "6", "hint": "Hex means six."},
+            {"type": "multiple_choice", "question": "A rectangle has 4 sides. How many corners does it have?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count the corners where sides meet."},
+            {"type": "multiple_choice", "question": "Which shape has 4 equal sides?", "options": ["rectangle", "triangle", "circle", "square"], "correct": 3, "hint": "All sides are the same length."},
+            {"type": "multiple_choice", "question": "How many more sides does a hexagon have than a triangle?", "options": ["2", "3", "4", "6"], "correct": 1, "hint": "6 - 3 = ?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-6-2",
+          "title": "Identifying 3D Shapes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Three-dimensional (3D) shapes are solid shapes you can hold. A sphere is like a ball. A cube is like a dice - all faces are squares. A cylinder is like a can - circles on top and bottom. A cone has a circle on the bottom and a point on top, like an ice cream cone. A rectangular prism is like a box.",
+            "examples": [
+              {"problem": "What 3D shape is a soccer ball?", "answer": "sphere", "explanation": "A soccer ball is round like a sphere!"},
+              {"problem": "What 3D shape is a cereal box?", "answer": "rectangular prism", "explanation": "A cereal box has flat rectangular faces. It's a rectangular prism (box shape)!"},
+              {"problem": "How many flat faces does a cube have?", "answer": "6", "explanation": "A cube has 6 flat faces, all of which are squares!"}
+            ],
+            "key_vocabulary": ["3D", "solid", "sphere", "cube", "cylinder", "cone", "rectangular prism", "face", "edge"],
+            "real_world": "A basketball is a sphere, a tissue box is a rectangular prism, and a soup can is a cylinder!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A soup can is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 2, "hint": "Circles on top and bottom, tube in between."},
+            {"type": "multiple_choice", "question": "An ice cream cone is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 3, "hint": "Pointy bottom, circle on top."},
+            {"type": "fill_in", "question": "A cube has ___ flat faces.", "answer": "6", "hint": "Think of a dice. Count all the flat sides."},
+            {"type": "multiple_choice", "question": "Which 3D shape has NO flat faces?", "options": ["cube", "sphere", "cylinder", "cone"], "correct": 1, "hint": "It's perfectly round like a ball. No flat spots."},
+            {"type": "multiple_choice", "question": "A box of tissues is shaped like a ___.", "options": ["sphere", "cone", "rectangular prism", "cylinder"], "correct": 2, "hint": "A box shape with rectangular faces."},
+            {"type": "multiple_choice", "question": "Which 3D shape can roll AND has a flat circular face?", "options": ["cube", "sphere", "cylinder", "rectangular prism"], "correct": 2, "hint": "It rolls but also has flat circles on top and bottom."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-6-3",
+          "title": "Equal Parts",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we split something into equal parts, each piece is exactly the same size. If you cut a sandwich in the middle, you get 2 equal parts. If the parts are NOT the same size, they are unequal parts. Equal sharing means everyone gets the same amount!",
+            "examples": [
+              {"problem": "A pizza is cut into 4 slices. Are they equal if they are all the same size?", "answer": "yes", "explanation": "If all 4 slices are the same size, they are 4 equal parts!"},
+              {"problem": "A rectangle is split into 2 pieces, but one is much bigger than the other. Are the parts equal?", "answer": "no", "explanation": "The parts are different sizes, so they are NOT equal parts."},
+              {"problem": "A circle is cut into 3 pieces of the same size. How many equal parts?", "answer": "3", "explanation": "The circle has been cut into 3 equal parts!"}
+            ],
+            "key_vocabulary": ["equal parts", "unequal parts", "split", "divide", "same size", "share"],
+            "real_world": "When you share a cookie with a friend, break it into 2 equal parts so each person gets the same amount!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A pie is cut into 2 pieces, one big and one small. Are the parts equal?", "options": ["Yes", "No"], "correct": 1, "hint": "Are both pieces the same size?"},
+            {"type": "multiple_choice", "question": "A square is cut into 4 same-size pieces. How many equal parts?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count the same-size pieces."},
+            {"type": "multiple_choice", "question": "Which shows equal parts?", "options": ["A circle split into 2 same-size pieces", "A circle split into 2 different-size pieces"], "correct": 0, "hint": "Equal means same size."},
+            {"type": "multiple_choice", "question": "You want to share a sandwich equally with 1 friend. How many equal parts do you need?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "You and 1 friend = 2 people."},
+            {"type": "fill_in", "question": "A rectangle is split into 3 equal parts. Each part is one out of ___ equal parts.", "answer": "3", "hint": "Count the total number of equal parts."},
+            {"type": "multiple_choice", "question": "A cake is cut into 4 equal pieces. Is each piece the same size?", "options": ["Yes", "No"], "correct": 0, "hint": "Equal means same size."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-math-6-4",
+          "title": "Halves and Quarters",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you cut something into 2 equal parts, each part is called a half. Two halves make a whole! When you cut something into 4 equal parts, each part is called a quarter (or a fourth). Four quarters make a whole! A quarter is smaller than a half because you split into more pieces.",
+            "examples": [
+              {"problem": "A sandwich is cut into 2 equal parts. What is each part called?", "answer": "a half", "explanation": "2 equal parts means each part is a half. Two halves make the whole sandwich!"},
+              {"problem": "A pizza is cut into 4 equal parts. What is each part called?", "answer": "a quarter (or a fourth)", "explanation": "4 equal parts means each part is a quarter. Four quarters make the whole pizza!"},
+              {"problem": "Which is bigger: a half or a quarter of the same pie?", "answer": "a half", "explanation": "A half is bigger than a quarter! Splitting into fewer pieces means each piece is bigger."}
+            ],
+            "key_vocabulary": ["half", "halves", "quarter", "fourth", "whole", "equal parts"],
+            "real_world": "A quarter coin is called a quarter because 4 of them make a whole dollar!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many halves make a whole?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "A whole split into 2 equal parts gives 2 halves."},
+            {"type": "multiple_choice", "question": "How many quarters make a whole?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "A whole split into 4 equal parts gives 4 quarters."},
+            {"type": "multiple_choice", "question": "Which is larger: half of a cookie or a quarter of the same cookie?", "options": ["half", "quarter", "they are the same"], "correct": 0, "hint": "Fewer parts means each part is bigger."},
+            {"type": "fill_in", "question": "A circle is cut into 2 equal parts. Each part is called a ___.", "answer": "half", "hint": "Two equal parts = halves."},
+            {"type": "fill_in", "question": "A square is cut into 4 equal parts. Each part is called a ___.", "answer": "quarter", "hint": "Four equal parts = quarters (fourths)."},
+            {"type": "multiple_choice", "question": "If you eat one quarter of a pizza, how many quarters are left?", "options": ["1", "2", "3", "4"], "correct": 2, "hint": "You started with 4 quarters and ate 1."},
+            {"type": "multiple_choice", "question": "If you eat one half of a sandwich, how much is left?", "options": ["none", "one half", "one quarter", "the whole thing"], "correct": 1, "hint": "You ate 1 of the 2 halves. The other half is left."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "A triangle has ___ corners.", "answer": "3", "hint": "Count the points."},
+          {"type": "multiple_choice", "question": "A dice is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 1, "hint": "All faces are squares."},
+          {"type": "multiple_choice", "question": "How many halves make a whole?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Cut in 2 equal parts = 2 halves."},
+          {"type": "multiple_choice", "question": "Which is bigger: a quarter or a half of the same cake?", "options": ["a quarter", "a half", "they are the same"], "correct": 1, "hint": "Fewer parts means bigger pieces."},
+          {"type": "fill_in", "question": "A hexagon has ___ sides.", "answer": "6", "hint": "Hex means six."},
+          {"type": "multiple_choice", "question": "How many quarters make a whole?", "options": ["2", "3", "4", "6"], "correct": 2, "hint": "Quarter means 1 of 4 equal parts."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "shape_fraction_whiz"
+      }
+    }
+  ]
+}

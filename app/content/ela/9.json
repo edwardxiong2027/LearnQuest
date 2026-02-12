@@ -1,0 +1,3345 @@
+{
+  "grade": 9,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "9-ela-1",
+      "title": "Elements of Fiction",
+      "description": "Master the essential building blocks of fiction: plot structure, character development, setting, theme, point of view, and conflict types.",
+      "lessons": [
+        {
+          "id": "9-ela-1-1",
+          "title": "Plot Structure and Conflict",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every story follows a structure called plot, which is the sequence of events that make up the narrative. The most common model is Freytag's Pyramid: exposition (introduction of characters, setting, and situation), rising action (events that build tension and develop conflict), climax (the turning point or moment of greatest tension), falling action (events after the climax that move toward resolution), and resolution or denouement (the conclusion where conflicts are resolved). Conflict is the engine of plot. Without conflict, there is no story. External conflicts pit a character against an outside force: person vs. person, person vs. nature, person vs. society, or person vs. technology. Internal conflict is person vs. self, where a character struggles with their own emotions, beliefs, or decisions. Complex stories often layer multiple conflicts together.",
+            "examples": [
+              {
+                "problem": "Identify the climax in Romeo and Juliet.",
+                "answer": "The climax occurs when Romeo kills Tybalt, setting the tragedy in motion.",
+                "explanation": "This is the turning point because it leads directly to Romeo's banishment and the chain of events ending in the lovers' deaths."
+              },
+              {
+                "problem": "What type of conflict is a character stranded on a deserted island?",
+                "answer": "Person vs. nature",
+                "explanation": "The character struggles against the natural environment to survive."
+              },
+              {
+                "problem": "A student must decide whether to report a friend for cheating. What conflict type is this?",
+                "answer": "Person vs. self (internal conflict)",
+                "explanation": "The struggle is within the character's own conscience, weighing loyalty against honesty."
+              }
+            ],
+            "key_vocabulary": [
+              "plot",
+              "exposition",
+              "rising action",
+              "climax",
+              "falling action",
+              "resolution",
+              "denouement",
+              "conflict",
+              "internal conflict",
+              "external conflict"
+            ],
+            "real_world": "Understanding plot structure helps you follow any narrative, from novels to movies to video games. Screenwriters, novelists, and game designers all rely on Freytag's Pyramid to craft compelling stories."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which element of plot introduces the characters and setting?",
+              "options": [
+                "Climax",
+                "Exposition",
+                "Resolution",
+                "Falling action"
+              ],
+              "correct": 1,
+              "hint": "This is the beginning of the story where we learn who, what, and where."
+            },
+            {
+              "type": "fill_in",
+              "question": "The moment of greatest tension or the turning point in a story is called the ___.",
+              "answer": "climax",
+              "hint": "It comes after the rising action and before the falling action."
+            },
+            {
+              "type": "fill_in",
+              "question": "Internal conflict involves a character struggling against an outside force.",
+              "answer": "false",
+              "hint": "Internal conflict is person vs. self \u2014 the struggle is within."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of person vs. society?",
+              "options": [
+                "A hiker lost in a blizzard",
+                "A soldier questioning their own courage",
+                "A citizen protesting unjust laws",
+                "Two rivals competing for a prize"
+              ],
+              "correct": 2,
+              "hint": "Society includes laws, customs, and institutions."
+            },
+            {
+              "type": "fill_in",
+              "question": "The final part of the plot where loose ends are tied up is called the ___ or denouement.",
+              "answer": "resolution"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Rising action consists of:",
+              "options": [
+                "Events after the climax",
+                "The introduction of characters",
+                "Events that build tension and develop conflict",
+                "The final sentence of the story"
+              ],
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-1-2",
+          "title": "Character Development and Types",
+          "type": "lesson",
+          "content": {
+            "explanation": "Characters are the people (or beings) who inhabit a story. A protagonist is the main character around whom the story revolves. An antagonist opposes the protagonist, creating conflict. Characters can be flat (one-dimensional, defined by a single trait) or round (complex, with multiple traits and contradictions). They can also be static (unchanged by the story's events) or dynamic (transformed through their experiences). Characterization is how an author reveals a character. Direct characterization tells us explicitly what a character is like ('She was brave'). Indirect characterization shows us through actions, dialogue, thoughts, appearance, and how other characters react to them \u2014 sometimes remembered by the acronym STEAL (Speech, Thoughts, Effect on others, Actions, Looks). A well-developed character feels real because they have motivations, flaws, and growth. Foil characters contrast with the protagonist to highlight specific traits.",
+            "examples": [
+              {
+                "problem": "Is Atticus Finch in To Kill a Mockingbird a flat or round character?",
+                "answer": "Round character",
+                "explanation": "He is complex \u2014 a loving father, principled lawyer, and flawed human who must navigate moral complexities in a prejudiced society."
+              },
+              {
+                "problem": "'She slammed the door and kicked the wall.' Is this direct or indirect characterization?",
+                "answer": "Indirect characterization (through actions)",
+                "explanation": "The author shows us the character's anger through behavior rather than stating 'She was angry.'"
+              },
+              {
+                "problem": "In Harry Potter, how is Draco Malfoy a foil to Harry?",
+                "answer": "Draco highlights Harry's humility and moral choices by contrast \u2014 Draco is privileged, arrogant, and chooses prejudice where Harry chooses courage and inclusion.",
+                "explanation": "A foil character makes the protagonist's qualities more visible through contrast."
+              }
+            ],
+            "key_vocabulary": [
+              "protagonist",
+              "antagonist",
+              "flat character",
+              "round character",
+              "static",
+              "dynamic",
+              "direct characterization",
+              "indirect characterization",
+              "foil",
+              "STEAL"
+            ],
+            "real_world": "Understanding characterization helps you read people in real life too. We judge people by their actions, words, and how others react to them \u2014 the same principles as indirect characterization."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A character who undergoes significant change during a story is called:",
+              "options": [
+                "Static",
+                "Flat",
+                "Dynamic",
+                "An antagonist"
+              ],
+              "correct": 2,
+              "hint": "Dynamic means changing or evolving."
+            },
+            {
+              "type": "fill_in",
+              "question": "The acronym STEAL stands for Speech, Thoughts, Effect on others, Actions, and ___.",
+              "answer": "Looks"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of direct characterization?",
+              "options": [
+                "He clenched his fists under the table.",
+                "She was the kindest person in the village.",
+                "Everyone avoided her in the hallway.",
+                "He whispered so no one could hear."
+              ],
+              "correct": 1,
+              "hint": "Direct characterization tells us explicitly."
+            },
+            {
+              "type": "fill_in",
+              "question": "A foil character is always the villain of the story.",
+              "answer": "false",
+              "hint": "A foil simply contrasts with another character to highlight traits \u2014 they are not necessarily villains."
+            },
+            {
+              "type": "fill_in",
+              "question": "The main character of a story is called the ___.",
+              "answer": "protagonist"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A flat character is:",
+              "options": [
+                "Complex with many traits",
+                "Defined by a single trait or quality",
+                "Always the main character",
+                "Always evil"
+              ],
+              "correct": 1,
+              "hint": "Think of a character who can be summed up in one word."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-1-3",
+          "title": "Setting, Mood, and Atmosphere",
+          "type": "lesson",
+          "content": {
+            "explanation": "Setting is more than just where and when a story takes place \u2014 it shapes the entire narrative. Setting includes the physical location, time period, cultural context, social environment, and even weather. A skilled author uses setting to establish mood (the emotional atmosphere the reader feels) and to influence characters and plot. The moors in Wuthering Heights mirror the wild, passionate nature of the characters. The oppressive heat in a Southern Gothic story amplifies tension. Setting can function as a symbol: a decaying house might represent a declining family. It can also create or limit conflict \u2014 a story set during wartime has different possibilities than one set in peacetime. Atmosphere is created through the author's word choice (diction), imagery, and sensory details. Dark, shadowy descriptions create a foreboding atmosphere; bright, warm descriptions create comfort. When analyzing setting, consider how removing or changing it would alter the story.",
+            "examples": [
+              {
+                "problem": "How does the setting of a dystopian city affect the mood of a story?",
+                "answer": "A dystopian setting \u2014 gray buildings, surveillance cameras, uniformed citizens \u2014 creates a mood of oppression, fear, and hopelessness.",
+                "explanation": "The physical environment directly shapes how the reader feels while reading."
+              },
+              {
+                "problem": "In The Great Gatsby, what does the green light across the bay symbolize?",
+                "answer": "It symbolizes Gatsby's longing for Daisy and, more broadly, the unreachable American Dream.",
+                "explanation": "Setting elements like the green light become symbols that carry thematic weight."
+              },
+              {
+                "problem": "How might changing the setting of Lord of the Flies from an island to a city change the story?",
+                "answer": "In a city, the boys would have access to adult authority, law enforcement, and resources, eliminating the conditions that allow their descent into savagery.",
+                "explanation": "This demonstrates how setting is not just backdrop \u2014 it is essential to the story's conflict and themes."
+              }
+            ],
+            "key_vocabulary": [
+              "setting",
+              "mood",
+              "atmosphere",
+              "diction",
+              "imagery",
+              "sensory details",
+              "symbol",
+              "cultural context",
+              "time period"
+            ],
+            "real_world": "Filmmakers, architects, and interior designers all manipulate setting to create mood. A horror movie uses dark lighting and cramped spaces; a coffee shop uses warm colors and soft music. Setting shapes experience everywhere."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Mood in literature refers to:",
+              "options": [
+                "The author's attitude toward the subject",
+                "The emotional atmosphere the reader experiences",
+                "The main character's feelings",
+                "The story's theme"
+              ],
+              "correct": 1,
+              "hint": "Mood is what the reader feels \u2014 not to be confused with tone (the author's attitude)."
+            },
+            {
+              "type": "fill_in",
+              "question": "The author's word choice, which helps create mood and atmosphere, is called ___.",
+              "answer": "diction"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which sensory detail best creates a peaceful mood?",
+              "options": [
+                "Thunder crashed against the windows.",
+                "The scent of lavender drifted through the open window.",
+                "Sirens wailed in the distance.",
+                "The floorboards groaned underfoot."
+              ],
+              "correct": 1,
+              "hint": "Peaceful moods use gentle, pleasant sensory language."
+            },
+            {
+              "type": "fill_in",
+              "question": "Setting only refers to the physical location of a story.",
+              "answer": "false",
+              "hint": "Setting also includes time period, cultural context, social environment, and weather."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If an author describes a house with 'crumbling walls, cobwebbed corners, and a sagging roof,' the house likely symbolizes:",
+              "options": [
+                "New beginnings",
+                "Decay, decline, or neglect",
+                "Wealth and power",
+                "Safety and comfort"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Writing that appeals to the five senses (sight, sound, smell, taste, touch) uses ___ details.",
+              "answer": "sensory"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-1-4",
+          "title": "Theme and Point of View",
+          "type": "lesson",
+          "content": {
+            "explanation": "Theme is the central message or insight about life that a literary work conveys. It is not the subject or topic (love, war, friendship) but the specific statement or insight the author makes about that topic. For example, the topic might be 'ambition,' but the theme might be 'Unchecked ambition leads to self-destruction.' Themes are rarely stated directly \u2014 they are implied through characters, plot, conflict, and symbols. A single work can have multiple themes. To identify theme, look at what the protagonist learns, how conflicts are resolved, what recurring symbols or motifs suggest, and what the title implies. Point of view (POV) is the perspective from which a story is told. First person ('I') creates intimacy but limits the reader to one character's perception. Third person limited follows one character's thoughts. Third person omniscient knows all characters' thoughts and feelings. Second person ('you') is rare but immersive. Unreliable narrators \u2014 first-person narrators whose accounts cannot be fully trusted \u2014 add complexity and force readers to read critically.",
+            "examples": [
+              {
+                "problem": "What is the difference between topic and theme?",
+                "answer": "Topic is a single word or phrase (e.g., 'friendship'). Theme is a complete statement about that topic (e.g., 'True friendship requires sacrifice and forgiveness').",
+                "explanation": "Theme expresses the author's insight or message, while topic is just the subject area."
+              },
+              {
+                "problem": "Why might an author choose an unreliable narrator?",
+                "answer": "An unreliable narrator forces the reader to question what is true, creating suspense and deeper engagement. It also reveals how perception shapes reality.",
+                "explanation": "Examples include the narrator in The Tell-Tale Heart (Poe) who insists he is sane while describing irrational behavior."
+              },
+              {
+                "problem": "In Animal Farm, the repeated change to the commandments suggests what theme?",
+                "answer": "Those in power will corrupt principles to maintain control.",
+                "explanation": "The gradual alteration of the commandments shows how language can be manipulated to serve those in power."
+              }
+            ],
+            "key_vocabulary": [
+              "theme",
+              "motif",
+              "point of view",
+              "first person",
+              "third person limited",
+              "third person omniscient",
+              "unreliable narrator",
+              "second person"
+            ],
+            "real_world": "Themes in literature reflect universal human experiences. The themes you encounter in ninth-grade reading \u2014 identity, justice, power, love \u2014 are the same questions humans have explored for thousands of years."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A theme is best described as:",
+              "options": [
+                "The subject of a story in one word",
+                "A complete insight or message about life conveyed by the work",
+                "A summary of the plot",
+                "The moral stated at the end"
+              ],
+              "correct": 1,
+              "hint": "Theme is a statement, not a single word."
+            },
+            {
+              "type": "fill_in",
+              "question": "A first-person narrator who cannot be fully trusted is called an ___ narrator.",
+              "answer": "unreliable"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which point of view uses 'you' to address the reader directly?",
+              "options": [
+                "First person",
+                "Second person",
+                "Third person limited",
+                "Third person omniscient"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A story can have only one theme.",
+              "answer": "false",
+              "hint": "Complex works often explore multiple themes simultaneously."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To identify theme, you should look at:",
+              "options": [
+                "Only the title",
+                "The protagonist's growth, conflict resolution, symbols, and motifs",
+                "The number of pages",
+                "The author's biography only"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A recurring image, symbol, or idea throughout a work is called a ___.",
+              "answer": "motif",
+              "hint": "It appears repeatedly to reinforce a theme."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-1-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The turning point of a story is called the:",
+            "options": [
+              "Exposition",
+              "Rising action",
+              "Climax",
+              "Denouement"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A dynamic character is one who:",
+            "options": [
+              "Stays the same throughout the story",
+              "Is energetic and exciting",
+              "Changes or grows as a result of the story's events",
+              "Appears in every scene"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The emotional atmosphere a reader experiences while reading is called the ___.",
+            "answer": "mood"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An unreliable narrator is problematic because:",
+            "options": [
+              "They tell the story in third person",
+              "Their account cannot be fully trusted, forcing critical reading",
+              "They are always the villain",
+              "They use second person"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Theme differs from topic because:",
+            "options": [
+              "Theme is shorter",
+              "Theme is a complete insight about life, not just a subject word",
+              "Theme is always stated directly",
+              "There is no difference"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fiction_elements_master"
+      }
+    },
+    {
+      "id": "9-ela-2",
+      "title": "Short Stories",
+      "description": "Analyze short fiction through literary devices including irony, symbolism, foreshadowing, and comparative analysis.",
+      "lessons": [
+        {
+          "id": "9-ela-2-1",
+          "title": "Analyzing Short Fiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Short stories differ from novels in that they must accomplish their goals \u2014 developing character, building conflict, conveying theme \u2014 in a compressed space. This compression demands precision: every word, detail, and scene must serve the story. When analyzing short fiction, examine the opening (how does the author hook the reader and establish the situation?), the central conflict (what is at stake?), the turning point (where does the story shift?), and the ending (is it resolved, ambiguous, or surprising?). Pay attention to what the author chooses to include and exclude. In a novel, a character's backstory might span chapters; in a short story, a single detail \u2014 a scar, an old photograph, a nervous habit \u2014 must convey volumes. Short stories often focus on a single moment of change or revelation, what James Joyce called an 'epiphany' \u2014 a moment when a character (or the reader) suddenly understands something profound.",
+            "examples": [
+              {
+                "problem": "Why is the opening of a short story especially important?",
+                "answer": "The opening must immediately establish character, setting, and conflict because the author has limited space. A strong opening hooks the reader and sets the story's tone.",
+                "explanation": "Unlike novels, short stories cannot afford slow beginnings."
+              },
+              {
+                "problem": "What is an epiphany in fiction?",
+                "answer": "An epiphany is a sudden moment of insight or understanding experienced by a character or the reader, often serving as the story's emotional climax.",
+                "explanation": "Joyce coined this term for fiction \u2014 it comes from the Greek word for 'revelation.'"
+              },
+              {
+                "problem": "How does compression affect a short story's use of detail?",
+                "answer": "Every detail must serve multiple purposes \u2014 a single object might establish setting, reveal character, and foreshadow the ending simultaneously.",
+                "explanation": "In Hemingway's 'Hills Like White Elephants,' the sparse details of a train station convey the entire emotional landscape of the characters' relationship."
+              }
+            ],
+            "key_vocabulary": [
+              "short fiction",
+              "compression",
+              "epiphany",
+              "in medias res",
+              "vignette",
+              "flash fiction",
+              "economy of language"
+            ],
+            "real_world": "Short-form storytelling is everywhere \u2014 from social media posts to advertisements to TED talks. The skill of conveying meaning concisely is valuable in any career."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An 'epiphany' in fiction is:",
+              "options": [
+                "A type of poem",
+                "A sudden moment of insight or revelation",
+                "The story's setting",
+                "A character's name"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Short stories demand ___ of language, meaning every word must serve the story.",
+              "answer": "economy",
+              "hint": "Think about being efficient with words."
+            },
+            {
+              "type": "fill_in",
+              "question": "Short stories can afford to develop characters slowly over many chapters.",
+              "answer": "false",
+              "hint": "Short stories must develop characters quickly through precise, meaningful details."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In medias res means beginning a story:",
+              "options": [
+                "At the end",
+                "In the middle of the action",
+                "With a long introduction",
+                "With a description of setting"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes short stories different from novels?",
+              "options": [
+                "They have no characters",
+                "They must achieve their goals in compressed space",
+                "They are always humorous",
+                "They never have conflict"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A very short short story, sometimes only a few hundred words, is called ___ fiction.",
+              "answer": "flash"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-2-2",
+          "title": "Irony in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Irony is one of the most powerful literary devices because it creates a gap between expectation and reality, often revealing deeper truths. There are three main types. Verbal irony occurs when a speaker says the opposite of what they mean \u2014 similar to sarcasm but often more subtle. Situational irony occurs when events turn out the opposite of what is expected. A fire station burns down. A marriage counselor gets divorced. Dramatic irony occurs when the audience knows something a character does not, creating tension or humor. In Romeo and Juliet, the audience knows Juliet is not really dead, but Romeo does not \u2014 and this gap in knowledge drives the tragedy. Irony can serve many purposes: it can create humor, heighten tragedy, expose hypocrisy, or reveal the absurdity of a situation. When analyzing irony, identify the type, explain the gap between expectation and reality, and discuss the effect it creates.",
+            "examples": [
+              {
+                "problem": "In 'The Gift of the Magi,' Della sells her hair to buy Jim a watch chain, and Jim sells his watch to buy Della hair combs. What type of irony is this?",
+                "answer": "Situational irony \u2014 each sacrifices the very thing that would make the other's gift useful.",
+                "explanation": "The outcome is the opposite of what each character intended, but it reveals the depth of their love."
+              },
+              {
+                "problem": "A character says 'What lovely weather' during a hurricane. What type of irony?",
+                "answer": "Verbal irony \u2014 the speaker means the opposite of what they say.",
+                "explanation": "The statement contrasts sharply with reality, creating humor or emphasizing the terrible conditions."
+              },
+              {
+                "problem": "In a horror movie, the audience sees the killer hiding behind the door, but the character walks in unsuspecting. What type of irony?",
+                "answer": "Dramatic irony \u2014 the audience knows more than the character.",
+                "explanation": "This gap in knowledge creates suspense and tension."
+              }
+            ],
+            "key_vocabulary": [
+              "verbal irony",
+              "situational irony",
+              "dramatic irony",
+              "sarcasm",
+              "expectation vs. reality",
+              "tension",
+              "hypocrisy"
+            ],
+            "real_world": "Irony is everywhere in daily life. When it rains on your wedding day or you get a parking ticket at the DMV, you experience situational irony. Recognizing irony sharpens your perception of the world."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When the audience knows something a character does not, it is called:",
+              "options": [
+                "Verbal irony",
+                "Situational irony",
+                "Dramatic irony",
+                "A metaphor"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "When a speaker says the opposite of what they mean, it is called ___ irony.",
+              "answer": "verbal"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In 'The Gift of the Magi,' the irony is:",
+              "options": [
+                "Verbal \u2014 someone says something sarcastic",
+                "Dramatic \u2014 the audience knows but characters do not",
+                "Situational \u2014 the outcome is the opposite of what was intended",
+                "There is no irony"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Sarcasm and verbal irony are exactly the same thing.",
+              "answer": "false",
+              "hint": "Sarcasm is a form of verbal irony, but verbal irony can be subtler and is not always mocking."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Irony creates its effect through:",
+              "options": [
+                "A gap between expectation and reality",
+                "Rhyming words",
+                "Long descriptions",
+                "First person narration"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "When events turn out the opposite of what is expected, it is called ___ irony.",
+              "answer": "situational"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-2-3",
+          "title": "Symbolism and Foreshadowing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Symbolism is the use of concrete objects, characters, or events to represent abstract ideas or concepts beyond their literal meaning. A rose might symbolize love; a storm might symbolize turmoil; a journey might symbolize personal growth. Symbols gain meaning through context \u2014 the same object can symbolize different things in different stories. Some symbols are universal (light = knowledge/goodness, darkness = ignorance/evil), while others are specific to a particular work. Foreshadowing is the technique of planting hints or clues about events that will occur later in the story. It builds suspense and creates a sense of inevitability. Foreshadowing can be direct (a character makes a prediction), indirect (an ominous description creates a mood), or symbolic (an object or event hints at what is to come). Chekhov's Gun is a principle of foreshadowing: if a gun is shown on the wall in Act 1, it must be fired by Act 3 \u2014 every element introduced should serve the story.",
+            "examples": [
+              {
+                "problem": "In Lord of the Flies, what does the conch shell symbolize?",
+                "answer": "The conch symbolizes order, democracy, and civilized authority. As it deteriorates and is eventually destroyed, so does the boys' civilization.",
+                "explanation": "The conch's fate mirrors the theme of civilization's fragility."
+              },
+              {
+                "problem": "A story begins with a character noticing a crack in the foundation of their house. What might this foreshadow?",
+                "answer": "It might foreshadow the breakdown of the character's family, relationships, or life \u2014 the 'foundation' of their world is weakening.",
+                "explanation": "Physical details often foreshadow emotional or thematic developments."
+              },
+              {
+                "problem": "What is Chekhov's Gun?",
+                "answer": "A storytelling principle stating that every element introduced in a story must be relevant. If a gun is shown early on, it must be used later.",
+                "explanation": "This principle teaches writers to be intentional and teaches readers to pay attention to every detail."
+              }
+            ],
+            "key_vocabulary": [
+              "symbolism",
+              "foreshadowing",
+              "Chekhov's Gun",
+              "motif",
+              "allegory",
+              "universal symbol",
+              "contextual symbol"
+            ],
+            "real_world": "Brands use symbolism constantly \u2014 Apple's bitten apple suggests knowledge and innovation. Foreshadowing appears in movie trailers and TV show teasers. These literary concepts operate everywhere in media."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A symbol in literature is:",
+              "options": [
+                "Always a person",
+                "A concrete object representing an abstract idea",
+                "The same as a simile",
+                "Only found in poetry"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The principle that every element in a story must serve a purpose is called Chekhov's ___.",
+              "answer": "Gun"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Foreshadowing creates:",
+              "options": [
+                "Confusion",
+                "Suspense and a sense of inevitability",
+                "Comedy",
+                "Flashbacks"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A symbol always means the same thing in every story.",
+              "answer": "false",
+              "hint": "Symbols gain meaning through context and can represent different ideas in different works."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Dark storm clouds gathering at the beginning of a story are likely:",
+              "options": [
+                "Just weather description",
+                "Foreshadowing conflict or trouble ahead",
+                "A flashback",
+                "Comic relief"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A story in which characters and events systematically represent abstract ideas is called an ___.",
+              "answer": "allegory"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-2-4",
+          "title": "Comparing and Contrasting Texts",
+          "type": "lesson",
+          "content": {
+            "explanation": "Comparing and contrasting texts is a fundamental skill in literary analysis. When you compare texts, you identify similarities; when you contrast, you identify differences. Effective comparison goes beyond surface-level observations ('both stories have main characters') to examine how different authors treat similar themes, use different narrative techniques, or reflect different cultural perspectives. You can compare texts across several dimensions: theme (do they convey similar or different messages about the same topic?), structure (how does each organize its narrative?), style (how do the authors' voices and techniques differ?), character (how are similar character types portrayed differently?), and cultural context (how do the authors' backgrounds influence their perspectives?). When writing a comparative analysis, avoid the 'ping-pong' approach of alternating between texts. Instead, organize by point of comparison, discussing both texts within each point. Use transitional language: 'similarly,' 'in contrast,' 'while both texts explore... they differ in...'",
+            "examples": [
+              {
+                "problem": "Compare how two stories might treat the theme of growing up.",
+                "answer": "One story might portray growing up as exciting and empowering (a coming-of-age adventure), while another might portray it as a loss of innocence and freedom. Both address maturation, but with opposite perspectives.",
+                "explanation": "Comparing themes means examining what each author says about the same topic."
+              },
+              {
+                "problem": "How might cultural context affect two stories about family?",
+                "answer": "A story set in individualist American culture might emphasize a character's independence from family, while a story set in collectivist culture might emphasize duty and connection to family. Both explore family, but cultural values shape the narrative.",
+                "explanation": "Cultural context influences what conflicts arise and how they are resolved."
+              },
+              {
+                "problem": "What is the difference between comparing style and comparing theme?",
+                "answer": "Theme comparison examines the messages of the works. Style comparison examines how the authors write \u2014 their diction, sentence structure, use of figurative language, and narrative voice.",
+                "explanation": "Two authors can explore the same theme in completely different styles."
+              }
+            ],
+            "key_vocabulary": [
+              "compare",
+              "contrast",
+              "comparative analysis",
+              "point of comparison",
+              "cultural context",
+              "thematic comparison",
+              "stylistic comparison"
+            ],
+            "real_world": "Comparison is a critical thinking skill used everywhere \u2014 comparing job offers, evaluating products, weighing political arguments. The ability to analyze similarities and differences systematically is invaluable."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Effective textual comparison focuses on:",
+              "options": [
+                "Surface-level similarities only",
+                "How different authors treat similar themes, techniques, and perspectives",
+                "Which text is longer",
+                "Which text was written first"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "When organizing a comparative essay, it is better to organize by ___ of comparison rather than alternating between texts.",
+              "answer": "point"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Cultural context in literary comparison refers to:",
+              "options": [
+                "The number of cultures in the story",
+                "How the author's cultural background influences their perspective and narrative choices",
+                "The setting of the story",
+                "Whether the story is fiction or nonfiction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Two stories with the same theme always convey the same message.",
+              "answer": "false",
+              "hint": "Two stories can share a topic but convey different or even opposite insights about it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which transition best introduces a contrast?",
+              "options": [
+                "Similarly",
+                "In addition",
+                "While both texts explore the theme of loss, they differ in",
+                "Furthermore"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Identifying similarities between texts is called comparing; identifying differences is called ___.",
+              "answer": "contrasting"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "An epiphany in a short story is:",
+            "options": [
+              "A long flashback",
+              "A sudden moment of insight or revelation",
+              "The setting description",
+              "A type of conflict"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Dramatic irony occurs when:",
+            "options": [
+              "A character says the opposite of what they mean",
+              "The outcome is opposite to expectations",
+              "The audience knows something a character does not",
+              "A story has no conflict"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The storytelling principle that every introduced element must serve a purpose is called Chekhov's ___.",
+            "answer": "Gun"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "When comparing two texts, you should organize by:",
+            "options": [
+              "Alternating randomly between texts",
+              "Points of comparison, discussing both texts within each point",
+              "Author's last name",
+              "Publication date"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Situational irony involves:",
+            "options": [
+              "A gap between what is expected and what actually happens",
+              "A character's internal thoughts",
+              "The story's setting",
+              "Dialogue between characters"
+            ],
+            "correct": 0
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "short_story_analyst"
+      }
+    },
+    {
+      "id": "9-ela-3",
+      "title": "Poetry",
+      "description": "Explore poetic forms, figurative language, sound devices, and analytical methods for interpreting poetry.",
+      "lessons": [
+        {
+          "id": "9-ela-3-1",
+          "title": "Poetic Forms: Sonnet, Haiku, and Free Verse",
+          "type": "lesson",
+          "content": {
+            "explanation": "Poetry comes in many forms, each with its own rules and possibilities. A sonnet is a 14-line poem, traditionally written in iambic pentameter (ten syllables per line with an unstressed-stressed pattern). The Shakespearean (English) sonnet has three quatrains and a final couplet with the rhyme scheme ABAB CDCD EFEF GG. The Petrarchan (Italian) sonnet has an octave (ABBAABBA) and a sestet (CDECDE or CDCDCD). The volta, or turn, is a shift in thought or argument that typically occurs between the octave and sestet (Petrarchan) or in the final couplet (Shakespearean). A haiku is a Japanese form consisting of three lines with 5, 7, and 5 syllables respectively. Traditional haiku capture a moment in nature and often include a seasonal reference (kigo). Free verse abandons regular meter and rhyme, relying instead on natural speech rhythms, line breaks, imagery, and other devices for its effects. Free verse is not formless \u2014 the poet makes deliberate choices about line length, enjambment, and spacing.",
+            "examples": [
+              {
+                "problem": "How many lines does a Shakespearean sonnet have, and what is its rhyme scheme?",
+                "answer": "14 lines with the rhyme scheme ABAB CDCD EFEF GG",
+                "explanation": "Three quatrains build the argument, and the final couplet provides a twist or resolution."
+              },
+              {
+                "problem": "Write the syllable pattern of a haiku.",
+                "answer": "5-7-5: five syllables, seven syllables, five syllables",
+                "explanation": "Despite its brevity, a haiku aims to capture a vivid moment and evoke emotion."
+              },
+              {
+                "problem": "What is the volta in a sonnet?",
+                "answer": "The volta is a turn or shift in the poem's argument, emotion, or perspective.",
+                "explanation": "In a Shakespearean sonnet, the volta usually appears in the final couplet; in a Petrarchan sonnet, it occurs between the octave and sestet."
+              }
+            ],
+            "key_vocabulary": [
+              "sonnet",
+              "Shakespearean sonnet",
+              "Petrarchan sonnet",
+              "haiku",
+              "free verse",
+              "iambic pentameter",
+              "quatrain",
+              "couplet",
+              "volta",
+              "kigo",
+              "enjambment"
+            ],
+            "real_world": "Song lyrics are a form of poetry, and many popular songs follow structures similar to sonnets (verses building to a bridge or chorus that shifts perspective). Understanding poetic forms enriches your appreciation of music."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A Shakespearean sonnet ends with:",
+              "options": [
+                "An octave",
+                "A sestet",
+                "A couplet",
+                "A haiku"
+              ],
+              "correct": 2,
+              "hint": "The final two lines of a Shakespearean sonnet rhyme with each other."
+            },
+            {
+              "type": "fill_in",
+              "question": "The turn or shift in a sonnet's argument is called the ___.",
+              "answer": "volta"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A haiku has how many syllables in its three lines?",
+              "options": [
+                "3-5-3",
+                "5-7-5",
+                "7-5-7",
+                "5-5-5"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Free verse has no rules or deliberate structural choices.",
+              "answer": "false",
+              "hint": "Free verse abandons regular meter and rhyme but still makes deliberate choices about line breaks, rhythm, and imagery."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Iambic pentameter consists of:",
+              "options": [
+                "Five stressed syllables",
+                "Ten syllables per line in an unstressed-stressed pattern",
+                "Fourteen lines",
+                "A rhyme scheme of AABB"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A group of four lines in a poem is called a ___.",
+              "answer": "quatrain"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-3-2",
+          "title": "Figurative Language in Poetry",
+          "type": "lesson",
+          "content": {
+            "explanation": "Figurative language is the heart of poetry, allowing poets to express ideas in ways that transcend literal meaning. A simile compares two unlike things using 'like' or 'as' ('My love is like a red, red rose'). A metaphor states that one thing is another ('All the world's a stage'). An extended metaphor develops a single metaphor throughout an entire poem or passage. Personification gives human qualities to non-human things ('The wind whispered secrets'). Hyperbole is deliberate exaggeration for emphasis ('I've told you a million times'). An oxymoron pairs contradictory terms ('deafening silence,' 'bittersweet'). A paradox is a statement that seems contradictory but reveals a deeper truth ('You must be cruel to be kind'). Allusion is a reference to another work, person, or event ('He was her Romeo'). Synecdoche uses a part to represent the whole ('All hands on deck') or the whole for a part. Understanding figurative language is essential for interpreting poetry because poems rarely mean only what they literally say.",
+            "examples": [
+              {
+                "problem": "Identify the figurative language: 'Hope is the thing with feathers that perches in the soul' (Emily Dickinson)",
+                "answer": "Extended metaphor \u2014 hope is compared to a bird throughout the poem.",
+                "explanation": "Dickinson does not say hope is 'like' a bird (that would be simile); she says it 'is' the thing with feathers, making it a metaphor."
+              },
+              {
+                "problem": "What is the effect of the oxymoron 'living death'?",
+                "answer": "It captures a state of existence that feels lifeless \u2014 being alive physically but dead emotionally or spiritually.",
+                "explanation": "The contradiction forces the reader to reconcile two opposing ideas, creating a powerful image."
+              },
+              {
+                "problem": "In 'The pen is mightier than the sword,' what figurative devices are used?",
+                "answer": "Synecdoche (pen = written word/ideas, sword = military force) and metaphor (comparing the power of writing to physical combat).",
+                "explanation": "The statement argues that ideas and communication are more powerful than violence."
+              }
+            ],
+            "key_vocabulary": [
+              "simile",
+              "metaphor",
+              "extended metaphor",
+              "personification",
+              "hyperbole",
+              "oxymoron",
+              "paradox",
+              "allusion",
+              "synecdoche"
+            ],
+            "real_world": "Figurative language fills everyday speech. 'Drowning in homework,' 'time flies,' 'break a leg' \u2014 we use metaphors, hyperbole, and idioms constantly without thinking about it."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'The stars danced in the sky' is an example of:",
+              "options": [
+                "Simile",
+                "Personification",
+                "Hyperbole",
+                "Oxymoron"
+              ],
+              "correct": 1,
+              "hint": "Stars cannot literally dance \u2014 they are given a human action."
+            },
+            {
+              "type": "fill_in",
+              "question": "A comparison using 'like' or 'as' is called a ___.",
+              "answer": "simile"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An oxymoron is:",
+              "options": [
+                "An exaggeration",
+                "A pair of contradictory terms used together",
+                "A reference to another work",
+                "A type of rhyme"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A metaphor uses the words 'like' or 'as' to compare two things.",
+              "answer": "false",
+              "hint": "A metaphor states one thing IS another; a simile uses 'like' or 'as.'"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'All hands on deck' is an example of:",
+              "options": [
+                "Hyperbole",
+                "Synecdoche",
+                "Paradox",
+                "Allusion"
+              ],
+              "correct": 1,
+              "hint": "'Hands' represents whole people \u2014 a part stands for the whole."
+            },
+            {
+              "type": "fill_in",
+              "question": "A reference to another literary work, person, or historical event is called an ___.",
+              "answer": "allusion"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-3-3",
+          "title": "Meter, Rhyme, and Sound Devices",
+          "type": "lesson",
+          "content": {
+            "explanation": "The music of poetry comes from its sound devices. Meter is the rhythmic pattern created by stressed and unstressed syllables. The basic unit of meter is the foot. An iamb is an unstressed-stressed pair (da-DUM), a trochee is stressed-unstressed (DUM-da), an anapest is two unstressed followed by stressed (da-da-DUM), and a dactyl is stressed followed by two unstressed (DUM-da-da). The number of feet per line determines the meter name: three feet is trimeter, four is tetrameter, five is pentameter. Rhyme scheme is the pattern of end rhymes, labeled with letters (ABAB, AABB, etc.). Internal rhyme occurs within a line. Slant rhyme (or near rhyme) uses words that almost but do not exactly rhyme (room/storm). Sound devices include alliteration (repeated consonant sounds at word beginnings: 'Peter Piper picked'), assonance (repeated vowel sounds: 'the rain in Spain'), consonance (repeated consonant sounds anywhere in words), and onomatopoeia (words that imitate sounds: 'buzz,' 'hiss,' 'crash').",
+            "examples": [
+              {
+                "problem": "Scan this line: 'Shall I compare thee to a summer's day?' What meter is it?",
+                "answer": "Iambic pentameter: shall-I / com-PARE / thee-TO / a-SUM / mer's-DAY \u2014 five iambic feet.",
+                "explanation": "This is the most common meter in English poetry, famously used by Shakespeare."
+              },
+              {
+                "problem": "Identify the sound device: 'The silken, sad, uncertain rustling'",
+                "answer": "Alliteration (repeated 's' sounds) and onomatopoeia ('rustling' imitates the sound it describes).",
+                "explanation": "Poe uses multiple sound devices in a single line to create an eerie, whispering atmosphere."
+              },
+              {
+                "problem": "What is the difference between alliteration and consonance?",
+                "answer": "Alliteration repeats consonant sounds at the beginning of words ('big bad bear'). Consonance repeats consonant sounds anywhere in words ('pitter patter').",
+                "explanation": "Alliteration is a specific type of consonance limited to word beginnings."
+              }
+            ],
+            "key_vocabulary": [
+              "meter",
+              "foot",
+              "iamb",
+              "trochee",
+              "anapest",
+              "dactyl",
+              "pentameter",
+              "rhyme scheme",
+              "slant rhyme",
+              "alliteration",
+              "assonance",
+              "consonance",
+              "onomatopoeia"
+            ],
+            "real_world": "Musicians, rappers, and spoken word artists all use these same sound devices. Alliteration makes brand names memorable (Coca-Cola, Best Buy). Rhyme and rhythm are fundamental to how humans process language."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An iamb is:",
+              "options": [
+                "Stressed-unstressed",
+                "Unstressed-stressed",
+                "Two stressed syllables",
+                "Three unstressed syllables"
+              ],
+              "correct": 1,
+              "hint": "Think: da-DUM, like a heartbeat."
+            },
+            {
+              "type": "fill_in",
+              "question": "Words that imitate the sounds they describe, like 'buzz' or 'crash,' use ___.",
+              "answer": "onomatopoeia"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Alliteration involves repeated:",
+              "options": [
+                "Vowel sounds",
+                "Consonant sounds at the beginning of words",
+                "End rhymes",
+                "Unstressed syllables"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Slant rhyme is an exact rhyme between two words.",
+              "answer": "false",
+              "hint": "Slant rhyme (or near rhyme) uses words that almost but do not exactly rhyme."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Pentameter means:",
+              "options": [
+                "Two feet per line",
+                "Three feet per line",
+                "Four feet per line",
+                "Five feet per line"
+              ],
+              "correct": 3
+            },
+            {
+              "type": "fill_in",
+              "question": "Repeated vowel sounds within words, as in 'the rain in Spain,' is called ___.",
+              "answer": "assonance"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-3-4",
+          "title": "Analyzing and Interpreting Poems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Analyzing a poem requires reading it multiple times with different purposes. First reading: understand the literal meaning \u2014 what is happening on the surface? Who is speaking? What is the situation? Second reading: examine the figurative meaning \u2014 what do the images, metaphors, and symbols suggest? Third reading: consider the structure \u2014 how do the form, meter, rhyme, and line breaks contribute to the meaning? When writing about poetry, use the TPCASTT method: Title (what does it suggest before reading?), Paraphrase (put the poem in your own words), Connotation (examine figurative language and imagery), Attitude (what is the speaker's tone?), Shifts (where does the poem change in tone, subject, or perspective?), Title again (reconsider the title after reading), and Theme (what is the poem's central message?). Support every claim with specific evidence from the text \u2014 quote exact words and lines. Discuss not just what a device is but why the poet uses it and what effect it creates.",
+            "examples": [
+              {
+                "problem": "Apply TPCASTT to analyze a poem's title before and after reading.",
+                "answer": "Before reading Robert Frost's 'The Road Not Taken,' the title suggests a physical road. After reading, the 'road' symbolizes a life choice, and 'not taken' emphasizes regret or curiosity about the path not chosen.",
+                "explanation": "Revisiting the title after analysis often reveals deeper layers of meaning."
+              },
+              {
+                "problem": "How do line breaks affect meaning in free verse?",
+                "answer": "Line breaks control pacing, create emphasis, and can create double meanings. Breaking a line mid-sentence (enjambment) creates momentum; ending a line at a natural pause (end-stopped) creates finality.",
+                "explanation": "Where a poet breaks a line is a deliberate artistic choice that shapes how the reader experiences the poem."
+              },
+              {
+                "problem": "Why is it important to identify shifts in a poem?",
+                "answer": "Shifts mark where the poem's argument, mood, or perspective changes. They often signal the poem's deeper meaning \u2014 the contrast between before and after the shift reveals the poet's message.",
+                "explanation": "Shift words include 'but,' 'yet,' 'however,' 'although,' and 'still.'"
+              }
+            ],
+            "key_vocabulary": [
+              "TPCASTT",
+              "paraphrase",
+              "connotation",
+              "tone",
+              "shift",
+              "close reading",
+              "textual evidence",
+              "enjambment",
+              "end-stopped"
+            ],
+            "real_world": "Close reading skills transfer to analyzing any text \u2014 legal documents, scientific papers, song lyrics, speeches. The ability to read carefully and extract meaning is one of the most valuable skills you can develop."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The T in TPCASTT stands for:",
+              "options": [
+                "Theme (only at the end)",
+                "Title (considered before and after reading)",
+                "Tone",
+                "Transition"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "When a line of poetry ends without a pause and continues into the next line, it is called ___.",
+              "answer": "enjambment"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many times should you read a poem for thorough analysis?",
+              "options": [
+                "Once is enough",
+                "At least twice, with different purposes each time",
+                "At least three times \u2014 literal, figurative, and structural readings",
+                "It depends on the poem's length only"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "When writing about poetry, you should make claims without quoting the text.",
+              "answer": "false",
+              "hint": "Every analytical claim must be supported with specific evidence (quotations) from the poem."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 'shift' in a poem refers to:",
+              "options": [
+                "A change in font size",
+                "A change in tone, subject, or perspective",
+                "The end of the poem",
+                "A line break"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The speaker's attitude toward the subject, revealed through word choice and style, is called ___.",
+              "answer": "tone"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-3-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A Shakespearean sonnet's rhyme scheme is:",
+            "options": [
+              "ABBAABBA CDECDE",
+              "ABAB CDCD EFEF GG",
+              "AABB CCDD",
+              "No rhyme scheme"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A comparison that states one thing IS another without using 'like' or 'as' is a ___.",
+            "answer": "metaphor"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Onomatopoeia is:",
+            "options": [
+              "Exaggeration for effect",
+              "Words that imitate sounds",
+              "A type of rhyme",
+              "A contradictory statement"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The TPCASTT method ends with identifying the poem's:",
+            "options": [
+              "Tone",
+              "Title",
+              "Theme",
+              "Transitions"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The rhythmic pattern of stressed and unstressed syllables in poetry is called ___.",
+            "answer": "meter"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "poetry_scholar"
+      }
+    },
+    {
+      "id": "9-ela-4",
+      "title": "World Literature Survey",
+      "description": "Explore myths, epics, and literature from Africa, Asia, and Latin America, understanding how cultural context shapes literary expression.",
+      "lessons": [
+        {
+          "id": "9-ela-4-1",
+          "title": "Myths and Epics",
+          "type": "lesson",
+          "content": {
+            "explanation": "Myths and epics are among the oldest forms of literature, originating in oral traditions before being written down. Myths are traditional stories that explain natural phenomena, cultural practices, or fundamental questions about human existence \u2014 the origin of the world, why seasons change, what happens after death. They feature gods, supernatural beings, and heroic humans. An epic is a long narrative poem celebrating a hero's adventures on a grand scale. Common epic conventions include: beginning in medias res, invoking a muse, featuring a hero of noble birth or great importance, vast settings spanning nations or worlds, supernatural elements, elevated or formal language, and a hero's journey structure. The hero's journey (Joseph Campbell's monomyth) follows a pattern: the ordinary world, the call to adventure, crossing the threshold, trials and allies, the ordeal, the reward, and the return transformed. Understanding myths and epics reveals universal human concerns that transcend time and culture.",
+            "examples": [
+              {
+                "problem": "What are the key conventions of an epic poem?",
+                "answer": "An epic typically begins in medias res, invokes a muse, features a noble hero, spans vast settings, includes supernatural elements, uses elevated language, and follows the hero's journey.",
+                "explanation": "These conventions appear in works from the Iliad to Beowulf to the Odyssey."
+              },
+              {
+                "problem": "How does the hero's journey apply to modern stories?",
+                "answer": "Star Wars follows the monomyth closely: Luke lives in his ordinary world (the farm), receives the call (Leia's message), crosses the threshold (leaves Tatooine), faces trials (training, battles), and returns transformed (a Jedi).",
+                "explanation": "Campbell's hero's journey pattern appears across cultures and centuries because it reflects universal human experiences of growth."
+              },
+              {
+                "problem": "Why do different cultures have similar flood myths?",
+                "answer": "Many cultures experienced catastrophic floods, and myths provided explanations within their belief systems. The similarity suggests shared human concerns about survival, divine judgment, and renewal.",
+                "explanation": "The Epic of Gilgamesh, the biblical Noah story, and Hindu flood myths all share core elements despite arising independently."
+              }
+            ],
+            "key_vocabulary": [
+              "myth",
+              "epic",
+              "oral tradition",
+              "hero's journey",
+              "monomyth",
+              "in medias res",
+              "invocation",
+              "epic convention",
+              "archetype"
+            ],
+            "real_world": "The hero's journey structure dominates modern entertainment \u2014 Marvel movies, video games, and bestselling novels all follow this ancient pattern. Understanding it helps you see the frameworks behind the stories you consume daily."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An epic poem typically begins:",
+              "options": [
+                "With a detailed family tree",
+                "In medias res (in the middle of the action)",
+                "At the end of the story",
+                "With a joke"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Joseph Campbell's pattern of the hero's adventure is called the ___.",
+              "answer": "monomyth"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Myths primarily serve to:",
+              "options": [
+                "Entertain children at bedtime",
+                "Explain natural phenomena, cultural practices, and existential questions",
+                "Record historical facts accurately",
+                "Teach grammar rules"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The hero's journey pattern is found only in ancient literature.",
+              "answer": "false",
+              "hint": "The monomyth appears across all time periods and cultures, including modern films and novels."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An archetype is:",
+              "options": [
+                "A type of architecture",
+                "A universally recognized character type, symbol, or pattern",
+                "A grammatical structure",
+                "A form of punctuation"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Traditional stories passed down through spoken word before being written belong to the ___ tradition.",
+              "answer": "oral"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-4-2",
+          "title": "African and Asian Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "African literature encompasses a vast range of traditions across a continent of 54 countries and thousands of ethnic groups. The oral tradition includes griots (West African storytellers who preserve history through narrative and song), Anansi stories (West African spider trickster tales that traveled to the Caribbean), and praise poetry. Modern African literature, written in both indigenous languages and colonial languages, often explores themes of colonialism and its aftermath, cultural identity, the tension between tradition and modernity, and social justice. Chinua Achebe's Things Fall Apart is a landmark novel that tells the story of colonialism from an African perspective. Asian literature is equally diverse. Chinese literature has a tradition spanning thousands of years, including the poetry of Li Bai and Du Fu, philosophical works of Confucius and Laozi, and novels like Journey to the West. Japanese literature includes the world's first novel (The Tale of Genji by Murasaki Shikibu), haiku poetry by Matsuo Basho, and the concept of mono no aware (the bittersweet awareness of impermanence). Indian literature includes the ancient epics Mahabharata and Ramayana, and modern works exploring caste, identity, and postcolonial experience.",
+            "examples": [
+              {
+                "problem": "What role does the griot play in West African culture?",
+                "answer": "The griot is a storyteller, historian, and musician who preserves cultural history, genealogy, and moral lessons through oral narrative and song.",
+                "explanation": "Griots are living libraries \u2014 they carry entire histories in their memories and pass them to the next generation."
+              },
+              {
+                "problem": "Why is Things Fall Apart considered a landmark work?",
+                "answer": "It was one of the first widely-read novels to tell the story of colonialism from an African perspective, challenging the one-sided portrayals in Western literature.",
+                "explanation": "Achebe responded directly to Joseph Conrad's Heart of Darkness, which depicted Africans as voiceless and uncivilized."
+              },
+              {
+                "problem": "What is mono no aware in Japanese literature?",
+                "answer": "Mono no aware is a Japanese aesthetic concept meaning 'the pathos of things' \u2014 a bittersweet awareness that beauty is fleeting and all things are impermanent.",
+                "explanation": "This concept shapes much of Japanese poetry and fiction, where the beauty of cherry blossoms, for example, is enhanced by their brief blooming."
+              }
+            ],
+            "key_vocabulary": [
+              "griot",
+              "oral tradition",
+              "Anansi",
+              "postcolonial literature",
+              "Things Fall Apart",
+              "mono no aware",
+              "The Tale of Genji",
+              "Mahabharata",
+              "Ramayana"
+            ],
+            "real_world": "Understanding world literature broadens your perspective and builds empathy. In a globalized world, the ability to understand and appreciate diverse cultural narratives is essential for communication and cooperation."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A griot in West African culture is:",
+              "options": [
+                "A type of drum",
+                "A storyteller and historian who preserves culture through oral narrative",
+                "A written text",
+                "A religious leader"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Chinua Achebe's novel ___ tells the story of colonialism from an African perspective.",
+              "answer": "Things Fall Apart"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Tale of Genji is significant because:",
+              "options": [
+                "It is the longest novel ever written",
+                "It is considered the world's first novel",
+                "It was written in English",
+                "It is an epic poem"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "African literature consists only of ancient oral traditions.",
+              "answer": "false",
+              "hint": "African literature includes both ancient oral traditions and a vibrant modern literary tradition in multiple languages."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Mono no aware refers to:",
+              "options": [
+                "A type of martial art",
+                "The bittersweet awareness of impermanence",
+                "A rhyme scheme",
+                "A form of government"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The West African trickster spider who appears in many folktales is called ___.",
+              "answer": "Anansi"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-4-3",
+          "title": "Latin American Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Latin American literature is known for its rich blend of indigenous, European, and African influences, and for its groundbreaking literary movement: magical realism. Magical realism weaves supernatural or fantastical elements into otherwise realistic narratives, presenting them as ordinary and unremarkable. Gabriel Garcia Marquez's One Hundred Years of Solitude is the quintessential magical realist novel, blending the fantastical (a rain of yellow flowers, a woman ascending to heaven while hanging laundry) with the political and social realities of Latin American life. Other major figures include Isabel Allende (The House of the Spirits), Jorge Luis Borges (mind-bending short stories exploring infinity, labyrinths, and the nature of reality), Pablo Neruda (Chilean poet known for passionate love poems and political poetry), and Octavio Paz (Mexican poet and essayist). Latin American literature frequently explores themes of political oppression, revolution, cultural identity, the legacy of colonialism, and the relationship between reality and imagination. The boom of the 1960s and 70s brought Latin American literature to a global audience.",
+            "examples": [
+              {
+                "problem": "What is magical realism?",
+                "answer": "Magical realism is a literary style in which supernatural or fantastical events are presented as normal, everyday occurrences within an otherwise realistic narrative.",
+                "explanation": "The key is that magical elements are not treated as surprising \u2014 characters react to them as if they are ordinary."
+              },
+              {
+                "problem": "Why did magical realism develop in Latin America?",
+                "answer": "It reflects a worldview in which indigenous spiritual traditions, colonial history, political violence, and everyday life coexist in ways that 'pure realism' cannot capture. The magical elements often represent truths too large or painful for realistic depiction.",
+                "explanation": "The blend of cultures in Latin America \u2014 indigenous, European, African \u2014 created a literary tradition that sees multiple realities as valid."
+              },
+              {
+                "problem": "How does Jorge Luis Borges differ from Gabriel Garcia Marquez?",
+                "answer": "While both use fantastical elements, Borges writes philosophical short stories exploring abstract concepts (infinity, time, identity), while Garcia Marquez grounds his magical realism in the social and political reality of Latin American communities.",
+                "explanation": "Borges is more cerebral and puzzle-like; Garcia Marquez is more emotional and epic."
+              }
+            ],
+            "key_vocabulary": [
+              "magical realism",
+              "the boom",
+              "One Hundred Years of Solitude",
+              "Borges",
+              "Neruda",
+              "Allende",
+              "postcolonial",
+              "indigenous influence"
+            ],
+            "real_world": "Magical realism has influenced artists, filmmakers, and writers worldwide. Movies like Pan's Labyrinth and novels by authors like Salman Rushdie and Toni Morrison use magical realist techniques to explore cultural and political realities."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Magical realism is characterized by:",
+              "options": [
+                "Stories set entirely in fantasy worlds",
+                "Supernatural elements presented as ordinary within a realistic setting",
+                "Horror and suspense",
+                "Strict adherence to scientific reality"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Gabriel Garcia Marquez's landmark magical realist novel is called ___.",
+              "answer": "One Hundred Years of Solitude"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Latin American literary 'boom' refers to:",
+              "options": [
+                "An explosion",
+                "A period in the 1960s-70s when Latin American literature gained global recognition",
+                "The invention of the printing press in Latin America",
+                "A type of poetry"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Magical realism treats supernatural events as shocking and extraordinary.",
+              "answer": "false",
+              "hint": "In magical realism, supernatural events are presented as normal and unremarkable."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Jorge Luis Borges is known for:",
+              "options": [
+                "Long epic novels",
+                "Philosophical short stories exploring infinity, labyrinths, and reality",
+                "Children's picture books",
+                "Romantic comedies"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Pablo Neruda, known for passionate love poems and political poetry, was from ___.",
+              "answer": "Chile"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-4-4",
+          "title": "Cultural Context in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every literary work is shaped by the cultural, historical, and social context in which it was created. Cultural context includes the beliefs, values, traditions, social structures, and historical events of the author's time and place. Understanding context enriches interpretation \u2014 without knowing about apartheid, you cannot fully understand South African literature; without knowing about the caste system, aspects of Indian literature remain opaque. However, contextual reading must be balanced with textual analysis. The goal is not to reduce a work to its context ('This is just about colonialism') but to see how context and artistry interact. Consider how the author's position within their culture shapes their perspective \u2014 are they writing from the dominant or marginalized perspective? Are they challenging or reinforcing cultural norms? Also consider how your own cultural context as a reader affects your interpretation. A work may mean different things to readers from different backgrounds, and that diversity of interpretation enriches rather than diminishes literature. When we read world literature, we practice empathy \u2014 we inhabit perspectives and experiences different from our own.",
+            "examples": [
+              {
+                "problem": "How does knowing about apartheid help you understand South African literature?",
+                "answer": "Apartheid (racial segregation enforced by law from 1948-1994) created a society of extreme inequality, violence, and resistance. South African literature from this period is shaped by these realities \u2014 themes of injustice, identity, resistance, and reconciliation are rooted in this context.",
+                "explanation": "Without this knowledge, a reader might miss the political significance of seemingly personal stories."
+              },
+              {
+                "problem": "Why is it important to consider the author's position within their culture?",
+                "answer": "An author writing from a marginalized perspective may challenge dominant narratives, while an author from the dominant culture may unconsciously reinforce assumptions. Understanding their position helps you evaluate their perspective critically.",
+                "explanation": "For example, a colonial-era novel about Africa written by a British author reflects a very different perspective than one written by an African author."
+              },
+              {
+                "problem": "How does your own cultural background affect your reading?",
+                "answer": "Your experiences, values, and assumptions shape what you notice, what you relate to, and what you find strange. Being aware of your own cultural lens helps you read more openly and avoid imposing your perspective on texts from other cultures.",
+                "explanation": "This self-awareness is part of becoming a skilled, empathetic reader."
+              }
+            ],
+            "key_vocabulary": [
+              "cultural context",
+              "historical context",
+              "social context",
+              "perspective",
+              "marginalized voice",
+              "dominant narrative",
+              "empathy",
+              "interpretation",
+              "reader response"
+            ],
+            "real_world": "In a globalized world, you will work with people from many cultural backgrounds. The ability to understand how culture shapes perspective \u2014 a skill developed through reading world literature \u2014 is essential for collaboration, diplomacy, and leadership."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Cultural context in literature includes:",
+              "options": [
+                "Only the publication date",
+                "Beliefs, values, traditions, social structures, and historical events of the author's time and place",
+                "The book's price",
+                "The number of pages"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Reading world literature helps develop ___, the ability to understand and share the feelings of others.",
+              "answer": "empathy"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When analyzing a work from another culture, you should:",
+              "options": [
+                "Ignore the cultural context",
+                "Only focus on cultural context, not the text itself",
+                "Balance contextual understanding with textual analysis",
+                "Assume your interpretation is the only valid one"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A literary work can only have one correct interpretation.",
+              "answer": "false",
+              "hint": "Different readers from different backgrounds may interpret a work differently, and that diversity enriches understanding."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An author writing from a marginalized perspective is likely to:",
+              "options": [
+                "Reinforce dominant cultural assumptions",
+                "Challenge dominant narratives and offer alternative perspectives",
+                "Write only about happy subjects",
+                "Avoid controversial topics"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The cultural, historical, and social circumstances surrounding a work's creation make up its ___.",
+              "answer": "context"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-4-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The hero's journey pattern is also called the:",
+            "options": [
+              "Epic convention",
+              "Monomyth",
+              "Magical realism",
+              "Oral tradition"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A West African storyteller who preserves history through narrative is called a ___.",
+            "answer": "griot"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Magical realism presents supernatural elements as:",
+            "options": [
+              "Terrifying and shocking",
+              "Normal and unremarkable within a realistic setting",
+              "Scientific phenomena",
+              "Dreams"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Cultural context includes:",
+            "options": [
+              "Only the author's biography",
+              "Beliefs, values, traditions, historical events, and social structures",
+              "Only the setting of the story",
+              "The reader's preferences"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Chinua Achebe's landmark novel is called ___.",
+            "answer": "Things Fall Apart"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_literature_explorer"
+      }
+    },
+    {
+      "id": "9-ela-5",
+      "title": "Narrative Writing",
+      "description": "Develop narrative writing skills including personal narratives, descriptive writing, dialogue, and revision strategies.",
+      "lessons": [
+        {
+          "id": "9-ela-5-1",
+          "title": "The Personal Narrative",
+          "type": "lesson",
+          "content": {
+            "explanation": "A personal narrative tells a true story from your own life, using literary techniques to make it compelling. Unlike a diary entry, a personal narrative is crafted with a purpose \u2014 it conveys a theme or insight gained from the experience. Strong personal narratives focus on a specific moment or brief period rather than trying to cover too much time. They include vivid sensory details, authentic dialogue, and internal reflection. The structure typically follows a narrative arc: establish the situation, build tension through complications or conflict, reach a turning point or moment of realization, and reflect on the significance. The best personal narratives have both an external story (what happened) and an internal story (how you changed or what you understood). Begin in a way that immediately engages the reader \u2014 not with 'This story is about the time I...' but by dropping the reader into the moment. End with reflection that connects the personal experience to a broader insight without being heavy-handed or preachy.",
+            "examples": [
+              {
+                "problem": "What is the difference between a diary entry and a personal narrative?",
+                "answer": "A diary entry records events chronologically for personal record. A personal narrative is a crafted story that uses literary techniques (dialogue, imagery, pacing) to convey a specific theme or insight to a reader.",
+                "explanation": "A personal narrative transforms raw experience into art with a purpose."
+              },
+              {
+                "problem": "Why should a personal narrative focus on a specific moment rather than a long time period?",
+                "answer": "A focused moment allows for rich, detailed storytelling \u2014 vivid descriptions, dialogue, internal thoughts. Covering too much time forces the writer to summarize rather than show, losing the reader's emotional engagement.",
+                "explanation": "Think of a photograph vs. a time-lapse. The photograph captures a single powerful moment in detail."
+              },
+              {
+                "problem": "How should a personal narrative end?",
+                "answer": "With reflection that connects the experience to a broader insight. The ending should feel earned \u2014 the reader should understand why this story matters \u2014 without being preachy or overly moral.",
+                "explanation": "The best endings leave the reader thinking, not lecturing them about what to think."
+              }
+            ],
+            "key_vocabulary": [
+              "personal narrative",
+              "narrative arc",
+              "sensory details",
+              "reflection",
+              "internal story",
+              "external story",
+              "turning point",
+              "insight"
+            ],
+            "real_world": "Personal narratives are used in college application essays, job interviews ('Tell me about a time when...'), TED talks, and memoir writing. The ability to tell a meaningful personal story is a powerful communication skill."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A personal narrative differs from a diary entry because it:",
+              "options": [
+                "Is always fiction",
+                "Is crafted with literary techniques to convey a theme or insight",
+                "Must be exactly one page",
+                "Is written in third person"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The two layers of a personal narrative are the external story (what happened) and the ___ story (how you changed).",
+              "answer": "internal"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The best way to begin a personal narrative is:",
+              "options": [
+                "'This story is about the time I...'",
+                "By dropping the reader into the moment with action or vivid detail",
+                "With a dictionary definition",
+                "With a list of characters"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A personal narrative should try to cover as much time as possible.",
+              "answer": "false",
+              "hint": "Focusing on a specific moment allows for rich detail and emotional depth."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sensory details are important in personal narrative because they:",
+              "options": [
+                "Make the essay longer",
+                "Help the reader experience the moment as if they were there",
+                "Are required by MLA format",
+                "Replace the need for a thesis statement"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The moment of change or realization in a personal narrative is called the ___ point.",
+              "answer": "turning"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-5-2",
+          "title": "Descriptive Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Descriptive writing paints a picture with words, using sensory language to create vivid images in the reader's mind. Effective description appeals to all five senses \u2014 not just sight, but sound, smell, taste, and touch. Show, don't tell: instead of writing 'The room was messy,' write 'Crumpled papers spilled from the overturned wastebasket, a half-eaten sandwich hardened on the desk, and dust motes swirled in the shaft of light from the cracked blinds.' Use precise, specific language rather than vague generalities. Instead of 'a big tree,' write 'a gnarled oak whose branches spread like arthritic fingers.' Figurative language (similes, metaphors, personification) adds layers of meaning to description. Organization matters: move logically through space (top to bottom, near to far, outside to inside) or organize by dominant impression \u2014 choose an overall feeling or mood and select details that reinforce it. Not everything needs to be described. Choose details strategically \u2014 the telling detail that reveals character, mood, or theme is more powerful than a comprehensive inventory.",
+            "examples": [
+              {
+                "problem": "Rewrite 'She was sad' using descriptive language.",
+                "answer": "'Her shoulders curved inward as if shielding something fragile. She pressed her lips together, but a tremor passed through her chin, and she turned toward the window where rain streaked the glass like the tears she would not let fall.'",
+                "explanation": "This shows sadness through physical details and imagery rather than naming the emotion."
+              },
+              {
+                "problem": "Why is 'a gnarled oak with branches like arthritic fingers' more effective than 'a big old tree'?",
+                "answer": "It is specific, visual, and uses a simile that conveys age and character. The reader can see this particular tree, not just any generic tree.",
+                "explanation": "Precise, figurative language creates vivid images; vague language creates nothing."
+              },
+              {
+                "problem": "What is a dominant impression?",
+                "answer": "A dominant impression is the overall mood or feeling the writer wants to create. Every descriptive detail should support this impression \u2014 creating unity and emotional impact.",
+                "explanation": "If the dominant impression is 'eerie,' every detail (shadows, silence, cold drafts) reinforces that feeling."
+              }
+            ],
+            "key_vocabulary": [
+              "descriptive writing",
+              "sensory language",
+              "show don't tell",
+              "precise language",
+              "dominant impression",
+              "figurative language",
+              "imagery",
+              "telling detail"
+            ],
+            "real_world": "Descriptive writing skills are used in journalism, marketing, real estate listings, travel writing, food criticism, and any field where you need to help someone see, feel, or experience something through words alone."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "'Show, don't tell' means:",
+              "options": [
+                "Write longer sentences",
+                "Use specific sensory details and actions instead of naming emotions or qualities directly",
+                "Include a lot of dialogue",
+                "Use formal vocabulary"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The overall mood or feeling a writer creates through carefully chosen details is called the ___ impression.",
+              "answer": "dominant"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which sentence best uses descriptive writing?",
+              "options": [
+                "The food was good.",
+                "The warm cinnamon aroma drifted from the kitchen as the pie's golden crust crackled in the oven.",
+                "I ate dinner and it was fine.",
+                "The meal was delicious and everyone liked it."
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Effective description should appeal only to the sense of sight.",
+              "answer": "false",
+              "hint": "Strong descriptions use all five senses \u2014 sight, sound, smell, taste, and touch."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 'telling detail' is:",
+              "options": [
+                "A detail that gives away the ending",
+                "A strategically chosen detail that reveals character, mood, or theme",
+                "Every possible detail about a scene",
+                "A detail the reader already knows"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Instead of vague generalities, descriptive writing should use ___, specific language.",
+              "answer": "precise"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-5-3",
+          "title": "Writing Effective Dialogue",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dialogue brings characters to life and advances the story in ways that narration alone cannot. Effective dialogue sounds natural but is more purposeful than real speech \u2014 it eliminates the 'um's,' repetitions, and dead-end conversations of actual talk. Every line of dialogue should serve at least one purpose: reveal character, advance plot, build tension, provide information, or establish relationships. Characters should sound distinct \u2014 a scientist, a child, and a grandmother should not all speak the same way. Dialect, vocabulary, sentence length, and speech patterns differentiate characters. Use dialogue tags sparingly and simply. 'Said' is nearly invisible to readers \u2014 avoid overusing alternatives like 'exclaimed,' 'proclaimed,' 'uttered.' Let the dialogue itself convey emotion. Instead of 'she said angrily,' write dialogue that sounds angry: 'You have no idea what you've done.' Action beats (descriptions of what characters do while speaking) can replace dialogue tags and add visual dimension: 'She slammed the book shut. \"We're done here.\"' Follow standard formatting: new paragraph for each speaker, quotation marks around spoken words, punctuation inside quotes.",
+            "examples": [
+              {
+                "problem": "Why is 'said' usually the best dialogue tag?",
+                "answer": "Because it is nearly invisible to readers \u2014 it does not distract from the dialogue itself. Flashy alternatives like 'exclaimed' or 'proclaimed' draw attention to the tag rather than the words.",
+                "explanation": "The dialogue should do the work of conveying emotion, not the tag."
+              },
+              {
+                "problem": "What is an action beat and how does it replace a dialogue tag?",
+                "answer": "An action beat describes what a character does while speaking. Instead of '\"I don't care,\" she said dismissively,' write '\"I don't care.\" She turned back to her phone.' The action conveys the tone.",
+                "explanation": "Action beats add physical dimension and avoid repetitive 'she said' constructions."
+              },
+              {
+                "problem": "How should two characters with different backgrounds speak differently?",
+                "answer": "A professor might use complex vocabulary and complete sentences. A teenager might use slang, fragments, and filler words. These differences in diction, syntax, and rhythm make each character distinctive.",
+                "explanation": "If you cover the dialogue tags, you should still be able to tell who is speaking based on how they talk."
+              }
+            ],
+            "key_vocabulary": [
+              "dialogue",
+              "dialogue tag",
+              "action beat",
+              "subtext",
+              "dialect",
+              "voice",
+              "formatting",
+              "characterization through dialogue"
+            ],
+            "real_world": "Dialogue is essential in screenwriting, playwriting, podcast scripting, and even business communication. Understanding how people communicate through speech \u2014 and how to craft effective dialogue \u2014 is a transferable skill."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Every line of dialogue should:",
+              "options": [
+                "Be exactly ten words long",
+                "Serve a purpose such as revealing character or advancing plot",
+                "Use a unique, creative dialogue tag",
+                "Include a metaphor"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Descriptions of what characters do while speaking, used instead of dialogue tags, are called action ___.",
+              "answer": "beats"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The best default dialogue tag is:",
+              "options": [
+                "Exclaimed",
+                "Proclaimed",
+                "Said",
+                "Uttered"
+              ],
+              "correct": 2,
+              "hint": "'Said' is nearly invisible to readers and lets the dialogue speak for itself."
+            },
+            {
+              "type": "fill_in",
+              "question": "Dialogue in fiction should be an exact transcript of how people actually talk.",
+              "answer": "false",
+              "hint": "Dialogue should sound natural but is more purposeful \u2014 it eliminates the filler and dead ends of real speech."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Characters should sound distinct in dialogue through differences in:",
+              "options": [
+                "Font size",
+                "Vocabulary, sentence length, dialect, and speech patterns",
+                "The number of quotation marks",
+                "Paragraph length"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "When a character's words carry a hidden meaning beneath the surface, it is called ___.",
+              "answer": "subtext"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-5-4",
+          "title": "Revision Strategies for Narrative Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Writing is rewriting. The first draft gets your ideas on paper; revision transforms them into effective writing. Revision operates on multiple levels. Global revision examines the big picture: Is the narrative arc clear? Does the story have a point? Is there enough tension and conflict? Are any sections unnecessary? Is the pacing right? Local revision examines paragraphs and sentences: Are transitions smooth? Is the language precise? Are there cliches that should be replaced with fresh language? Line editing focuses on individual sentences: Is the sentence structure varied? Are there unnecessary words? Does every word earn its place? Finally, proofreading catches surface errors: spelling, grammar, punctuation, formatting. These levels should be addressed in order \u2014 do not proofread commas before you have confirmed the story's structure works. Useful revision techniques include reading aloud (you hear awkwardness your eyes skip over), peer review (others catch what you are too close to see), reverse outlining (outline your draft to check its structure), and the 'so what?' test (asking whether every section justifies its inclusion).",
+            "examples": [
+              {
+                "problem": "What is the difference between revision and proofreading?",
+                "answer": "Revision involves rethinking and reshaping content \u2014 restructuring, adding, cutting, and rewriting for clarity, impact, and purpose. Proofreading is surface-level correction of spelling, grammar, and punctuation errors.",
+                "explanation": "Revision is about making the writing better; proofreading is about making it correct."
+              },
+              {
+                "problem": "Why should you read your writing aloud during revision?",
+                "answer": "Your ear catches what your eye misses \u2014 awkward rhythms, unnatural dialogue, run-on sentences, and repetitive words become obvious when spoken. Reading aloud also helps you check pacing and flow.",
+                "explanation": "Professional writers and editors consistently cite reading aloud as one of the most effective revision techniques."
+              },
+              {
+                "problem": "What is a reverse outline?",
+                "answer": "After writing a draft, you create an outline of what you actually wrote (not what you planned to write). This reveals structural problems \u2014 missing transitions, sections that do not connect, ideas out of order.",
+                "explanation": "Comparing the reverse outline to your intended structure shows where the draft went off track."
+              }
+            ],
+            "key_vocabulary": [
+              "revision",
+              "global revision",
+              "local revision",
+              "line editing",
+              "proofreading",
+              "peer review",
+              "reverse outline",
+              "pacing",
+              "cliche"
+            ],
+            "real_world": "Every professional writer revises extensively. Published novels go through many drafts. Revision is not a sign of failure \u2014 it is how good writing is made. This skill transfers to any field where clear communication matters."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The correct order of revision levels is:",
+              "options": [
+                "Proofreading, then line editing, then global revision",
+                "Global revision, local revision, line editing, then proofreading",
+                "Line editing first, then add more content",
+                "There is no order \u2014 fix everything at once"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A technique where you create an outline of your completed draft to check its structure is called a ___ outline.",
+              "answer": "reverse"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Reading your writing aloud helps you:",
+              "options": [
+                "Write faster",
+                "Catch awkward rhythms, unnatural dialogue, and pacing issues your eye might miss",
+                "Avoid using quotation marks",
+                "Skip the revision process"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The first draft is usually the final draft for skilled writers.",
+              "answer": "false",
+              "hint": "Professional writers revise extensively. Writing is rewriting."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An overused expression that has lost its impact, like 'it was a dark and stormy night,' is called a:",
+              "options": [
+                "Metaphor",
+                "Simile",
+                "Cliche",
+                "Paradox"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Asking whether every section of your writing justifies its inclusion is called the 'so ___?' test.",
+              "answer": "what"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-5-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A personal narrative should focus on:",
+            "options": [
+              "An entire year of your life",
+              "A specific moment or brief period with vivid detail and reflection",
+              "Someone else's experience",
+              "A fictional adventure"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The writing principle of using specific details and actions instead of naming qualities is called 'show, don't ___.'",
+            "answer": "tell"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The best dialogue tag for most situations is:",
+            "options": [
+              "Exclaimed",
+              "Proclaimed",
+              "Said",
+              "Articulated"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Global revision focuses on:",
+            "options": [
+              "Spelling errors",
+              "The big picture: narrative arc, pacing, and purpose",
+              "Comma placement",
+              "Font choice"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The overall mood created by strategically chosen descriptive details is called the ___ impression.",
+            "answer": "dominant"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "narrative_writer"
+      }
+    },
+    {
+      "id": "9-ela-6",
+      "title": "Expository Writing",
+      "description": "Master the components of expository essays: thesis statements, body paragraphs, evidence and citations, and effective conclusions.",
+      "lessons": [
+        {
+          "id": "9-ela-6-1",
+          "title": "Crafting Thesis Statements",
+          "type": "lesson",
+          "content": {
+            "explanation": "A thesis statement is the central claim or argument of an essay, typically expressed in one or two sentences at the end of the introduction. A strong thesis is specific (not vague or general), arguable (someone could reasonably disagree), and supportable (you can find evidence to prove it). It provides a roadmap for the essay by previewing the main points. Weak thesis: 'Social media is important.' This is vague, obvious, and not arguable. Strong thesis: 'While social media enables global connection, its algorithmic design exploits psychological vulnerabilities, creating addiction patterns that damage adolescent mental health.' This is specific, arguable, and previews the essay's argument. A thesis can be refined through questioning: What specifically am I arguing? Why does it matter? What are my main supporting reasons? The thesis should be revisited during revision \u2014 as your understanding deepens through writing, your thesis may need to evolve.",
+            "examples": [
+              {
+                "problem": "Why is 'Shakespeare is a great writer' a weak thesis?",
+                "answer": "It is too vague (what makes him 'great'?), universally agreed upon (not arguable), and provides no roadmap for the essay. A stronger thesis: 'Shakespeare's enduring relevance stems from his exploration of universal human conflicts that transcend the specific social contexts of his plays.'",
+                "explanation": "A thesis needs to be specific enough that the reader knows exactly what the essay will argue and how."
+              },
+              {
+                "problem": "How does a thesis serve as a roadmap?",
+                "answer": "A thesis previews the main points of the essay, telling the reader what to expect. 'Social media damages mental health through addictive design, unrealistic comparisons, and cyberbullying' tells the reader the essay will have three main sections.",
+                "explanation": "The roadmap function helps both the writer stay organized and the reader follow the argument."
+              },
+              {
+                "problem": "Can a thesis change during the writing process?",
+                "answer": "Yes. As you research and write, your understanding deepens and your argument may evolve. A strong writer revises the thesis to reflect the essay's actual argument, not forces the essay to match an initial thesis.",
+                "explanation": "This is why revision includes revisiting the thesis \u2014 the final thesis should accurately represent the finished essay."
+              }
+            ],
+            "key_vocabulary": [
+              "thesis statement",
+              "claim",
+              "arguable",
+              "specific",
+              "supportable",
+              "roadmap",
+              "refine"
+            ],
+            "real_world": "Thesis statements are not just for school essays. Any time you make a proposal at work, pitch an idea, or write a professional report, you need a clear central claim supported by evidence. The thesis is the foundation of persuasive communication."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A strong thesis statement is:",
+              "options": [
+                "Vague and universally agreed upon",
+                "Specific, arguable, and supportable with evidence",
+                "A question rather than a statement",
+                "At least five sentences long"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A thesis should be ___, meaning someone could reasonably disagree with it.",
+              "answer": "arguable"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where does a thesis statement typically appear?",
+              "options": [
+                "At the end of the conclusion",
+                "At the end of the introduction",
+                "In the title",
+                "In every paragraph"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A thesis should never change once you start writing.",
+              "answer": "false",
+              "hint": "As your understanding deepens through writing, your thesis may need to evolve."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is the strongest thesis?",
+              "options": [
+                "Dogs are nice pets.",
+                "The benefits of regular exercise include improved mood, better sleep, and reduced disease risk, making it the most cost-effective health intervention available.",
+                "This essay is about exercise.",
+                "Exercise is good for you."
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A thesis serves as a ___ for the essay by previewing the main points.",
+              "answer": "roadmap"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-6-2",
+          "title": "Building Body Paragraphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Body paragraphs are the building blocks of an essay, each developing one main point that supports the thesis. A well-structured body paragraph follows the TEE or PEEL structure. TEE: Topic sentence (states the paragraph's main point and connects it to the thesis), Evidence (provides specific support \u2014 facts, quotations, examples, data), and Explanation (analyzes the evidence, explaining how and why it supports the topic sentence and thesis). PEEL adds a Link sentence that transitions to the next paragraph. The topic sentence should be specific enough to guide the paragraph but broad enough to encompass the evidence you will present. Evidence should come from credible sources and be introduced with context (who said it, where, when). The explanation is the most important and most commonly neglected part \u2014 it is where you analyze, interpret, and argue. Never let evidence speak for itself; always explain its significance. Transitions between paragraphs should show logical connections: 'Furthermore,' 'In contrast,' 'Building on this point,' 'A more significant factor is...'",
+            "examples": [
+              {
+                "problem": "What is the most commonly neglected part of a body paragraph?",
+                "answer": "The explanation \u2014 writers often present a topic sentence and evidence but fail to explain how the evidence supports the claim. Without explanation, the reader must guess at the connection.",
+                "explanation": "Think of evidence as raw material and explanation as the craft that turns it into an argument."
+              },
+              {
+                "problem": "How should you introduce a quotation in a body paragraph?",
+                "answer": "Provide context before the quotation: who said it, when, and in what context. Then present the quotation. Then explain its significance. Never drop a quotation into a paragraph without introduction or analysis.",
+                "explanation": "A 'dropped quotation' is one that appears without context \u2014 'The sky is blue.' This confuses the reader."
+              },
+              {
+                "problem": "What makes a strong topic sentence?",
+                "answer": "A strong topic sentence states the paragraph's main point, connects to the thesis, and is specific enough to guide the paragraph. 'Social media's algorithmic design creates addiction patterns' is specific and arguable. 'Social media is bad' is vague.",
+                "explanation": "The topic sentence is a mini-thesis for the paragraph."
+              }
+            ],
+            "key_vocabulary": [
+              "topic sentence",
+              "evidence",
+              "explanation",
+              "TEE structure",
+              "PEEL structure",
+              "transition",
+              "dropped quotation",
+              "analysis",
+              "context"
+            ],
+            "real_world": "Any professional report, research paper, or business proposal uses body paragraphs to build an argument. The ability to present evidence and explain its significance is essential in law, medicine, business, and every academic field."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The TEE structure stands for:",
+              "options": [
+                "Title, Essay, Evidence",
+                "Topic sentence, Evidence, Explanation",
+                "Thesis, Example, Ending",
+                "Time, Energy, Effort"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A quotation presented without introduction or context is called a ___ quotation.",
+              "answer": "dropped"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The explanation portion of a body paragraph should:",
+              "options": [
+                "Repeat the evidence",
+                "Analyze how and why the evidence supports the claim",
+                "Introduce a new topic",
+                "Be omitted if the evidence is obvious"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Evidence can speak for itself and does not need explanation.",
+              "answer": "false",
+              "hint": "You must always explain how evidence supports your claim \u2014 never assume the reader will make the connection."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A topic sentence should:",
+              "options": [
+                "State the paragraph's main point and connect to the thesis",
+                "Be a question",
+                "Repeat the thesis word for word",
+                "Summarize the entire essay"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "Words like 'furthermore,' 'in contrast,' and 'building on this point' are called ___ words or phrases.",
+              "answer": "transition"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-6-3",
+          "title": "Using Evidence and Citations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Evidence is the foundation of any argument. In academic writing, evidence includes direct quotations (the author's exact words), paraphrases (the author's ideas restated in your words), summaries (condensed overviews of longer passages), statistics and data, expert opinions, and specific examples. Each type has its uses: quote when the author's exact wording is important or powerful; paraphrase when the idea matters more than the specific words; summarize when you need to cover a broad section briefly. All evidence from sources must be cited \u2014 even paraphrases and summaries. Failure to cite is plagiarism, regardless of intent. In MLA format (the standard for English classes), in-text citations include the author's last name and page number in parentheses: (Smith 42). If there is no author, use a shortened title. If there is no page number (as with websites), use just the author's name. Every in-text citation must correspond to a full entry on the Works Cited page. Integrate evidence smoothly using signal phrases: 'According to Smith,' 'As Johnson argues,' 'Research by Lee demonstrates that...'",
+            "examples": [
+              {
+                "problem": "When should you use a direct quotation instead of a paraphrase?",
+                "answer": "Use a direct quotation when the author's exact wording is powerful, memorable, or technically precise \u2014 when paraphrasing would lose the impact. Paraphrase when the idea, not the specific language, is what matters.",
+                "explanation": "Overusing quotations makes your essay a patchwork of others' words. Most evidence should be paraphrased."
+              },
+              {
+                "problem": "How do you cite a source with no page number in MLA format?",
+                "answer": "Use just the author's last name in parentheses: (Smith). If there is no author, use a shortened version of the title in quotation marks or italics: (\"Social Media Impact\").",
+                "explanation": "MLA format adapts to the information available \u2014 always provide as much identifying information as possible."
+              },
+              {
+                "problem": "What is the difference between paraphrasing and summarizing?",
+                "answer": "Paraphrasing restates a specific passage in your own words at roughly the same length. Summarizing condenses a larger section or entire work into a brief overview of the main points.",
+                "explanation": "Both require citations because you are using someone else's ideas, even though the words are your own."
+              }
+            ],
+            "key_vocabulary": [
+              "evidence",
+              "direct quotation",
+              "paraphrase",
+              "summary",
+              "citation",
+              "MLA format",
+              "in-text citation",
+              "Works Cited",
+              "signal phrase",
+              "plagiarism"
+            ],
+            "real_world": "Citing sources is not just an academic rule \u2014 it is an ethical practice. In journalism, law, science, and business, attributing ideas to their sources builds credibility and allows others to verify your claims."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which type of evidence uses the author's exact words?",
+              "options": [
+                "Paraphrase",
+                "Summary",
+                "Direct quotation",
+                "Statistics"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "In MLA format, an in-text citation includes the author's last name and ___ number.",
+              "answer": "page"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Paraphrasing still requires a citation because:",
+              "options": [
+                "It uses the author's exact words",
+                "It uses the author's ideas, even though the words are different",
+                "It is longer than the original",
+                "It is optional"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If you put information in your own words, you do not need to cite the source.",
+              "answer": "false",
+              "hint": "Paraphrases and summaries must be cited because they use someone else's ideas."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A signal phrase is:",
+              "options": [
+                "A phrase that introduces evidence by naming the source",
+                "A phrase that signals the end of the essay",
+                "A type of thesis statement",
+                "A punctuation mark"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "Presenting someone else's ideas or words as your own without citation is called ___.",
+              "answer": "plagiarism"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-6-4",
+          "title": "Writing Effective Conclusions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A conclusion does more than summarize \u2014 it synthesizes. While a summary restates what was said, synthesis draws the pieces together to show the bigger picture, the 'so what?' of your essay. An effective conclusion begins by restating the thesis in fresh language (not copying it word for word), briefly revisits the main points by showing how they connect, and then broadens to significance \u2014 why does this argument matter? What are its implications? A strong conclusion might connect the topic to a larger context, suggest implications for the future, pose a thought-provoking question, call the reader to action, or end with a powerful image or quotation that resonates with the essay's themes. Avoid common conclusion pitfalls: do not introduce entirely new arguments, do not apologize for your writing ('This is just my opinion...'), do not use cliched phrases like 'In conclusion' or 'To sum up,' and do not undermine your argument with unnecessary hedging. The conclusion is your last impression on the reader \u2014 make it count.",
+            "examples": [
+              {
+                "problem": "What is the difference between summarizing and synthesizing in a conclusion?",
+                "answer": "Summarizing restates each point separately: 'First I discussed X. Then I discussed Y.' Synthesizing shows how the points connect and what they mean together: 'The intersection of X and Y reveals that...'",
+                "explanation": "Synthesis creates new understanding from the combination of your arguments \u2014 it is higher-level thinking."
+              },
+              {
+                "problem": "Why should you not introduce new arguments in the conclusion?",
+                "answer": "New arguments need evidence and explanation, which belong in body paragraphs. Introducing them in the conclusion leaves them undeveloped and weakens the essay's structure.",
+                "explanation": "The conclusion is for reflection, not new content."
+              },
+              {
+                "problem": "What does it mean to broaden to significance?",
+                "answer": "It means connecting your specific argument to a larger context \u2014 showing why it matters beyond the essay. If your essay argues that social media harms mental health, you might broaden to implications for technology policy, parenting, or the future of human connection.",
+                "explanation": "Broadening answers the reader's implicit question: 'Why should I care?'"
+              }
+            ],
+            "key_vocabulary": [
+              "conclusion",
+              "synthesis",
+              "restate thesis",
+              "significance",
+              "implications",
+              "call to action",
+              "broadening"
+            ],
+            "real_world": "Conclusions matter in every professional context \u2014 a lawyer's closing argument, a business presentation's final slide, a scientist's discussion section. The ability to synthesize information and articulate significance is a hallmark of strong thinking."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An effective conclusion primarily:",
+              "options": [
+                "Introduces new evidence",
+                "Synthesizes the argument and articulates its broader significance",
+                "Copies the introduction word for word",
+                "Apologizes for any weaknesses in the essay"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Drawing pieces of an argument together to show the bigger picture is called ___.",
+              "answer": "synthesis"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which should be AVOIDED in a conclusion?",
+              "options": [
+                "Restating the thesis in fresh language",
+                "Connecting to a larger context",
+                "Introducing entirely new arguments",
+                "Posing a thought-provoking question"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "'In conclusion' is an effective way to begin your concluding paragraph.",
+              "answer": "false",
+              "hint": "It is a cliched phrase that experienced writers avoid \u2014 the reader already knows it is the conclusion."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Broadening to significance means:",
+              "options": [
+                "Making the essay longer",
+                "Showing why the argument matters beyond the essay's specific topic",
+                "Adding a bibliography",
+                "Changing the thesis"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The conclusion should restate the thesis in ___ language, not copy it word for word.",
+              "answer": "fresh"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-6-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A strong thesis is:",
+            "options": [
+              "Vague and obvious",
+              "Specific, arguable, and supportable",
+              "A question",
+              "One word long"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The TEE paragraph structure stands for Topic sentence, Evidence, and ___.",
+            "answer": "Explanation"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In MLA in-text citation, you include:",
+            "options": [
+              "The publisher and year",
+              "The author's last name and page number",
+              "The full title of the work",
+              "The URL"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An effective conclusion does NOT:",
+            "options": [
+              "Restate the thesis",
+              "Synthesize the argument",
+              "Introduce entirely new arguments",
+              "Broaden to significance"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Presenting someone else's work as your own is called ___.",
+            "answer": "plagiarism"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "expository_essayist"
+      }
+    },
+    {
+      "id": "9-ela-7",
+      "title": "Grammar and Mechanics Review",
+      "description": "Review and master sentence types, clauses, punctuation, common errors, and active vs. passive voice for polished writing.",
+      "lessons": [
+        {
+          "id": "9-ela-7-1",
+          "title": "Sentence Types and Structures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Understanding sentence structure gives you control over your writing's rhythm, emphasis, and clarity. There are four sentence types by purpose: declarative (makes a statement: 'The test is tomorrow.'), interrogative (asks a question: 'Is the test tomorrow?'), imperative (gives a command: 'Study for the test.'), and exclamatory (expresses strong emotion: 'I aced the test!'). There are also four sentence structures by complexity. A simple sentence has one independent clause: 'The dog barked.' A compound sentence joins two independent clauses with a coordinating conjunction (FANBOYS: for, and, nor, but, or, yet, so) or a semicolon: 'The dog barked, and the cat hid.' A complex sentence has one independent clause and at least one dependent clause: 'When the dog barked, the cat hid.' A compound-complex sentence has at least two independent clauses and at least one dependent clause: 'When the dog barked, the cat hid, and the bird flew away.' Varying your sentence structure prevents monotony and allows you to control emphasis and pacing.",
+            "examples": [
+              {
+                "problem": "Identify the sentence structure: 'Although it was raining, we went for a walk.'",
+                "answer": "Complex sentence \u2014 one independent clause ('we went for a walk') and one dependent clause ('Although it was raining').",
+                "explanation": "The dependent clause begins with the subordinating conjunction 'although.'"
+              },
+              {
+                "problem": "Why should writers vary sentence structure?",
+                "answer": "Varied structure creates rhythm and prevents monotony. Short simple sentences create punch and emphasis. Longer complex sentences develop ideas and show relationships between them. Alternating between them creates engaging prose.",
+                "explanation": "Read your writing aloud \u2014 if every sentence sounds the same, you need more variety."
+              },
+              {
+                "problem": "What are the FANBOYS coordinating conjunctions?",
+                "answer": "For, And, Nor, But, Or, Yet, So \u2014 these connect independent clauses in compound sentences.",
+                "explanation": "When a FANBOYS conjunction joins two independent clauses, place a comma before it."
+              }
+            ],
+            "key_vocabulary": [
+              "declarative",
+              "interrogative",
+              "imperative",
+              "exclamatory",
+              "simple sentence",
+              "compound sentence",
+              "complex sentence",
+              "compound-complex",
+              "independent clause",
+              "dependent clause",
+              "FANBOYS"
+            ],
+            "real_world": "Sentence variety is crucial in professional writing \u2014 legal briefs, business reports, and journalism all require writers to control pacing and emphasis through deliberate sentence structure choices."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A compound sentence contains:",
+              "options": [
+                "One independent clause",
+                "Two or more independent clauses joined by a conjunction or semicolon",
+                "One dependent clause only",
+                "No clauses"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The FANBOYS acronym stands for For, And, Nor, But, Or, Yet, and ___.",
+              "answer": "So"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'When the bell rang, students rushed to the door' is a:",
+              "options": [
+                "Simple sentence",
+                "Compound sentence",
+                "Complex sentence",
+                "Fragment"
+              ],
+              "correct": 2,
+              "hint": "It has an independent clause and a dependent clause beginning with 'When.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Using only simple sentences creates effective, varied writing.",
+              "answer": "false",
+              "hint": "Using only one type creates monotony \u2014 effective writing varies sentence structure."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A sentence that gives a command is called:",
+              "options": [
+                "Declarative",
+                "Interrogative",
+                "Imperative",
+                "Exclamatory"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A clause that cannot stand alone as a sentence is called a ___ clause.",
+              "answer": "dependent"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-7-2",
+          "title": "Clauses, Phrases, and Modifiers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Understanding clauses, phrases, and modifiers helps you build clear, sophisticated sentences. A clause contains a subject and a verb. An independent clause expresses a complete thought and can stand alone. A dependent (subordinate) clause has a subject and verb but cannot stand alone because it begins with a subordinating conjunction (because, although, when, if, since, while) or a relative pronoun (who, which, that). A phrase is a group of related words that lacks a subject-verb pair: prepositional phrases ('in the morning'), participial phrases ('running quickly, she...'), appositive phrases ('my brother, a talented musician, plays guitar'). Modifiers are words, phrases, or clauses that describe or qualify other elements. A misplaced modifier is positioned too far from what it modifies, creating confusion: 'She served cake to the children on paper plates' (are the children on paper plates?). A dangling modifier has no clear subject to modify: 'Walking down the street, the trees were beautiful' (the trees were not walking). Correct these by placing modifiers next to what they modify.",
+            "examples": [
+              {
+                "problem": "Identify the error: 'Flying over the city, the buildings looked tiny.'",
+                "answer": "Dangling modifier \u2014 the participial phrase 'Flying over the city' seems to modify 'the buildings,' but buildings do not fly. Corrected: 'Flying over the city, I thought the buildings looked tiny.'",
+                "explanation": "The modifier must be next to the noun it actually modifies."
+              },
+              {
+                "problem": "What is an appositive phrase?",
+                "answer": "An appositive phrase renames or provides additional information about a noun: 'Maya Angelou, a celebrated poet and memoirist, wrote I Know Why the Caged Bird Sings.' The phrase 'a celebrated poet and memoirist' is the appositive.",
+                "explanation": "Appositives are set off by commas and add detail without requiring a new sentence."
+              },
+              {
+                "problem": "Distinguish between a phrase and a clause.",
+                "answer": "A clause has a subject and a verb ('she runs'). A phrase is a group of related words without a subject-verb pair ('in the morning,' 'the tall building'). Both can modify other elements, but only clauses can stand alone (if independent).",
+                "explanation": "Think: clauses have a subject doing an action; phrases do not."
+              }
+            ],
+            "key_vocabulary": [
+              "clause",
+              "independent clause",
+              "dependent clause",
+              "phrase",
+              "prepositional phrase",
+              "participial phrase",
+              "appositive",
+              "modifier",
+              "misplaced modifier",
+              "dangling modifier",
+              "subordinating conjunction"
+            ],
+            "real_world": "Misplaced and dangling modifiers are common in everyday communication and can cause real confusion \u2014 especially in legal documents, medical instructions, and contracts where precision is critical."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A dangling modifier is:",
+              "options": [
+                "A modifier correctly placed next to what it describes",
+                "A modifier with no clear subject to modify in the sentence",
+                "A type of verb",
+                "An exclamatory sentence"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A group of related words with a subject and verb is called a ___.",
+              "answer": "clause"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which sentence has a misplaced modifier?",
+              "options": [
+                "She wore a red dress.",
+                "He served sandwiches to the guests on silver trays.",
+                "The teacher explained the lesson clearly.",
+                "I finished my homework before dinner."
+              ],
+              "correct": 1,
+              "hint": "Are the guests on silver trays, or are the sandwiches?"
+            },
+            {
+              "type": "fill_in",
+              "question": "A phrase contains a subject and a verb.",
+              "answer": "false",
+              "hint": "A phrase is a group of related words that lacks a subject-verb pair."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An appositive phrase:",
+              "options": [
+                "Replaces the subject",
+                "Renames or provides additional information about a noun",
+                "Is always at the end of a sentence",
+                "Contains a subordinating conjunction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Words like 'because,' 'although,' 'when,' and 'if' are ___ conjunctions.",
+              "answer": "subordinating"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-7-3",
+          "title": "Punctuation and Common Errors",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mastering punctuation is essential for clear, professional writing. The semicolon (;) joins two closely related independent clauses without a conjunction: 'She studied hard; she earned an A.' The colon (:) introduces a list, explanation, or elaboration after an independent clause: 'She needed three things: a pen, paper, and determination.' The dash (\u2014) adds emphasis or inserts a dramatic interruption: 'The answer \u2014 and no one expected this \u2014 was zero.' Common errors to avoid: the comma splice joins two independent clauses with only a comma ('She studied hard, she earned an A' \u2014 incorrect). Fix it with a semicolon, a period, or a conjunction. The run-on sentence fuses two independent clauses with no punctuation at all ('She studied hard she earned an A'). The sentence fragment is an incomplete thought punctuated as a sentence ('Because she studied hard.' \u2014 this is a dependent clause, not a sentence). Apostrophe errors: its (possessive) vs. it's (it is); their (possessive) vs. they're (they are) vs. there (location); your (possessive) vs. you're (you are).",
+            "examples": [
+              {
+                "problem": "Fix the comma splice: 'The movie was boring, we left early.'",
+                "answer": "Options: 'The movie was boring; we left early.' OR 'The movie was boring, so we left early.' OR 'The movie was boring. We left early.'",
+                "explanation": "A comma alone cannot join two independent clauses \u2014 you need a semicolon, a conjunction, or a period."
+              },
+              {
+                "problem": "When do you use a colon?",
+                "answer": "After an independent clause to introduce a list, explanation, or elaboration. 'She packed essentials: water, a map, and sunscreen.' The clause before the colon must be able to stand alone.",
+                "explanation": "Do NOT use a colon after a verb or preposition: 'She packed: water, a map...' is incorrect."
+              },
+              {
+                "problem": "What is the difference between 'its' and 'it's'?",
+                "answer": "'Its' is possessive (The dog wagged its tail). 'It's' is a contraction of 'it is' (It's raining). To check, substitute 'it is' \u2014 if it works, use it's; if not, use its.",
+                "explanation": "This is one of the most common errors in English writing."
+              }
+            ],
+            "key_vocabulary": [
+              "semicolon",
+              "colon",
+              "dash",
+              "comma splice",
+              "run-on sentence",
+              "fragment",
+              "apostrophe",
+              "its vs. it's",
+              "their vs. they're vs. there",
+              "your vs. you're"
+            ],
+            "real_world": "Punctuation errors in professional settings can be costly. A misplaced comma in a legal contract has led to million-dollar disputes. Clear punctuation is not pedantic \u2014 it is essential for precise communication."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A comma splice is:",
+              "options": [
+                "Two independent clauses joined only by a comma",
+                "A correctly used comma",
+                "A fragment",
+                "A semicolon error"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "A semicolon joins two closely related ___ clauses.",
+              "answer": "independent"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which sentence correctly uses a colon?",
+              "options": [
+                "She needed: milk and eggs.",
+                "She needed one thing: courage.",
+                "She: went to the store.",
+                "She needed, a new plan."
+              ],
+              "correct": 1,
+              "hint": "The clause before the colon must be able to stand alone."
+            },
+            {
+              "type": "fill_in",
+              "question": "'It's' is the possessive form of 'it.'",
+              "answer": "false",
+              "hint": "'It's' is a contraction of 'it is.' The possessive form is 'its' (no apostrophe)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A sentence fragment is:",
+              "options": [
+                "A run-on sentence",
+                "An incomplete thought punctuated as a sentence",
+                "A compound sentence",
+                "A question"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Two independent clauses fused together with no punctuation create a ___-on sentence.",
+              "answer": "run"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-7-4",
+          "title": "Active vs. Passive Voice and Style",
+          "type": "lesson",
+          "content": {
+            "explanation": "Voice describes whether the subject of a sentence performs the action (active) or receives the action (passive). Active voice: 'The scientist conducted the experiment.' The subject (scientist) performs the action (conducted). Passive voice: 'The experiment was conducted by the scientist.' The subject (experiment) receives the action. Active voice is generally preferred because it is clearer, more direct, and more engaging. It identifies who is doing what. Passive voice can be useful when the actor is unknown ('The window was broken'), unimportant ('The law was passed in 1964'), or when you want to emphasize the receiver of the action ('The patient was treated immediately'). In scientific writing, passive voice is traditional ('The solution was heated') though this convention is changing. The key is to choose voice deliberately rather than defaulting to passive. Beyond voice, develop your writing style by varying sentence length (mix short punchy sentences with longer flowing ones), eliminating unnecessary words (replace 'due to the fact that' with 'because'), and choosing precise words over vague ones ('sprinted' vs. 'went fast').",
+            "examples": [
+              {
+                "problem": "Convert to active voice: 'The ball was thrown by the quarterback.'",
+                "answer": "'The quarterback threw the ball.' \u2014 clearer, more direct, and five words instead of eight.",
+                "explanation": "Active voice usually produces shorter, stronger sentences."
+              },
+              {
+                "problem": "When is passive voice appropriate?",
+                "answer": "When the actor is unknown ('My car was stolen'), when the actor is less important than the action ('The vaccine was approved by the FDA' \u2014 emphasis on the vaccine), or in scientific writing ('The samples were analyzed').",
+                "explanation": "Passive voice is not wrong \u2014 it is a tool for specific situations."
+              },
+              {
+                "problem": "How does eliminating wordiness improve writing?",
+                "answer": "'Due to the fact that it was raining, we made the decision to cancel' becomes 'Because it was raining, we decided to cancel.' The revision is clearer, more direct, and half the length.",
+                "explanation": "Every unnecessary word dilutes the impact of the necessary ones."
+              }
+            ],
+            "key_vocabulary": [
+              "active voice",
+              "passive voice",
+              "concision",
+              "wordiness",
+              "sentence variety",
+              "precise language",
+              "style",
+              "diction"
+            ],
+            "real_world": "Business writing values concision and active voice. Legal writing increasingly favors plain language. In any profession, the ability to write clearly and directly makes you a more effective communicator."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In active voice:",
+              "options": [
+                "The subject receives the action",
+                "The subject performs the action",
+                "There is no subject",
+                "The sentence is a question"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "'The cake was eaten by the children' is written in ___ voice.",
+              "answer": "passive"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Passive voice is appropriate when:",
+              "options": [
+                "You want to sound smarter",
+                "The actor is unknown, unimportant, or you want to emphasize the receiver",
+                "You always want to avoid it",
+                "The sentence is short"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Active voice is always better than passive voice.",
+              "answer": "false",
+              "hint": "Passive voice is appropriate in certain situations \u2014 the key is to choose deliberately."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Replace the wordy phrase 'due to the fact that':",
+              "options": [
+                "As a result of the circumstances",
+                "In light of the situation",
+                "Because",
+                "For the reason that"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Choosing specific, vivid words over vague ones is an aspect of good ___.",
+              "answer": "diction"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-7-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A complex sentence contains:",
+            "options": [
+              "Two independent clauses",
+              "One independent clause and at least one dependent clause",
+              "No clauses",
+              "Only phrases"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A modifier with no clear subject to modify is called a ___ modifier.",
+            "answer": "dangling"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A comma splice is fixed by:",
+            "options": [
+              "Adding more commas",
+              "Using a semicolon, period, or conjunction",
+              "Removing the subject",
+              "Making it a question"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Active voice means:",
+            "options": [
+              "The subject receives the action",
+              "The subject performs the action",
+              "The sentence has no verb",
+              "The sentence is passive"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Two independent clauses fused with no punctuation form a ___-on sentence.",
+            "answer": "run"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_guardian"
+      }
+    },
+    {
+      "id": "9-ela-8",
+      "title": "Research and Media Literacy",
+      "description": "Develop essential skills for evaluating sources, using MLA format, avoiding plagiarism, and navigating the digital information landscape.",
+      "lessons": [
+        {
+          "id": "9-ela-8-1",
+          "title": "Evaluating Sources",
+          "type": "lesson",
+          "content": {
+            "explanation": "In an age of information overload, the ability to evaluate sources is critical. Not all information is equally reliable, and the ease of publishing online means anyone can create content that looks authoritative. Use the CRAAP test to evaluate sources: Currency (when was it published or updated? Is the information still relevant?), Relevance (does it relate to your topic? Is it at an appropriate level?), Authority (who is the author? What are their credentials? Is the publisher reputable?), Accuracy (is the information supported by evidence? Can it be verified? Are there errors?), and Purpose (why was this created? To inform, persuade, sell, entertain? Is there bias?). Primary sources provide firsthand evidence (original documents, interviews, experimental data). Secondary sources analyze or interpret primary sources (textbooks, review articles, biographies). Tertiary sources compile information from other sources (encyclopedias, databases). For research, prefer primary and secondary sources from reputable publishers, peer-reviewed journals, and established institutions. Be especially skeptical of anonymous sources, highly emotional content, and sources that do not cite their own evidence.",
+            "examples": [
+              {
+                "problem": "A website about climate change has no author listed, no sources cited, and sells 'miracle supplements.' Is it credible?",
+                "answer": "No \u2014 it fails multiple CRAAP criteria: no authority (no author), no accuracy (no citations), and its purpose is to sell products, not inform. This source should not be used for research.",
+                "explanation": "Red flags include anonymity, lack of sources, and commercial motivation."
+              },
+              {
+                "problem": "What is the difference between a primary and secondary source?",
+                "answer": "A primary source provides firsthand evidence (a diary, an original experiment, a speech transcript). A secondary source analyzes or interprets primary sources (a biography, a textbook chapter, a review article).",
+                "explanation": "For a paper on the Civil War, a soldier's letter is a primary source; a historian's analysis of those letters is a secondary source."
+              },
+              {
+                "problem": "Why is a peer-reviewed journal article generally more reliable than a blog post?",
+                "answer": "Peer-reviewed articles are evaluated by independent experts in the field before publication, checked for accuracy, methodology, and validity. Blog posts have no such review process.",
+                "explanation": "Peer review is not perfect, but it provides a layer of quality control that self-published content lacks."
+              }
+            ],
+            "key_vocabulary": [
+              "CRAAP test",
+              "currency",
+              "relevance",
+              "authority",
+              "accuracy",
+              "purpose",
+              "primary source",
+              "secondary source",
+              "tertiary source",
+              "peer-reviewed",
+              "credibility"
+            ],
+            "real_world": "Source evaluation is essential for informed citizenship. Evaluating the reliability of news, social media posts, health claims, and political arguments is one of the most important skills in a democracy."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The CRAAP test evaluates sources on:",
+              "options": [
+                "Cost, Reading level, Appearance, Audience, Pages",
+                "Currency, Relevance, Authority, Accuracy, Purpose",
+                "Creativity, Research, Analysis, Argument, Persuasion",
+                "Characters, Rising action, Antagonist, Action, Plot"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "An original document, interview, or firsthand account is called a ___ source.",
+              "answer": "primary"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A peer-reviewed article is more reliable because:",
+              "options": [
+                "It is longer",
+                "It is more expensive",
+                "It has been evaluated by independent experts before publication",
+                "It has more pictures"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A website with a professional design is always a credible source.",
+              "answer": "false",
+              "hint": "Professional design does not guarantee accuracy \u2014 always evaluate content, authority, and evidence."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a source has no author, no citations, and is trying to sell you something, it is likely:",
+              "options": [
+                "Highly credible",
+                "A peer-reviewed journal",
+                "Not a reliable source for research",
+                "A primary source"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Sources that analyze or interpret primary sources are called ___ sources.",
+              "answer": "secondary"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-8-2",
+          "title": "MLA Format Basics",
+          "type": "lesson",
+          "content": {
+            "explanation": "MLA (Modern Language Association) format is the standard citation style for English and humanities classes. Its purpose is to give proper credit to sources, allow readers to find your sources, and provide a consistent format for academic writing. Key MLA formatting rules: use 12-point Times New Roman font, double-space the entire document, set one-inch margins on all sides, include a header with your last name and page number in the upper right corner, and create a heading on the first page with your name, instructor's name, course, and date. In-text citations include the author's last name and page number in parentheses: (Smith 42). If you mention the author's name in the sentence, only include the page number: Smith argues that '...' (42). The Works Cited page lists all sources alphabetically by the author's last name. A basic book entry: Last, First. Title of Book. Publisher, Year. A basic website entry: Author. 'Article Title.' Website Name, Date, URL. MLA 9th edition uses a core elements system: Author, Title of Source, Title of Container, Contributors, Version, Number, Publisher, Date, Location.",
+            "examples": [
+              {
+                "problem": "Format an in-text citation for page 87 of a book by John Smith.",
+                "answer": "(Smith 87) at the end of the sentence, or: Smith argues that '...' (87) if you name the author in the sentence.",
+                "explanation": "The period goes after the parenthetical citation, not before it."
+              },
+              {
+                "problem": "Create a Works Cited entry for the novel 'To Kill a Mockingbird' by Harper Lee, published by Grand Central Publishing in 2010.",
+                "answer": "Lee, Harper. To Kill a Mockingbird. Grand Central Publishing, 2010.",
+                "explanation": "Author's last name first, then first name. Book title in italics. Publisher, then year."
+              },
+              {
+                "problem": "What are the basic page formatting rules for MLA?",
+                "answer": "12-point Times New Roman, double-spaced, one-inch margins, last name and page number header in upper right, and a heading with student name, instructor, course, and date on the first page.",
+                "explanation": "Consistent formatting makes academic papers look professional and readable."
+              }
+            ],
+            "key_vocabulary": [
+              "MLA format",
+              "in-text citation",
+              "Works Cited",
+              "parenthetical citation",
+              "double-spacing",
+              "core elements",
+              "formatting"
+            ],
+            "real_world": "While MLA is specific to academic writing, the principle of citing sources applies everywhere \u2014 in journalism, business, and law. Understanding a citation system teaches you to track and attribute information rigorously."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In MLA in-text citation, you include:",
+              "options": [
+                "Author's first name and publisher",
+                "Author's last name and page number",
+                "Book title and year",
+                "URL and access date"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The page at the end of an MLA paper that lists all sources alphabetically is called the ___ Cited page.",
+              "answer": "Works"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "MLA format requires:",
+              "options": [
+                "Single spacing and 14-point font",
+                "Double spacing, 12-point Times New Roman, and one-inch margins",
+                "No margins and any font",
+                "Only handwritten documents"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The period goes before the parenthetical citation in MLA format.",
+              "answer": "false",
+              "hint": "The period goes after the closing parenthesis: '...end of the sentence' (Smith 42)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On the Works Cited page, entries are organized:",
+              "options": [
+                "By publication date",
+                "Alphabetically by the author's last name",
+                "By the order they appear in the essay",
+                "By page count"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "MLA stands for Modern ___ Association.",
+              "answer": "Language"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-8-3",
+          "title": "Avoiding Plagiarism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Plagiarism is presenting someone else's ideas, words, or work as your own without proper attribution. It is a serious academic and ethical violation that can result in failing grades, suspension, or expulsion. Plagiarism includes: copying text word-for-word without quotation marks and citation (even a single sentence), paraphrasing someone's ideas without citation, submitting someone else's work as your own, self-plagiarism (resubmitting your own previous work without permission), and patchwriting (rearranging a source's sentence structure while keeping the ideas and many of the words). To avoid plagiarism: take careful notes while researching, clearly distinguishing your ideas from source material. Use quotation marks for any exact language from a source. Cite all paraphrases and summaries. When in doubt, cite. Develop your own analytical voice \u2014 your essay should be primarily your own thinking, supported by evidence from sources, not a collection of other people's ideas stitched together. Use sources to support your argument, not replace it.",
+            "examples": [
+              {
+                "problem": "Is this plagiarism? You read that 'social media increases anxiety in teenagers' and write in your essay 'social media increases anxiety in teens' without citing the source.",
+                "answer": "Yes, this is plagiarism \u2014 it is patchwriting. You changed one word ('teenagers' to 'teens') but the idea and most of the language are from the source. You must cite it.",
+                "explanation": "Changing a few words does not make the idea yours. If the idea came from a source, cite it."
+              },
+              {
+                "problem": "How do you properly paraphrase?",
+                "answer": "Read the source, put it away, write the idea in your own words and sentence structure, then cite the source. Compare your version to the original to ensure you have not copied language. 'According to Johnson, adolescent anxiety has risen alongside social media usage (42).'",
+                "explanation": "Good paraphrasing means genuinely restating the idea in your own voice, not just swapping synonyms."
+              },
+              {
+                "problem": "What is self-plagiarism?",
+                "answer": "Submitting work you previously completed for another class or assignment without the instructor's permission. Even though you wrote it, resubmitting it misrepresents it as new work.",
+                "explanation": "Always ask your instructor if you want to build on or reuse previous work."
+              }
+            ],
+            "key_vocabulary": [
+              "plagiarism",
+              "patchwriting",
+              "self-plagiarism",
+              "attribution",
+              "citation",
+              "academic integrity",
+              "intellectual property",
+              "common knowledge"
+            ],
+            "real_world": "Plagiarism has real-world consequences beyond school. Journalists lose careers over it. Politicians face scandals. Researchers are discredited. Building a habit of honest attribution now serves you for life."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Patchwriting is:",
+              "options": [
+                "Rewriting a source's ideas with only minor word changes, without citation",
+                "Writing a patchwork quilt",
+                "A revision technique",
+                "An acceptable form of paraphrasing"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "Presenting someone else's ideas or words as your own without proper attribution is called ___.",
+              "answer": "plagiarism"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To properly paraphrase, you should:",
+              "options": [
+                "Change two or three words and keep the rest",
+                "Read the source, set it aside, restate the idea in your own words and sentence structure, then cite it",
+                "Copy the sentence and add quotation marks only",
+                "Delete every other word from the original"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If information is common knowledge (e.g., 'Water freezes at 32 degrees Fahrenheit'), it does not need a citation.",
+              "answer": "true",
+              "hint": "Commonly known facts do not require citation, but when in doubt, cite."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Self-plagiarism involves:",
+              "options": [
+                "Plagiarizing yourself",
+                "Submitting your own previous work as new work without permission",
+                "Forgetting to cite one source",
+                "Using too many quotations"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The ethical principle of giving credit to the sources of your ideas is called ___.",
+              "answer": "attribution"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-ela-8-4",
+          "title": "Digital Literacy and Media Analysis",
+          "type": "lesson",
+          "content": {
+            "explanation": "Digital literacy is the ability to critically evaluate, create, and communicate with digital media. In a world where information spreads instantly and anyone can publish content, digital literacy is as essential as traditional reading literacy. Key skills include: identifying misinformation (false information spread unintentionally) and disinformation (false information spread deliberately to deceive). Check claims by verifying them through multiple reputable sources. Practice lateral reading \u2014 instead of evaluating a source by reading it closely, open new tabs to learn about the source, the author, and their claims from independent sources. Recognize common manipulation techniques: emotional headlines designed to provoke clicks (clickbait), images taken out of context, cherry-picked statistics, false equivalence (presenting fringe opinions as equal to expert consensus), and bot-generated content. Understand that algorithms curate your information diet, creating filter bubbles and echo chambers that reinforce existing beliefs. Seek out diverse perspectives deliberately. When sharing information online, verify before you share \u2014 you become part of the information chain.",
+            "examples": [
+              {
+                "problem": "What is the difference between misinformation and disinformation?",
+                "answer": "Misinformation is false information shared by people who believe it is true. Disinformation is false information deliberately created and spread to deceive. The intent differs \u2014 one is a mistake, the other is manipulation.",
+                "explanation": "Both are harmful, but disinformation is more insidious because it is designed to exploit cognitive biases."
+              },
+              {
+                "problem": "What is lateral reading?",
+                "answer": "Instead of evaluating a source by reading it deeply, you open new tabs to check what independent sources say about the publisher, author, and claims. Professional fact-checkers use this strategy \u2014 they leave the site to verify it.",
+                "explanation": "Reading a website's 'About Us' page tells you what they want you to think. Lateral reading tells you what others say about them."
+              },
+              {
+                "problem": "How do filter bubbles affect your understanding of issues?",
+                "answer": "Algorithms show you content similar to what you have already engaged with, creating an echo chamber where you mostly encounter perspectives that confirm your existing beliefs. This can make you overconfident in your views and unaware of legitimate opposing arguments.",
+                "explanation": "Deliberately seeking out diverse, reputable sources counters this effect."
+              }
+            ],
+            "key_vocabulary": [
+              "digital literacy",
+              "misinformation",
+              "disinformation",
+              "lateral reading",
+              "clickbait",
+              "filter bubble",
+              "echo chamber",
+              "algorithm",
+              "fact-checking",
+              "media literacy"
+            ],
+            "real_world": "Digital literacy is arguably the most important civic skill of the 21st century. Every day you encounter claims, arguments, and content that require critical evaluation. Your ability to distinguish reliable from unreliable information shapes your decisions as a citizen, consumer, and community member."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Disinformation differs from misinformation in that disinformation is:",
+              "options": [
+                "Always true",
+                "Deliberately created to deceive",
+                "Only found in print media",
+                "Always about politics"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The practice of opening new tabs to check what independent sources say about a claim is called ___ reading.",
+              "answer": "lateral"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A filter bubble is:",
+              "options": [
+                "A water purification device",
+                "An algorithm-created environment that mostly shows content matching your existing beliefs",
+                "A type of spam filter",
+                "A social media feature you can turn off"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If a headline makes you feel strong emotions like outrage or fear, you should share it immediately.",
+              "answer": "false",
+              "hint": "Emotional headlines are often clickbait designed to provoke sharing. Always verify before sharing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Clickbait is:",
+              "options": [
+                "Reliable journalism",
+                "Headlines designed to provoke emotional reactions and clicks rather than inform",
+                "A type of malware",
+                "A citation format"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "When algorithms curate your information so you mainly encounter reinforcing perspectives, you are in an ___ chamber.",
+              "answer": "echo"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-ela-8-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The CRAAP test evaluates:",
+            "options": [
+              "Grammar",
+              "Source credibility using Currency, Relevance, Authority, Accuracy, Purpose",
+              "Reading comprehension",
+              "Vocabulary"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "On an MLA Works Cited page, entries are organized ___ by the author's last name.",
+            "answer": "alphabetically"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Patchwriting is a form of:",
+            "options": [
+              "Good paraphrasing",
+              "Plagiarism \u2014 changing a few words without citing the source",
+              "Revision",
+              "Peer review"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Lateral reading involves:",
+            "options": [
+              "Reading a source very closely",
+              "Checking what independent sources say about the publisher and claims",
+              "Reading from left to right",
+              "Skimming quickly"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "False information deliberately created to deceive is called ___.",
+            "answer": "disinformation"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "research_scholar"
+      }
+    }
+  ]
+}

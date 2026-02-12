@@ -1,0 +1,756 @@
+{
+  "grade": 4,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "4-ela-1",
+      "title": "Reading Comprehension: Main Idea and Inference",
+      "description": "Strengthen your reading skills by learning to identify the main idea of a passage and make inferences based on clues in the text.",
+      "lessons": [
+        {
+          "id": "4-ela-1-1",
+          "title": "Finding the Main Idea",
+          "type": "lesson",
+          "content": {
+            "explanation": "The main idea is the most important point the author wants you to understand. It tells what the whole passage is mostly about. The main idea is different from the topic. The topic is just the subject (like 'dogs'), while the main idea is a complete thought about the topic (like 'dogs make loyal and loving pets'). To find the main idea, ask yourself: 'What is the author mostly telling me about?' Often the main idea is stated in the first or last sentence of a paragraph, but sometimes you have to figure it out by thinking about all the details together.",
+            "examples": [
+              {"problem": "Read: 'Bees are very important to our world. They pollinate flowers, which helps plants grow fruit and vegetables. Without bees, we would lose many of the foods we eat. Bees also make honey, which people have enjoyed for thousands of years.' What is the main idea?", "answer": "Bees are very important to our world.", "explanation": "All the details in the passage support the idea that bees are important. The first sentence states the main idea directly."},
+              {"problem": "What is the difference between a topic and a main idea?", "answer": "A topic is one or two words (like 'recycling'). A main idea is a complete sentence about the topic (like 'recycling helps reduce pollution and save resources').", "explanation": "The topic is the subject, and the main idea is the key message about that subject."}
+            ],
+            "key_vocabulary": ["main idea", "topic", "supporting details", "central message", "key point"],
+            "real_world": "When you watch the news and someone asks, 'What was that story about?' you give them the main idea, not every single detail."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the main idea of a passage?", "options": ["The first sentence always", "The most important point the author makes", "A small detail in the text", "The title of the passage"], "correct": 1, "hint": "The main idea tells what the passage is mostly about."},
+            {"type": "multiple_choice", "question": "Read: 'Exercise keeps your body healthy. It makes your heart stronger, helps your muscles grow, and keeps your bones strong. Exercise also helps you sleep better at night.' What is the main idea?", "options": ["Exercise helps you sleep", "Muscles grow when you exercise", "Exercise keeps your body healthy", "Bones are strong"], "correct": 2, "hint": "Which sentence tells what the whole passage is about?"},
+            {"type": "true_false", "question": "The topic and the main idea are the same thing.", "answer": false, "hint": "Is the topic a word or a complete thought?"},
+            {"type": "fill_in", "question": "The main idea tells you what the passage is ___ about.", "answer": "mostly", "hint": "It covers the most important overall point."},
+            {"type": "multiple_choice", "question": "Which is a TOPIC and which is a MAIN IDEA? A) Volcanoes. B) Volcanoes are powerful forces that shape the earth's surface.", "options": ["A is the main idea, B is the topic", "A is the topic, B is the main idea", "Both are topics", "Both are main ideas"], "correct": 1, "hint": "Which one is a complete thought?"},
+            {"type": "multiple_choice", "question": "Where is the main idea OFTEN found?", "options": ["Only in the title", "In the first or last sentence of a paragraph", "In the middle of every paragraph", "It is never stated directly"], "correct": 1, "hint": "Authors often place the main idea where readers see it first or last."},
+            {"type": "true_false", "question": "Sometimes the main idea is not stated directly and you have to figure it out from the details.", "answer": true, "hint": "Is the main idea always written out for you?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-1-2",
+          "title": "Supporting Details",
+          "type": "lesson",
+          "content": {
+            "explanation": "Supporting details are the facts, examples, reasons, and descriptions that explain or prove the main idea. Think of the main idea as an umbrella and the supporting details as everything underneath it. Each detail should connect to and support the main idea. If a detail does not relate to the main idea, it does not belong. Supporting details answer questions like 'Who?' 'What?' 'Where?' 'When?' 'Why?' and 'How?' about the main idea. Strong readers can identify which details are most important and which are less important.",
+            "examples": [
+              {"problem": "Main idea: 'Butterflies go through an amazing life cycle.' Which is a supporting detail? A) 'My favorite color is orange.' B) 'A caterpillar forms a chrysalis before becoming a butterfly.'", "answer": "B is the supporting detail.", "explanation": "It gives specific information about the butterfly life cycle, which supports the main idea."},
+              {"problem": "Main idea: 'Dogs are great companions.' List two supporting details.", "answer": "Dogs are loyal and always happy to see their owners. Dogs can learn tricks and play with their families.", "explanation": "Both details explain WHY dogs are great companions."}
+            ],
+            "key_vocabulary": ["supporting details", "evidence", "facts", "examples", "relevant", "irrelevant"],
+            "real_world": "If you tell your parents you need a new backpack, you give supporting details: 'The zipper is broken, there is a hole in the bottom, and it is too small for my books.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do supporting details do?", "options": ["Change the topic", "Explain or prove the main idea", "End the paragraph", "Introduce a new subject"], "correct": 1, "hint": "Supporting details back up the main idea."},
+            {"type": "multiple_choice", "question": "Main idea: 'The ocean is home to many fascinating creatures.' Which is the BEST supporting detail?", "options": ["I went to the beach last summer.", "The ocean is big.", "Dolphins, octopuses, and sea turtles all live in the ocean.", "I like swimming."], "correct": 2, "hint": "Which detail gives specific information about creatures in the ocean?"},
+            {"type": "true_false", "question": "Every detail in a passage is equally important.", "answer": false, "hint": "Are some details more important than others?"},
+            {"type": "fill_in", "question": "If a detail does not relate to the main idea, it is called ___.", "answer": "irrelevant", "hint": "This word means 'not related' or 'not important to the topic.'"},
+            {"type": "multiple_choice", "question": "Supporting details answer questions like ___.", "options": ["Only 'who?'", "Only 'what?'", "Who, what, where, when, why, and how", "None of the above"], "correct": 2, "hint": "There are many questions supporting details can answer."},
+            {"type": "multiple_choice", "question": "Main idea: 'Recycling helps the environment.' Which detail does NOT support this main idea?", "options": ["Recycling reduces the amount of trash in landfills.", "Recycling saves energy and natural resources.", "My school has a green recycling bin.", "Recycling keeps harmful waste out of rivers and oceans."], "correct": 2, "hint": "Which detail does not explain HOW recycling helps the environment?"},
+            {"type": "true_false", "question": "Supporting details are like the legs of a table holding up the main idea.", "answer": true, "hint": "Without support, the main idea would fall down, just like a table without legs."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-1-3",
+          "title": "Making Inferences",
+          "type": "lesson",
+          "content": {
+            "explanation": "An inference is a smart guess based on clues in the text and what you already know. Authors do not always tell you everything directly. Sometimes you have to read between the lines. When you combine text clues with your own knowledge, you are making an inference. For example, if a story says, 'Maria grabbed her umbrella and put on her raincoat before leaving the house,' you can infer that it is raining outside, even though the author never said that directly. Making inferences is like being a detective, using evidence to figure things out.",
+            "examples": [
+              {"problem": "Read: 'Sam walked into the house and dropped his heavy backpack. He slumped into a chair and closed his eyes.' What can you infer?", "answer": "Sam is tired, probably from a long day at school.", "explanation": "Clues: 'dropped his heavy backpack' (school), 'slumped' and 'closed his eyes' (tired). Combined with what you know about coming home from school."},
+              {"problem": "Read: 'The crowd jumped to their feet, cheering and clapping wildly.' What can you infer happened?", "answer": "Something exciting happened, like a team scoring or a performer doing something amazing.", "explanation": "People do not usually jump up and cheer unless something good or exciting happens."}
+            ],
+            "key_vocabulary": ["inference", "infer", "text clues", "prior knowledge", "conclude", "evidence"],
+            "real_world": "You make inferences all the time! If you see someone carrying a cake with candles, you infer it is someone's birthday."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an inference?", "options": ["A fact stated directly in the text", "A guess based on text clues and prior knowledge", "The main idea of a passage", "The title of a story"], "correct": 1, "hint": "Inferences combine clues with what you already know."},
+            {"type": "multiple_choice", "question": "Read: 'Jenny put on her helmet, knee pads, and elbow pads. She grabbed her skateboard and headed outside.' What can you infer?", "options": ["Jenny is going to school.", "Jenny is going skateboarding.", "Jenny is going swimming.", "Jenny is going to sleep."], "correct": 1, "hint": "What activity uses a helmet, pads, and a skateboard?"},
+            {"type": "fill_in", "question": "To make an inference, you combine ___ clues with what you already know.", "answer": "text", "hint": "The clues come from the reading passage."},
+            {"type": "true_false", "question": "An inference is something the author tells you directly.", "answer": false, "hint": "Do you have to figure out inferences on your own?"},
+            {"type": "multiple_choice", "question": "Read: 'The dog's tail was between its legs and it was whimpering softly.' What can you infer about the dog?", "options": ["The dog is happy.", "The dog is scared or sad.", "The dog is hungry.", "The dog is sleeping."], "correct": 1, "hint": "What do a tucked tail and whimpering usually mean?"},
+            {"type": "multiple_choice", "question": "Making an inference is like being a ___.", "options": ["Chef", "Detective", "Pilot", "Painter"], "correct": 1, "hint": "Who uses clues and evidence to figure things out?"},
+            {"type": "multiple_choice", "question": "Read: 'The lights in the stadium went off. Everyone pulled out their phones and turned on the flashlights, swaying them back and forth.' What can you infer?", "options": ["There was a power outage and people were scared.", "A slow song was playing at a concert.", "People were looking for something they lost.", "The game was over."], "correct": 1, "hint": "When do people sway phone flashlights together?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-1-4",
+          "title": "Cause and Effect in Reading",
+          "type": "lesson",
+          "content": {
+            "explanation": "Cause and effect is a relationship between events where one event (the cause) makes another event (the effect) happen. The cause is WHY something happened. The effect is WHAT happened as a result. For example, 'Because it rained (cause), the soccer game was canceled (effect).' Authors often use signal words to show cause and effect, such as 'because,' 'so,' 'therefore,' 'since,' 'as a result,' and 'due to.' Recognizing cause and effect helps you understand how events in a text are connected and why things happen.",
+            "examples": [
+              {"problem": "Identify the cause and effect: 'Because the alarm did not go off, Mia was late for school.'", "answer": "Cause: The alarm did not go off. Effect: Mia was late for school.", "explanation": "The alarm not going off (cause) led to Mia being late (effect)."},
+              {"problem": "Identify the cause and effect: 'The plants grew tall since they received plenty of sunlight and water.'", "answer": "Cause: The plants received plenty of sunlight and water. Effect: The plants grew tall.", "explanation": "The word 'since' signals the cause. The sunlight and water caused the plants to grow."}
+            ],
+            "key_vocabulary": ["cause", "effect", "result", "because", "therefore", "signal words"],
+            "real_world": "Cause and effect happens every day. You studied hard (cause), so you got a good grade (effect). You forgot your lunch (cause), so you were hungry (effect)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a 'cause' in cause and effect?", "options": ["What happened as a result", "Why something happened", "When something happened", "Where something happened"], "correct": 1, "hint": "The cause is the reason behind an event."},
+            {"type": "multiple_choice", "question": "What is the effect in: 'The ice cream melted because it was left in the sun.'", "options": ["It was left in the sun", "The ice cream melted", "The sun was shining", "Someone ate ice cream"], "correct": 1, "hint": "The effect is what happened as a result."},
+            {"type": "fill_in", "question": "The word 'because' is a ___ word that shows cause and effect.", "answer": "signal", "hint": "These words alert you to a cause-and-effect relationship."},
+            {"type": "true_false", "question": "In cause and effect, the effect always comes before the cause.", "answer": false, "hint": "Can the cause come first and the effect come second?"},
+            {"type": "multiple_choice", "question": "'Since it was snowing heavily, school was closed.' What is the cause?", "options": ["School was closed", "It was snowing heavily", "Students stayed home", "It was winter"], "correct": 1, "hint": "'Since' introduces the reason (cause)."},
+            {"type": "multiple_choice", "question": "Which is a signal word for cause and effect?", "options": ["However", "Therefore", "Meanwhile", "Finally"], "correct": 1, "hint": "This word shows a result is coming."},
+            {"type": "multiple_choice", "question": "'Liam practiced piano every day, so he performed beautifully at the recital.' What is the effect?", "options": ["Liam practiced piano every day", "He performed beautifully at the recital", "Liam likes music", "The recital was fun"], "correct": 1, "hint": "'So' introduces the result."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-1-5",
+          "title": "Drawing Conclusions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Drawing a conclusion means using information from the text along with your own knowledge to make a final judgment or decision about something. It is similar to making an inference, but a conclusion is broader and often comes after reading a larger section of text. To draw a conclusion, gather all the evidence, think about what you know, and decide what makes sense. Your conclusion should be supported by the text. If someone asks you, 'What do you think happened and why?' you are drawing a conclusion. Make sure your conclusion is logical and based on real evidence, not just a wild guess.",
+            "examples": [
+              {"problem": "Read: 'Every day after school, James goes straight to the basketball court. He practices shooting, dribbling, and passing for two hours. He watches professional games on weekends and reads books about basketball strategies.' What conclusion can you draw?", "answer": "James is very dedicated to basketball and wants to become a better player.", "explanation": "All the evidence shows James spending time and effort on basketball."},
+              {"problem": "Read: 'The restaurant was empty on a Friday night. The paint was peeling, the chairs were broken, and the menu had not changed in years.' What conclusion can you draw?", "answer": "The restaurant is not doing well and may be going out of business.", "explanation": "An empty restaurant on a busy night with poor conditions suggests the business is struggling."}
+            ],
+            "key_vocabulary": ["conclusion", "evidence", "judgment", "logical", "support", "reasoning"],
+            "real_world": "When you see a friend looking sad and you know they had a big test today, you might draw the conclusion that the test did not go well."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does it mean to 'draw a conclusion'?", "options": ["To draw a picture about the story", "To make a final judgment based on evidence and knowledge", "To copy sentences from the text", "To write a summary"], "correct": 1, "hint": "Conclusions are based on evidence and reasoning."},
+            {"type": "multiple_choice", "question": "Read: 'Maria always wears her lucky socks before a test. She sits in the same seat and uses the same pencil.' What can you conclude?", "options": ["Maria does not like tests.", "Maria is superstitious about test taking.", "Maria does not have many socks.", "Maria always fails tests."], "correct": 1, "hint": "What does her routine before tests suggest?"},
+            {"type": "true_false", "question": "A good conclusion should be supported by evidence from the text.", "answer": true, "hint": "Should conclusions be based on proof or just random guesses?"},
+            {"type": "fill_in", "question": "To draw a conclusion, you combine evidence from the text with your own ___.", "answer": "knowledge", "hint": "What you already know helps you make sense of the evidence."},
+            {"type": "multiple_choice", "question": "Read: 'The garden was full of colorful flowers. Butterflies flew from bloom to bloom. Birds sang in the nearby trees.' What conclusion can you draw about the time of year?", "options": ["It is probably winter.", "It is probably spring or summer.", "It is probably fall.", "It is nighttime."], "correct": 1, "hint": "When are gardens full of flowers and butterflies?"},
+            {"type": "multiple_choice", "question": "Which is NOT a good way to draw a conclusion?", "options": ["Look at evidence from the text", "Think about what you already know", "Make a random guess with no support", "Put the evidence together logically"], "correct": 2, "hint": "Conclusions need to be based on something."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the main idea?", "options": ["A small detail", "The most important point of a passage", "The first word", "A topic"], "correct": 1},
+          {"type": "true_false", "question": "The topic and the main idea are the same thing.", "answer": false},
+          {"type": "multiple_choice", "question": "What is an inference?", "options": ["A fact directly stated in the text", "A guess based on clues and knowledge", "The title", "A vocabulary word"], "correct": 1},
+          {"type": "multiple_choice", "question": "In cause and effect, what is the 'effect'?", "options": ["Why something happened", "What happened as a result", "When it happened", "Who was involved"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which is a signal word for cause and effect?", "options": ["First", "Because", "Next", "Finally"], "correct": 1},
+          {"type": "true_false", "question": "Supporting details explain or prove the main idea.", "answer": true},
+          {"type": "multiple_choice", "question": "Drawing a conclusion means ___.", "options": ["Drawing a picture", "Making a judgment based on evidence", "Copying the text", "Reading out loud"], "correct": 1},
+          {"type": "fill_in", "question": "Details that do not relate to the main idea are called ___ details.", "answer": "irrelevant", "hint": "This word means 'not related.'"},
+          {"type": "multiple_choice", "question": "Read: 'Amy was shivering and her teeth were chattering.' What can you infer?", "options": ["Amy is hot.", "Amy is cold.", "Amy is happy.", "Amy is tired."], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "comprehension_ace_4"
+      }
+    },
+    {
+      "id": "4-ela-2",
+      "title": "Grammar: Subject-Verb Agreement, Pronouns, and Conjunctions",
+      "description": "Master important grammar rules including making subjects and verbs agree, using pronouns correctly, and connecting ideas with conjunctions.",
+      "lessons": [
+        {
+          "id": "4-ela-2-1",
+          "title": "Subject-Verb Agreement",
+          "type": "lesson",
+          "content": {
+            "explanation": "Subject-verb agreement means the subject and verb in a sentence must match in number. If the subject is singular (one person or thing), the verb must be singular too. If the subject is plural (more than one), the verb must be plural. For example, 'The dog runs' (singular) versus 'The dogs run' (plural). A common rule: singular verbs often end in '-s' (he walks, she plays), while plural verbs usually do not (they walk, we play). This can be tricky because with nouns it is the opposite: adding '-s' makes a noun plural! Always check: does your subject match your verb?",
+            "examples": [
+              {"problem": "Which is correct? 'The bird sing' or 'The bird sings'?", "answer": "'The bird sings' is correct.", "explanation": "'Bird' is singular (one bird), so the verb needs an '-s' ending: 'sings.'"},
+              {"problem": "Which is correct? 'The children plays' or 'The children play'?", "answer": "'The children play' is correct.", "explanation": "'Children' is plural (more than one), so the verb does not end in '-s': 'play.'"},
+              {"problem": "Which is correct? 'She have a cat' or 'She has a cat'?", "answer": "'She has a cat' is correct.", "explanation": "'She' is singular, so we use 'has' instead of 'have.'"}
+            ],
+            "key_vocabulary": ["subject", "verb", "agreement", "singular", "plural", "match"],
+            "real_world": "When you speak correctly, people understand you better. Saying 'He don't' instead of 'He doesn't' can confuse your meaning."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does subject-verb agreement mean?", "options": ["The subject and verb rhyme", "The subject and verb match in number", "The subject comes after the verb", "The verb is always past tense"], "correct": 1, "hint": "Singular subjects need singular verbs, and plural subjects need plural verbs."},
+            {"type": "multiple_choice", "question": "Which sentence is correct?", "options": ["The cats plays outside.", "The cats play outside.", "The cats is playing outside.", "The cats plays outside all day."], "correct": 1, "hint": "'Cats' is plural, so which verb form matches?"},
+            {"type": "fill_in", "question": "She ___ to the store every Saturday. (go/goes)", "answer": "goes", "hint": "'She' is singular, so the verb needs an '-s' ending."},
+            {"type": "true_false", "question": "'The flowers bloom in spring' has correct subject-verb agreement.", "answer": true, "hint": "'Flowers' is plural and 'bloom' is a plural verb form."},
+            {"type": "multiple_choice", "question": "Which sentence has an error in subject-verb agreement?", "options": ["The teacher speaks clearly.", "The students listens carefully.", "We eat lunch at noon.", "She reads every night."], "correct": 1, "hint": "'Students' is plural. Does 'listens' match a plural subject?"},
+            {"type": "fill_in", "question": "They ___ soccer after school. (plays/play)", "answer": "play", "hint": "'They' is plural, so the verb should not end in '-s.'"},
+            {"type": "multiple_choice", "question": "Which is correct?", "options": ["He don't like broccoli.", "He doesn't like broccoli.", "He not like broccoli.", "He do not likes broccoli."], "correct": 1, "hint": "'He' is singular. Which form of 'do not' is singular?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-2-2",
+          "title": "Pronouns: Taking the Place of Nouns",
+          "type": "lesson",
+          "content": {
+            "explanation": "A pronoun is a word that takes the place of a noun so you do not have to repeat the same word over and over. Instead of saying 'Maria went to Maria's locker and Maria got Maria's books,' you can say 'Maria went to her locker and she got her books.' Subject pronouns include I, you, he, she, it, we, and they. Object pronouns include me, you, him, her, it, us, and them. Possessive pronouns show ownership: my, your, his, her, its, our, their. The noun that a pronoun replaces is called the antecedent. It is important that the pronoun clearly matches its antecedent so the reader is not confused.",
+            "examples": [
+              {"problem": "Replace the repeated noun with a pronoun: 'Jake loves Jake's dog. Jake takes Jake's dog to the park every day.'", "answer": "Jake loves his dog. He takes his dog to the park every day.", "explanation": "'His' replaces 'Jake's' (possessive) and 'He' replaces 'Jake' (subject)."},
+              {"problem": "What is the antecedent of 'she' in: 'Emma finished her test. She was the first one done.'?", "answer": "Emma.", "explanation": "'She' refers back to 'Emma,' so Emma is the antecedent."}
+            ],
+            "key_vocabulary": ["pronoun", "antecedent", "subject pronoun", "object pronoun", "possessive pronoun"],
+            "real_world": "Imagine if a sports announcer never used pronouns: 'LeBron got the ball. LeBron dribbled. LeBron shot. LeBron scored!' Pronouns make language flow naturally."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a pronoun?", "options": ["A word that describes a verb", "A word that takes the place of a noun", "A word that ends a sentence", "A word that connects ideas"], "correct": 1, "hint": "Pronouns replace nouns so we do not repeat them."},
+            {"type": "multiple_choice", "question": "Which is a subject pronoun?", "options": ["him", "her", "they", "us"], "correct": 2, "hint": "Subject pronouns are used as the subject of a sentence."},
+            {"type": "fill_in", "question": "The noun that a pronoun replaces is called the ___.", "answer": "antecedent", "hint": "This word comes before the pronoun and the pronoun refers to it."},
+            {"type": "multiple_choice", "question": "Which sentence uses a pronoun correctly? 'My sister is nice. ___ helps me with homework.'", "options": ["Him helps me.", "Her helps me.", "She helps me.", "Them helps me."], "correct": 2, "hint": "You need a subject pronoun for 'sister.'"},
+            {"type": "true_false", "question": "'My,' 'your,' and 'their' are possessive pronouns.", "answer": true, "hint": "Do these words show ownership?"},
+            {"type": "multiple_choice", "question": "Replace the underlined noun with a pronoun: 'The students went to the library. The students checked out books.'", "options": ["Him checked out books.", "We checked out books.", "They checked out books.", "It checked out books."], "correct": 2, "hint": "'The students' is plural. Which pronoun replaces a plural noun?"},
+            {"type": "fill_in", "question": "I gave the book to ___. (he/him)", "answer": "him", "hint": "After 'to,' you need an object pronoun, not a subject pronoun."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-2-3",
+          "title": "Conjunctions: Connecting Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "Conjunctions are words that connect words, phrases, or sentences. The most common conjunctions are the coordinating conjunctions: for, and, nor, but, or, yet, so (you can remember them with the acronym FANBOYS). 'And' adds information: 'I like cats and dogs.' 'But' shows contrast: 'I like cats but not spiders.' 'Or' shows a choice: 'Do you want cake or pie?' 'So' shows a result: 'It rained, so we stayed inside.' When you use a conjunction to connect two complete sentences, you usually put a comma before the conjunction.",
+            "examples": [
+              {"problem": "Combine these sentences using 'but': 'I wanted to play outside. It was raining.'", "answer": "I wanted to play outside, but it was raining.", "explanation": "'But' shows the contrast between wanting to play and the rain preventing it."},
+              {"problem": "Which conjunction fits? 'Would you like pizza ___ pasta for dinner?'", "answer": "or", "explanation": "'Or' presents a choice between two options."},
+              {"problem": "Combine using 'so': 'She studied hard. She got an A on the test.'", "answer": "She studied hard, so she got an A on the test.", "explanation": "'So' shows the result of studying hard."}
+            ],
+            "key_vocabulary": ["conjunction", "coordinating conjunction", "FANBOYS", "connect", "combine", "compound sentence"],
+            "real_world": "You use conjunctions when you talk: 'I want ice cream AND cake,' 'Should we walk OR ride bikes?' 'I was tired, SO I went to bed early.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a conjunction do?", "options": ["Describes a noun", "Shows action", "Connects words or sentences", "Ends a sentence"], "correct": 2, "hint": "Conjunctions are connectors."},
+            {"type": "fill_in", "question": "The acronym FANBOYS stands for: For, And, Nor, But, Or, Yet, ___.", "answer": "So", "hint": "This conjunction shows a result."},
+            {"type": "multiple_choice", "question": "Which conjunction shows a contrast or difference?", "options": ["And", "But", "Or", "So"], "correct": 1, "hint": "Which word means 'however' or shows the other side?"},
+            {"type": "multiple_choice", "question": "Choose the best conjunction: 'I was hungry, ___ I made a sandwich.'", "options": ["but", "or", "so", "nor"], "correct": 2, "hint": "Being hungry led to making a sandwich. Which word shows a result?"},
+            {"type": "true_false", "question": "When you join two complete sentences with a conjunction, you should put a comma before the conjunction.", "answer": true, "hint": "A comma helps the reader pause between the two ideas."},
+            {"type": "multiple_choice", "question": "Which sentence uses a conjunction correctly?", "options": ["I like apples, but I don't like bananas.", "I like apples but, I don't like bananas.", "I like, apples but I don't like bananas.", "I like apples but I, don't like bananas."], "correct": 0, "hint": "The comma goes before the conjunction when joining two sentences."},
+            {"type": "fill_in", "question": "Do you want to read a book ___ watch a movie? (and/or)", "answer": "or", "hint": "You are being given a choice between two options."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-2-4",
+          "title": "Compound Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A compound sentence is made by joining two simple sentences (also called independent clauses) with a coordinating conjunction and a comma. Each part of the compound sentence can stand alone as a complete thought. For example, 'I finished my homework' is a simple sentence. 'I went outside to play' is another simple sentence. Together: 'I finished my homework, and I went outside to play.' Compound sentences make your writing more interesting because they show how ideas are connected. Without compound sentences, your writing would sound choppy and disconnected.",
+            "examples": [
+              {"problem": "Make a compound sentence: 'The sun was shining.' + 'We went to the beach.'", "answer": "The sun was shining, so we went to the beach.", "explanation": "'So' shows that the sunshine was the reason we went to the beach. The comma comes before 'so.'"},
+              {"problem": "Is this a compound sentence? 'I like pizza and pasta.'", "answer": "No, this is a simple sentence.", "explanation": "'And' is connecting two words (pizza and pasta), not two complete sentences. Each side must be able to stand alone."}
+            ],
+            "key_vocabulary": ["compound sentence", "simple sentence", "independent clause", "conjunction", "comma"],
+            "real_world": "Compare these two ways of writing: 'I woke up. I brushed my teeth. I ate breakfast.' versus 'I woke up, and I brushed my teeth before eating breakfast.' The second one flows better!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a compound sentence?", "options": ["A very long sentence", "Two simple sentences joined by a conjunction", "A sentence with many adjectives", "A question"], "correct": 1, "hint": "Compound means 'made of two parts.'"},
+            {"type": "multiple_choice", "question": "Which is a compound sentence?", "options": ["The dog ran.", "The big, fluffy dog ran quickly.", "The dog ran, and the cat hid.", "Running dogs are fast."], "correct": 2, "hint": "A compound sentence has two complete thoughts joined by a conjunction."},
+            {"type": "true_false", "question": "In a compound sentence, each part can stand alone as a complete thought.", "answer": true, "hint": "Both parts are independent clauses."},
+            {"type": "fill_in", "question": "A compound sentence uses a comma and a ___ to join two ideas.", "answer": "conjunction", "hint": "Words like 'and,' 'but,' 'or,' and 'so.'"},
+            {"type": "multiple_choice", "question": "Combine into a compound sentence: 'I was tired.' + 'I could not sleep.'", "options": ["I was tired I could not sleep.", "I was tired, but I could not sleep.", "I was tired could not sleep.", "Tired, I not sleep."], "correct": 1, "hint": "Use a comma and a conjunction that shows contrast."},
+            {"type": "multiple_choice", "question": "Is this a compound sentence? 'My brother and I rode our bikes.'", "options": ["Yes", "No"], "correct": 1, "hint": "Does this have two complete thoughts joined by a conjunction, or is it one thought with a compound subject?"},
+            {"type": "true_false", "question": "Compound sentences make writing more interesting by showing how ideas connect.", "answer": true, "hint": "Do compound sentences improve writing flow?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which sentence has correct subject-verb agreement?", "options": ["The girls plays soccer.", "The girls play soccer.", "The girls is playing soccer.", "The girls am playing."], "correct": 1},
+          {"type": "true_false", "question": "A pronoun takes the place of a noun.", "answer": true},
+          {"type": "multiple_choice", "question": "Which are subject pronouns?", "options": ["him, her, them", "my, your, their", "I, you, he, she, we, they", "me, us, it"], "correct": 2},
+          {"type": "multiple_choice", "question": "What does the conjunction 'but' show?", "options": ["Addition", "A choice", "A result", "A contrast"], "correct": 3},
+          {"type": "fill_in", "question": "FANBOYS stands for For, And, Nor, But, Or, Yet, ___.", "answer": "So", "hint": "The last letter is S."},
+          {"type": "multiple_choice", "question": "Which is a compound sentence?", "options": ["She ran fast.", "She ran fast, but she did not win.", "Running fast and jumping high.", "She and her friend ran."], "correct": 1},
+          {"type": "true_false", "question": "'He have a new bike' is correct subject-verb agreement.", "answer": false},
+          {"type": "multiple_choice", "question": "What is the antecedent of 'he' in: 'Tom went to school. He forgot his lunch.'", "options": ["School", "Lunch", "Tom", "Forgot"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which conjunction shows a result?", "options": ["and", "but", "or", "so"], "correct": 3}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_whiz_4"
+      }
+    },
+    {
+      "id": "4-ela-3",
+      "title": "Multi-Paragraph Writing",
+      "description": "Learn to organize your ideas into multi-paragraph compositions with clear introductions, body paragraphs, and conclusions.",
+      "lessons": [
+        {
+          "id": "4-ela-3-1",
+          "title": "Planning Your Writing: Brainstorming and Organizing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Good writing starts with good planning. Before you write, take time to brainstorm and organize your ideas. Brainstorming means thinking of as many ideas as possible without judging them. You can brainstorm by making a list, drawing a web or mind map, or talking with a partner. After brainstorming, organize your ideas by choosing the best ones and putting them in a logical order. A graphic organizer like an outline helps you plan which ideas go in the introduction, body paragraphs, and conclusion. Planning saves time because you know what to write before you start.",
+            "examples": [
+              {"problem": "You want to write about your favorite animal. How would you brainstorm?", "answer": "Make a list of reasons you like the animal, interesting facts, what it looks like, where it lives, and personal experiences with it.", "explanation": "Brainstorming gets all your ideas out before you start organizing."},
+              {"problem": "How would you organize ideas for a piece about why dogs are great pets?", "answer": "Introduction: Dogs are great pets. Body 1: Dogs are loyal. Body 2: Dogs are fun to play with. Body 3: Dogs help keep you active. Conclusion: Dogs make life better.", "explanation": "Each body paragraph focuses on one reason, creating a clear structure."}
+            ],
+            "key_vocabulary": ["brainstorm", "organize", "outline", "graphic organizer", "mind map", "plan"],
+            "real_world": "Even professional authors plan before they write. J.K. Rowling planned the entire Harry Potter series before writing the first book!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should you do BEFORE writing a multi-paragraph piece?", "options": ["Start writing immediately", "Brainstorm and organize your ideas", "Write the conclusion first", "Copy from another writer"], "correct": 1, "hint": "Planning comes before writing."},
+            {"type": "true_false", "question": "Brainstorming means judging each idea as you think of it.", "answer": false, "hint": "Should you evaluate ideas during brainstorming or just get them all out?"},
+            {"type": "fill_in", "question": "A graphic ___ helps you plan which ideas go in each paragraph.", "answer": "organizer", "hint": "This tool helps you arrange your ideas visually."},
+            {"type": "multiple_choice", "question": "Which is a brainstorming strategy?", "options": ["Writing the final draft", "Making a mind map of ideas", "Editing for spelling errors", "Reading your work out loud"], "correct": 1, "hint": "Brainstorming is about generating ideas."},
+            {"type": "multiple_choice", "question": "What are the three main parts of a multi-paragraph piece?", "options": ["Title, body, ending", "Introduction, body paragraphs, conclusion", "Topic, details, summary", "Beginning, climax, resolution"], "correct": 1, "hint": "Think about how a multi-paragraph piece is structured."},
+            {"type": "true_false", "question": "Planning your writing saves time because you know what to write before you start.", "answer": true, "hint": "Does having a plan make writing faster or slower?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-3-2",
+          "title": "Writing an Introduction Paragraph",
+          "type": "lesson",
+          "content": {
+            "explanation": "The introduction paragraph is the first paragraph of your writing. It has two important jobs: grab the reader's attention and introduce the main topic. You can grab attention with an interesting fact, a question, or an exciting statement called a hook. After the hook, give a little background information about your topic. The last sentence of your introduction is usually your thesis statement, which tells the reader the main point of your entire piece. A strong introduction makes the reader want to keep reading. Think of it as a movie trailer for your writing.",
+            "examples": [
+              {"problem": "Write a hook for a piece about why reading is important.", "answer": "'Did you know that people who read regularly have larger vocabularies and better writing skills?'", "explanation": "This question grabs attention by sharing a surprising fact."},
+              {"problem": "What is a thesis statement?", "answer": "A sentence that states the main point of your writing.", "explanation": "For example: 'Reading is one of the most important skills a person can develop because it improves vocabulary, builds knowledge, and strengthens imagination.'"}
+            ],
+            "key_vocabulary": ["introduction", "hook", "thesis statement", "attention", "background information"],
+            "real_world": "Think of your introduction like the opening scene of a movie. If it is boring, people stop watching. If it is exciting, they want to see more!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the purpose of an introduction paragraph?", "options": ["To summarize the whole piece", "To grab attention and introduce the topic", "To give every detail about the topic", "To end the piece"], "correct": 1, "hint": "The introduction starts things off."},
+            {"type": "fill_in", "question": "A ___ is an interesting first sentence that grabs the reader's attention.", "answer": "hook", "hint": "Just like a fishing hook catches fish, this catches readers."},
+            {"type": "multiple_choice", "question": "What is a thesis statement?", "options": ["A question for the reader", "A sentence that states the main point of your writing", "The title of your essay", "A detail about the topic"], "correct": 1, "hint": "The thesis tells the reader what your whole piece is about."},
+            {"type": "true_false", "question": "The thesis statement usually comes at the end of the introduction paragraph.", "answer": true, "hint": "Where is the main point typically placed in the introduction?"},
+            {"type": "multiple_choice", "question": "Which is the best hook for a piece about space?", "options": ["Space is big.", "This paper is about space.", "Did you know that there are more stars in the universe than grains of sand on Earth?", "I will write about space."], "correct": 2, "hint": "Which one makes you say 'Wow, I want to learn more!'?"},
+            {"type": "multiple_choice", "question": "Which type of hook asks the reader something?", "options": ["A fact", "A question", "A quote", "A definition"], "correct": 1, "hint": "This type of hook directly engages the reader by asking them to think."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-3-3",
+          "title": "Writing Body Paragraphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Body paragraphs are the middle paragraphs of your writing where you explain your ideas in detail. Each body paragraph should focus on ONE main point that supports your thesis. Start each body paragraph with a topic sentence that introduces the point. Then add supporting details like facts, examples, and explanations. End with a sentence that wraps up the point or transitions to the next paragraph. Most multi-paragraph pieces have two to four body paragraphs. Transition words like 'first,' 'next,' 'additionally,' 'also,' and 'finally' help connect your paragraphs and guide the reader through your ideas.",
+            "examples": [
+              {"problem": "Thesis: 'Soccer is a great sport for kids.' Write a topic sentence for one body paragraph.", "answer": "'One reason soccer is great for kids is that it keeps them physically active.'", "explanation": "This topic sentence introduces one specific reason that supports the thesis."},
+              {"problem": "What are transition words?", "answer": "Words that connect ideas and guide the reader, like 'first,' 'also,' 'however,' and 'finally.'", "explanation": "Transitions make writing flow smoothly from one idea to the next."}
+            ],
+            "key_vocabulary": ["body paragraph", "topic sentence", "supporting details", "transition words", "evidence"],
+            "real_world": "When you explain to a friend why they should try a new video game, each reason you give is like a body paragraph with details."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many main points should each body paragraph focus on?", "options": ["As many as possible", "One", "Three", "None"], "correct": 1, "hint": "Each body paragraph covers one key idea."},
+            {"type": "fill_in", "question": "___ words like 'first,' 'next,' and 'finally' help connect paragraphs.", "answer": "Transition", "hint": "These words help the reader move smoothly between ideas."},
+            {"type": "multiple_choice", "question": "What should the first sentence of a body paragraph be?", "options": ["A closing sentence", "A topic sentence", "A thesis statement", "A hook"], "correct": 1, "hint": "It introduces the main point of that paragraph."},
+            {"type": "true_false", "question": "Body paragraphs should include facts, examples, and explanations to support the topic sentence.", "answer": true, "hint": "Do body paragraphs need evidence?"},
+            {"type": "multiple_choice", "question": "Which is a transition word?", "options": ["Dog", "Additionally", "Blue", "Pizza"], "correct": 1, "hint": "Which word helps connect one idea to the next?"},
+            {"type": "multiple_choice", "question": "How many body paragraphs do most multi-paragraph pieces have?", "options": ["Zero", "One", "Two to four", "Ten or more"], "correct": 2, "hint": "You need enough paragraphs to explain your ideas, but not too many."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-3-4",
+          "title": "Writing a Conclusion Paragraph",
+          "type": "lesson",
+          "content": {
+            "explanation": "The conclusion is the last paragraph of your writing. A good conclusion does three things: restates the thesis in different words, summarizes the main points briefly, and ends with a final thought that leaves the reader thinking. Do not add new information in the conclusion. Instead, remind the reader what they learned and explain why it matters. You can end with a call to action (telling the reader to do something), a question for the reader to think about, or a powerful final statement. A strong conclusion makes your writing feel complete and memorable.",
+            "examples": [
+              {"problem": "Thesis: 'Reading is important for three reasons.' How would you begin the conclusion?", "answer": "'In conclusion, reading is one of the most valuable skills anyone can develop.'", "explanation": "The conclusion restates the thesis (reading is important) in new words."},
+              {"problem": "What is a call to action?", "answer": "A sentence that tells the reader to do something, like 'So pick up a book today and start your reading journey!'", "explanation": "A call to action encourages the reader to take action based on what they read."}
+            ],
+            "key_vocabulary": ["conclusion", "restate", "summarize", "call to action", "final thought", "memorable"],
+            "real_world": "The end of a great movie leaves you thinking. Your conclusion should do the same for your reader!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the purpose of a conclusion paragraph?", "options": ["To introduce the topic", "To add new information", "To restate the thesis, summarize, and leave a final thought", "To list vocabulary words"], "correct": 2, "hint": "The conclusion wraps everything up."},
+            {"type": "true_false", "question": "A conclusion should add new information that was not in the body paragraphs.", "answer": false, "hint": "Is the conclusion for new ideas or for wrapping up?"},
+            {"type": "fill_in", "question": "A conclusion restates the ___ in different words.", "answer": "thesis", "hint": "What is the main point of your whole piece called?"},
+            {"type": "multiple_choice", "question": "What is a 'call to action'?", "options": ["A phone call", "A sentence that tells the reader to do something", "The first sentence of a piece", "A type of question"], "correct": 1, "hint": "It 'calls' the reader to take 'action.'"},
+            {"type": "multiple_choice", "question": "Which phrase is a good way to start a conclusion?", "options": ["First of all", "For example", "In conclusion", "Once upon a time"], "correct": 2, "hint": "Which phrase signals you are wrapping up?"},
+            {"type": "true_false", "question": "A strong conclusion makes your writing feel complete.", "answer": true, "hint": "Does a good ending leave the reader satisfied?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-3-5",
+          "title": "Revising and Editing Your Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "After writing your first draft, you need to revise and edit. Revising means making your writing better by improving ideas, organization, and word choice. Ask yourself: 'Does my writing make sense? Is it organized? Did I include enough details? Are my sentences clear and varied?' Editing means fixing mistakes in spelling, grammar, punctuation, and capitalization. These are two different steps. Revise first (big changes), then edit (small fixes). Reading your work out loud helps you catch errors and awkward sentences. It is also helpful to have someone else read your work because fresh eyes spot mistakes you might miss.",
+            "examples": [
+              {"problem": "What is the difference between revising and editing?", "answer": "Revising improves ideas and organization. Editing fixes spelling, grammar, and punctuation.", "explanation": "Revising is about making your writing better. Editing is about making it correct."},
+              {"problem": "Why should you read your writing out loud?", "answer": "To catch errors, awkward sentences, and see if your writing flows well.", "explanation": "Hearing your words helps you notice things you might miss when reading silently."}
+            ],
+            "key_vocabulary": ["revise", "edit", "draft", "proofread", "improve", "feedback"],
+            "real_world": "Even professional authors revise their work many times. The first Harry Potter book was rejected 12 times before being published!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does revising focus on?", "options": ["Fixing spelling errors", "Improving ideas, organization, and word choice", "Adding punctuation", "Checking capitalization"], "correct": 1, "hint": "Revising is about making your writing better overall."},
+            {"type": "multiple_choice", "question": "What does editing focus on?", "options": ["Changing the topic", "Adding more paragraphs", "Fixing spelling, grammar, and punctuation", "Making it longer"], "correct": 2, "hint": "Editing catches small mistakes."},
+            {"type": "true_false", "question": "You should edit before you revise.", "answer": false, "hint": "Should you fix small errors first or improve the big ideas first?"},
+            {"type": "fill_in", "question": "Reading your writing out ___ helps you catch errors.", "answer": "loud", "hint": "You use your voice to read."},
+            {"type": "multiple_choice", "question": "Why is it helpful to have someone else read your writing?", "options": ["They can write it for you", "Fresh eyes can spot mistakes you missed", "They know more words than you", "They can make it longer"], "correct": 1, "hint": "Other people bring a new perspective."},
+            {"type": "multiple_choice", "question": "Which should you do first?", "options": ["Publish your writing", "Edit for spelling", "Revise for ideas and organization", "Read it to the class"], "correct": 2, "hint": "Fix the big things before fixing the small things."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What should you do before writing?", "options": ["Publish immediately", "Brainstorm and organize your ideas", "Write the conclusion", "Edit for errors"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is a hook?", "options": ["A fishing tool", "An interesting opening that grabs attention", "The last sentence", "A type of punctuation"], "correct": 1},
+          {"type": "true_false", "question": "A thesis statement tells the main point of your writing.", "answer": true},
+          {"type": "multiple_choice", "question": "Each body paragraph should focus on ___.", "options": ["Every idea at once", "One main point", "Only facts", "Questions"], "correct": 1},
+          {"type": "fill_in", "question": "The conclusion restates the ___ and summarizes the main points.", "answer": "thesis", "hint": "The main argument or point of your piece."},
+          {"type": "multiple_choice", "question": "What is the difference between revising and editing?", "options": ["They are the same thing", "Revising fixes spelling; editing improves ideas", "Revising improves ideas; editing fixes spelling and grammar", "Neither is important"], "correct": 2},
+          {"type": "true_false", "question": "A conclusion should introduce new information.", "answer": false},
+          {"type": "multiple_choice", "question": "Which is a transition word?", "options": ["Cat", "However", "Blue", "Jump"], "correct": 1},
+          {"type": "multiple_choice", "question": "What are the three main parts of a multi-paragraph piece?", "options": ["Hook, details, ending", "Introduction, body paragraphs, conclusion", "Title, paragraphs, bibliography", "Beginning, middle, climax"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "writing_wizard_4"
+      }
+    },
+    {
+      "id": "4-ela-4",
+      "title": "Persuasive Writing Introduction",
+      "description": "Learn to write persuasively by forming opinions, supporting them with reasons and evidence, and convincing your audience.",
+      "lessons": [
+        {
+          "id": "4-ela-4-1",
+          "title": "What Is Persuasive Writing?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Persuasive writing tries to convince the reader to agree with your opinion or take action. The goal is to change someone's mind or get them to do something. Persuasive writing is different from informational writing because it includes the writer's opinion and tries to convince. You see persuasive writing everywhere: advertisements try to convince you to buy products, letters to the editor try to convince people to support a cause, and even a note to your parents trying to get a later bedtime is persuasive writing! In persuasive writing, you state your opinion clearly, give strong reasons and evidence, and address what the other side might think.",
+            "examples": [
+              {"problem": "Is this persuasive writing? 'Students should have longer recess because it helps them focus better in class and gives them exercise.'", "answer": "Yes, this is persuasive.", "explanation": "It states an opinion ('students should have longer recess') and gives reasons to convince the reader."},
+              {"problem": "Is this persuasive writing? 'The cafeteria serves lunch at noon every day.'", "answer": "No, this is informational.", "explanation": "It states a fact but does not try to convince the reader of anything."}
+            ],
+            "key_vocabulary": ["persuasive", "opinion", "convince", "argument", "audience", "evidence"],
+            "real_world": "You use persuasive skills when you convince a friend to play your game, ask your parents for a pet, or tell your teacher why you deserve extra credit."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the goal of persuasive writing?", "options": ["To tell a story", "To convince the reader to agree or take action", "To describe a person", "To list facts without opinions"], "correct": 1, "hint": "Persuasive means trying to convince someone."},
+            {"type": "true_false", "question": "Persuasive writing includes the writer's opinion.", "answer": true, "hint": "Does persuasive writing try to share and support a point of view?"},
+            {"type": "multiple_choice", "question": "Which is an example of persuasive writing?", "options": ["A recipe for chocolate cake", "A letter convincing the mayor to build a new park", "A story about a talking rabbit", "A report on the water cycle"], "correct": 1, "hint": "Which one tries to convince someone?"},
+            {"type": "fill_in", "question": "Persuasive writing tries to ___ the reader to agree with your opinion.", "answer": "convince", "hint": "What does 'persuade' mean?"},
+            {"type": "multiple_choice", "question": "Where do you see persuasive writing in everyday life?", "options": ["Only in school essays", "Only in books", "Advertisements, letters to the editor, speeches", "Only on tests"], "correct": 2, "hint": "Persuasion is all around you."},
+            {"type": "true_false", "question": "A persuasive piece should only state an opinion without any reasons or evidence.", "answer": false, "hint": "Can you convince someone with just an opinion and no reasons?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-4-2",
+          "title": "Forming Strong Opinions and Reasons",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong persuasive piece starts with a clear opinion statement. Your opinion should be specific and debatable, meaning not everyone would automatically agree. For example, 'Pizza is food' is a fact, not an opinion. 'Pizza is the best school lunch option' is a strong opinion that you can argue for. After stating your opinion, you need at least three strong reasons to support it. Each reason should be backed up by evidence like facts, examples, or expert opinions. Weaker reasons should be replaced with stronger ones. Arrange your reasons from least important to most important so your writing ends strong.",
+            "examples": [
+              {"problem": "Which is a stronger opinion? A) 'Books are things you read.' B) 'Every student should read for at least 20 minutes a day.'", "answer": "B is stronger.", "explanation": "A is a fact, not an opinion. B is a clear, debatable opinion that can be supported with reasons."},
+              {"problem": "Give three reasons to support: 'Schools should have a garden.'", "answer": "1) Students learn about science and nature. 2) It teaches responsibility. 3) Students can eat fresh vegetables they grew.", "explanation": "Each reason supports why a school garden is a good idea."}
+            ],
+            "key_vocabulary": ["opinion", "reasons", "evidence", "debatable", "support", "argument"],
+            "real_world": "Lawyers in courtrooms use opinions supported by evidence to convince the jury. The lawyer with the strongest argument often wins!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What makes a strong opinion for persuasive writing?", "options": ["Everyone already agrees with it", "It is specific and debatable", "It has no reasons", "It is a fact"], "correct": 1, "hint": "A good opinion is something people might disagree about."},
+            {"type": "true_false", "question": "'Water is a liquid' is a good persuasive opinion.", "answer": false, "hint": "Is this a fact or an opinion people could debate?"},
+            {"type": "fill_in", "question": "You should support your opinion with at least ___ strong reasons.", "answer": "three", "hint": "How many reasons make a convincing argument?"},
+            {"type": "multiple_choice", "question": "Which is a strong opinion for a persuasive piece?", "options": ["The sky is blue.", "Homework helps students learn and should be assigned daily.", "Two plus two equals four.", "Dogs have four legs."], "correct": 1, "hint": "Which statement is something someone could disagree with?"},
+            {"type": "multiple_choice", "question": "How should you arrange your reasons in persuasive writing?", "options": ["Randomly", "Most important to least important", "Least important to most important", "Alphabetically"], "correct": 2, "hint": "You want to end with your strongest argument."},
+            {"type": "multiple_choice", "question": "What type of evidence can support your reasons?", "options": ["Only your own feelings", "Facts, examples, and expert opinions", "Only things you made up", "Just one sentence"], "correct": 1, "hint": "Strong evidence can come from many sources."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-4-3",
+          "title": "Addressing the Other Side",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strong persuasive writing does not ignore the other side of the argument. Instead, it acknowledges what the other side thinks and then explains why your opinion is still better. This is called a counterargument and rebuttal. A counterargument is what someone who disagrees with you might say. A rebuttal is your response that shows why the counterargument is weak. For example, if you argue for longer recess, a counterargument might be 'Less class time means less learning.' Your rebuttal could be 'Studies show that students who have breaks actually learn better because their brains are refreshed.' Addressing the other side makes your argument stronger.",
+            "examples": [
+              {"problem": "You argue: 'Students should wear uniforms.' What might the other side say?", "answer": "Counterargument: 'Uniforms take away students' ability to express themselves through clothing.'", "explanation": "This is a common argument against school uniforms."},
+              {"problem": "How would you respond to (rebut) that counterargument?", "answer": "'While clothing is one way to express yourself, students can show their personalities through their words, actions, hobbies, and accessories instead.'", "explanation": "The rebuttal acknowledges the concern but shows there are other ways to express individuality."}
+            ],
+            "key_vocabulary": ["counterargument", "rebuttal", "opposing view", "acknowledge", "respond", "strengthen"],
+            "real_world": "In debates at school or on TV, each side tries to poke holes in the other side's argument. Anticipating and responding to the other side makes you more convincing."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a counterargument?", "options": ["Your opinion", "What someone who disagrees might say", "A fact about the topic", "Your conclusion"], "correct": 1, "hint": "'Counter' means 'against.' It is the argument against yours."},
+            {"type": "fill_in", "question": "A ___ is your response to a counterargument that shows why your opinion is stronger.", "answer": "rebuttal", "hint": "This word means to argue back."},
+            {"type": "true_false", "question": "You should ignore the other side of the argument in persuasive writing.", "answer": false, "hint": "Does addressing the other side make your argument weaker or stronger?"},
+            {"type": "multiple_choice", "question": "Why does addressing the other side make your argument stronger?", "options": ["It proves you are always right", "It shows you have considered different viewpoints and can respond to them", "It makes your essay longer", "It confuses the reader"], "correct": 1, "hint": "Thoughtful writers consider all sides."},
+            {"type": "multiple_choice", "question": "You argue: 'Schools should serve healthier lunches.' Which is a counterargument?", "options": ["Healthy food is good.", "Students might not eat healthy food and would waste it.", "Exercise is important.", "Schools have cafeterias."], "correct": 1, "hint": "Which point argues against your position?"},
+            {"type": "true_false", "question": "A rebuttal agrees with the counterargument completely.", "answer": false, "hint": "Does a rebuttal agree or argue back?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-4-4",
+          "title": "Persuasive Language and Techniques",
+          "type": "lesson",
+          "content": {
+            "explanation": "Persuasive writers use special language techniques to make their arguments more convincing. Strong word choice uses powerful, emotional words instead of weak ones. Instead of 'good,' try 'excellent' or 'outstanding.' Rhetorical questions make the reader think: 'Don't all students deserve a safe place to learn?' Repetition emphasizes key points: 'We need action now. We need change now. We need leaders now.' Using facts and statistics makes your argument feel trustworthy: 'According to research, students who exercise daily score 20% higher on tests.' Finally, a strong call to action at the end tells the reader exactly what to do.",
+            "examples": [
+              {"problem": "Which is more persuasive? A) 'Recycling is good.' B) 'Recycling is essential for protecting our planet and ensuring a healthy future for generations to come.'", "answer": "B is more persuasive.", "explanation": "B uses stronger word choice ('essential,' 'protecting,' 'ensuring') and emotional language."},
+              {"problem": "Write a rhetorical question about saving the environment.", "answer": "'Don't we owe it to future generations to take care of the planet we all share?'", "explanation": "A rhetorical question makes the reader think and usually has an obvious answer."}
+            ],
+            "key_vocabulary": ["rhetorical question", "repetition", "strong word choice", "call to action", "statistics", "emotional appeal"],
+            "real_world": "Commercials use persuasive techniques all the time. They use emotional music, strong words, and rhetorical questions to make you want to buy their product."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a rhetorical question?", "options": ["A question that needs an answer", "A question that makes the reader think but does not need an answer", "A quiz question", "A question about grammar"], "correct": 1, "hint": "Rhetorical questions are asked to make a point, not to get an answer."},
+            {"type": "multiple_choice", "question": "Which uses stronger word choice?", "options": ["The park is nice.", "The park is a magnificent oasis of nature.", "The park is okay.", "The park is a park."], "correct": 1, "hint": "Which sentence uses powerful, descriptive words?"},
+            {"type": "fill_in", "question": "A ___ to action tells the reader exactly what to do.", "answer": "call", "hint": "It 'calls' the reader to take action."},
+            {"type": "true_false", "question": "Using facts and statistics can make your argument more convincing.", "answer": true, "hint": "Do numbers and research help prove a point?"},
+            {"type": "multiple_choice", "question": "Which technique is being used? 'We need change. We need hope. We need action.'", "options": ["Rhetorical question", "Repetition", "Statistics", "Humor"], "correct": 1, "hint": "The same sentence structure is repeated for emphasis."},
+            {"type": "multiple_choice", "question": "What should a persuasive piece end with?", "options": ["A new topic", "An apology", "A strong conclusion with a call to action", "A list of vocabulary words"], "correct": 2, "hint": "The ending should motivate the reader."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the goal of persuasive writing?", "options": ["To inform only", "To convince the reader", "To tell a story", "To describe a place"], "correct": 1},
+          {"type": "true_false", "question": "A strong persuasive opinion should be debatable.", "answer": true},
+          {"type": "multiple_choice", "question": "What is a counterargument?", "options": ["Your main opinion", "What someone who disagrees might say", "A synonym", "A conclusion"], "correct": 1},
+          {"type": "fill_in", "question": "A ___ is your response to the other side's argument.", "answer": "rebuttal", "hint": "You argue back against the counterargument."},
+          {"type": "multiple_choice", "question": "Which technique makes the reader think without needing an answer?", "options": ["Statistics", "Repetition", "Rhetorical question", "Call to action"], "correct": 2},
+          {"type": "true_false", "question": "Using strong word choice makes your writing more persuasive.", "answer": true},
+          {"type": "multiple_choice", "question": "How many reasons should you have to support your opinion?", "options": ["None", "One", "At least three", "Exactly ten"], "correct": 2},
+          {"type": "multiple_choice", "question": "What is a call to action?", "options": ["The opening sentence", "A sentence telling the reader what to do", "A type of grammar", "A fiction technique"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "persuasion_pro_4"
+      }
+    },
+    {
+      "id": "4-ela-5",
+      "title": "Research Skills",
+      "description": "Learn the basics of doing research, including finding reliable sources, taking notes, and presenting information in your own words.",
+      "lessons": [
+        {
+          "id": "4-ela-5-1",
+          "title": "Choosing a Research Topic",
+          "type": "lesson",
+          "content": {
+            "explanation": "Choosing a good research topic is the first step in any research project. A good topic is interesting to you, specific enough to research, and broad enough to find information about. If your topic is too broad (like 'animals'), you will have too much information to cover. If it is too narrow (like 'the sleeping habits of the blue-ringed octopus on Tuesdays'), you may not find enough information. A good research topic might be 'How do octopuses use camouflage to survive?' Turn your topic into a research question to guide your reading.",
+            "examples": [
+              {"problem": "Is 'science' a good research topic?", "answer": "No, it is too broad.", "explanation": "'Science' covers millions of topics. You need to narrow it down to something specific like 'How do volcanoes form?'"},
+              {"problem": "Turn this topic into a research question: 'dolphins'", "answer": "'How do dolphins communicate with each other?'", "explanation": "A research question gives you a specific focus for your reading."}
+            ],
+            "key_vocabulary": ["research", "topic", "research question", "broad", "narrow", "focus"],
+            "real_world": "When you wonder about something and look it up, you are doing research! Scientists, doctors, and even chefs research topics to learn more."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What makes a good research topic?", "options": ["It is as broad as possible", "It is interesting, specific, and has enough information available", "It is something nobody knows about", "It is a topic with only one fact"], "correct": 1, "hint": "Good topics are not too broad or too narrow."},
+            {"type": "true_false", "question": "'History' is a good, focused research topic.", "answer": false, "hint": "Is 'history' too broad or just right?"},
+            {"type": "fill_in", "question": "A research ___ is a specific question that guides your research.", "answer": "question", "hint": "It starts with who, what, where, when, why, or how."},
+            {"type": "multiple_choice", "question": "Which is the BEST research topic?", "options": ["Everything about animals", "How do penguins survive in cold weather?", "The universe", "Things"], "correct": 1, "hint": "Which topic is specific and interesting?"},
+            {"type": "multiple_choice", "question": "What should you do if your topic is too broad?", "options": ["Keep it the way it is", "Narrow it down to a more specific focus", "Pick a completely different subject", "Write less about it"], "correct": 1, "hint": "Zoom in on one part of the bigger topic."},
+            {"type": "true_false", "question": "Turning your topic into a question helps guide your research.", "answer": true, "hint": "Does having a question help you know what to look for?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-5-2",
+          "title": "Finding Reliable Sources",
+          "type": "lesson",
+          "content": {
+            "explanation": "A source is where you get your information. Not all sources are equally reliable. Reliable sources provide accurate, trustworthy information. Books from the library, encyclopedias, educational websites, and articles by experts are usually reliable. You should be careful with random websites because anyone can post information online, even if it is wrong. To check if a source is reliable, ask: Who wrote it? Are they an expert? When was it written? Is the information supported by other sources? Using multiple sources helps you make sure your information is correct.",
+            "examples": [
+              {"problem": "Which is more reliable for a report about space: a NASA website or a random blog post?", "answer": "The NASA website.", "explanation": "NASA is a trusted organization run by scientists and experts in space."},
+              {"problem": "Why should you use more than one source?", "answer": "To make sure the information is accurate by checking if multiple sources agree.", "explanation": "If three different reliable sources say the same thing, the information is probably correct."}
+            ],
+            "key_vocabulary": ["source", "reliable", "accurate", "trustworthy", "expert", "verify"],
+            "real_world": "When you hear a rumor at school, you check with multiple friends to see if it is true. That is the same as using multiple sources!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a reliable source?", "options": ["Any website on the internet", "A source that provides accurate, trustworthy information", "A source that tells you what you want to hear", "A source that is very long"], "correct": 1, "hint": "Reliable means you can trust it."},
+            {"type": "multiple_choice", "question": "Which is MOST likely a reliable source for a report on animals?", "options": ["A random person's social media post", "A library book by a zoologist", "A friend's opinion", "A joke website"], "correct": 1, "hint": "A zoologist is an animal expert, and library books are reviewed for accuracy."},
+            {"type": "true_false", "question": "Everything you read on the internet is true.", "answer": false, "hint": "Can anyone post anything online?"},
+            {"type": "fill_in", "question": "Using ___ sources helps you verify that your information is correct.", "answer": "multiple", "hint": "How many sources should you check?"},
+            {"type": "multiple_choice", "question": "Which question should you ask to check if a source is reliable?", "options": ["Is it colorful?", "Is it long?", "Who wrote it and are they an expert?", "Does it have pictures?"], "correct": 2, "hint": "Expert authors provide more trustworthy information."},
+            {"type": "multiple_choice", "question": "Which is an example of a reliable source?", "options": ["An encyclopedia", "A graffiti message on a wall", "A text from a friend", "A made-up website"], "correct": 0, "hint": "Encyclopedias are reviewed by experts for accuracy."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-5-3",
+          "title": "Taking Notes and Avoiding Plagiarism",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you find information in your sources, you need to take notes. Good note-taking means writing down the key facts in your own words, not copying sentences word-for-word. Copying someone else's exact words and pretending they are your own is called plagiarism, and it is like cheating. To avoid plagiarism, read the information, close the source, and write what you remember in your own words. This is called paraphrasing. If you want to use the author's exact words, put them in quotation marks and say where they came from. Always keep track of which source each fact came from.",
+            "examples": [
+              {"problem": "Source says: 'Honeybees perform a special dance called the waggle dance to tell other bees where to find flowers.' Paraphrase this.", "answer": "Honeybees communicate the location of flowers by doing a movement known as the waggle dance.", "explanation": "The information is the same but written in different words. This is paraphrasing."},
+              {"problem": "What is plagiarism?", "answer": "Copying someone else's words or ideas and pretending they are your own.", "explanation": "Plagiarism is dishonest and is considered a serious offense in writing."}
+            ],
+            "key_vocabulary": ["notes", "plagiarism", "paraphrase", "quotation", "cite", "source"],
+            "real_world": "Even professional writers must give credit when they use information from other people. That is why books have bibliographies!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is plagiarism?", "options": ["Writing in your own words", "Copying someone else's words and pretending they are yours", "Taking good notes", "Using quotation marks"], "correct": 1, "hint": "Plagiarism is a form of cheating in writing."},
+            {"type": "fill_in", "question": "Writing information in your own words is called ___.", "answer": "paraphrasing", "hint": "This skill helps you avoid plagiarism."},
+            {"type": "true_false", "question": "It is okay to copy sentences directly from a book into your report without quotation marks.", "answer": false, "hint": "What is it called when you copy without giving credit?"},
+            {"type": "multiple_choice", "question": "How can you use an author's exact words correctly?", "options": ["Just copy them", "Put them in quotation marks and say where they came from", "Change one word and call it your own", "Never use exact words"], "correct": 1, "hint": "Quotation marks and citing the source make it honest."},
+            {"type": "multiple_choice", "question": "What is the best way to take notes?", "options": ["Copy every word from the source", "Read, close the source, and write key facts in your own words", "Only write the title of the source", "Take no notes and remember everything"], "correct": 1, "hint": "Good notes use your own words to capture key information."},
+            {"type": "true_false", "question": "You should keep track of which source each fact comes from.", "answer": true, "hint": "Do you need to know where you found your information?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-5-4",
+          "title": "Organizing and Presenting Your Research",
+          "type": "lesson",
+          "content": {
+            "explanation": "After gathering information, you need to organize it before writing your report. Group related facts together under main topics. Create an outline with your introduction, main points, and conclusion. Each main point becomes a body paragraph. Start your report with an introduction that tells the reader what your research is about. Each body paragraph should cover one main point with facts from your notes. End with a conclusion that summarizes what you learned. Include a bibliography or works cited list at the end that tells the reader where you got your information. This gives credit to your sources.",
+            "examples": [
+              {"problem": "You researched dolphins. Your notes cover: how they communicate, what they eat, and where they live. How would you organize this?", "answer": "Introduction: Dolphins are fascinating ocean animals. Body 1: Where dolphins live. Body 2: What dolphins eat. Body 3: How dolphins communicate. Conclusion: Summary of what makes dolphins special.", "explanation": "Each group of related facts becomes its own body paragraph."},
+              {"problem": "What goes in a bibliography?", "answer": "A list of all the sources you used, including the title, author, and where you found them.", "explanation": "The bibliography gives credit to your sources."}
+            ],
+            "key_vocabulary": ["organize", "outline", "report", "bibliography", "works cited", "present"],
+            "real_world": "Scientists write research papers to share their discoveries with the world. Your research report lets you share what you learned with your class!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should you do after gathering research notes?", "options": ["Start writing immediately", "Organize related facts together", "Throw away your notes", "Copy from the internet"], "correct": 1, "hint": "Organizing helps you plan before writing."},
+            {"type": "fill_in", "question": "An ___ is a plan that shows the order of your main points.", "answer": "outline", "hint": "This tool helps you organize your writing before you draft it."},
+            {"type": "true_false", "question": "A bibliography lists the sources you used in your research.", "answer": true, "hint": "Where do you give credit to your sources?"},
+            {"type": "multiple_choice", "question": "What should each body paragraph of a research report cover?", "options": ["Every fact you found", "One main point with supporting facts", "Only your opinions", "Your bibliography"], "correct": 1, "hint": "Keep each paragraph focused on one topic."},
+            {"type": "multiple_choice", "question": "What goes at the end of a research report?", "options": ["A new topic", "A conclusion and bibliography", "Another introduction", "Nothing"], "correct": 1, "hint": "The ending wraps up your report and credits your sources."},
+            {"type": "multiple_choice", "question": "Why is a bibliography important?", "options": ["It makes your report longer", "It gives credit to your sources and shows your research is reliable", "It is a type of introduction", "It is not important"], "correct": 1, "hint": "Giving credit to sources is honest and professional."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What makes a good research topic?", "options": ["It is extremely broad", "It is interesting, specific, and has enough information", "It has no sources available", "It is a topic everyone agrees on"], "correct": 1},
+          {"type": "true_false", "question": "Everything on the internet is reliable.", "answer": false},
+          {"type": "multiple_choice", "question": "What is plagiarism?", "options": ["Writing in your own words", "Copying words without giving credit", "Using quotation marks", "Reading a book"], "correct": 1},
+          {"type": "fill_in", "question": "Rewriting information in your own words is called ___.", "answer": "paraphrasing", "hint": "This skill helps avoid plagiarism."},
+          {"type": "multiple_choice", "question": "What is a bibliography?", "options": ["The first paragraph", "A list of sources used", "A type of essay", "A research question"], "correct": 1},
+          {"type": "true_false", "question": "You should use multiple sources to verify information.", "answer": true},
+          {"type": "multiple_choice", "question": "What should each body paragraph of a research report focus on?", "options": ["Everything at once", "One main point", "Your personal feelings", "The bibliography"], "correct": 1},
+          {"type": "multiple_choice", "question": "How can you check if a source is reliable?", "options": ["See if it is colorful", "Check who wrote it and if they are an expert", "Count how many words it has", "See if it agrees with your opinion"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "research_ranger_4"
+      }
+    },
+    {
+      "id": "4-ela-6",
+      "title": "Figurative Language",
+      "description": "Explore the creative world of figurative language including similes, metaphors, idioms, hyperbole, and personification to make your writing vivid and exciting.",
+      "lessons": [
+        {
+          "id": "4-ela-6-1",
+          "title": "Similes and Metaphors",
+          "type": "lesson",
+          "content": {
+            "explanation": "Similes and metaphors are both comparisons, but they work differently. A simile compares two different things using the words 'like' or 'as.' For example, 'Her eyes sparkled like diamonds' compares eyes to diamonds using 'like.' A metaphor compares two things by saying one thing IS another thing, without using 'like' or 'as.' For example, 'Her eyes were diamonds' directly says the eyes are diamonds. Both similes and metaphors help readers picture what you are describing by connecting something unfamiliar to something familiar. They make writing more vivid, creative, and interesting.",
+            "examples": [
+              {"problem": "Is this a simile or metaphor? 'The classroom was a zoo.'", "answer": "Metaphor.", "explanation": "It says the classroom IS a zoo, comparing them directly without 'like' or 'as.'"},
+              {"problem": "Is this a simile or metaphor? 'He ran as fast as a cheetah.'", "answer": "Simile.", "explanation": "It uses the word 'as' to compare his running to a cheetah's speed."},
+              {"problem": "Create a simile about the moon.", "answer": "'The moon glowed like a giant lantern in the sky.'", "explanation": "This uses 'like' to compare the moon to a lantern."}
+            ],
+            "key_vocabulary": ["simile", "metaphor", "comparison", "like", "as", "figurative language"],
+            "real_world": "Athletes use metaphors all the time: 'That player is a machine!' Sports commentators use similes: 'She moves like lightning!'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a simile?", "options": ["A comparison using 'is'", "A comparison using 'like' or 'as'", "A type of poem", "A really long sentence"], "correct": 1, "hint": "Similes always use 'like' or 'as.'"},
+            {"type": "multiple_choice", "question": "Which is a metaphor?", "options": ["She is as quiet as a mouse.", "She is a shining star.", "She runs like the wind.", "She sings as sweetly as a bird."], "correct": 1, "hint": "A metaphor says something IS something else."},
+            {"type": "fill_in", "question": "A simile compares two things using the words 'like' or '___.'", "answer": "as", "hint": "There are two signal words for similes."},
+            {"type": "true_false", "question": "'Life is a roller coaster' is a simile.", "answer": false, "hint": "Does it use 'like' or 'as'?"},
+            {"type": "multiple_choice", "question": "Which is a simile?", "options": ["Time is money.", "The pillow was a cloud.", "Her smile was as bright as sunshine.", "He is a rock."], "correct": 2, "hint": "Look for 'like' or 'as.'"},
+            {"type": "multiple_choice", "question": "What do similes and metaphors help the reader do?", "options": ["Spell better", "Picture what is being described", "Count words", "Find the main idea"], "correct": 1, "hint": "They create vivid images."},
+            {"type": "true_false", "question": "Metaphors say one thing IS another thing.", "answer": true, "hint": "Metaphors make direct comparisons without 'like' or 'as.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-6-2",
+          "title": "Idioms",
+          "type": "lesson",
+          "content": {
+            "explanation": "An idiom is a phrase or expression that means something different from the literal meaning of the words. If someone says 'it is raining cats and dogs,' they do not mean animals are falling from the sky. They mean it is raining very hard. Idioms are common in everyday speech, but they can be confusing if you take them literally. Learning idioms helps you understand what people really mean when they speak and write. Every language has its own idioms. English has hundreds of them! Understanding idioms is an important part of becoming a stronger reader and communicator.",
+            "examples": [
+              {"problem": "What does 'break a leg' mean?", "answer": "Good luck!", "explanation": "This idiom is commonly used to wish someone good luck, especially before a performance."},
+              {"problem": "What does 'piece of cake' mean?", "answer": "Something that is very easy.", "explanation": "If you say 'That test was a piece of cake,' you mean the test was easy."},
+              {"problem": "What does 'hit the books' mean?", "answer": "To study.", "explanation": "You are not actually hitting books. The idiom means you are starting to study."}
+            ],
+            "key_vocabulary": ["idiom", "literal", "figurative", "expression", "meaning", "phrase"],
+            "real_world": "You probably use idioms without realizing it! 'I am under the weather' (sick), 'That rings a bell' (sounds familiar), 'Bite the bullet' (do something difficult)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an idiom?", "options": ["A word that sounds like its meaning", "A phrase that means something different from its literal words", "A type of sentence", "A grammar rule"], "correct": 1, "hint": "Idioms have hidden meanings."},
+            {"type": "multiple_choice", "question": "What does 'let the cat out of the bag' mean?", "options": ["Release a cat from a bag", "Tell a secret", "Go to a pet store", "Pack your bags"], "correct": 1, "hint": "Think about revealing something hidden."},
+            {"type": "fill_in", "question": "If something is very easy, you might say it is a 'piece of ___.'", "answer": "cake", "hint": "Think of a sweet dessert."},
+            {"type": "true_false", "question": "Idioms should be understood literally (exactly as the words say).", "answer": false, "hint": "Do idioms mean exactly what the words say?"},
+            {"type": "multiple_choice", "question": "What does 'feeling under the weather' mean?", "options": ["Standing in the rain", "Feeling sick", "Checking the forecast", "Being cold"], "correct": 1, "hint": "This idiom describes how you feel physically."},
+            {"type": "multiple_choice", "question": "What does 'cost an arm and a leg' mean?", "options": ["You lost a body part", "It was free", "It was very expensive", "It was on sale"], "correct": 2, "hint": "Arms and legs are valuable, so this idiom is about something being very costly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-6-3",
+          "title": "Hyperbole",
+          "type": "lesson",
+          "content": {
+            "explanation": "Hyperbole is an extreme exaggeration used to make a point or add humor. When you say 'I have told you a million times,' you have not really said it a million times. You are exaggerating to emphasize that you have said it many times. Hyperbole is not meant to be taken literally. It is used to create strong feelings, add humor, or emphasize how important something is. Writers use hyperbole to make their descriptions more dramatic and entertaining. You probably use hyperbole in your everyday speech more than you realize!",
+            "examples": [
+              {"problem": "Is this hyperbole? 'I am so hungry I could eat a horse.'", "answer": "Yes, it is hyperbole.", "explanation": "Nobody can actually eat a horse. This is an exaggeration to show extreme hunger."},
+              {"problem": "Is this hyperbole? 'She ran three miles.'", "answer": "No, this is a literal statement.", "explanation": "Running three miles is realistic and not an exaggeration."},
+              {"problem": "Create a hyperbole about being tired.", "answer": "'I am so tired I could sleep for a hundred years.'", "explanation": "Sleeping for a hundred years is an extreme exaggeration to show how tired you are."}
+            ],
+            "key_vocabulary": ["hyperbole", "exaggeration", "emphasis", "literal", "extreme", "dramatic"],
+            "real_world": "Kids use hyperbole all the time: 'This backpack weighs a ton!' 'I have been waiting forever!' 'Everyone in the whole world has that game except me!'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is hyperbole?", "options": ["An understatement", "An extreme exaggeration", "A comparison using 'like'", "A type of poem"], "correct": 1, "hint": "Hyperbole means going way over the top."},
+            {"type": "true_false", "question": "Hyperbole is meant to be taken literally.", "answer": false, "hint": "If someone says 'I could eat a horse,' do they mean it literally?"},
+            {"type": "multiple_choice", "question": "Which is an example of hyperbole?", "options": ["The cat sat on the mat.", "I had to wait ten minutes.", "My backpack weighs a thousand pounds.", "She is five feet tall."], "correct": 2, "hint": "Which sentence uses extreme exaggeration?"},
+            {"type": "fill_in", "question": "Hyperbole is an extreme ___ used to make a point.", "answer": "exaggeration", "hint": "Making something sound much bigger or more extreme than it really is."},
+            {"type": "multiple_choice", "question": "Why do writers use hyperbole?", "options": ["To be dishonest", "To confuse readers", "To emphasize a point or add humor", "To write shorter sentences"], "correct": 2, "hint": "Hyperbole adds emphasis and fun."},
+            {"type": "multiple_choice", "question": "Which is NOT hyperbole?", "options": ["I died of embarrassment.", "It took forever to get there.", "I have a dog named Max.", "I have a million things to do."], "correct": 2, "hint": "Which sentence is a normal, literal statement?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-ela-6-4",
+          "title": "Personification and Onomatopoeia",
+          "type": "lesson",
+          "content": {
+            "explanation": "Personification gives human qualities to non-human things. When you write 'the wind howled' or 'the flowers danced,' you are giving human abilities (howling and dancing) to things that are not human. Personification makes descriptions come alive and helps readers connect with nature and objects. Onomatopoeia is when a word imitates a sound. Words like 'buzz,' 'crash,' 'sizzle,' 'whisper,' 'boom,' and 'splash' all sound like the noises they describe. Onomatopoeia adds sound effects to your writing and makes it more vivid and exciting for the reader.",
+            "examples": [
+              {"problem": "Find the personification: 'The alarm clock screamed at me to wake up.'", "answer": "'Screamed' is personification.", "explanation": "Alarm clocks cannot scream like humans. The author gives it a human action."},
+              {"problem": "Which words are onomatopoeia in: 'The bacon sizzled in the pan and the toast went pop'?", "answer": "'Sizzled' and 'pop.'", "explanation": "Both words sound like the noises they describe."},
+              {"problem": "Write a sentence using personification about the sun.", "answer": "'The sun smiled down on the children playing in the park.'", "explanation": "The sun cannot actually smile, but giving it this human quality makes the scene feel warm and happy."}
+            ],
+            "key_vocabulary": ["personification", "onomatopoeia", "human qualities", "sound words", "vivid", "imagery"],
+            "real_world": "Comic books are full of onomatopoeia: BAM! POW! CRASH! WHOOSH! These words bring the action to life."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is personification?", "options": ["A comparison using 'like'", "An extreme exaggeration", "Giving human qualities to non-human things", "A word that sounds like its meaning"], "correct": 2, "hint": "Think about making objects seem like people."},
+            {"type": "multiple_choice", "question": "Which is onomatopoeia?", "options": ["Beautiful", "Crash", "Happy", "Important"], "correct": 1, "hint": "Which word sounds like a noise?"},
+            {"type": "fill_in", "question": "Giving human qualities to animals or objects is called ___.", "answer": "personification", "hint": "The word contains 'person.'"},
+            {"type": "true_false", "question": "'The thunder roared across the sky' uses personification.", "answer": true, "hint": "Can thunder actually 'roar' like an animal or person?"},
+            {"type": "multiple_choice", "question": "Which sentence uses onomatopoeia?", "options": ["The girl walked home.", "The door creaked open slowly.", "The flowers are pretty.", "She was happy."], "correct": 1, "hint": "Which word imitates a sound?"},
+            {"type": "multiple_choice", "question": "Which sentence uses personification?", "options": ["The boy climbed the tree.", "The tree reached its arms toward the sky.", "The tree was tall.", "I sat under the tree."], "correct": 1, "hint": "Trees do not have arms. Which sentence gives the tree a human feature?"},
+            {"type": "true_false", "question": "'Buzz,' 'hiss,' and 'pop' are examples of onomatopoeia.", "answer": true, "hint": "Do these words sound like the noises they describe?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which uses 'like' or 'as' to compare?", "options": ["Metaphor", "Simile", "Idiom", "Hyperbole"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is a metaphor?", "options": ["A comparison using 'like'", "A saying one thing IS another without 'like' or 'as'", "An extreme exaggeration", "A sound word"], "correct": 1},
+          {"type": "true_false", "question": "'It is raining cats and dogs' is an idiom.", "answer": true},
+          {"type": "multiple_choice", "question": "Which is hyperbole?", "options": ["I ran two laps.", "I am so hungry I could eat everything in the fridge.", "The cat is sleeping.", "She walked to school."], "correct": 1},
+          {"type": "multiple_choice", "question": "What is personification?", "options": ["Using 'like' to compare", "An extreme exaggeration", "Giving human traits to non-human things", "A word that sounds like a noise"], "correct": 2},
+          {"type": "fill_in", "question": "Words like 'bang,' 'splash,' and 'hiss' are examples of ___.", "answer": "onomatopoeia", "hint": "These words sound like the noises they describe."},
+          {"type": "multiple_choice", "question": "Which is a simile?", "options": ["Time is money.", "She is a shining star.", "He swims like a fish.", "The wind whispered."], "correct": 2},
+          {"type": "true_false", "question": "An idiom's meaning is different from its literal words.", "answer": true},
+          {"type": "multiple_choice", "question": "Which sentence uses personification?", "options": ["The boy laughed.", "The car coughed and sputtered to life.", "It was raining.", "She ate lunch."], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "figurative_language_star_4"
+      }
+    }
+  ]
+}

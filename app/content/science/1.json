@@ -1,0 +1,664 @@
+{
+  "grade": 1,
+  "subject": "science",
+  "units": [
+    {
+      "id": "1-science-1",
+      "title": "Living and Nonliving Things",
+      "description": "Learn the difference between living things (plants and animals) and nonliving things (rocks, water, toys).",
+      "lessons": [
+        {
+          "id": "1-science-1-1",
+          "title": "What Are Living Things?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Living things are alive! They grow, need food and water, breathe, and can make more of themselves (have babies). People, animals, and plants are all living things. A dog is a living thing because it eats, grows, breathes, and can have puppies. A flower is a living thing because it grows, needs water and sunlight, and makes seeds.",
+            "examples": [
+              {"problem": "Is a cat a living thing?", "answer": "Yes", "explanation": "A cat is living because it eats, drinks, breathes, grows, and can have kittens."},
+              {"problem": "Is a tree a living thing?", "answer": "Yes", "explanation": "A tree grows, needs water and sunlight, breathes air, and makes seeds."}
+            ],
+            "key_vocabulary": ["living", "alive", "grow", "breathe", "reproduce", "organism"],
+            "real_world": "You are a living thing! You eat food, drink water, breathe air, and you are growing bigger every day."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a living thing?", "options": ["A rock", "A chair", "A bird", "A pencil"], "correct": 2, "hint": "Which one eats, breathes, and grows?"},
+            {"type": "true_false", "question": "Living things need food and water.", "answer": "true", "hint": "Think about what you need every day."},
+            {"type": "multiple_choice", "question": "What do all living things do?", "options": ["Talk", "Grow", "Drive", "Read"], "correct": 1, "hint": "From babies to adults, living things change size."},
+            {"type": "true_false", "question": "A flower is a living thing.", "answer": "true", "hint": "Does a flower grow, need water, and make seeds?"},
+            {"type": "multiple_choice", "question": "Which of these is NOT something living things do?", "options": ["Grow", "Breathe", "Need water", "Stay the same forever"], "correct": 3, "hint": "Living things change over time."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-1-2",
+          "title": "What Are Nonliving Things?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Nonliving things are not alive. They do not grow, eat, breathe, or have babies. A rock is nonliving. A toy car is nonliving. Water is nonliving. A book is nonliving. Nonliving things can still be important! We need water to drink, and we use chairs to sit on. But they are not alive like plants and animals.",
+            "examples": [
+              {"problem": "Is a rock a living or nonliving thing?", "answer": "Nonliving", "explanation": "A rock does not eat, grow, breathe, or have babies, so it is nonliving."},
+              {"problem": "Is water a living thing?", "answer": "No, water is nonliving.", "explanation": "Water does not grow, eat, or breathe. But living things need water!"}
+            ],
+            "key_vocabulary": ["nonliving", "object", "material", "not alive"],
+            "real_world": "Your toys, your desk, and the sidewalk are all nonliving things. They do not need food or water because they are not alive."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is nonliving?", "options": ["A dog", "A fish", "A rock", "A tree"], "correct": 2, "hint": "Which one does not eat, breathe, or grow?"},
+            {"type": "true_false", "question": "A toy car is a living thing.", "answer": "false", "hint": "Does a toy car eat, breathe, or grow?"},
+            {"type": "multiple_choice", "question": "Why is a book nonliving?", "options": ["It does not eat or grow", "It is made of paper", "It has words in it", "It is heavy"], "correct": 0, "hint": "Think about what living things do."},
+            {"type": "true_false", "question": "Nonliving things can still be useful.", "answer": "true", "hint": "We need chairs, water, and tools every day!"},
+            {"type": "fill_in", "question": "Things that are not alive are called ___ things.", "answer": "nonliving", "hint": "The opposite of living."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-1-3",
+          "title": "Sorting Living and Nonliving",
+          "type": "lesson",
+          "content": {
+            "explanation": "How can we tell if something is living or nonliving? Ask these questions: Does it grow? Does it need food or water? Does it breathe? Can it have babies or make more of itself? If the answer is YES to these questions, it is a living thing. If the answer is NO, it is nonliving. Sometimes it can be tricky! A seed looks nonliving, but it is actually alive because it can grow into a plant.",
+            "examples": [
+              {"problem": "Is a sunflower living or nonliving?", "answer": "Living", "explanation": "A sunflower grows, needs water and sunlight, and makes seeds. It is alive!"},
+              {"problem": "Is a bicycle living or nonliving?", "answer": "Nonliving", "explanation": "A bicycle does not eat, grow, breathe, or have babies. It is nonliving."}
+            ],
+            "key_vocabulary": ["sort", "classify", "living", "nonliving", "characteristics"],
+            "real_world": "Scientists sort things into groups. When you decide if something is living or nonliving, you are thinking like a scientist!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A butterfly is a ___ thing.", "options": ["Nonliving", "Living", "Man-made", "Pretend"], "correct": 1, "hint": "Does a butterfly eat, grow, and breathe?"},
+            {"type": "multiple_choice", "question": "A crayon is a ___ thing.", "options": ["Living", "Nonliving", "Growing", "Breathing"], "correct": 1, "hint": "Does a crayon eat or grow?"},
+            {"type": "true_false", "question": "A seed is a living thing.", "answer": "true", "hint": "A seed can grow into a plant!"},
+            {"type": "multiple_choice", "question": "Which question helps you decide if something is living?", "options": ["What color is it?", "Does it grow?", "How big is it?", "Where is it?"], "correct": 1, "hint": "Living things change size over time."},
+            {"type": "fill_in", "question": "Living things grow, breathe, eat, and can have ___.", "answer": "babies", "hint": "Living things can make more of themselves."},
+            {"type": "multiple_choice", "question": "Which list has ONLY living things?", "options": ["Dog, rock, tree", "Cat, fish, flower", "Car, book, ball", "Bird, chair, bug"], "correct": 1, "hint": "Find the list where everything eats, breathes, and grows."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-1-4",
+          "title": "Once Living Things",
+          "type": "lesson",
+          "content": {
+            "explanation": "Some things were once living but are not alive anymore. A fallen leaf was once part of a living tree, but now it is dead. A piece of wood was once part of a living tree. A seashell was once the home of a living sea creature. Fossils are remains of animals and plants that lived a very long time ago. Once-living things are not the same as nonliving things like rocks, because they used to be alive.",
+            "examples": [
+              {"problem": "Is a fallen leaf living or nonliving?", "answer": "It is once-living. It used to be part of a living tree.", "explanation": "A leaf that fell off a tree was once part of something alive."},
+              {"problem": "Is a wooden table living?", "answer": "No, but the wood came from a tree that was living.", "explanation": "Wood is a once-living material because it came from a living tree."}
+            ],
+            "key_vocabulary": ["once living", "dead", "fossil", "remains", "decay"],
+            "real_world": "Firewood comes from trees that were once living. When we collect fallen leaves in autumn, those leaves were once part of living trees!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A dried leaf on the ground is ___.", "options": ["Living", "Nonliving", "Once living", "Man-made"], "correct": 2, "hint": "It was part of a living tree, but now it has fallen off."},
+            {"type": "true_false", "question": "A seashell was once part of a living creature.", "answer": "true", "hint": "Sea creatures like snails live inside shells."},
+            {"type": "multiple_choice", "question": "Which of these is once living?", "options": ["A rock", "A piece of wood", "A glass of water", "A metal spoon"], "correct": 1, "hint": "Which one came from something that was alive?"},
+            {"type": "fill_in", "question": "Remains of animals from long ago are called ___.", "answer": "fossils", "hint": "Scientists dig these up to learn about ancient animals."},
+            {"type": "true_false", "question": "A plastic toy is once living.", "answer": "false", "hint": "Plastic is made in factories, not from living things directly."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which of these is a living thing?", "options": ["A rock", "A ball", "A fish", "A shoe"], "correct": 2, "hint": "Which one eats, breathes, and grows?"},
+          {"type": "true_false", "question": "Nonliving things need food and water.", "answer": "false", "hint": "Only living things need food and water."},
+          {"type": "multiple_choice", "question": "What do all living things do?", "options": ["Read books", "Grow and breathe", "Drive cars", "Play games"], "correct": 1, "hint": "Think about what plants and animals do."},
+          {"type": "fill_in", "question": "A fallen leaf is a ___ living thing.", "answer": "once", "hint": "It was alive before but is not anymore."},
+          {"type": "multiple_choice", "question": "Which is NOT a living thing?", "options": ["A puppy", "A flower", "A crayon", "A goldfish"], "correct": 2, "hint": "Which one does not eat, breathe, or grow?"},
+          {"type": "true_false", "question": "A seed is a living thing because it can grow into a plant.", "answer": "true", "hint": "Seeds have the potential to become plants."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "life_detective"
+      }
+    },
+    {
+      "id": "1-science-2",
+      "title": "Animal Needs and Habitats",
+      "description": "Discover what animals need to survive and how they find what they need in their habitats.",
+      "lessons": [
+        {
+          "id": "1-science-2-1",
+          "title": "What Animals Need",
+          "type": "lesson",
+          "content": {
+            "explanation": "All animals need four things to live: food, water, air, and shelter. Food gives animals energy to move and grow. Water keeps their bodies working. Air lets them breathe. Shelter gives them a safe place to rest and hide from danger. Different animals get their needs in different ways, but they all need the same four things.",
+            "examples": [
+              {"problem": "What four things do all animals need?", "answer": "Food, water, air, and shelter", "explanation": "Without any of these four things, an animal cannot survive."},
+              {"problem": "Why do animals need shelter?", "answer": "Shelter keeps them safe from weather and predators.", "explanation": "A bird's nest, a bear's cave, and a rabbit's burrow are all types of shelter."}
+            ],
+            "key_vocabulary": ["food", "water", "air", "shelter", "survive", "energy"],
+            "real_world": "Your pet needs you to give it food, water, and a safe home. You help your pet survive!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What gives animals energy?", "options": ["Shelter", "Air", "Food", "Sleep"], "correct": 2, "hint": "Think about what makes you feel strong."},
+            {"type": "true_false", "question": "Animals need water to survive.", "answer": "true", "hint": "Think about your pet drinking water."},
+            {"type": "fill_in", "question": "A safe place where an animal lives is called ___.", "answer": "shelter", "hint": "A bird's nest or a bear's cave."},
+            {"type": "multiple_choice", "question": "Which is NOT something animals need?", "options": ["Food", "Water", "Television", "Air"], "correct": 2, "hint": "Which one is silly for an animal to need?"},
+            {"type": "true_false", "question": "All animals need air to breathe.", "answer": "true", "hint": "Fish breathe air from water through their gills."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-2-2",
+          "title": "Forest Habitats",
+          "type": "lesson",
+          "content": {
+            "explanation": "A forest is a habitat with many trees. Forests have lots of plants, animals, and shade. Animals that live in forests include deer, bears, squirrels, owls, and woodpeckers. These animals find food, water, shelter, and air in the forest. Squirrels eat nuts from trees and live in tree holes. Bears eat berries and fish and sleep in caves. The forest gives these animals everything they need.",
+            "examples": [
+              {"problem": "What animals live in the forest?", "answer": "Deer, bears, squirrels, owls, and woodpeckers", "explanation": "Many different animals make the forest their home."},
+              {"problem": "What does a squirrel eat in the forest?", "answer": "Nuts and acorns from trees", "explanation": "Squirrels find their food by collecting nuts from the trees around them."}
+            ],
+            "key_vocabulary": ["forest", "habitat", "deer", "bear", "squirrel", "trees"],
+            "real_world": "If you have ever walked in the woods, you were visiting a forest habitat! Look for squirrels and birds next time."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A forest has many ___.", "options": ["Oceans", "Trees", "Deserts", "Icebergs"], "correct": 1, "hint": "Forests are known for these tall plants."},
+            {"type": "true_false", "question": "Bears can live in the forest.", "answer": "true", "hint": "Bears find food and shelter in forests."},
+            {"type": "multiple_choice", "question": "What does a squirrel eat in the forest?", "options": ["Fish", "Nuts", "Grass", "Worms"], "correct": 1, "hint": "Squirrels collect these from trees."},
+            {"type": "fill_in", "question": "A ___ is a habitat with many trees.", "answer": "forest", "hint": "You walk among tall trees in this habitat."},
+            {"type": "true_false", "question": "Owls live in forests.", "answer": "true", "hint": "Owls perch in trees at night."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-2-3",
+          "title": "Ocean Habitats",
+          "type": "lesson",
+          "content": {
+            "explanation": "The ocean is a huge body of salty water. It is a habitat for many animals! Fish, whales, dolphins, sea turtles, and octopuses live in the ocean. These animals find food and shelter in the water. Fish eat smaller fish and tiny plants. Whales are the biggest animals in the ocean! Coral reefs in the ocean are like underwater cities where many sea creatures live.",
+            "examples": [
+              {"problem": "What kind of water is in the ocean?", "answer": "Salty water", "explanation": "The ocean is full of salt water. It tastes very salty!"},
+              {"problem": "Name three animals that live in the ocean.", "answer": "Fish, whales, and sea turtles", "explanation": "Many amazing animals call the ocean home."}
+            ],
+            "key_vocabulary": ["ocean", "salty", "fish", "whale", "dolphin", "coral reef"],
+            "real_world": "If you have been to the beach, you were at the edge of an ocean habitat! Fish, crabs, and seagulls all live near the ocean."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The ocean is filled with ___ water.", "options": ["Fresh", "Salty", "Sweet", "Fizzy"], "correct": 1, "hint": "Ocean water tastes different from tap water."},
+            {"type": "true_false", "question": "Whales live in the ocean.", "answer": "true", "hint": "Whales are the biggest animals in the sea!"},
+            {"type": "multiple_choice", "question": "Which animal does NOT live in the ocean?", "options": ["Fish", "Dolphin", "Rabbit", "Sea turtle"], "correct": 2, "hint": "Which one lives on land?"},
+            {"type": "fill_in", "question": "An underwater habitat with many colorful sea creatures is called a coral ___.", "answer": "reef", "hint": "These are like underwater cities."},
+            {"type": "true_false", "question": "Fish find food and shelter in the ocean.", "answer": "true", "hint": "The ocean provides everything ocean animals need."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-2-4",
+          "title": "Desert and Arctic Habitats",
+          "type": "lesson",
+          "content": {
+            "explanation": "A desert is a very dry and hot habitat. It does not rain much in the desert. Animals like camels, lizards, and scorpions live there. They do not need much water. Camels can store water in their bodies! The Arctic is a very cold habitat near the North Pole. It is covered in ice and snow. Polar bears, arctic foxes, and penguins live in cold places. They have thick fur or feathers to stay warm.",
+            "examples": [
+              {"problem": "What is the desert like?", "answer": "Hot and dry with very little rain.", "explanation": "Deserts get very little rain, so animals there need very little water."},
+              {"problem": "What is the Arctic like?", "answer": "Very cold with ice and snow.", "explanation": "The Arctic is one of the coldest places on Earth."}
+            ],
+            "key_vocabulary": ["desert", "Arctic", "hot", "cold", "dry", "camel", "polar bear"],
+            "real_world": "Polar bears have thick fur and a layer of fat to stay warm in the freezing Arctic. Camels have humps that store fat for energy in the dry desert!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a desert like?", "options": ["Cold and icy", "Hot and dry", "Wet and rainy", "Dark and deep"], "correct": 1, "hint": "Think about sand and sun."},
+            {"type": "multiple_choice", "question": "Which animal lives in the Arctic?", "options": ["Camel", "Lizard", "Polar bear", "Parrot"], "correct": 2, "hint": "This white animal lives where it is very cold."},
+            {"type": "true_false", "question": "Camels live in the desert.", "answer": "true", "hint": "Camels are famous for living in hot, sandy places."},
+            {"type": "fill_in", "question": "The ___ is a very cold habitat near the North Pole.", "answer": "Arctic", "hint": "Polar bears live here."},
+            {"type": "multiple_choice", "question": "How do polar bears stay warm?", "options": ["They wear coats", "They have thick fur", "They build fires", "They move to the desert"], "correct": 1, "hint": "Nature gave them something warm to wear."},
+            {"type": "true_false", "question": "It rains a lot in the desert.", "answer": "false", "hint": "Deserts are very dry places."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What four things do all animals need?", "options": ["Toys, games, books, TV", "Food, water, air, shelter", "Sun, moon, stars, clouds", "Candy, juice, cookies, cake"], "correct": 1, "hint": "Think about basic survival needs."},
+          {"type": "multiple_choice", "question": "Which animal lives in the ocean?", "options": ["Bear", "Squirrel", "Dolphin", "Deer"], "correct": 2, "hint": "This animal swims in the sea."},
+          {"type": "true_false", "question": "A forest has many trees.", "answer": "true", "hint": "Trees are the main feature of a forest."},
+          {"type": "fill_in", "question": "The desert is hot and ___.", "answer": "dry", "hint": "It does not rain much."},
+          {"type": "multiple_choice", "question": "Where do polar bears live?", "options": ["Forest", "Desert", "Arctic", "Ocean floor"], "correct": 2, "hint": "A very cold, icy place."},
+          {"type": "true_false", "question": "All animals live in the same habitat.", "answer": "false", "hint": "Fish live in water, birds live in trees, bears live in forests..."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "habitat_hero"
+      }
+    },
+    {
+      "id": "1-science-3",
+      "title": "Plant Life Cycles",
+      "description": "Learn how plants grow from seeds to full-grown plants and make new seeds.",
+      "lessons": [
+        {
+          "id": "1-science-3-1",
+          "title": "Seeds and Germination",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every plant starts as a tiny seed. Inside a seed is a baby plant and food for it to use when it starts growing. When a seed gets water, warmth, and is in soil, it begins to grow. This is called germination. First, a tiny root pushes down into the soil. Then a small shoot pushes up toward the light. The seed coat splits open as the new plant grows out of it.",
+            "examples": [
+              {"problem": "What is germination?", "answer": "When a seed starts to grow", "explanation": "Germination is the very beginning of a plant's life when the seed opens up."},
+              {"problem": "What does a seed need to germinate?", "answer": "Water, warmth, and soil", "explanation": "Seeds need the right conditions to start growing."}
+            ],
+            "key_vocabulary": ["seed", "germination", "root", "shoot", "seed coat", "soil"],
+            "real_world": "You can see germination happen! Put a bean seed in a wet paper towel inside a plastic bag and watch it sprout in a few days."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is inside a seed?", "options": ["A tiny baby plant", "Water", "Rocks", "Bugs"], "correct": 0, "hint": "Seeds grow into plants because something is already inside."},
+            {"type": "fill_in", "question": "When a seed starts to grow, it is called ___.", "answer": "germination", "hint": "This big word describes a seed beginning to sprout."},
+            {"type": "true_false", "question": "Seeds need water to start growing.", "answer": "true", "hint": "Think about watering a garden."},
+            {"type": "multiple_choice", "question": "What grows first from a seed?", "options": ["A flower", "A leaf", "A root", "A fruit"], "correct": 2, "hint": "This part grows down into the soil."},
+            {"type": "true_false", "question": "All seeds look exactly the same.", "answer": "false", "hint": "Compare an acorn to a sunflower seed!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-3-2",
+          "title": "Growing into a Plant",
+          "type": "lesson",
+          "content": {
+            "explanation": "After a seed germinates, the young plant keeps growing. It grows a stem that reaches up toward the sunlight. Leaves grow from the stem. The leaves are green because of something called chlorophyll. Leaves use sunlight to make food for the plant. The roots keep growing deeper to find more water. The plant gets taller and grows more leaves. It needs sunlight, water, air, and nutrients from the soil to grow big and strong.",
+            "examples": [
+              {"problem": "Why are leaves green?", "answer": "Because of chlorophyll", "explanation": "Chlorophyll is a green substance in leaves that helps the plant make food from sunlight."},
+              {"problem": "What do plants need to grow?", "answer": "Sunlight, water, air, and nutrients from soil", "explanation": "Plants need all of these things to be healthy and grow."}
+            ],
+            "key_vocabulary": ["stem", "leaves", "chlorophyll", "sunlight", "nutrients", "grow"],
+            "real_world": "If you have a houseplant, notice how it leans toward the window. Plants grow toward sunlight because they need it to make food!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What makes leaves green?", "options": ["Paint", "Chlorophyll", "Soil", "Water"], "correct": 1, "hint": "This special substance helps plants make food."},
+            {"type": "true_false", "question": "Plants need sunlight to make food.", "answer": "true", "hint": "Leaves use sunlight for energy."},
+            {"type": "multiple_choice", "question": "Which part of the plant grows UP?", "options": ["Roots", "Seeds", "Stem", "None of them"], "correct": 2, "hint": "This part reaches toward the sky."},
+            {"type": "fill_in", "question": "Roots grow deeper in the ___ to find water.", "answer": "soil", "hint": "Roots are underground in the dirt."},
+            {"type": "true_false", "question": "Leaves make food for the plant.", "answer": "true", "hint": "Leaves use sunlight to create food."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-3-3",
+          "title": "Flowers, Fruits, and Seeds",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a plant is fully grown, it may produce flowers. Flowers are beautiful and colorful, but they also have an important job: making seeds! Bees and butterflies visit flowers and help them make seeds. This is called pollination. After pollination, some plants grow fruit around the seeds. An apple is a fruit with seeds inside. When seeds fall to the ground or are carried by animals and wind, they can grow into new plants. The cycle starts again!",
+            "examples": [
+              {"problem": "What is the job of a flower?", "answer": "To make seeds", "explanation": "Flowers are not just pretty. Their most important job is to make seeds for new plants."},
+              {"problem": "What is pollination?", "answer": "When bees and butterflies help flowers make seeds.", "explanation": "Bees carry pollen from one flower to another, which helps the plant make seeds."}
+            ],
+            "key_vocabulary": ["flower", "seed", "fruit", "pollination", "bees", "pollen"],
+            "real_world": "Cut open an apple and look at the seeds inside. Each of those seeds could grow into a new apple tree!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do flowers make?", "options": ["Leaves", "Roots", "Seeds", "Stems"], "correct": 2, "hint": "These can grow into new plants."},
+            {"type": "true_false", "question": "Bees help flowers make seeds.", "answer": "true", "hint": "Bees carry pollen between flowers."},
+            {"type": "multiple_choice", "question": "Where are seeds found in an apple?", "options": ["On the outside", "On the stem", "Inside the apple", "On the leaves"], "correct": 2, "hint": "Cut open an apple and look!"},
+            {"type": "fill_in", "question": "When bees carry pollen between flowers, it is called ___.", "answer": "pollination", "hint": "This word starts with P and comes from the word pollen."},
+            {"type": "true_false", "question": "All fruits have seeds inside them.", "answer": "true", "hint": "Apples, oranges, and watermelons all have seeds."},
+            {"type": "multiple_choice", "question": "After a seed falls to the ground, what can happen?", "options": ["Nothing", "It can grow into a new plant", "It turns into a rock", "It flies away"], "correct": 1, "hint": "Seeds become new plants if they get water and sunlight."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-3-4",
+          "title": "The Plant Life Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "A plant life cycle is the journey a plant takes from seed to full-grown plant and back to seed again. It goes like this: Seed, then germination (seed sprouts), then the plant grows stems and leaves, then it grows flowers, then flowers make seeds, and those seeds start the cycle again! A life cycle goes around and around, like a circle. It never really ends because new plants grow from the seeds.",
+            "examples": [
+              {"problem": "What are the stages of a plant life cycle?", "answer": "Seed, sprout, plant with leaves, flowering plant, seeds again", "explanation": "The life cycle goes in a circle: seed to plant to flower to seed."},
+              {"problem": "Why is it called a cycle?", "answer": "Because it repeats over and over in a circle.", "explanation": "When the plant makes seeds, those seeds start the whole process again!"}
+            ],
+            "key_vocabulary": ["life cycle", "seed", "sprout", "seedling", "adult plant", "cycle"],
+            "real_world": "In a garden, flowers bloom in summer, make seeds in fall, and those seeds can grow into new flowers the next spring. The cycle continues year after year!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A plant life cycle starts with a ___.", "options": ["Flower", "Leaf", "Seed", "Root"], "correct": 2, "hint": "This is the very beginning of a plant's life."},
+            {"type": "true_false", "question": "A life cycle goes around and around like a circle.", "answer": "true", "hint": "Seeds grow into plants that make more seeds."},
+            {"type": "multiple_choice", "question": "What comes AFTER a seed sprouts?", "options": ["It makes flowers right away", "It grows stems and leaves", "It turns into a rock", "Nothing happens"], "correct": 1, "hint": "The young plant needs stems and leaves before it can flower."},
+            {"type": "fill_in", "question": "A plant ___ cycle goes from seed to plant to flower to seed again.", "answer": "life", "hint": "This word describes the journey of a living thing."},
+            {"type": "multiple_choice", "question": "What does a full-grown plant make to continue the life cycle?", "options": ["Rocks", "Clouds", "Seeds", "Water"], "correct": 2, "hint": "These start new plants."},
+            {"type": "true_false", "question": "A plant life cycle ends when the plant makes seeds.", "answer": "false", "hint": "The seeds start the cycle all over again!"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is germination?", "options": ["A seed starting to grow", "A leaf falling off", "A flower blooming", "A fruit ripening"], "correct": 0, "hint": "This is the first stage of a plant's life."},
+          {"type": "true_false", "question": "Flowers help plants make seeds.", "answer": "true", "hint": "Flowers have an important job!"},
+          {"type": "fill_in", "question": "Leaves are green because of ___.", "answer": "chlorophyll", "hint": "A special green substance in leaves."},
+          {"type": "multiple_choice", "question": "What is pollination?", "options": ["Plants drinking water", "Bees helping flowers make seeds", "Roots growing deeper", "Leaves falling off"], "correct": 1, "hint": "Bees visit flowers and carry pollen."},
+          {"type": "multiple_choice", "question": "A plant life cycle goes from seed to ___.", "options": ["Rock", "Plant to flower to seed again", "Cloud", "Water"], "correct": 1, "hint": "It is a circle that repeats."},
+          {"type": "true_false", "question": "Seeds need water and warmth to germinate.", "answer": "true", "hint": "Without the right conditions, seeds stay dormant."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "plant_life_expert"
+      }
+    },
+    {
+      "id": "1-science-4",
+      "title": "Light and Sound",
+      "description": "Explore how light helps us see and how sound travels to our ears.",
+      "lessons": [
+        {
+          "id": "1-science-4-1",
+          "title": "What Is Light?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Light is a form of energy that lets us see things. The biggest source of light is the sun! The sun lights up our world during the day. At night, we use lamps, flashlights, and candles for light. Without light, everything would be dark and we could not see. Light travels in straight lines. It can pass through some things, like glass windows, but it cannot pass through solid things like walls.",
+            "examples": [
+              {"problem": "What is the biggest source of light?", "answer": "The sun", "explanation": "The sun gives us light during the day. It lights up the whole Earth!"},
+              {"problem": "Can light pass through a wall?", "answer": "No", "explanation": "Light travels in straight lines and cannot pass through solid objects like walls."}
+            ],
+            "key_vocabulary": ["light", "sun", "energy", "source", "dark", "bright"],
+            "real_world": "When you turn on a flashlight in a dark room, you can see because the flashlight gives off light. Without light, you would see nothing!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the biggest source of light for Earth?", "options": ["The moon", "A lamp", "The sun", "A candle"], "correct": 2, "hint": "It is in the sky during the day."},
+            {"type": "true_false", "question": "We need light to see things.", "answer": "true", "hint": "Can you see anything in a completely dark room?"},
+            {"type": "multiple_choice", "question": "Light can pass through ___.", "options": ["A wall", "A book", "A glass window", "A rock"], "correct": 2, "hint": "You can see through this."},
+            {"type": "fill_in", "question": "Light travels in straight ___.", "answer": "lines", "hint": "Think about a flashlight beam."},
+            {"type": "true_false", "question": "Light can pass through a solid wall.", "answer": "false", "hint": "Walls block light."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-4-2",
+          "title": "Sources of Light",
+          "type": "lesson",
+          "content": {
+            "explanation": "A source of light is something that makes its own light. The sun is a natural light source. Stars are natural light sources too! Fire is another natural light source. People also make light sources like light bulbs, flashlights, and computer screens. These are man-made light sources. The moon is NOT a source of light. The moon reflects light from the sun, which means it bounces the sun's light to us.",
+            "examples": [
+              {"problem": "Is a light bulb a source of light?", "answer": "Yes", "explanation": "A light bulb makes its own light when it is turned on. It is a man-made light source."},
+              {"problem": "Is the moon a source of light?", "answer": "No, the moon reflects the sun's light.", "explanation": "The moon does not make its own light. It bounces sunlight back to Earth."}
+            ],
+            "key_vocabulary": ["light source", "natural", "man-made", "reflect", "sun", "light bulb"],
+            "real_world": "At night, street lights, car headlights, and house lights help us see. These are all man-made light sources!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a natural source of light?", "options": ["A lamp", "A flashlight", "The sun", "A TV screen"], "correct": 2, "hint": "Which one is found in nature?"},
+            {"type": "true_false", "question": "The moon makes its own light.", "answer": "false", "hint": "The moon reflects light from the sun."},
+            {"type": "multiple_choice", "question": "Which is a man-made light source?", "options": ["The sun", "A star", "A light bulb", "Lightning"], "correct": 2, "hint": "People invented this."},
+            {"type": "fill_in", "question": "The moon ___ light from the sun.", "answer": "reflects", "hint": "It bounces light back to us."},
+            {"type": "multiple_choice", "question": "Which of these is NOT a source of light?", "options": ["A candle", "The sun", "A rock", "A flashlight"], "correct": 2, "hint": "Which one does not glow or shine?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-4-3",
+          "title": "What Is Sound?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sound is made when something vibrates, which means it moves back and forth very quickly. When you pluck a guitar string, it vibrates and makes a sound. When you clap your hands, the clap makes the air vibrate and sound travels to your ears. Sound travels through the air to reach our ears. Some sounds are loud, like a drum. Some sounds are quiet, like a whisper. Some sounds are high, like a bird singing. Some sounds are low, like a bear growling.",
+            "examples": [
+              {"problem": "How is sound made?", "answer": "Something vibrates (moves back and forth quickly).", "explanation": "All sounds come from vibrations."},
+              {"problem": "How does sound reach our ears?", "answer": "Sound travels through the air.", "explanation": "When something vibrates, it makes the air around it vibrate too, and that reaches your ears."}
+            ],
+            "key_vocabulary": ["sound", "vibrate", "loud", "quiet", "high", "low", "pitch"],
+            "real_world": "Put your hand on your throat and hum. Can you feel the vibrations? That is your voice making sound!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How is sound made?", "options": ["By light", "By something vibrating", "By water", "By colors"], "correct": 1, "hint": "Things move back and forth quickly."},
+            {"type": "true_false", "question": "Sound travels through the air.", "answer": "true", "hint": "That is how sound gets from a drum to your ears."},
+            {"type": "multiple_choice", "question": "Which sound is LOUDER?", "options": ["A whisper", "A drum", "A cat purring", "Breathing"], "correct": 1, "hint": "Think about banging on a drum."},
+            {"type": "fill_in", "question": "When something moves back and forth quickly, it ___.", "answer": "vibrates", "hint": "This word starts with V."},
+            {"type": "multiple_choice", "question": "A bird singing makes a ___ sound.", "options": ["Low", "High", "No sound", "Invisible"], "correct": 1, "hint": "Bird songs are usually high-pitched."},
+            {"type": "true_false", "question": "Clapping your hands makes a sound.", "answer": "true", "hint": "Try it! What do you hear?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-4-4",
+          "title": "Loud and Soft, High and Low",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sounds can be different in two important ways. Volume is how loud or soft a sound is. A shout is loud. A whisper is soft. You can change volume by hitting a drum harder (louder) or softer (quieter). Pitch is how high or low a sound is. A whistle has a high pitch. A bass drum has a low pitch. A small bell makes a higher sound than a big bell. Thin guitar strings make higher sounds than thick ones.",
+            "examples": [
+              {"problem": "What is volume?", "answer": "How loud or soft a sound is.", "explanation": "A fire truck siren is loud (high volume). A whisper is soft (low volume)."},
+              {"problem": "What is pitch?", "answer": "How high or low a sound is.", "explanation": "A bird chirp is high-pitched. Thunder is low-pitched."}
+            ],
+            "key_vocabulary": ["volume", "loud", "soft", "pitch", "high", "low"],
+            "real_world": "On a piano, the keys on the right make high-pitched sounds, and the keys on the left make low-pitched sounds. Try it next time you see a piano!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Volume describes how ___ or ___ a sound is.", "options": ["Fast or slow", "Loud or soft", "High or low", "Big or small"], "correct": 1, "hint": "Think about turning up the volume on a TV."},
+            {"type": "multiple_choice", "question": "Pitch describes how ___ or ___ a sound is.", "options": ["Loud or soft", "Fast or slow", "High or low", "Near or far"], "correct": 2, "hint": "A bird sings high, thunder rumbles low."},
+            {"type": "true_false", "question": "Hitting a drum harder makes a louder sound.", "answer": "true", "hint": "More force makes more sound."},
+            {"type": "fill_in", "question": "A whisper is a ___ sound.", "answer": "soft", "hint": "The opposite of loud."},
+            {"type": "multiple_choice", "question": "Which makes a HIGHER sound?", "options": ["A big drum", "A small bell", "Thunder", "A large dog barking"], "correct": 1, "hint": "Smaller things usually make higher sounds."},
+            {"type": "true_false", "question": "A whistle has a low pitch.", "answer": "false", "hint": "Think about the sound a whistle makes. Is it high or low?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the biggest source of light?", "options": ["A lamp", "The moon", "The sun", "A candle"], "correct": 2, "hint": "It lights up our whole planet."},
+          {"type": "true_false", "question": "The moon makes its own light.", "answer": "false", "hint": "The moon reflects the sun's light."},
+          {"type": "multiple_choice", "question": "How is sound made?", "options": ["By heat", "By color", "By vibrations", "By light"], "correct": 2, "hint": "Things move back and forth quickly."},
+          {"type": "fill_in", "question": "How loud or soft a sound is called its ___.", "answer": "volume", "hint": "You adjust this on your TV."},
+          {"type": "multiple_choice", "question": "A bird singing makes a ___ pitched sound.", "options": ["Low", "High", "No", "Medium"], "correct": 1, "hint": "Bird songs are usually high and light."},
+          {"type": "true_false", "question": "Light travels in straight lines.", "answer": "true", "hint": "Think about a flashlight beam."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "light_sound_star"
+      }
+    },
+    {
+      "id": "1-science-5",
+      "title": "Weather Patterns",
+      "description": "Learn how weather changes over time and how we measure and predict weather.",
+      "lessons": [
+        {
+          "id": "1-science-5-1",
+          "title": "Observing Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "We can observe the weather every day by looking outside. We check if it is sunny, cloudy, rainy, or snowy. We can feel if it is hot, warm, cool, or cold. We can notice if it is windy or calm. Scientists who study weather are called meteorologists. They use special tools to measure weather. They help us know if we need an umbrella or a jacket!",
+            "examples": [
+              {"problem": "What do we observe about weather?", "answer": "If it is sunny, cloudy, rainy, snowy, hot, cold, or windy.", "explanation": "We can observe many things about the weather just by going outside."},
+              {"problem": "What is a meteorologist?", "answer": "A scientist who studies weather.", "explanation": "Meteorologists help predict the weather so we know what to expect."}
+            ],
+            "key_vocabulary": ["observe", "weather", "meteorologist", "temperature", "forecast"],
+            "real_world": "Watch the weather report on TV or a phone. Meteorologists use maps, satellites, and tools to tell us what the weather will be like."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A scientist who studies weather is called a ___.", "options": ["Biologist", "Meteorologist", "Astronaut", "Geologist"], "correct": 1, "hint": "This word has 'meteor' in it."},
+            {"type": "true_false", "question": "We can observe weather by looking outside.", "answer": "true", "hint": "You can see if it is sunny, rainy, or cloudy."},
+            {"type": "multiple_choice", "question": "Which is NOT something we observe about weather?", "options": ["Temperature", "Wind", "Clouds", "Homework"], "correct": 3, "hint": "Which one is not about what it is like outside?"},
+            {"type": "fill_in", "question": "A weather ___ tells us what the weather will be like.", "answer": "forecast", "hint": "You see this on the news."},
+            {"type": "true_false", "question": "Meteorologists use special tools to study weather.", "answer": "true", "hint": "Scientists use tools to measure temperature, wind, and rain."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-5-2",
+          "title": "Temperature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Temperature tells us how hot or cold something is. We measure temperature with a thermometer. When the temperature is high, it is hot outside. When the temperature is low, it is cold outside. Temperature is measured in degrees. In summer, temperatures are usually high. In winter, temperatures are usually low. Knowing the temperature helps us decide what to wear.",
+            "examples": [
+              {"problem": "What tool measures temperature?", "answer": "A thermometer", "explanation": "A thermometer shows us the temperature as a number."},
+              {"problem": "When is the temperature usually highest?", "answer": "In summer", "explanation": "Summer days are usually the hottest days of the year."}
+            ],
+            "key_vocabulary": ["temperature", "thermometer", "degrees", "hot", "cold", "warm", "cool"],
+            "real_world": "Next time you go outside, think about the temperature. Is it warm enough for shorts, or cold enough for a jacket?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What tool measures temperature?", "options": ["A ruler", "A thermometer", "A clock", "A scale"], "correct": 1, "hint": "This tool tells you how hot or cold it is."},
+            {"type": "true_false", "question": "Temperature is measured in degrees.", "answer": "true", "hint": "We say it is a certain number of degrees outside."},
+            {"type": "multiple_choice", "question": "In which season is the temperature usually highest?", "options": ["Winter", "Fall", "Spring", "Summer"], "correct": 3, "hint": "The hottest season of the year."},
+            {"type": "fill_in", "question": "We use a ___ to measure temperature.", "answer": "thermometer", "hint": "It starts with the letters T-H."},
+            {"type": "true_false", "question": "When the temperature is very low, it is hot outside.", "answer": "false", "hint": "Low temperature means cold weather."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-5-3",
+          "title": "Weather Over Time",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weather changes over time! It can be sunny in the morning and rainy in the afternoon. Weather also changes with the seasons. Spring is often rainy and mild. Summer is hot and sunny. Fall is cool and breezy. Winter is cold, and some places get snow. When we watch weather over many days, we can see patterns. For example, April often has lots of rain, and July is usually the hottest month.",
+            "examples": [
+              {"problem": "Can weather change during one day?", "answer": "Yes! It can be sunny in the morning and rainy in the afternoon.", "explanation": "Weather can change quickly throughout the day."},
+              {"problem": "What weather pattern happens in spring?", "answer": "Lots of rain and mild temperatures.", "explanation": "Spring is known for rain showers that help flowers grow."}
+            ],
+            "key_vocabulary": ["pattern", "seasons", "change", "spring", "summer", "fall", "winter"],
+            "real_world": "Keep a weather journal! Write down the weather every day for a month. Can you see any patterns?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Can the weather change during one day?", "options": ["No, never", "Yes, it can", "Only in winter", "Only at night"], "correct": 1, "hint": "Think about a day that starts sunny and ends rainy."},
+            {"type": "true_false", "question": "Spring often has lots of rain.", "answer": "true", "hint": "April showers bring May flowers!"},
+            {"type": "multiple_choice", "question": "Which season usually has the coldest weather?", "options": ["Spring", "Summer", "Fall", "Winter"], "correct": 3, "hint": "Think about snow and ice."},
+            {"type": "fill_in", "question": "When we notice the same weather happening over and over, it is called a ___.", "answer": "pattern", "hint": "Something that repeats."},
+            {"type": "true_false", "question": "Weather is the same every day all year long.", "answer": "false", "hint": "Weather changes with the seasons."},
+            {"type": "multiple_choice", "question": "Which month usually has the hottest weather?", "options": ["January", "March", "July", "October"], "correct": 2, "hint": "This is in the middle of summer."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-5-4",
+          "title": "Severe Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes weather can be very strong and even dangerous. This is called severe weather. Thunderstorms have heavy rain, lightning, and thunder. Tornadoes are spinning columns of air that can damage buildings. Hurricanes are huge storms with very strong winds and lots of rain. Blizzards are big snowstorms with strong winds. It is important to know how to stay safe during severe weather by going inside, staying away from windows, and listening to adults.",
+            "examples": [
+              {"problem": "What is a thunderstorm?", "answer": "A storm with heavy rain, lightning, and thunder.", "explanation": "Thunderstorms can be loud and scary, but they usually pass quickly."},
+              {"problem": "How can you stay safe in severe weather?", "answer": "Go inside, stay away from windows, and listen to adults.", "explanation": "Being inside a sturdy building is the safest place during severe weather."}
+            ],
+            "key_vocabulary": ["severe weather", "thunderstorm", "tornado", "hurricane", "blizzard", "lightning"],
+            "real_world": "If you hear thunder, count the seconds between the lightning flash and the thunder. The sound tells you how far away the storm is!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is severe weather?", "options": ["A sunny day", "A gentle breeze", "A thunderstorm", "A partly cloudy day"], "correct": 2, "hint": "Which one sounds the most dangerous?"},
+            {"type": "true_false", "question": "A tornado is a spinning column of air.", "answer": "true", "hint": "Tornadoes spin very fast and can be very destructive."},
+            {"type": "multiple_choice", "question": "What should you do during severe weather?", "options": ["Go outside to watch", "Go inside and stay safe", "Play in the rain", "Climb a tree"], "correct": 1, "hint": "Safety first!"},
+            {"type": "fill_in", "question": "A big snowstorm with strong winds is called a ___.", "answer": "blizzard", "hint": "This word starts with B."},
+            {"type": "true_false", "question": "Lightning can be dangerous.", "answer": "true", "hint": "Lightning is a powerful burst of electricity."},
+            {"type": "multiple_choice", "question": "A hurricane has very strong ___ and lots of rain.", "options": ["Sunshine", "Winds", "Snow", "Fog"], "correct": 1, "hint": "Hurricanes are known for powerful gusts."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What tool measures temperature?", "options": ["A clock", "A thermometer", "A ruler", "A cup"], "correct": 1, "hint": "This tool tells you how hot or cold it is."},
+          {"type": "true_false", "question": "Weather changes with the seasons.", "answer": "true", "hint": "Summer is hot, winter is cold."},
+          {"type": "fill_in", "question": "A scientist who studies weather is called a ___.", "answer": "meteorologist", "hint": "This word is long and starts with M."},
+          {"type": "multiple_choice", "question": "Which is an example of severe weather?", "options": ["Sunny day", "Light breeze", "Tornado", "Partly cloudy"], "correct": 2, "hint": "Which one is strong and dangerous?"},
+          {"type": "true_false", "question": "You should go inside during severe weather.", "answer": "true", "hint": "Safety is most important!"},
+          {"type": "multiple_choice", "question": "Spring weather often includes lots of ___.", "options": ["Snow", "Rain", "Heat waves", "Fog"], "correct": 1, "hint": "April showers bring May flowers."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "weather_tracker"
+      }
+    },
+    {
+      "id": "1-science-6",
+      "title": "Properties of Matter",
+      "description": "Discover the three states of matter: solids, liquids, and gases.",
+      "lessons": [
+        {
+          "id": "1-science-6-1",
+          "title": "What Is Matter?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Everything around you is made of matter! Matter is anything that takes up space and has weight. A book is matter. Water is matter. Even the air you breathe is matter! You can describe matter by its properties: color, shape, size, texture (how it feels), and weight. Matter comes in three main forms called states: solid, liquid, and gas.",
+            "examples": [
+              {"problem": "What is matter?", "answer": "Anything that takes up space and has weight.", "explanation": "Everything you can see and touch (and even air you cannot see) is made of matter."},
+              {"problem": "Name three things made of matter.", "answer": "A rock, water, and air", "explanation": "Solids, liquids, and gases are all matter!"}
+            ],
+            "key_vocabulary": ["matter", "properties", "solid", "liquid", "gas", "weight", "space"],
+            "real_world": "Pick up a pencil. It has weight and takes up space. It is matter! Now blow air. That air is matter too, even though you cannot see it."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is matter?", "options": ["Only things you can see", "Anything that takes up space and has weight", "Only hard things", "Only big things"], "correct": 1, "hint": "Even air is matter!"},
+            {"type": "true_false", "question": "Air is made of matter.", "answer": "true", "hint": "Air takes up space and has weight, even though you cannot see it."},
+            {"type": "multiple_choice", "question": "What are the three states of matter?", "options": ["Hot, warm, cold", "Solid, liquid, gas", "Big, medium, small", "Hard, soft, squishy"], "correct": 1, "hint": "Think about ice, water, and steam."},
+            {"type": "fill_in", "question": "Matter is anything that takes up space and has ___.", "answer": "weight", "hint": "You can measure this on a scale."},
+            {"type": "true_false", "question": "A rock is made of matter.", "answer": "true", "hint": "A rock takes up space and has weight."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-6-2",
+          "title": "Solids",
+          "type": "lesson",
+          "content": {
+            "explanation": "A solid is a type of matter that has its own shape. It does not change shape unless you break it, cut it, or bend it. Solids can be hard like a rock or soft like a pillow. A book is a solid. A table is a solid. An ice cube is a solid. You can hold solids in your hand because they keep their shape. Solids do not flow like water.",
+            "examples": [
+              {"problem": "Name three solids.", "answer": "A rock, a book, and an ice cube", "explanation": "All of these keep their shape. They are solids!"},
+              {"problem": "Do solids have their own shape?", "answer": "Yes", "explanation": "Solids keep their shape unless you change them by breaking, cutting, or bending."}
+            ],
+            "key_vocabulary": ["solid", "shape", "hard", "soft", "hold"],
+            "real_world": "Look around your room. Your desk, chair, pencil, and toys are all solids. They keep their shape!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a solid?", "options": ["Water", "Air", "A book", "Juice"], "correct": 2, "hint": "Which one keeps its shape?"},
+            {"type": "true_false", "question": "Solids have their own shape.", "answer": "true", "hint": "A book stays the same shape on its own."},
+            {"type": "multiple_choice", "question": "Which solid is SOFT?", "options": ["A rock", "A pillow", "An ice cube", "A table"], "correct": 1, "hint": "You put your head on this to sleep."},
+            {"type": "fill_in", "question": "A solid keeps its own ___.", "answer": "shape", "hint": "A book does not flow like water."},
+            {"type": "true_false", "question": "You can hold a solid in your hand.", "answer": "true", "hint": "Try holding a pencil. It keeps its shape in your hand!"},
+            {"type": "multiple_choice", "question": "An ice cube is a ___.", "options": ["Liquid", "Gas", "Solid", "Light"], "correct": 2, "hint": "It keeps its cube shape."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-6-3",
+          "title": "Liquids",
+          "type": "lesson",
+          "content": {
+            "explanation": "A liquid is a type of matter that flows and takes the shape of its container. Water is a liquid. Juice, milk, and honey are liquids too. If you pour water into a glass, it takes the shape of the glass. If you pour it into a bowl, it takes the shape of the bowl. Liquids flow and can be poured. You cannot hold a liquid in your open hand because it will drip and flow away!",
+            "examples": [
+              {"problem": "Name three liquids.", "answer": "Water, juice, and milk", "explanation": "All of these flow and take the shape of their container."},
+              {"problem": "What happens when you pour water into a cup?", "answer": "The water takes the shape of the cup.", "explanation": "Liquids flow and fill up whatever container they are in."}
+            ],
+            "key_vocabulary": ["liquid", "flow", "pour", "container", "shape"],
+            "real_world": "When you pour a glass of water, you see the liquid flowing. It takes the shape of whatever glass or bottle you put it in!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a liquid?", "options": ["A rock", "Milk", "A pencil", "A cloud"], "correct": 1, "hint": "Which one flows and you can pour?"},
+            {"type": "true_false", "question": "Liquids take the shape of their container.", "answer": "true", "hint": "Pour water in a cup and it becomes cup-shaped."},
+            {"type": "multiple_choice", "question": "What happens when you pour juice into a bowl?", "options": ["It stays in a cube shape", "It takes the shape of the bowl", "It disappears", "It turns into a solid"], "correct": 1, "hint": "Liquids flow to match their container."},
+            {"type": "fill_in", "question": "Liquids ___ and can be poured.", "answer": "flow", "hint": "Like a river moving along."},
+            {"type": "true_false", "question": "You can hold a liquid in your open hand.", "answer": "false", "hint": "What happens when you try to hold water in your hand?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "1-science-6-4",
+          "title": "Gases",
+          "type": "lesson",
+          "content": {
+            "explanation": "A gas is a type of matter that spreads out to fill any space. You cannot usually see or hold a gas, but it is there! The air all around you is a gas. When you blow up a balloon, you fill it with gas (air). Steam from a pot of boiling water is also a gas. Gases do not have their own shape. They spread out and fill whatever space they are in. If you open a jar of perfume, the gas spreads across the room and you can smell it!",
+            "examples": [
+              {"problem": "What is a gas?", "answer": "A type of matter that spreads out to fill any space.", "explanation": "Gases have no fixed shape. They spread out everywhere!"},
+              {"problem": "Name a gas.", "answer": "Air", "explanation": "The air we breathe is a mixture of gases. It is all around us even though we cannot see it."}
+            ],
+            "key_vocabulary": ["gas", "air", "steam", "spread", "invisible", "fill"],
+            "real_world": "When you blow up a balloon, you are filling it with air, which is a gas. The gas pushes against the inside of the balloon and makes it big and round!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a gas?", "options": ["Water", "A rock", "Air", "Juice"], "correct": 2, "hint": "You breathe this every day."},
+            {"type": "true_false", "question": "You can usually see gases.", "answer": "false", "hint": "Can you see the air around you?"},
+            {"type": "multiple_choice", "question": "What fills a balloon when you blow it up?", "options": ["Water", "Sand", "Air (a gas)", "Light"], "correct": 2, "hint": "You blow air from your lungs."},
+            {"type": "fill_in", "question": "A gas spreads out to fill any ___.", "answer": "space", "hint": "Gases expand to fill the area around them."},
+            {"type": "true_false", "question": "Steam from boiling water is a gas.", "answer": "true", "hint": "When water gets very hot, it turns into a gas."},
+            {"type": "multiple_choice", "question": "Gases have ___.", "options": ["A fixed shape", "No fixed shape", "A square shape", "A round shape"], "correct": 1, "hint": "Gases spread to fill whatever container or room they are in."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is matter?", "options": ["Only things you see", "Anything that takes up space and has weight", "Only solids", "Only liquids"], "correct": 1, "hint": "Solids, liquids, and gases are all matter."},
+          {"type": "multiple_choice", "question": "Which of these is a solid?", "options": ["Water", "Air", "A table", "Steam"], "correct": 2, "hint": "Which one keeps its shape?"},
+          {"type": "true_false", "question": "Liquids take the shape of their container.", "answer": "true", "hint": "Pour water in a glass and it becomes glass-shaped."},
+          {"type": "fill_in", "question": "Air is a ___.", "answer": "gas", "hint": "You cannot see it but it fills the room."},
+          {"type": "multiple_choice", "question": "Which state of matter flows and can be poured?", "options": ["Solid", "Liquid", "Gas", "None"], "correct": 1, "hint": "Think about pouring water."},
+          {"type": "true_false", "question": "Gases spread out to fill any space.", "answer": "true", "hint": "That is why you can smell cookies baking from another room!"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "matter_master"
+      }
+    }
+  ]
+}

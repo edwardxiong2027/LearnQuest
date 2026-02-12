@@ -1,0 +1,768 @@
+{
+  "grade": 6,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "6-ss-1",
+      "title": "Ancient Mesopotamia & Egypt",
+      "description": "Explore the world's earliest civilizations in Mesopotamia and Egypt, including their governments, writing systems, religions, and lasting contributions to human history.",
+      "lessons": [
+        {
+          "id": "6-ss-1-1",
+          "title": "The Rise of Civilization in Mesopotamia",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mesopotamia, meaning 'land between the rivers,' was located between the Tigris and Euphrates rivers in present-day Iraq. It is often called the 'Cradle of Civilization' because some of the world's first cities, governments, and writing systems developed there around 3500 BCE. The fertile soil along the rivers, enriched by annual floods, allowed people to grow surplus food through agriculture. This surplus meant not everyone had to farm — some people could become artisans, priests, soldiers, or rulers. This specialization of labor led to more complex societies. The Sumerians built the first known cities, including Ur, Uruk, and Eridu. Each city and its surrounding farmland formed a city-state with its own government and ruler. Sumerians developed cuneiform, one of the earliest writing systems, pressing wedge-shaped marks into wet clay tablets. They also invented the wheel, the plow, and a number system based on 60 (which is why we have 60 minutes in an hour and 360 degrees in a circle). Later empires — the Akkadians, Babylonians, and Assyrians — built upon Sumerian achievements.",
+            "examples": [
+              {"problem": "Why is Mesopotamia called the 'Cradle of Civilization'?", "answer": "Because some of the world's first cities, writing systems, and governments developed there.", "explanation": "The fertile land between the Tigris and Euphrates rivers allowed people to settle, grow food, and build complex societies."},
+              {"problem": "What was cuneiform?", "answer": "One of the earliest writing systems, using wedge-shaped marks pressed into clay tablets.", "explanation": "The Sumerians used cuneiform to keep records, write laws, and tell stories. Thousands of clay tablets have survived."}
+            ],
+            "key_vocabulary": ["Mesopotamia", "civilization", "cuneiform", "city-state", "surplus", "specialization of labor", "fertile", "Sumerians"],
+            "real_world": "Every time you look at a clock and see 60 minutes in an hour, or use a wheel on a bicycle or car, you are using inventions that trace back to ancient Mesopotamia."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'Mesopotamia' mean?", "options": ["Land of the gods", "Land between the rivers", "Land of the pharaohs", "Land of the pyramids"], "correct": 1, "hint": "The name refers to the Tigris and Euphrates rivers."},
+            {"type": "fill_in", "question": "The Sumerians developed ___, one of the earliest writing systems.", "answer": "cuneiform", "hint": "This writing used wedge-shaped marks pressed into clay."},
+            {"type": "true_false", "question": "Mesopotamia is located in present-day Egypt.", "answer": false, "hint": "Mesopotamia was between the Tigris and Euphrates rivers in a different modern country."},
+            {"type": "multiple_choice", "question": "What did a surplus of food allow people to do?", "options": ["Move to different continents", "Specialize in different jobs besides farming", "Build pyramids", "Invent the internet"], "correct": 1, "hint": "When not everyone had to farm, people could become artisans, priests, and rulers."},
+            {"type": "true_false", "question": "The Sumerian number system was based on 60.", "answer": true, "hint": "This is why we have 60 minutes in an hour."},
+            {"type": "multiple_choice", "question": "What is a city-state?", "options": ["A state with no cities", "A city and surrounding farmland with its own government", "A country with one city", "A state capital"], "correct": 1, "hint": "Each Sumerian city operated as its own independent political unit."},
+            {"type": "fill_in", "question": "Mesopotamia is often called the '___ of Civilization.'", "answer": "Cradle", "hint": "This word means a birthplace or origin."},
+            {"type": "multiple_choice", "question": "Which of these was invented by the Sumerians?", "options": ["The printing press", "The wheel", "The compass", "Paper"], "correct": 1, "hint": "This round invention is still used in transportation today."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-1-2",
+          "title": "Hammurabi's Code and Mesopotamian Society",
+          "type": "lesson",
+          "content": {
+            "explanation": "As Mesopotamian cities grew, they needed organized rules. Around 1792 BCE, King Hammurabi of Babylon created one of the world's first written law codes — Hammurabi's Code. This collection of 282 laws was carved into a tall stone pillar for everyone to see. The laws covered many aspects of daily life, including trade, property, family relationships, and punishment for crimes. Hammurabi's Code used the principle 'an eye for an eye,' meaning the punishment should match the crime. However, the punishments were not equal for everyone — the code treated wealthy people, commoners, and enslaved people differently. Mesopotamian society was organized in a social hierarchy. At the top were kings and priests, who held the most power. Below them were wealthy merchants and landowners, then artisans and farmers, and at the bottom were enslaved people. Religion was central to Mesopotamian life — people worshipped many gods (polytheism) and believed the gods controlled nature. Large temples called ziggurats were built in the center of each city as places of worship and symbols of the city's power.",
+            "examples": [
+              {"problem": "What was Hammurabi's Code?", "answer": "One of the world's first written law codes, containing 282 laws carved on a stone pillar.", "explanation": "By writing laws down and displaying them publicly, Hammurabi made the rules known to everyone, not just rulers."},
+              {"problem": "What is a ziggurat?", "answer": "A large stepped temple built in the center of Mesopotamian cities for worship.", "explanation": "Ziggurats were massive structures that showed the power of the city and honored the city's patron god."}
+            ],
+            "key_vocabulary": ["Hammurabi's Code", "law code", "social hierarchy", "polytheism", "ziggurat", "Babylon", "principle"],
+            "real_world": "The idea that laws should be written down and available for everyone to see — not just known by rulers — is a foundation of modern legal systems around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was Hammurabi's Code?", "options": ["A secret spy code", "A system of mathematics", "One of the first written law codes", "A religious text"], "correct": 2, "hint": "Hammurabi was a king who put laws in writing for all to see."},
+            {"type": "fill_in", "question": "Hammurabi's Code used the principle 'an eye for an ___.'", "answer": "eye", "hint": "The punishment was meant to match the crime."},
+            {"type": "true_false", "question": "Hammurabi's Code treated all people equally.", "answer": false, "hint": "Wealthy people, commoners, and enslaved people were treated differently."},
+            {"type": "multiple_choice", "question": "What were ziggurats?", "options": ["Royal palaces", "Large stepped temples", "Military forts", "Schools"], "correct": 1, "hint": "These were the tallest structures in Mesopotamian cities, built for religious purposes."},
+            {"type": "true_false", "question": "Mesopotamians practiced polytheism, worshipping many gods.", "answer": true, "hint": "'Poly' means many and 'theism' means belief in god(s)."},
+            {"type": "multiple_choice", "question": "Who was at the top of Mesopotamian society?", "options": ["Farmers", "Enslaved people", "Kings and priests", "Merchants"], "correct": 2, "hint": "These people held the most power and authority."},
+            {"type": "fill_in", "question": "Hammurabi was the king of ___.", "answer": "Babylon", "hint": "This was one of the most powerful cities in ancient Mesopotamia."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-1-3",
+          "title": "Ancient Egypt: Gift of the Nile",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Egyptian civilization developed along the Nile River in northeastern Africa, beginning around 3100 BCE when Upper and Lower Egypt were united under one ruler. The Greek historian Herodotus called Egypt 'the gift of the Nile,' and for good reason. Each year, the Nile flooded, depositing rich black soil along its banks that was perfect for farming. This predictable flooding cycle allowed Egyptians to grow abundant crops of wheat and barley. Beyond the narrow fertile strip along the Nile, vast deserts stretched in all directions. These deserts actually helped protect Egypt from invasion, serving as natural barriers. Egyptians developed a system of irrigation to control the Nile's waters and extend farming beyond the riverbanks. The Nile also served as Egypt's main highway — boats carried people and goods up and down the river. Egyptian society was ruled by a pharaoh, who was considered both a king and a god. Below the pharaoh were priests, nobles, scribes, artisans, farmers, and enslaved people. Egyptians developed hieroglyphics — a writing system using pictures and symbols — and wrote on papyrus, an early form of paper made from reeds.",
+            "examples": [
+              {"problem": "Why was the Nile River so important to ancient Egypt?", "answer": "Its annual floods deposited fertile soil for farming, and it served as the main transportation route.", "explanation": "Without the Nile, civilization in Egypt would not have been possible — the surrounding land was desert."},
+              {"problem": "What are hieroglyphics?", "answer": "The Egyptian writing system that used pictures and symbols to represent words and sounds.", "explanation": "Hieroglyphics were used for religious texts, official records, and decorations on temples and tombs."}
+            ],
+            "key_vocabulary": ["Nile River", "pharaoh", "hieroglyphics", "papyrus", "irrigation", "fertile", "dynasty", "scribe"],
+            "real_world": "The word 'paper' comes from 'papyrus,' the writing material invented by ancient Egyptians. Their invention of a portable writing surface was a major step in the history of communication."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why was Egypt called 'the gift of the Nile'?", "options": ["The Nile was a gift from the pharaoh", "The Nile's floods made farming possible in the desert", "Egypt gave the Nile to other countries", "The Nile was discovered as a gift"], "correct": 1, "hint": "Without the Nile and its fertile soil, Egyptian civilization could not have existed."},
+            {"type": "fill_in", "question": "Egyptian writing using pictures and symbols is called ___.", "answer": "hieroglyphics", "hint": "This word comes from Greek words meaning 'sacred carvings.'"},
+            {"type": "true_false", "question": "The pharaoh was considered both a king and a god.", "answer": true, "hint": "This made the pharaoh the most powerful person in Egyptian society."},
+            {"type": "multiple_choice", "question": "What is papyrus?", "options": ["A type of stone", "An early form of paper made from reeds", "A type of pyramid", "A farming tool"], "correct": 1, "hint": "Our word 'paper' comes from this material."},
+            {"type": "true_false", "question": "The deserts surrounding Egypt made it easy for enemies to invade.", "answer": false, "hint": "The deserts actually served as natural barriers protecting Egypt."},
+            {"type": "multiple_choice", "question": "What did the Nile's annual floods leave behind?", "options": ["Sand", "Rocks", "Rich black soil", "Salt"], "correct": 2, "hint": "This deposit made the land perfect for growing crops."},
+            {"type": "fill_in", "question": "The ruler of ancient Egypt was called a ___.", "answer": "pharaoh", "hint": "This person was considered both a political leader and a divine being."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-1-4",
+          "title": "Pyramids, Mummies, and Egyptian Beliefs",
+          "type": "lesson",
+          "content": {
+            "explanation": "The ancient Egyptians believed deeply in an afterlife — a life that continued after death. They believed that preserving the body was essential for the soul to survive in the afterlife. This led to the practice of mummification, a complex process of preserving dead bodies that could take up to 70 days. Internal organs were removed and stored in special jars, the body was dried with natron salt, then wrapped in linen strips. The most famous symbols of ancient Egypt are the pyramids — massive stone tombs built for pharaohs. The Great Pyramid of Giza, built for Pharaoh Khufu around 2560 BCE, is made of over 2 million stone blocks and was the tallest structure in the world for over 3,800 years. The Sphinx, a giant statue with a lion's body and a human head, guards the pyramids at Giza. Egyptians worshipped many gods (polytheism). Ra was the sun god, Osiris was the god of the afterlife, Isis was the goddess of magic, and Anubis was the jackal-headed god of mummification. They believed the heart was weighed against a feather of truth after death to determine if a person had lived a good life.",
+            "examples": [
+              {"problem": "Why did Egyptians mummify their dead?", "answer": "They believed preserving the body was necessary for the soul to survive in the afterlife.", "explanation": "Mummification was a careful process designed to keep the body intact for eternity."},
+              {"problem": "How big is the Great Pyramid of Giza?", "answer": "It is made of over 2 million stone blocks and was the tallest structure in the world for over 3,800 years.", "explanation": "Building the Great Pyramid was an incredible engineering feat accomplished without modern machinery."}
+            ],
+            "key_vocabulary": ["pyramid", "mummification", "afterlife", "pharaoh", "Great Pyramid of Giza", "Sphinx", "Ra", "Osiris"],
+            "real_world": "The Great Pyramid of Giza is the only one of the Seven Wonders of the Ancient World that still exists. It continues to amaze engineers who wonder how it was built with ancient technology."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why did Egyptians practice mummification?", "options": ["For decoration", "To scare enemies", "To preserve the body for the afterlife", "For medical research"], "correct": 2, "hint": "Egyptians believed the body needed to be preserved for life after death."},
+            {"type": "fill_in", "question": "The Great Pyramid of Giza was built for Pharaoh ___.", "answer": "Khufu", "hint": "This pharaoh ruled around 2560 BCE."},
+            {"type": "true_false", "question": "The Great Pyramid of Giza is made of over 2 million stone blocks.", "answer": true, "hint": "This was an incredible engineering achievement."},
+            {"type": "multiple_choice", "question": "Who was Ra in Egyptian religion?", "options": ["God of the afterlife", "God of the Nile", "Sun god", "God of war"], "correct": 2, "hint": "This deity was associated with the most important celestial body in Egyptian life."},
+            {"type": "true_false", "question": "The Sphinx has the body of an eagle and the head of a lion.", "answer": false, "hint": "The Sphinx has a different combination of animal and human features."},
+            {"type": "multiple_choice", "question": "What was weighed against a feather of truth after death?", "options": ["The brain", "The heart", "Gold", "The body"], "correct": 1, "hint": "Egyptians believed this organ determined if a person lived a good life."},
+            {"type": "fill_in", "question": "The ___ is a giant statue with a lion's body and a human head at Giza.", "answer": "Sphinx", "hint": "This famous statue guards the pyramids."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-1-5",
+          "title": "Achievements of Ancient Egypt and Mesopotamia",
+          "type": "lesson",
+          "content": {
+            "explanation": "Both Mesopotamia and Egypt made extraordinary contributions that still influence our world today. In mathematics, the Mesopotamians developed a place-value number system and the concept of zero. Egyptians used geometry to survey farmland and build pyramids with remarkable precision. In medicine, Egyptians created some of the earliest medical texts, describing surgical procedures, treatments, and the use of herbs. In astronomy, both civilizations tracked the movements of stars and planets to create calendars. The Egyptian calendar had 365 days — the basis of our calendar today. Mesopotamians mapped constellations and developed the 12-month calendar. In engineering, the Egyptians' pyramid-building and the Mesopotamians' irrigation systems showed incredible technical skill. In literature, the Epic of Gilgamesh from Mesopotamia (written around 2100 BCE) is considered one of the world's first great works of literature. Both civilizations developed systems of government, trade networks, and religious institutions that became models for later civilizations. Understanding these achievements helps us appreciate the foundations of modern society.",
+            "examples": [
+              {"problem": "What is the Epic of Gilgamesh?", "answer": "One of the world's first great works of literature, written in Mesopotamia around 2100 BCE.", "explanation": "This epic poem tells the story of King Gilgamesh and his quest for immortality. It includes a flood story similar to the one in the Bible."},
+              {"problem": "How does the Egyptian calendar relate to ours?", "answer": "The Egyptian calendar had 365 days, which is the basis of the calendar we use today.", "explanation": "Egyptians observed the star Sirius and the Nile's flood cycle to create an accurate calendar."}
+            ],
+            "key_vocabulary": ["Epic of Gilgamesh", "geometry", "astronomy", "calendar", "engineering", "literature", "contribution", "foundation"],
+            "real_world": "Our 365-day calendar, 60-minute hour, 12-month year, and many medical practices all have roots in ancient Mesopotamia and Egypt. These civilizations built the foundations of modern society."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the Epic of Gilgamesh?", "options": ["An Egyptian pyramid", "A Mesopotamian law code", "One of the world's first great works of literature", "A mathematical formula"], "correct": 2, "hint": "This ancient story was written in Mesopotamia around 2100 BCE."},
+            {"type": "fill_in", "question": "The Egyptian calendar had ___ days, which is the basis of our calendar today.", "answer": "365", "hint": "This is the same number of days in our modern year."},
+            {"type": "true_false", "question": "Ancient Egyptians had knowledge of surgical procedures.", "answer": true, "hint": "They created some of the earliest medical texts in history."},
+            {"type": "multiple_choice", "question": "Which civilization developed the concept of zero?", "options": ["Egyptians", "Greeks", "Mesopotamians", "Romans"], "correct": 2, "hint": "This concept was part of their place-value number system."},
+            {"type": "true_false", "question": "Both Mesopotamia and Egypt tracked stars and planets.", "answer": true, "hint": "Astronomy was important to both civilizations for creating calendars."},
+            {"type": "multiple_choice", "question": "What mathematical skill did Egyptians use to build pyramids?", "options": ["Algebra", "Geometry", "Calculus", "Statistics"], "correct": 1, "hint": "This branch of mathematics deals with shapes, angles, and measurements."},
+            {"type": "fill_in", "question": "The Mesopotamians developed a ___-month calendar.", "answer": "12", "hint": "This is the same number of months we have today."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What does 'Mesopotamia' mean?", "options": ["Land of the pharaohs", "Land between the rivers", "Land of pyramids", "Fertile crescent"], "correct": 1},
+          {"type": "true_false", "question": "The Sumerians invented cuneiform writing.", "answer": true},
+          {"type": "multiple_choice", "question": "What was Hammurabi's Code?", "options": ["A secret language", "A system of laws", "A religious text", "A trade route"], "correct": 1},
+          {"type": "fill_in", "question": "Ancient Egypt developed along the ___ River.", "answer": "Nile", "hint": ""},
+          {"type": "true_false", "question": "Egyptians practiced mummification because they believed in an afterlife.", "answer": true},
+          {"type": "multiple_choice", "question": "What writing system did Egyptians use?", "options": ["Cuneiform", "Hieroglyphics", "Alphabet", "Sanskrit"], "correct": 1},
+          {"type": "multiple_choice", "question": "How many days were in the Egyptian calendar?", "options": ["350", "360", "365", "370"], "correct": 2},
+          {"type": "true_false", "question": "The Great Pyramid of Giza was built for Pharaoh Khufu.", "answer": true},
+          {"type": "multiple_choice", "question": "What did the Sumerians invent?", "options": ["Paper and compass", "The wheel and plow", "Gunpowder and silk", "Pyramids and obelisks"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ancient_civilizations_scholar"
+      }
+    },
+    {
+      "id": "6-ss-2",
+      "title": "Ancient Greece",
+      "description": "Explore the remarkable civilization of ancient Greece, including the birth of democracy, Greek philosophy, mythology, and lasting contributions to art, science, and government.",
+      "lessons": [
+        {
+          "id": "6-ss-2-1",
+          "title": "Geography and Greek City-States",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Greece was not a single unified country but a collection of independent city-states, each with its own government, laws, and customs. Greece's mountainous terrain and many islands made it difficult for one ruler to control the entire region. The mountains separated communities, encouraging the development of independent city-states called 'poleis' (singular: polis). The Mediterranean Sea connected Greeks to other civilizations and was essential for trade and transportation. The two most powerful city-states were Athens and Sparta, which had very different cultures. Athens valued education, art, philosophy, and democratic government. Sparta was a militaristic society focused on strength, discipline, and warfare. Spartan boys began military training at age seven and lived in barracks until age 30. Despite their differences, the Greek city-states shared a common language, religion, and cultural identity. They came together for events like the Olympic Games, which began in 776 BCE as a festival honoring Zeus, and to defend against common enemies like the Persian Empire.",
+            "examples": [
+              {"problem": "Why did Greece develop as independent city-states rather than one unified country?", "answer": "The mountainous terrain separated communities, making it hard for one ruler to control the entire region.", "explanation": "Mountains acted as natural barriers between communities, so each city-state developed independently."},
+              {"problem": "How were Athens and Sparta different?", "answer": "Athens focused on education, art, and democracy, while Sparta focused on military strength and discipline.", "explanation": "These two powerful city-states represented very different values and ways of life."}
+            ],
+            "key_vocabulary": ["city-state", "polis", "Athens", "Sparta", "Mediterranean", "Olympic Games", "terrain", "militaristic"],
+            "real_world": "The Olympic Games, which began in ancient Greece in 776 BCE, continue today as the world's largest international sporting event, bringing countries together in peaceful competition."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why did Greece develop as independent city-states?", "options": ["People wanted to be separate", "The mountainous terrain separated communities", "They spoke different languages", "The government planned it that way"], "correct": 1, "hint": "Think about how geography shaped Greek civilization."},
+            {"type": "fill_in", "question": "The Greek word for city-state is ___.", "answer": "polis", "hint": "This word is the root of 'politics' and 'police.'"},
+            {"type": "true_false", "question": "Spartan boys began military training at age seven.", "answer": true, "hint": "Sparta was a highly militaristic society."},
+            {"type": "multiple_choice", "question": "Which city-state was known for democracy and philosophy?", "options": ["Sparta", "Athens", "Corinth", "Thebes"], "correct": 1, "hint": "This city-state valued education and the arts."},
+            {"type": "true_false", "question": "The Olympic Games began in 776 BCE.", "answer": true, "hint": "This ancient athletic competition honored the god Zeus."},
+            {"type": "multiple_choice", "question": "What body of water was essential for Greek trade?", "options": ["Atlantic Ocean", "Pacific Ocean", "Mediterranean Sea", "Black Sea"], "correct": 2, "hint": "This sea is surrounded by Europe, Africa, and Asia."},
+            {"type": "fill_in", "question": "___ was a militaristic Greek city-state focused on warfare and discipline.", "answer": "Sparta", "hint": "Boys in this city-state lived in military barracks from age seven."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-2-2",
+          "title": "The Birth of Democracy in Athens",
+          "type": "lesson",
+          "content": {
+            "explanation": "Athens is considered the birthplace of democracy — a system of government in which citizens participate in making decisions. Athenian democracy developed gradually. In the early period, Athens was ruled by aristocrats (wealthy nobles). In 508 BCE, a leader named Cleisthenes introduced reforms that gave ordinary citizens a direct say in government. In Athenian direct democracy, citizens gathered in the Assembly to debate and vote on laws and policies. Every citizen could speak and vote. Citizens also served on juries and could hold public office through a lottery system. However, Athenian democracy was limited by modern standards. Only adult males who were born in Athens could be citizens — women, enslaved people, and foreigners (who might have lived in Athens their whole lives) were excluded. This meant only about 10-20 percent of the population could participate. Despite these limitations, Athens' democratic experiment was revolutionary. The ideas that people should have a voice in their government and that laws should apply equally to citizens influenced democracies around the world, including the United States.",
+            "examples": [
+              {"problem": "What is direct democracy?", "answer": "A system where citizens themselves vote on laws and policies, rather than electing representatives to vote for them.", "explanation": "In Athens, citizens gathered in person to debate and vote, unlike our representative democracy where we elect people to vote on our behalf."},
+              {"problem": "Who could NOT be a citizen in Athens?", "answer": "Women, enslaved people, and foreigners — only adult males born in Athens were citizens.", "explanation": "While revolutionary for its time, Athenian democracy excluded the majority of the population."}
+            ],
+            "key_vocabulary": ["democracy", "direct democracy", "citizen", "Assembly", "Cleisthenes", "aristocrat", "jury", "representative"],
+            "real_world": "The United States' democratic system was inspired by ancient Athens. However, our Founders created a representative democracy, where we elect people to vote on our behalf, rather than voting on every law ourselves."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which city is considered the birthplace of democracy?", "options": ["Sparta", "Rome", "Athens", "Babylon"], "correct": 2, "hint": "This Greek city-state developed a system where citizens voted on laws."},
+            {"type": "fill_in", "question": "___ introduced democratic reforms in Athens in 508 BCE.", "answer": "Cleisthenes", "hint": "This leader gave ordinary citizens a voice in government."},
+            {"type": "true_false", "question": "Women could vote in Athenian democracy.", "answer": false, "hint": "Athenian democracy was limited to certain groups."},
+            {"type": "multiple_choice", "question": "What is direct democracy?", "options": ["Citizens elect representatives", "Citizens vote on laws themselves", "A king makes all decisions", "Only the wealthy vote"], "correct": 1, "hint": "In Athens, citizens personally debated and voted on every major decision."},
+            {"type": "true_false", "question": "About 10-20 percent of Athens' population could participate in democracy.", "answer": true, "hint": "Only adult male citizens born in Athens qualified."},
+            {"type": "multiple_choice", "question": "Where did Athenian citizens gather to debate and vote?", "options": ["The Temple", "The Theater", "The Assembly", "The Market"], "correct": 2, "hint": "This was the main democratic institution where laws were debated."},
+            {"type": "fill_in", "question": "Athenian democracy was a ___ democracy where citizens voted directly on laws.", "answer": "direct", "hint": "This is different from a representative democracy."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-2-3",
+          "title": "Greek Philosophy, Art, and Science",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient Greece produced some of history's greatest thinkers. Greek philosophers (which means 'lovers of wisdom') used reason and logic to understand the world, rather than relying only on myths and religious explanations. Socrates taught by asking probing questions — a method called the Socratic method — encouraging people to think critically. His student Plato wrote about ideal government and founded the Academy, one of the first institutions of higher learning. Plato's student Aristotle studied logic, science, politics, and ethics, and his ideas influenced Western thought for over 2,000 years. In science, Hippocrates is called the 'Father of Medicine' because he taught that diseases had natural causes, not supernatural ones. Archimedes made important discoveries in mathematics and physics. In art and architecture, Greeks valued balance, proportion, and beauty. The Parthenon, a temple dedicated to the goddess Athena, showcases Greek architectural brilliance with its rows of columns and mathematical precision. Greek theater gave us the concepts of tragedy and comedy, and playwrights like Sophocles and Aristophanes created works still performed today.",
+            "examples": [
+              {"problem": "What was the Socratic method?", "answer": "A way of teaching by asking probing questions to encourage critical thinking.", "explanation": "Instead of lecturing, Socrates asked questions that challenged people to examine their beliefs and think more deeply."},
+              {"problem": "Why is Hippocrates called the 'Father of Medicine'?", "answer": "He taught that diseases had natural causes, not supernatural ones, and established ethical standards for doctors.", "explanation": "The Hippocratic Oath, based on his principles, is still taken by doctors today."}
+            ],
+            "key_vocabulary": ["philosophy", "Socrates", "Plato", "Aristotle", "Socratic method", "Hippocrates", "Parthenon", "tragedy", "comedy"],
+            "real_world": "Your teacher might use the Socratic method by asking you questions instead of just telling you answers. Doctors still take the Hippocratic Oath. Greek columns appear on government buildings, banks, and museums around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'philosophy' mean?", "options": ["Love of money", "Love of wisdom", "Love of power", "Love of war"], "correct": 1, "hint": "'Philo' means love and 'sophia' means wisdom in Greek."},
+            {"type": "fill_in", "question": "The ___ method is a way of teaching by asking probing questions.", "answer": "Socratic", "hint": "This method is named after the famous Greek philosopher."},
+            {"type": "true_false", "question": "Aristotle was a student of Plato.", "answer": true, "hint": "There was a chain: Socrates taught Plato, who taught Aristotle."},
+            {"type": "multiple_choice", "question": "Who is called the 'Father of Medicine'?", "options": ["Socrates", "Plato", "Hippocrates", "Aristotle"], "correct": 2, "hint": "This person taught that diseases had natural, not supernatural, causes."},
+            {"type": "true_false", "question": "The Parthenon was a temple dedicated to the god Zeus.", "answer": false, "hint": "This famous temple was dedicated to a different Greek deity."},
+            {"type": "multiple_choice", "question": "What two forms of theater did the Greeks create?", "options": ["Opera and ballet", "Tragedy and comedy", "Musical and drama", "Mime and dance"], "correct": 1, "hint": "One form told sad stories and the other told funny ones."},
+            {"type": "fill_in", "question": "Plato founded the ___, one of the first institutions of higher learning.", "answer": "Academy", "hint": "This word is still used today for schools and educational institutions."},
+            {"type": "multiple_choice", "question": "Who studied logic, science, politics, and ethics?", "options": ["Socrates", "Plato", "Aristotle", "Hippocrates"], "correct": 2, "hint": "This philosopher was Plato's most famous student."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-2-4",
+          "title": "Greek Mythology and Religion",
+          "type": "lesson",
+          "content": {
+            "explanation": "The ancient Greeks were polytheistic, worshipping many gods and goddesses they believed lived on Mount Olympus, the highest mountain in Greece. Zeus was the king of the gods and ruler of the sky and lightning. Hera was his wife and the goddess of marriage. Poseidon ruled the seas, and Hades ruled the underworld. Athena was the goddess of wisdom and war strategy (Athens was named after her). Apollo was the god of music, poetry, and the sun, while Artemis was the goddess of the hunt and moon. Aphrodite was the goddess of love, and Ares was the god of war. Greek myths — stories about these gods and mortal heroes — explained natural phenomena, taught moral lessons, and entertained. The myth of Icarus, who flew too close to the sun with wax wings, taught about the dangers of arrogance. The Odyssey by Homer tells the epic story of Odysseus's ten-year journey home after the Trojan War. Greek mythology has had an enormous influence on Western literature, art, language, and culture — many English words and expressions come from Greek myths.",
+            "examples": [
+              {"problem": "Where did the Greek gods live?", "answer": "On Mount Olympus, the highest mountain in Greece.", "explanation": "The Greeks believed their gods lived at the peak of this real mountain, above the clouds."},
+              {"problem": "What purpose did Greek myths serve?", "answer": "They explained natural phenomena, taught moral lessons, and provided entertainment.", "explanation": "Before science, myths helped people understand things like seasons, storms, and earthquakes."}
+            ],
+            "key_vocabulary": ["mythology", "Mount Olympus", "Zeus", "Athena", "Poseidon", "polytheistic", "Odyssey", "Homer"],
+            "real_world": "Words like 'atlas' (a book of maps, named after a Titan), 'echo' (named after a nymph), and 'odyssey' (a long journey) all come from Greek mythology. Even the planets are named after Greek and Roman gods."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did the Greek gods live?", "options": ["In the underworld", "On Mount Olympus", "Under the sea", "In Athens"], "correct": 1, "hint": "This is the highest mountain in Greece."},
+            {"type": "fill_in", "question": "___ was the king of the Greek gods and ruler of the sky.", "answer": "Zeus", "hint": "He was known for wielding thunderbolts."},
+            {"type": "true_false", "question": "Athens was named after the goddess Athena.", "answer": true, "hint": "The Parthenon was built as a temple to this goddess."},
+            {"type": "multiple_choice", "question": "Who wrote the Odyssey?", "options": ["Socrates", "Plato", "Homer", "Aristotle"], "correct": 2, "hint": "This ancient Greek poet also wrote the Iliad."},
+            {"type": "true_false", "question": "Poseidon was the god of war.", "answer": false, "hint": "Poseidon ruled a different domain. Ares was the god of war."},
+            {"type": "multiple_choice", "question": "What lesson did the myth of Icarus teach?", "options": ["Be kind to animals", "The dangers of arrogance", "Always obey your parents", "Never travel by sea"], "correct": 1, "hint": "Icarus flew too close to the sun despite being warned."},
+            {"type": "fill_in", "question": "The ___ by Homer tells the story of Odysseus's journey home after the Trojan War.", "answer": "Odyssey", "hint": "This word now means any long, eventful journey."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-2-5",
+          "title": "Alexander the Great and the Hellenistic World",
+          "type": "lesson",
+          "content": {
+            "explanation": "Alexander the Great (356-323 BCE) was the king of Macedonia who created one of the largest empires in ancient history. Tutored by the philosopher Aristotle, Alexander was brilliant, ambitious, and a military genius. After his father Philip II united the Greek city-states, Alexander set out to conquer the Persian Empire. In just 13 years, he built an empire stretching from Greece to Egypt to India — covering over 2 million square miles. He never lost a battle. Alexander founded over 70 cities, many named Alexandria after himself, including the famous Alexandria in Egypt, which became a center of learning with the ancient world's greatest library. Alexander spread Greek culture, language, and ideas throughout his empire, creating what historians call the Hellenistic Age. Greek language became the common language of trade and education across the region. Greek art, architecture, philosophy, and science blended with Eastern cultures, creating new ideas and achievements. Alexander died at age 32 from fever, and his empire was divided among his generals. But the cultural legacy he spread — the Hellenistic world — lasted for centuries.",
+            "examples": [
+              {"problem": "How large was Alexander's empire?", "answer": "It stretched from Greece to Egypt to India, covering over 2 million square miles.", "explanation": "In just 13 years, Alexander conquered an enormous territory, never losing a single battle."},
+              {"problem": "What was the Hellenistic Age?", "answer": "The period after Alexander's conquests when Greek culture spread and blended with Eastern cultures across a vast region.", "explanation": "The word 'Hellenistic' comes from 'Hellene,' meaning Greek. This era saw Greek ideas influence art, science, and philosophy throughout the Middle East and beyond."}
+            ],
+            "key_vocabulary": ["Alexander the Great", "Macedonia", "empire", "Hellenistic", "Alexandria", "conquest", "legacy", "Persian Empire"],
+            "real_world": "The Library of Alexandria, in the city Alexander founded, was the ancient world's greatest center of learning. The idea of great libraries as centers of knowledge continues today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who tutored Alexander the Great?", "options": ["Socrates", "Plato", "Aristotle", "Homer"], "correct": 2, "hint": "This philosopher was the greatest mind of his era."},
+            {"type": "fill_in", "question": "Alexander's empire stretched from Greece to Egypt to ___.", "answer": "India", "hint": "This Asian country was the easternmost extent of his conquests."},
+            {"type": "true_false", "question": "Alexander the Great lost several major battles.", "answer": false, "hint": "He was known for his undefeated military record."},
+            {"type": "multiple_choice", "question": "What was the Hellenistic Age?", "options": ["A period of Greek isolation", "A period when Greek culture spread across a vast region", "The end of Greek civilization", "A period of peace in Greece"], "correct": 1, "hint": "Alexander's conquests spread Greek language, art, and ideas."},
+            {"type": "true_false", "question": "Alexandria in Egypt had the ancient world's greatest library.", "answer": true, "hint": "This library was one of the most important centers of learning in the ancient world."},
+            {"type": "multiple_choice", "question": "How old was Alexander when he died?", "options": ["22", "32", "42", "52"], "correct": 1, "hint": "He accomplished his conquests at a remarkably young age."},
+            {"type": "fill_in", "question": "After Alexander's death, his empire was divided among his ___.", "answer": "generals", "hint": "These military leaders each took control of different parts of the empire."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Why did Greece develop as city-states?", "options": ["The king ordered it", "Mountainous terrain separated communities", "They did not like each other", "It was too hot"], "correct": 1},
+          {"type": "true_false", "question": "Athens is considered the birthplace of democracy.", "answer": true},
+          {"type": "multiple_choice", "question": "What teaching method did Socrates use?", "options": ["Lecturing", "Memorization", "Asking probing questions", "Reading aloud"], "correct": 2},
+          {"type": "fill_in", "question": "___ was the king of the Greek gods.", "answer": "Zeus", "hint": ""},
+          {"type": "true_false", "question": "Alexander the Great never lost a battle.", "answer": true},
+          {"type": "multiple_choice", "question": "Who is the 'Father of Medicine'?", "options": ["Aristotle", "Hippocrates", "Socrates", "Alexander"], "correct": 1},
+          {"type": "multiple_choice", "question": "What was the Hellenistic Age?", "options": ["A period of Greek culture spreading widely", "The founding of Athens", "The Olympic Games", "A dark age"], "correct": 0},
+          {"type": "true_false", "question": "Only adult male citizens could vote in Athenian democracy.", "answer": true},
+          {"type": "multiple_choice", "question": "The Parthenon was dedicated to which goddess?", "options": ["Hera", "Aphrodite", "Athena", "Artemis"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "greek_wisdom_seeker"
+      }
+    },
+    {
+      "id": "6-ss-3",
+      "title": "Ancient Rome",
+      "description": "Discover the rise and fall of ancient Rome, from a small city-state to a vast empire, including Roman government, engineering, law, and lasting influence on the modern world.",
+      "lessons": [
+        {
+          "id": "6-ss-3-1",
+          "title": "The Roman Republic",
+          "type": "lesson",
+          "content": {
+            "explanation": "According to legend, Rome was founded in 753 BCE by twin brothers Romulus and Remus, who were raised by a wolf. In reality, Rome grew from a small settlement on the Tiber River in central Italy into one of history's greatest civilizations. In 509 BCE, the Romans overthrew their king and established a republic — a government in which citizens elect representatives to make decisions on their behalf. The Roman Republic had a complex government with checks and balances. Two consuls served as the leaders and could veto each other. The Senate, made up of wealthy patricians (upper-class citizens), advised the consuls and controlled finances. The Assembly represented the common people, called plebeians. Over time, plebeians gained more rights, including the ability to elect tribunes who could veto actions harmful to the common people. Roman law was written down in the Twelve Tables around 450 BCE, establishing the idea that laws should apply to everyone, not just be decided by rulers on a whim. The Roman Republic lasted nearly 500 years and became the most powerful state in the Mediterranean world.",
+            "examples": [
+              {"problem": "What is a republic?", "answer": "A government in which citizens elect representatives to make decisions on their behalf.", "explanation": "Unlike Athens' direct democracy, Rome's republic used elected officials — similar to the US government today."},
+              {"problem": "What were the Twelve Tables?", "answer": "Written Roman laws that established the principle that laws should apply to everyone equally.", "explanation": "By putting laws in writing, Rome ensured that even powerful people had to follow the rules."}
+            ],
+            "key_vocabulary": ["republic", "consul", "Senate", "patrician", "plebeian", "tribune", "Twelve Tables", "veto"],
+            "real_world": "The US government was directly inspired by the Roman Republic. Our Senate is named after Rome's Senate, and the concept of checks and balances came from how the Romans organized their government."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What type of government did Rome establish in 509 BCE?", "options": ["Monarchy", "Democracy", "Republic", "Dictatorship"], "correct": 2, "hint": "Citizens elected representatives to govern on their behalf."},
+            {"type": "fill_in", "question": "The two leaders of the Roman Republic were called ___.", "answer": "consuls", "hint": "There were two of them so they could check each other's power."},
+            {"type": "true_false", "question": "Patricians were common people in Rome.", "answer": false, "hint": "Patricians were the wealthy upper class; common people were called plebeians."},
+            {"type": "multiple_choice", "question": "What were the Twelve Tables?", "options": ["Dining furniture", "Written Roman laws", "Military formations", "Tax records"], "correct": 1, "hint": "These established the principle that laws should be written and apply to everyone."},
+            {"type": "true_false", "question": "The US Senate is named after Rome's Senate.", "answer": true, "hint": "The Founders were directly inspired by the Roman Republic."},
+            {"type": "multiple_choice", "question": "What was a tribune?", "options": ["A type of Roman soldier", "An elected representative who protected plebeians' rights", "A Roman emperor", "A type of building"], "correct": 1, "hint": "These officials could veto actions harmful to common people."},
+            {"type": "fill_in", "question": "Common people in Rome were called ___.", "answer": "plebeians", "hint": "They were the opposite of the wealthy patricians."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-3-2",
+          "title": "The Roman Empire",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Roman Republic eventually collapsed due to power struggles, civil wars, and ambitious leaders. Julius Caesar, a brilliant military general, conquered Gaul (modern France) and became increasingly powerful. In 49 BCE, he crossed the Rubicon River with his army, defying the Senate, and seized control of Rome. He became dictator but was assassinated by Senate members on March 15, 44 BCE (the Ides of March). After more civil wars, Caesar's adopted son Octavian defeated all rivals and in 27 BCE became Augustus Caesar, the first Roman emperor. Augustus ushered in the Pax Romana ('Roman Peace'), a 200-year period of relative peace and prosperity across the empire. At its height around 117 CE under Emperor Trajan, the Roman Empire stretched from Britain to the Middle East, encompassing the entire Mediterranean Sea. Over 60 million people lived under Roman rule. The empire was connected by an incredible network of roads ('All roads lead to Rome'), a common language (Latin), common laws, and a shared currency. The Roman military — the legions — maintained order throughout this vast territory.",
+            "examples": [
+              {"problem": "Who was the first Roman emperor?", "answer": "Augustus Caesar (Octavian), who came to power in 27 BCE.", "explanation": "Augustus transformed the Republic into an Empire and began a 200-year period of peace called the Pax Romana."},
+              {"problem": "What was the Pax Romana?", "answer": "A 200-year period of relative peace and prosperity across the Roman Empire, beginning with Augustus.", "explanation": "During this time, trade flourished, cities grew, and Roman culture spread throughout the empire."}
+            ],
+            "key_vocabulary": ["Julius Caesar", "Augustus", "emperor", "Pax Romana", "empire", "legion", "Ides of March", "dictator"],
+            "real_world": "The phrase 'crossing the Rubicon' still means making an irreversible decision, just as Caesar's crossing the river with his army was a point of no return."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who was the first Roman emperor?", "options": ["Julius Caesar", "Augustus Caesar", "Nero", "Trajan"], "correct": 1, "hint": "He was the adopted son of Julius Caesar."},
+            {"type": "fill_in", "question": "The Pax Romana means 'Roman ___' in Latin.", "answer": "Peace", "hint": "This was a 200-year period of stability and prosperity."},
+            {"type": "true_false", "question": "Julius Caesar was assassinated on the Ides of March.", "answer": true, "hint": "March 15, 44 BCE was a fateful day in Roman history."},
+            {"type": "multiple_choice", "question": "At its largest, how far did the Roman Empire stretch?", "options": ["Just Italy", "Italy and Greece", "From Britain to the Middle East", "Just the Mediterranean coast"], "correct": 2, "hint": "The empire encompassed the entire Mediterranean and beyond."},
+            {"type": "true_false", "question": "The Roman Empire had over 60 million people at its height.", "answer": true, "hint": "It was one of the largest empires in the ancient world."},
+            {"type": "multiple_choice", "question": "What connected the Roman Empire's vast territory?", "options": ["Airplanes", "An extensive road network", "Telephone lines", "Canals"], "correct": 1, "hint": "'All roads lead to Rome' is a famous saying about this network."},
+            {"type": "fill_in", "question": "Julius Caesar conquered ___ (modern France) before seizing power in Rome.", "answer": "Gaul", "hint": "This ancient name refers to the region that is now France."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-3-3",
+          "title": "Roman Engineering and Daily Life",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Romans were master engineers whose innovations still influence us today. They perfected the use of the arch, which allowed them to build stronger structures and bridges. They invented concrete, which was stronger and cheaper than stone and could even harden underwater. Roman aqueducts — bridge-like structures that carried water from distant sources into cities — provided clean water for drinking, bathing, and fountains. Some Roman aqueducts are still standing after 2,000 years. Roman roads were built to last: multiple layers of stone and gravel, raised in the middle for drainage, and often perfectly straight. Over 250,000 miles of roads connected the empire. The Colosseum in Rome, built around 80 CE, could seat 50,000 spectators for gladiator fights and other spectacles. Public bathhouses served as social centers where Romans bathed, exercised, and conducted business. Daily life in Rome varied by social class. Wealthy Romans lived in large houses called domus with gardens and mosaic floors. Poor Romans lived in multi-story apartment buildings called insulae that were often overcrowded and prone to fire.",
+            "examples": [
+              {"problem": "What were aqueducts?", "answer": "Structures that carried clean water from distant sources into Roman cities.", "explanation": "Roman engineers designed aqueducts using gravity to move water over miles of terrain, including bridges and tunnels."},
+              {"problem": "Why were Roman roads so important?", "answer": "They connected the empire, allowing troops, trade goods, and messages to move quickly.", "explanation": "The phrase 'All roads lead to Rome' reflects how the road network connected every corner of the empire to the capital."}
+            ],
+            "key_vocabulary": ["aqueduct", "arch", "concrete", "Colosseum", "gladiator", "engineering", "domus", "insulae"],
+            "real_world": "Roman concrete has lasted over 2,000 years — some modern concrete does not last even 100 years. Engineers today are studying Roman concrete to try to make our buildings last longer."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What Roman invention allowed stronger structures and bridges?", "options": ["The wheel", "The arch", "The crane", "The pulley"], "correct": 1, "hint": "This curved structural element distributes weight efficiently."},
+            {"type": "fill_in", "question": "Roman ___ carried clean water from distant sources into cities.", "answer": "aqueducts", "hint": "These bridge-like structures used gravity to transport water."},
+            {"type": "true_false", "question": "The Romans invented concrete.", "answer": true, "hint": "Their concrete was stronger than stone and could harden underwater."},
+            {"type": "multiple_choice", "question": "How many spectators could the Colosseum seat?", "options": ["10,000", "25,000", "50,000", "100,000"], "correct": 2, "hint": "This massive arena hosted gladiator fights and other events."},
+            {"type": "true_false", "question": "Roman roads were over 250,000 miles long throughout the empire.", "answer": true, "hint": "This extensive network connected every part of the empire."},
+            {"type": "multiple_choice", "question": "What were insulae?", "options": ["Public baths", "Government buildings", "Multi-story apartment buildings for poorer Romans", "Temples"], "correct": 2, "hint": "These were the opposite of the wealthy domus houses."},
+            {"type": "fill_in", "question": "Wealthy Romans lived in large houses called ___.", "answer": "domus", "hint": "This Latin word is the root of 'domestic.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-3-4",
+          "title": "The Fall of the Roman Empire",
+          "type": "lesson",
+          "content": {
+            "explanation": "The mighty Roman Empire did not fall overnight — it declined gradually over several centuries due to many factors. Political instability was a major problem: in one 50-year period, Rome had over 20 different emperors, many of whom were assassinated. The empire became too large to govern effectively, so Emperor Diocletian split it into the Western and Eastern Roman Empires in 285 CE. The economy weakened due to heavy taxation, inflation, and disrupted trade. The military struggled as well — Rome increasingly relied on mercenaries (hired foreign soldiers) who were less loyal than Roman citizens. Germanic tribes from northern Europe, pushed by the Huns migrating from Central Asia, began invading Roman territory. Groups like the Visigoths, Vandals, and Ostrogoths pushed into the Western Empire. In 410 CE, the Visigoths sacked (attacked and looted) Rome itself — a shocking event. Finally, in 476 CE, the last Western Roman emperor was overthrown by a Germanic chieftain, marking the traditional end of the Western Roman Empire. However, the Eastern Roman Empire (called the Byzantine Empire) continued for nearly another thousand years, until 1453 CE.",
+            "examples": [
+              {"problem": "Why did the Roman Empire fall?", "answer": "A combination of political instability, economic problems, military weakness, and invasions by Germanic tribes.", "explanation": "No single cause brought down Rome — it was a gradual decline caused by many interconnected problems."},
+              {"problem": "What was the Byzantine Empire?", "answer": "The Eastern Roman Empire, which continued for nearly 1,000 years after the Western Empire fell.", "explanation": "The Byzantine Empire preserved Roman and Greek culture, law, and learning throughout the Middle Ages."}
+            ],
+            "key_vocabulary": ["decline", "Germanic tribes", "Visigoths", "Byzantine Empire", "mercenary", "inflation", "political instability", "Diocletian"],
+            "real_world": "Historians still debate the causes of Rome's fall. Understanding why great civilizations decline can help modern nations avoid similar mistakes."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When did the Western Roman Empire fall?", "options": ["27 BCE", "285 CE", "410 CE", "476 CE"], "correct": 3, "hint": "The last Western emperor was overthrown in this year."},
+            {"type": "fill_in", "question": "Emperor ___ split the Roman Empire into Western and Eastern halves.", "answer": "Diocletian", "hint": "This emperor ruled around 285 CE."},
+            {"type": "true_false", "question": "The Roman Empire fell because of a single cause.", "answer": false, "hint": "Multiple factors contributed to Rome's gradual decline."},
+            {"type": "multiple_choice", "question": "What were mercenaries?", "options": ["Roman citizens", "Hired foreign soldiers", "Government officials", "Priests"], "correct": 1, "hint": "These hired soldiers were less loyal than native Roman troops."},
+            {"type": "true_false", "question": "The Eastern Roman Empire survived for nearly 1,000 years after the Western Empire fell.", "answer": true, "hint": "Known as the Byzantine Empire, it lasted until 1453 CE."},
+            {"type": "multiple_choice", "question": "Which group sacked Rome in 410 CE?", "options": ["Vandals", "Visigoths", "Huns", "Ostrogoths"], "correct": 1, "hint": "This Germanic tribe shocked the world by attacking Rome itself."},
+            {"type": "fill_in", "question": "The Eastern Roman Empire is also known as the ___ Empire.", "answer": "Byzantine", "hint": "This empire was centered on Constantinople (modern Istanbul)."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What type of government was the Roman Republic?", "options": ["Direct democracy", "Monarchy", "A government with elected representatives", "A military dictatorship"], "correct": 2},
+          {"type": "true_false", "question": "Augustus Caesar was the first Roman emperor.", "answer": true},
+          {"type": "multiple_choice", "question": "What was the Pax Romana?", "options": ["A type of food", "200 years of peace", "A battle", "A Roman law"], "correct": 1},
+          {"type": "fill_in", "question": "Roman ___ carried water from distant sources into cities.", "answer": "aqueducts", "hint": ""},
+          {"type": "true_false", "question": "The Romans invented concrete.", "answer": true},
+          {"type": "multiple_choice", "question": "When did the Western Roman Empire fall?", "options": ["27 BCE", "285 CE", "410 CE", "476 CE"], "correct": 3},
+          {"type": "multiple_choice", "question": "What were the written laws of Rome called?", "options": ["The Constitution", "The Bill of Rights", "The Twelve Tables", "Hammurabi's Code"], "correct": 2},
+          {"type": "true_false", "question": "Julius Caesar was assassinated by members of the Senate.", "answer": true},
+          {"type": "multiple_choice", "question": "The Byzantine Empire was the continuation of which part of Rome?", "options": ["Western", "Northern", "Southern", "Eastern"], "correct": 3}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "roman_empire_master"
+      }
+    },
+    {
+      "id": "6-ss-4",
+      "title": "Ancient India & China",
+      "description": "Explore the great ancient civilizations of India and China, their philosophies, inventions, achievements, and lasting influences on the world.",
+      "lessons": [
+        {
+          "id": "6-ss-4-1",
+          "title": "Ancient India: The Indus Valley and Beyond",
+          "type": "lesson",
+          "content": {
+            "explanation": "One of the world's earliest civilizations arose in the Indus River Valley (in present-day Pakistan and northwestern India) around 2600 BCE. The Indus Valley Civilization included the remarkable cities of Mohenjo-daro and Harappa, which showed incredible urban planning. Streets were laid out in a grid pattern, and buildings were made of uniform bricks. Most impressively, these cities had sophisticated drainage and sewer systems — some of the earliest in the world. The civilization mysteriously declined around 1900 BCE, possibly due to drought, flooding, or invasion. Around 1500 BCE, the Indo-Aryan people migrated into northern India, bringing the Sanskrit language and the religious texts called the Vedas, which formed the foundation of Hinduism. Over time, Indian society developed a rigid social system called the caste system, which divided people into four main classes: Brahmins (priests and scholars), Kshatriyas (warriors and rulers), Vaishyas (merchants and farmers), and Shudras (laborers and servants). Below these were the 'untouchables,' who performed the lowest tasks. The caste system determined a person's occupation, social status, and whom they could marry.",
+            "examples": [
+              {"problem": "What was remarkable about the cities of Mohenjo-daro and Harappa?", "answer": "They had sophisticated urban planning with grid-pattern streets, uniform bricks, and advanced drainage and sewer systems.", "explanation": "These cities showed a level of planning and engineering that was far ahead of most other civilizations of the same era."},
+              {"problem": "What was the caste system?", "answer": "A rigid social hierarchy that divided Indian society into classes, determining a person's occupation and social status from birth.", "explanation": "The caste system restricted social mobility — people were born into their caste and could not change it."}
+            ],
+            "key_vocabulary": ["Indus Valley", "Mohenjo-daro", "Harappa", "Sanskrit", "Vedas", "Hinduism", "caste system", "Brahmins"],
+            "real_world": "India officially outlawed caste-based discrimination in 1950, but the effects of the caste system can still be felt in Indian society today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did one of the world's earliest civilizations develop?", "options": ["The Nile Valley", "The Indus Valley", "The Mississippi Valley", "The Amazon Valley"], "correct": 1, "hint": "This river valley is in present-day Pakistan and India."},
+            {"type": "fill_in", "question": "The cities of Mohenjo-daro and ___ showed remarkable urban planning.", "answer": "Harappa", "hint": "This ancient city gives its name to the Harappan civilization."},
+            {"type": "true_false", "question": "The Indus Valley cities had advanced sewer systems.", "answer": true, "hint": "Their drainage engineering was far ahead of other civilizations."},
+            {"type": "multiple_choice", "question": "What were the Vedas?", "options": ["Law codes", "Religious texts that formed the basis of Hinduism", "Scientific books", "Maps"], "correct": 1, "hint": "These ancient texts were written in Sanskrit."},
+            {"type": "true_false", "question": "The caste system allowed people to easily change their social class.", "answer": false, "hint": "The system was rigid — people were born into their caste."},
+            {"type": "multiple_choice", "question": "Who were at the top of the caste system?", "options": ["Warriors", "Merchants", "Brahmins (priests)", "Laborers"], "correct": 2, "hint": "Religious leaders held the highest social position."},
+            {"type": "fill_in", "question": "The ___ system divided Indian society into rigid social classes.", "answer": "caste", "hint": "This system determined a person's occupation and social status from birth."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-4-2",
+          "title": "Ancient China: Dynasties and the Great Wall",
+          "type": "lesson",
+          "content": {
+            "explanation": "Chinese civilization developed along the Yellow (Huang He) and Yangtze rivers, with the first dynasty — the Shang — emerging around 1600 BCE. China's history is organized into dynasties — families that ruled for generations. The Shang dynasty is known for bronze working and the first Chinese writing (oracle bones). The Zhou dynasty (1046-256 BCE) introduced the concept of the Mandate of Heaven — the idea that the emperor's right to rule came from heaven, and an unjust ruler could lose that right. The Qin dynasty (221-206 BCE), led by Emperor Qin Shi Huang, unified China for the first time. Qin Shi Huang standardized weights, measures, currency, and writing across China. He also began construction of the Great Wall of China, connecting existing walls to protect against northern invaders. The wall would eventually stretch over 13,000 miles. Qin Shi Huang's tomb contains the famous Terracotta Army — thousands of life-sized clay soldiers buried to protect him in the afterlife. The Han dynasty (206 BCE-220 CE) that followed is considered a golden age, expanding the empire and opening the Silk Road trade routes to the West.",
+            "examples": [
+              {"problem": "What was the Mandate of Heaven?", "answer": "The belief that the emperor's right to rule came from heaven, and an unjust ruler could lose that right.", "explanation": "This concept justified both the ruling dynasty's power and the right of the people to overthrow an unjust ruler."},
+              {"problem": "Why was the Great Wall of China built?", "answer": "To protect China from northern invaders by connecting and extending existing defensive walls.", "explanation": "The wall was begun by Qin Shi Huang and was expanded by later dynasties over thousands of years."}
+            ],
+            "key_vocabulary": ["dynasty", "Mandate of Heaven", "Qin Shi Huang", "Great Wall of China", "Terracotta Army", "Silk Road", "Han dynasty", "oracle bones"],
+            "real_world": "The Great Wall of China is one of the most iconic structures ever built. Stretching over 13,000 miles, it is a UNESCO World Heritage Site visited by millions of people each year."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a dynasty?", "options": ["A type of building", "A ruling family that maintains power for generations", "A military unit", "A religious group"], "correct": 1, "hint": "Chinese history is organized into these family-based ruling periods."},
+            {"type": "fill_in", "question": "Emperor ___ Shi Huang unified China and began building the Great Wall.", "answer": "Qin", "hint": "This emperor's dynasty gives China its name."},
+            {"type": "true_false", "question": "The Great Wall of China stretches over 13,000 miles.", "answer": true, "hint": "It was built over many centuries by multiple dynasties."},
+            {"type": "multiple_choice", "question": "What was the Mandate of Heaven?", "options": ["A treaty with other countries", "The belief that the emperor's right to rule came from heaven", "A Chinese holiday", "A type of writing"], "correct": 1, "hint": "This concept also justified overthrowing unjust rulers."},
+            {"type": "true_false", "question": "The Terracotta Army consists of thousands of life-sized clay soldiers.", "answer": true, "hint": "They were buried with Qin Shi Huang to protect him in the afterlife."},
+            {"type": "multiple_choice", "question": "Which dynasty is considered a golden age and opened the Silk Road?", "options": ["Shang", "Zhou", "Qin", "Han"], "correct": 3, "hint": "This dynasty followed the Qin and lasted over 400 years."},
+            {"type": "fill_in", "question": "Chinese civilization developed along the Yellow and ___ rivers.", "answer": "Yangtze", "hint": "This is the longest river in Asia."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-4-3",
+          "title": "Hinduism and Buddhism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two of the world's major religions originated in ancient India. Hinduism is one of the world's oldest religions, developing gradually from the Vedas and other ancient texts. Hindus believe in Brahman, a supreme spirit that takes many forms. They worship many gods, including Brahma (the creator), Vishnu (the preserver), and Shiva (the destroyer). Key Hindu beliefs include dharma (moral duty), karma (the idea that actions have consequences), and reincarnation (the soul being reborn in a new body after death). The cycle of birth, death, and rebirth continues until the soul achieves moksha (liberation). Buddhism was founded by Siddhartha Gautama, who became known as the Buddha ('the enlightened one') around 500 BCE. Born a wealthy prince, he left his palace to understand human suffering. After years of meditation, he discovered the Four Noble Truths: life involves suffering, suffering is caused by desire, suffering can end, and the path to ending suffering is the Eightfold Path (right understanding, intention, speech, action, livelihood, effort, mindfulness, and concentration). Buddhism spread from India throughout Asia and eventually around the world.",
+            "examples": [
+              {"problem": "What is karma?", "answer": "The Hindu and Buddhist belief that a person's actions have consequences that affect their current and future lives.", "explanation": "Good actions bring good karma, and bad actions bring bad karma, affecting one's reincarnation."},
+              {"problem": "Who was the Buddha?", "answer": "Siddhartha Gautama, an Indian prince who left his life of luxury to find the cause of and solution to human suffering.", "explanation": "After years of meditation, he achieved enlightenment and spent the rest of his life teaching others."}
+            ],
+            "key_vocabulary": ["Hinduism", "Buddhism", "karma", "reincarnation", "dharma", "moksha", "Buddha", "Four Noble Truths", "Eightfold Path"],
+            "real_world": "Hinduism has about 1.2 billion followers worldwide, and Buddhism has about 500 million. Concepts like karma and mindfulness (from the Eightfold Path) have entered everyday language around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did both Hinduism and Buddhism originate?", "options": ["China", "Egypt", "India", "Greece"], "correct": 2, "hint": "Both religions developed in the same ancient civilization."},
+            {"type": "fill_in", "question": "The belief that actions have consequences is called ___.", "answer": "karma", "hint": "Good actions bring good results; bad actions bring bad results."},
+            {"type": "true_false", "question": "Siddhartha Gautama was born a poor farmer.", "answer": false, "hint": "He was born into a very different social class."},
+            {"type": "multiple_choice", "question": "What are the Four Noble Truths about?", "options": ["The creation of the world", "The nature of suffering and how to overcome it", "The rules of government", "The history of India"], "correct": 1, "hint": "The Buddha taught these truths about the human condition."},
+            {"type": "true_false", "question": "Hindus believe in reincarnation — the soul being reborn after death.", "answer": true, "hint": "This cycle continues until the soul achieves moksha."},
+            {"type": "multiple_choice", "question": "What is dharma in Hinduism?", "options": ["A type of food", "Moral duty", "A god", "A holiday"], "correct": 1, "hint": "This concept guides how Hindus should live their lives."},
+            {"type": "fill_in", "question": "The ___ Path is the Buddhist path to ending suffering.", "answer": "Eightfold", "hint": "This path has eight parts, including right speech and right action."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-4-4",
+          "title": "Confucianism and Chinese Inventions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ancient China produced influential philosophies and groundbreaking inventions. Confucius (551-479 BCE) was a Chinese philosopher whose ideas profoundly shaped Chinese society. Confucianism emphasizes five key relationships: ruler and subject, father and son, husband and wife, older brother and younger brother, and friend and friend. In each relationship, both people have duties to fulfill. Confucius taught that respect for elders, education, and moral behavior were the keys to a harmonious society. His teachings were collected in the Analects. Another Chinese philosophy, Daoism (Taoism), founded by Laozi, taught that people should live in harmony with nature and follow the Dao (the Way). Ancient Chinese inventions changed the world. Paper was invented around 105 CE, making writing and record-keeping much easier. Gunpowder, invented around the 9th century, was initially used for fireworks. The magnetic compass, developed for navigation, transformed exploration. Block printing and later movable type made it possible to produce books more quickly. Silk production was a closely guarded secret for centuries, making Chinese silk one of the most valuable trade goods on the Silk Road.",
+            "examples": [
+              {"problem": "What did Confucius teach?", "answer": "The importance of respect for elders, education, moral behavior, and fulfilling duties in key relationships.", "explanation": "Confucius believed that if everyone fulfilled their duties in their relationships, society would be harmonious and orderly."},
+              {"problem": "Name four major Chinese inventions.", "answer": "Paper, gunpowder, the magnetic compass, and printing.", "explanation": "These 'Four Great Inventions' of China changed the course of world history."}
+            ],
+            "key_vocabulary": ["Confucius", "Confucianism", "Daoism", "Analects", "paper", "gunpowder", "compass", "Silk Road"],
+            "real_world": "Paper, gunpowder, the compass, and printing — all invented in ancient China — are considered four of the most important inventions in human history. We still use all of them (or their descendants) today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did Confucius emphasize as keys to a good society?", "options": ["Military power", "Wealth and trade", "Respect, education, and moral behavior", "Religious worship"], "correct": 2, "hint": "Confucius focused on relationships and personal virtue."},
+            {"type": "fill_in", "question": "The teachings of Confucius were collected in the ___.", "answer": "Analects", "hint": "This book contains sayings and ideas attributed to Confucius."},
+            {"type": "true_false", "question": "Gunpowder was invented in ancient China.", "answer": true, "hint": "It was initially used for fireworks before being adapted for weapons."},
+            {"type": "multiple_choice", "question": "What did Daoism teach?", "options": ["People should conquer nature", "People should live in harmony with nature", "People should focus on military strength", "People should accumulate wealth"], "correct": 1, "hint": "Daoism is about following the natural way of things."},
+            {"type": "true_false", "question": "Paper was invented in ancient Egypt.", "answer": false, "hint": "Egypt had papyrus, but paper was a different Chinese invention."},
+            {"type": "multiple_choice", "question": "What valuable Chinese product was traded on the Silk Road?", "options": ["Spices", "Gold", "Silk", "Diamonds"], "correct": 2, "hint": "The trade route was named after this luxury fabric."},
+            {"type": "fill_in", "question": "The magnetic ___ was a Chinese invention that transformed navigation.", "answer": "compass", "hint": "This device always points north and helped explorers find their way."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Where did the Indus Valley Civilization develop?", "options": ["China", "Egypt", "Present-day Pakistan and India", "Greece"], "correct": 2},
+          {"type": "true_false", "question": "The Great Wall of China stretches over 13,000 miles.", "answer": true},
+          {"type": "multiple_choice", "question": "What is karma?", "options": ["A type of food", "The belief that actions have consequences", "A Hindu god", "A Chinese dynasty"], "correct": 1},
+          {"type": "fill_in", "question": "The ___ of Heaven was the Chinese belief about the emperor's right to rule.", "answer": "Mandate", "hint": ""},
+          {"type": "true_false", "question": "Confucius taught about the importance of respect and moral behavior.", "answer": true},
+          {"type": "multiple_choice", "question": "Who founded Buddhism?", "options": ["Confucius", "Laozi", "Siddhartha Gautama", "Qin Shi Huang"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which is NOT one of China's Four Great Inventions?", "options": ["Paper", "Gunpowder", "Telescope", "Compass"], "correct": 2},
+          {"type": "true_false", "question": "The caste system allowed social mobility in ancient India.", "answer": false}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "eastern_civilizations_expert"
+      }
+    },
+    {
+      "id": "6-ss-5",
+      "title": "The Medieval World",
+      "description": "Explore the Middle Ages in Europe, including feudalism, castles and knights, the role of the Catholic Church, and how medieval society worked.",
+      "lessons": [
+        {
+          "id": "6-ss-5-1",
+          "title": "The Fall of Rome and the Middle Ages",
+          "type": "lesson",
+          "content": {
+            "explanation": "After the fall of the Western Roman Empire in 476 CE, Europe entered a period known as the Middle Ages (also called the Medieval Period), lasting roughly from 500 to 1500 CE. Without a strong central government, Europe fragmented into many small kingdoms and territories. Trade declined, cities shrank, and many Roman achievements in learning, engineering, and government were lost or forgotten. The early Middle Ages (roughly 500-1000 CE) are sometimes called the 'Dark Ages,' though many historians avoid this term because important developments still occurred. Germanic kingdoms like the Franks, Angles, and Saxons established new realms. Charlemagne (Charles the Great), king of the Franks, briefly united much of Western Europe around 800 CE and was crowned Holy Roman Emperor by the Pope. He promoted education and preserved Roman and Christian learning. After Charlemagne's death, his empire divided, and Europe again fragmented. Viking raiders from Scandinavia attacked coastal settlements, spreading fear. Without strong kingdoms to protect them, people turned to local lords for safety, giving rise to the feudal system.",
+            "examples": [
+              {"problem": "What were the Middle Ages?", "answer": "The period of European history from roughly 500 to 1500 CE, between the fall of Rome and the Renaissance.", "explanation": "Europe was fragmented without strong central governments, and society organized around feudalism and the Catholic Church."},
+              {"problem": "Who was Charlemagne?", "answer": "King of the Franks who united much of Western Europe around 800 CE and was crowned Holy Roman Emperor.", "explanation": "Charlemagne promoted education and preserved Roman learning, but his empire divided after his death."}
+            ],
+            "key_vocabulary": ["Middle Ages", "Medieval", "Dark Ages", "Charlemagne", "Vikings", "Franks", "feudalism", "Holy Roman Emperor"],
+            "real_world": "Many European languages, borders, and cultural traditions trace back to the medieval period. The feudal system's legacy can still be seen in the castles, cathedrals, and old towns across Europe."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When did the Middle Ages begin?", "options": ["After Alexander the Great", "After the fall of Rome in 476 CE", "After Columbus's voyage", "After the American Revolution"], "correct": 1, "hint": "The Middle Ages followed the end of the Western Roman Empire."},
+            {"type": "fill_in", "question": "___ was the king of the Franks who united much of Western Europe.", "answer": "Charlemagne", "hint": "His name means 'Charles the Great.'"},
+            {"type": "true_false", "question": "Viking raiders came from Scandinavia.", "answer": true, "hint": "Scandinavia includes modern-day Norway, Sweden, and Denmark."},
+            {"type": "multiple_choice", "question": "Why did people turn to local lords for protection?", "options": ["Because they wanted to", "Because strong central governments had collapsed", "Because the Church told them to", "Because of earthquakes"], "correct": 1, "hint": "Without powerful kingdoms, people needed someone nearby to protect them."},
+            {"type": "true_false", "question": "Charlemagne's empire stayed united after his death.", "answer": false, "hint": "His empire was divided among his descendants."},
+            {"type": "multiple_choice", "question": "Roughly when did the Middle Ages end?", "options": ["1000 CE", "1200 CE", "1500 CE", "1776 CE"], "correct": 2, "hint": "The Renaissance period followed."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-5-2",
+          "title": "Feudalism and the Manor System",
+          "type": "lesson",
+          "content": {
+            "explanation": "Feudalism was the social and political system that organized medieval European society. At the top was the king, who owned all the land. The king granted large estates called fiefs to powerful nobles (lords and barons) in exchange for their loyalty and military service. These nobles, in turn, granted portions of their land to lesser nobles called knights, who pledged to fight for their lord. At the bottom were the peasants, most of whom were serfs — people bound to the land who could not leave without their lord's permission. Serfs were not enslaved, but they had very few freedoms. The manor was the basic economic unit of feudalism. A manor was a lord's estate, including the manor house, farmland, a village, a church, and common areas. Serfs worked the lord's fields and could farm small plots for themselves. In return, the lord provided protection and justice. Life for serfs was hard: they worked long hours, paid taxes to the lord, and gave a portion of their harvest to the Church. Social mobility was nearly nonexistent — a serf's children would almost certainly be serfs too.",
+            "examples": [
+              {"problem": "What was feudalism?", "answer": "A social and political system based on land ownership and loyalty, with the king at the top and serfs at the bottom.", "explanation": "Each level owed duties to the level above: military service from nobles and knights, labor from serfs."},
+              {"problem": "What was a manor?", "answer": "A lord's estate that served as the basic economic unit, including farmland, a village, and a church.", "explanation": "Manors were largely self-sufficient communities where most people lived their entire lives."}
+            ],
+            "key_vocabulary": ["feudalism", "fief", "noble", "knight", "serf", "manor", "lord", "vassal", "social mobility"],
+            "real_world": "The word 'feudal' is still used today to describe rigid, hierarchical systems. Many European castles and manor houses from this era are now museums or tourist attractions."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who was at the top of the feudal system?", "options": ["Knights", "Serfs", "The king", "Merchants"], "correct": 2, "hint": "This person owned all the land."},
+            {"type": "fill_in", "question": "A ___ was a grant of land given by a king to a noble.", "answer": "fief", "hint": "Nobles received these in exchange for loyalty and military service."},
+            {"type": "true_false", "question": "Serfs could freely leave the manor whenever they wanted.", "answer": false, "hint": "Serfs were bound to the land and needed permission to leave."},
+            {"type": "multiple_choice", "question": "What did knights provide in exchange for land?", "options": ["Food and crops", "Military service", "Religious guidance", "Trade goods"], "correct": 1, "hint": "Knights were warriors who fought for their lord."},
+            {"type": "true_false", "question": "A manor was a self-sufficient estate with farmland, a village, and a church.", "answer": true, "hint": "Most people on a manor rarely needed to go anywhere else."},
+            {"type": "multiple_choice", "question": "What was life like for serfs?", "options": ["Easy and comfortable", "Hard work with few freedoms", "Full of travel and adventure", "Focused on education"], "correct": 1, "hint": "Serfs worked the lord's land and had very limited rights."},
+            {"type": "fill_in", "question": "People bound to the land who worked for the lord were called ___.", "answer": "serfs", "hint": "They were not enslaved but had very few freedoms."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-5-3",
+          "title": "The Catholic Church in the Middle Ages",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Catholic Church was the most powerful institution in medieval Europe. After the fall of Rome, the Church provided stability and unity in a fragmented continent. Nearly everyone in Western Europe was Catholic, and the Church influenced every aspect of daily life — from birth to death. The Pope, based in Rome, was the head of the Church and was often more powerful than any king. Bishops and priests served in every community, and Church teachings guided people's moral and spiritual lives. The Church collected a tax called a tithe — one-tenth of a person's income or harvest. Monasteries were centers of learning where monks preserved ancient Roman and Greek texts by copying them by hand. Monks also developed farming techniques, created medicines, and educated young people. The Church could excommunicate people (cut them off from the Church), which was devastating in a deeply religious society. Magnificent cathedrals were built across Europe, taking decades or even centuries to complete. These structures, with their soaring towers, stained glass windows, and intricate sculptures, showcased the Church's wealth and the devotion of the people.",
+            "examples": [
+              {"problem": "Why was the Catholic Church so powerful in medieval Europe?", "answer": "Nearly everyone was Catholic, and the Church provided stability, education, and spiritual guidance after Rome fell.", "explanation": "The Pope could influence kings, and excommunication was one of the most feared punishments."},
+              {"problem": "What role did monasteries play?", "answer": "Monasteries were centers of learning where monks preserved ancient texts, developed farming techniques, and educated people.", "explanation": "Without monasteries, much of the knowledge from ancient Greece and Rome might have been lost forever."}
+            ],
+            "key_vocabulary": ["Catholic Church", "Pope", "monastery", "monk", "tithe", "excommunicate", "cathedral", "bishop"],
+            "real_world": "Many medieval cathedrals — like Notre-Dame in Paris and Canterbury Cathedral in England — still stand today, attracting millions of visitors who marvel at their beauty and engineering."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who was the head of the Catholic Church?", "options": ["The king", "The Pope", "The emperor", "The archbishop"], "correct": 1, "hint": "This religious leader was based in Rome."},
+            {"type": "fill_in", "question": "A ___ was a tax of one-tenth of a person's income paid to the Church.", "answer": "tithe", "hint": "This word comes from an old English word meaning 'tenth.'"},
+            {"type": "true_false", "question": "Monks in monasteries helped preserve ancient Greek and Roman texts.", "answer": true, "hint": "They copied texts by hand, keeping knowledge alive."},
+            {"type": "multiple_choice", "question": "What did excommunication mean?", "options": ["Being promoted in the Church", "Being cut off from the Church", "Being sent on a crusade", "Being given more land"], "correct": 1, "hint": "This was one of the most feared punishments in medieval society."},
+            {"type": "true_false", "question": "Medieval cathedrals were built quickly in just a few months.", "answer": false, "hint": "These massive structures often took decades or centuries to complete."},
+            {"type": "multiple_choice", "question": "What did monasteries serve as in the Middle Ages?", "options": ["Military forts", "Centers of learning and education", "Trade markets", "Royal palaces"], "correct": 1, "hint": "Monks studied, taught, and preserved knowledge."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-5-4",
+          "title": "Castles, Knights, and the Crusades",
+          "type": "lesson",
+          "content": {
+            "explanation": "Castles were the fortified homes of lords and served as military strongholds. Early castles were simple wooden structures on hills, but by the 1100s, massive stone castles with thick walls, towers, drawbridges, and moats dominated the landscape. Knights were mounted warriors who followed a code of behavior called chivalry, which required them to be brave, loyal, honorable, and protect the weak. Boys trained for years to become knights: first as pages (starting around age 7), then as squires (around age 14), before being formally knighted (around age 21). The Crusades were a series of military campaigns between 1096 and 1291 in which European Christians tried to capture the Holy Land (especially Jerusalem) from Muslim control. The Pope called for the First Crusade, and thousands of knights and common people marched to the Middle East. There were several Crusades over nearly 200 years. While the Crusaders ultimately failed to keep control of the Holy Land, the Crusades had lasting effects: they increased trade between Europe and the Middle East, introduced Europeans to new goods (spices, silk, sugar) and ideas (mathematics, medicine), and expanded knowledge of geography.",
+            "examples": [
+              {"problem": "What was chivalry?", "answer": "A code of behavior for knights that required bravery, loyalty, honor, and protecting the weak.", "explanation": "While the ideal of chivalry was not always followed in practice, it influenced European culture and literature."},
+              {"problem": "What were the Crusades?", "answer": "Military campaigns (1096-1291) in which European Christians tried to capture the Holy Land from Muslim control.", "explanation": "The Crusades had lasting effects on trade, culture, and the exchange of ideas between Europe and the Middle East."}
+            ],
+            "key_vocabulary": ["castle", "knight", "chivalry", "Crusades", "Holy Land", "page", "squire", "drawbridge", "moat"],
+            "real_world": "The word 'chivalry' is still used today to describe polite, honorable behavior. Many stories, movies, and games about knights, castles, and medieval quests are inspired by this era."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was chivalry?", "options": ["A type of weapon", "A code of behavior for knights", "A style of castle", "A religious ceremony"], "correct": 1, "hint": "This code required bravery, loyalty, and honor."},
+            {"type": "fill_in", "question": "The ___ were military campaigns to capture the Holy Land from Muslim control.", "answer": "Crusades", "hint": "These lasted from 1096 to 1291."},
+            {"type": "true_false", "question": "Boys could become knights immediately without any training.", "answer": false, "hint": "The path to knighthood took many years: page, squire, then knight."},
+            {"type": "multiple_choice", "question": "What lasting effect did the Crusades have?", "options": ["They ended all wars", "They increased trade between Europe and the Middle East", "They destroyed all castles", "They ended feudalism immediately"], "correct": 1, "hint": "Europeans were introduced to new goods and ideas from the Middle East."},
+            {"type": "true_false", "question": "Early castles were made of stone.", "answer": false, "hint": "The first castles were simpler structures made of a different material."},
+            {"type": "multiple_choice", "question": "At what age did boys typically begin training as pages?", "options": ["Age 3", "Age 7", "Age 14", "Age 21"], "correct": 1, "hint": "This was the first step on the long road to becoming a knight."},
+            {"type": "fill_in", "question": "A ___ was a water-filled trench around a castle for defense.", "answer": "moat", "hint": "This body of water made it harder for attackers to reach the castle walls."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "When were the Middle Ages?", "options": ["500 BCE - 1 CE", "1 CE - 500 CE", "500 CE - 1500 CE", "1500 CE - 2000 CE"], "correct": 2},
+          {"type": "true_false", "question": "Charlemagne united much of Western Europe around 800 CE.", "answer": true},
+          {"type": "multiple_choice", "question": "Who was at the bottom of the feudal system?", "options": ["Knights", "Nobles", "The king", "Serfs"], "correct": 3},
+          {"type": "fill_in", "question": "The ___ Church was the most powerful institution in medieval Europe.", "answer": "Catholic", "hint": ""},
+          {"type": "true_false", "question": "Monks helped preserve ancient texts in monasteries.", "answer": true},
+          {"type": "multiple_choice", "question": "What was a fief?", "options": ["A type of weapon", "A grant of land", "A religious text", "A type of castle"], "correct": 1},
+          {"type": "multiple_choice", "question": "What were the Crusades?", "options": ["Trade missions", "Military campaigns to the Holy Land", "Viking raids", "Farming techniques"], "correct": 1},
+          {"type": "true_false", "question": "Chivalry was a code of behavior for knights.", "answer": true},
+          {"type": "multiple_choice", "question": "What was a manor?", "options": ["A type of castle", "A lord's self-sufficient estate", "A church", "A market town"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "medieval_knight"
+      }
+    },
+    {
+      "id": "6-ss-6",
+      "title": "Early Trade Routes & World Religions",
+      "description": "Learn about the major trade routes that connected ancient civilizations and the world's major religions, understanding how trade and belief systems shaped human history.",
+      "lessons": [
+        {
+          "id": "6-ss-6-1",
+          "title": "The Silk Road",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Silk Road was not a single road but a network of trade routes stretching over 4,000 miles from China to the Mediterranean Sea. It got its name from Chinese silk, one of the most valuable goods traded along the route. The Silk Road flourished during the Han dynasty (206 BCE-220 CE) and continued for centuries. Merchants traded silk, spices, gold, precious stones, glass, paper, and many other goods. But the Silk Road carried more than just products — it also spread ideas, religions (Buddhism, Islam, and Christianity all traveled along the route), technologies (like papermaking and gunpowder), art styles, and even diseases. Travelers faced many dangers: bandits, harsh deserts like the Taklamakan and Gobi, freezing mountain passes, and extreme weather. Camel caravans were the main mode of transportation, as camels could survive long stretches without water. Most merchants did not travel the entire route. Instead, goods were passed from trader to trader through a series of market cities and oases. Cities like Samarkand, Kashgar, and Baghdad became wealthy trading centers where diverse cultures mixed.",
+            "examples": [
+              {"problem": "What was traded on the Silk Road?", "answer": "Silk, spices, gold, precious stones, glass, paper, and more — plus ideas, religions, and technologies.", "explanation": "The Silk Road was not just about commerce; it was the internet of the ancient world, connecting diverse civilizations."},
+              {"problem": "Why were camels important on the Silk Road?", "answer": "Camels could survive long stretches without water, making them ideal for crossing harsh deserts.", "explanation": "Camel caravans were the trucks of the ancient world, carrying goods across some of the most inhospitable terrain on Earth."}
+            ],
+            "key_vocabulary": ["Silk Road", "trade route", "caravan", "oasis", "merchant", "Samarkand", "cultural exchange", "Han dynasty"],
+            "real_world": "China's modern 'Belt and Road Initiative' is sometimes called the 'New Silk Road' because it aims to build trade connections across Asia and Europe, inspired by the ancient routes."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How long was the Silk Road?", "options": ["400 miles", "1,000 miles", "4,000 miles", "40,000 miles"], "correct": 2, "hint": "This network stretched from China all the way to the Mediterranean."},
+            {"type": "fill_in", "question": "The Silk Road got its name from Chinese ___, one of the most valuable traded goods.", "answer": "silk", "hint": "This luxury fabric was a closely guarded Chinese secret for centuries."},
+            {"type": "true_false", "question": "The Silk Road was a single, well-paved road.", "answer": false, "hint": "It was actually a network of multiple routes."},
+            {"type": "multiple_choice", "question": "What besides goods traveled along the Silk Road?", "options": ["Only people", "Ideas, religions, and technologies", "Only diseases", "Nothing else"], "correct": 1, "hint": "The Silk Road was a highway for cultural exchange."},
+            {"type": "true_false", "question": "Most merchants traveled the entire length of the Silk Road.", "answer": false, "hint": "Goods were typically passed from trader to trader through market cities."},
+            {"type": "multiple_choice", "question": "Why were camels used on the Silk Road?", "options": ["They were fast", "They could survive without water for long periods", "They were cheap", "They could fly"], "correct": 1, "hint": "The Silk Road crossed harsh deserts."},
+            {"type": "fill_in", "question": "Goods traveled by camel ___s along the Silk Road.", "answer": "caravan", "hint": "This word describes a group of travelers and pack animals moving together."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-6-2",
+          "title": "Maritime Trade Routes",
+          "type": "lesson",
+          "content": {
+            "explanation": "While the Silk Road crossed land, maritime (sea) trade routes also connected ancient civilizations. The Indian Ocean trade network was one of the most important, linking East Africa, the Middle East, India, Southeast Asia, and China. Monsoon winds — seasonal winds that change direction — allowed sailors to plan their voyages: traveling one direction in summer and returning in winter. Arab and Indian merchants were particularly skilled at navigating these routes. Goods like spices from India and Southeast Asia (pepper, cinnamon, cloves), gold and ivory from Africa, silk and porcelain from China, and incense from Arabia flowed along these maritime routes. The Mediterranean Sea was another hub of trade, connecting Europe, North Africa, and the Middle East. Phoenician traders from present-day Lebanon were among the first great Mediterranean merchants and even developed an alphabet to help with record-keeping — an alphabet that eventually evolved into the one you are reading now. Maritime trade allowed heavier goods to be transported more efficiently than overland routes, and port cities like Alexandria, Venice, and Calicut became wealthy centers of commerce.",
+            "examples": [
+              {"problem": "What are monsoon winds?", "answer": "Seasonal winds that change direction, allowing sailors to travel one way in summer and return in winter.", "explanation": "Monsoon winds made the Indian Ocean trade routes predictable and reliable for ancient sailors."},
+              {"problem": "Why was maritime trade important?", "answer": "Ships could carry heavier goods more efficiently than overland caravans, connecting distant civilizations.", "explanation": "Maritime routes complemented the Silk Road, creating a global trade network thousands of years ago."}
+            ],
+            "key_vocabulary": ["maritime", "monsoon", "Indian Ocean", "Mediterranean", "Phoenician", "port", "merchant", "commerce"],
+            "real_world": "Over 80 percent of world trade today still moves by sea. The ancient maritime routes laid the foundation for our modern global shipping network."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are monsoon winds?", "options": ["Constant winds from the north", "Seasonal winds that change direction", "Very strong hurricane winds", "Winds that only blow at night"], "correct": 1, "hint": "These winds change direction with the seasons."},
+            {"type": "fill_in", "question": "The ___ Ocean trade network connected East Africa, India, and China.", "answer": "Indian", "hint": "This ocean lies between Africa and Asia."},
+            {"type": "true_false", "question": "The Phoenicians developed an early alphabet.", "answer": true, "hint": "Their alphabet evolved into the one we use today."},
+            {"type": "multiple_choice", "question": "Why was maritime trade advantageous over land trade?", "options": ["It was always faster", "Ships could carry heavier goods more efficiently", "It was completely safe", "Land trade did not exist"], "correct": 1, "hint": "Ships can transport much more weight than camels."},
+            {"type": "true_false", "question": "The Phoenicians were from present-day Lebanon.", "answer": true, "hint": "They were among the first great Mediterranean traders."},
+            {"type": "multiple_choice", "question": "What was traded on the Indian Ocean routes?", "options": ["Only silk", "Spices, gold, ivory, silk, and porcelain", "Only gold", "Only food"], "correct": 1, "hint": "A wide variety of valuable goods traveled these routes."},
+            {"type": "fill_in", "question": "The ___ Sea was a major trade hub connecting Europe, North Africa, and the Middle East.", "answer": "Mediterranean", "hint": "This sea is surrounded by three continents."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-6-3",
+          "title": "Judaism, Christianity, and Islam",
+          "type": "lesson",
+          "content": {
+            "explanation": "Three of the world's major religions — Judaism, Christianity, and Islam — originated in the Middle East and share some common roots. They are called Abrahamic religions because they all trace their history back to the patriarch Abraham. Judaism is the oldest of the three, developing over 3,000 years ago among the ancient Israelites. Jews believe in one God (monotheism) and follow the Torah, the first five books of the Hebrew Bible. The Ten Commandments are central moral laws in Judaism. Christianity emerged from Judaism about 2,000 years ago, based on the teachings of Jesus of Nazareth, whom Christians believe is the Son of God. Christians follow the Bible, which includes both the Old Testament (shared with Judaism) and the New Testament (about Jesus and his followers). Christianity became the official religion of the Roman Empire in 380 CE and spread throughout Europe. Islam was founded by the Prophet Muhammad in Arabia around 610 CE. Muslims believe in one God (Allah) and follow the Quran, their holy book. The Five Pillars of Islam guide Muslim life: faith declaration, prayer five times daily, charity, fasting during Ramadan, and pilgrimage to Mecca. Islam spread rapidly across the Middle East, North Africa, and into Asia.",
+            "examples": [
+              {"problem": "What do Judaism, Christianity, and Islam have in common?", "answer": "They all originated in the Middle East, are monotheistic (believe in one God), and trace their roots to Abraham.", "explanation": "These Abrahamic religions share some historical figures and stories, though they have significant differences in beliefs and practices."},
+              {"problem": "What are the Five Pillars of Islam?", "answer": "Faith declaration (shahada), prayer, charity, fasting during Ramadan, and pilgrimage to Mecca.", "explanation": "These five practices guide the daily life and spiritual devotion of Muslims around the world."}
+            ],
+            "key_vocabulary": ["Judaism", "Christianity", "Islam", "monotheism", "Torah", "Bible", "Quran", "Abraham", "Five Pillars"],
+            "real_world": "Today, Christianity has about 2.4 billion followers, Islam about 1.9 billion, and Judaism about 15 million. Together, these three religions influence the lives of over half the world's population."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do Judaism, Christianity, and Islam share?", "options": ["They all worship many gods", "They all trace roots to Abraham and believe in one God", "They all originated in China", "They all follow the same holy book"], "correct": 1, "hint": "These three religions are called 'Abrahamic religions.'"},
+            {"type": "fill_in", "question": "The holy book of Islam is the ___.", "answer": "Quran", "hint": "Muslims believe this book contains the word of God as revealed to Muhammad."},
+            {"type": "true_false", "question": "Judaism is the oldest of the three Abrahamic religions.", "answer": true, "hint": "It developed over 3,000 years ago."},
+            {"type": "multiple_choice", "question": "Which religion is based on the teachings of Jesus?", "options": ["Judaism", "Islam", "Christianity", "Buddhism"], "correct": 2, "hint": "Jesus of Nazareth is central to this religion."},
+            {"type": "true_false", "question": "Monotheism means believing in many gods.", "answer": false, "hint": "'Mono' means one and 'theism' means belief in God."},
+            {"type": "multiple_choice", "question": "Who founded Islam?", "options": ["Jesus", "Abraham", "Muhammad", "Moses"], "correct": 2, "hint": "This prophet received revelations in Arabia around 610 CE."},
+            {"type": "fill_in", "question": "The first five books of the Hebrew Bible are called the ___.", "answer": "Torah", "hint": "This is the central sacred text of Judaism."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-ss-6-4",
+          "title": "How Trade and Religion Shaped the World",
+          "type": "lesson",
+          "content": {
+            "explanation": "Trade routes and religions worked together to shape the ancient and medieval world in powerful ways. Trade routes like the Silk Road and Indian Ocean networks did not just move goods — they spread religions across vast distances. Buddhism traveled from India to China, Korea, and Japan along the Silk Road. Islam spread through trade from Arabia to Southeast Asia, West Africa, and beyond. Christianity spread throughout the Roman Empire and later to the Americas. When traders arrived in new places, they brought their beliefs, customs, and languages with them. Trade cities became diverse centers where people of different religions and cultures lived side by side. This cultural exchange led to new ideas in art, science, architecture, and philosophy. For example, Islamic scholars preserved and expanded upon Greek and Roman knowledge in mathematics, astronomy, and medicine during Europe's Middle Ages. Hindu-Arabic numerals (the numbers 0-9 we use today) spread from India through the Islamic world to Europe via trade. Understanding how trade and religion interconnected helps us see that the world has been 'globalized' — connected across vast distances — for thousands of years.",
+            "examples": [
+              {"problem": "How did trade spread religion?", "answer": "When traders traveled to new places, they brought their beliefs and customs, introducing religions to new populations.", "explanation": "Buddhism, Islam, and Christianity all spread partly through trade networks connecting different civilizations."},
+              {"problem": "What are Hindu-Arabic numerals?", "answer": "The number system (0-9) we use today, which originated in India and spread through the Islamic world to Europe.", "explanation": "Without this number system, modern mathematics and science as we know them would not be possible."}
+            ],
+            "key_vocabulary": ["cultural exchange", "globalization", "Hindu-Arabic numerals", "Islamic scholars", "cultural diffusion", "diversity", "interconnected"],
+            "real_world": "The numbers you use every day (0, 1, 2, 3...) traveled from India to the Islamic world to Europe through trade routes. The global connections we see today through the internet and trade have ancient roots."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How did Buddhism spread from India to China?", "options": ["Through military conquest", "Along the Silk Road trade routes", "By boat across the Pacific", "Through television"], "correct": 1, "hint": "Trade routes carried ideas as well as goods."},
+            {"type": "fill_in", "question": "The numbers 0-9 we use today are called ___-Arabic numerals.", "answer": "Hindu", "hint": "This number system originated in India."},
+            {"type": "true_false", "question": "Islamic scholars preserved Greek and Roman knowledge during the Middle Ages.", "answer": true, "hint": "They translated, studied, and expanded upon ancient texts."},
+            {"type": "multiple_choice", "question": "What is cultural exchange?", "options": ["Trading money between countries", "The sharing of ideas, beliefs, and customs between cultures", "A type of school", "A government program"], "correct": 1, "hint": "When people from different cultures interact, they share much more than just goods."},
+            {"type": "true_false", "question": "The world has been connected across vast distances for thousands of years.", "answer": true, "hint": "Ancient trade routes created early forms of globalization."},
+            {"type": "multiple_choice", "question": "Which religion spread partly through Indian Ocean trade to Southeast Asia?", "options": ["Christianity", "Judaism", "Islam", "Hinduism and Buddhism"], "correct": 2, "hint": "Arab and Indian traders brought this religion to new regions."},
+            {"type": "fill_in", "question": "Islamic scholars made important advances in mathematics, astronomy, and ___.", "answer": "medicine", "hint": "They preserved and expanded knowledge in this field of healing."},
+            {"type": "true_false", "question": "Trade cities were diverse places where people of different cultures lived side by side.", "answer": true, "hint": "Major trading centers attracted people from many different backgrounds."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How long was the Silk Road network?", "options": ["400 miles", "1,000 miles", "4,000 miles", "40,000 miles"], "correct": 2},
+          {"type": "true_false", "question": "The Phoenicians developed an early alphabet.", "answer": true},
+          {"type": "multiple_choice", "question": "What are the Abrahamic religions?", "options": ["Hinduism, Buddhism, Confucianism", "Judaism, Christianity, Islam", "Daoism, Confucianism, Buddhism", "Christianity, Buddhism, Islam"], "correct": 1},
+          {"type": "fill_in", "question": "The numbers 0-9 are called Hindu-___ numerals.", "answer": "Arabic", "hint": ""},
+          {"type": "true_false", "question": "Monsoon winds helped sailors navigate the Indian Ocean.", "answer": true},
+          {"type": "multiple_choice", "question": "What did trade routes spread besides goods?", "options": ["Nothing else", "Ideas, religions, and technologies", "Only diseases", "Only people"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which is the oldest Abrahamic religion?", "options": ["Christianity", "Islam", "Judaism", "They are all the same age"], "correct": 2},
+          {"type": "true_false", "question": "Islamic scholars preserved Greek and Roman knowledge.", "answer": true},
+          {"type": "multiple_choice", "question": "What were the Five Pillars?", "options": ["Roman columns", "Greek temples", "Practices guiding Muslim life", "Egyptian pyramids"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "trade_routes_navigator"
+      }
+    }
+  ]
+}

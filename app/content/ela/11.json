@@ -1,0 +1,3093 @@
+{
+  "grade": 11,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "11-ela-1",
+      "title": "Anglo-Saxon and Medieval Literature",
+      "description": "Beowulf, Canterbury Tales, and the oral tradition.",
+      "lessons": [
+        {
+          "id": "11-ela-1-1",
+          "title": "The Epic Tradition and Beowulf",
+          "type": "lesson",
+          "content": {
+            "explanation": "Beowulf is the oldest surviving English epic poem (~1000 AD), written in Old English. It tells of a Geatish hero who defeats Grendel, Grendel's mother, and a dragon. Key features of epics: a hero of noble birth, supernatural elements, a vast setting, elevated language, and themes of good vs. evil. The poem reflects Anglo-Saxon values: loyalty, bravery, fame (reputation after death), and the concept of wyrd (fate).",
+            "examples": [
+              {
+                "problem": "What are the three monsters Beowulf fights?",
+                "answer": "Grendel, Grendel's mother, and a dragon",
+                "explanation": "Each battle escalates in difficulty and risk."
+              },
+              {
+                "problem": "What Anglo-Saxon value does Beowulf most embody?",
+                "answer": "Courage and loyalty to his lord",
+                "explanation": "A thane's duty to protect and serve."
+              },
+              {
+                "problem": "What is a kenning?",
+                "answer": "A compound metaphor (e.g., 'whale-road' for sea)",
+                "explanation": "Common in Anglo-Saxon poetry."
+              }
+            ],
+            "key_vocabulary": [
+              "epic",
+              "Beowulf",
+              "kenning",
+              "wyrd",
+              "Anglo-Saxon",
+              "thane",
+              "mead-hall",
+              "alliteration"
+            ],
+            "real_world": "Modern superhero stories follow the same epic hero pattern \u2014 ordinary people rising to extraordinary challenges."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Beowulf is written in:",
+              "options": [
+                "Modern English",
+                "Middle English",
+                "Old English",
+                "Latin"
+              ],
+              "correct": 2,
+              "hint": "~1000 AD."
+            },
+            {
+              "type": "fill_in",
+              "question": "A compound metaphor like 'whale-road' is called a ___",
+              "answer": "kenning",
+              "hint": "Anglo-Saxon poetic device."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Beowulf's first monster:",
+              "options": [
+                "Dragon",
+                "Grendel",
+                "Grendel's mother",
+                "Unferth"
+              ],
+              "correct": 1,
+              "hint": "Attacks Heorot."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Anglo-Saxon concept of fate is called ___",
+              "answer": "wyrd",
+              "hint": "Old English word."
+            },
+            {
+              "type": "fill_in",
+              "question": "Beowulf was originally written down, not spoken.",
+              "answer": "false",
+              "hint": "Oral tradition first."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Epics feature:",
+              "options": [
+                "Ordinary heroes",
+                "Supernatural elements",
+                "Modern settings",
+                "Simple language"
+              ],
+              "correct": 1,
+              "hint": "Gods, monsters, magic."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-1-2",
+          "title": "Anglo-Saxon Poetry and Elegies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Anglo-Saxon poetry uses alliteration (repeated initial consonants) instead of rhyme. A caesura (pause) divides each line. Elegies mourn loss: 'The Wanderer' laments a lost lord; 'The Seafarer' reflects on life's hardships. Themes: exile, transience of earthly things, and ubi sunt ('where are they now?'). The scop (poet) was an honored figure.",
+            "examples": [
+              {
+                "problem": "'The Wanderer' theme",
+                "answer": "Loss of lord, loneliness of exile",
+                "explanation": "Ubi sunt motif \u2014 'where has it gone?'"
+              },
+              {
+                "problem": "Alliteration example",
+                "answer": "'The sea surged and swelled'",
+                "explanation": "Repeated 's' sound."
+              },
+              {
+                "problem": "What is a caesura?",
+                "answer": "A pause in the middle of a line",
+                "explanation": "Separates two half-lines."
+              }
+            ],
+            "key_vocabulary": [
+              "elegy",
+              "alliteration",
+              "caesura",
+              "scop",
+              "ubi sunt",
+              "exile",
+              "transience"
+            ],
+            "real_world": "Modern song lyrics use alliteration heavily \u2014 it makes phrases memorable and musical."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Repeated initial consonant sounds = ___",
+              "answer": "alliteration",
+              "hint": "Sound device."
+            },
+            {
+              "type": "fill_in",
+              "question": "A pause in the middle of a poetic line = ___",
+              "answer": "caesura",
+              "hint": "Breaks the line in two."
+            },
+            {
+              "type": "fill_in",
+              "question": "An Anglo-Saxon poet was called a ___",
+              "answer": "scop",
+              "hint": "Honored storyteller."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'The Wanderer' is an example of:",
+              "options": [
+                "Epic",
+                "Elegy",
+                "Comedy",
+                "Satire"
+              ],
+              "correct": 1,
+              "hint": "Mourns loss."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Where are they now?' is the ___ sunt motif",
+              "answer": "ubi",
+              "hint": "Latin phrase."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Anglo-Saxon poetry primarily uses:",
+              "options": [
+                "Rhyme",
+                "Alliteration",
+                "Free verse",
+                "Haiku form"
+              ],
+              "correct": 1,
+              "hint": "Instead of rhyme."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-1-3",
+          "title": "Geoffrey Chaucer and The Canterbury Tales",
+          "type": "lesson",
+          "content": {
+            "explanation": "Chaucer (~1343-1400) wrote in Middle English. The Canterbury Tales features pilgrims traveling to Canterbury, each telling stories. A frame narrative connects the tales. Chaucer uses satire to critique the medieval Church and society. Characters include the Knight (ideal), Wife of Bath (feminist), Pardoner (corrupt), and others representing social classes.",
+            "examples": [
+              {
+                "problem": "What is a frame narrative?",
+                "answer": "A story within a story \u2014 the pilgrimage frames the tales",
+                "explanation": "The journey provides the structure."
+              },
+              {
+                "problem": "The Wife of Bath argues for...",
+                "answer": "Women's authority in marriage",
+                "explanation": "Proto-feminist figure."
+              },
+              {
+                "problem": "The Pardoner represents...",
+                "answer": "Corruption in the medieval Church",
+                "explanation": "Sells fake relics."
+              }
+            ],
+            "key_vocabulary": [
+              "frame narrative",
+              "satire",
+              "Middle English",
+              "pilgrimage",
+              "Canterbury",
+              "estates"
+            ],
+            "real_world": "Modern anthology TV shows (like Black Mirror) use frame narratives just like Chaucer did."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Chaucer wrote in ___ English",
+              "answer": "Middle",
+              "hint": "~1400 AD."
+            },
+            {
+              "type": "fill_in",
+              "question": "A story within a story is a ___ narrative",
+              "answer": "frame",
+              "hint": "Contains multiple tales."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Chaucer primarily uses:",
+              "options": [
+                "Tragedy",
+                "Satire",
+                "Horror",
+                "Romance"
+              ],
+              "correct": 1,
+              "hint": "Critiques society."
+            },
+            {
+              "type": "fill_in",
+              "question": "The pilgrims travel to ___",
+              "answer": "Canterbury",
+              "hint": "Canterbury Cathedral."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which character represents Church corruption?",
+              "options": [
+                "Knight",
+                "Pardoner",
+                "Wife of Bath",
+                "Squire"
+              ],
+              "correct": 1,
+              "hint": "Sells fake forgiveness."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Canterbury Tales is written in Old English.",
+              "answer": "false",
+              "hint": "Middle English."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-1-4",
+          "title": "Medieval Literature: Romance and Allegory",
+          "type": "lesson",
+          "content": {
+            "explanation": "Medieval romance: tales of knights, chivalry, courtly love, quests (e.g., Sir Gawain and the Green Knight, King Arthur legends). Allegory: a narrative where characters/events represent abstract ideas (e.g., Everyman \u2014 characters named Death, Knowledge, Good Deeds). Morality plays taught religious lessons. Mystery plays dramatized Bible stories.",
+            "examples": [
+              {
+                "problem": "Sir Gawain and the Green Knight genre",
+                "answer": "Medieval romance",
+                "explanation": "Chivalry, quests, supernatural tests."
+              },
+              {
+                "problem": "In Everyman, what character represents doing good?",
+                "answer": "Good Deeds",
+                "explanation": "Allegorical name = abstract concept."
+              },
+              {
+                "problem": "Courtly love",
+                "answer": "Idealized, often unrequited love for a noblewoman",
+                "explanation": "Knight serves a lady from afar."
+              }
+            ],
+            "key_vocabulary": [
+              "romance",
+              "chivalry",
+              "courtly love",
+              "allegory",
+              "morality play",
+              "quest"
+            ],
+            "real_world": "The Harry Potter series is a modern quest narrative \u2014 the hero's journey from ignorance to knowledge."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Medieval ___ features knights, quests, and chivalry",
+              "answer": "romance",
+              "hint": "Literary genre."
+            },
+            {
+              "type": "fill_in",
+              "question": "A story where characters represent ideas is an ___",
+              "answer": "allegory",
+              "hint": "Abstract concepts personified."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Everyman is a:",
+              "options": [
+                "Romance",
+                "Tragedy",
+                "Morality play",
+                "Comedy"
+              ],
+              "correct": 2,
+              "hint": "Teaches moral lessons."
+            },
+            {
+              "type": "fill_in",
+              "question": "Idealized love from afar = ___ love",
+              "answer": "courtly",
+              "hint": "Knight serves a lady."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "King Arthur legends are:",
+              "options": [
+                "Epics",
+                "Romances",
+                "Elegies",
+                "Satires"
+              ],
+              "correct": 1,
+              "hint": "Knights, quests, chivalry."
+            },
+            {
+              "type": "fill_in",
+              "question": "Morality plays taught ___ lessons",
+              "answer": "religious",
+              "hint": "Medieval moral instruction."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-1-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "A compound metaphor like 'whale-road' = ___",
+            "answer": "kenning"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Beowulf is in:",
+            "options": [
+              "Old English",
+              "Middle English",
+              "Modern English",
+              "Latin"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "Chaucer wrote The ___ Tales",
+            "answer": "Canterbury"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A story representing abstract ideas:",
+            "options": [
+              "Allegory",
+              "Romance",
+              "Elegy",
+              "Epic"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "Anglo-Saxon poetry uses ___ instead of rhyme",
+            "answer": "alliteration"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "medieval_literature_master"
+      }
+    },
+    {
+      "id": "11-ela-2",
+      "title": "Shakespeare",
+      "description": "Sonnets, major plays, dramatic conventions, and Elizabethan theater.",
+      "lessons": [
+        {
+          "id": "11-ela-2-1",
+          "title": "Shakespeare's Sonnets",
+          "type": "lesson",
+          "content": {
+            "explanation": "Shakespeare wrote 154 sonnets. Structure: 3 quatrains + 1 couplet (ABAB CDCD EFEF GG). 14 lines, iambic pentameter (10 syllables: da-DUM \u00d7 5). Themes: love, beauty, time, mortality. The volta (turn) often occurs at line 9 or the couplet. Sonnet 18 ('Shall I compare thee to a summer's day?') and Sonnet 130 ('My mistress' eyes are nothing like the sun') are famous examples.",
+            "examples": [
+              {
+                "problem": "Shakespearean sonnet structure",
+                "answer": "3 quatrains + couplet, ABAB CDCD EFEF GG",
+                "explanation": "14 lines total."
+              },
+              {
+                "problem": "Iambic pentameter",
+                "answer": "da-DUM da-DUM da-DUM da-DUM da-DUM",
+                "explanation": "5 iambic feet per line."
+              },
+              {
+                "problem": "Sonnet 18 theme",
+                "answer": "Love and art conquer time",
+                "explanation": "'So long as men can breathe...' preserves beauty in verse."
+              }
+            ],
+            "key_vocabulary": [
+              "sonnet",
+              "quatrain",
+              "couplet",
+              "iambic pentameter",
+              "volta",
+              "rhyme scheme"
+            ],
+            "real_world": "Modern song lyrics often use the same rhythmic patterns Shakespeare mastered 400 years ago."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "A Shakespearean sonnet has ___ lines",
+              "answer": "14",
+              "hint": "3 quatrains + 1 couplet."
+            },
+            {
+              "type": "fill_in",
+              "question": "Iambic pentameter has ___ syllables per line",
+              "answer": "10",
+              "hint": "5 feet \u00d7 2 syllables."
+            },
+            {
+              "type": "fill_in",
+              "question": "The final two rhyming lines are the ___",
+              "answer": "couplet",
+              "hint": "GG ending."
+            },
+            {
+              "type": "fill_in",
+              "question": "The 'turn' or shift in a sonnet is called the ___",
+              "answer": "volta",
+              "hint": "Italian for 'turn'."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Rhyme scheme of Shakespeare's sonnets:",
+              "options": [
+                "ABBA ABBA",
+                "ABAB CDCD EFEF GG",
+                "AABB CCDD",
+                "No rhyme"
+              ],
+              "correct": 1,
+              "hint": "Three quatrains + couplet."
+            },
+            {
+              "type": "fill_in",
+              "question": "Shakespeare wrote ___ sonnets",
+              "answer": "154",
+              "hint": "Sonnet sequence."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-2-2",
+          "title": "Hamlet and Tragedy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Hamlet (~1600): a prince seeking revenge for his father's murder by his uncle Claudius. Themes: revenge, indecision, mortality ('To be or not to be'), appearance vs. reality. Tragic hero: noble character with a tragic flaw (hamartia) \u2014 Hamlet's is indecision/overthinking. Soliloquy: character speaks thoughts aloud alone on stage.",
+            "examples": [
+              {
+                "problem": "Hamlet's tragic flaw",
+                "answer": "Indecision \u2014 he delays avenging his father",
+                "explanation": "Overthinking leads to tragedy."
+              },
+              {
+                "problem": "'To be or not to be'",
+                "answer": "Hamlet contemplates life and death",
+                "explanation": "Most famous soliloquy in English."
+              },
+              {
+                "problem": "What is dramatic irony in Hamlet?",
+                "answer": "Audience knows Claudius is the killer before most characters do",
+                "explanation": "Creates tension."
+              }
+            ],
+            "key_vocabulary": [
+              "tragedy",
+              "tragic hero",
+              "hamartia",
+              "soliloquy",
+              "dramatic irony",
+              "revenge"
+            ],
+            "real_world": "Modern crime dramas and revenge thrillers owe their structures to Shakespearean tragedy."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "A character's fatal weakness is called ___",
+              "answer": "hamartia",
+              "hint": "Tragic flaw."
+            },
+            {
+              "type": "fill_in",
+              "question": "A speech delivered alone on stage = ___",
+              "answer": "soliloquy",
+              "hint": "Reveals inner thoughts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Hamlet's uncle's name:",
+              "options": [
+                "Horatio",
+                "Claudius",
+                "Laertes",
+                "Polonius"
+              ],
+              "correct": 1,
+              "hint": "He killed Hamlet's father."
+            },
+            {
+              "type": "fill_in",
+              "question": "'To be or not to be' is from ___",
+              "answer": "Hamlet",
+              "hint": "Most famous line in English lit."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A tragic hero must have:",
+              "options": [
+                "Wealth",
+                "A flaw",
+                "Magic powers",
+                "A sidekick"
+              ],
+              "correct": 1,
+              "hint": "Hamartia leads to downfall."
+            },
+            {
+              "type": "fill_in",
+              "question": "When the audience knows something characters don't: ___ irony",
+              "answer": "dramatic",
+              "hint": "Creates tension."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-2-3",
+          "title": "Macbeth and Ambition",
+          "type": "lesson",
+          "content": {
+            "explanation": "Macbeth: a Scottish general whose ambition, fueled by prophecy and Lady Macbeth, leads him to murder King Duncan and seize the throne. Themes: ambition, guilt, fate vs. free will, appearance vs. reality ('Fair is foul, and foul is fair'). Motifs: blood (guilt), darkness (evil), sleep (innocence lost). Five-act structure: exposition, rising action, climax (Duncan's murder), falling action, catastrophe.",
+            "examples": [
+              {
+                "problem": "Lady Macbeth's role",
+                "answer": "Pushes Macbeth to commit murder",
+                "explanation": "'Unsex me here' \u2014 rejects femininity for power."
+              },
+              {
+                "problem": "'Out, damned spot!'",
+                "answer": "Lady Macbeth's guilt manifests as imaginary blood",
+                "explanation": "She can't wash away her guilt."
+              },
+              {
+                "problem": "The three witches' prophecy",
+                "answer": "Macbeth will be king",
+                "explanation": "Sets the plot in motion."
+              }
+            ],
+            "key_vocabulary": [
+              "ambition",
+              "guilt",
+              "prophecy",
+              "motif",
+              "five-act structure",
+              "tragic flaw"
+            ],
+            "real_world": "Stories about ambition gone wrong \u2014 from Wall Street to politics \u2014 echo Macbeth's arc."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Macbeth's tragic flaw is ___",
+              "answer": "ambition",
+              "hint": "Desires power at any cost."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who pushes Macbeth to murder Duncan?",
+              "options": [
+                "The witches",
+                "Lady Macbeth",
+                "Banquo",
+                "Macduff"
+              ],
+              "correct": 1,
+              "hint": "'Unsex me here.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "'Fair is foul and foul is fair' \u2014 things are not what they ___",
+              "answer": "seem",
+              "hint": "Appearance vs. reality."
+            },
+            {
+              "type": "fill_in",
+              "question": "Blood in Macbeth symbolizes ___",
+              "answer": "guilt",
+              "hint": "Can't be washed away."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Macbeth takes place in:",
+              "options": [
+                "England",
+                "Scotland",
+                "France",
+                "Italy"
+              ],
+              "correct": 1,
+              "hint": "Scottish highlands."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ witches give Macbeth a prophecy",
+              "answer": "three",
+              "hint": "'Double, double, toil and trouble.'"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-2-4",
+          "title": "Elizabethan Theater and Dramatic Conventions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Globe Theatre: open-air, no scenery, daylight performances. Groundlings stood in the pit. All actors were male. Aside: brief remark to audience, unheard by other characters. Prologue/Epilogue frame the play. Comic relief: humor in serious plays (e.g., the porter in Macbeth). Shakespeare wrote comedies (Midsummer Night's Dream), histories (Henry V), and tragedies.",
+            "examples": [
+              {
+                "problem": "The Globe Theatre",
+                "answer": "Shakespeare's open-air theater in London",
+                "explanation": "Burned down in 1613, rebuilt."
+              },
+              {
+                "problem": "An aside",
+                "answer": "A character speaks to the audience privately",
+                "explanation": "Other characters can't hear."
+              },
+              {
+                "problem": "Groundlings",
+                "answer": "Audience members who stood in the pit",
+                "explanation": "Cheapest tickets."
+              }
+            ],
+            "key_vocabulary": [
+              "Globe Theatre",
+              "aside",
+              "groundlings",
+              "prologue",
+              "epilogue",
+              "comic relief"
+            ],
+            "real_world": "Modern theater, film, and TV all evolved from Elizabethan dramatic conventions."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Shakespeare's theater was called the ___",
+              "answer": "Globe",
+              "hint": "Open-air theater in London."
+            },
+            {
+              "type": "fill_in",
+              "question": "Standing audience members were called ___",
+              "answer": "groundlings",
+              "hint": "In the pit."
+            },
+            {
+              "type": "fill_in",
+              "question": "A remark to the audience unheard by characters = ___",
+              "answer": "aside",
+              "hint": "Private comment."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In Shakespeare's time, all actors were:",
+              "options": [
+                "Male",
+                "Female",
+                "Children",
+                "Nobles"
+              ],
+              "correct": 0,
+              "hint": "Women didn't perform."
+            },
+            {
+              "type": "fill_in",
+              "question": "Humor in a serious play = ___ relief",
+              "answer": "comic",
+              "hint": "Breaks tension."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Shakespeare wrote all EXCEPT:",
+              "options": [
+                "Comedies",
+                "Tragedies",
+                "Histories",
+                "Novels"
+              ],
+              "correct": 3,
+              "hint": "He wrote plays and poems, not novels."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-2-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "A Shakespearean sonnet has ___ lines",
+            "answer": "14"
+          },
+          {
+            "type": "fill_in",
+            "question": "Hamlet's tragic flaw: ___",
+            "answer": "indecision"
+          },
+          {
+            "type": "fill_in",
+            "question": "Macbeth's tragic flaw: ___",
+            "answer": "ambition"
+          },
+          {
+            "type": "fill_in",
+            "question": "Shakespeare's theater: the ___",
+            "answer": "Globe"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A speech alone on stage:",
+            "options": [
+              "Aside",
+              "Soliloquy",
+              "Monologue",
+              "Epilogue"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "shakespeare_scholar"
+      }
+    },
+    {
+      "id": "11-ela-3",
+      "title": "Enlightenment and Romantic Poetry",
+      "description": "Satire, Romanticism, and the power of nature and emotion.",
+      "lessons": [
+        {
+          "id": "11-ela-3-1",
+          "title": "Satire and the Enlightenment",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Enlightenment (1700s) valued reason, logic, and order. Jonathan Swift used biting satire in 'A Modest Proposal' (irony: suggests eating children to solve poverty \u2014 actually criticizes British exploitation of Ireland). Alexander Pope wrote mock-heroic poetry ('The Rape of the Lock'). Satire uses irony, exaggeration, and wit to critique society.",
+            "examples": [
+              {
+                "problem": "'A Modest Proposal' is actually about...",
+                "answer": "Criticizing British treatment of the Irish poor",
+                "explanation": "The 'proposal' is ironic."
+              },
+              {
+                "problem": "Mock-heroic poetry",
+                "answer": "Treats trivial subjects in an epic style",
+                "explanation": "Exaggeration for humor."
+              },
+              {
+                "problem": "What does satire critique?",
+                "answer": "Society, politics, human folly",
+                "explanation": "Using humor and irony."
+              }
+            ],
+            "key_vocabulary": [
+              "satire",
+              "irony",
+              "Enlightenment",
+              "reason",
+              "mock-heroic",
+              "Swift",
+              "Pope"
+            ],
+            "real_world": "Modern satire (like SNL, The Onion) uses the same techniques Swift pioneered 300 years ago."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "'A Modest Proposal' was written by ___",
+              "answer": "Swift",
+              "hint": "Jonathan Swift."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Enlightenment valued:",
+              "options": [
+                "Emotion",
+                "Reason",
+                "Nature",
+                "Mysticism"
+              ],
+              "correct": 1,
+              "hint": "Age of Reason."
+            },
+            {
+              "type": "fill_in",
+              "question": "Satire uses ___ to critique society",
+              "answer": "irony",
+              "hint": "Or humor, exaggeration."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'A Modest Proposal' is:",
+              "options": [
+                "Literal",
+                "Satirical",
+                "Romantic",
+                "Gothic"
+              ],
+              "correct": 1,
+              "hint": "Ironic argument."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mock-heroic treats ___ subjects in epic style",
+              "answer": "trivial",
+              "hint": "Exaggeration for humor."
+            },
+            {
+              "type": "fill_in",
+              "question": "Swift literally wanted people to eat children.",
+              "answer": "false",
+              "hint": "It's satire criticizing exploitation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-3-2",
+          "title": "Romantic Poetry: Wordsworth and Coleridge",
+          "type": "lesson",
+          "content": {
+            "explanation": "Romanticism (~1790-1850) rejected Enlightenment rationalism. Key values: emotion, imagination, nature, individualism, the sublime (awe-inspiring grandeur). Wordsworth: 'poetry is the spontaneous overflow of powerful feelings' \u2014 wrote about nature, common people. Lyrical Ballads (1798, with Coleridge) launched the Romantic movement. Coleridge wrote 'The Rime of the Ancient Mariner' (supernatural, guilt, redemption).",
+            "examples": [
+              {
+                "problem": "Wordsworth's 'I Wandered Lonely as a Cloud'",
+                "answer": "About the beauty of daffodils and nature's restorative power",
+                "explanation": "Romantic celebration of nature."
+              },
+              {
+                "problem": "The Rime of the Ancient Mariner",
+                "answer": "A sailor cursed for killing an albatross",
+                "explanation": "Supernatural + moral lesson."
+              },
+              {
+                "problem": "What is 'the sublime'?",
+                "answer": "Awe and terror inspired by nature's grandeur",
+                "explanation": "Mountains, storms, vast landscapes."
+              }
+            ],
+            "key_vocabulary": [
+              "Romanticism",
+              "sublime",
+              "imagination",
+              "nature",
+              "Wordsworth",
+              "Coleridge",
+              "Lyrical Ballads"
+            ],
+            "real_world": "Environmental conservation movements draw on Romantic ideas about nature's inherent value."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Romanticism valued emotion and ___",
+              "answer": "nature",
+              "hint": "Or imagination."
+            },
+            {
+              "type": "fill_in",
+              "question": "Lyrical Ballads (1798) was by Wordsworth and ___",
+              "answer": "Coleridge",
+              "hint": "Launched Romanticism."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The sublime refers to:",
+              "options": [
+                "Beauty",
+                "Awe-inspiring grandeur",
+                "Sadness",
+                "Logic"
+              ],
+              "correct": 1,
+              "hint": "Nature's overwhelming power."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Poetry is the spontaneous overflow of powerful ___'",
+              "answer": "feelings",
+              "hint": "Wordsworth's definition."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Romanticism reacted against:",
+              "options": [
+                "Nature",
+                "Emotion",
+                "Enlightenment rationalism",
+                "Poetry"
+              ],
+              "correct": 2,
+              "hint": "Rejected pure reason."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Ancient Mariner kills an ___",
+              "answer": "albatross",
+              "hint": "Brings a curse."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-3-3",
+          "title": "Keats, Shelley, and Byron",
+          "type": "lesson",
+          "content": {
+            "explanation": "Second-generation Romantics. Keats: 'Ode on a Grecian Urn' ('Beauty is truth, truth beauty'), sensory imagery. Shelley: 'Ozymandias' (power is temporary), radical politics. Byron: 'Byronic hero' (dark, brooding, rebellious). All three died young. Their poetry explores beauty, mortality, freedom, and the power of art.",
+            "examples": [
+              {
+                "problem": "'Ozymandias' message",
+                "answer": "Power is temporary \u2014 even empires crumble",
+                "explanation": "'Look on my Works, ye Mighty, and despair!'"
+              },
+              {
+                "problem": "'Ode on a Grecian Urn' theme",
+                "answer": "Art captures beauty eternally",
+                "explanation": "'Beauty is truth, truth beauty.'"
+              },
+              {
+                "problem": "Byronic hero traits",
+                "answer": "Dark, brooding, rebellious, flawed",
+                "explanation": "Like a Romantic antihero."
+              }
+            ],
+            "key_vocabulary": [
+              "Keats",
+              "Shelley",
+              "Byron",
+              "Byronic hero",
+              "ode",
+              "sensory imagery",
+              "mortality"
+            ],
+            "real_world": "The 'Byronic hero' archetype appears in characters from Heathcliff to Batman to Tony Stark."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "'Beauty is truth, truth beauty' is from ___",
+              "answer": "Keats",
+              "hint": "'Ode on a Grecian Urn.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "'Ozymandias' is by ___",
+              "answer": "Shelley",
+              "hint": "Percy Bysshe Shelley."
+            },
+            {
+              "type": "fill_in",
+              "question": "A dark, rebellious hero type is called ___",
+              "answer": "Byronic",
+              "hint": "Named after Lord Byron."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Ozymandias' theme:",
+              "options": [
+                "Love conquers",
+                "Power is temporary",
+                "Nature is beautiful",
+                "Art is pointless"
+              ],
+              "correct": 1,
+              "hint": "Empire's ruins in desert."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An ode is:",
+              "options": [
+                "A short story",
+                "A lyric poem of praise",
+                "A novel",
+                "A play"
+              ],
+              "correct": 1,
+              "hint": "Formal lyric poem."
+            },
+            {
+              "type": "fill_in",
+              "question": "Keats, Shelley, and Byron all lived long lives.",
+              "answer": "false",
+              "hint": "All died young."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-3-4",
+          "title": "Gothic Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gothic literature (~1760+): dark settings (castles, ruins), supernatural elements, intense emotions, mystery. Mary Shelley's Frankenstein (1818): science gone wrong, the 'Modern Prometheus.' Themes: creation, responsibility, isolation, nature vs. nurture. The Gothic novel influenced horror fiction. Elements: gloomy atmosphere, damsels in distress (subverted later), villains, suspense.",
+            "examples": [
+              {
+                "problem": "Frankenstein's subtitle",
+                "answer": "'The Modern Prometheus'",
+                "explanation": "Prometheus stole fire from gods \u2014 Victor steals the secret of life."
+              },
+              {
+                "problem": "Gothic setting",
+                "answer": "Dark castles, stormy nights, graveyards",
+                "explanation": "Creates atmosphere of dread."
+              },
+              {
+                "problem": "Frankenstein's central conflict",
+                "answer": "Creator vs. creation, responsibility",
+                "explanation": "Victor abandons his creature."
+              }
+            ],
+            "key_vocabulary": [
+              "Gothic",
+              "Frankenstein",
+              "supernatural",
+              "atmosphere",
+              "Shelley",
+              "horror",
+              "Prometheus"
+            ],
+            "real_world": "Modern horror movies (Frankenstein adaptations, haunted houses) descend directly from Gothic literature."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Frankenstein was written by Mary ___",
+              "answer": "Shelley",
+              "hint": "Published 1818."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Gothic literature features:",
+              "options": [
+                "Bright settings",
+                "Dark/supernatural elements",
+                "Comedy",
+                "Science fiction"
+              ],
+              "correct": 1,
+              "hint": "Castles, ghosts, mystery."
+            },
+            {
+              "type": "fill_in",
+              "question": "Frankenstein's subtitle: 'The Modern ___'",
+              "answer": "Prometheus",
+              "hint": "Stole the secret of creation."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A key theme of Frankenstein:",
+              "options": [
+                "Romance",
+                "Responsibility of creators",
+                "Comedy",
+                "Travel"
+              ],
+              "correct": 1,
+              "hint": "Victor abandons his creation."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gothic literature creates an atmosphere of ___",
+              "answer": "dread",
+              "hint": "Or suspense, mystery."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gothic literature began in the 1900s.",
+              "answer": "false",
+              "hint": "~1760 with Horace Walpole."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "'A Modest Proposal' uses ___",
+            "answer": "satire"
+          },
+          {
+            "type": "fill_in",
+            "question": "Romanticism valued emotion and ___",
+            "answer": "nature"
+          },
+          {
+            "type": "fill_in",
+            "question": "'Beauty is truth' is by ___",
+            "answer": "Keats"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Byronic hero is:",
+            "options": [
+              "Cheerful",
+              "Dark and rebellious",
+              "Logical",
+              "Simple"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Frankenstein's author: Mary ___",
+            "answer": "Shelley"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "romantic_era_expert"
+      }
+    },
+    {
+      "id": "11-ela-4",
+      "title": "Victorian and Modern British Literature",
+      "description": "Dickens, Bront\u00eb sisters, and Modernist experimentation.",
+      "lessons": [
+        {
+          "id": "11-ela-4-1",
+          "title": "Victorian Literature: Dickens and Social Criticism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Victorian era (1837-1901): rapid industrialization, urbanization, poverty alongside wealth. Charles Dickens: serial novels critiquing social injustice (Oliver Twist, Great Expectations, A Christmas Carol). Realistic fiction depicted everyday life. Social novel: fiction addressing social problems (child labor, poverty, class inequality). Dickens used memorable characters and humor alongside dark themes.",
+            "examples": [
+              {
+                "problem": "What does Dickens critique in Oliver Twist?",
+                "answer": "Workhouses, poverty, child exploitation",
+                "explanation": "'Please, sir, I want some more.'"
+              },
+              {
+                "problem": "What is a serial novel?",
+                "answer": "Published in installments in magazines",
+                "explanation": "Like a TV series in print."
+              },
+              {
+                "problem": "A Christmas Carol's message",
+                "answer": "Wealth should be shared; compassion matters",
+                "explanation": "Scrooge's transformation."
+              }
+            ],
+            "key_vocabulary": [
+              "Victorian",
+              "Dickens",
+              "serial novel",
+              "social criticism",
+              "industrialization",
+              "realism"
+            ],
+            "real_world": "Modern social media campaigns for justice echo Dickens's use of storytelling to highlight inequality."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The Victorian era: 1837-___",
+              "answer": "1901",
+              "hint": "Queen Victoria's reign."
+            },
+            {
+              "type": "fill_in",
+              "question": "Dickens critiqued social ___ in his novels",
+              "answer": "injustice",
+              "hint": "Poverty, child labor."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Oliver Twist addresses:",
+              "options": [
+                "Romance",
+                "Poverty and workhouses",
+                "Science",
+                "War"
+              ],
+              "correct": 1,
+              "hint": "'Please, sir, I want some more.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Novels published in installments = ___ novels",
+              "answer": "serial",
+              "hint": "Like magazine chapters."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Victorian literature often used:",
+              "options": [
+                "Fantasy",
+                "Realism",
+                "Surrealism",
+                "Absurdism"
+              ],
+              "correct": 1,
+              "hint": "Depicted everyday life."
+            },
+            {
+              "type": "fill_in",
+              "question": "A Christmas Carol's protagonist: Ebenezer ___",
+              "answer": "Scrooge",
+              "hint": "Transforms from miser to generous."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-4-2",
+          "title": "The Bront\u00eb Sisters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Charlotte Bront\u00eb: Jane Eyre (1847) \u2014 governess who becomes independent, feminist undertones. Emily Bront\u00eb: Wuthering Heights (1847) \u2014 passionate, destructive love between Heathcliff and Catherine. Gothic elements, Yorkshire moors setting. Both novels challenge gender roles. Published under male pseudonyms (Currer and Ellis Bell). Themes: class, gender, passion, the supernatural.",
+            "examples": [
+              {
+                "problem": "Jane Eyre's famous line",
+                "answer": "'Reader, I married him'",
+                "explanation": "Unusual first-person female narrator for the era."
+              },
+              {
+                "problem": "Wuthering Heights setting",
+                "answer": "Yorkshire moors",
+                "explanation": "Wild, isolated landscape mirrors the passion."
+              },
+              {
+                "problem": "Why pseudonyms?",
+                "answer": "Female authors weren't taken seriously",
+                "explanation": "Published as 'Bell' brothers."
+              }
+            ],
+            "key_vocabulary": [
+              "Bront\u00eb",
+              "Jane Eyre",
+              "Wuthering Heights",
+              "Gothic",
+              "pseudonym",
+              "feminism",
+              "moors"
+            ],
+            "real_world": "Jane Eyre inspired generations of strong female characters in literature and film."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Jane Eyre was written by ___ Bront\u00eb",
+              "answer": "Charlotte",
+              "hint": "Published 1847."
+            },
+            {
+              "type": "fill_in",
+              "question": "Wuthering Heights was written by ___ Bront\u00eb",
+              "answer": "Emily",
+              "hint": "Also 1847."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Bront\u00ebs published under male ___",
+              "answer": "pseudonyms",
+              "hint": "Bell brothers."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Wuthering Heights features:",
+              "options": [
+                "Comedy",
+                "Passionate love",
+                "Science",
+                "Travel"
+              ],
+              "correct": 1,
+              "hint": "Heathcliff and Catherine."
+            },
+            {
+              "type": "fill_in",
+              "question": "Both novels are set in ___",
+              "answer": "Yorkshire",
+              "hint": "Northern England moors."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Jane Eyre has ___ undertones:",
+              "options": [
+                "Conservative",
+                "Feminist",
+                "Nihilist",
+                "Romantic only"
+              ],
+              "correct": 1,
+              "hint": "Female independence."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-4-3",
+          "title": "Modernism in British Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Modernism (early 1900s): broke from traditional forms. Causes: WWI disillusionment, Freud's psychology, Einstein's relativity. Techniques: stream of consciousness (Virginia Woolf's Mrs Dalloway), fragmentation, multiple perspectives, unreliable narrators. T.S. Eliot's 'The Waste Land' (1922): fragmented, allusive, reflects post-war despair. James Joyce: Ulysses (stream of consciousness).",
+            "examples": [
+              {
+                "problem": "Stream of consciousness",
+                "answer": "Narration mimicking a character's flowing thoughts",
+                "explanation": "Virginia Woolf, James Joyce."
+              },
+              {
+                "problem": "'The Waste Land'",
+                "answer": "Fragmented poem reflecting post-WWI disillusionment",
+                "explanation": "'April is the cruellest month.'"
+              },
+              {
+                "problem": "Why did Modernism emerge?",
+                "answer": "WWI shattered faith in progress and tradition",
+                "explanation": "Old forms couldn't express new horrors."
+              }
+            ],
+            "key_vocabulary": [
+              "Modernism",
+              "stream of consciousness",
+              "fragmentation",
+              "Woolf",
+              "Eliot",
+              "Joyce",
+              "disillusionment"
+            ],
+            "real_world": "Modern experimental films and non-linear storytelling (like Pulp Fiction) owe their techniques to Modernism."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Modernism emerged partly due to ___",
+              "answer": "WWI",
+              "hint": "Disillusionment with tradition."
+            },
+            {
+              "type": "fill_in",
+              "question": "Stream of consciousness was used by Virginia ___",
+              "answer": "Woolf",
+              "hint": "Mrs Dalloway."
+            },
+            {
+              "type": "fill_in",
+              "question": "'The Waste Land' was written by T.S. ___",
+              "answer": "Eliot",
+              "hint": "1922."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Modernist literature uses:",
+              "options": [
+                "Strict rhyme",
+                "Fragmentation",
+                "Simple plots",
+                "Happy endings"
+              ],
+              "correct": 1,
+              "hint": "Broke from tradition."
+            },
+            {
+              "type": "fill_in",
+              "question": "James Joyce wrote ___",
+              "answer": "Ulysses",
+              "hint": "Stream of consciousness novel."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'April is the cruellest month' is from:",
+              "options": [
+                "Hamlet",
+                "The Waste Land",
+                "Beowulf",
+                "1984"
+              ],
+              "correct": 1,
+              "hint": "T.S. Eliot's poem."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-4-4",
+          "title": "Dystopian Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dystopia: a nightmare society, opposite of utopia. George Orwell's 1984 (1949): totalitarianism, surveillance ('Big Brother'), thought control, Newspeak. Aldous Huxley's Brave New World (1932): pleasure-based control, genetic engineering. Both warn against extremes. Dystopian elements: oppressive government, loss of individuality, propaganda, restricted information.",
+            "examples": [
+              {
+                "problem": "1984's 'Big Brother'",
+                "answer": "All-seeing government surveillance",
+                "explanation": "'Big Brother is watching you.'"
+              },
+              {
+                "problem": "Newspeak in 1984",
+                "answer": "Simplified language to limit thought",
+                "explanation": "Fewer words = fewer ideas."
+              },
+              {
+                "problem": "Brave New World vs. 1984",
+                "answer": "Huxley: controlled by pleasure. Orwell: controlled by pain",
+                "explanation": "Two paths to tyranny."
+              }
+            ],
+            "key_vocabulary": [
+              "dystopia",
+              "utopia",
+              "totalitarianism",
+              "surveillance",
+              "propaganda",
+              "Orwell",
+              "Huxley"
+            ],
+            "real_world": "Privacy debates about social media and AI directly echo warnings in 1984 and Brave New World."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The opposite of utopia is ___",
+              "answer": "dystopia",
+              "hint": "Nightmare society."
+            },
+            {
+              "type": "fill_in",
+              "question": "1984 was written by George ___",
+              "answer": "Orwell",
+              "hint": "Published 1949."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Big Brother is watching ___'",
+              "answer": "you",
+              "hint": "Surveillance state."
+            },
+            {
+              "type": "fill_in",
+              "question": "Brave New World was written by Aldous ___",
+              "answer": "Huxley",
+              "hint": "Published 1932."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Newspeak is designed to:",
+              "options": [
+                "Expand thinking",
+                "Limit thinking",
+                "Help communication",
+                "Teach grammar"
+              ],
+              "correct": 1,
+              "hint": "Fewer words = fewer ideas."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In Brave New World, control is through:",
+              "options": [
+                "Pain",
+                "Pleasure",
+                "Religion",
+                "Nature"
+              ],
+              "correct": 1,
+              "hint": "Soma, entertainment, conditioning."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "1984 author: George ___",
+            "answer": "Orwell"
+          },
+          {
+            "type": "fill_in",
+            "question": "Jane Eyre author: ___ Bront\u00eb",
+            "answer": "Charlotte"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Stream of consciousness is:",
+            "options": [
+              "Strict form",
+              "Flowing thoughts",
+              "Rhyming",
+              "Dialogue only"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Dickens criticized social ___",
+            "answer": "injustice"
+          },
+          {
+            "type": "fill_in",
+            "question": "'The Waste Land' by T.S. ___",
+            "answer": "Eliot"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "victorian_modern_master"
+      }
+    },
+    {
+      "id": "11-ela-5",
+      "title": "Literary Criticism",
+      "description": "Applying critical lenses to analyze literature.",
+      "lessons": [
+        {
+          "id": "11-ela-5-1",
+          "title": "Formalism and New Criticism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Formalism focuses on the text itself \u2014 structure, language, imagery, symbols \u2014 not the author's biography or historical context. Close reading: careful analysis of specific passages. Key questions: How does the language create meaning? What patterns emerge? What literary devices are used? The text is a self-contained artifact.",
+            "examples": [
+              {
+                "problem": "Formalist analysis of a poem",
+                "answer": "Focus on meter, rhyme, imagery, symbolism within the poem",
+                "explanation": "Ignore the author's life."
+              },
+              {
+                "problem": "Close reading",
+                "answer": "Analyzing specific word choices and their effects",
+                "explanation": "Line-by-line examination."
+              },
+              {
+                "problem": "What formalism ignores",
+                "answer": "Author's biography, historical context",
+                "explanation": "Text stands alone."
+              }
+            ],
+            "key_vocabulary": [
+              "formalism",
+              "close reading",
+              "literary devices",
+              "imagery",
+              "symbolism",
+              "text"
+            ],
+            "real_world": "Close reading skills transfer to analyzing legal documents, contracts, and scientific papers."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Formalism focuses on the ___ itself",
+              "answer": "text",
+              "hint": "Not external context."
+            },
+            {
+              "type": "fill_in",
+              "question": "Careful analysis of specific passages = ___ reading",
+              "answer": "close",
+              "hint": "Line-by-line."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Formalists do NOT focus on:",
+              "options": [
+                "Language",
+                "Author's biography",
+                "Structure",
+                "Symbols"
+              ],
+              "correct": 1,
+              "hint": "Text stands alone."
+            },
+            {
+              "type": "fill_in",
+              "question": "Formalism considers historical context important.",
+              "answer": "false",
+              "hint": "Focuses only on the text."
+            },
+            {
+              "type": "fill_in",
+              "question": "Literary devices include imagery, symbolism, and ___",
+              "answer": "metaphor",
+              "hint": "Or meter, alliteration, etc."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Close reading examines:",
+              "options": [
+                "Whole library",
+                "Specific passages",
+                "Author's life",
+                "Historical events"
+              ],
+              "correct": 1,
+              "hint": "Detailed textual analysis."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-5-2",
+          "title": "Historical and Biographical Criticism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Historical criticism: interprets literature through its historical context (When was it written? What events shaped it?). Biographical criticism: connects the author's life experiences to the text. New Historicism: all texts are products of their culture; literature and history shape each other. These approaches add context that pure formalism misses.",
+            "examples": [
+              {
+                "problem": "Historical reading of 1984",
+                "answer": "Orwell wrote during WWII/Cold War \u2014 totalitarianism was real",
+                "explanation": "Context illuminates the novel."
+              },
+              {
+                "problem": "Biographical reading of Jane Eyre",
+                "answer": "Charlotte Bront\u00eb was a governess \u2014 like Jane",
+                "explanation": "Life experience informs fiction."
+              },
+              {
+                "problem": "New Historicism",
+                "answer": "Culture and literature are intertwined",
+                "explanation": "Both reflect and shape each other."
+              }
+            ],
+            "key_vocabulary": [
+              "historical criticism",
+              "biographical criticism",
+              "New Historicism",
+              "context",
+              "culture"
+            ],
+            "real_world": "Understanding historical context helps us avoid misinterpreting old texts through a modern lens."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Historical criticism considers the ___ context",
+              "answer": "historical",
+              "hint": "When/where it was written."
+            },
+            {
+              "type": "fill_in",
+              "question": "Biographical criticism connects text to the author's ___",
+              "answer": "life",
+              "hint": "Personal experience."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "New Historicism says literature and history:",
+              "options": [
+                "Are separate",
+                "Shape each other",
+                "Don't matter",
+                "Are identical"
+              ],
+              "correct": 1,
+              "hint": "Intertwined."
+            },
+            {
+              "type": "fill_in",
+              "question": "Biographical criticism ignores the author.",
+              "answer": "false",
+              "hint": "It centers the author's life."
+            },
+            {
+              "type": "fill_in",
+              "question": "Knowing Orwell lived during WWII helps us understand ___",
+              "answer": "1984",
+              "hint": "Historical context."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Historical criticism adds:",
+              "options": [
+                "Context",
+                "Confusion",
+                "Bias",
+                "Nothing"
+              ],
+              "correct": 0,
+              "hint": "Illuminates the text."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-5-3",
+          "title": "Feminist and Marxist Criticism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Feminist criticism: examines gender representation, power dynamics, women's voices (or silence). Questions: How are women portrayed? Who has power? What roles are assigned by gender? Marxist criticism: examines class, wealth, power structures. Questions: Who has economic power? How does class shape characters' lives? What ideology does the text promote?",
+            "examples": [
+              {
+                "problem": "Feminist reading of Jane Eyre",
+                "answer": "Jane's quest for independence challenges patriarchy",
+                "explanation": "A woman asserting her worth."
+              },
+              {
+                "problem": "Marxist reading of Great Expectations",
+                "answer": "Pip's desire for wealth critiques class mobility",
+                "explanation": "Money changes relationships."
+              },
+              {
+                "problem": "Feminist question",
+                "answer": "'How are female characters portrayed \u2014 as agents or objects?'",
+                "explanation": "Agency vs. passivity."
+              }
+            ],
+            "key_vocabulary": [
+              "feminist criticism",
+              "Marxist criticism",
+              "gender",
+              "class",
+              "power",
+              "patriarchy",
+              "ideology"
+            ],
+            "real_world": "Feminist and Marxist analyses help us recognize bias in media, advertising, and politics today."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Feminist criticism examines ___ and power",
+              "answer": "gender",
+              "hint": "Representation of women."
+            },
+            {
+              "type": "fill_in",
+              "question": "Marxist criticism examines ___ and wealth",
+              "answer": "class",
+              "hint": "Economic power structures."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A feminist critic asks:",
+              "options": [
+                "What's the rhyme scheme?",
+                "How are women portrayed?",
+                "When was it written?",
+                "Is it long?"
+              ],
+              "correct": 1,
+              "hint": "Gender representation."
+            },
+            {
+              "type": "fill_in",
+              "question": "Marxist criticism examines economic ___ structures",
+              "answer": "power",
+              "hint": "Who has wealth and influence."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A Marxist reading focuses on:",
+              "options": [
+                "Nature",
+                "Class and wealth",
+                "Rhyme",
+                "Author's childhood"
+              ],
+              "correct": 1,
+              "hint": "Economic structures."
+            },
+            {
+              "type": "fill_in",
+              "question": "The system of male dominance is called ___",
+              "answer": "patriarchy",
+              "hint": "Feminist concept."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-5-4",
+          "title": "Reader-Response and Postcolonial Criticism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Reader-response: meaning is created by the reader's interaction with the text. Different readers bring different experiences, so interpretations vary. No single 'correct' reading. Postcolonial criticism: examines literature from colonized peoples' perspectives. Questions: Whose story is told? Whose is silenced? How is the 'Other' represented? Examines power, identity, and cultural clash.",
+            "examples": [
+              {
+                "problem": "Reader-response",
+                "answer": "Two readers interpret the same poem differently \u2014 both valid",
+                "explanation": "Meaning is subjective."
+              },
+              {
+                "problem": "Postcolonial reading of The Tempest",
+                "answer": "Caliban represents colonized peoples, Prospero the colonizer",
+                "explanation": "Power and exploitation."
+              },
+              {
+                "problem": "'The Other'",
+                "answer": "How dominant cultures portray those who are different",
+                "explanation": "Often stereotyped or silenced."
+              }
+            ],
+            "key_vocabulary": [
+              "reader-response",
+              "postcolonial",
+              "colonialism",
+              "the Other",
+              "interpretation",
+              "perspective"
+            ],
+            "real_world": "Postcolonial criticism helps us understand why diverse representation in media matters."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Reader-response says meaning is created by the ___",
+              "answer": "reader",
+              "hint": "Interaction with text."
+            },
+            {
+              "type": "fill_in",
+              "question": "Postcolonial criticism examines effects of ___",
+              "answer": "colonialism",
+              "hint": "Power and identity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Reader-response means:",
+              "options": [
+                "One correct reading",
+                "Multiple valid readings",
+                "Author decides meaning",
+                "Critics decide"
+              ],
+              "correct": 1,
+              "hint": "Different interpretations."
+            },
+            {
+              "type": "fill_in",
+              "question": "'The Other' refers to marginalized or different ___",
+              "answer": "peoples",
+              "hint": "Or cultures, groups."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Postcolonial criticism asks:",
+              "options": [
+                "What's the rhyme?",
+                "Whose story is silenced?",
+                "Is it funny?",
+                "How long is it?"
+              ],
+              "correct": 1,
+              "hint": "Whose voice is heard."
+            },
+            {
+              "type": "fill_in",
+              "question": "There is one correct interpretation of every text.",
+              "answer": "false",
+              "hint": "Reader-response: multiple valid readings."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-5-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Formalism focuses on the ___",
+            "answer": "text"
+          },
+          {
+            "type": "fill_in",
+            "question": "Feminist criticism examines ___",
+            "answer": "gender"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Marxist criticism focuses on:",
+            "options": [
+              "Nature",
+              "Class",
+              "Rhyme",
+              "Author"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Reader-response: meaning created by the ___",
+            "answer": "reader"
+          },
+          {
+            "type": "fill_in",
+            "question": "Postcolonial criticism examines ___",
+            "answer": "colonialism"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "literary_criticism_ace"
+      }
+    },
+    {
+      "id": "11-ela-6",
+      "title": "Synthesis and Argumentative Essays",
+      "description": "Advanced essay writing with multiple sources.",
+      "lessons": [
+        {
+          "id": "11-ela-6-1",
+          "title": "Synthesizing Multiple Sources",
+          "type": "lesson",
+          "content": {
+            "explanation": "Synthesis: combining ideas from multiple sources to form a new understanding. Not just summarizing \u2014 show how sources agree, disagree, or complement each other. Use phrases: 'Similarly,' 'In contrast,' 'Building on this,' 'However.' Organize by theme, not source-by-source.",
+            "examples": [
+              {
+                "problem": "Source A says X, Source B says Y",
+                "answer": "'While Author A argues X, Author B offers the contrasting view that Y, suggesting...'",
+                "explanation": "Show the relationship."
+              },
+              {
+                "problem": "Thematic organization",
+                "answer": "Group ideas by theme, drawing from all sources",
+                "explanation": "Not source 1, then source 2."
+              },
+              {
+                "problem": "Synthesis vs. summary",
+                "answer": "Summary retells; synthesis creates new insight",
+                "explanation": "Higher-order thinking."
+              }
+            ],
+            "key_vocabulary": [
+              "synthesis",
+              "sources",
+              "compare",
+              "contrast",
+              "thematic",
+              "integrate"
+            ],
+            "real_world": "Research papers in any field require synthesizing findings from multiple studies."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Combining ideas from multiple sources = ___",
+              "answer": "synthesis",
+              "hint": "More than summary."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Organize synthesis essays by:",
+              "options": [
+                "Source",
+                "Theme",
+                "Length",
+                "Date"
+              ],
+              "correct": 1,
+              "hint": "Group by idea, not source."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Similarly' and 'In contrast' are ___ words",
+              "answer": "transition",
+              "hint": "Connect ideas."
+            },
+            {
+              "type": "fill_in",
+              "question": "Synthesis just means summarizing each source.",
+              "answer": "false",
+              "hint": "It creates new insight."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Synthesis shows how sources:",
+              "options": [
+                "Are identical",
+                "Relate to each other",
+                "Are unrelated",
+                "Are wrong"
+              ],
+              "correct": 1,
+              "hint": "Agree, disagree, complement."
+            },
+            {
+              "type": "fill_in",
+              "question": "Synthesis creates new ___",
+              "answer": "understanding",
+              "hint": "Or insight, meaning."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-6-2",
+          "title": "Advanced Thesis Statements",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong thesis: specific, arguable, complex. Not a fact or obvious statement. Multi-part thesis addresses complexity: 'Although X, Y because Z.' Thesis can evolve during writing. It should guide the entire essay. Roadmap thesis previews main points. Working thesis: preliminary, revised as you research.",
+            "examples": [
+              {
+                "problem": "Weak thesis",
+                "answer": "'Shakespeare is a famous writer'",
+                "explanation": "Not arguable \u2014 just a fact."
+              },
+              {
+                "problem": "Strong thesis",
+                "answer": "'Although Macbeth appears to choose his fate, Shakespeare suggests that ambition is an inescapable force'",
+                "explanation": "Arguable, specific, complex."
+              },
+              {
+                "problem": "'Although X, Y because Z' format",
+                "answer": "Acknowledges complexity",
+                "explanation": "Shows nuance."
+              }
+            ],
+            "key_vocabulary": [
+              "thesis",
+              "arguable",
+              "specific",
+              "complex",
+              "roadmap",
+              "working thesis"
+            ],
+            "real_world": "Every persuasive essay, business proposal, and research paper needs a strong central thesis."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "A thesis must be ___ (not just a fact)",
+              "answer": "arguable",
+              "hint": "Someone could disagree."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Shakespeare is famous' is:",
+              "options": [
+                "Strong thesis",
+                "Weak thesis",
+                "Topic sentence",
+                "Conclusion"
+              ],
+              "correct": 1,
+              "hint": "It's a fact, not arguable."
+            },
+            {
+              "type": "fill_in",
+              "question": "A preliminary thesis that gets revised = ___ thesis",
+              "answer": "working",
+              "hint": "Evolves during research."
+            },
+            {
+              "type": "fill_in",
+              "question": "A thesis should be obvious and indisputable.",
+              "answer": "false",
+              "hint": "Must be arguable."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Although X, Y because Z' shows ___",
+              "answer": "complexity",
+              "hint": "Acknowledges counterpoint."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A thesis guides the:",
+              "options": [
+                "First paragraph",
+                "Entire essay",
+                "Bibliography",
+                "Title"
+              ],
+              "correct": 1,
+              "hint": "Central argument throughout."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-6-3",
+          "title": "Counterarguments and Rebuttal",
+          "type": "lesson",
+          "content": {
+            "explanation": "Addressing counterarguments strengthens your essay. Concession: acknowledge the opposing view ('Some argue...'). Rebuttal: explain why your position is stronger. This shows you've considered multiple perspectives. Place counterargument in the middle of the essay, followed by rebuttal. Avoid straw man fallacy (misrepresenting the opposition).",
+            "examples": [
+              {
+                "problem": "Concession",
+                "answer": "'Critics of this view might argue that...'",
+                "explanation": "Acknowledge fairly."
+              },
+              {
+                "problem": "Rebuttal",
+                "answer": "'However, this objection fails to account for...'",
+                "explanation": "Refute with evidence."
+              },
+              {
+                "problem": "Straw man",
+                "answer": "Misrepresenting someone's argument to easily defeat it",
+                "explanation": "An unfair logical fallacy."
+              }
+            ],
+            "key_vocabulary": [
+              "counterargument",
+              "concession",
+              "rebuttal",
+              "straw man",
+              "fallacy",
+              "perspective"
+            ],
+            "real_world": "Lawyers must anticipate and rebut opposing arguments \u2014 exactly this skill."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Acknowledging the opposing view = ___",
+              "answer": "concession",
+              "hint": "'Some might argue...'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Explaining why your position is stronger = ___",
+              "answer": "rebuttal",
+              "hint": "Refute the counterargument."
+            },
+            {
+              "type": "fill_in",
+              "question": "Misrepresenting an opponent's argument = ___ man fallacy",
+              "answer": "straw",
+              "hint": "Unfair tactic."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Counterarguments should be:",
+              "options": [
+                "Ignored",
+                "Acknowledged fairly",
+                "Mocked",
+                "Hidden"
+              ],
+              "correct": 1,
+              "hint": "Shows intellectual honesty."
+            },
+            {
+              "type": "fill_in",
+              "question": "Addressing counterarguments weakens your essay.",
+              "answer": "false",
+              "hint": "It strengthens it."
+            },
+            {
+              "type": "fill_in",
+              "question": "Addressing opposition shows you've considered multiple ___",
+              "answer": "perspectives",
+              "hint": "Intellectual breadth."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-6-4",
+          "title": "Academic Tone and Citation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Academic tone: formal, objective, third person (avoid 'I think'). Use precise vocabulary. Avoid slang, contractions, emotional language. In-text citations: (Author page) for MLA. Works Cited page lists all sources. Paraphrase more than quote. Signal phrases: 'According to Smith,' 'As Johnson argues.' Plagiarism: using others' ideas without credit.",
+            "examples": [
+              {
+                "problem": "Academic vs. casual",
+                "answer": "Academic: 'The evidence suggests...' vs. Casual: 'I think it's obvious that...'",
+                "explanation": "Formal, objective."
+              },
+              {
+                "problem": "MLA in-text citation",
+                "answer": "(Smith 45)",
+                "explanation": "Author and page number."
+              },
+              {
+                "problem": "Signal phrase",
+                "answer": "'According to Johnson, the results indicate...'",
+                "explanation": "Introduces the source."
+              }
+            ],
+            "key_vocabulary": [
+              "academic tone",
+              "citation",
+              "MLA",
+              "paraphrase",
+              "plagiarism",
+              "signal phrase",
+              "Works Cited"
+            ],
+            "real_world": "Every college paper, journal article, and professional report requires proper citation."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "MLA in-text citation format: (Author ___)",
+              "answer": "page",
+              "hint": "(Smith 45)."
+            },
+            {
+              "type": "fill_in",
+              "question": "Using others' ideas without credit = ___",
+              "answer": "plagiarism",
+              "hint": "Academic dishonesty."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Academic tone uses:",
+              "options": [
+                "Slang",
+                "Formal language",
+                "First person",
+                "Emotional appeals"
+              ],
+              "correct": 1,
+              "hint": "Objective and precise."
+            },
+            {
+              "type": "fill_in",
+              "question": "'According to Smith...' is a ___ phrase",
+              "answer": "signal",
+              "hint": "Introduces a source."
+            },
+            {
+              "type": "fill_in",
+              "question": "It's OK to use contractions in academic essays.",
+              "answer": "false",
+              "hint": "Too informal."
+            },
+            {
+              "type": "fill_in",
+              "question": "The page listing all sources is called Works ___",
+              "answer": "Cited",
+              "hint": "MLA format."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Combining ideas from multiple sources = ___",
+            "answer": "synthesis"
+          },
+          {
+            "type": "fill_in",
+            "question": "A thesis must be ___",
+            "answer": "arguable"
+          },
+          {
+            "type": "fill_in",
+            "question": "Acknowledging opposing views = ___",
+            "answer": "concession"
+          },
+          {
+            "type": "fill_in",
+            "question": "Using others' ideas without credit = ___",
+            "answer": "plagiarism"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Academic tone is:",
+            "options": [
+              "Casual",
+              "Formal",
+              "Emotional",
+              "Slang"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "essay_writing_expert"
+      }
+    },
+    {
+      "id": "11-ela-7",
+      "title": "Advanced Grammar and Style",
+      "description": "Parallel structure, sentence variety, and rhetorical devices in writing.",
+      "lessons": [
+        {
+          "id": "11-ela-7-1",
+          "title": "Parallel Structure",
+          "type": "lesson",
+          "content": {
+            "explanation": "Parallel structure: using the same grammatical form for items in a series or comparison. Wrong: 'She likes reading, to swim, and bikes.' Right: 'She likes reading, swimming, and biking.' Applies to lists, comparisons (not only...but also), and correlative conjunctions (either...or, neither...nor).",
+            "examples": [
+              {
+                "problem": "Fix: 'He likes to read, writing, and to swim'",
+                "answer": "'He likes reading, writing, and swimming'",
+                "explanation": "Consistent gerund form."
+              },
+              {
+                "problem": "'Not only smart but also works hard'",
+                "answer": "'Not only smart but also hardworking'",
+                "explanation": "Match adjective with adjective."
+              },
+              {
+                "problem": "Parallel: 'government of the people, by the people, for the people'",
+                "answer": "Lincoln's Gettysburg Address",
+                "explanation": "Repeated prepositional phrase structure."
+              }
+            ],
+            "key_vocabulary": [
+              "parallel structure",
+              "consistency",
+              "correlative conjunctions",
+              "series",
+              "grammar"
+            ],
+            "real_world": "Politicians and speechwriters use parallel structure to make phrases memorable and rhythmic."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is parallel?",
+              "options": [
+                "Run, swim, biking",
+                "Running, swimming, biking",
+                "Run, to swim, biking",
+                "To run, swimming, bike"
+              ],
+              "correct": 1,
+              "hint": "All gerunds."
+            },
+            {
+              "type": "fill_in",
+              "question": "Fix: 'She enjoys cooking, dancing, and to paint' \u2192 cooking, dancing, and ___",
+              "answer": "painting",
+              "hint": "Match gerund form."
+            },
+            {
+              "type": "fill_in",
+              "question": "'I came, I saw, I conquered' is parallel.",
+              "answer": "true",
+              "hint": "Same subject-verb structure."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Not only X but also Y' \u2014 X and Y should be:",
+              "options": [
+                "Different forms",
+                "Same form",
+                "Opposite",
+                "Unrelated"
+              ],
+              "correct": 1,
+              "hint": "Parallel."
+            },
+            {
+              "type": "fill_in",
+              "question": "Items in a series should have the same ___ form",
+              "answer": "grammatical",
+              "hint": "Consistency."
+            },
+            {
+              "type": "fill_in",
+              "question": "Fix: 'To eat, sleeping, and read' \u2192 to eat, to ___, and to read",
+              "answer": "sleep",
+              "hint": "Match infinitive form."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-7-2",
+          "title": "Sentence Variety and Complexity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Vary sentence length: short for emphasis, long for detail. Types: simple (one clause), compound (two independent clauses joined by conjunction/semicolon), complex (independent + dependent clause), compound-complex. Begin sentences differently: not always 'The...' Use periodic sentences (main idea at end) for suspense and loose sentences (main idea first) for clarity.",
+            "examples": [
+              {
+                "problem": "Short for emphasis",
+                "answer": "'He was gone.'",
+                "explanation": "Impact."
+              },
+              {
+                "problem": "Periodic sentence",
+                "answer": "'After years of struggle, setbacks, and doubt, she finally succeeded.'",
+                "explanation": "Main idea delayed for suspense."
+              },
+              {
+                "problem": "Loose sentence",
+                "answer": "'She succeeded, despite years of struggle, setbacks, and doubt.'",
+                "explanation": "Main idea first."
+              }
+            ],
+            "key_vocabulary": [
+              "sentence variety",
+              "simple",
+              "compound",
+              "complex",
+              "periodic",
+              "loose"
+            ],
+            "real_world": "Great speeches use sentence variety \u2014 Martin Luther King Jr. mixed short and long sentences for rhythm."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "A sentence with one independent clause = ___",
+              "answer": "simple",
+              "hint": "Basic structure."
+            },
+            {
+              "type": "fill_in",
+              "question": "Two independent clauses joined = ___ sentence",
+              "answer": "compound",
+              "hint": "And, but, or, etc."
+            },
+            {
+              "type": "fill_in",
+              "question": "Independent + dependent clause = ___ sentence",
+              "answer": "complex",
+              "hint": "Subordinate clause."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Short sentences create:",
+              "options": [
+                "Boredom",
+                "Emphasis",
+                "Confusion",
+                "Length"
+              ],
+              "correct": 1,
+              "hint": "Punchy impact."
+            },
+            {
+              "type": "fill_in",
+              "question": "Main idea at the end = ___ sentence",
+              "answer": "periodic",
+              "hint": "Builds suspense."
+            },
+            {
+              "type": "fill_in",
+              "question": "Main idea first = ___ sentence",
+              "answer": "loose",
+              "hint": "Clear and direct."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-7-3",
+          "title": "Rhetorical Devices in Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Anaphora: repeating a word/phrase at the start of successive clauses ('I have a dream...'). Antithesis: contrasting ideas in parallel ('It was the best of times, it was the worst of times'). Chiasmus: reversed parallel ('Ask not what your country can do for you \u2014 ask what you can do for your country'). Epistrophe: repetition at the END of clauses.",
+            "examples": [
+              {
+                "problem": "Anaphora",
+                "answer": "'We shall fight on the beaches, we shall fight on the landing grounds...'",
+                "explanation": "Churchill \u2014 repetition at start."
+              },
+              {
+                "problem": "Antithesis",
+                "answer": "'One small step for man, one giant leap for mankind'",
+                "explanation": "Contrasting ideas."
+              },
+              {
+                "problem": "Chiasmus",
+                "answer": "'When the going gets tough, the tough get going'",
+                "explanation": "Reversed structure."
+              }
+            ],
+            "key_vocabulary": [
+              "anaphora",
+              "antithesis",
+              "chiasmus",
+              "epistrophe",
+              "rhetoric",
+              "repetition"
+            ],
+            "real_world": "These devices appear in advertising slogans, speeches, and song lyrics every day."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Repetition at the beginning of clauses = ___",
+              "answer": "anaphora",
+              "hint": "'I have a dream...I have a dream...'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Contrasting ideas in parallel = ___",
+              "answer": "antithesis",
+              "hint": "Opposites side by side."
+            },
+            {
+              "type": "fill_in",
+              "question": "Reversed parallel structure = ___",
+              "answer": "chiasmus",
+              "hint": "ABBA pattern."
+            },
+            {
+              "type": "fill_in",
+              "question": "Repetition at the end of clauses = ___",
+              "answer": "epistrophe",
+              "hint": "End repetition."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'It was the best of times, worst of times':",
+              "options": [
+                "Anaphora",
+                "Antithesis",
+                "Chiasmus",
+                "Simile"
+              ],
+              "correct": 1,
+              "hint": "Contrasting parallel."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Ask not what your country...':",
+              "options": [
+                "Anaphora",
+                "Antithesis",
+                "Chiasmus",
+                "Metaphor"
+              ],
+              "correct": 2,
+              "hint": "Reversed structure."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-7-4",
+          "title": "Tone and Voice in Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "Tone: the writer's attitude toward the subject (formal, ironic, passionate, detached). Voice: the writer's unique personality/style. Word choice (diction) creates tone: 'strolled' vs. 'trudged' conveys different feelings. Active voice ('She wrote the essay') is usually stronger than passive ('The essay was written'). Match tone to purpose and audience.",
+            "examples": [
+              {
+                "problem": "'The experiment yielded results' vs. 'The experiment blew our minds'",
+                "answer": "Formal vs. casual tone",
+                "explanation": "Diction determines tone."
+              },
+              {
+                "problem": "Active: 'The dog bit the man'",
+                "answer": "Clear, direct",
+                "explanation": "Subject does the action."
+              },
+              {
+                "problem": "Passive: 'The man was bitten by the dog'",
+                "answer": "Indirect",
+                "explanation": "Emphasizes receiver, not actor."
+              }
+            ],
+            "key_vocabulary": [
+              "tone",
+              "voice",
+              "diction",
+              "active voice",
+              "passive voice",
+              "audience"
+            ],
+            "real_world": "Adjusting tone is essential in every career \u2014 emails to bosses differ from texts to friends."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The writer's attitude toward the subject = ___",
+              "answer": "tone",
+              "hint": "Formal, ironic, passionate, etc."
+            },
+            {
+              "type": "fill_in",
+              "question": "The writer's unique personality in writing = ___",
+              "answer": "voice",
+              "hint": "Individual style."
+            },
+            {
+              "type": "fill_in",
+              "question": "Word choice is called ___",
+              "answer": "diction",
+              "hint": "Specific vocabulary selections."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'She wrote the report' is:",
+              "options": [
+                "Active",
+                "Passive",
+                "Neither",
+                "Both"
+              ],
+              "correct": 0,
+              "hint": "Subject does the action."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'The report was written' is:",
+              "options": [
+                "Active",
+                "Passive",
+                "Neither",
+                "Both"
+              ],
+              "correct": 1,
+              "hint": "Subject receives the action."
+            },
+            {
+              "type": "fill_in",
+              "question": "Active voice is generally ___ than passive",
+              "answer": "stronger",
+              "hint": "More direct and clear."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Items in a series need ___ structure",
+            "answer": "parallel"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Short sentences create:",
+            "options": [
+              "Boredom",
+              "Emphasis",
+              "Confusion",
+              "Complexity"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Repetition at the start of clauses = ___",
+            "answer": "anaphora"
+          },
+          {
+            "type": "fill_in",
+            "question": "Writer's attitude toward subject = ___",
+            "answer": "tone"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Active voice is usually:",
+            "options": [
+              "Weaker",
+              "Stronger",
+              "Same",
+              "Passive"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_style_guru"
+      }
+    },
+    {
+      "id": "11-ela-8",
+      "title": "Comparative World Literature",
+      "description": "Postcolonial literature, magical realism, and global perspectives.",
+      "lessons": [
+        {
+          "id": "11-ela-8-1",
+          "title": "Postcolonial Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Postcolonial literature: written by authors from formerly colonized nations, exploring identity, cultural clash, and the legacy of colonialism. Chinua Achebe's Things Fall Apart (1958): an Igbo village disrupted by British colonialism in Nigeria. Challenges Western literary canon. Themes: cultural erosion, resistance, hybrid identity, language and power.",
+            "examples": [
+              {
+                "problem": "Things Fall Apart",
+                "answer": "Shows African society as complex BEFORE colonialism",
+                "explanation": "Counters stereotypes."
+              },
+              {
+                "problem": "Achebe's critique of Heart of Darkness",
+                "answer": "Accuses Conrad of dehumanizing Africa",
+                "explanation": "'Africa as backdrop' problem."
+              },
+              {
+                "problem": "Hybrid identity",
+                "answer": "Mixing colonizer's and colonized cultures",
+                "explanation": "Cultural negotiation."
+              }
+            ],
+            "key_vocabulary": [
+              "postcolonial",
+              "colonialism",
+              "Achebe",
+              "Things Fall Apart",
+              "identity",
+              "cultural clash"
+            ],
+            "real_world": "Immigration stories today involve the same identity negotiation that postcolonial authors describe."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Things Fall Apart author: Chinua ___",
+              "answer": "Achebe",
+              "hint": "Nigerian author."
+            },
+            {
+              "type": "fill_in",
+              "question": "Things Fall Apart is set in ___",
+              "answer": "Nigeria",
+              "hint": "Igbo village."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Postcolonial literature explores:",
+              "options": [
+                "Space travel",
+                "Colonial legacy",
+                "Cooking",
+                "Sports"
+              ],
+              "correct": 1,
+              "hint": "Identity and cultural clash."
+            },
+            {
+              "type": "fill_in",
+              "question": "Achebe critiqued Conrad's Heart of ___",
+              "answer": "Darkness",
+              "hint": "For dehumanizing Africa."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mixing colonizer and colonized cultures = ___ identity",
+              "answer": "hybrid",
+              "hint": "Cultural blend."
+            },
+            {
+              "type": "fill_in",
+              "question": "Things Fall Apart portrays pre-colonial Africa as primitive.",
+              "answer": "false",
+              "hint": "Shows it as complex and nuanced."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-8-2",
+          "title": "Magical Realism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Magical realism: realistic narrative with magical elements presented as normal. Originated in Latin America. Gabriel Garc\u00eda M\u00e1rquez: One Hundred Years of Solitude (Colombia). Isabel Allende: The House of the Spirits (Chile). Magic is woven into everyday life without surprise. Reflects cultural worldviews where myth and reality coexist. Different from fantasy (which creates entirely separate worlds).",
+            "examples": [
+              {
+                "problem": "Example of magical realism",
+                "answer": "A character ascends to heaven while hanging laundry",
+                "explanation": "Treated as ordinary."
+              },
+              {
+                "problem": "Garc\u00eda M\u00e1rquez",
+                "answer": "One Hundred Years of Solitude \u2014 town of Macondo",
+                "explanation": "Multi-generational saga."
+              },
+              {
+                "problem": "Magical realism vs. fantasy",
+                "answer": "MR: magic in real world, treated normally. Fantasy: entirely fictional world",
+                "explanation": "Key distinction."
+              }
+            ],
+            "key_vocabulary": [
+              "magical realism",
+              "Garc\u00eda M\u00e1rquez",
+              "Allende",
+              "Latin American",
+              "myth",
+              "reality"
+            ],
+            "real_world": "Films like Pan's Labyrinth and novels by Salman Rushdie use magical realism techniques."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Magical realism originated in ___ America",
+              "answer": "Latin",
+              "hint": "Colombia, Chile, etc."
+            },
+            {
+              "type": "fill_in",
+              "question": "One Hundred Years of Solitude by Garc\u00eda ___",
+              "answer": "M\u00e1rquez",
+              "hint": "Colombian author."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In magical realism, magic is treated as:",
+              "options": [
+                "Shocking",
+                "Normal",
+                "Scary",
+                "Impossible"
+              ],
+              "correct": 1,
+              "hint": "Part of everyday life."
+            },
+            {
+              "type": "fill_in",
+              "question": "The House of the Spirits by Isabel ___",
+              "answer": "Allende",
+              "hint": "Chilean author."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Magical realism differs from fantasy because:",
+              "options": [
+                "It's in the real world",
+                "It uses dragons",
+                "It's longer",
+                "It's older"
+              ],
+              "correct": 0,
+              "hint": "Real world with magical elements."
+            },
+            {
+              "type": "fill_in",
+              "question": "Magical realism characters are surprised by magic.",
+              "answer": "false",
+              "hint": "They accept it as normal."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-8-3",
+          "title": "Global Perspectives in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Literature from diverse cultures reveals universal themes: love, justice, identity, suffering, hope. Japanese literature: haiku (Bash\u014d), The Tale of Genji (Murasaki Shikibu \u2014 world's first novel). Indian literature: Rabindranath Tagore (Nobel Prize). African oral tradition: griots, folktales. Middle Eastern: Rumi's poetry, One Thousand and One Nights. Reading globally builds empathy and broadens perspective.",
+            "examples": [
+              {
+                "problem": "The Tale of Genji",
+                "answer": "Often called the world's first novel (~1000 AD)",
+                "explanation": "By Murasaki Shikibu, Japan."
+              },
+              {
+                "problem": "Rumi",
+                "answer": "13th-century Persian poet, still widely read",
+                "explanation": "Themes of love and spirituality."
+              },
+              {
+                "problem": "A griot",
+                "answer": "West African oral storyteller/historian",
+                "explanation": "Preserves history through narrative."
+              }
+            ],
+            "key_vocabulary": [
+              "global literature",
+              "haiku",
+              "Tale of Genji",
+              "Tagore",
+              "Rumi",
+              "griot",
+              "oral tradition"
+            ],
+            "real_world": "Reading literature from other cultures develops the empathy and cultural awareness needed in our globalized world."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The Tale of Genji is from ___",
+              "answer": "Japan",
+              "hint": "~1000 AD, first novel."
+            },
+            {
+              "type": "fill_in",
+              "question": "West African storytellers are called ___",
+              "answer": "griots",
+              "hint": "Oral historians."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rumi was a ___ poet",
+              "answer": "Persian",
+              "hint": "13th century."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Rabindranath Tagore was from:",
+              "options": [
+                "Japan",
+                "India",
+                "Nigeria",
+                "Colombia"
+              ],
+              "correct": 1,
+              "hint": "Won Nobel Prize in Literature."
+            },
+            {
+              "type": "fill_in",
+              "question": "Bash\u014d is known for writing ___",
+              "answer": "haiku",
+              "hint": "Japanese poetry form."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Global literature reveals:",
+              "options": [
+                "Only differences",
+                "Universal themes",
+                "Nothing",
+                "Confusion"
+              ],
+              "correct": 1,
+              "hint": "Love, justice, identity, hope."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-ela-8-4",
+          "title": "Writing a Comparative Essay",
+          "type": "lesson",
+          "content": {
+            "explanation": "Compare: show similarities. Contrast: show differences. Structure options: block method (all of Text A, then all of Text B) or point-by-point (compare on Point 1, then Point 2, etc.). Point-by-point is usually stronger for analysis. Thesis should state the significance of the comparison. Use transitions: 'similarly,' 'in contrast,' 'whereas,' 'likewise.'",
+            "examples": [
+              {
+                "problem": "Block method",
+                "answer": "Paragraph 1: All about Text A. Paragraph 2: All about Text B",
+                "explanation": "Then synthesize."
+              },
+              {
+                "problem": "Point-by-point",
+                "answer": "Paragraph 1: Compare theme in A and B. Paragraph 2: Compare style in A and B",
+                "explanation": "More integrated."
+              },
+              {
+                "problem": "Comparative thesis",
+                "answer": "'While both novels address colonialism, Achebe centers African agency whereas Conrad centers European perspective'",
+                "explanation": "States significance."
+              }
+            ],
+            "key_vocabulary": [
+              "compare",
+              "contrast",
+              "block method",
+              "point-by-point",
+              "transition",
+              "thesis"
+            ],
+            "real_world": "Comparison skills are essential in business (comparing products), law (comparing cases), and science (comparing results)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Showing similarities = ___",
+              "answer": "compare",
+              "hint": "What's alike."
+            },
+            {
+              "type": "fill_in",
+              "question": "Showing differences = ___",
+              "answer": "contrast",
+              "hint": "What's different."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which structure is usually stronger for analysis?",
+              "options": [
+                "Block",
+                "Point-by-point",
+                "Random",
+                "Chronological"
+              ],
+              "correct": 1,
+              "hint": "More integrated comparison."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Similarly' and 'in contrast' are ___ words",
+              "answer": "transition",
+              "hint": "Connect ideas."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A comparative thesis should state:",
+              "options": [
+                "Just the topics",
+                "The significance of comparison",
+                "Nothing",
+                "Only differences"
+              ],
+              "correct": 1,
+              "hint": "Why the comparison matters."
+            },
+            {
+              "type": "fill_in",
+              "question": "Block method covers all of Text ___ first, then Text B",
+              "answer": "A",
+              "hint": "Then synthesize."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-ela-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Things Fall Apart author: ___",
+            "answer": "Achebe"
+          },
+          {
+            "type": "fill_in",
+            "question": "Magical realism originated in ___ America",
+            "answer": "Latin"
+          },
+          {
+            "type": "fill_in",
+            "question": "World's first novel: The Tale of ___",
+            "answer": "Genji"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Point-by-point compares:",
+            "options": [
+              "All A then B",
+              "By theme across texts",
+              "Randomly",
+              "Only differences"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "West African storytellers: ___",
+            "answer": "griots"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_literature_champion"
+      }
+    }
+  ]
+}

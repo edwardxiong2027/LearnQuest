@@ -1,0 +1,724 @@
+{
+  "grade": 0,
+  "subject": "science",
+  "units": [
+    {
+      "id": "k-science-1",
+      "title": "Five Senses",
+      "description": "Learn about the five senses: sight, hearing, taste, touch, and smell. Discover how we use our senses to explore the world around us.",
+      "lessons": [
+        {
+          "id": "k-science-1-1",
+          "title": "Our Eyes Help Us See",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use our eyes to see! Our eyes help us look at the world. We can see colors like red, blue, and green. We can see shapes like circles and squares. We can see things that are big, like a tree, and things that are small, like an ant. Our eyes are one of our five senses. The sense of seeing is called sight.",
+            "examples": [
+              {"problem": "What body part do we use to see?", "answer": "Eyes", "explanation": "Our eyes let us see colors, shapes, and the world around us."},
+              {"problem": "Name something you can see that is red.", "answer": "An apple, a fire truck, or a stop sign", "explanation": "We use our eyes to see colors. Red things are all around us!"}
+            ],
+            "key_vocabulary": ["sight", "eyes", "see", "colors", "shapes"],
+            "real_world": "When you look outside the window, you use your sense of sight. You can see trees, clouds, cars, and people!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which body part helps us see?", "options": ["Ears", "Eyes", "Nose", "Hands"], "correct": 1, "hint": "Think about what you open in the morning to look around."},
+            {"type": "true_false", "question": "We use our eyes to hear music.", "answer": "false", "hint": "Hearing and seeing are different senses."},
+            {"type": "multiple_choice", "question": "What sense do we use when we look at a rainbow?", "options": ["Hearing", "Touch", "Sight", "Smell"], "correct": 2, "hint": "A rainbow is something you look at with your eyes."},
+            {"type": "multiple_choice", "question": "Which of these can you learn by using your eyes?", "options": ["The color of a flower", "The sound of a bell", "The taste of candy", "The smell of bread"], "correct": 0, "hint": "Which one is about what something looks like?"},
+            {"type": "true_false", "question": "Our eyes help us see colors and shapes.", "answer": "true", "hint": "Think about all the colors and shapes you see every day."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-1-2",
+          "title": "Our Ears Help Us Hear",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use our ears to hear! Our ears let us listen to sounds all around us. Some sounds are loud, like a drum. Some sounds are quiet, like a whisper. We can hear music, people talking, birds singing, and cars honking. The sense of hearing helps us know what is happening around us, even when we cannot see it.",
+            "examples": [
+              {"problem": "What body part do we use to hear?", "answer": "Ears", "explanation": "Our ears pick up sounds from the world around us."},
+              {"problem": "Name a loud sound and a quiet sound.", "answer": "Loud: thunder; Quiet: a whisper", "explanation": "Some sounds are very loud and some are very soft and quiet."}
+            ],
+            "key_vocabulary": ["hearing", "ears", "sounds", "loud", "quiet"],
+            "real_world": "When you hear the school bell ring, you know it is time for class. Your ears help you every day!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which body part helps us hear sounds?", "options": ["Eyes", "Mouth", "Ears", "Nose"], "correct": 2, "hint": "These are on the sides of your head."},
+            {"type": "true_false", "question": "A whisper is a loud sound.", "answer": "false", "hint": "Think about how quiet a whisper is."},
+            {"type": "multiple_choice", "question": "Which of these is a sound you hear?", "options": ["A red ball", "A bird singing", "A soft pillow", "A pretty flower"], "correct": 1, "hint": "Which one makes noise?"},
+            {"type": "multiple_choice", "question": "Which sound is the LOUDEST?", "options": ["A whisper", "A cat purring", "Thunder", "Leaves falling"], "correct": 2, "hint": "Think about storms."},
+            {"type": "true_false", "question": "We use our ears to listen to music.", "answer": "true", "hint": "How do you enjoy your favorite songs?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-1-3",
+          "title": "Our Nose Helps Us Smell",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use our nose to smell! Our nose helps us smell things around us. Some things smell good, like flowers and cookies baking. Some things smell bad, like garbage. Smelling can also keep us safe. If something smells like smoke, we know there might be a fire. Our sense of smell is very important!",
+            "examples": [
+              {"problem": "What body part do we use to smell?", "answer": "Nose", "explanation": "Our nose helps us breathe and also smell things around us."},
+              {"problem": "Name something that smells good.", "answer": "Flowers, cookies, or fresh bread", "explanation": "Many things have a pleasant smell that we enjoy."}
+            ],
+            "key_vocabulary": ["smell", "nose", "scent", "odor"],
+            "real_world": "When you walk by a bakery, your nose helps you smell the yummy bread and cookies inside!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which body part helps us smell?", "options": ["Ears", "Hands", "Nose", "Feet"], "correct": 2, "hint": "It is in the middle of your face."},
+            {"type": "true_false", "question": "Flowers usually smell good.", "answer": "true", "hint": "Think about smelling a pretty flower in a garden."},
+            {"type": "multiple_choice", "question": "Which of these would you use your nose to learn about?", "options": ["The color of a ball", "The smell of a rose", "The sound of a drum", "The shape of a block"], "correct": 1, "hint": "Which one is about how something smells?"},
+            {"type": "true_false", "question": "We use our nose to see colors.", "answer": "false", "hint": "Seeing colors uses a different body part."},
+            {"type": "multiple_choice", "question": "Which of these smells BAD?", "options": ["Fresh cookies", "Garbage", "Flowers", "Clean laundry"], "correct": 1, "hint": "Think about the trash can."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-1-4",
+          "title": "Our Tongue Helps Us Taste",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use our tongue to taste! Our tongue can taste different flavors. Some foods taste sweet, like candy and fruit. Some foods taste salty, like chips and pretzels. Some foods taste sour, like lemons. Some foods taste bitter, like dark chocolate. Tasting helps us decide what we like to eat!",
+            "examples": [
+              {"problem": "What body part do we use to taste?", "answer": "Tongue", "explanation": "Our tongue has tiny bumps called taste buds that help us taste food."},
+              {"problem": "What does a lemon taste like?", "answer": "Sour", "explanation": "Lemons have a sour taste that makes your mouth pucker!"}
+            ],
+            "key_vocabulary": ["taste", "tongue", "sweet", "salty", "sour", "bitter"],
+            "real_world": "When you eat your lunch, your tongue helps you taste all the different foods. That is why you know if you like something or not!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which body part helps us taste food?", "options": ["Nose", "Tongue", "Eyes", "Ears"], "correct": 1, "hint": "It is inside your mouth."},
+            {"type": "multiple_choice", "question": "What does candy usually taste like?", "options": ["Sour", "Bitter", "Sweet", "Salty"], "correct": 2, "hint": "Think about sugar."},
+            {"type": "true_false", "question": "A lemon tastes sweet.", "answer": "false", "hint": "Think about what happens when you bite into a lemon!"},
+            {"type": "multiple_choice", "question": "Potato chips taste ___.", "options": ["Sweet", "Salty", "Sour", "Bitter"], "correct": 1, "hint": "Think about the crystals on chips."},
+            {"type": "true_false", "question": "We use our tongue to taste sweet, salty, sour, and bitter flavors.", "answer": "true", "hint": "Our tongue can taste many different flavors."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-1-5",
+          "title": "Our Hands Help Us Touch",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use our skin to feel things when we touch them! We can feel with all of our skin, but we often use our hands. Some things feel soft, like a kitten or a blanket. Some things feel hard, like a rock. Some things feel smooth, like glass. Some things feel rough, like sandpaper. Touch also tells us if something is hot or cold.",
+            "examples": [
+              {"problem": "What sense do we use when we pet a kitten?", "answer": "Touch", "explanation": "When we pet a kitten, we feel how soft its fur is using our sense of touch."},
+              {"problem": "Is ice hot or cold?", "answer": "Cold", "explanation": "When you touch ice, your skin feels that it is very cold."}
+            ],
+            "key_vocabulary": ["touch", "skin", "soft", "hard", "smooth", "rough", "hot", "cold"],
+            "real_world": "When you hold a teddy bear, you can feel how soft it is. When you touch a rock, you can feel how hard it is. That is your sense of touch!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What sense do we use when we feel something soft?", "options": ["Sight", "Hearing", "Touch", "Smell"], "correct": 2, "hint": "You feel things with your hands and skin."},
+            {"type": "true_false", "question": "A rock feels soft.", "answer": "false", "hint": "Think about how a rock feels when you pick it up."},
+            {"type": "multiple_choice", "question": "Which of these feels SMOOTH?", "options": ["Sandpaper", "A rock", "Glass", "Tree bark"], "correct": 2, "hint": "Think about a window."},
+            {"type": "multiple_choice", "question": "What does ice feel like?", "options": ["Hot", "Cold", "Soft", "Loud"], "correct": 1, "hint": "Think about what comes out of the freezer."},
+            {"type": "true_false", "question": "We can feel with our skin.", "answer": "true", "hint": "Our skin is all over our body and helps us feel things."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-1-6",
+          "title": "Using All Five Senses Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "We have five senses: sight, hearing, smell, taste, and touch. We use our eyes to see, our ears to hear, our nose to smell, our tongue to taste, and our skin to touch. We often use more than one sense at the same time! When we eat an apple, we see its red color, hear the crunch, taste its sweetness, feel its smooth skin, and smell its fresh scent. All five senses work together to help us learn about the world.",
+            "examples": [
+              {"problem": "How many senses do we have?", "answer": "Five", "explanation": "We have five senses: sight, hearing, smell, taste, and touch."},
+              {"problem": "When you eat popcorn at the movies, which senses do you use?", "answer": "All five: sight (see the popcorn), hearing (hear it crunch), smell (smell the butter), taste (taste the salty flavor), touch (feel the bumpy popcorn)", "explanation": "We often use many senses at the same time!"}
+            ],
+            "key_vocabulary": ["five senses", "observe", "sight", "hearing", "smell", "taste", "touch"],
+            "real_world": "Scientists use their senses to observe the world. When you look at a flower, smell it, and touch its petals, you are being a scientist!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many senses do people have?", "options": ["Three", "Four", "Five", "Six"], "correct": 2, "hint": "Count them: sight, hearing, smell, taste, touch."},
+            {"type": "multiple_choice", "question": "Which sense do you use to know a bell is ringing?", "options": ["Sight", "Hearing", "Taste", "Touch"], "correct": 1, "hint": "A bell makes a sound."},
+            {"type": "fill_in", "question": "We use our ___ to see.", "answer": "eyes", "hint": "These are on your face and you blink them."},
+            {"type": "fill_in", "question": "We use our ___ to smell.", "answer": "nose", "hint": "It is in the middle of your face."},
+            {"type": "true_false", "question": "We can use more than one sense at the same time.", "answer": "true", "hint": "Think about eating your favorite food. Do you only taste it?"},
+            {"type": "multiple_choice", "question": "If you close your eyes, which senses can you still use?", "options": ["Only taste", "Hearing, smell, taste, and touch", "None of them", "Only touch"], "correct": 1, "hint": "Closing your eyes only stops one sense."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which body part helps us see?", "options": ["Ears", "Eyes", "Nose", "Tongue"], "correct": 1, "hint": "These are on your face and help you look at things."},
+          {"type": "multiple_choice", "question": "Which body part helps us hear?", "options": ["Eyes", "Hands", "Ears", "Nose"], "correct": 2, "hint": "These are on the sides of your head."},
+          {"type": "true_false", "question": "We use our tongue to taste food.", "answer": "true", "hint": "Think about eating your favorite meal."},
+          {"type": "multiple_choice", "question": "How many senses do we have?", "options": ["3", "4", "5", "6"], "correct": 2, "hint": "Sight, hearing, smell, taste, and..."},
+          {"type": "multiple_choice", "question": "Which sense tells us if something is hot or cold?", "options": ["Smell", "Taste", "Sight", "Touch"], "correct": 3, "hint": "You feel temperature with your skin."},
+          {"type": "fill_in", "question": "We smell with our ___.", "answer": "nose", "hint": "It is in the middle of your face."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "senses_scientist"
+      }
+    },
+    {
+      "id": "k-science-2",
+      "title": "Weather and Seasons",
+      "description": "Learn about different kinds of weather and the four seasons. Discover how weather changes throughout the year.",
+      "lessons": [
+        {
+          "id": "k-science-2-1",
+          "title": "What Is Weather?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weather is what it is like outside. Is it sunny or cloudy? Is it hot or cold? Is it raining or snowing? Weather changes every day. We look outside to see what the weather is. Weather helps us decide what to wear. On a rainy day, we wear a raincoat. On a sunny day, we wear sunglasses!",
+            "examples": [
+              {"problem": "What is weather?", "answer": "Weather is what it is like outside right now.", "explanation": "Weather tells us if it is sunny, rainy, windy, cloudy, or snowy."},
+              {"problem": "What should you wear on a rainy day?", "answer": "A raincoat and rain boots", "explanation": "We choose our clothes based on the weather!"}
+            ],
+            "key_vocabulary": ["weather", "sunny", "rainy", "cloudy", "windy", "snowy"],
+            "real_world": "Every morning, you can look out the window to check the weather. This helps you decide what to wear to school!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is weather?", "options": ["A type of animal", "What it is like outside", "A kind of food", "A game we play"], "correct": 1, "hint": "Think about what you check before going outside."},
+            {"type": "true_false", "question": "The weather is the same every day.", "answer": "false", "hint": "Think about yesterday and today. Was the weather the same?"},
+            {"type": "multiple_choice", "question": "What should you wear when it is raining?", "options": ["Shorts and sandals", "A swimsuit", "A raincoat", "A winter hat"], "correct": 2, "hint": "What keeps you dry?"},
+            {"type": "multiple_choice", "question": "Which of these is a type of weather?", "options": ["A book", "Sunny", "A chair", "A pencil"], "correct": 1, "hint": "Which one describes what it is like outside?"},
+            {"type": "true_false", "question": "We look outside to check the weather.", "answer": "true", "hint": "How do you know if it is raining?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-2-2",
+          "title": "Sunny and Cloudy Days",
+          "type": "lesson",
+          "content": {
+            "explanation": "On a sunny day, the sun is shining bright. The sky is blue and there are few clouds. Sunny days are often warm. It is a great day to play outside! On a cloudy day, clouds cover the sky. The sky looks gray or white. Cloudy days can be cooler. Sometimes clouds bring rain!",
+            "examples": [
+              {"problem": "What does the sky look like on a sunny day?", "answer": "Blue with few clouds", "explanation": "On sunny days, we can see the bright blue sky and the warm sun."},
+              {"problem": "What do clouds look like?", "answer": "White or gray and fluffy", "explanation": "Clouds float in the sky and can look like big fluffy cotton balls."}
+            ],
+            "key_vocabulary": ["sun", "sunny", "clouds", "cloudy", "sky", "warm"],
+            "real_world": "On sunny days, you might see your shadow on the ground. Try to find your shadow next time the sun is shining!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What color is the sky on a sunny day?", "options": ["Green", "Blue", "Red", "Black"], "correct": 1, "hint": "Look up at the sky when the sun is out."},
+            {"type": "true_false", "question": "Cloudy days mean the sky is covered with clouds.", "answer": "true", "hint": "Think about what the word cloudy means."},
+            {"type": "multiple_choice", "question": "On a sunny day, the weather is usually ___.", "options": ["Very cold", "Warm", "Snowy", "Foggy"], "correct": 1, "hint": "The sun gives us warmth."},
+            {"type": "true_false", "question": "The sun gives us light and warmth.", "answer": "true", "hint": "Think about how it feels when you stand in sunshine."},
+            {"type": "multiple_choice", "question": "What might happen on a very cloudy day?", "options": ["It stays sunny", "It might rain", "It gets very hot", "The clouds go away right away"], "correct": 1, "hint": "Rain comes from clouds."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-2-3",
+          "title": "Rainy and Snowy Days",
+          "type": "lesson",
+          "content": {
+            "explanation": "On rainy days, water falls from clouds in the sky. We call this rain. Rain makes puddles on the ground. Plants need rain to grow! On snowy days, tiny ice crystals fall from the sky. We call this snow. Snow is white and cold. You can make snowballs and snowmen with snow. Rain and snow are both types of weather that come from clouds.",
+            "examples": [
+              {"problem": "Where does rain come from?", "answer": "Clouds", "explanation": "Rain is water that falls from clouds in the sky."},
+              {"problem": "What is snow?", "answer": "Tiny ice crystals that fall from the sky", "explanation": "Snow is frozen water that falls from clouds when it is very cold."}
+            ],
+            "key_vocabulary": ["rain", "snow", "puddles", "clouds", "ice crystals", "precipitation"],
+            "real_world": "When it rains, puddles form on the ground. Plants, animals, and people all need water to live, and rain gives us that water!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where does rain come from?", "options": ["The ground", "The ocean", "Clouds", "Trees"], "correct": 2, "hint": "Look up when it rains."},
+            {"type": "true_false", "question": "Snow is warm.", "answer": "false", "hint": "What happens when snow touches your hand?"},
+            {"type": "multiple_choice", "question": "What do you need when it rains?", "options": ["Sunglasses", "An umbrella", "A fan", "Sunscreen"], "correct": 1, "hint": "What keeps the rain off your head?"},
+            {"type": "fill_in", "question": "Rain makes ___ on the ground.", "answer": "puddles", "hint": "Water collects in these."},
+            {"type": "true_false", "question": "Plants need rain to grow.", "answer": "true", "hint": "Think about what plants need: sunlight, water, and soil."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-2-4",
+          "title": "Windy Days",
+          "type": "lesson",
+          "content": {
+            "explanation": "Wind is moving air. On windy days, you can feel the air blowing on your face. Wind can move things! It blows leaves off trees. It makes flags wave. It can push clouds across the sky. A gentle wind is called a breeze. A very strong wind can be part of a storm. You cannot see wind, but you can feel it and see what it does!",
+            "examples": [
+              {"problem": "What is wind?", "answer": "Moving air", "explanation": "Wind is air that moves from one place to another."},
+              {"problem": "Can you see wind?", "answer": "No, but you can feel it and see what it moves.", "explanation": "Wind is invisible, but we can see it blow leaves, flags, and hair!"}
+            ],
+            "key_vocabulary": ["wind", "windy", "breeze", "blow", "air"],
+            "real_world": "You can fly a kite on a windy day! The wind pushes the kite up into the sky."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is wind?", "options": ["Falling water", "Moving air", "Bright light", "Cold ice"], "correct": 1, "hint": "Think about what you feel blowing on your face."},
+            {"type": "true_false", "question": "You can see wind.", "answer": "false", "hint": "Can you see the air moving?"},
+            {"type": "multiple_choice", "question": "What can wind do?", "options": ["Make things wet", "Move leaves and flags", "Make things taste good", "Change colors"], "correct": 1, "hint": "Think about trees on a windy day."},
+            {"type": "fill_in", "question": "A gentle wind is called a ___.", "answer": "breeze", "hint": "It starts with the letter B."},
+            {"type": "true_false", "question": "Wind can help you fly a kite.", "answer": "true", "hint": "Think about what pushes a kite up into the sky."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-2-5",
+          "title": "The Four Seasons",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are four seasons in a year: spring, summer, fall, and winter. In spring, flowers bloom and baby animals are born. The weather gets warmer. In summer, it is hot and sunny. Trees are full of green leaves. In fall, leaves change colors to red, orange, and yellow. The weather gets cooler. In winter, it is cold. Some places get snow. Trees lose their leaves. Then spring comes again!",
+            "examples": [
+              {"problem": "How many seasons are there?", "answer": "Four: spring, summer, fall, and winter", "explanation": "The four seasons repeat every year in the same order."},
+              {"problem": "In which season do leaves change color?", "answer": "Fall", "explanation": "In fall (also called autumn), leaves turn red, orange, and yellow before they drop."}
+            ],
+            "key_vocabulary": ["seasons", "spring", "summer", "fall", "winter", "bloom"],
+            "real_world": "Each season brings different weather. In summer you might go swimming, and in winter you might play in the snow!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many seasons are there?", "options": ["Two", "Three", "Four", "Five"], "correct": 2, "hint": "Count: spring, summer, fall, winter."},
+            {"type": "multiple_choice", "question": "Which season is the hottest?", "options": ["Spring", "Summer", "Fall", "Winter"], "correct": 1, "hint": "This is when many people go swimming."},
+            {"type": "multiple_choice", "question": "In which season do leaves change colors?", "options": ["Spring", "Summer", "Fall", "Winter"], "correct": 2, "hint": "Leaves turn red, orange, and yellow in this season."},
+            {"type": "true_false", "question": "Winter is the coldest season.", "answer": "true", "hint": "Think about snow and ice."},
+            {"type": "multiple_choice", "question": "In spring, flowers begin to ___.", "options": ["Fall off", "Bloom", "Freeze", "Disappear"], "correct": 1, "hint": "Flowers open up and grow in spring."},
+            {"type": "fill_in", "question": "The four seasons are spring, summer, fall, and ___.", "answer": "winter", "hint": "The coldest season."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is weather?", "options": ["A season", "What it is like outside", "A type of plant", "An animal"], "correct": 1, "hint": "Think about sunny, rainy, cloudy days."},
+          {"type": "multiple_choice", "question": "Where does rain come from?", "options": ["The sun", "Clouds", "The ground", "Trees"], "correct": 1, "hint": "Look up at the sky when it rains."},
+          {"type": "true_false", "question": "Wind is moving air.", "answer": "true", "hint": "What blows on your face on a windy day?"},
+          {"type": "multiple_choice", "question": "How many seasons are there in a year?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Spring, summer, fall, and..."},
+          {"type": "multiple_choice", "question": "Which season comes after summer?", "options": ["Spring", "Winter", "Fall", "Summer"], "correct": 2, "hint": "Leaves change color in this season."},
+          {"type": "fill_in", "question": "Snow is ___ and white.", "answer": "cold", "hint": "Think about how snow feels."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "weather_watcher"
+      }
+    },
+    {
+      "id": "k-science-3",
+      "title": "Plants",
+      "description": "Learn about plants, their parts, what they need to grow, and how seeds become new plants.",
+      "lessons": [
+        {
+          "id": "k-science-3-1",
+          "title": "Parts of a Plant",
+          "type": "lesson",
+          "content": {
+            "explanation": "Plants have different parts, and each part has a job. The roots grow underground and soak up water from the soil. The stem holds the plant up tall and carries water from the roots to the leaves. The leaves are green and catch sunlight. They use sunlight to make food for the plant. The flower is the colorful part. Flowers make seeds so new plants can grow!",
+            "examples": [
+              {"problem": "What do roots do?", "answer": "Roots soak up water from the soil.", "explanation": "Roots grow underground and take in water and nutrients for the plant."},
+              {"problem": "What do leaves do?", "answer": "Leaves catch sunlight and make food for the plant.", "explanation": "The green leaves use sunlight to make food. This is why most leaves are green!"}
+            ],
+            "key_vocabulary": ["roots", "stem", "leaves", "flower", "seeds", "soil"],
+            "real_world": "Next time you see a plant, look at all its parts! Can you find the roots, stem, leaves, and flower?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which part of a plant grows underground?", "options": ["Leaves", "Flower", "Roots", "Stem"], "correct": 2, "hint": "This part is hidden in the soil."},
+            {"type": "multiple_choice", "question": "What do leaves do for a plant?", "options": ["Soak up water", "Make food using sunlight", "Hold the plant up", "Make seeds"], "correct": 1, "hint": "Leaves need the sun to do their job."},
+            {"type": "true_false", "question": "The stem holds the plant up.", "answer": "true", "hint": "Think about the tall part of a plant."},
+            {"type": "fill_in", "question": "Flowers make ___ so new plants can grow.", "answer": "seeds", "hint": "These are tiny and can be planted to grow new plants."},
+            {"type": "multiple_choice", "question": "Which part of the plant carries water from the roots to the leaves?", "options": ["Flower", "Stem", "Seeds", "Roots"], "correct": 1, "hint": "This part connects the roots to the top of the plant."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-3-2",
+          "title": "What Plants Need to Grow",
+          "type": "lesson",
+          "content": {
+            "explanation": "Plants need four things to grow: water, sunlight, air, and soil. Water helps the plant stay healthy. The roots drink water from the soil. Sunlight gives the plant energy to make its food. Air gives the plant a gas called carbon dioxide that it needs. Soil gives the plant a place to put its roots and has nutrients, like vitamins for plants. Without any of these, a plant cannot grow well.",
+            "examples": [
+              {"problem": "What four things do plants need to grow?", "answer": "Water, sunlight, air, and soil", "explanation": "Plants need all four of these things to be healthy and grow big."},
+              {"problem": "Why do plants need sunlight?", "answer": "Sunlight gives plants energy to make food.", "explanation": "Without sunlight, a plant cannot make the food it needs to grow."}
+            ],
+            "key_vocabulary": ["water", "sunlight", "air", "soil", "nutrients", "grow"],
+            "real_world": "When people plant a garden, they make sure the plants get plenty of water and sunlight so they grow big and strong!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these do plants NOT need to grow?", "options": ["Water", "Sunlight", "Toys", "Soil"], "correct": 2, "hint": "Think about what helps a plant grow. One of these is silly!"},
+            {"type": "true_false", "question": "Plants need water to grow.", "answer": "true", "hint": "Think about watering a garden."},
+            {"type": "multiple_choice", "question": "Where do plant roots get water from?", "options": ["The sky", "The soil", "Other plants", "Rocks"], "correct": 1, "hint": "Roots grow down into the ground."},
+            {"type": "fill_in", "question": "Plants need water, air, soil, and ___.", "answer": "sunlight", "hint": "This comes from the sky during the day."},
+            {"type": "true_false", "question": "A plant can grow without sunlight.", "answer": "false", "hint": "Plants need light to make their food."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-3-3",
+          "title": "Seeds",
+          "type": "lesson",
+          "content": {
+            "explanation": "A seed is like a tiny baby plant! Inside every seed is a small plant waiting to grow. Seeds come in different shapes and sizes. An acorn is the seed of an oak tree. A sunflower seed comes from a sunflower. When a seed is planted in soil and gets water and sunlight, it begins to grow. First, a tiny root grows down. Then a little stem pushes up through the soil. This is called sprouting!",
+            "examples": [
+              {"problem": "What is inside a seed?", "answer": "A tiny baby plant", "explanation": "Every seed has a small plant inside, ready to grow when conditions are right."},
+              {"problem": "What happens when a seed sprouts?", "answer": "A tiny root grows down and a stem pushes up through the soil.", "explanation": "Sprouting is when a seed first begins to grow into a plant."}
+            ],
+            "key_vocabulary": ["seed", "sprout", "plant", "acorn", "grow"],
+            "real_world": "You can grow your own plant! Put a bean seed in a cup of wet soil by a window and watch it sprout in a few days."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is inside a seed?", "options": ["Water", "A tiny baby plant", "Dirt", "A bug"], "correct": 1, "hint": "A seed has everything it needs to start a new plant."},
+            {"type": "true_false", "question": "All seeds look the same.", "answer": "false", "hint": "Think about an acorn and a sunflower seed. Do they look alike?"},
+            {"type": "multiple_choice", "question": "What is it called when a seed starts to grow?", "options": ["Blooming", "Sleeping", "Sprouting", "Falling"], "correct": 2, "hint": "It starts with the letter S."},
+            {"type": "fill_in", "question": "An acorn is the ___ of an oak tree.", "answer": "seed", "hint": "Acorns can grow into new oak trees."},
+            {"type": "true_false", "question": "Seeds need water and sunlight to start growing.", "answer": "true", "hint": "Seeds need the same things as big plants."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-3-4",
+          "title": "How a Seed Becomes a Plant",
+          "type": "lesson",
+          "content": {
+            "explanation": "A seed goes through steps to become a big plant. First, the seed is planted in soil. Then, it gets water and warmth. The seed coat cracks open and a tiny root grows down into the soil. Next, a small stem pushes up toward the sunlight. Little leaves appear and the plant starts to make its own food. The plant grows bigger and bigger. Finally, it may grow flowers. The flowers make new seeds, and the cycle starts all over again!",
+            "examples": [
+              {"problem": "What grows first from a seed, the root or the stem?", "answer": "The root", "explanation": "The root grows down first to anchor the plant and get water."},
+              {"problem": "What do flowers make?", "answer": "New seeds", "explanation": "Flowers make seeds so new plants can grow. It is a cycle!"}
+            ],
+            "key_vocabulary": ["seed coat", "root", "stem", "leaves", "flower", "cycle"],
+            "real_world": "Farmers plant seeds in the spring. The seeds grow into plants over the summer, and the plants give us food like corn, tomatoes, and strawberries!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What grows from a seed FIRST?", "options": ["Flower", "Leaves", "Root", "Fruit"], "correct": 2, "hint": "This part grows down into the soil before anything else."},
+            {"type": "true_false", "question": "Flowers make new seeds.", "answer": "true", "hint": "This is how new plants start to grow."},
+            {"type": "multiple_choice", "question": "After the root grows, what pushes up through the soil?", "options": ["A flower", "A stem", "More roots", "A seed"], "correct": 1, "hint": "This part grows up toward the sunlight."},
+            {"type": "fill_in", "question": "The outside of a seed is called the seed ___.", "answer": "coat", "hint": "Like a jacket for the seed."},
+            {"type": "multiple_choice", "question": "What does a plant need to grow from a seed?", "options": ["Only water", "Only sunlight", "Water, sunlight, air, and soil", "Only soil"], "correct": 2, "hint": "Plants need more than just one thing."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which part of a plant is underground?", "options": ["Leaves", "Stem", "Roots", "Flower"], "correct": 2, "hint": "This part soaks up water from the soil."},
+          {"type": "multiple_choice", "question": "What do plants need to grow?", "options": ["Water, sunlight, air, and soil", "Just water", "Just sunlight", "Candy and toys"], "correct": 0, "hint": "Plants need several things."},
+          {"type": "true_false", "question": "A seed has a tiny plant inside it.", "answer": "true", "hint": "Seeds grow into plants!"},
+          {"type": "multiple_choice", "question": "What do leaves use to make food?", "options": ["Water", "Soil", "Sunlight", "Seeds"], "correct": 2, "hint": "Leaves catch this from the sky."},
+          {"type": "fill_in", "question": "When a seed starts to grow, it is called ___.", "answer": "sprouting", "hint": "It starts with the letters S-P-R."},
+          {"type": "true_false", "question": "Flowers make new seeds.", "answer": "true", "hint": "This is how plants make more plants."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "plant_grower"
+      }
+    },
+    {
+      "id": "k-science-4",
+      "title": "Animals",
+      "description": "Learn about different types of animals, where they live, and their babies.",
+      "lessons": [
+        {
+          "id": "k-science-4-1",
+          "title": "Types of Animals",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are many different types of animals in the world! Some animals have fur, like dogs and cats. Some animals have feathers, like birds. Some animals have scales, like fish and snakes. Some animals are very big, like elephants. Some are very tiny, like ants. Animals can walk, fly, swim, crawl, or hop to get around. Every animal is special!",
+            "examples": [
+              {"problem": "Name an animal with feathers.", "answer": "A bird (like a robin, eagle, or chicken)", "explanation": "Birds are the animals that have feathers. Feathers help them fly and stay warm."},
+              {"problem": "Name an animal with scales.", "answer": "A fish or a snake", "explanation": "Fish and snakes have smooth or bumpy scales covering their bodies."}
+            ],
+            "key_vocabulary": ["fur", "feathers", "scales", "mammal", "bird", "fish", "insect"],
+            "real_world": "Look around outside! You might see birds flying, squirrels climbing trees, and bugs crawling on the ground. Animals are everywhere!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which animal has feathers?", "options": ["Dog", "Fish", "Bird", "Cat"], "correct": 2, "hint": "This animal can usually fly."},
+            {"type": "multiple_choice", "question": "Which animal has scales?", "options": ["Rabbit", "Horse", "Cow", "Fish"], "correct": 3, "hint": "This animal lives in water."},
+            {"type": "true_false", "question": "All animals are the same size.", "answer": "false", "hint": "Think about an elephant and an ant!"},
+            {"type": "fill_in", "question": "Dogs and cats have ___.", "answer": "fur", "hint": "It is soft and covers their body."},
+            {"type": "multiple_choice", "question": "Which of these can fly?", "options": ["A fish", "A worm", "A bird", "A frog"], "correct": 2, "hint": "This animal has wings and feathers."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-4-2",
+          "title": "Where Animals Live",
+          "type": "lesson",
+          "content": {
+            "explanation": "The place where an animal lives is called its habitat. Different animals live in different places. Fish live in water, like oceans, rivers, and lakes. Birds build nests in trees. Bears live in forests and sometimes in caves. Camels live in the desert where it is hot and dry. Penguins live where it is very cold and icy. Each animal lives in a habitat that has what it needs: food, water, and shelter.",
+            "examples": [
+              {"problem": "Where do fish live?", "answer": "In water (oceans, rivers, lakes)", "explanation": "Fish need water to breathe and find food."},
+              {"problem": "What is a habitat?", "answer": "The place where an animal lives", "explanation": "A habitat has everything an animal needs to survive."}
+            ],
+            "key_vocabulary": ["habitat", "forest", "ocean", "desert", "nest", "shelter"],
+            "real_world": "Your home is your habitat! Just like you, animals need a safe place to live with food and water."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the place where an animal lives called?", "options": ["A school", "A habitat", "A store", "A park"], "correct": 1, "hint": "This word starts with the letter H."},
+            {"type": "multiple_choice", "question": "Where do fish live?", "options": ["In trees", "In the desert", "In water", "Underground"], "correct": 2, "hint": "Fish need this to breathe."},
+            {"type": "true_false", "question": "Birds build nests to live in.", "answer": "true", "hint": "Think about where baby birds are born."},
+            {"type": "fill_in", "question": "A camel lives in the ___.", "answer": "desert", "hint": "A hot, dry, sandy place."},
+            {"type": "multiple_choice", "question": "What does every animal need in its habitat?", "options": ["Toys", "Food, water, and shelter", "A TV", "A car"], "correct": 1, "hint": "Animals need basic things to survive."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-4-3",
+          "title": "Animal Babies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Animals have babies just like people do! Baby animals often look like small versions of their parents. A baby dog is called a puppy. A baby cat is called a kitten. A baby cow is called a calf. Some animal babies hatch from eggs, like chicks, turtles, and frogs. Other animal babies are born live, like puppies and kittens. Animal parents take care of their babies and help them grow.",
+            "examples": [
+              {"problem": "What is a baby dog called?", "answer": "A puppy", "explanation": "Baby dogs are called puppies. They are small and playful!"},
+              {"problem": "Which animals hatch from eggs?", "answer": "Birds (chicks), turtles, frogs, and fish", "explanation": "Many animals start life inside an egg before they hatch."}
+            ],
+            "key_vocabulary": ["baby", "puppy", "kitten", "calf", "chick", "hatch", "egg"],
+            "real_world": "Have you ever seen baby animals at a farm or zoo? Baby chicks are fluffy and yellow, and baby kittens are tiny and soft!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a baby cat called?", "options": ["A puppy", "A calf", "A kitten", "A chick"], "correct": 2, "hint": "It rhymes with mitten!"},
+            {"type": "multiple_choice", "question": "Which animal hatches from an egg?", "options": ["A dog", "A horse", "A chick", "A whale"], "correct": 2, "hint": "Think about birds."},
+            {"type": "true_false", "question": "A baby cow is called a calf.", "answer": "true", "hint": "Calf is the special name for a baby cow."},
+            {"type": "fill_in", "question": "A baby dog is called a ___.", "answer": "puppy", "hint": "It starts with the letter P."},
+            {"type": "multiple_choice", "question": "Do animal parents take care of their babies?", "options": ["Yes, they do", "No, never", "Only fish do", "Only birds do"], "correct": 0, "hint": "Think about how a mother bird feeds her babies."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-4-4",
+          "title": "What Animals Need",
+          "type": "lesson",
+          "content": {
+            "explanation": "All animals need certain things to survive. They need food to give them energy. They need water to drink. They need air to breathe. They need shelter to stay safe from weather and predators. Different animals eat different foods. Some animals eat plants, like rabbits and cows. Some animals eat other animals, like lions and hawks. Some animals eat both plants and animals, like bears!",
+            "examples": [
+              {"problem": "What do all animals need?", "answer": "Food, water, air, and shelter", "explanation": "Just like people, animals need these four things to survive."},
+              {"problem": "What does a rabbit eat?", "answer": "Plants like grass, vegetables, and leaves", "explanation": "Rabbits are plant eaters. They love carrots and lettuce!"}
+            ],
+            "key_vocabulary": ["food", "water", "air", "shelter", "survive", "plant eater", "meat eater"],
+            "real_world": "When you feed a pet dog or cat, you are giving it the food and water it needs to stay healthy and happy!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do all animals need to survive?", "options": ["Food, water, air, and shelter", "Only food", "Only water", "Toys and games"], "correct": 0, "hint": "Animals need several things to live."},
+            {"type": "multiple_choice", "question": "Which animal eats plants?", "options": ["Lion", "Hawk", "Rabbit", "Shark"], "correct": 2, "hint": "This animal loves to eat carrots!"},
+            {"type": "true_false", "question": "All animals eat the same food.", "answer": "false", "hint": "Think about what a cow eats compared to a lion."},
+            {"type": "fill_in", "question": "Animals need a safe place to live called a ___.", "answer": "shelter", "hint": "A home or hiding place."},
+            {"type": "true_false", "question": "Animals need air to breathe.", "answer": "true", "hint": "Just like people, animals breathe air."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which animal has feathers?", "options": ["Fish", "Bird", "Dog", "Snake"], "correct": 1, "hint": "This animal has wings."},
+          {"type": "fill_in", "question": "A baby cat is called a ___.", "answer": "kitten", "hint": "It rhymes with mitten."},
+          {"type": "multiple_choice", "question": "What is a habitat?", "options": ["A type of food", "A baby animal", "The place where an animal lives", "A kind of weather"], "correct": 2, "hint": "It is an animal's home."},
+          {"type": "true_false", "question": "Fish live in water.", "answer": "true", "hint": "Think about where you see fish."},
+          {"type": "multiple_choice", "question": "What do all animals need?", "options": ["Food, water, air, and shelter", "Only food", "Only toys", "Only sunshine"], "correct": 0, "hint": "Animals need several things to live."},
+          {"type": "multiple_choice", "question": "Which animal hatches from an egg?", "options": ["Puppy", "Kitten", "Chick", "Calf"], "correct": 2, "hint": "Think about baby birds."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "animal_explorer"
+      }
+    },
+    {
+      "id": "k-science-5",
+      "title": "Push and Pull",
+      "description": "Learn about forces, how things move, and how pushing and pulling make things go!",
+      "lessons": [
+        {
+          "id": "k-science-5-1",
+          "title": "What Is a Push?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A push moves something away from you. When you push a toy car, it rolls away from your hand. When you push a door, it opens. When you push a ball, it rolls across the floor. Pushes can be big or small. A big push makes something move far. A small push makes something move just a little bit.",
+            "examples": [
+              {"problem": "What happens when you push a ball?", "answer": "The ball moves away from you.", "explanation": "A push makes things move away from where you push them."},
+              {"problem": "Does a big push or a small push make a ball go farther?", "answer": "A big push", "explanation": "The harder you push, the farther the ball rolls!"}
+            ],
+            "key_vocabulary": ["push", "move", "force", "direction", "away"],
+            "real_world": "When you push open a door, you are using force! The door moves away from you."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a push do?", "options": ["Brings something closer", "Moves something away from you", "Makes something disappear", "Makes something lighter"], "correct": 1, "hint": "When you push a toy car, where does it go?"},
+            {"type": "true_false", "question": "A big push makes things move farther than a small push.", "answer": "true", "hint": "Think about pushing a ball lightly versus pushing it hard."},
+            {"type": "multiple_choice", "question": "Which of these is a push?", "options": ["Pulling a wagon", "Pushing a door open", "Picking up a book", "Hugging a friend"], "correct": 1, "hint": "Which one moves something away from you?"},
+            {"type": "true_false", "question": "You push a swing to make it move.", "answer": "true", "hint": "Think about what you do to make a friend's swing go forward."},
+            {"type": "fill_in", "question": "A push moves something ___ from you.", "answer": "away", "hint": "The opposite of toward."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-5-2",
+          "title": "What Is a Pull?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A pull moves something toward you. When you pull a wagon, it comes toward you. When you pull open a drawer, it slides toward you. When you pull a dog's leash, the dog comes closer. Like pushes, pulls can be big or small. A big pull moves something a lot. A small pull moves it a little.",
+            "examples": [
+              {"problem": "What happens when you pull a wagon?", "answer": "The wagon moves toward you.", "explanation": "A pull brings things closer to you or in the direction you pull."},
+              {"problem": "Is opening a drawer a push or a pull?", "answer": "A pull", "explanation": "When you open a drawer, you pull it toward you."}
+            ],
+            "key_vocabulary": ["pull", "toward", "force", "drag", "tug"],
+            "real_world": "When you pull a zipper on your jacket, you are using a pulling force to close or open it!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a pull do?", "options": ["Moves something away from you", "Moves something toward you", "Stops something from moving", "Makes something bigger"], "correct": 1, "hint": "Think about pulling a rope in tug-of-war."},
+            {"type": "multiple_choice", "question": "Which of these is a pull?", "options": ["Kicking a ball", "Opening a drawer", "Pushing a chair", "Blowing out a candle"], "correct": 1, "hint": "Which one brings something toward you?"},
+            {"type": "true_false", "question": "Pulling a wagon makes it move toward you.", "answer": "true", "hint": "Think about walking and pulling a wagon behind you."},
+            {"type": "fill_in", "question": "A pull moves something ___ you.", "answer": "toward", "hint": "The opposite of away from."},
+            {"type": "true_false", "question": "A pull is the opposite of a push.", "answer": "true", "hint": "One moves things away, the other brings them closer."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-5-3",
+          "title": "How Things Move",
+          "type": "lesson",
+          "content": {
+            "explanation": "Things can move in different ways. A ball can roll. A bird can fly. A rabbit can hop. A fish can swim. A car can go fast or slow. Things need a push or a pull to start moving. A ball sitting on the floor will not move until someone pushes or kicks it. When you stop pushing or pulling, things slow down and stop because of friction, which is like the floor rubbing on the ball.",
+            "examples": [
+              {"problem": "Why does a ball start to move?", "answer": "Because someone pushes or kicks it.", "explanation": "Things need a force like a push or pull to start moving."},
+              {"problem": "How does a bird move?", "answer": "A bird flies through the air.", "explanation": "Different things move in different ways: rolling, flying, hopping, swimming!"}
+            ],
+            "key_vocabulary": ["roll", "fly", "hop", "swim", "fast", "slow", "friction"],
+            "real_world": "When you ride a bike, you push the pedals to make it go. When you stop pedaling, the bike slows down and stops!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What makes a ball start to move?", "options": ["Magic", "A push or kick", "It moves by itself", "The wind always does it"], "correct": 1, "hint": "Someone or something has to make it move."},
+            {"type": "multiple_choice", "question": "How does a fish move?", "options": ["It flies", "It hops", "It swims", "It rolls"], "correct": 2, "hint": "Fish move through water."},
+            {"type": "true_false", "question": "A ball can move by itself without being pushed.", "answer": "false", "hint": "Something has to give the ball a push to make it move."},
+            {"type": "multiple_choice", "question": "Which moves faster: a running dog or a crawling turtle?", "options": ["The turtle", "The dog", "They move the same speed", "Neither one moves"], "correct": 1, "hint": "Dogs are known for running quickly."},
+            {"type": "fill_in", "question": "A ball can ___ across the floor.", "answer": "roll", "hint": "Round things do this when pushed."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-5-4",
+          "title": "Pushes and Pulls Are Everywhere",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use pushes and pulls every day! When you open a door, you push or pull it. When you pick up a toy, you pull it up. When you throw a ball, you push it with your hand. When you slide down a slide, gravity pulls you down! Even the wind pushes things around. Pushes and pulls are forces that make things move, and they are all around us.",
+            "examples": [
+              {"problem": "Is throwing a ball a push or a pull?", "answer": "A push", "explanation": "When you throw a ball, your hand pushes it forward through the air."},
+              {"problem": "What pulls you down a slide?", "answer": "Gravity", "explanation": "Gravity is a force that pulls everything down toward the ground."}
+            ],
+            "key_vocabulary": ["force", "push", "pull", "gravity", "throw", "lift"],
+            "real_world": "Gravity is a pulling force that keeps us on the ground. Without gravity, we would float away into space!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When you throw a ball, is that a push or a pull?", "options": ["A pull", "A push", "Neither", "Both"], "correct": 1, "hint": "Your hand sends the ball away from you."},
+            {"type": "multiple_choice", "question": "What pulls you down a slide?", "options": ["Wind", "Gravity", "A rope", "A friend"], "correct": 1, "hint": "This invisible force pulls everything down toward the ground."},
+            {"type": "true_false", "question": "Opening a door can be a push or a pull.", "answer": "true", "hint": "Some doors you push open, some you pull open!"},
+            {"type": "fill_in", "question": "___ is the force that pulls things down to the ground.", "answer": "Gravity", "hint": "It keeps us from floating away!"},
+            {"type": "true_false", "question": "Wind can push things.", "answer": "true", "hint": "Think about wind blowing leaves."},
+            {"type": "multiple_choice", "question": "Which of these uses a PULL?", "options": ["Kicking a ball", "Pulling a wagon", "Pushing a swing", "Throwing a frisbee"], "correct": 1, "hint": "Which one brings something toward you or behind you?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A push moves something ___ from you.", "options": ["Toward", "Away", "Under", "Above"], "correct": 1, "hint": "Think about pushing a toy car."},
+          {"type": "multiple_choice", "question": "A pull moves something ___ you.", "options": ["Away from", "Toward", "Around", "Over"], "correct": 1, "hint": "Think about pulling a wagon."},
+          {"type": "true_false", "question": "Things need a push or pull to start moving.", "answer": "true", "hint": "A ball just sits there until someone kicks it."},
+          {"type": "multiple_choice", "question": "What pulls you down a slide?", "options": ["Wind", "Magnetism", "Gravity", "Friction"], "correct": 2, "hint": "This invisible force pulls everything downward."},
+          {"type": "fill_in", "question": "A big push makes a ball go ___ than a small push.", "answer": "farther", "hint": "More force means more movement."},
+          {"type": "multiple_choice", "question": "Which of these is a PULL?", "options": ["Kicking a ball", "Opening a drawer", "Pushing a door shut", "Throwing a frisbee"], "correct": 1, "hint": "Which brings something toward you?"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "force_finder"
+      }
+    },
+    {
+      "id": "k-science-6",
+      "title": "Earth Materials",
+      "description": "Explore rocks, soil, water, and learn about natural and man-made materials.",
+      "lessons": [
+        {
+          "id": "k-science-6-1",
+          "title": "Rocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rocks are hard, solid things found in nature. They come in many shapes, sizes, and colors. Some rocks are big like boulders. Some are tiny like pebbles. Rocks can be smooth or rough. Some rocks are shiny and some are dull. Rocks are found everywhere: on the ground, in rivers, on mountains, and even at the beach! People use rocks to build things like walls and roads.",
+            "examples": [
+              {"problem": "Where can you find rocks?", "answer": "On the ground, in rivers, on mountains, and at the beach.", "explanation": "Rocks are found all over the Earth in many different places."},
+              {"problem": "Are all rocks the same?", "answer": "No, they come in different shapes, sizes, and colors.", "explanation": "Rocks can be big or small, smooth or rough, and many different colors!"}
+            ],
+            "key_vocabulary": ["rocks", "boulder", "pebble", "smooth", "rough", "hard"],
+            "real_world": "Next time you go outside, pick up a rock and look at it closely. What color is it? Is it smooth or rough? You are being a geologist!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are rocks?", "options": ["Soft things from plants", "Hard, solid things found in nature", "Things we eat", "Liquid like water"], "correct": 1, "hint": "Think about what a rock feels like."},
+            {"type": "true_false", "question": "All rocks look the same.", "answer": "false", "hint": "Think about a big boulder and a tiny pebble."},
+            {"type": "multiple_choice", "question": "A very small rock is called a ___.", "options": ["Boulder", "Mountain", "Pebble", "Stick"], "correct": 2, "hint": "You can hold many of these in your hand."},
+            {"type": "true_false", "question": "People use rocks to build things.", "answer": "true", "hint": "Think about stone walls and roads."},
+            {"type": "fill_in", "question": "Rocks can feel smooth or ___.", "answer": "rough", "hint": "The opposite of smooth."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-6-2",
+          "title": "Soil",
+          "type": "lesson",
+          "content": {
+            "explanation": "Soil is the dirt on the ground. It is made of tiny bits of rocks, dead plants, and other materials mixed together. Soil is very important because plants grow in it! Their roots go into the soil to get water and nutrients. Some soil is dark brown or black. Some soil is lighter in color. Soil can feel sandy, sticky like clay, or soft and crumbly. Worms and bugs live in soil and help keep it healthy.",
+            "examples": [
+              {"problem": "What is soil made of?", "answer": "Tiny bits of rocks, dead plants, and other materials.", "explanation": "Soil is a mixture of many things, not just one material."},
+              {"problem": "Why is soil important?", "answer": "Plants grow in soil.", "explanation": "Without soil, most plants could not grow and we would not have food!"}
+            ],
+            "key_vocabulary": ["soil", "dirt", "nutrients", "clay", "sandy", "worms"],
+            "real_world": "When you play in the dirt, you are touching soil! Gardens have healthy soil so that vegetables and flowers can grow."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What grows in soil?", "options": ["Cars", "Plants", "Fish", "Clouds"], "correct": 1, "hint": "Think about a garden."},
+            {"type": "true_false", "question": "Soil is made of tiny bits of rocks and dead plants.", "answer": "true", "hint": "Soil is a mixture of many things."},
+            {"type": "multiple_choice", "question": "Which animal lives in soil?", "options": ["Birds", "Fish", "Worms", "Dolphins"], "correct": 2, "hint": "These wiggly creatures tunnel through the dirt."},
+            {"type": "fill_in", "question": "Plant roots grow into the ___ to get water.", "answer": "soil", "hint": "Another word for dirt."},
+            {"type": "true_false", "question": "All soil looks and feels the same.", "answer": "false", "hint": "Some soil is sandy, some is like clay, and some is dark and crumbly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-6-3",
+          "title": "Water",
+          "type": "lesson",
+          "content": {
+            "explanation": "Water is found all over Earth. It fills oceans, rivers, lakes, and ponds. Water falls from the sky as rain. We drink water to stay healthy. Plants and animals need water too. Water can be a liquid that flows, like in a river. It can be solid ice when it is very cold. It can also be a gas called steam when it is very hot. Water is one of the most important things on Earth!",
+            "examples": [
+              {"problem": "Where is water found?", "answer": "Oceans, rivers, lakes, ponds, and rain.", "explanation": "Water is found in many places on Earth."},
+              {"problem": "What happens to water when it gets very cold?", "answer": "It turns to ice.", "explanation": "When water freezes, it becomes solid ice!"}
+            ],
+            "key_vocabulary": ["water", "ocean", "river", "lake", "ice", "liquid", "steam"],
+            "real_world": "You drink water every day! And when you take a bath, you use water too. Water is part of our daily life."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What happens to water when it gets very cold?", "options": ["It disappears", "It turns to ice", "It turns to soil", "Nothing happens"], "correct": 1, "hint": "Think about what is in your freezer."},
+            {"type": "true_false", "question": "Plants and animals need water to live.", "answer": "true", "hint": "Think about watering a plant or a dog drinking water."},
+            {"type": "multiple_choice", "question": "Where can you find water?", "options": ["Only in the ocean", "Oceans, rivers, lakes, and rain", "Only in bottles", "Only underground"], "correct": 1, "hint": "Water is in many places!"},
+            {"type": "fill_in", "question": "When water gets very hot, it turns into ___.", "answer": "steam", "hint": "You see this coming from a boiling pot."},
+            {"type": "true_false", "question": "We drink water to stay healthy.", "answer": "true", "hint": "Our bodies need water every day."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-science-6-4",
+          "title": "Natural and Man-Made Things",
+          "type": "lesson",
+          "content": {
+            "explanation": "Some things in our world are natural. That means they come from nature, not from people. Rocks, trees, water, and animals are natural. Other things are man-made. That means people made them. Cars, books, buildings, and toys are man-made. People often use natural materials to make things. For example, wood comes from trees, and people use wood to build houses and furniture.",
+            "examples": [
+              {"problem": "Is a rock natural or man-made?", "answer": "Natural", "explanation": "Rocks come from nature. People did not make them."},
+              {"problem": "Is a toy car natural or man-made?", "answer": "Man-made", "explanation": "People made toy cars in factories using materials like metal and plastic."}
+            ],
+            "key_vocabulary": ["natural", "man-made", "nature", "materials", "wood", "metal"],
+            "real_world": "Look around your room. Your desk might be made of wood, which comes from trees. The glass in your window was made by people from sand!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is NATURAL?", "options": ["A toy car", "A book", "A tree", "A building"], "correct": 2, "hint": "Which one was not made by people?"},
+            {"type": "multiple_choice", "question": "Which of these is MAN-MADE?", "options": ["A rock", "A river", "A cloud", "A chair"], "correct": 3, "hint": "Which one was made by people?"},
+            {"type": "true_false", "question": "Wood comes from trees.", "answer": "true", "hint": "People cut down trees to get wood."},
+            {"type": "fill_in", "question": "Things that come from nature are called ___.", "answer": "natural", "hint": "It starts with the letter N."},
+            {"type": "multiple_choice", "question": "People use natural materials to make ___.", "options": ["More rocks", "Man-made things like houses and furniture", "Rain", "Clouds"], "correct": 1, "hint": "We use wood, stone, and metal to build things."},
+            {"type": "true_false", "question": "A cloud is man-made.", "answer": "false", "hint": "Can people make clouds? Clouds form naturally in the sky."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A very small rock is called a ___.", "options": ["Mountain", "Pebble", "Boulder", "Soil"], "correct": 1, "hint": "You can hold many of these in your hand."},
+          {"type": "true_false", "question": "Plants grow in soil.", "answer": "true", "hint": "Where do you plant a seed?"},
+          {"type": "multiple_choice", "question": "What happens to water when it freezes?", "options": ["It turns to steam", "It turns to ice", "It disappears", "It turns to soil"], "correct": 1, "hint": "Think about the freezer."},
+          {"type": "multiple_choice", "question": "Which of these is natural?", "options": ["A toy", "A car", "A river", "A book"], "correct": 2, "hint": "Which was not made by people?"},
+          {"type": "fill_in", "question": "Worms live in the ___.", "answer": "soil", "hint": "Another word for dirt."},
+          {"type": "true_false", "question": "People use natural materials to make man-made things.", "answer": "true", "hint": "Wood from trees becomes furniture!"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "earth_explorer"
+      }
+    }
+  ]
+}

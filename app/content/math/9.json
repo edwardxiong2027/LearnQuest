@@ -1,0 +1,934 @@
+{
+  "grade": 9,
+  "subject": "math",
+  "units": [
+    {
+      "id": "9-math-1",
+      "title": "Real Numbers & Operations",
+      "description": "Classify and operate with real numbers including integers, rationals, and irrationals.",
+      "lessons": [
+        {
+          "id": "9-math-1-1",
+          "title": "Classifying Real Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Real numbers include all numbers on the number line. They are classified as: Natural numbers (1, 2, 3, ...), Whole numbers (0, 1, 2, ...), Integers (..., -2, -1, 0, 1, 2, ...), Rational numbers (any number that can be written as a fraction p/q where q ≠ 0, including terminating and repeating decimals), and Irrational numbers (decimals that never terminate or repeat, like √2, π, e).",
+            "examples": [
+              {"problem": "Classify: 7", "answer": "Natural, Whole, Integer, Rational, Real", "explanation": "7 = 7/1, so it fits all categories up to rational."},
+              {"problem": "Classify: -3/4", "answer": "Rational, Real", "explanation": "-3/4 is a fraction, so it's rational but not an integer."},
+              {"problem": "Classify: √5", "answer": "Irrational, Real", "explanation": "√5 = 2.2360679... never terminates or repeats."}
+            ],
+            "key_vocabulary": ["natural numbers", "whole numbers", "integers", "rational", "irrational", "real numbers"],
+            "real_world": "Irrational numbers appear in geometry (π for circles) and construction (√2 for diagonal of a square)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is irrational?", "options": ["3/7", "√9", "√2", "0.75"], "correct": 2, "hint": "√9 = 3 (rational). √2 cannot be written as a fraction."},
+            {"type": "multiple_choice", "question": "Classify -5:", "options": ["Natural", "Whole", "Integer", "Irrational"], "correct": 2, "hint": "-5 is negative, so not natural or whole, but it is an integer."},
+            {"type": "fill_in", "question": "True or false: 0.333... (repeating) is rational.", "answer": "true", "hint": "0.333... = 1/3, which is a fraction."},
+            {"type": "multiple_choice", "question": "Which set does π belong to?", "options": ["Integers", "Rational", "Irrational", "Whole numbers"], "correct": 2, "hint": "π = 3.14159... never terminates or repeats."},
+            {"type": "fill_in", "question": "Is √16 rational or irrational?", "answer": "rational", "hint": "√16 = 4, which is an integer."},
+            {"type": "multiple_choice", "question": "Which is NOT rational?", "options": ["0.5", "2/3", "√7", "-4"], "correct": 2, "hint": "√7 ≈ 2.6457... and never repeats."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-1-2",
+          "title": "Properties of Real Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Key properties: Commutative (a+b = b+a, a·b = b·a), Associative ((a+b)+c = a+(b+c)), Distributive (a(b+c) = ab+ac), Identity (a+0 = a, a·1 = a), Inverse (a+(-a) = 0, a·(1/a) = 1 for a≠0). These properties help simplify expressions and solve equations.",
+            "examples": [
+              {"problem": "Name the property: 3 + 7 = 7 + 3", "answer": "Commutative Property of Addition", "explanation": "The order of addends changed."},
+              {"problem": "Apply distributive: 5(x + 3)", "answer": "5x + 15", "explanation": "5·x + 5·3 = 5x + 15."},
+              {"problem": "Name the property: (2·4)·5 = 2·(4·5)", "answer": "Associative Property of Multiplication", "explanation": "The grouping changed, not the order."}
+            ],
+            "key_vocabulary": ["commutative", "associative", "distributive", "identity", "inverse", "closure"],
+            "real_world": "The distributive property is used when calculating tips: 15% of $40 = 10% of $40 + 5% of $40 = $4 + $2 = $6."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which property: a + 0 = a?", "options": ["Commutative", "Associative", "Identity", "Inverse"], "correct": 2, "hint": "Adding 0 doesn't change the number — it's the identity."},
+            {"type": "fill_in", "question": "Distribute: 4(x + 7) = 4x + ___", "answer": "28", "hint": "4 × 7 = 28."},
+            {"type": "multiple_choice", "question": "Which property: 6 · 8 = 8 · 6?", "options": ["Commutative", "Associative", "Distributive", "Identity"], "correct": 0, "hint": "The order of factors switched."},
+            {"type": "fill_in", "question": "The additive inverse of 9 is ___", "answer": "-9", "hint": "9 + ? = 0"},
+            {"type": "fill_in", "question": "Distribute: -3(2x - 5) = -6x + ___", "answer": "15", "hint": "-3 × (-5) = 15."},
+            {"type": "multiple_choice", "question": "Which property: (a+b)+c = a+(b+c)?", "options": ["Commutative", "Associative", "Distributive", "Closure"], "correct": 1, "hint": "The grouping (parentheses) changed."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-1-3",
+          "title": "Absolute Value & Order of Operations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Absolute value |a| is the distance from 0 on the number line, always non-negative. |5| = 5, |-5| = 5. Order of operations (PEMDAS): Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right).",
+            "examples": [
+              {"problem": "Evaluate: |−8| + |3|", "answer": "11", "explanation": "|-8| = 8, |3| = 3, so 8 + 3 = 11."},
+              {"problem": "Evaluate: 3 + 2 × 4²", "answer": "35", "explanation": "4² = 16, then 2 × 16 = 32, then 3 + 32 = 35."},
+              {"problem": "Evaluate: (6 + 2) × 3 - 4", "answer": "20", "explanation": "Parentheses first: 8. Then 8 × 3 = 24. Then 24 - 4 = 20."}
+            ],
+            "key_vocabulary": ["absolute value", "PEMDAS", "order of operations", "exponent", "evaluate"],
+            "real_world": "Absolute value measures distance regardless of direction — like how far you walked, not which way."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "|-12| = ___", "answer": "12", "hint": "Distance from 0 is always positive."},
+            {"type": "fill_in", "question": "Evaluate: 5 + 3 × 2 = ___", "answer": "11", "hint": "Multiply first: 3 × 2 = 6, then 5 + 6."},
+            {"type": "fill_in", "question": "Evaluate: (10 - 4)² = ___", "answer": "36", "hint": "Parentheses: 10-4=6. Then 6²=36."},
+            {"type": "fill_in", "question": "Evaluate: |5 - 11| = ___", "answer": "6", "hint": "5-11 = -6, and |-6| = 6."},
+            {"type": "multiple_choice", "question": "Evaluate: 2³ + 4 × 2", "options": ["24", "16", "20", "40"], "correct": 1, "hint": "2³=8, 4×2=8, total 16."},
+            {"type": "fill_in", "question": "Evaluate: 20 - 3(4 + 1) = ___", "answer": "5", "hint": "4+1=5, 3×5=15, 20-15=5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-1-4",
+          "title": "Operations with Rational Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Adding/subtracting fractions requires common denominators. Multiplying fractions: multiply numerators and denominators. Dividing fractions: multiply by the reciprocal. For decimals, align decimal points for addition/subtraction. Negative numbers follow sign rules: neg × neg = pos, neg × pos = neg.",
+            "examples": [
+              {"problem": "2/3 + 3/4", "answer": "17/12", "explanation": "LCD = 12. 8/12 + 9/12 = 17/12."},
+              {"problem": "(-5/6) × (3/10)", "answer": "-1/4", "explanation": "(-5×3)/(6×10) = -15/60 = -1/4."},
+              {"problem": "(-2.5) × (-4)", "answer": "10", "explanation": "Negative × negative = positive. 2.5 × 4 = 10."}
+            ],
+            "key_vocabulary": ["reciprocal", "LCD", "common denominator", "simplify", "sign rules"],
+            "real_world": "Recipes use fractions — doubling a recipe that calls for 2/3 cup means calculating 2 × 2/3."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1/3 + 1/4 = ___", "answer": "7/12", "hint": "LCD = 12: 4/12 + 3/12 = 7/12."},
+            {"type": "fill_in", "question": "(-3) × (-7) = ___", "answer": "21", "hint": "Negative times negative = positive."},
+            {"type": "fill_in", "question": "5/8 ÷ 1/4 = ___", "answer": "5/2", "hint": "5/8 × 4/1 = 20/8 = 5/2."},
+            {"type": "fill_in", "question": "(-2.4) + 3.7 = ___", "answer": "1.3", "hint": "3.7 - 2.4 = 1.3 (positive wins)."},
+            {"type": "multiple_choice", "question": "(-8) ÷ (-2) = ?", "options": ["-4", "4", "-16", "16"], "correct": 1, "hint": "Negative ÷ negative = positive."},
+            {"type": "fill_in", "question": "3/5 - 1/2 = ___", "answer": "1/10", "hint": "LCD=10: 6/10 - 5/10 = 1/10."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-1-quiz",
+        "questions": [
+          {"type": "multiple_choice", "question": "Which number is irrational?", "options": ["0.25", "√3", "7/2", "-5"], "correct": 1},
+          {"type": "fill_in", "question": "Distribute: 6(x - 4) = 6x - ___", "answer": "24"},
+          {"type": "fill_in", "question": "|-7| + |3| = ___", "answer": "10"},
+          {"type": "fill_in", "question": "2/5 + 1/3 = ___", "answer": "11/15"},
+          {"type": "fill_in", "question": "Evaluate: 4 + 2 × 3² = ___", "answer": "22"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "real_numbers_master"
+      }
+    },
+    {
+      "id": "9-math-2",
+      "title": "Linear Equations & Inequalities",
+      "description": "Solve one-variable equations and inequalities including multi-step and absolute value.",
+      "lessons": [
+        {
+          "id": "9-math-2-1",
+          "title": "Solving Multi-Step Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "To solve multi-step equations: 1) Distribute if needed. 2) Combine like terms on each side. 3) Move variable terms to one side and constants to the other. 4) Divide to isolate the variable. Always check your solution by substituting back.",
+            "examples": [
+              {"problem": "Solve: 3x + 7 = 22", "answer": "x = 5", "explanation": "3x = 22-7 = 15, x = 15/3 = 5."},
+              {"problem": "Solve: 2(x-3) + 4 = 12", "answer": "x = 7", "explanation": "2x-6+4=12 → 2x-2=12 → 2x=14 → x=7."},
+              {"problem": "Solve: 5x - 3 = 2x + 9", "answer": "x = 4", "explanation": "3x = 12, x = 4."}
+            ],
+            "key_vocabulary": ["equation", "variable", "isolate", "like terms", "solution", "inverse operations"],
+            "real_world": "If a phone plan costs $30/month plus $0.10 per text, and your bill is $45, solve 30 + 0.10t = 45 to find texts sent."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve: 4x - 5 = 19. x = ___", "answer": "6", "hint": "4x = 24, x = 6."},
+            {"type": "fill_in", "question": "Solve: 3(x+2) = 21. x = ___", "answer": "5", "hint": "3x+6=21, 3x=15, x=5."},
+            {"type": "fill_in", "question": "Solve: 7x + 3 = 4x + 18. x = ___", "answer": "5", "hint": "3x = 15, x = 5."},
+            {"type": "fill_in", "question": "Solve: 2(3x-1) = 4x + 6. x = ___", "answer": "4", "hint": "6x-2=4x+6, 2x=8, x=4."},
+            {"type": "multiple_choice", "question": "Solve: -2x + 10 = 4", "options": ["x = -3", "x = 3", "x = 7", "x = -7"], "correct": 1, "hint": "-2x = -6, x = 3."},
+            {"type": "fill_in", "question": "Solve: (x+5)/2 = 7. x = ___", "answer": "9", "hint": "x+5=14, x=9."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-2-2",
+          "title": "Solving Inequalities",
+          "type": "lesson",
+          "content": {
+            "explanation": "Inequalities use <, >, ≤, ≥ instead of =. Solve like equations with ONE key difference: when you multiply or divide by a negative number, FLIP the inequality sign. Graph solutions on a number line: open circle for < or >, closed circle for ≤ or ≥.",
+            "examples": [
+              {"problem": "Solve: 3x + 2 > 11", "answer": "x > 3", "explanation": "3x > 9, x > 3."},
+              {"problem": "Solve: -2x ≤ 8", "answer": "x ≥ -4", "explanation": "Divide by -2 and flip: x ≥ -4."},
+              {"problem": "Solve: 5 - x < 3", "answer": "x > 2", "explanation": "-x < -2, flip: x > 2."}
+            ],
+            "key_vocabulary": ["inequality", "less than", "greater than", "flip the sign", "number line", "open circle", "closed circle"],
+            "real_world": "You need at least $50 for a concert. If you have $20 and earn $6/hour, solve 20 + 6h ≥ 50 to find hours needed."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve: 2x + 1 > 7. x > ___", "answer": "3", "hint": "2x > 6, x > 3."},
+            {"type": "fill_in", "question": "Solve: -4x < 20. x > ___", "answer": "-5", "hint": "Divide by -4, flip sign: x > -5."},
+            {"type": "multiple_choice", "question": "Solve: 3x - 5 ≤ 10", "options": ["x ≤ 5", "x ≥ 5", "x ≤ 15", "x ≥ -5"], "correct": 0, "hint": "3x ≤ 15, x ≤ 5."},
+            {"type": "fill_in", "question": "Solve: x/3 + 2 ≥ 6. x ≥ ___", "answer": "12", "hint": "x/3 ≥ 4, x ≥ 12."},
+            {"type": "multiple_choice", "question": "When do you flip the inequality sign?", "options": ["Adding a negative", "Subtracting", "Multiplying/dividing by a negative", "Never"], "correct": 2, "hint": "Only when multiplying or dividing by a negative."},
+            {"type": "fill_in", "question": "Solve: 5 - 2x > 1. x < ___", "answer": "2", "hint": "-2x > -4, x < 2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-2-3",
+          "title": "Absolute Value Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "For |expression| = k where k ≥ 0, set up TWO equations: expression = k AND expression = -k. Solve both. If k < 0, there is no solution (absolute value can't be negative). Always check solutions in the original equation.",
+            "examples": [
+              {"problem": "Solve: |x - 3| = 7", "answer": "x = 10 or x = -4", "explanation": "x-3=7 gives x=10. x-3=-7 gives x=-4."},
+              {"problem": "Solve: |2x + 1| = 5", "answer": "x = 2 or x = -3", "explanation": "2x+1=5 gives x=2. 2x+1=-5 gives x=-3."},
+              {"problem": "Solve: |x| = -3", "answer": "No solution", "explanation": "Absolute value is never negative."}
+            ],
+            "key_vocabulary": ["absolute value equation", "two cases", "no solution", "distance"],
+            "real_world": "Quality control: a part must be within 0.05mm of 10mm. Solve |x - 10| ≤ 0.05."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve |x| = 9. x = 9 or x = ___", "answer": "-9", "hint": "|x| = 9 means x = 9 or x = -9."},
+            {"type": "fill_in", "question": "Solve |x + 4| = 6. x = 2 or x = ___", "answer": "-10", "hint": "x+4=-6 gives x=-10."},
+            {"type": "multiple_choice", "question": "How many solutions does |x| = -5 have?", "options": ["0", "1", "2", "Infinite"], "correct": 0, "hint": "Absolute value is never negative."},
+            {"type": "fill_in", "question": "Solve |3x| = 12. x = 4 or x = ___", "answer": "-4", "hint": "3x = 12 or 3x = -12."},
+            {"type": "fill_in", "question": "Solve |x - 1| = 5. x = 6 or x = ___", "answer": "-4", "hint": "x-1=-5 gives x=-4."},
+            {"type": "multiple_choice", "question": "Solve |2x - 4| = 0", "options": ["x = 0", "x = 2", "x = -2", "No solution"], "correct": 1, "hint": "2x-4=0 means 2x=4, x=2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-2-4",
+          "title": "Literal Equations & Formulas",
+          "type": "lesson",
+          "content": {
+            "explanation": "A literal equation has multiple variables. To solve for one variable, use inverse operations to isolate it, treating other variables as constants. Common formulas: A=lw, P=2l+2w, d=rt, C=2πr, A=πr².",
+            "examples": [
+              {"problem": "Solve A = lw for w", "answer": "w = A/l", "explanation": "Divide both sides by l."},
+              {"problem": "Solve P = 2l + 2w for l", "answer": "l = (P - 2w)/2", "explanation": "Subtract 2w, then divide by 2."},
+              {"problem": "Solve d = rt for t", "answer": "t = d/r", "explanation": "Divide both sides by r."}
+            ],
+            "key_vocabulary": ["literal equation", "formula", "solve for", "isolate", "rearrange"],
+            "real_world": "Scientists rearrange formulas constantly. Converting F = 9C/5 + 32 to solve for C."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve d = rt for r. r = ___", "answer": "d/t", "hint": "Divide both sides by t."},
+            {"type": "fill_in", "question": "Solve C = 2πr for r. r = ___", "answer": "C/(2π)", "hint": "Divide both sides by 2π."},
+            {"type": "multiple_choice", "question": "Solve y = mx + b for x:", "options": ["x = (y-b)/m", "x = y-b-m", "x = ym/b", "x = y/m + b"], "correct": 0, "hint": "Subtract b, then divide by m."},
+            {"type": "fill_in", "question": "Solve A = (1/2)bh for h. h = ___", "answer": "2A/b", "hint": "Multiply by 2, then divide by b."},
+            {"type": "fill_in", "question": "Solve V = lwh for h. h = ___", "answer": "V/(lw)", "hint": "Divide both sides by lw."},
+            {"type": "multiple_choice", "question": "Solve I = Prt for P:", "options": ["P = Irt", "P = I/(rt)", "P = I - rt", "P = It/r"], "correct": 1, "hint": "Divide both sides by rt."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-2-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Solve: 5x - 3 = 2x + 12. x = ___", "answer": "5"},
+          {"type": "fill_in", "question": "Solve: -3x > 15. x < ___", "answer": "-5"},
+          {"type": "fill_in", "question": "Solve |x - 2| = 8. x = 10 or x = ___", "answer": "-6"},
+          {"type": "fill_in", "question": "Solve A = bh for b. b = ___", "answer": "A/h"},
+          {"type": "multiple_choice", "question": "Solve: 2(x+3) = 16", "options": ["x = 5", "x = 8", "x = 6.5", "x = 4"], "correct": 0}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "equation_solver"
+      }
+    },
+    {
+      "id": "9-math-3",
+      "title": "Graphing Linear Functions",
+      "description": "Graph lines using slope-intercept form, point-slope form, and standard form.",
+      "lessons": [
+        {
+          "id": "9-math-3-1",
+          "title": "Slope and Rate of Change",
+          "type": "lesson",
+          "content": {
+            "explanation": "Slope measures steepness: m = (y₂-y₁)/(x₂-x₁) = rise/run. Positive slope goes up left to right, negative goes down. Zero slope is horizontal, undefined slope is vertical.",
+            "examples": [
+              {"problem": "Find slope between (1,2) and (4,8)", "answer": "2", "explanation": "(8-2)/(4-1) = 6/3 = 2."},
+              {"problem": "Find slope between (0,5) and (3,5)", "answer": "0", "explanation": "(5-5)/(3-0) = 0/3 = 0. Horizontal line."},
+              {"problem": "Find slope between (-1,3) and (2,-3)", "answer": "-2", "explanation": "(-3-3)/(2-(-1)) = -6/3 = -2."}
+            ],
+            "key_vocabulary": ["slope", "rise", "run", "rate of change", "positive", "negative", "zero", "undefined"],
+            "real_world": "Slope = speed. If a car travels 150 miles in 3 hours, the rate of change is 150/3 = 50 mph."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Slope between (2,1) and (5,7) = ___", "answer": "2", "hint": "(7-1)/(5-2) = 6/3."},
+            {"type": "fill_in", "question": "Slope between (0,4) and (6,4) = ___", "answer": "0", "hint": "Same y-values = horizontal."},
+            {"type": "fill_in", "question": "Slope between (3,8) and (3,2) = ___", "answer": "undefined", "hint": "Same x-values = vertical line."},
+            {"type": "multiple_choice", "question": "A line going down left to right has:", "options": ["Positive slope", "Negative slope", "Zero slope", "Undefined slope"], "correct": 1, "hint": "Going down = negative."},
+            {"type": "fill_in", "question": "Slope between (-1,-2) and (3,6) = ___", "answer": "2", "hint": "(6-(-2))/(3-(-1)) = 8/4."},
+            {"type": "fill_in", "question": "Slope between (4,9) and (7,3) = ___", "answer": "-2", "hint": "(3-9)/(7-4) = -6/3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-3-2",
+          "title": "Slope-Intercept Form: y = mx + b",
+          "type": "lesson",
+          "content": {
+            "explanation": "Slope-intercept form is y = mx + b, where m is the slope and b is the y-intercept (where the line crosses the y-axis). To graph: plot the y-intercept (0, b), then use the slope to find more points.",
+            "examples": [
+              {"problem": "Identify slope and y-intercept of y = 3x - 2", "answer": "m=3, b=-2", "explanation": "Slope is the coefficient of x (3), y-intercept is the constant (-2)."},
+              {"problem": "Write equation: slope 2, y-intercept 5", "answer": "y = 2x + 5", "explanation": "Plug into y = mx + b."},
+              {"problem": "Write equation through (0,3) with slope -1", "answer": "y = -x + 3", "explanation": "b=3 (y-intercept), m=-1."}
+            ],
+            "key_vocabulary": ["slope-intercept form", "y-intercept", "coefficient", "constant", "linear function"],
+            "real_world": "A gym charges $25/month plus $50 signup fee. Cost = 25m + 50, where m is the slope (monthly rate) and 50 is the y-intercept."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "In y = -4x + 7, the slope is ___", "answer": "-4", "hint": "Coefficient of x is the slope."},
+            {"type": "fill_in", "question": "In y = 2x - 3, the y-intercept is ___", "answer": "-3", "hint": "The constant term is the y-intercept."},
+            {"type": "fill_in", "question": "Write equation: slope 5, y-intercept -1. y = ___", "answer": "5x - 1", "hint": "y = mx + b = 5x + (-1)."},
+            {"type": "multiple_choice", "question": "Which has the steepest slope?", "options": ["y = 2x + 1", "y = 5x - 3", "y = x + 4", "y = 3x"], "correct": 1, "hint": "Compare the coefficients of x. |5| is greatest."},
+            {"type": "fill_in", "question": "The line y = 6 has slope ___", "answer": "0", "hint": "y = 0x + 6. No x term means slope = 0."},
+            {"type": "multiple_choice", "question": "A line with y-intercept (0,4) and slope -2:", "options": ["y = -2x + 4", "y = 4x - 2", "y = 2x + 4", "y = -4x + 2"], "correct": 0, "hint": "y = mx + b = -2x + 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-3-3",
+          "title": "Point-Slope Form",
+          "type": "lesson",
+          "content": {
+            "explanation": "Point-slope form: y - y₁ = m(x - x₁), where m is the slope and (x₁,y₁) is a point on the line. Use this when you know the slope and one point (not necessarily the y-intercept). You can convert to slope-intercept form by distributing and solving for y.",
+            "examples": [
+              {"problem": "Write equation: slope 3, through (2,5)", "answer": "y - 5 = 3(x - 2)", "explanation": "Plug into y - y₁ = m(x - x₁)."},
+              {"problem": "Convert y - 5 = 3(x - 2) to slope-intercept", "answer": "y = 3x - 1", "explanation": "y - 5 = 3x - 6, y = 3x - 1."},
+              {"problem": "Write equation through (1,4) and (3,10)", "answer": "y - 4 = 3(x - 1)", "explanation": "Slope = (10-4)/(3-1) = 3. Use point (1,4)."}
+            ],
+            "key_vocabulary": ["point-slope form", "convert", "distribute", "known point"],
+            "real_world": "If temperature is 68°F at 8am and rises 3°F per hour, the equation is T - 68 = 3(h - 8)."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Point-slope form: slope 4, point (1,3). y - 3 = 4(x - ___)", "answer": "1", "hint": "x₁ = 1."},
+            {"type": "fill_in", "question": "Convert y - 2 = 5(x - 1) to slope-intercept: y = 5x - ___", "answer": "3", "hint": "y-2 = 5x-5, y = 5x-3."},
+            {"type": "fill_in", "question": "Slope between (0,1) and (2,7) = ___", "answer": "3", "hint": "(7-1)/(2-0) = 3."},
+            {"type": "multiple_choice", "question": "Point-slope through (3,-1) slope 2:", "options": ["y+1=2(x-3)", "y-1=2(x+3)", "y-3=2(x+1)", "y+3=2(x-1)"], "correct": 0, "hint": "y-(-1)=2(x-3) → y+1=2(x-3)."},
+            {"type": "fill_in", "question": "Convert y+4 = -2(x-3) to slope-intercept: y = -2x + ___", "answer": "2", "hint": "y+4=-2x+6, y=-2x+2."},
+            {"type": "fill_in", "question": "Line through (2,5) and (4,11). Slope = ___", "answer": "3", "hint": "(11-5)/(4-2) = 6/2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-3-4",
+          "title": "Parallel & Perpendicular Lines",
+          "type": "lesson",
+          "content": {
+            "explanation": "Parallel lines have the SAME slope (m₁ = m₂). They never intersect. Perpendicular lines have slopes that are negative reciprocals (m₁ × m₂ = -1). For example, if one line has slope 2, a perpendicular line has slope -1/2.",
+            "examples": [
+              {"problem": "Line parallel to y = 3x + 1 through (0,5)", "answer": "y = 3x + 5", "explanation": "Same slope (3), different intercept."},
+              {"problem": "Line perpendicular to y = 2x + 1 through (0,3)", "answer": "y = -x/2 + 3", "explanation": "Perpendicular slope = -1/2."},
+              {"problem": "Are y = 4x + 1 and y = 4x - 7 parallel?", "answer": "Yes", "explanation": "Same slope (4), different intercepts."}
+            ],
+            "key_vocabulary": ["parallel", "perpendicular", "negative reciprocal", "same slope", "intersect"],
+            "real_world": "Streets in a grid are either parallel or perpendicular. Railroad tracks are parallel lines."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Slope parallel to y = 5x - 2: ___", "answer": "5", "hint": "Parallel = same slope."},
+            {"type": "fill_in", "question": "Slope perpendicular to y = 3x + 1: ___", "answer": "-1/3", "hint": "Negative reciprocal of 3 is -1/3."},
+            {"type": "multiple_choice", "question": "Are y=2x+3 and y=-2x+1 perpendicular?", "options": ["Yes", "No", "They're parallel", "Can't tell"], "correct": 1, "hint": "2×(-2)=-4, not -1. So not perpendicular."},
+            {"type": "fill_in", "question": "Slope perpendicular to y = -1/4 x + 2: ___", "answer": "4", "hint": "Negative reciprocal of -1/4 is 4."},
+            {"type": "multiple_choice", "question": "Parallel to y = -x + 5 through (0,2):", "options": ["y=-x+2", "y=x+2", "y=-x+5", "y=x-2"], "correct": 0, "hint": "Same slope (-1), y-int is 2."},
+            {"type": "fill_in", "question": "If m₁=2/3, perpendicular slope m₂ = ___", "answer": "-3/2", "hint": "Flip and negate: -3/2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-3-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Slope between (1,3) and (4,12) = ___", "answer": "3"},
+          {"type": "fill_in", "question": "In y = -2x + 8, the y-intercept is ___", "answer": "8"},
+          {"type": "fill_in", "question": "Slope perpendicular to slope 4: ___", "answer": "-1/4"},
+          {"type": "fill_in", "question": "Convert y-6=2(x-1): y = 2x + ___", "answer": "4"},
+          {"type": "multiple_choice", "question": "Parallel lines have:", "options": ["Same slope", "Opposite slopes", "Perpendicular slopes", "No slope"], "correct": 0}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "graphing_guru"
+      }
+    },
+    {
+      "id": "9-math-4",
+      "title": "Systems of Linear Equations",
+      "description": "Solve systems of two equations using graphing, substitution, and elimination.",
+      "lessons": [
+        {
+          "id": "9-math-4-1",
+          "title": "Solving by Graphing",
+          "type": "lesson",
+          "content": {
+            "explanation": "A system of equations is two or more equations with the same variables. The solution is the point(s) where the graphs intersect. Three possibilities: one solution (lines cross), no solution (parallel lines), infinitely many solutions (same line).",
+            "examples": [
+              {"problem": "y = x + 1 and y = -x + 5", "answer": "(2, 3)", "explanation": "Set equal: x+1=-x+5 → 2x=4 → x=2. Then y=3."},
+              {"problem": "y = 2x + 1 and y = 2x - 3", "answer": "No solution", "explanation": "Same slope, different intercepts = parallel."},
+              {"problem": "y = 3x - 2 and 2y = 6x - 4", "answer": "Infinitely many", "explanation": "Second equation simplifies to y = 3x - 2. Same line."}
+            ],
+            "key_vocabulary": ["system of equations", "intersection", "consistent", "inconsistent", "dependent"],
+            "real_world": "Two cars traveling toward each other: when do they meet? Solve their position equations simultaneously."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "y=x+2 and y=-x+6 intersect at x=___", "answer": "2", "hint": "x+2=-x+6, 2x=4, x=2."},
+            {"type": "multiple_choice", "question": "y=3x+1 and y=3x+5 have:", "options": ["One solution", "No solution", "Infinitely many", "Two solutions"], "correct": 1, "hint": "Same slope, different intercept = parallel."},
+            {"type": "fill_in", "question": "y=2x and y=x+4. The solution is (4, ___)", "answer": "8", "hint": "2x=x+4, x=4, y=2(4)=8."},
+            {"type": "fill_in", "question": "y=x+3 and y=-2x+9 meet at x=___", "answer": "2", "hint": "x+3=-2x+9, 3x=6, x=2."},
+            {"type": "multiple_choice", "question": "If two lines have the same equation:", "options": ["No solution", "One solution", "Infinitely many solutions", "Two solutions"], "correct": 2, "hint": "Same line = every point is a solution."},
+            {"type": "fill_in", "question": "y=-x+5 and y=3x-3 meet at x=___", "answer": "2", "hint": "-x+5=3x-3, 8=4x, x=2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-4-2",
+          "title": "Solving by Substitution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Substitution method: 1) Solve one equation for one variable. 2) Substitute that expression into the other equation. 3) Solve for the remaining variable. 4) Back-substitute to find the other variable. Best when one variable is already isolated.",
+            "examples": [
+              {"problem": "y = 3x and x + y = 8", "answer": "(2, 6)", "explanation": "Substitute: x + 3x = 8 → 4x = 8 → x = 2. y = 3(2) = 6."},
+              {"problem": "x = y + 2 and 3x - y = 10", "answer": "(4, 2)", "explanation": "Substitute: 3(y+2)-y=10 → 2y+6=10 → y=2, x=4."},
+              {"problem": "y = x - 1 and 2x + y = 8", "answer": "(3, 2)", "explanation": "2x+(x-1)=8 → 3x=9 → x=3. y=2."}
+            ],
+            "key_vocabulary": ["substitution", "isolate", "back-substitute", "expression"],
+            "real_world": "Movie tickets: 2 adults + 3 kids = $36, adult = kid + $3. Use substitution to find each price."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "y=2x, x+y=9. x=___", "answer": "3", "hint": "x+2x=9, 3x=9."},
+            {"type": "fill_in", "question": "x=y+1, 2x+y=8. y=___", "answer": "2", "hint": "2(y+1)+y=8, 3y+2=8, 3y=6."},
+            {"type": "fill_in", "question": "y=4x, 3x+y=14. x=___", "answer": "2", "hint": "3x+4x=14, 7x=14."},
+            {"type": "fill_in", "question": "x=3y, x-y=10. y=___", "answer": "5", "hint": "3y-y=10, 2y=10."},
+            {"type": "multiple_choice", "question": "y=x+5, x+y=11. Solution:", "options": ["(3,8)", "(4,7)", "(5,6)", "(2,9)"], "correct": 0, "hint": "x+x+5=11, 2x=6, x=3, y=8."},
+            {"type": "fill_in", "question": "y=-x+7, 2x+y=10. x=___", "answer": "3", "hint": "2x+(-x+7)=10, x=3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-4-3",
+          "title": "Solving by Elimination",
+          "type": "lesson",
+          "content": {
+            "explanation": "Elimination method: 1) Align equations vertically. 2) Multiply one or both equations so one variable has opposite coefficients. 3) Add the equations to eliminate that variable. 4) Solve, then back-substitute. Best when both equations are in standard form (Ax + By = C).",
+            "examples": [
+              {"problem": "x + y = 10 and x - y = 4", "answer": "(7, 3)", "explanation": "Add equations: 2x = 14, x = 7. Then y = 3."},
+              {"problem": "2x + 3y = 12 and x + 3y = 9", "answer": "(3, 2)", "explanation": "Subtract: x = 3. Then 3 + 3y = 9, y = 2."},
+              {"problem": "3x + 2y = 16 and x + y = 6", "answer": "(4, 2)", "explanation": "Multiply 2nd by -2: -2x-2y=-12. Add: x=4. y=2."}
+            ],
+            "key_vocabulary": ["elimination", "opposite coefficients", "add equations", "standard form", "multiply"],
+            "real_world": "Two purchases at a store: 3 shirts + 2 pants = $94, 3 shirts + 4 pants = $148. Subtract to find pant price."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "x+y=7 and x-y=3. x=___", "answer": "5", "hint": "Add: 2x=10, x=5."},
+            {"type": "fill_in", "question": "2x+y=11 and x+y=7. x=___", "answer": "4", "hint": "Subtract: x=4."},
+            {"type": "fill_in", "question": "3x+2y=14 and x+2y=6. x=___", "answer": "4", "hint": "Subtract: 2x=8, x=4."},
+            {"type": "fill_in", "question": "x+y=7 and x-y=3. y=___", "answer": "2", "hint": "x=5, so 5+y=7, y=2."},
+            {"type": "multiple_choice", "question": "2x+3y=12 and 2x+y=8. Subtract to get:", "options": ["2y=4", "4x=20", "4y=4", "y=4"], "correct": 0, "hint": "2x+3y-(2x+y)=12-8 → 2y=4."},
+            {"type": "fill_in", "question": "x+2y=10 and 3x+2y=18. x=___", "answer": "4", "hint": "Subtract: -2x=-8, x=4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-4-4",
+          "title": "Applications of Systems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many word problems translate to systems of equations. Define variables, write two equations from the given information, then solve using your preferred method. Common types: mixture problems, distance-rate-time, cost problems.",
+            "examples": [
+              {"problem": "The sum of two numbers is 20. Their difference is 6. Find them.", "answer": "13 and 7", "explanation": "x+y=20, x-y=6. Add: 2x=26, x=13. y=7."},
+              {"problem": "5 apples + 3 oranges = $11. 2 apples + 3 oranges = $8. Find apple price.", "answer": "$1", "explanation": "Subtract: 3 apples = $3. Apple = $1."},
+              {"problem": "Two trains 300mi apart. One goes 60mph, other 40mph toward each other. When meet?", "answer": "3 hours", "explanation": "60t+40t=300 → 100t=300 → t=3."}
+            ],
+            "key_vocabulary": ["system application", "define variables", "word problem", "translate"],
+            "real_world": "Business: Revenue = price × quantity. If you sell hats ($10) and shirts ($15) for $260 total, and sell 20 items, how many of each?"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Two numbers sum to 15, differ by 3. Larger = ___", "answer": "9", "hint": "x+y=15, x-y=3. Add: 2x=18, x=9."},
+            {"type": "fill_in", "question": "3 pens + 2 notebooks = $13. 1 pen + 2 notebooks = $9. Pen costs $___", "answer": "2", "hint": "Subtract: 2 pens=$4, pen=$2."},
+            {"type": "fill_in", "question": "x + y = 20 and 2x + y = 28. x = ___", "answer": "8", "hint": "Subtract: x=8."},
+            {"type": "word_problem", "question": "Adult ticket $8, child $5. 50 people paid $310 total. How many adults?", "answer": "20", "operation": "8a + 5c = 310, a + c = 50", "hint": "a+c=50, 8a+5c=310. From 1st: c=50-a. Sub: 8a+5(50-a)=310, 3a=60."},
+            {"type": "fill_in", "question": "Two numbers: sum is 25, twice the first plus the second is 40. First = ___", "answer": "15", "hint": "x+y=25, 2x+y=40. Subtract: x=15."},
+            {"type": "fill_in", "question": "x+y=12 and x-y=2. y=___", "answer": "5", "hint": "Add: 2x=14, x=7. Then y=5."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-4-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "y=2x and x+y=9. x=___", "answer": "3"},
+          {"type": "fill_in", "question": "x+y=10 and x-y=2. x=___", "answer": "6"},
+          {"type": "fill_in", "question": "Two numbers sum to 30, differ by 8. Larger=___", "answer": "19"},
+          {"type": "multiple_choice", "question": "y=2x+1 and y=2x-5 have:", "options": ["One solution", "No solution", "Infinite solutions", "Two solutions"], "correct": 1},
+          {"type": "fill_in", "question": "3x+y=13 and x+y=7. x=___", "answer": "3"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "systems_solver"
+      }
+    },
+    {
+      "id": "9-math-5",
+      "title": "Polynomials & Exponents",
+      "description": "Apply laws of exponents and perform operations on polynomials.",
+      "lessons": [
+        {
+          "id": "9-math-5-1",
+          "title": "Laws of Exponents",
+          "type": "lesson",
+          "content": {
+            "explanation": "Key rules: Product rule: aᵐ·aⁿ = aᵐ⁺ⁿ. Quotient rule: aᵐ/aⁿ = aᵐ⁻ⁿ. Power rule: (aᵐ)ⁿ = aᵐⁿ. Zero exponent: a⁰ = 1 (a≠0). Negative exponent: a⁻ⁿ = 1/aⁿ. Product to power: (ab)ⁿ = aⁿbⁿ.",
+            "examples": [
+              {"problem": "Simplify: x³ · x⁵", "answer": "x⁸", "explanation": "Add exponents: 3+5 = 8."},
+              {"problem": "Simplify: (2x²)³", "answer": "8x⁶", "explanation": "2³ = 8, (x²)³ = x⁶."},
+              {"problem": "Simplify: x⁷/x³", "answer": "x⁴", "explanation": "Subtract exponents: 7-3 = 4."}
+            ],
+            "key_vocabulary": ["exponent", "base", "power", "product rule", "quotient rule", "zero exponent"],
+            "real_world": "Computer memory doubles each generation: 2¹⁰ = 1024 (1KB), 2²⁰ ≈ 1 million (1MB), 2³⁰ ≈ 1 billion (1GB)."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "x⁴ · x³ = x^___", "answer": "7", "hint": "4+3=7."},
+            {"type": "fill_in", "question": "y¹⁰ / y⁶ = y^___", "answer": "4", "hint": "10-6=4."},
+            {"type": "fill_in", "question": "(x³)⁴ = x^___", "answer": "12", "hint": "3×4=12."},
+            {"type": "fill_in", "question": "5⁰ = ___", "answer": "1", "hint": "Anything to the 0 power is 1."},
+            {"type": "fill_in", "question": "2⁻³ = 1/___", "answer": "8", "hint": "2⁻³ = 1/2³ = 1/8."},
+            {"type": "fill_in", "question": "(3x²)² = ___x⁴", "answer": "9", "hint": "3²=9, (x²)²=x⁴."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-5-2",
+          "title": "Adding & Subtracting Polynomials",
+          "type": "lesson",
+          "content": {
+            "explanation": "A polynomial is a sum of terms with variables raised to whole number powers. To add/subtract: combine like terms (same variable and exponent). Polynomials are classified by degree (highest exponent) and number of terms: monomial (1), binomial (2), trinomial (3).",
+            "examples": [
+              {"problem": "(3x² + 2x + 1) + (x² - 4x + 5)", "answer": "4x² - 2x + 6", "explanation": "Combine like terms: 3x²+x²=4x², 2x+(-4x)=-2x, 1+5=6."},
+              {"problem": "(5x² - 3x) - (2x² + x)", "answer": "3x² - 4x", "explanation": "Distribute the minus: 5x²-3x-2x²-x = 3x²-4x."},
+              {"problem": "Classify 4x³ - 2x + 7", "answer": "Trinomial, degree 3", "explanation": "3 terms, highest exponent is 3."}
+            ],
+            "key_vocabulary": ["polynomial", "monomial", "binomial", "trinomial", "degree", "like terms", "coefficient"],
+            "real_world": "Polynomial expressions model business costs: total cost = fixed + variable per unit + overhead per unit²."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(2x+3)+(4x+1) = 6x + ___", "answer": "4", "hint": "3+1=4."},
+            {"type": "fill_in", "question": "(5x²+x)-(2x²+3x) = 3x² - ___x", "answer": "2", "hint": "x-3x=-2x."},
+            {"type": "multiple_choice", "question": "Degree of 7x⁴-3x²+x:", "options": ["1", "2", "3", "4"], "correct": 3, "hint": "Highest power of x is 4."},
+            {"type": "fill_in", "question": "(x²+3x+2)+(2x²-x+4) = 3x² + ___x + 6", "answer": "2", "hint": "3x+(-x)=2x."},
+            {"type": "multiple_choice", "question": "3x²+2x-1 is a:", "options": ["Monomial", "Binomial", "Trinomial", "Polynomial of 4 terms"], "correct": 2, "hint": "Count the terms: 3."},
+            {"type": "fill_in", "question": "(4x³-x)-(x³+2x) = 3x³ - ___x", "answer": "3", "hint": "-x-2x=-3x."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-5-3",
+          "title": "Multiplying Polynomials",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply polynomials, use the distributive property. For binomials, use FOIL: First, Outer, Inner, Last. For larger polynomials, multiply each term by every term in the other polynomial, then combine like terms.",
+            "examples": [
+              {"problem": "3x(x+4)", "answer": "3x²+12x", "explanation": "3x·x=3x², 3x·4=12x."},
+              {"problem": "(x+2)(x+5)", "answer": "x²+7x+10", "explanation": "FOIL: x²+5x+2x+10 = x²+7x+10."},
+              {"problem": "(2x-1)(x+3)", "answer": "2x²+5x-3", "explanation": "2x²+6x-x-3 = 2x²+5x-3."}
+            ],
+            "key_vocabulary": ["FOIL", "distribute", "product", "expand", "combine like terms"],
+            "real_world": "Area of a rectangular garden (x+3) by (x+5) = x²+8x+15 square feet."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "2x(x+3) = 2x² + ___x", "answer": "6", "hint": "2x × 3 = 6x."},
+            {"type": "fill_in", "question": "(x+1)(x+4) = x² + 5x + ___", "answer": "4", "hint": "Last: 1×4=4."},
+            {"type": "fill_in", "question": "(x+3)(x-3) = x² - ___", "answer": "9", "hint": "Difference of squares: a²-b² = (a+b)(a-b)."},
+            {"type": "fill_in", "question": "(x+2)² = x² + 4x + ___", "answer": "4", "hint": "(x+2)(x+2) = x²+2x+2x+4."},
+            {"type": "fill_in", "question": "(3x+1)(x+2) = 3x² + ___x + 2", "answer": "7", "hint": "6x+x=7x."},
+            {"type": "multiple_choice", "question": "(x-5)(x+5) = ?", "options": ["x²-25", "x²+25", "x²-10x+25", "x²+10x+25"], "correct": 0, "hint": "Difference of squares: (a-b)(a+b)=a²-b²."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-5-4",
+          "title": "Special Products & Scientific Notation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Special products: (a+b)² = a²+2ab+b² (perfect square trinomial). (a-b)² = a²-2ab+b². (a+b)(a-b) = a²-b² (difference of squares). Scientific notation: a × 10ⁿ where 1 ≤ a < 10. Used for very large or small numbers.",
+            "examples": [
+              {"problem": "(x+4)²", "answer": "x²+8x+16", "explanation": "a²+2ab+b² = x²+2(x)(4)+16."},
+              {"problem": "Write 45000 in scientific notation", "answer": "4.5 × 10⁴", "explanation": "Move decimal 4 places left."},
+              {"problem": "(3×10²)(2×10³)", "answer": "6×10⁵", "explanation": "3×2=6, 10²×10³=10⁵."}
+            ],
+            "key_vocabulary": ["perfect square trinomial", "difference of squares", "scientific notation", "exponent"],
+            "real_world": "The distance to the Sun is 9.3 × 10⁷ miles. Scientific notation makes huge numbers manageable."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(x+5)² = x² + 10x + ___", "answer": "25", "hint": "b² = 5² = 25."},
+            {"type": "fill_in", "question": "(x-3)² = x² - 6x + ___", "answer": "9", "hint": "b² = 3² = 9."},
+            {"type": "fill_in", "question": "Write 3200 in scientific notation: ___ × 10³", "answer": "3.2", "hint": "Move decimal 3 places left."},
+            {"type": "fill_in", "question": "(2×10³)(4×10²) = ___ × 10⁵", "answer": "8", "hint": "2×4=8, add exponents 3+2=5."},
+            {"type": "fill_in", "question": "(x+7)(x-7) = x² - ___", "answer": "49", "hint": "Difference of squares: 7²=49."},
+            {"type": "multiple_choice", "question": "0.0056 in scientific notation:", "options": ["5.6×10⁻³", "5.6×10³", "56×10⁻⁴", "0.56×10⁻²"], "correct": 0, "hint": "Move decimal 3 places right: 5.6×10⁻³."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-5-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "x⁵·x³ = x^___", "answer": "8"},
+          {"type": "fill_in", "question": "(x+3)(x+2) = x²+5x+___", "answer": "6"},
+          {"type": "fill_in", "question": "(x+6)(x-6) = x²-___", "answer": "36"},
+          {"type": "fill_in", "question": "(x+4)² = x²+8x+___", "answer": "16"},
+          {"type": "fill_in", "question": "Write 7500 in scientific notation: ___×10³", "answer": "7.5"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "polynomial_pro"
+      }
+    },
+    {
+      "id": "9-math-6",
+      "title": "Factoring",
+      "description": "Factor polynomials using GCF, trinomial patterns, and difference of squares.",
+      "lessons": [
+        {
+          "id": "9-math-6-1",
+          "title": "Factoring Out the GCF",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Greatest Common Factor (GCF) is the largest factor shared by all terms. To factor: 1) Find the GCF of all terms. 2) Divide each term by the GCF. 3) Write as GCF × (remaining terms). Always factor out the GCF first before trying other methods.",
+            "examples": [
+              {"problem": "Factor: 6x + 12", "answer": "6(x + 2)", "explanation": "GCF = 6. 6x/6=x, 12/6=2."},
+              {"problem": "Factor: 4x² - 8x", "answer": "4x(x - 2)", "explanation": "GCF = 4x. 4x²/4x=x, -8x/4x=-2."},
+              {"problem": "Factor: 3x³ + 9x² + 6x", "answer": "3x(x² + 3x + 2)", "explanation": "GCF = 3x."}
+            ],
+            "key_vocabulary": ["factor", "GCF", "greatest common factor", "common factor", "factoring out"],
+            "real_world": "Factoring simplifies expressions, like reducing a fraction: 12/18 = 6·2/(6·3) = 2/3."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Factor: 8x + 16 = 8(x + ___)", "answer": "2", "hint": "16/8=2."},
+            {"type": "fill_in", "question": "Factor: 5x²-10x = 5x(x - ___)", "answer": "2", "hint": "-10x/5x=-2."},
+            {"type": "fill_in", "question": "GCF of 12x³ and 18x² is ___x²", "answer": "6", "hint": "GCF(12,18)=6, min power of x is 2."},
+            {"type": "multiple_choice", "question": "Factor: 3x²+9x", "options": ["3(x²+3x)", "3x(x+3)", "x(3x+9)", "9x(x+1)"], "correct": 1, "hint": "GCF is 3x."},
+            {"type": "fill_in", "question": "Factor: 2x³+4x²+6x = 2x(x²+2x+___)", "answer": "3", "hint": "6x/2x=3."},
+            {"type": "fill_in", "question": "Factor: 10x²-15x = 5x(___ - 3)", "answer": "2x", "hint": "10x²/5x=2x."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-6-2",
+          "title": "Factoring Trinomials (x² + bx + c)",
+          "type": "lesson",
+          "content": {
+            "explanation": "To factor x² + bx + c, find two numbers that multiply to c and add to b. Then write as (x + p)(x + q) where p·q = c and p+q = b. Check by FOIL.",
+            "examples": [
+              {"problem": "Factor: x² + 7x + 12", "answer": "(x+3)(x+4)", "explanation": "3×4=12 and 3+4=7."},
+              {"problem": "Factor: x² - 5x + 6", "answer": "(x-2)(x-3)", "explanation": "(-2)×(-3)=6 and (-2)+(-3)=-5."},
+              {"problem": "Factor: x² + 2x - 15", "answer": "(x+5)(x-3)", "explanation": "5×(-3)=-15 and 5+(-3)=2."}
+            ],
+            "key_vocabulary": ["trinomial", "factor pair", "sum", "product", "check by FOIL"],
+            "real_world": "Factoring helps solve quadratic equations, which model projectile motion, area, and optimization."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Factor x²+5x+6 = (x+2)(x+___)", "answer": "3", "hint": "2×3=6, 2+3=5."},
+            {"type": "fill_in", "question": "Factor x²-7x+10 = (x-2)(x-___)", "answer": "5", "hint": "(-2)×(-5)=10, (-2)+(-5)=-7."},
+            {"type": "fill_in", "question": "Factor x²+x-12 = (x+4)(x-___)", "answer": "3", "hint": "4×(-3)=-12, 4+(-3)=1."},
+            {"type": "multiple_choice", "question": "Factor x²-9x+20:", "options": ["(x-4)(x-5)", "(x+4)(x+5)", "(x-4)(x+5)", "(x+4)(x-5)"], "correct": 0, "hint": "(-4)×(-5)=20, (-4)+(-5)=-9."},
+            {"type": "fill_in", "question": "Factor x²+6x+8 = (x+2)(x+___)", "answer": "4", "hint": "2×4=8, 2+4=6."},
+            {"type": "fill_in", "question": "Factor x²-x-6 = (x-3)(x+___)", "answer": "2", "hint": "(-3)×2=-6, (-3)+2=-1."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-6-3",
+          "title": "Difference of Squares & Factoring by Grouping",
+          "type": "lesson",
+          "content": {
+            "explanation": "Difference of squares: a² - b² = (a+b)(a-b). Both terms must be perfect squares separated by subtraction. Factoring by grouping: for 4-term polynomials, group into pairs, factor each pair, then factor out the common binomial.",
+            "examples": [
+              {"problem": "Factor: x² - 25", "answer": "(x+5)(x-5)", "explanation": "x²-5² = (x+5)(x-5)."},
+              {"problem": "Factor: 4x² - 9", "answer": "(2x+3)(2x-3)", "explanation": "(2x)²-3² = (2x+3)(2x-3)."},
+              {"problem": "Factor: x³+2x²+3x+6", "answer": "(x²+3)(x+2)", "explanation": "Group: x²(x+2)+3(x+2) = (x²+3)(x+2)."}
+            ],
+            "key_vocabulary": ["difference of squares", "perfect square", "factoring by grouping", "common binomial"],
+            "real_world": "Mental math trick: 47×53 = (50-3)(50+3) = 50²-9 = 2500-9 = 2491."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Factor x²-16 = (x+4)(x-___)", "answer": "4", "hint": "16=4². Difference of squares."},
+            {"type": "fill_in", "question": "Factor 9x²-1 = (3x+1)(___-1)", "answer": "3x", "hint": "9x²=(3x)². So (3x+1)(3x-1)."},
+            {"type": "multiple_choice", "question": "Factor x²-49:", "options": ["(x+7)(x-7)", "(x+49)(x-1)", "(x-7)²", "(x+7)²"], "correct": 0, "hint": "49=7². Difference of squares."},
+            {"type": "fill_in", "question": "Factor 25x²-4 = (5x+2)(5x-___)", "answer": "2", "hint": "25x²=(5x)², 4=2²."},
+            {"type": "fill_in", "question": "Factor x²-100 = (x+___)(x-10)", "answer": "10", "hint": "100=10²."},
+            {"type": "multiple_choice", "question": "Can x²+9 be factored as difference of squares?", "options": ["Yes: (x+3)(x-3)", "No: it's a SUM of squares", "Yes: (x+9)(x-1)", "Yes: (x+3)²"], "correct": 1, "hint": "SUM of squares cannot be factored with real numbers."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-6-4",
+          "title": "Solving Equations by Factoring",
+          "type": "lesson",
+          "content": {
+            "explanation": "Zero Product Property: if a·b = 0, then a = 0 or b = 0. To solve by factoring: 1) Move everything to one side (= 0). 2) Factor completely. 3) Set each factor = 0. 4) Solve each equation.",
+            "examples": [
+              {"problem": "Solve: x²+5x+6=0", "answer": "x=-2 or x=-3", "explanation": "(x+2)(x+3)=0. x+2=0→x=-2. x+3=0→x=-3."},
+              {"problem": "Solve: x²-9=0", "answer": "x=3 or x=-3", "explanation": "(x+3)(x-3)=0."},
+              {"problem": "Solve: 2x²-6x=0", "answer": "x=0 or x=3", "explanation": "2x(x-3)=0. 2x=0→x=0. x-3=0→x=3."}
+            ],
+            "key_vocabulary": ["zero product property", "roots", "solutions", "set equal to zero"],
+            "real_world": "A ball thrown upward: height h=-16t²+48t. When does it land? Solve -16t²+48t=0."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve x²+3x+2=0. x=-1 or x=___", "answer": "-2", "hint": "(x+1)(x+2)=0."},
+            {"type": "fill_in", "question": "Solve x²-25=0. x=5 or x=___", "answer": "-5", "hint": "(x+5)(x-5)=0."},
+            {"type": "fill_in", "question": "Solve x²-4x=0. x=0 or x=___", "answer": "4", "hint": "x(x-4)=0."},
+            {"type": "fill_in", "question": "Solve x²-x-12=0. x=4 or x=___", "answer": "-3", "hint": "(x-4)(x+3)=0."},
+            {"type": "multiple_choice", "question": "Solve x²+6x+9=0:", "options": ["x=-3 (double root)", "x=3", "x=-3 or x=3", "No solution"], "correct": 0, "hint": "(x+3)²=0, so x=-3 only."},
+            {"type": "fill_in", "question": "Solve x²-7x+12=0. x=3 or x=___", "answer": "4", "hint": "(x-3)(x-4)=0."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-6-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Factor: 6x²-12x = 6x(x-___)", "answer": "2"},
+          {"type": "fill_in", "question": "Factor: x²+8x+15 = (x+3)(x+___)", "answer": "5"},
+          {"type": "fill_in", "question": "Factor: x²-36 = (x+6)(x-___)", "answer": "6"},
+          {"type": "fill_in", "question": "Solve x²-5x+6=0. x=2 or x=___", "answer": "3"},
+          {"type": "fill_in", "question": "Solve x²-16=0. x=4 or x=___", "answer": "-4"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "factoring_champion"
+      }
+    },
+    {
+      "id": "9-math-7",
+      "title": "Quadratic Equations Introduction",
+      "description": "Solve quadratic equations using the quadratic formula and understand their graphs.",
+      "lessons": [
+        {
+          "id": "9-math-7-1",
+          "title": "The Quadratic Formula",
+          "type": "lesson",
+          "content": {
+            "explanation": "For ax²+bx+c=0, the quadratic formula gives: x = (-b ± √(b²-4ac)) / 2a. This always works, even when factoring doesn't. The discriminant (b²-4ac) tells us: positive = 2 real solutions, zero = 1 real solution, negative = no real solutions.",
+            "examples": [
+              {"problem": "Solve x²+2x-3=0", "answer": "x=1 or x=-3", "explanation": "a=1,b=2,c=-3. x=(-2±√(4+12))/2=(-2±4)/2. x=1 or x=-3."},
+              {"problem": "Solve x²-6x+9=0", "answer": "x=3", "explanation": "Discriminant=36-36=0. One solution: x=(6±0)/2=3."},
+              {"problem": "Discriminant of x²+x+1=0", "answer": "-3 (no real solutions)", "explanation": "b²-4ac=1-4=-3<0."}
+            ],
+            "key_vocabulary": ["quadratic formula", "discriminant", "real solutions", "standard form", "a, b, c"],
+            "real_world": "Quadratic equations model projectile motion: when does a ball hit the ground?"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "For 2x²+3x-5=0, the discriminant b²-4ac = ___", "answer": "49", "hint": "9-4(2)(-5)=9+40=49."},
+            {"type": "fill_in", "question": "Solve x²-4x+3=0. x=1 or x=___", "answer": "3", "hint": "x=(4±√(16-12))/2=(4±2)/2."},
+            {"type": "multiple_choice", "question": "Discriminant < 0 means:", "options": ["2 real solutions", "1 real solution", "No real solutions", "Infinite solutions"], "correct": 2, "hint": "Negative under the square root = no real solutions."},
+            {"type": "fill_in", "question": "Solve x²-x-6=0. x=3 or x=___", "answer": "-2", "hint": "x=(1±√(1+24))/2=(1±5)/2."},
+            {"type": "fill_in", "question": "For x²+4x+4=0, discriminant = ___", "answer": "0", "hint": "16-16=0. One solution."},
+            {"type": "fill_in", "question": "Solve x²+6x+5=0. x=-1 or x=___", "answer": "-5", "hint": "x=(-6±√(36-20))/2=(-6±4)/2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-7-2",
+          "title": "Graphing Quadratics",
+          "type": "lesson",
+          "content": {
+            "explanation": "A quadratic y=ax²+bx+c graphs as a parabola. If a>0, it opens up (minimum). If a<0, it opens down (maximum). The vertex (turning point) is at x=-b/(2a). The axis of symmetry is the vertical line x=-b/(2a). The y-intercept is (0,c).",
+            "examples": [
+              {"problem": "Vertex of y=x²-4x+3", "answer": "(2,-1)", "explanation": "x=-(-4)/(2·1)=2. y=4-8+3=-1."},
+              {"problem": "Does y=-2x²+3 open up or down?", "answer": "Down", "explanation": "a=-2<0, so parabola opens down."},
+              {"problem": "Y-intercept of y=x²+5x-6", "answer": "(0,-6)", "explanation": "Set x=0: y=-6."}
+            ],
+            "key_vocabulary": ["parabola", "vertex", "axis of symmetry", "opens up/down", "minimum", "maximum"],
+            "real_world": "The path of a basketball follows a parabola. The vertex is the highest point of the arc."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Vertex x-coordinate of y=x²-6x+8: x=___", "answer": "3", "hint": "x=-(-6)/(2×1)=3."},
+            {"type": "multiple_choice", "question": "y=3x²+2 opens:", "options": ["Up", "Down", "Left", "Right"], "correct": 0, "hint": "a=3>0, opens up."},
+            {"type": "fill_in", "question": "Y-intercept of y=2x²-3x+7 is (0,___)", "answer": "7", "hint": "Set x=0: y=7."},
+            {"type": "fill_in", "question": "Axis of symmetry of y=x²+8x+15: x=___", "answer": "-4", "hint": "x=-8/(2×1)=-4."},
+            {"type": "multiple_choice", "question": "y=-x²+4 has a:", "options": ["Minimum at vertex", "Maximum at vertex", "No vertex", "Two vertices"], "correct": 1, "hint": "a<0 opens down, so vertex is maximum."},
+            {"type": "fill_in", "question": "Vertex y-coordinate of y=x²-2x: y=___", "answer": "-1", "hint": "Vertex x=1. y=1-2=-1."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-7-3",
+          "title": "Solving by Square Roots & Completing the Square",
+          "type": "lesson",
+          "content": {
+            "explanation": "For x²=k, take square root: x=±√k. For (x+a)²=k, take square root: x+a=±√k. Completing the square: rewrite ax²+bx+c=0 as (x+b/2)²=k. Take half of b, square it, add to both sides.",
+            "examples": [
+              {"problem": "Solve: x²=49", "answer": "x=±7", "explanation": "Take square root of both sides."},
+              {"problem": "Solve: (x-3)²=16", "answer": "x=7 or x=-1", "explanation": "x-3=±4. x=3+4=7 or x=3-4=-1."},
+              {"problem": "Complete the square: x²+6x=7", "answer": "(x+3)²=16, x=1 or x=-7", "explanation": "Half of 6 is 3, 3²=9. x²+6x+9=16. (x+3)²=16."}
+            ],
+            "key_vocabulary": ["square root method", "completing the square", "perfect square trinomial"],
+            "real_world": "Completing the square converts a quadratic to vertex form, revealing the maximum/minimum directly."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Solve x²=64. x=8 or x=___", "answer": "-8", "hint": "x=±√64=±8."},
+            {"type": "fill_in", "question": "Solve (x+2)²=25. x=3 or x=___", "answer": "-7", "hint": "x+2=±5. x=-2+5=3 or x=-2-5=-7."},
+            {"type": "fill_in", "question": "Complete the square: x²+4x. Add ___ to both sides.", "answer": "4", "hint": "Half of 4 is 2, 2²=4."},
+            {"type": "fill_in", "question": "Solve (x-5)²=9. x=8 or x=___", "answer": "2", "hint": "x-5=±3. x=8 or x=2."},
+            {"type": "fill_in", "question": "Complete the square: x²+10x. Add ___.", "answer": "25", "hint": "Half of 10 is 5, 5²=25."},
+            {"type": "fill_in", "question": "Solve x²=121. x=11 or x=___", "answer": "-11", "hint": "x=±√121=±11."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-7-4",
+          "title": "Quadratic Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Quadratic equations model many real situations: projectile motion (h=-16t²+v₀t+h₀), area problems (length×width with constraints), and optimization (find maximum/minimum values using the vertex).",
+            "examples": [
+              {"problem": "A ball is thrown up: h=-16t²+64t. When does it land?", "answer": "t=4 seconds", "explanation": "Set h=0: -16t²+64t=0 → -16t(t-4)=0 → t=0 or t=4. It lands at t=4."},
+              {"problem": "A rectangle has perimeter 24. What dimensions maximize area?", "answer": "6×6=36", "explanation": "2l+2w=24, so w=12-l. Area=l(12-l)=12l-l². Vertex at l=6."},
+              {"problem": "Find two numbers that sum to 10 and have maximum product.", "answer": "5 and 5, product=25", "explanation": "P=x(10-x)=10x-x². Vertex at x=5."}
+            ],
+            "key_vocabulary": ["projectile motion", "optimization", "maximum", "minimum", "vertex", "model"],
+            "real_world": "Engineers use quadratic optimization to design bridges, arches, and satellite dishes."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "h=-16t²+48t. Max height at t=___ seconds", "answer": "1.5", "hint": "t=-48/(2×-16)=48/32=1.5."},
+            {"type": "fill_in", "question": "h=-16t²+48t. Max height = ___", "answer": "36", "hint": "h=-16(1.5)²+48(1.5)=-36+72=36."},
+            {"type": "fill_in", "question": "h=-16t²+32t. When does ball land? t=___", "answer": "2", "hint": "-16t(t-2)=0. t=0 or t=2."},
+            {"type": "fill_in", "question": "Two numbers sum to 12. Max product when each = ___", "answer": "6", "hint": "P=x(12-x). Vertex at x=6."},
+            {"type": "fill_in", "question": "Rectangle: perimeter 20. Max area = ___", "answer": "25", "hint": "w=10-l. A=l(10-l). Vertex l=5. A=25."},
+            {"type": "multiple_choice", "question": "A ball: h=-16t²+80t+5. When highest?", "options": ["t=2.5", "t=5", "t=0.5", "t=80"], "correct": 0, "hint": "t=-80/(2×-16)=80/32=2.5."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-7-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Solve x²-5x+6=0. x=2 or x=___", "answer": "3"},
+          {"type": "fill_in", "question": "Discriminant of x²+3x+2: b²-4ac=___", "answer": "1"},
+          {"type": "fill_in", "question": "Vertex x-coordinate of y=x²-8x+12: x=___", "answer": "4"},
+          {"type": "fill_in", "question": "Solve (x-4)²=25. x=9 or x=___", "answer": "-1"},
+          {"type": "fill_in", "question": "h=-16t²+64t. Ball lands at t=___", "answer": "4"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "quadratic_quest"
+      }
+    },
+    {
+      "id": "9-math-8",
+      "title": "Data Analysis & Probability",
+      "description": "Analyze data with scatter plots, lines of best fit, and basic probability.",
+      "lessons": [
+        {
+          "id": "9-math-8-1",
+          "title": "Scatter Plots & Correlation",
+          "type": "lesson",
+          "content": {
+            "explanation": "A scatter plot shows paired data as points. Correlation describes the relationship: positive (both increase), negative (one increases, other decreases), or none. The correlation coefficient r ranges from -1 to 1. |r| close to 1 = strong, close to 0 = weak.",
+            "examples": [
+              {"problem": "Study hours vs. test scores", "answer": "Positive correlation", "explanation": "More studying generally leads to higher scores."},
+              {"problem": "Outside temperature vs. heating bill", "answer": "Negative correlation", "explanation": "Higher temperature = lower heating cost."},
+              {"problem": "Shoe size vs. IQ", "answer": "No correlation", "explanation": "These have no meaningful relationship."}
+            ],
+            "key_vocabulary": ["scatter plot", "correlation", "positive", "negative", "correlation coefficient", "outlier"],
+            "real_world": "Medical researchers use correlation to study relationships between diet and health outcomes."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Age of car vs. price:", "options": ["Positive", "Negative", "No correlation", "Can't tell"], "correct": 1, "hint": "Older cars are usually worth less."},
+            {"type": "multiple_choice", "question": "r = 0.92 indicates:", "options": ["Weak positive", "Strong positive", "Strong negative", "No correlation"], "correct": 1, "hint": "Close to 1 = strong positive."},
+            {"type": "multiple_choice", "question": "r = -0.85 indicates:", "options": ["Weak positive", "Strong positive", "Strong negative", "No correlation"], "correct": 2, "hint": "Close to -1 = strong negative."},
+            {"type": "fill_in", "question": "True or false: correlation proves causation.", "answer": "false", "hint": "Correlation ≠ causation."},
+            {"type": "multiple_choice", "question": "Height vs. hair color:", "options": ["Positive", "Negative", "No correlation", "Strong positive"], "correct": 2, "hint": "No relationship between these."},
+            {"type": "multiple_choice", "question": "r = 0.05 indicates:", "options": ["Strong", "Moderate", "Very weak/none", "Perfect"], "correct": 2, "hint": "Close to 0 = almost no correlation."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-8-2",
+          "title": "Lines of Best Fit",
+          "type": "lesson",
+          "content": {
+            "explanation": "A line of best fit (regression line) minimizes the distance to all data points. It can be used to predict values. Interpolation predicts within the data range (more reliable). Extrapolation predicts outside the range (less reliable). The equation is y = mx + b where m is the rate of change.",
+            "examples": [
+              {"problem": "Line of best fit: y = 2.5x + 10. Predict y when x=8.", "answer": "30", "explanation": "2.5(8)+10=20+10=30."},
+              {"problem": "Line: y = -3x + 100. Predict y when x=25.", "answer": "25", "explanation": "-3(25)+100=-75+100=25."},
+              {"problem": "Data ranges x=1 to x=20. Is predicting at x=50 reliable?", "answer": "No, extrapolation", "explanation": "x=50 is outside the data range, so less reliable."}
+            ],
+            "key_vocabulary": ["line of best fit", "regression", "interpolation", "extrapolation", "predict"],
+            "real_world": "Scientists use regression lines to predict climate trends from temperature data."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "y=4x+5. Predict at x=10: y=___", "answer": "45", "hint": "4(10)+5=45."},
+            {"type": "fill_in", "question": "y=-2x+80. Predict at x=15: y=___", "answer": "50", "hint": "-2(15)+80=50."},
+            {"type": "multiple_choice", "question": "Data: x from 5 to 30. Prediction at x=12 is:", "options": ["Interpolation", "Extrapolation", "Neither", "Both"], "correct": 0, "hint": "12 is within 5-30."},
+            {"type": "fill_in", "question": "y=1.5x+20. At x=40: y=___", "answer": "80", "hint": "1.5(40)+20=80."},
+            {"type": "multiple_choice", "question": "A trend line with positive slope means:", "options": ["y decreases as x increases", "y increases as x increases", "No relationship", "y stays the same"], "correct": 1, "hint": "Positive slope = both increase."},
+            {"type": "fill_in", "question": "y=0.5x+3. At x=20: y=___", "answer": "13", "hint": "0.5(20)+3=13."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-8-3",
+          "title": "Basic Probability",
+          "type": "lesson",
+          "content": {
+            "explanation": "Probability = favorable outcomes / total outcomes. Range: 0 (impossible) to 1 (certain). Complement: P(not A) = 1 - P(A). Independent events: P(A and B) = P(A) × P(B). Mutually exclusive events: P(A or B) = P(A) + P(B).",
+            "examples": [
+              {"problem": "Rolling a 6 on a die", "answer": "1/6", "explanation": "1 favorable outcome, 6 total."},
+              {"problem": "P(not rolling 6)", "answer": "5/6", "explanation": "1 - 1/6 = 5/6."},
+              {"problem": "P(heads AND heads) for two flips", "answer": "1/4", "explanation": "1/2 × 1/2 = 1/4 (independent)."}
+            ],
+            "key_vocabulary": ["probability", "favorable", "total outcomes", "complement", "independent", "mutually exclusive"],
+            "real_world": "Weather forecasts use probability: '30% chance of rain' means P(rain) = 0.30."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "P(drawing a heart from 52 cards) = 13/___", "answer": "52", "hint": "13 hearts in a deck of 52."},
+            {"type": "fill_in", "question": "P(rolling even on a die) = ___/6", "answer": "3", "hint": "Even: 2, 4, 6. Three outcomes."},
+            {"type": "fill_in", "question": "P(not rolling a 1) = ___/6", "answer": "5", "hint": "1 - 1/6 = 5/6."},
+            {"type": "fill_in", "question": "Flip 2 coins. P(both heads) = 1/___", "answer": "4", "hint": "1/2 × 1/2 = 1/4."},
+            {"type": "multiple_choice", "question": "P(impossible event) = ?", "options": ["0", "1", "0.5", "-1"], "correct": 0, "hint": "Impossible = 0, certain = 1."},
+            {"type": "fill_in", "question": "Bag: 3 red, 5 blue. P(red) = 3/___", "answer": "8", "hint": "3 red out of 8 total."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "9-math-8-4",
+          "title": "Two-Way Tables & Conditional Probability",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two-way tables organize data by two categories. Joint frequency: count in a specific cell. Marginal frequency: row/column totals. Conditional probability: P(A|B) = P(A and B)/P(B). Read as 'probability of A given B.'",
+            "examples": [
+              {"problem": "50 students: 20 boys play sports, 30 boys total. P(sports|boy)?", "answer": "20/30 = 2/3", "explanation": "Of the 30 boys, 20 play sports."},
+              {"problem": "100 people: 40 women, 15 women drive SUVs. P(SUV|woman)?", "answer": "15/40 = 3/8", "explanation": "15 out of 40 women drive SUVs."},
+              {"problem": "P(A)=0.3, P(B)=0.5, independent. P(A and B)?", "answer": "0.15", "explanation": "Independent: 0.3 × 0.5 = 0.15."}
+            ],
+            "key_vocabulary": ["two-way table", "conditional probability", "joint frequency", "marginal frequency", "given"],
+            "real_world": "Medical tests: P(disease | positive test) is a conditional probability that doctors use daily."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "60 students: 25 boys like math, 40 boys total. P(math|boy)=25/___", "answer": "40", "hint": "Condition: given boy. Total boys = 40."},
+            {"type": "fill_in", "question": "P(A)=0.4, P(B)=0.3, independent. P(A and B)=___", "answer": "0.12", "hint": "0.4 × 0.3 = 0.12."},
+            {"type": "fill_in", "question": "200 people: 80 men, 30 men own dogs. P(dog|man)=30/___", "answer": "80", "hint": "Given man: 30 out of 80."},
+            {"type": "multiple_choice", "question": "P(A|B) reads as:", "options": ["P of A and B", "P of A given B", "P of A or B", "P of A times B"], "correct": 1, "hint": "The | means 'given.'"},
+            {"type": "fill_in", "question": "100 students: 45 pass math, 30 pass both math and science. P(science|math)=30/___", "answer": "45", "hint": "Given they pass math: 30 out of 45."},
+            {"type": "fill_in", "question": "P(rain)=0.2, P(umbrella|rain)=0.9. P(rain and umbrella)=___", "answer": "0.18", "hint": "P(A and B) = P(B|A) × P(A) = 0.9 × 0.2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "9-math-8-quiz",
+        "questions": [
+          {"type": "multiple_choice", "question": "r = -0.95 indicates:", "options": ["Strong positive", "Weak positive", "Strong negative", "No correlation"], "correct": 2},
+          {"type": "fill_in", "question": "y=3x+7. Predict at x=5: y=___", "answer": "22"},
+          {"type": "fill_in", "question": "P(rolling 3 or less on die) = ___/6", "answer": "3"},
+          {"type": "fill_in", "question": "P(A)=0.5, P(B)=0.4, independent. P(A and B)=___", "answer": "0.2"},
+          {"type": "fill_in", "question": "80 people: 50 adults, 20 adults like jazz. P(jazz|adult)=20/___", "answer": "50"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "data_detective"
+      }
+    }
+  ]
+}

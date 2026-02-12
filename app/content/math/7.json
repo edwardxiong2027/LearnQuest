@@ -1,0 +1,905 @@
+{
+  "grade": 7,
+  "subject": "math",
+  "units": [
+    {
+      "id": "7-math-1",
+      "title": "Proportional Relationships",
+      "description": "Identify, represent, and analyze proportional relationships using tables, graphs, and equations.",
+      "lessons": [
+        {
+          "id": "7-math-1-1",
+          "title": "Understanding Proportional Relationships",
+          "type": "lesson",
+          "content": {
+            "explanation": "A proportional relationship exists between two quantities when they increase or decrease at a constant rate. The ratio between the two quantities is always the same, called the constant of proportionality (k). If y is proportional to x, then y = kx and k = y/x for every pair of values.",
+            "examples": [
+              {"problem": "A car travels 60 miles every hour. Is distance proportional to time?", "answer": "Yes, k = 60", "explanation": "Distance = 60 × time. The ratio distance/time is always 60."},
+              {"problem": "x: 2, 4, 6 and y: 5, 10, 15. Is this proportional?", "answer": "Yes, k = 2.5", "explanation": "y/x = 5/2 = 10/4 = 15/6 = 2.5. The ratio is constant."},
+              {"problem": "x: 1, 2, 3 and y: 3, 5, 7. Is this proportional?", "answer": "No", "explanation": "y/x = 3/1 = 3, but 5/2 = 2.5. The ratios are not equal."}
+            ],
+            "key_vocabulary": ["proportional relationship", "constant of proportionality", "ratio", "rate", "linear"],
+            "real_world": "When you buy items at a fixed price per unit, the total cost is proportional to the quantity. 3 notebooks at $2 each = $6; 5 notebooks = $10."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which table shows a proportional relationship? A: (1,3),(2,6),(3,9) B: (1,2),(2,5),(3,8)", "options": ["Table A only", "Table B only", "Both", "Neither"], "correct": 0, "hint": "Table A: 3/1=3, 6/2=3, 9/3=3. Table B: 2/1=2, 5/2=2.5. Only A is proportional."},
+            {"type": "fill_in", "question": "If y is proportional to x and y = 12 when x = 4, what is k?", "answer": "3", "hint": "k = y/x = 12/4 = 3."},
+            {"type": "multiple_choice", "question": "If y = 7x, what is y when x = 9?", "options": ["16", "56", "63", "72"], "correct": 2, "hint": "y = 7 × 9 = 63."},
+            {"type": "fill_in", "question": "Apples cost $1.50 each. What is the cost of 8 apples?", "answer": "12", "hint": "Cost = 1.50 × 8 = $12."},
+            {"type": "word_problem", "question": "A printer prints 24 pages in 4 minutes. How many pages in 7 minutes?", "answer": "42", "operation": "24/4 * 7 = 42", "hint": "Rate = 24 ÷ 4 = 6 pages/min. 6 × 7 = 42."},
+            {"type": "true_false", "question": "If y = 3x + 1, then y is proportional to x.", "answer": "false", "hint": "Proportional means y = kx with no added constant."},
+            {"type": "fill_in", "question": "The table shows x: 5, 10, 15 and y: 20, 40, 60. Find k.", "answer": "4", "hint": "k = 20/5 = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-1-2",
+          "title": "Graphing Proportional Relationships",
+          "type": "lesson",
+          "content": {
+            "explanation": "The graph of a proportional relationship is always a straight line through the origin (0, 0). If the line does not pass through the origin, the relationship is not proportional. The constant of proportionality k equals the slope of the line (rise over run). A steeper line means a larger k.",
+            "examples": [
+              {"problem": "A line passes through (0,0) and (3,9). Is it proportional? Find k.", "answer": "Yes, k = 3", "explanation": "It passes through the origin. k = 9/3 = 3."},
+              {"problem": "A line passes through (0,2) and (3,8). Is it proportional?", "answer": "No", "explanation": "It does not pass through the origin."},
+              {"problem": "Points: (2,5), (4,10), (6,15). Proportional?", "answer": "Yes, k = 2.5", "explanation": "Each ratio y/x = 2.5, and the line passes through (0,0)."}
+            ],
+            "key_vocabulary": ["origin", "slope", "straight line", "graph", "coordinate plane", "rise over run"],
+            "real_world": "If you graph the cost of gas versus gallons pumped, you get a straight line through the origin. The slope is the price per gallon."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which point could NOT be on the graph of y = 3x?", "options": ["(1, 3)", "(3, 9)", "(4, 14)", "(5, 15)"], "correct": 2, "hint": "y = 3(4) = 12, not 14."},
+            {"type": "true_false", "question": "A proportional relationship always passes through the origin.", "answer": "true", "hint": "When x = 0, y = k × 0 = 0."},
+            {"type": "fill_in", "question": "A line goes through (0,0) and (4,10). What is k?", "answer": "2.5", "hint": "k = 10/4 = 2.5."},
+            {"type": "multiple_choice", "question": "Line A passes through (0,0) and (1,5). Line B passes through (0,0) and (1,3). Which has a greater k?", "options": ["Line A", "Line B", "They are equal", "Cannot tell"], "correct": 0, "hint": "Line A: k = 5. Line B: k = 3."},
+            {"type": "word_problem", "question": "A graph of hours worked vs money earned passes through (0,0) and (5,60). What is the hourly wage?", "answer": "12", "operation": "60/5 = 12", "hint": "k = 60 ÷ 5 = $12 per hour."},
+            {"type": "fill_in", "question": "If the graph of y = kx passes through (8, 20), what is k?", "answer": "2.5", "hint": "k = 20/8 = 2.5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-1-3",
+          "title": "Equations of Proportional Relationships",
+          "type": "lesson",
+          "content": {
+            "explanation": "A proportional relationship can be written as y = kx. To find k, use any known pair (x, y) where x is not zero: k = y/x. Once you have the equation, you can predict y for any x.",
+            "examples": [
+              {"problem": "A recipe uses 2 cups of flour for every 3 cups of sugar. Write an equation for flour (f) in terms of sugar (s).", "answer": "f = (2/3)s", "explanation": "flour/sugar = 2/3, so f = (2/3)s."},
+              {"problem": "y is proportional to x. When x = 6, y = 15. Write the equation.", "answer": "y = 2.5x", "explanation": "k = 15/6 = 2.5."},
+              {"problem": "A car uses 4 gallons for every 100 miles. Write an equation for gallons (g) in terms of miles (m).", "answer": "g = 0.04m", "explanation": "k = 4/100 = 0.04."}
+            ],
+            "key_vocabulary": ["equation", "constant of proportionality", "variable", "predict", "formula"],
+            "real_world": "If your data plan charges $10 per GB, the equation is cost = 10 × GB, letting you predict your bill."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "y is proportional to x. When x = 5, y = 35. y = ___x", "answer": "7", "hint": "k = 35/5 = 7."},
+            {"type": "multiple_choice", "question": "Which equation represents a proportional relationship?", "options": ["y = 4x + 2", "y = 6x", "y = x^2", "y = 3/x"], "correct": 1, "hint": "Only y = 6x is in the form y = kx."},
+            {"type": "word_problem", "question": "A faucet drips 3 ounces every 5 minutes. How many ounces drip in 20 minutes?", "answer": "12", "operation": "3/5 * 20 = 12", "hint": "k = 3/5 = 0.6. 0.6 × 20 = 12 ounces."},
+            {"type": "fill_in", "question": "If y = 4x, what is y when x = 11?", "answer": "44", "hint": "y = 4 × 11 = 44."},
+            {"type": "multiple_choice", "question": "c = 8.5h represents cost for h hours of parking. What does 8.5 represent?", "options": ["Total hours", "Total cost", "Cost per hour", "Number of cars"], "correct": 2, "hint": "In y = kx, k is the rate."},
+            {"type": "fill_in", "question": "A table shows (3,12), (5,20), (7,28). y = ___x", "answer": "4", "hint": "k = 12/3 = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-1-4",
+          "title": "Unit Rates and Complex Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "In 7th grade, unit rates can involve complex fractions — fractions with a fraction in the numerator, denominator, or both. To find a unit rate with fractions, divide the numerator by the denominator using keep-change-flip. For example, walking 3/4 mile in 1/2 hour gives a speed of (3/4) ÷ (1/2) = 3/4 × 2/1 = 3/2 = 1.5 mph.",
+            "examples": [
+              {"problem": "2/3 cup of paint for 1/2 a wall. How much per wall?", "answer": "1 1/3 cups", "explanation": "(2/3) ÷ (1/2) = 2/3 × 2/1 = 4/3 = 1 1/3 cups."},
+              {"problem": "A snail goes 3/4 meter in 3/8 hour. Speed?", "answer": "2 meters per hour", "explanation": "(3/4) ÷ (3/8) = 3/4 × 8/3 = 24/12 = 2."},
+              {"problem": "Simplify: (5/6) / (2/3)", "answer": "5/4", "explanation": "(5/6) × (3/2) = 15/12 = 5/4."}
+            ],
+            "key_vocabulary": ["complex fraction", "unit rate", "simplify", "reciprocal", "per"],
+            "real_world": "If a recipe makes 2/3 of a batch using 1/4 cup of butter, you need (1/4) ÷ (2/3) = 3/8 cup per full batch."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(3/4) ÷ (1/2) = ___", "answer": "3/2", "hint": "3/4 × 2/1 = 6/4 = 3/2."},
+            {"type": "multiple_choice", "question": "You run 5/6 mile in 1/3 hour. Speed in mph?", "options": ["5/18", "5/6", "2 1/2", "1 2/3"], "correct": 2, "hint": "(5/6) ÷ (1/3) = 5/6 × 3 = 15/6 = 5/2 = 2 1/2."},
+            {"type": "fill_in", "question": "(2/5) ÷ (4/15) = ___", "answer": "3/2", "hint": "2/5 × 15/4 = 30/20 = 3/2."},
+            {"type": "word_problem", "question": "A machine fills 3/4 of a tank in 1/2 hour. Tanks per hour?", "answer": "3/2", "operation": "(3/4)/(1/2) = 3/2", "hint": "3/4 × 2 = 3/2 = 1 1/2 tanks per hour."},
+            {"type": "multiple_choice", "question": "Simplify: (7/8) / (7/4)", "options": ["1/2", "2", "49/32", "7/2"], "correct": 0, "hint": "7/8 × 4/7 = 28/56 = 1/2."},
+            {"type": "fill_in", "question": "A hiker walks 5/8 mile in 5/12 hour. Speed = ___ mph", "answer": "3/2", "hint": "5/8 × 12/5 = 60/40 = 3/2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "If y = kx and y = 36 when x = 9, find k.", "answer": "4", "hint": "k = 36/9 = 4."},
+          {"type": "multiple_choice", "question": "Which graph represents a proportional relationship?", "options": ["A straight line through (0,0)", "A straight line through (0,3)", "A curve through (0,0)", "A horizontal line"], "correct": 0, "hint": "Proportional = straight line through the origin."},
+          {"type": "fill_in", "question": "(4/5) ÷ (2/3) = ___", "answer": "6/5", "hint": "4/5 × 3/2 = 12/10 = 6/5."},
+          {"type": "word_problem", "question": "A train travels 210 miles in 3.5 hours. Speed in mph?", "answer": "60", "operation": "210/3.5 = 60", "hint": "210 ÷ 3.5 = 60 mph."},
+          {"type": "multiple_choice", "question": "Pack A: 12 pencils for $3.60. Pack B: 8 pencils for $2.16. Which is cheaper per pencil?", "options": ["Pack A ($0.30)", "Pack B ($0.27)", "Same price", "Cannot tell"], "correct": 1, "hint": "A: $0.30. B: $0.27."},
+          {"type": "fill_in", "question": "Table: (4,14) and (10,35). y = ___x", "answer": "3.5", "hint": "k = 14/4 = 3.5."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "proportions_pro"
+      }
+    },
+    {
+      "id": "7-math-2",
+      "title": "Operations with Rational Numbers",
+      "description": "Add, subtract, multiply, and divide positive and negative integers, fractions, and decimals.",
+      "lessons": [
+        {
+          "id": "7-math-2-1",
+          "title": "Adding and Subtracting Integers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To add integers with the same sign, add absolute values and keep the sign. To add integers with different signs, subtract the smaller absolute value from the larger and keep the sign of the larger. To subtract, add the opposite: a - b = a + (-b).",
+            "examples": [
+              {"problem": "-7 + (-3)", "answer": "-10", "explanation": "Same sign: 7 + 3 = 10, keep negative: -10."},
+              {"problem": "-9 + 4", "answer": "-5", "explanation": "Different signs: 9 - 4 = 5, negative is larger: -5."},
+              {"problem": "6 - (-8)", "answer": "14", "explanation": "Subtracting a negative = adding: 6 + 8 = 14."}
+            ],
+            "key_vocabulary": ["integer", "absolute value", "opposite", "additive inverse", "sum", "difference"],
+            "real_world": "If it is -3°F and drops 7 degrees, the new temperature is -3 + (-7) = -10°F."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "-5 + (-12) = ___", "answer": "-17", "hint": "Same sign: 5 + 12 = 17, keep negative."},
+            {"type": "multiple_choice", "question": "-8 + 15 = ?", "options": ["-23", "-7", "7", "23"], "correct": 2, "hint": "15 - 8 = 7. Positive is larger."},
+            {"type": "fill_in", "question": "10 - (-6) = ___", "answer": "16", "hint": "10 + 6 = 16."},
+            {"type": "multiple_choice", "question": "-4 - 9 = ?", "options": ["5", "-5", "13", "-13"], "correct": 3, "hint": "-4 + (-9) = -13."},
+            {"type": "fill_in", "question": "-15 + 15 = ___", "answer": "0", "hint": "A number plus its opposite is zero."},
+            {"type": "word_problem", "question": "A submarine at -200 feet rises 75 feet. New depth?", "answer": "-125", "operation": "-200 + 75 = -125", "hint": "-200 + 75 = -125 feet."},
+            {"type": "fill_in", "question": "-3 - (-11) = ___", "answer": "8", "hint": "-3 + 11 = 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-2-2",
+          "title": "Multiplying and Dividing Integers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Same signs give a positive result. Different signs give a negative result. This applies to both multiplication and division. Positive × positive = positive. Negative × negative = positive. Positive × negative = negative.",
+            "examples": [
+              {"problem": "(-6) × 4", "answer": "-24", "explanation": "Different signs: negative. 6 × 4 = 24. Answer: -24."},
+              {"problem": "(-5) × (-7)", "answer": "35", "explanation": "Same signs: positive. 5 × 7 = 35."},
+              {"problem": "(-36) ÷ (-9)", "answer": "4", "explanation": "Same signs: positive. 36 ÷ 9 = 4."}
+            ],
+            "key_vocabulary": ["product", "quotient", "sign rules", "positive", "negative"],
+            "real_world": "Losing $8 per day for 5 days: (-8) × 5 = -$40. Undoing 5 days of $8 losses: (-8) × (-5) = +$40."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(-9) × 7 = ___", "answer": "-63", "hint": "Different signs: -63."},
+            {"type": "multiple_choice", "question": "(-8) × (-6) = ?", "options": ["-48", "48", "-14", "14"], "correct": 1, "hint": "Same signs: positive. 48."},
+            {"type": "fill_in", "question": "(-56) ÷ 8 = ___", "answer": "-7", "hint": "Different signs: -7."},
+            {"type": "fill_in", "question": "(-45) ÷ (-5) = ___", "answer": "9", "hint": "Same signs: positive. 9."},
+            {"type": "multiple_choice", "question": "3 × (-4) × (-2) = ?", "options": ["-24", "24", "-10", "10"], "correct": 1, "hint": "3 × (-4) = -12. (-12) × (-2) = 24."},
+            {"type": "word_problem", "question": "Temperature drops 3°F per hour for 8 hours. Total change?", "answer": "-24", "operation": "(-3) * 8 = -24", "hint": "(-3) × 8 = -24°F."},
+            {"type": "fill_in", "question": "(-2) × (-3) × (-4) = ___", "answer": "-24", "hint": "(-2)×(-3) = 6. 6×(-4) = -24."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-2-3",
+          "title": "Operations with Rational Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "The same sign rules for integers apply to all rational numbers (fractions and decimals). For negative fractions, find a common denominator then apply integer rules. For negative decimals, line up decimal points and use integer rules. Example: -1/3 + (-1/6) = -2/6 + (-1/6) = -3/6 = -1/2.",
+            "examples": [
+              {"problem": "-2.7 + 1.4", "answer": "-1.3", "explanation": "Different signs: 2.7 - 1.4 = 1.3. Negative is larger: -1.3."},
+              {"problem": "(-3/4) × (2/5)", "answer": "-3/10", "explanation": "Different signs = negative. 3×2=6, 4×5=20. -6/20 = -3/10."},
+              {"problem": "(-1.2) × (-0.5)", "answer": "0.6", "explanation": "Same signs = positive. 1.2 × 0.5 = 0.6."}
+            ],
+            "key_vocabulary": ["rational number", "decimal", "fraction", "sign rules", "common denominator"],
+            "real_world": "A stock drops $2.75 Monday and $1.50 Tuesday. Total: (-2.75) + (-1.50) = -$4.25."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "-3.6 + (-2.4) = ___", "answer": "-6", "hint": "Same sign: 3.6 + 2.4 = 6. Both negative: -6."},
+            {"type": "multiple_choice", "question": "(-1/2) + (3/4) = ?", "options": ["-1/4", "1/4", "-5/4", "5/4"], "correct": 1, "hint": "-2/4 + 3/4 = 1/4."},
+            {"type": "fill_in", "question": "(-2/3) × (-9/4) = ___", "answer": "3/2", "hint": "Same signs = positive. 18/12 = 3/2."},
+            {"type": "fill_in", "question": "-4.8 ÷ 1.6 = ___", "answer": "-3", "hint": "Different signs = negative. 4.8 ÷ 1.6 = 3."},
+            {"type": "word_problem", "question": "A diver at -12.5 m descends 8.3 m more. New depth?", "answer": "-20.8", "operation": "-12.5 + (-8.3) = -20.8", "hint": "-12.5 + (-8.3) = -20.8 m."},
+            {"type": "multiple_choice", "question": "(-5/6) ÷ (5/3) = ?", "options": ["1/2", "-1/2", "-25/18", "25/18"], "correct": 1, "hint": "(-5/6) × (3/5) = -15/30 = -1/2."},
+            {"type": "fill_in", "question": "2.5 × (-1.4) = ___", "answer": "-3.5", "hint": "Different signs = negative. 2.5 × 1.4 = 3.5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-2-4",
+          "title": "Order of Operations with Rational Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Follow PEMDAS with rational numbers: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right). Be careful: -3² = -(3²) = -9, but (-3)² = 9. Always simplify inside parentheses first.",
+            "examples": [
+              {"problem": "-4 + 3 × (-2)", "answer": "-10", "explanation": "Multiply: 3 × (-2) = -6. Add: -4 + (-6) = -10."},
+              {"problem": "(-6)² ÷ 9 - 1", "answer": "3", "explanation": "Exponent: 36. Divide: 36 ÷ 9 = 4. Subtract: 4 - 1 = 3."},
+              {"problem": "2 × (-3 + 7) - 10", "answer": "-2", "explanation": "Parentheses: 4. Multiply: 2 × 4 = 8. Subtract: 8 - 10 = -2."}
+            ],
+            "key_vocabulary": ["order of operations", "PEMDAS", "parentheses", "exponent", "evaluate"],
+            "real_world": "Calculating net profit involves careful order of operations with positive revenue and negative costs."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "5 + (-3) × 4 = ___", "answer": "-7", "hint": "(-3) × 4 = -12. 5 + (-12) = -7."},
+            {"type": "multiple_choice", "question": "(-2)³ = ?", "options": ["8", "-8", "6", "-6"], "correct": 1, "hint": "(-2)(-2)(-2) = 4(-2) = -8."},
+            {"type": "fill_in", "question": "(8 - 12) × 3 + 2 = ___", "answer": "-10", "hint": "(-4) × 3 = -12. -12 + 2 = -10."},
+            {"type": "multiple_choice", "question": "-5² + 1 = ?", "options": ["26", "-24", "24", "-26"], "correct": 1, "hint": "-5² = -(25) = -25. -25 + 1 = -24."},
+            {"type": "fill_in", "question": "(-10) ÷ 2 + 3 × (-4) = ___", "answer": "-17", "hint": "-5 + (-12) = -17."},
+            {"type": "word_problem", "question": "Evaluate: 2 × (5 - 8)² - 7", "answer": "11", "operation": "2 * 9 - 7 = 11", "hint": "(5-8) = -3. (-3)² = 9. 2×9 = 18. 18-7 = 11."},
+            {"type": "fill_in", "question": "-1 × (-6 + 2) ÷ (-2) = ___", "answer": "-2", "hint": "(-6+2) = -4. -1×(-4) = 4. 4÷(-2) = -2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "-14 + 9 = ___", "answer": "-5", "hint": "14 - 9 = 5, negative larger: -5."},
+          {"type": "fill_in", "question": "(-7) × (-8) = ___", "answer": "56", "hint": "Same signs: positive. 56."},
+          {"type": "multiple_choice", "question": "(-3/5) + (1/5) = ?", "options": ["-4/5", "-2/5", "2/5", "4/5"], "correct": 1, "hint": "-3/5 + 1/5 = -2/5."},
+          {"type": "fill_in", "question": "6 - (-4) × 3 = ___", "answer": "18", "hint": "(-4)×3 = -12. 6-(-12) = 18."},
+          {"type": "word_problem", "question": "Temp was -8°C and rose 15°C. New temp?", "answer": "7", "operation": "-8 + 15 = 7", "hint": "-8 + 15 = 7°C."},
+          {"type": "fill_in", "question": "(-2.4) × 5 = ___", "answer": "-12", "hint": "Different signs: negative. 2.4×5 = 12."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rational_number_ranger"
+      }
+    },
+    {
+      "id": "7-math-3",
+      "title": "Expressions and Equations",
+      "description": "Write, simplify, and solve linear expressions and equations with rational coefficients.",
+      "lessons": [
+        {
+          "id": "7-math-3-1",
+          "title": "Combining Like Terms",
+          "type": "lesson",
+          "content": {
+            "explanation": "Like terms have the same variable raised to the same power. Combine them by adding or subtracting coefficients. Constants are like terms with each other. For example, 3x + 5x = 8x. And 2x + 3y + 4x - y = 6x + 2y.",
+            "examples": [
+              {"problem": "7a + 3b - 2a + b", "answer": "5a + 4b", "explanation": "7a - 2a = 5a. 3b + b = 4b."},
+              {"problem": "4x² + 3x - x² + 5", "answer": "3x² + 3x + 5", "explanation": "4x² - x² = 3x². Others stay."},
+              {"problem": "-2m + 8 + 6m - 3", "answer": "4m + 5", "explanation": "-2m + 6m = 4m. 8 - 3 = 5."}
+            ],
+            "key_vocabulary": ["like terms", "coefficient", "variable", "constant", "simplify", "expression"],
+            "real_world": "3 boxes of red pencils + 5 boxes of red pencils = 8 boxes of red pencils. You combine like items."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "9x - 4x + 2 = ___", "answer": "5x + 2", "hint": "9x - 4x = 5x."},
+            {"type": "multiple_choice", "question": "3a + 2b + 5a - b = ?", "options": ["8a + b", "8a + 3b", "8ab", "2a + 3b"], "correct": 0, "hint": "3a+5a = 8a. 2b-b = b."},
+            {"type": "fill_in", "question": "-3y + 7 + 8y - 10 = ___", "answer": "5y - 3", "hint": "-3y + 8y = 5y. 7 - 10 = -3."},
+            {"type": "true_false", "question": "4x and 4x² are like terms.", "answer": "false", "hint": "x and x² have different exponents."},
+            {"type": "fill_in", "question": "2(3x + 4) - 5x = ___", "answer": "x + 8", "hint": "6x + 8 - 5x = x + 8."},
+            {"type": "multiple_choice", "question": "6p - 2q + p + 5q = ?", "options": ["7p + 3q", "5p + 7q", "7p - 3q", "10pq"], "correct": 0, "hint": "7p + 3q."},
+            {"type": "fill_in", "question": "4(x - 2) + 3(x + 1) = ___", "answer": "7x - 5", "hint": "4x - 8 + 3x + 3 = 7x - 5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-3-2",
+          "title": "The Distributive Property",
+          "type": "lesson",
+          "content": {
+            "explanation": "The distributive property: a(b + c) = ab + ac. Multiply the outside term by each inside term. Works with subtraction too: a(b - c) = ab - ac. With negatives: -2(x + 3) = -2x - 6. In reverse, factor: 6x + 12 = 6(x + 2).",
+            "examples": [
+              {"problem": "5(2x - 3)", "answer": "10x - 15", "explanation": "5(2x) = 10x. 5(-3) = -15."},
+              {"problem": "-3(4y + 7)", "answer": "-12y - 21", "explanation": "(-3)(4y) = -12y. (-3)(7) = -21."},
+              {"problem": "Factor: 8x + 20", "answer": "4(2x + 5)", "explanation": "GCF is 4. Factor: 4(2x + 5)."}
+            ],
+            "key_vocabulary": ["distributive property", "expand", "factor", "greatest common factor", "distribute"],
+            "real_world": "5 friends each buy a $3 snack and $2 drink: 5(3 + 2) = 15 + 10 = $25."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "3(x + 9) = ___", "answer": "3x + 27", "hint": "3x + 27."},
+            {"type": "multiple_choice", "question": "-4(2a - 5) = ?", "options": ["-8a - 5", "-8a + 20", "-8a - 20", "8a + 20"], "correct": 1, "hint": "(-4)(2a) = -8a. (-4)(-5) = +20."},
+            {"type": "fill_in", "question": "(1/2)(6x - 10) = ___", "answer": "3x - 5", "hint": "(1/2)(6x) = 3x. (1/2)(-10) = -5."},
+            {"type": "fill_in", "question": "Factor: 15y - 25 = ___(___)", "answer": "5(3y - 5)", "hint": "GCF = 5."},
+            {"type": "multiple_choice", "question": "2(x + 3) + 4(x - 1) = ?", "options": ["6x + 2", "6x + 10", "6x - 2", "6x - 1"], "correct": 0, "hint": "2x + 6 + 4x - 4 = 6x + 2."},
+            {"type": "fill_in", "question": "-2(3m + 4n - 5) = ___", "answer": "-6m - 8n + 10", "hint": "-6m - 8n + 10."},
+            {"type": "true_false", "question": "3(x + 2) = 3x + 2", "answer": "false", "hint": "3(x + 2) = 3x + 6."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-3-3",
+          "title": "Solving Two-Step Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A two-step equation like ax + b = c requires two inverse operations. First undo addition/subtraction, then undo multiplication/division. Example: 3x + 5 = 20 → subtract 5: 3x = 15 → divide by 3: x = 5. Always check by substituting back.",
+            "examples": [
+              {"problem": "2x + 7 = 15", "answer": "x = 4", "explanation": "2x = 8. x = 4. Check: 2(4)+7 = 15."},
+              {"problem": "5y - 3 = 22", "answer": "y = 5", "explanation": "5y = 25. y = 5. Check: 5(5)-3 = 22."},
+              {"problem": "x/4 + 6 = 10", "answer": "x = 16", "explanation": "x/4 = 4. x = 16. Check: 16/4+6 = 10."}
+            ],
+            "key_vocabulary": ["equation", "solve", "variable", "inverse operation", "substitute", "check"],
+            "real_world": "A gym charges $25/month plus $50 sign-up. Total is $200. Solve 25m + 50 = 200 → m = 6 months."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "4x + 3 = 19. x = ___", "answer": "4", "hint": "4x = 16. x = 4."},
+            {"type": "multiple_choice", "question": "3y - 8 = 13. y = ?", "options": ["5", "7", "3", "21"], "correct": 1, "hint": "3y = 21. y = 7."},
+            {"type": "fill_in", "question": "n/5 + 2 = 6. n = ___", "answer": "20", "hint": "n/5 = 4. n = 20."},
+            {"type": "fill_in", "question": "-2x + 9 = 1. x = ___", "answer": "4", "hint": "-2x = -8. x = 4."},
+            {"type": "word_problem", "question": "A plumber charges $40/hr plus $60 fee. Bill was $260. Hours worked?", "answer": "5", "operation": "40h + 60 = 260", "hint": "40h = 200. h = 5."},
+            {"type": "multiple_choice", "question": "7 - 3x = -8. x = ?", "options": ["5", "-5", "1/3", "-1/3"], "correct": 0, "hint": "-3x = -15. x = 5."},
+            {"type": "fill_in", "question": "6x - 1 = 29. x = ___", "answer": "5", "hint": "6x = 30. x = 5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-3-4",
+          "title": "Solving Equations with Rational Coefficients",
+          "type": "lesson",
+          "content": {
+            "explanation": "Equations can have fractions or decimals as coefficients. For fraction coefficients, multiply both sides by the reciprocal: (2/3)x = 10 → x = 10 × (3/2) = 15. For decimals like 0.5x + 1.2 = 3.7, subtract 1.2 then divide by 0.5. You can also clear fractions by multiplying every term by the LCD.",
+            "examples": [
+              {"problem": "(2/3)x + 4 = 10", "answer": "x = 9", "explanation": "(2/3)x = 6. x = 6 × 3/2 = 9."},
+              {"problem": "0.4y - 1.6 = 2.0", "answer": "y = 9", "explanation": "0.4y = 3.6. y = 9."},
+              {"problem": "x/3 - 1/2 = 5/6", "answer": "x = 4", "explanation": "x/3 = 5/6 + 3/6 = 8/6 = 4/3. x = 4."}
+            ],
+            "key_vocabulary": ["rational coefficient", "reciprocal", "LCD", "clear fractions", "decimal equation"],
+            "real_world": "A shirt at 3/4 price costs $24. Solve (3/4)p = 24 to find original price p = $32."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(1/4)x + 3 = 7. x = ___", "answer": "16", "hint": "(1/4)x = 4. x = 16."},
+            {"type": "multiple_choice", "question": "0.3x - 0.9 = 1.5. x = ?", "options": ["2", "8", "0.8", "5"], "correct": 1, "hint": "0.3x = 2.4. x = 8."},
+            {"type": "fill_in", "question": "(3/5)y = 12. y = ___", "answer": "20", "hint": "y = 12 × 5/3 = 20."},
+            {"type": "fill_in", "question": "x/6 + 2/3 = 3/2. x = ___", "answer": "5", "hint": "x/6 = 9/6 - 4/6 = 5/6. x = 5."},
+            {"type": "word_problem", "question": "Two-thirds of a number plus 5 equals 11. Find the number.", "answer": "9", "operation": "(2/3)n + 5 = 11", "hint": "(2/3)n = 6. n = 9."},
+            {"type": "multiple_choice", "question": "1.5x + 3 = 12. x = ?", "options": ["6", "10", "9", "7.5"], "correct": 0, "hint": "1.5x = 9. x = 6."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-3-5",
+          "title": "Writing and Solving Inequalities",
+          "type": "lesson",
+          "content": {
+            "explanation": "Inequalities use <, >, ≤, or ≥. Solve like equations with one rule: when you multiply or divide by a negative number, flip the inequality sign. -2x > 6 becomes x < -3. Solutions are ranges, shown on number lines with open circles for < or > and closed circles for ≤ or ≥.",
+            "examples": [
+              {"problem": "3x + 2 > 11", "answer": "x > 3", "explanation": "3x > 9. x > 3."},
+              {"problem": "-4x + 1 ≤ 9", "answer": "x ≥ -2", "explanation": "-4x ≤ 8. Divide by -4, flip: x ≥ -2."},
+              {"problem": "2y - 5 < 7", "answer": "y < 6", "explanation": "2y < 12. y < 6."}
+            ],
+            "key_vocabulary": ["inequality", "greater than", "less than", "number line", "open circle", "closed circle"],
+            "real_world": "Need 70 points to pass. You have 45. Solve 45 + x ≥ 70: you need x ≥ 25 more points."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "2x + 5 > 13. x > ___", "answer": "4", "hint": "2x > 8. x > 4."},
+            {"type": "multiple_choice", "question": "-3x < 12. Solution?", "options": ["x < -4", "x > -4", "x < 4", "x > 4"], "correct": 1, "hint": "Divide by -3, flip: x > -4."},
+            {"type": "fill_in", "question": "5y - 10 ≥ 20. y ≥ ___", "answer": "6", "hint": "5y ≥ 30. y ≥ 6."},
+            {"type": "true_false", "question": "When solving -2x > 8, you get x > -4.", "answer": "false", "hint": "You must flip: x < -4."},
+            {"type": "word_problem", "question": "You have $50. Hot dogs cost $3 each plus $5 for a drink. Max hot dogs? Solve 3h + 5 ≤ 50.", "answer": "15", "operation": "3h <= 45; h <= 15", "hint": "3h ≤ 45. h ≤ 15."},
+            {"type": "multiple_choice", "question": "4 - x ≥ 7. Solution?", "options": ["x ≥ 3", "x ≤ -3", "x ≥ -3", "x ≤ 3"], "correct": 1, "hint": "-x ≥ 3. x ≤ -3."},
+            {"type": "fill_in", "question": "x/2 + 3 < 8. x < ___", "answer": "10", "hint": "x/2 < 5. x < 10."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Simplify: 8x - 3 + 2x + 7", "answer": "10x + 4", "hint": "10x + 4."},
+          {"type": "fill_in", "question": "Expand: -3(2x - 5)", "answer": "-6x + 15", "hint": "-6x + 15."},
+          {"type": "multiple_choice", "question": "Solve: 5x - 4 = 21", "options": ["x = 3", "x = 4", "x = 5", "x = 25"], "correct": 2, "hint": "5x = 25. x = 5."},
+          {"type": "fill_in", "question": "(3/4)x = 18. x = ___", "answer": "24", "hint": "x = 18 × 4/3 = 24."},
+          {"type": "word_problem", "question": "-2x + 3 > 9. What values satisfy this?", "answer": "x < -3", "operation": "-2x > 6; x < -3", "hint": "-2x > 6. Flip: x < -3."},
+          {"type": "fill_in", "question": "0.2x + 1.4 = 3. x = ___", "answer": "8", "hint": "0.2x = 1.6. x = 8."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "equation_expert"
+      }
+    },
+    {
+      "id": "7-math-4",
+      "title": "Geometry: Scale Drawings and Constructions",
+      "description": "Work with scale drawings, compute actual and scaled dimensions, and understand geometric constructions.",
+      "lessons": [
+        {
+          "id": "7-math-4-1",
+          "title": "Scale Drawings and Scale Factor",
+          "type": "lesson",
+          "content": {
+            "explanation": "A scale drawing is a proportional representation of an object. The scale factor tells you the ratio of the drawing size to the actual size. If a map scale is 1 cm : 50 km, then 1 cm on the map represents 50 km in real life. To find actual dimensions, multiply the drawing dimension by the scale factor. To find drawing dimensions, divide the actual dimension by the scale factor.",
+            "examples": [
+              {"problem": "Scale: 1 in = 20 ft. A wall is 3.5 inches on the drawing. Actual length?", "answer": "70 ft", "explanation": "3.5 × 20 = 70 feet."},
+              {"problem": "Scale factor is 1:100. Actual room is 500 cm. Drawing length?", "answer": "5 cm", "explanation": "500 ÷ 100 = 5 cm."},
+              {"problem": "On a map, 4 cm = 60 miles. What does 7 cm represent?", "answer": "105 miles", "explanation": "60/4 = 15 miles/cm. 15 × 7 = 105 miles."}
+            ],
+            "key_vocabulary": ["scale drawing", "scale factor", "proportion", "actual size", "model"],
+            "real_world": "Architects use scale drawings for buildings. A 1:50 scale means 1 cm on paper = 50 cm (0.5 m) in real life."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Scale: 1 cm = 25 km. Distance on map is 6 cm. Actual distance = ___ km", "answer": "150", "hint": "6 × 25 = 150 km."},
+            {"type": "multiple_choice", "question": "Scale: 1:200. Actual length is 800 cm. Drawing length?", "options": ["2 cm", "4 cm", "8 cm", "16 cm"], "correct": 1, "hint": "800 ÷ 200 = 4 cm."},
+            {"type": "word_problem", "question": "A model car is 1:24 scale. The model is 8 inches. How long is the real car in inches?", "answer": "192", "operation": "8 * 24 = 192", "hint": "8 × 24 = 192 inches."},
+            {"type": "fill_in", "question": "Scale: 2 cm = 30 miles. How many miles does 9 cm represent?", "answer": "135", "hint": "30/2 = 15 mi/cm. 15 × 9 = 135."},
+            {"type": "multiple_choice", "question": "A blueprint has scale 1 in = 4 ft. A room is 15 ft wide. How wide on the blueprint?", "options": ["3.5 in", "3.75 in", "4 in", "60 in"], "correct": 1, "hint": "15 ÷ 4 = 3.75 inches."},
+            {"type": "fill_in", "question": "Scale factor is 1:50. Drawing shows a wall 3 cm long. Actual = ___ cm", "answer": "150", "hint": "3 × 50 = 150 cm."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-4-2",
+          "title": "Circles: Circumference",
+          "type": "lesson",
+          "content": {
+            "explanation": "The circumference of a circle is the distance around it. Two formulas: C = πd (pi times diameter) or C = 2πr (2 times pi times radius). The diameter is twice the radius: d = 2r. Pi (π) is approximately 3.14 or 22/7. These formulas come from the fact that the ratio of circumference to diameter is always π for every circle.",
+            "examples": [
+              {"problem": "Find the circumference. Diameter = 10 cm.", "answer": "31.4 cm", "explanation": "C = πd = 3.14 × 10 = 31.4 cm."},
+              {"problem": "Find the circumference. Radius = 7 in.", "answer": "43.96 in", "explanation": "C = 2πr = 2 × 3.14 × 7 = 43.96 in."},
+              {"problem": "A wheel has circumference 62.8 cm. Find the diameter.", "answer": "20 cm", "explanation": "d = C/π = 62.8/3.14 = 20 cm."}
+            ],
+            "key_vocabulary": ["circumference", "diameter", "radius", "pi", "circle"],
+            "real_world": "To find how far a bicycle wheel travels in one rotation, calculate its circumference. A wheel with 26-inch diameter travels about 81.7 inches per rotation."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Diameter = 14 cm. Circumference = ___ cm (use π ≈ 3.14)", "answer": "43.96", "hint": "C = 3.14 × 14 = 43.96."},
+            {"type": "multiple_choice", "question": "Radius = 5 in. Circumference?", "options": ["15.7 in", "31.4 in", "78.5 in", "10 in"], "correct": 1, "hint": "C = 2 × 3.14 × 5 = 31.4 in."},
+            {"type": "fill_in", "question": "Circumference = 94.2 m. Diameter = ___ m", "answer": "30", "hint": "d = 94.2/3.14 = 30 m."},
+            {"type": "word_problem", "question": "A circular track has radius 50 m. How far is one lap? (Use π ≈ 3.14)", "answer": "314", "operation": "2 * 3.14 * 50 = 314", "hint": "C = 2(3.14)(50) = 314 m."},
+            {"type": "fill_in", "question": "Diameter = 22 cm. Use π ≈ 22/7. Circumference = ___ cm", "answer": "69.14", "hint": "C = (22/7) × 22 = 484/7 ≈ 69.14."},
+            {"type": "multiple_choice", "question": "Which is the circumference formula?", "options": ["C = πr²", "C = 2πr", "C = πr", "C = 2πd"], "correct": 1, "hint": "C = 2πr or equivalently C = πd."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-4-3",
+          "title": "Circles: Area",
+          "type": "lesson",
+          "content": {
+            "explanation": "The area of a circle is the space inside it. The formula is A = πr², where r is the radius. If given the diameter, divide by 2 to get the radius first. To find the area: square the radius, then multiply by π (≈ 3.14). For example, a circle with radius 6 has area = π(6²) = 36π ≈ 113.04 square units.",
+            "examples": [
+              {"problem": "Radius = 5 cm. Find the area.", "answer": "78.5 cm²", "explanation": "A = 3.14 × 5² = 3.14 × 25 = 78.5 cm²."},
+              {"problem": "Diameter = 12 in. Find the area.", "answer": "113.04 in²", "explanation": "r = 6. A = 3.14 × 36 = 113.04 in²."},
+              {"problem": "Area = 153.86 m². Find the radius.", "answer": "7 m", "explanation": "r² = 153.86/3.14 = 49. r = 7 m."}
+            ],
+            "key_vocabulary": ["area", "radius", "squared", "pi", "square units"],
+            "real_world": "To figure out how much pizza you get, calculate the area! A 14-inch pizza (r=7) has area ≈ 153.86 sq in, while a 10-inch pizza (r=5) has only ≈ 78.5 sq in."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Radius = 4 cm. Area = ___ cm² (use π ≈ 3.14)", "answer": "50.24", "hint": "3.14 × 16 = 50.24."},
+            {"type": "multiple_choice", "question": "Diameter = 20 in. Area?", "options": ["62.8 in²", "314 in²", "1256 in²", "125.6 in²"], "correct": 1, "hint": "r = 10. 3.14 × 100 = 314."},
+            {"type": "fill_in", "question": "Radius = 3 m. Area = ___ m²", "answer": "28.26", "hint": "3.14 × 9 = 28.26."},
+            {"type": "word_problem", "question": "A circular garden has diameter 8 ft. How many sq ft of soil is needed?", "answer": "50.24", "operation": "3.14 * 4^2 = 50.24", "hint": "r = 4. A = 3.14 × 16 = 50.24 sq ft."},
+            {"type": "fill_in", "question": "Area = 200.96 cm². Radius = ___ cm", "answer": "8", "hint": "r² = 200.96/3.14 = 64. r = 8."},
+            {"type": "multiple_choice", "question": "If you double the radius from 3 to 6, the area goes from 28.26 to:", "options": ["56.52", "84.78", "113.04", "226.08"], "correct": 2, "hint": "3.14 × 36 = 113.04. Area quadruples when radius doubles."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-4-4",
+          "title": "Angle Relationships",
+          "type": "lesson",
+          "content": {
+            "explanation": "Complementary angles sum to 90°. Supplementary angles sum to 180°. Vertical angles (formed by two intersecting lines) are equal. Adjacent angles share a side. When a transversal crosses parallel lines, it creates corresponding angles (equal), alternate interior angles (equal), and co-interior angles (sum to 180°).",
+            "examples": [
+              {"problem": "Angle A = 35°. Find its complement.", "answer": "55°", "explanation": "90° - 35° = 55°."},
+              {"problem": "Angle B = 110°. Find its supplement.", "answer": "70°", "explanation": "180° - 110° = 70°."},
+              {"problem": "Two vertical angles: one is 3x, the other is 72°. Find x.", "answer": "x = 24", "explanation": "Vertical angles are equal: 3x = 72. x = 24."}
+            ],
+            "key_vocabulary": ["complementary", "supplementary", "vertical angles", "adjacent", "transversal", "parallel lines"],
+            "real_world": "When two streets cross, the opposite angles (vertical angles) are always equal. Understanding angles is essential in construction and design."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "An angle is 42°. Its complement is ___ degrees.", "answer": "48", "hint": "90 - 42 = 48."},
+            {"type": "fill_in", "question": "An angle is 115°. Its supplement is ___ degrees.", "answer": "65", "hint": "180 - 115 = 65."},
+            {"type": "multiple_choice", "question": "Two vertical angles: one is 5x and the other is 75°. x = ?", "options": ["10", "15", "20", "25"], "correct": 1, "hint": "5x = 75. x = 15."},
+            {"type": "true_false", "question": "Supplementary angles always sum to 90°.", "answer": "false", "hint": "Supplementary = 180°. Complementary = 90°."},
+            {"type": "word_problem", "question": "Two supplementary angles are in ratio 2:3. Find both angles.", "answer": "72 and 108", "operation": "2x + 3x = 180; x = 36", "hint": "2x + 3x = 180. 5x = 180. x = 36. Angles: 72° and 108°."},
+            {"type": "fill_in", "question": "Angle A and B are complementary. A = 3x, B = x + 10. Find x.", "answer": "20", "hint": "3x + x + 10 = 90. 4x = 80. x = 20."},
+            {"type": "multiple_choice", "question": "If two parallel lines are cut by a transversal, alternate interior angles are:", "options": ["Supplementary", "Complementary", "Equal", "Vertical"], "correct": 2, "hint": "Alternate interior angles are equal."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-4-5",
+          "title": "Area and Perimeter of Composite Figures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Composite figures are shapes made of two or more basic shapes combined. To find the area, break the figure into rectangles, triangles, circles (or semicircles), and find each area separately. Add areas for combined shapes; subtract for cutout shapes. For perimeter, add up all the outer edges. Remember: triangle area = (1/2)bh, rectangle area = lw, circle area = πr².",
+            "examples": [
+              {"problem": "An L-shape: a 10×4 rectangle joined to a 6×4 rectangle. Total area?", "answer": "64 sq units", "explanation": "10×4 = 40. 6×4 = 24. Total = 40 + 24 = 64."},
+              {"problem": "A rectangle 8×6 with a semicircle (diameter 6) on one end. Total area?", "answer": "62.13 sq units", "explanation": "Rectangle: 48. Semicircle: (1/2)π(3²) = (1/2)(3.14)(9) = 14.13. Total ≈ 62.13."},
+              {"problem": "A 10×10 square with a circle (r=3) cut out. Remaining area?", "answer": "71.74 sq units", "explanation": "Square: 100. Circle: 3.14 × 9 = 28.26. Remaining: 100 - 28.26 = 71.74."}
+            ],
+            "key_vocabulary": ["composite figure", "decompose", "semicircle", "area", "perimeter", "subtract"],
+            "real_world": "Finding the area of an oddly-shaped room (like an L-shaped living room) requires breaking it into rectangles and adding the areas."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A 12×5 rectangle with a 4×3 rectangle on top. Total area?", "answer": "72", "hint": "12×5 = 60. 4×3 = 12. Total = 72."},
+            {"type": "multiple_choice", "question": "A 6×6 square with a semicircle (d=6) on top. Total area? (π ≈ 3.14)", "options": ["36", "50.13", "64.26", "50"], "correct": 1, "hint": "Square: 36. Semicircle: (1/2)(3.14)(9) = 14.13. Total ≈ 50.13."},
+            {"type": "word_problem", "question": "A rectangular yard is 20×15 ft. A circular pond (r=3 ft) is in the middle. What area of grass remains?", "answer": "271.74", "operation": "300 - 28.26 = 271.74", "hint": "Yard: 300. Pond: 3.14×9 = 28.26. Grass: 271.74 sq ft."},
+            {"type": "fill_in", "question": "Two rectangles: 8×3 and 5×3 joined end to end. Total area?", "answer": "39", "hint": "24 + 15 = 39."},
+            {"type": "fill_in", "question": "A triangle (base 10, height 6) on top of a rectangle (10×8). Total area?", "answer": "110", "hint": "Triangle: (1/2)(10)(6) = 30. Rectangle: 80. Total: 110."},
+            {"type": "multiple_choice", "question": "A square is 8×8. A quarter circle (r=8) is cut from one corner. Remaining area?", "options": ["13.76", "14.24", "50.24", "64"], "correct": 0, "hint": "Square: 64. Quarter circle: (1/4)(3.14)(64) = 50.24. Remaining: 13.76."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Scale 1:40. Drawing = 5 cm. Actual = ___ cm", "answer": "200", "hint": "5 × 40 = 200."},
+          {"type": "fill_in", "question": "Diameter = 16 cm. Circumference = ___ cm (π ≈ 3.14)", "answer": "50.24", "hint": "3.14 × 16 = 50.24."},
+          {"type": "multiple_choice", "question": "Radius = 6 m. Area?", "options": ["37.68 m²", "113.04 m²", "18.84 m²", "36 m²"], "correct": 1, "hint": "3.14 × 36 = 113.04."},
+          {"type": "fill_in", "question": "Angle A = 58°. Supplement = ___ degrees", "answer": "122", "hint": "180 - 58 = 122."},
+          {"type": "word_problem", "question": "A 10×8 rectangle has a semicircle (d=8) attached to one short side. Total area?", "answer": "105.12", "operation": "80 + 25.12 = 105.12", "hint": "Rect: 80. Semicircle: (1/2)(3.14)(16) = 25.12. Total: 105.12."},
+          {"type": "fill_in", "question": "Two vertical angles: one is 4x + 10, other is 6x - 20. Find x.", "answer": "15", "hint": "4x + 10 = 6x - 20. 30 = 2x. x = 15."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "geometry_guru"
+      }
+    },
+    {
+      "id": "7-math-5",
+      "title": "Probability",
+      "description": "Understand and calculate probability of simple and compound events using models and experiments.",
+      "lessons": [
+        {
+          "id": "7-math-5-1",
+          "title": "Basic Probability",
+          "type": "lesson",
+          "content": {
+            "explanation": "Probability measures how likely an event is to occur. P(event) = number of favorable outcomes / total number of outcomes. Probability ranges from 0 (impossible) to 1 (certain). A probability of 1/2 = 0.5 = 50% means equally likely to happen or not. For example, the probability of rolling a 3 on a standard die is 1/6.",
+            "examples": [
+              {"problem": "A bag has 3 red and 5 blue marbles. P(red)?", "answer": "3/8", "explanation": "Favorable = 3 red. Total = 8. P(red) = 3/8."},
+              {"problem": "Flip a coin. P(heads)?", "answer": "1/2", "explanation": "1 favorable out of 2 total = 1/2."},
+              {"problem": "Roll a die. P(even number)?", "answer": "1/2", "explanation": "Even numbers: 2, 4, 6. That is 3 out of 6 = 1/2."}
+            ],
+            "key_vocabulary": ["probability", "favorable outcome", "sample space", "event", "certain", "impossible"],
+            "real_world": "Weather forecasts use probability. A 70% chance of rain means that in similar conditions, it rains about 70 out of 100 times."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A bag has 4 red, 3 blue, 2 green marbles. P(blue) = ___", "answer": "3/9", "hint": "3 blue out of 9 total = 3/9 = 1/3."},
+            {"type": "multiple_choice", "question": "Roll a die. P(number > 4)?", "options": ["1/6", "1/3", "1/2", "2/3"], "correct": 1, "hint": "Numbers > 4: {5, 6}. 2/6 = 1/3."},
+            {"type": "fill_in", "question": "Deck of 52 cards. P(heart) = ___", "answer": "13/52", "hint": "13 hearts in 52 cards = 13/52 = 1/4."},
+            {"type": "true_false", "question": "A probability of 1.5 is possible.", "answer": "false", "hint": "Probability must be between 0 and 1."},
+            {"type": "word_problem", "question": "A spinner has 8 equal sections: 3 red, 2 blue, 1 green, 2 yellow. P(not red)?", "answer": "5/8", "operation": "1 - 3/8 = 5/8", "hint": "Not red = 5 sections. P = 5/8."},
+            {"type": "multiple_choice", "question": "Which probability indicates an unlikely event?", "options": ["0.9", "0.5", "0.15", "1.0"], "correct": 2, "hint": "0.15 = 15% is unlikely."},
+            {"type": "fill_in", "question": "P(event) = 0.3. P(not event) = ___", "answer": "0.7", "hint": "P(not) = 1 - 0.3 = 0.7."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-5-2",
+          "title": "Experimental vs Theoretical Probability",
+          "type": "lesson",
+          "content": {
+            "explanation": "Theoretical probability is what we expect to happen based on math: P = favorable/total. Experimental probability is what actually happens after conducting trials: P = times event occurred / total trials. They may differ, but with more trials, experimental probability tends to approach theoretical probability. This is called the Law of Large Numbers.",
+            "examples": [
+              {"problem": "Theoretical P(heads) on a coin = 1/2. You flip 50 times and get 28 heads. Experimental P(heads)?", "answer": "28/50 = 14/25", "explanation": "Experimental = 28/50 = 0.56 = 56%."},
+              {"problem": "Roll a die 60 times. You get a 3 exactly 8 times. Experimental P(3)?", "answer": "8/60 = 2/15", "explanation": "8 out of 60 = 2/15 ≈ 0.133. Theoretical would be 1/6 ≈ 0.167."},
+              {"problem": "A spinner is 1/4 red. In 200 spins, about how many reds expected?", "answer": "50", "explanation": "(1/4) × 200 = 50 reds expected."}
+            ],
+            "key_vocabulary": ["theoretical probability", "experimental probability", "trial", "Law of Large Numbers", "expected"],
+            "real_world": "A basketball player with a 75% free-throw rate (theoretical) might make 7 out of 10 in a game (experimental: 70%). Over a season, it gets closer to 75%."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "You spin a spinner 80 times and land on blue 24 times. Experimental P(blue) = ___", "answer": "24/80", "hint": "24/80 = 3/10 = 0.3."},
+            {"type": "multiple_choice", "question": "Theoretical P(heads) = 1/2. In 100 flips, how many heads expected?", "options": ["25", "50", "75", "100"], "correct": 1, "hint": "(1/2) × 100 = 50."},
+            {"type": "word_problem", "question": "A die is rolled 300 times. About how many times should a 6 appear?", "answer": "50", "operation": "(1/6) * 300 = 50", "hint": "(1/6) × 300 = 50 times."},
+            {"type": "true_false", "question": "Experimental probability always equals theoretical probability.", "answer": "false", "hint": "They may differ; they get closer with more trials."},
+            {"type": "fill_in", "question": "P(rain) = 0.4. In 30 days, expected rainy days = ___", "answer": "12", "hint": "0.4 × 30 = 12."},
+            {"type": "multiple_choice", "question": "Which gives a better estimate of theoretical probability?", "options": ["10 trials", "100 trials", "1000 trials", "All are equal"], "correct": 2, "hint": "More trials = better estimate (Law of Large Numbers)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-5-3",
+          "title": "Compound Events and Sample Spaces",
+          "type": "lesson",
+          "content": {
+            "explanation": "A compound event involves two or more simple events. To find all possible outcomes, list them in an organized way using a tree diagram, table, or list. The sample space is the set of all possible outcomes. For independent events (one does not affect the other), the total outcomes = outcomes of event 1 × outcomes of event 2. P(compound event) = favorable compound outcomes / total compound outcomes.",
+            "examples": [
+              {"problem": "Flip a coin and roll a die. How many outcomes?", "answer": "12", "explanation": "Coin: 2 outcomes. Die: 6 outcomes. Total: 2 × 6 = 12."},
+              {"problem": "Flip two coins. P(both heads)?", "answer": "1/4", "explanation": "Outcomes: HH, HT, TH, TT. P(HH) = 1/4."},
+              {"problem": "Pick a card (A, B, C) and flip a coin. P(B and tails)?", "answer": "1/6", "explanation": "Total outcomes = 3 × 2 = 6. Only 1 is (B, tails). P = 1/6."}
+            ],
+            "key_vocabulary": ["compound event", "sample space", "tree diagram", "independent events", "outcomes"],
+            "real_world": "Choosing an outfit: 4 shirts × 3 pants = 12 possible outfits. Probability of randomly picking a specific combo = 1/12."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Roll two dice. Total outcomes = ___", "answer": "36", "hint": "6 × 6 = 36."},
+            {"type": "multiple_choice", "question": "Flip 3 coins. Total outcomes?", "options": ["3", "6", "8", "12"], "correct": 2, "hint": "2 × 2 × 2 = 8."},
+            {"type": "fill_in", "question": "Flip 3 coins. P(all heads) = ___", "answer": "1/8", "hint": "1 favorable out of 8. P = 1/8."},
+            {"type": "word_problem", "question": "A menu has 3 entrees and 4 desserts. How many meal combos?", "answer": "12", "operation": "3 * 4 = 12", "hint": "3 × 4 = 12 combos."},
+            {"type": "multiple_choice", "question": "Roll a die and flip a coin. P(6 and heads)?", "options": ["1/6", "1/8", "1/12", "1/2"], "correct": 2, "hint": "P(6) = 1/6. P(H) = 1/2. P(both) = 1/12."},
+            {"type": "fill_in", "question": "Pick from {A, B} and {1, 2, 3}. P(A and even number) = ___", "answer": "1/6", "hint": "Total = 6. Favorable: (A,2). P = 1/6."},
+            {"type": "word_problem", "question": "A spinner has 4 equal sections (1-4). Spin twice. P(both spins are 3)?", "answer": "1/16", "operation": "(1/4) * (1/4) = 1/16", "hint": "P(3) × P(3) = 1/4 × 1/4 = 1/16."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-5-4",
+          "title": "Probability of Compound Events",
+          "type": "lesson",
+          "content": {
+            "explanation": "For independent events A and B: P(A and B) = P(A) × P(B). For the probability of A or B (when they cannot both happen): P(A or B) = P(A) + P(B). If they can overlap: P(A or B) = P(A) + P(B) - P(A and B). Simulations can also estimate probabilities by running many trials of a random experiment.",
+            "examples": [
+              {"problem": "P(rain Monday) = 0.3, P(rain Tuesday) = 0.5. P(rain both days)?", "answer": "0.15", "explanation": "Independent: 0.3 × 0.5 = 0.15."},
+              {"problem": "Bag: 2 red, 3 blue. Pick one, replace, pick again. P(red then blue)?", "answer": "6/25", "explanation": "P(red) = 2/5. P(blue) = 3/5. P(both) = 6/25."},
+              {"problem": "Roll a die. P(2 or 5)?", "answer": "2/6 = 1/3", "explanation": "P(2) = 1/6. P(5) = 1/6. P(2 or 5) = 2/6 = 1/3."}
+            ],
+            "key_vocabulary": ["independent", "and probability", "or probability", "multiplication rule", "simulation"],
+            "real_world": "What is the chance of guessing two multiple-choice questions right (4 choices each)? P = 1/4 × 1/4 = 1/16 = 6.25%."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "P(A) = 1/3, P(B) = 1/4. If independent, P(A and B) = ___", "answer": "1/12", "hint": "1/3 × 1/4 = 1/12."},
+            {"type": "multiple_choice", "question": "Roll a die. P(even or greater than 4)?", "options": ["1/2", "2/3", "5/6", "1/3"], "correct": 1, "hint": "Even: {2,4,6}. >4: {5,6}. Union: {2,4,5,6}. P = 4/6 = 2/3."},
+            {"type": "fill_in", "question": "Flip a coin twice. P(at least one head) = ___", "answer": "3/4", "hint": "1 - P(no heads) = 1 - 1/4 = 3/4."},
+            {"type": "word_problem", "question": "A free-throw shooter makes 80% of shots. P(making 2 in a row)?", "answer": "0.64", "operation": "0.8 * 0.8 = 0.64", "hint": "0.8 × 0.8 = 0.64 = 64%."},
+            {"type": "multiple_choice", "question": "Bag: 5 red, 3 green. Pick with replacement twice. P(both green)?", "options": ["9/64", "3/28", "6/16", "9/16"], "correct": 0, "hint": "P(green) = 3/8. P(both) = 9/64."},
+            {"type": "fill_in", "question": "P(A) = 0.6, P(B) = 0.3, events are mutually exclusive. P(A or B) = ___", "answer": "0.9", "hint": "0.6 + 0.3 = 0.9."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Bag: 6 red, 4 blue. P(red) = ___", "answer": "6/10", "hint": "6 out of 10 = 3/5."},
+          {"type": "multiple_choice", "question": "P(event) = 0.25. Expected occurrences in 200 trials?", "options": ["25", "50", "75", "100"], "correct": 1, "hint": "0.25 × 200 = 50."},
+          {"type": "fill_in", "question": "Flip a coin and roll a die. Total outcomes = ___", "answer": "12", "hint": "2 × 6 = 12."},
+          {"type": "word_problem", "question": "P(A) = 1/5, P(B) = 1/3, independent. P(A and B)?", "answer": "1/15", "operation": "(1/5)*(1/3) = 1/15", "hint": "1/5 × 1/3 = 1/15."},
+          {"type": "fill_in", "question": "Roll a die 120 times. Expected number of 4s = ___", "answer": "20", "hint": "(1/6) × 120 = 20."},
+          {"type": "multiple_choice", "question": "You flip 3 coins. P(exactly 2 heads)?", "options": ["1/8", "1/4", "3/8", "1/2"], "correct": 2, "hint": "Favorable: HHT, HTH, THH = 3 out of 8."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "probability_pioneer"
+      }
+    },
+    {
+      "id": "7-math-6",
+      "title": "Statistics",
+      "description": "Use random sampling, draw inferences, and compare two populations using measures of center and variability.",
+      "lessons": [
+        {
+          "id": "7-math-6-1",
+          "title": "Random Sampling and Predictions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A random sample gives every member of a population an equal chance of being selected. Random samples are representative and let you make predictions about the whole population. A biased sample favors certain members and produces unreliable results. To make a prediction from a sample: find the sample proportion, then multiply by the population size.",
+            "examples": [
+              {"problem": "In a random sample of 50 students, 20 prefer soccer. Predict how many in a school of 400 prefer soccer.", "answer": "160", "explanation": "Sample proportion: 20/50 = 0.4. Prediction: 0.4 × 400 = 160."},
+              {"problem": "Survey: 15 out of 60 cars are red. Estimate reds out of 500 cars.", "answer": "125", "explanation": "15/60 = 0.25. 0.25 × 500 = 125 cars."},
+              {"problem": "Is surveying only athletes about favorite sports a random sample?", "answer": "No, it is biased", "explanation": "Athletes are not representative of all students."}
+            ],
+            "key_vocabulary": ["random sample", "population", "biased sample", "representative", "prediction", "proportion"],
+            "real_world": "Polling companies use random samples of ~1000 people to predict election results for millions of voters."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "In a sample of 40 students, 12 walk to school. Predict walkers out of 500 students.", "answer": "150", "operation": "12/40 * 500 = 150", "hint": "12/40 = 0.3. 0.3 × 500 = 150."},
+            {"type": "multiple_choice", "question": "Which is a random sample of a school?", "options": ["All band members", "Every 10th name on the roster", "All 8th graders", "The basketball team"], "correct": 1, "hint": "Every 10th name gives everyone a chance."},
+            {"type": "fill_in", "question": "Sample: 8 out of 25 prefer vanilla. Out of 200 people, predicted vanilla lovers = ___", "answer": "64", "hint": "8/25 = 0.32. 0.32 × 200 = 64."},
+            {"type": "true_false", "question": "A larger random sample generally gives more reliable predictions.", "answer": "true", "hint": "Larger samples better represent the population."},
+            {"type": "word_problem", "question": "30 out of 100 sampled light bulbs are defective. In a batch of 5000, how many defects expected?", "answer": "1500", "operation": "30/100 * 5000 = 1500", "hint": "0.30 × 5000 = 1500."},
+            {"type": "multiple_choice", "question": "Surveying shoppers at a luxury store about income is likely:", "options": ["Random", "Biased toward high income", "Biased toward low income", "Representative"], "correct": 1, "hint": "Luxury store shoppers tend to have higher income."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-6-2",
+          "title": "Measures of Center: Mean, Median, Mode",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mean = sum of all values ÷ number of values. Median = middle value when data is ordered (average the two middle values if even count). Mode = most frequent value. The mean is affected by outliers (extreme values), while the median is resistant to outliers. Use the median when data has outliers; use the mean when data is symmetric.",
+            "examples": [
+              {"problem": "Data: 4, 7, 9, 12, 8. Find the mean.", "answer": "8", "explanation": "Sum = 40. Mean = 40/5 = 8."},
+              {"problem": "Data: 3, 5, 7, 9, 11, 15. Find the median.", "answer": "8", "explanation": "Ordered. Middle two: 7 and 9. Median = (7+9)/2 = 8."},
+              {"problem": "Data: 2, 4, 4, 6, 7, 4, 9. Find the mode.", "answer": "4", "explanation": "4 appears 3 times, more than any other value."}
+            ],
+            "key_vocabulary": ["mean", "median", "mode", "outlier", "center", "average"],
+            "real_world": "Home prices often use the median instead of the mean because a few mansions (outliers) would make the mean misleadingly high."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Data: 10, 15, 20, 25, 30. Mean = ___", "answer": "20", "hint": "Sum = 100. 100/5 = 20."},
+            {"type": "fill_in", "question": "Data: 3, 8, 12, 5, 7. Median = ___", "answer": "7", "hint": "Ordered: 3,5,7,8,12. Middle = 7."},
+            {"type": "multiple_choice", "question": "Data: 2, 3, 3, 5, 7, 3, 8. Mode?", "options": ["2", "3", "5", "No mode"], "correct": 1, "hint": "3 appears most often."},
+            {"type": "word_problem", "question": "Test scores: 85, 90, 92, 88, 95. What is the mean?", "answer": "90", "operation": "(85+90+92+88+95)/5 = 450/5 = 90", "hint": "Sum = 450. Mean = 90."},
+            {"type": "fill_in", "question": "Data: 4, 6, 8, 10. Median = ___", "answer": "7", "hint": "Middle two: 6 and 8. (6+8)/2 = 7."},
+            {"type": "true_false", "question": "The mean is always the best measure of center.", "answer": "false", "hint": "The median is better when outliers are present."},
+            {"type": "multiple_choice", "question": "Salaries: $30K, $35K, $32K, $31K, $500K. Which is a better measure of center?", "options": ["Mean", "Median", "Mode", "Range"], "correct": 1, "hint": "The $500K outlier inflates the mean. Median is better."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-6-3",
+          "title": "Measures of Variability: Range, IQR, MAD",
+          "type": "lesson",
+          "content": {
+            "explanation": "Variability describes how spread out data is. Range = max - min. Interquartile Range (IQR) = Q3 - Q1, where Q1 is the median of the lower half and Q3 is the median of the upper half. IQR measures the spread of the middle 50%. Mean Absolute Deviation (MAD) = average of the absolute differences from the mean. Higher MAD = more spread out.",
+            "examples": [
+              {"problem": "Data: 2, 5, 7, 9, 14. Find the range.", "answer": "12", "explanation": "14 - 2 = 12."},
+              {"problem": "Data: 1, 3, 5, 7, 9, 11, 13. Find IQR.", "answer": "8", "explanation": "Q1 = 3 (median of 1,3,5). Q3 = 11 (median of 9,11,13). IQR = 11 - 3 = 8."},
+              {"problem": "Data: 4, 6, 8. Mean = 6. Find MAD.", "answer": "4/3", "explanation": "Deviations: |4-6|=2, |6-6|=0, |8-6|=2. MAD = (2+0+2)/3 = 4/3 ≈ 1.33."}
+            ],
+            "key_vocabulary": ["range", "interquartile range", "IQR", "quartile", "mean absolute deviation", "variability", "spread"],
+            "real_world": "Two students both average 80% on tests, but one scores 78-82 (low variability) while another scores 60-100 (high variability). Variability tells us about consistency."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Data: 3, 7, 12, 18, 25. Range = ___", "answer": "22", "hint": "25 - 3 = 22."},
+            {"type": "fill_in", "question": "Data: 2, 4, 6, 8, 10, 12, 14. Q1 = 4, Q3 = 12. IQR = ___", "answer": "8", "hint": "12 - 4 = 8."},
+            {"type": "multiple_choice", "question": "Data set A has range 5. Data set B has range 20. Which is more spread out?", "options": ["Set A", "Set B", "Same", "Cannot tell"], "correct": 1, "hint": "Larger range = more spread."},
+            {"type": "word_problem", "question": "Data: 10, 12, 14. Mean = 12. Find the MAD.", "answer": "4/3", "operation": "(2+0+2)/3 = 4/3", "hint": "Deviations: 2, 0, 2. MAD = 4/3 ≈ 1.33."},
+            {"type": "fill_in", "question": "Data: 5, 8, 10, 13, 15, 19, 22. Q1 = 8, Q3 = 19. IQR = ___", "answer": "11", "hint": "19 - 8 = 11."},
+            {"type": "true_false", "question": "IQR is affected by outliers.", "answer": "false", "hint": "IQR only uses the middle 50%, so outliers have little effect."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-6-4",
+          "title": "Comparing Two Populations",
+          "type": "lesson",
+          "content": {
+            "explanation": "To compare two data sets, look at their measures of center (mean or median) and measures of variability (range, IQR, or MAD). If the difference in means is large compared to the MAD, there is likely a meaningful difference between the groups. Visual displays like dot plots and box plots side by side make comparisons easier. The greater the overlap, the less difference between populations.",
+            "examples": [
+              {"problem": "Class A mean = 82, MAD = 4. Class B mean = 75, MAD = 5. Compare.", "answer": "Class A scored higher on average", "explanation": "Difference in means: 82 - 75 = 7. This is larger than either MAD, suggesting a real difference."},
+              {"problem": "Team X median = 15, IQR = 6. Team Y median = 14, IQR = 8. Compare.", "answer": "Similar centers but X is more consistent", "explanation": "Medians close (15 vs 14). X has smaller IQR (6 vs 8), meaning less spread."},
+              {"problem": "Boys heights: mean 62 in, MAD 2. Girls heights: mean 60 in, MAD 2.5. Meaningful difference?", "answer": "Possibly", "explanation": "Difference (2 in) is about equal to the MADs, so there is some overlap but a slight difference."}
+            ],
+            "key_vocabulary": ["compare", "overlap", "dot plot", "box plot", "inference", "meaningful difference"],
+            "real_world": "Scientists compare treatment vs control group data to see if a medicine works. If the treatment group's mean is much better and the variability is low, the medicine likely helps."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Group A mean = 50, MAD = 3. Group B mean = 60, MAD = 4. Is there a meaningful difference?", "options": ["Yes, the means differ by much more than the MADs", "No, the means are close", "Cannot tell", "Only if range is given"], "correct": 0, "hint": "Difference = 10, much larger than MAD of 3 or 4."},
+            {"type": "word_problem", "question": "Class 1 test mean = 78, median = 80. Class 2 mean = 85, median = 84. Which class performed better overall?", "answer": "Class 2", "operation": "Compare means: 85 > 78", "hint": "Both mean and median are higher for Class 2."},
+            {"type": "true_false", "question": "If two box plots overlap a lot, the populations are likely very different.", "answer": "false", "hint": "More overlap means more similar populations."},
+            {"type": "fill_in", "question": "Team A scores: mean 22, range 10. Team B scores: mean 22, range 30. Which is more consistent?", "answer": "Team A", "hint": "Same mean, but Team A has smaller range."},
+            {"type": "multiple_choice", "question": "Group X: median=40, IQR=8. Group Y: median=55, IQR=6. What can you infer?", "options": ["Y has higher typical values and is more consistent", "X has higher typical values", "They are about the same", "Cannot compare"], "correct": 0, "hint": "Y: higher median, smaller IQR."},
+            {"type": "word_problem", "question": "Plant A heights: mean=12 cm, MAD=1.5. Plant B heights: mean=14 cm, MAD=2. Difference in means divided by larger MAD?", "answer": "1", "operation": "(14-12)/2 = 1", "hint": "Difference = 2. Larger MAD = 2. Ratio = 1. A moderate difference."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "word_problem", "question": "Sample: 18 out of 60 students like pizza best. Predict pizza fans out of 400.", "answer": "120", "operation": "18/60 * 400 = 120", "hint": "0.3 × 400 = 120."},
+          {"type": "fill_in", "question": "Data: 5, 8, 12, 15, 20. Mean = ___", "answer": "12", "hint": "Sum = 60. 60/5 = 12."},
+          {"type": "fill_in", "question": "Data: 3, 5, 7, 9, 11. Range = ___", "answer": "8", "hint": "11 - 3 = 8."},
+          {"type": "multiple_choice", "question": "Data: 1, 3, 5, 7, 9, 11, 13. Q1=3, Q3=11. IQR?", "options": ["4", "6", "8", "12"], "correct": 2, "hint": "11 - 3 = 8."},
+          {"type": "fill_in", "question": "Group A mean=70, MAD=5. Group B mean=85, MAD=4. Difference in means = ___", "answer": "15", "hint": "85 - 70 = 15."},
+          {"type": "true_false", "question": "Surveying only honor-roll students about study habits gives a random sample of the school.", "answer": "false", "hint": "This is a biased sample."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "statistics_star"
+      }
+    },
+    {
+      "id": "7-math-7",
+      "title": "Percent Applications",
+      "description": "Solve real-world problems involving percent increase, decrease, tax, tip, markup, markdown, and simple interest.",
+      "lessons": [
+        {
+          "id": "7-math-7-1",
+          "title": "Percent of a Number and Percent Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "To find a percent of a number, convert the percent to a decimal and multiply. 25% of 80 = 0.25 × 80 = 20. The percent equation is: part = percent × whole. You can solve for any unknown. To find the percent: percent = part/whole. To find the whole: whole = part/percent.",
+            "examples": [
+              {"problem": "What is 30% of 150?", "answer": "45", "explanation": "0.30 × 150 = 45."},
+              {"problem": "12 is what percent of 48?", "answer": "25%", "explanation": "12/48 = 0.25 = 25%."},
+              {"problem": "18 is 40% of what number?", "answer": "45", "explanation": "18 = 0.40 × n. n = 18/0.40 = 45."}
+            ],
+            "key_vocabulary": ["percent", "part", "whole", "decimal", "percent equation"],
+            "real_world": "If you scored 42 out of 50 on a test, your percent is 42/50 = 84%."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "What is 15% of 200?", "answer": "30", "hint": "0.15 × 200 = 30."},
+            {"type": "multiple_choice", "question": "24 is what percent of 60?", "options": ["20%", "30%", "40%", "50%"], "correct": 2, "hint": "24/60 = 0.4 = 40%."},
+            {"type": "fill_in", "question": "35 is 70% of what number?", "answer": "50", "hint": "35/0.70 = 50."},
+            {"type": "fill_in", "question": "What is 8% of 250?", "answer": "20", "hint": "0.08 × 250 = 20."},
+            {"type": "word_problem", "question": "You got 36 out of 45 questions right. What percent?", "answer": "80", "operation": "36/45 = 0.80", "hint": "36/45 = 0.80 = 80%."},
+            {"type": "multiple_choice", "question": "45 is 25% of what number?", "options": ["11.25", "90", "180", "225"], "correct": 2, "hint": "45/0.25 = 180."},
+            {"type": "fill_in", "question": "What is 120% of 50?", "answer": "60", "hint": "1.20 × 50 = 60."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-7-2",
+          "title": "Percent Increase and Decrease",
+          "type": "lesson",
+          "content": {
+            "explanation": "Percent change = |new - original| / original × 100. For percent increase, the new value is larger: new = original × (1 + rate). For percent decrease, the new value is smaller: new = original × (1 - rate). For example, a price goes from $40 to $50: change = 10/40 = 0.25 = 25% increase.",
+            "examples": [
+              {"problem": "Price went from $80 to $100. Percent increase?", "answer": "25%", "explanation": "Change = 20. 20/80 = 0.25 = 25%."},
+              {"problem": "Population drops from 500 to 400. Percent decrease?", "answer": "20%", "explanation": "Change = 100. 100/500 = 0.20 = 20%."},
+              {"problem": "A $60 item increases by 15%. New price?", "answer": "$69", "explanation": "60 × 1.15 = $69."}
+            ],
+            "key_vocabulary": ["percent increase", "percent decrease", "percent change", "original", "new value"],
+            "real_world": "If your allowance goes from $10 to $12, that is a $2/$10 = 20% increase."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Price went from $50 to $65. Percent increase = ___%", "answer": "30", "hint": "15/50 = 0.30 = 30%."},
+            {"type": "multiple_choice", "question": "A population drops from 800 to 600. Percent decrease?", "options": ["20%", "25%", "30%", "33%"], "correct": 1, "hint": "200/800 = 0.25 = 25%."},
+            {"type": "fill_in", "question": "$120 item with 10% increase. New price = $___", "answer": "132", "hint": "120 × 1.10 = $132."},
+            {"type": "word_problem", "question": "A shirt was $40 and is now $30. What is the percent decrease?", "answer": "25", "operation": "10/40 = 0.25", "hint": "Change = 10. 10/40 = 25%."},
+            {"type": "fill_in", "question": "A $200 bike decreases by 35%. New price = $___", "answer": "130", "hint": "200 × 0.65 = $130."},
+            {"type": "multiple_choice", "question": "From 60 to 78. Percent increase?", "options": ["18%", "23%", "30%", "36%"], "correct": 2, "hint": "18/60 = 0.30 = 30%."},
+            {"type": "fill_in", "question": "A town grew from 2000 to 2500. Percent increase = ___%", "answer": "25", "hint": "500/2000 = 0.25 = 25%."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-7-3",
+          "title": "Tax, Tip, and Markup",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sales tax, tips, and markups are all examples of percent increase applied to a base amount. Sales tax: total = price + (price × tax rate) = price × (1 + tax rate). Tip: total = meal + (meal × tip rate). Markup: selling price = cost + (cost × markup rate). These are all the same math: adding a percentage of the original.",
+            "examples": [
+              {"problem": "Meal: $35. Tip: 18%. Total with tip?", "answer": "$41.30", "explanation": "Tip = 0.18 × 35 = $6.30. Total = $35 + $6.30 = $41.30."},
+              {"problem": "Shirt: $24. Tax: 8.5%. Total?", "answer": "$26.04", "explanation": "Tax = 0.085 × 24 = $2.04. Total = $24 + $2.04 = $26.04."},
+              {"problem": "Store buys a hat for $10, marks up 60%. Selling price?", "answer": "$16", "explanation": "Markup = 0.60 × 10 = $6. Price = $10 + $6 = $16."}
+            ],
+            "key_vocabulary": ["sales tax", "tip", "gratuity", "markup", "selling price", "cost"],
+            "real_world": "At a restaurant, you calculate the tip on the pre-tax amount. A 20% tip on a $45 meal is 0.20 × 45 = $9."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Meal = $50. Tip = 15%. Tip amount = $___", "answer": "7.50", "hint": "0.15 × 50 = $7.50."},
+            {"type": "multiple_choice", "question": "Item: $80. Tax: 7%. Total?", "options": ["$85.60", "$86.40", "$87.00", "$87.60"], "correct": 0, "hint": "0.07 × 80 = $5.60. Total = $85.60."},
+            {"type": "fill_in", "question": "Cost = $25. Markup = 40%. Selling price = $___", "answer": "35", "hint": "0.40 × 25 = $10. 25 + 10 = $35."},
+            {"type": "word_problem", "question": "A $65 jacket has 6% sales tax. What is the total cost?", "answer": "68.90", "operation": "65 * 1.06 = 68.90", "hint": "65 × 1.06 = $68.90."},
+            {"type": "fill_in", "question": "Restaurant bill: $42. You leave a 20% tip. Total paid = $___", "answer": "50.40", "hint": "Tip = 0.20 × 42 = $8.40. Total = $50.40."},
+            {"type": "multiple_choice", "question": "Store pays $30 for shoes, sells them for $48. Percent markup?", "options": ["37.5%", "50%", "60%", "80%"], "correct": 2, "hint": "Markup = 18. 18/30 = 0.60 = 60%."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-7-4",
+          "title": "Discount and Sale Price",
+          "type": "lesson",
+          "content": {
+            "explanation": "A discount is a percent decrease on a price. Sale price = original price × (1 - discount rate). Or equivalently: discount amount = original × rate, then sale price = original - discount. For example, a $60 item at 25% off: discount = 0.25 × 60 = $15, sale price = $60 - $15 = $45. You can also combine a discount with tax: apply the discount first, then tax on the sale price.",
+            "examples": [
+              {"problem": "$80 jacket, 30% off. Sale price?", "answer": "$56", "explanation": "Discount = 0.30 × 80 = $24. Sale price = $80 - $24 = $56."},
+              {"problem": "$50 game, 20% off, then 8% tax. Total?", "answer": "$43.20", "explanation": "Sale: 50 × 0.80 = $40. Tax: 40 × 0.08 = $3.20. Total = $43.20."},
+              {"problem": "Sale price is $36. Discount was 40%. Original price?", "answer": "$60", "explanation": "$36 = original × 0.60. Original = 36/0.60 = $60."}
+            ],
+            "key_vocabulary": ["discount", "sale price", "markdown", "percent off", "original price"],
+            "real_world": "Black Friday sales might offer 40% off. A $100 item becomes $60. With 8% tax: $60 × 1.08 = $64.80."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "$90 shoes, 20% off. Sale price = $___", "answer": "72", "hint": "0.20 × 90 = $18. 90 - 18 = $72."},
+            {"type": "multiple_choice", "question": "$45 book, 10% off. Sale price?", "options": ["$35", "$40.50", "$44.10", "$36"], "correct": 1, "hint": "0.10 × 45 = $4.50. 45 - 4.50 = $40.50."},
+            {"type": "word_problem", "question": "A $120 bike is 35% off then 7% tax. Total?", "answer": "83.46", "operation": "120*0.65 = 78; 78*1.07 = 83.46", "hint": "Sale: 120 × 0.65 = $78. Tax: 78 × 1.07 = $83.46."},
+            {"type": "fill_in", "question": "Sale price is $48. Original price before 20% discount = $___", "answer": "60", "hint": "48 = p × 0.80. p = 60."},
+            {"type": "fill_in", "question": "$150 TV, 25% off. Sale price = $___", "answer": "112.50", "hint": "0.25 × 150 = 37.50. 150 - 37.50 = $112.50."},
+            {"type": "multiple_choice", "question": "A store has 50% off clearance. A $38 shirt costs:", "options": ["$18", "$19", "$20", "$28"], "correct": 1, "hint": "0.50 × 38 = $19."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-math-7-5",
+          "title": "Simple Interest",
+          "type": "lesson",
+          "content": {
+            "explanation": "Simple interest is calculated using I = Prt, where P = principal (starting amount), r = annual interest rate (as a decimal), and t = time in years. The total amount after interest is A = P + I = P + Prt = P(1 + rt). For example, $500 at 4% for 3 years: I = 500 × 0.04 × 3 = $60. Total = $560.",
+            "examples": [
+              {"problem": "$1000 at 5% for 2 years. Interest?", "answer": "$100", "explanation": "I = 1000 × 0.05 × 2 = $100."},
+              {"problem": "$800 at 3% for 4 years. Total amount?", "answer": "$896", "explanation": "I = 800 × 0.03 × 4 = $96. Total = $800 + $96 = $896."},
+              {"problem": "You earned $60 interest on $500 at 6%. How many years?", "answer": "2 years", "explanation": "60 = 500 × 0.06 × t. 60 = 30t. t = 2 years."}
+            ],
+            "key_vocabulary": ["simple interest", "principal", "rate", "time", "total amount"],
+            "real_world": "A savings account paying 3% simple interest on $2000 earns 2000 × 0.03 = $60 per year."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "P = $600, r = 5%, t = 3 years. Interest = $___", "answer": "90", "hint": "600 × 0.05 × 3 = $90."},
+            {"type": "multiple_choice", "question": "$2000 at 4% for 5 years. Total amount?", "options": ["$2200", "$2400", "$2800", "$3000"], "correct": 1, "hint": "I = 2000 × 0.04 × 5 = $400. Total = $2400."},
+            {"type": "fill_in", "question": "P = $1500, r = 6%, t = 2 years. Total = $___", "answer": "1680", "hint": "I = 1500 × 0.06 × 2 = $180. Total = $1680."},
+            {"type": "word_problem", "question": "You borrow $3000 at 8% simple interest for 4 years. How much interest do you pay?", "answer": "960", "operation": "3000 * 0.08 * 4 = 960", "hint": "3000 × 0.08 × 4 = $960."},
+            {"type": "fill_in", "question": "I = $240, P = $800, r = 10%. Time = ___ years", "answer": "3", "hint": "240 = 800 × 0.10 × t. 240 = 80t. t = 3."},
+            {"type": "multiple_choice", "question": "$5000 at 3.5% for 2 years. Interest?", "options": ["$175", "$350", "$700", "$1750"], "correct": 1, "hint": "5000 × 0.035 × 2 = $350."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "What is 45% of 80?", "answer": "36", "hint": "0.45 × 80 = 36."},
+          {"type": "fill_in", "question": "Price from $60 to $78. Percent increase = ___%", "answer": "30", "hint": "18/60 = 0.30 = 30%."},
+          {"type": "word_problem", "question": "A $55 meal with 20% tip and 8% tax (on food only). Total?", "answer": "70.40", "operation": "tip: 11, tax: 4.40, total: 55+11+4.40 = 70.40", "hint": "Tip: $11. Tax: $4.40. Total: $70.40."},
+          {"type": "fill_in", "question": "$140 shoes at 30% off. Sale price = $___", "answer": "98", "hint": "0.30 × 140 = $42. 140 - 42 = $98."},
+          {"type": "multiple_choice", "question": "P=$1000, r=6%, t=5 yrs. Simple interest?", "options": ["$60", "$300", "$600", "$1300"], "correct": 1, "hint": "1000 × 0.06 × 5 = $300."},
+          {"type": "fill_in", "question": "72 is what percent of 90?", "answer": "80", "hint": "72/90 = 0.80 = 80%."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "percent_champion"
+      }
+    }
+  ]
+}

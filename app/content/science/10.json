@@ -1,0 +1,3022 @@
+{
+  "grade": 10,
+  "subject": "science",
+  "units": [
+    {
+      "id": "10-science-1",
+      "title": "Matter and Measurement",
+      "description": "States of matter, properties, SI units, and significant figures.",
+      "lessons": [
+        {
+          "id": "10-science-1-1",
+          "title": "States of Matter",
+          "type": "lesson",
+          "content": {
+            "explanation": "Matter exists in solid (fixed shape/volume), liquid (fixed volume, variable shape), and gas (variable shape/volume) states. Plasma is a fourth state (ionized gas). Phase changes: melting, freezing, evaporation, condensation, sublimation, deposition. Energy is absorbed in melting/evaporation and released in freezing/condensation.",
+            "examples": [
+              {
+                "problem": "Ice \u2192 water",
+                "answer": "Melting (solid \u2192 liquid)",
+                "explanation": "Energy absorbed to overcome intermolecular forces."
+              },
+              {
+                "problem": "Water \u2192 steam",
+                "answer": "Evaporation/boiling (liquid \u2192 gas)",
+                "explanation": "Molecules gain enough energy to escape."
+              },
+              {
+                "problem": "Dry ice \u2192 CO\u2082 gas",
+                "answer": "Sublimation (solid \u2192 gas directly)",
+                "explanation": "Skips the liquid phase."
+              }
+            ],
+            "key_vocabulary": [
+              "solid",
+              "liquid",
+              "gas",
+              "plasma",
+              "phase change",
+              "sublimation",
+              "deposition"
+            ],
+            "real_world": "Freeze-drying food uses sublimation to preserve flavor while removing water."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Fixed shape AND volume:",
+              "options": [
+                "Solid",
+                "Liquid",
+                "Gas",
+                "Plasma"
+              ],
+              "correct": 0,
+              "hint": "Solids hold their shape."
+            },
+            {
+              "type": "fill_in",
+              "question": "Liquid \u2192 gas is called ___",
+              "answer": "evaporation",
+              "hint": "Or boiling at boiling point."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gas \u2192 liquid is called ___",
+              "answer": "condensation",
+              "hint": "Water vapor on a cold glass."
+            },
+            {
+              "type": "fill_in",
+              "question": "Solid \u2192 gas directly is ___",
+              "answer": "sublimation",
+              "hint": "Like dry ice."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Energy is ___ during melting:",
+              "options": [
+                "Absorbed",
+                "Released",
+                "Unchanged",
+                "Destroyed"
+              ],
+              "correct": 0,
+              "hint": "Need energy to break bonds."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gas \u2192 solid directly is ___",
+              "answer": "deposition",
+              "hint": "Reverse of sublimation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-1-2",
+          "title": "Physical and Chemical Properties",
+          "type": "lesson",
+          "content": {
+            "explanation": "Physical properties: observed without changing substance (color, density, melting point, boiling point). Chemical properties: describe how a substance reacts (flammability, reactivity, oxidation). Physical changes: no new substance formed. Chemical changes: new substance with different properties formed. Signs of chemical change: gas bubbles, color change, precipitate, energy change.",
+            "examples": [
+              {
+                "problem": "Ice melting",
+                "answer": "Physical change",
+                "explanation": "Still H\u2082O, just different state."
+              },
+              {
+                "problem": "Iron rusting",
+                "answer": "Chemical change",
+                "explanation": "Fe + O\u2082 \u2192 Fe\u2082O\u2083, a new substance."
+              },
+              {
+                "problem": "Density of gold = 19.3 g/cm\u00b3",
+                "answer": "Physical property",
+                "explanation": "Can measure without changing gold."
+              }
+            ],
+            "key_vocabulary": [
+              "physical property",
+              "chemical property",
+              "physical change",
+              "chemical change",
+              "density"
+            ],
+            "real_world": "Forensic scientists use physical and chemical properties to identify unknown substances."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Rusting is a ___ change:",
+              "options": [
+                "Physical",
+                "Chemical",
+                "Nuclear",
+                "No"
+              ],
+              "correct": 1,
+              "hint": "New substance formed."
+            },
+            {
+              "type": "fill_in",
+              "question": "Boiling point is a ___ property",
+              "answer": "physical",
+              "hint": "Observed without reaction."
+            },
+            {
+              "type": "fill_in",
+              "question": "Flammability is a ___ property",
+              "answer": "chemical",
+              "hint": "Describes reaction with oxygen."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a chemical change?",
+              "options": [
+                "Melting",
+                "Dissolving",
+                "Burning",
+                "Cutting"
+              ],
+              "correct": 2,
+              "hint": "Burning creates new substances."
+            },
+            {
+              "type": "fill_in",
+              "question": "Dissolving sugar in water is a chemical change.",
+              "answer": "false",
+              "hint": "Sugar molecules stay intact."
+            },
+            {
+              "type": "fill_in",
+              "question": "Density = mass / ___",
+              "answer": "volume",
+              "hint": "d = m/v."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-1-3",
+          "title": "SI Units and Conversions",
+          "type": "lesson",
+          "content": {
+            "explanation": "SI base units: meter (m) for length, kilogram (kg) for mass, second (s) for time, kelvin (K) for temperature, mole (mol) for amount. Prefixes: kilo (10\u00b3), centi (10\u207b\u00b2), milli (10\u207b\u00b3), micro (10\u207b\u2076), nano (10\u207b\u2079). Temperature: K = \u00b0C + 273. Density = mass/volume.",
+            "examples": [
+              {
+                "problem": "Convert 2.5 kg to g",
+                "answer": "2500 g",
+                "explanation": "2.5 \u00d7 1000 = 2500."
+              },
+              {
+                "problem": "25\u00b0C to Kelvin",
+                "answer": "298 K",
+                "explanation": "25 + 273 = 298."
+              },
+              {
+                "problem": "Mass=10g, Volume=5mL. Density?",
+                "answer": "2 g/mL",
+                "explanation": "10/5 = 2."
+              }
+            ],
+            "key_vocabulary": [
+              "SI units",
+              "meter",
+              "kilogram",
+              "mole",
+              "kelvin",
+              "prefix",
+              "conversion"
+            ],
+            "real_world": "Scientists worldwide use SI units so everyone can reproduce experiments consistently."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "1 km = ___ m",
+              "answer": "1000",
+              "hint": "Kilo = 1000."
+            },
+            {
+              "type": "fill_in",
+              "question": "1 m = ___ cm",
+              "answer": "100",
+              "hint": "Centi = 1/100."
+            },
+            {
+              "type": "fill_in",
+              "question": "0\u00b0C = ___ K",
+              "answer": "273",
+              "hint": "Add 273."
+            },
+            {
+              "type": "fill_in",
+              "question": "100\u00b0C = ___ K",
+              "answer": "373",
+              "hint": "100+273."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mass=20g, V=4mL. Density=___ g/mL",
+              "answer": "5",
+              "hint": "20/4=5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "SI unit for mass:",
+              "options": [
+                "Gram",
+                "Kilogram",
+                "Pound",
+                "Ounce"
+              ],
+              "correct": 1,
+              "hint": "Base unit is kg."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-1-4",
+          "title": "Significant Figures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sig figs indicate measurement precision. Rules: nonzero digits always count. Zeros between nonzeros count. Leading zeros don't count. Trailing zeros after decimal count. In multiplication/division: answer has fewest sig figs. In addition/subtraction: answer has fewest decimal places.",
+            "examples": [
+              {
+                "problem": "How many sig figs in 0.00340?",
+                "answer": "3",
+                "explanation": "3, 4, and trailing 0 count. Leading zeros don't."
+              },
+              {
+                "problem": "2.5 \u00d7 3.42",
+                "answer": "8.6",
+                "explanation": "2 sig figs (from 2.5), so 8.6."
+              },
+              {
+                "problem": "1200: sig figs?",
+                "answer": "2 (ambiguous without decimal)",
+                "explanation": "12 and trailing zeros ambiguous. 1.200\u00d710\u00b3 = 4 sig figs."
+              }
+            ],
+            "key_vocabulary": [
+              "significant figures",
+              "precision",
+              "accuracy",
+              "trailing zero",
+              "leading zero"
+            ],
+            "real_world": "In medicine, sig figs ensure drug dosages are precise enough for patient safety."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Sig figs in 45.60: ___",
+              "answer": "4",
+              "hint": "All nonzeros + trailing zero after decimal."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sig figs in 0.0025: ___",
+              "answer": "2",
+              "hint": "Leading zeros don't count."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sig figs in 3.00: ___",
+              "answer": "3",
+              "hint": "Trailing zeros after decimal count."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sig figs in 100.: ___",
+              "answer": "3",
+              "hint": "Decimal point makes trailing zeros significant."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "3.2 \u00d7 2.15 = 6.880. Correct sig figs:",
+              "options": [
+                "6.9",
+                "6.88",
+                "6.880",
+                "7.0"
+              ],
+              "correct": 1,
+              "hint": "2 sig figs? No, 3.2 has 2, 2.15 has 3. Min=2. So 6.9. Wait... actually 3.2\u00d72.15=6.88, and min sig figs is 2, so answer is 6.9."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sig figs in 5000: ___",
+              "answer": "1",
+              "hint": "Without decimal, trailing zeros don't count."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-1-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Solid \u2192 liquid: ___",
+            "answer": "melting"
+          },
+          {
+            "type": "fill_in",
+            "question": "0\u00b0C = ___ K",
+            "answer": "273"
+          },
+          {
+            "type": "fill_in",
+            "question": "Mass=15g, V=3mL. Density=___",
+            "answer": "5"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Flammability is:",
+            "options": [
+              "Physical",
+              "Chemical",
+              "Nuclear",
+              "Mechanical"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Sig figs in 0.0470: ___",
+            "answer": "3"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "matter_measurement_master"
+      }
+    },
+    {
+      "id": "10-science-2",
+      "title": "Atomic Structure",
+      "description": "History of atomic models and subatomic particles.",
+      "lessons": [
+        {
+          "id": "10-science-2-1",
+          "title": "History of the Atom",
+          "type": "lesson",
+          "content": {
+            "explanation": "Democritus (400 BC): proposed 'atomos' (indivisible). Dalton (1803): atoms are solid spheres, elements differ by atom type. Thomson (1897): discovered electrons, 'plum pudding' model. Rutherford (1911): gold foil experiment found dense positive nucleus. Bohr (1913): electrons orbit in energy levels.",
+            "examples": [
+              {
+                "problem": "Who discovered the electron?",
+                "answer": "Thomson (1897)",
+                "explanation": "Cathode ray experiments."
+              },
+              {
+                "problem": "Gold foil experiment",
+                "answer": "Rutherford",
+                "explanation": "Most alpha particles passed through; some bounced back \u2192 dense nucleus."
+              },
+              {
+                "problem": "Bohr's contribution",
+                "answer": "Electrons orbit in specific energy levels",
+                "explanation": "Like planets orbiting the sun."
+              }
+            ],
+            "key_vocabulary": [
+              "atom",
+              "electron",
+              "nucleus",
+              "proton",
+              "neutron",
+              "model",
+              "energy level"
+            ],
+            "real_world": "Understanding atomic structure led to nuclear energy, medical imaging, and electronics."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "___ proposed indivisible 'atomos'",
+              "answer": "Democritus",
+              "hint": "Ancient Greek philosopher."
+            },
+            {
+              "type": "fill_in",
+              "question": "Thomson discovered the ___",
+              "answer": "electron",
+              "hint": "Using cathode rays."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rutherford discovered the ___",
+              "answer": "nucleus",
+              "hint": "Gold foil experiment."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Plum pudding model was proposed by:",
+              "options": [
+                "Dalton",
+                "Thomson",
+                "Rutherford",
+                "Bohr"
+              ],
+              "correct": 1,
+              "hint": "Electrons in positive 'pudding'."
+            },
+            {
+              "type": "fill_in",
+              "question": "Bohr said electrons orbit in energy ___",
+              "answer": "levels",
+              "hint": "Specific orbits."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Gold foil experiment showed:",
+              "options": [
+                "Atoms are solid",
+                "Atoms have a dense nucleus",
+                "Electrons are negative",
+                "Atoms are divisible"
+              ],
+              "correct": 1,
+              "hint": "Most particles passed through."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-2-2",
+          "title": "Subatomic Particles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Protons: positive charge (+1), in nucleus, mass \u2248 1 amu. Neutrons: no charge (0), in nucleus, mass \u2248 1 amu. Electrons: negative charge (-1), orbit nucleus, mass \u2248 0 amu (1/1836 of proton). Atomic number = # protons (defines element). Mass number = protons + neutrons. Ions: atoms with charge (lost/gained electrons).",
+            "examples": [
+              {
+                "problem": "Carbon: 6 protons, 6 neutrons. Mass number?",
+                "answer": "12",
+                "explanation": "6+6=12."
+              },
+              {
+                "problem": "Na atom loses 1 electron",
+                "answer": "Na\u207a ion",
+                "explanation": "11 protons, 10 electrons = +1 charge."
+              },
+              {
+                "problem": "Oxygen-18: 8 protons. Neutrons?",
+                "answer": "10",
+                "explanation": "18-8=10."
+              }
+            ],
+            "key_vocabulary": [
+              "proton",
+              "neutron",
+              "electron",
+              "atomic number",
+              "mass number",
+              "ion",
+              "isotope"
+            ],
+            "real_world": "PET scans in medicine use positrons (anti-electrons) to image the body."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Protons have ___ charge",
+              "answer": "positive",
+              "hint": "+ charge."
+            },
+            {
+              "type": "fill_in",
+              "question": "Neutrons have ___ charge",
+              "answer": "no",
+              "hint": "Neutral."
+            },
+            {
+              "type": "fill_in",
+              "question": "Atomic number = number of ___",
+              "answer": "protons",
+              "hint": "Defines the element."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mass number = protons + ___",
+              "answer": "neutrons",
+              "hint": "p + n."
+            },
+            {
+              "type": "fill_in",
+              "question": "Carbon-14 has 6 protons and ___ neutrons",
+              "answer": "8",
+              "hint": "14-6=8."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An atom that gains an electron becomes:",
+              "options": [
+                "Positive ion",
+                "Negative ion",
+                "Isotope",
+                "Neutral"
+              ],
+              "correct": 1,
+              "hint": "Extra electron = negative."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-2-3",
+          "title": "Isotopes and Atomic Mass",
+          "type": "lesson",
+          "content": {
+            "explanation": "Isotopes: atoms of same element with different numbers of neutrons. Same atomic number, different mass number. Average atomic mass = weighted average of all isotopes. Example: Carbon-12 (98.9%) and Carbon-13 (1.1%). Most atomic masses on periodic table are NOT whole numbers because they're averages.",
+            "examples": [
+              {
+                "problem": "C-12 and C-13 are...",
+                "answer": "Isotopes of carbon",
+                "explanation": "Same protons (6), different neutrons."
+              },
+              {
+                "problem": "75% Cl-35, 25% Cl-37. Avg mass?",
+                "answer": "35.5",
+                "explanation": "0.75(35)+0.25(37)=26.25+9.25=35.5."
+              },
+              {
+                "problem": "Why isn't chlorine's mass 35 or 37?",
+                "answer": "It's a weighted average of isotopes",
+                "explanation": "35.5 reflects the natural mix."
+              }
+            ],
+            "key_vocabulary": [
+              "isotope",
+              "mass number",
+              "average atomic mass",
+              "weighted average",
+              "natural abundance"
+            ],
+            "real_world": "Carbon-14 dating uses the decay of a carbon isotope to determine the age of artifacts."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Isotopes have same number of ___ but different neutrons",
+              "answer": "protons",
+              "hint": "Same element."
+            },
+            {
+              "type": "fill_in",
+              "question": "60% X-10, 40% X-12. Avg mass=0.6(10)+0.4(12)=___",
+              "answer": "10.8",
+              "hint": "6+4.8=10.8."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Isotopes differ in:",
+              "options": [
+                "Protons",
+                "Neutrons",
+                "Electrons",
+                "Charge"
+              ],
+              "correct": 1,
+              "hint": "Different number of neutrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "All atoms of an element have the same mass.",
+              "answer": "false",
+              "hint": "Isotopes have different masses."
+            },
+            {
+              "type": "fill_in",
+              "question": "80% Cu-63, 20% Cu-65. Avg=0.8(63)+0.2(65)=___",
+              "answer": "63.4",
+              "hint": "50.4+13=63.4."
+            },
+            {
+              "type": "fill_in",
+              "question": "Hydrogen-2 (deuterium) has ___ neutron(s)",
+              "answer": "1",
+              "hint": "2-1=1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-2-4",
+          "title": "The Quantum Mechanical Model",
+          "type": "lesson",
+          "content": {
+            "explanation": "Modern model: electrons exist in orbitals (probability clouds), not fixed orbits. Energy levels: 1, 2, 3... (principal quantum number n). Sublevels: s (2e\u207b), p (6e\u207b), d (10e\u207b), f (14e\u207b). Electron cloud shows where electrons are LIKELY found. Heisenberg uncertainty: can't know exact position AND momentum simultaneously.",
+            "examples": [
+              {
+                "problem": "Max electrons in n=1",
+                "answer": "2",
+                "explanation": "Only 1s sublevel: 2 electrons."
+              },
+              {
+                "problem": "Max electrons in n=2",
+                "answer": "8",
+                "explanation": "2s(2) + 2p(6) = 8."
+              },
+              {
+                "problem": "Max electrons in level n",
+                "answer": "2n\u00b2",
+                "explanation": "n=3: 2(9)=18."
+              }
+            ],
+            "key_vocabulary": [
+              "orbital",
+              "quantum",
+              "energy level",
+              "sublevel",
+              "electron cloud",
+              "uncertainty"
+            ],
+            "real_world": "Quantum mechanics is the foundation of modern computing and semiconductor technology."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "s sublevel holds max ___ electrons",
+              "answer": "2",
+              "hint": "One orbital \u00d7 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "p sublevel holds max ___ electrons",
+              "answer": "6",
+              "hint": "Three orbitals \u00d7 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "d sublevel holds max ___ electrons",
+              "answer": "10",
+              "hint": "Five orbitals \u00d7 2."
+            },
+            {
+              "type": "fill_in",
+              "question": "Max electrons in n=3: 2(3\u00b2)=___",
+              "answer": "18",
+              "hint": "2n\u00b2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Orbitals describe:",
+              "options": [
+                "Exact path",
+                "Probability of finding electron",
+                "Speed",
+                "Charge"
+              ],
+              "correct": 1,
+              "hint": "Probability cloud."
+            },
+            {
+              "type": "fill_in",
+              "question": "Max electrons in n=4: 2(4\u00b2)=___",
+              "answer": "32",
+              "hint": "2\u00d716=32."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-2-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Atomic number = # of ___",
+            "answer": "protons"
+          },
+          {
+            "type": "fill_in",
+            "question": "Mass number = protons + ___",
+            "answer": "neutrons"
+          },
+          {
+            "type": "fill_in",
+            "question": "s sublevel holds ___ electrons max",
+            "answer": "2"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Thomson discovered:",
+            "options": [
+              "Proton",
+              "Electron",
+              "Neutron",
+              "Nucleus"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Max electrons in n=2: ___",
+            "answer": "8"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "atomic_structure_ace"
+      }
+    },
+    {
+      "id": "10-science-3",
+      "title": "Electron Configuration and Periodic Table",
+      "description": "Electron arrangements and periodic trends.",
+      "lessons": [
+        {
+          "id": "10-science-3-1",
+          "title": "Electron Configuration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fill orbitals lowest energy first (Aufbau principle). Order: 1s 2s 2p 3s 3p 4s 3d 4p 5s 4d 5p... Pauli exclusion: max 2 electrons per orbital (opposite spins). Hund's rule: fill orbitals of same sublevel singly first, then pair. Example: Oxygen (8e\u207b): 1s\u00b22s\u00b22p\u2074.",
+            "examples": [
+              {
+                "problem": "Electron config of Carbon (6e\u207b)",
+                "answer": "1s\u00b22s\u00b22p\u00b2",
+                "explanation": "Fill 1s, 2s, then 2p."
+              },
+              {
+                "problem": "Electron config of Sodium (11e\u207b)",
+                "answer": "1s\u00b22s\u00b22p\u20763s\u00b9",
+                "explanation": "Noble gas shorthand: [Ne]3s\u00b9."
+              },
+              {
+                "problem": "Electron config of Iron (26e\u207b)",
+                "answer": "1s\u00b22s\u00b22p\u20763s\u00b23p\u20764s\u00b23d\u2076",
+                "explanation": "Or [Ar]4s\u00b23d\u2076."
+              }
+            ],
+            "key_vocabulary": [
+              "electron configuration",
+              "Aufbau",
+              "Pauli exclusion",
+              "Hund's rule",
+              "orbital diagram"
+            ],
+            "real_world": "LED lights work because electrons in semiconductors jump between specific energy levels."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Hydrogen (1e\u207b) config: ___",
+              "answer": "1s1",
+              "hint": "One electron in 1s. Written 1s\u00b9."
+            },
+            {
+              "type": "fill_in",
+              "question": "Helium (2e\u207b) config: ___",
+              "answer": "1s2",
+              "hint": "Two electrons in 1s."
+            },
+            {
+              "type": "fill_in",
+              "question": "Nitrogen (7e\u207b) ends with: 2p___",
+              "answer": "3",
+              "hint": "1s\u00b22s\u00b22p\u00b3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "4s fills before:",
+              "options": [
+                "3s",
+                "3p",
+                "3d",
+                "2p"
+              ],
+              "correct": 2,
+              "hint": "4s is lower energy than 3d."
+            },
+            {
+              "type": "fill_in",
+              "question": "Neon (10e\u207b) config ends: 2p___",
+              "answer": "6",
+              "hint": "1s\u00b22s\u00b22p\u2076."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Max electrons per orbital:",
+              "options": [
+                "1",
+                "2",
+                "6",
+                "10"
+              ],
+              "correct": 1,
+              "hint": "Pauli: 2 with opposite spins."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-3-2",
+          "title": "The Periodic Table Organization",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rows = periods (energy levels). Columns = groups/families (similar properties). Group 1: alkali metals (1 valence e\u207b). Group 2: alkaline earth metals (2 valence e\u207b). Groups 3-12: transition metals. Group 17: halogens (7 valence e\u207b). Group 18: noble gases (8 valence e\u207b, stable). Metals left, nonmetals right, metalloids along staircase.",
+            "examples": [
+              {
+                "problem": "Sodium is in Group 1",
+                "answer": "Alkali metal, 1 valence electron",
+                "explanation": "Very reactive."
+              },
+              {
+                "problem": "Fluorine is in Group 17",
+                "answer": "Halogen, 7 valence electrons",
+                "explanation": "Needs 1 more for octet."
+              },
+              {
+                "problem": "Neon is in Group 18",
+                "answer": "Noble gas, 8 valence electrons",
+                "explanation": "Very stable, rarely reacts."
+              }
+            ],
+            "key_vocabulary": [
+              "period",
+              "group",
+              "alkali metal",
+              "halogen",
+              "noble gas",
+              "transition metal",
+              "metalloid"
+            ],
+            "real_world": "Silicon (a metalloid) is the basis of computer chips and solar panels."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Group 1 elements are called ___ metals",
+              "answer": "alkali",
+              "hint": "Very reactive."
+            },
+            {
+              "type": "fill_in",
+              "question": "Group 17 elements are called ___",
+              "answer": "halogens",
+              "hint": "Salt-forming."
+            },
+            {
+              "type": "fill_in",
+              "question": "Group 18 elements are called ___ gases",
+              "answer": "noble",
+              "hint": "Stable, full outer shell."
+            },
+            {
+              "type": "fill_in",
+              "question": "Alkali metals have ___ valence electron(s)",
+              "answer": "1",
+              "hint": "Group 1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Metals are generally found:",
+              "options": [
+                "Left",
+                "Right",
+                "Center",
+                "Top"
+              ],
+              "correct": 0,
+              "hint": "Left side of periodic table."
+            },
+            {
+              "type": "fill_in",
+              "question": "Elements in the same group have similar ___",
+              "answer": "properties",
+              "hint": "Same valence electrons."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-3-3",
+          "title": "Periodic Trends: Atomic Radius and Ionization Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Atomic radius: increases DOWN a group (more energy levels) and decreases LEFT TO RIGHT across a period (more protons pull electrons closer). Ionization energy: energy to remove an electron. Increases across a period (harder to remove) and decreases down a group (farther from nucleus). Opposite trend to atomic radius.",
+            "examples": [
+              {
+                "problem": "Compare Na and K atomic radius",
+                "answer": "K > Na",
+                "explanation": "K has more energy levels (period 3 vs 4)."
+              },
+              {
+                "problem": "Compare Na and Cl atomic radius",
+                "answer": "Na > Cl",
+                "explanation": "Same period, but Cl has more protons pulling in."
+              },
+              {
+                "problem": "Higher ionization energy: Li or F?",
+                "answer": "F",
+                "explanation": "Farther right = higher ionization energy."
+              }
+            ],
+            "key_vocabulary": [
+              "atomic radius",
+              "ionization energy",
+              "periodic trend",
+              "shielding",
+              "effective nuclear charge"
+            ],
+            "real_world": "Ionization energy explains why noble gases are inert \u2014 too much energy needed to remove electrons."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Atomic radius increases:",
+              "options": [
+                "Left to right",
+                "Right to left",
+                "Up a group",
+                "Diagonally"
+              ],
+              "correct": 1,
+              "hint": "Actually, DOWN a group too. But across: decreases L\u2192R, so increases R\u2192L."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Going DOWN a group, atomic radius:",
+              "options": [
+                "Increases",
+                "Decreases",
+                "Stays same",
+                "Varies"
+              ],
+              "correct": 0,
+              "hint": "More energy levels = larger."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Ionization energy across a period:",
+              "options": [
+                "Increases",
+                "Decreases",
+                "Stays same",
+                "Varies"
+              ],
+              "correct": 0,
+              "hint": "Harder to remove electrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "Largest atom: Li, Na, or K?",
+              "answer": "K",
+              "hint": "Lowest in group = largest."
+            },
+            {
+              "type": "fill_in",
+              "question": "Highest ionization energy: Na, Mg, or Al?",
+              "answer": "Mg",
+              "hint": "Actually, it's tricky. Generally increases across, but Mg's full 3s sublevel makes it higher than Al. Mg."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which has smallest radius: Na, Mg, Al?",
+              "options": [
+                "Na",
+                "Mg",
+                "Al"
+              ],
+              "correct": 2,
+              "hint": "Farther right = smaller."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-3-4",
+          "title": "Electronegativity and Periodic Trends",
+          "type": "lesson",
+          "content": {
+            "explanation": "Electronegativity: ability to attract electrons in a bond. Increases across a period (left \u2192 right) and decreases down a group. Fluorine is most electronegative (4.0). Francium is least electronegative. Noble gases generally don't have electronegativity values. Metals have low electronegativity; nonmetals have high.",
+            "examples": [
+              {
+                "problem": "Most electronegative element",
+                "answer": "Fluorine (4.0)",
+                "explanation": "Top right of periodic table (excluding noble gases)."
+              },
+              {
+                "problem": "Compare electronegativity: O vs S",
+                "answer": "O > S",
+                "explanation": "O is higher in the group."
+              },
+              {
+                "problem": "Compare: Na vs Cl",
+                "answer": "Cl > Na",
+                "explanation": "Cl is farther right."
+              }
+            ],
+            "key_vocabulary": [
+              "electronegativity",
+              "Pauling scale",
+              "polarity",
+              "bond",
+              "trend"
+            ],
+            "real_world": "Electronegativity determines whether bonds are ionic, polar covalent, or nonpolar covalent."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Most electronegative element: ___",
+              "answer": "fluorine",
+              "hint": "Top right corner."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Electronegativity increases:",
+              "options": [
+                "Down a group",
+                "Left to right",
+                "Toward metals",
+                "Randomly"
+              ],
+              "correct": 1,
+              "hint": "Increases across period."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Metals have ___ electronegativity:",
+              "options": [
+                "High",
+                "Low",
+                "Zero",
+                "Variable"
+              ],
+              "correct": 1,
+              "hint": "Metals tend to lose electrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "Electronegativity ___ down a group",
+              "answer": "decreases",
+              "hint": "Farther from nucleus."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Higher electronegativity: N or P?",
+              "options": [
+                "N",
+                "P",
+                "Same",
+                "Can't tell"
+              ],
+              "correct": 0,
+              "hint": "N is higher in group."
+            },
+            {
+              "type": "fill_in",
+              "question": "Noble gases have high electronegativity.",
+              "answer": "false",
+              "hint": "They generally don't form bonds."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Carbon (6e\u207b): 1s\u00b22s\u00b22p___",
+            "answer": "2"
+          },
+          {
+            "type": "fill_in",
+            "question": "Group 18 are ___ gases",
+            "answer": "noble"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Atomic radius DOWN a group:",
+            "options": [
+              "Increases",
+              "Decreases",
+              "Same",
+              "Varies"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "Most electronegative element: ___",
+            "answer": "fluorine"
+          },
+          {
+            "type": "fill_in",
+            "question": "Alkali metals have ___ valence electron(s)",
+            "answer": "1"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "periodic_table_pro"
+      }
+    },
+    {
+      "id": "10-science-4",
+      "title": "Chemical Bonding",
+      "description": "Ionic, covalent, and metallic bonds; Lewis structures; molecular geometry.",
+      "lessons": [
+        {
+          "id": "10-science-4-1",
+          "title": "Ionic Bonds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ionic bonds form between metals and nonmetals. Metal loses electrons \u2192 cation (+). Nonmetal gains electrons \u2192 anion (-). Opposite charges attract. Ionic compounds form crystal lattices, have high melting points, conduct electricity when dissolved/melted. Named: metal first, then nonmetal with -ide ending.",
+            "examples": [
+              {
+                "problem": "NaCl formation",
+                "answer": "Na loses 1e\u207b \u2192 Na\u207a, Cl gains 1e\u207b \u2192 Cl\u207b",
+                "explanation": "Sodium chloride."
+              },
+              {
+                "problem": "MgO formation",
+                "answer": "Mg loses 2e\u207b \u2192 Mg\u00b2\u207a, O gains 2e\u207b \u2192 O\u00b2\u207b",
+                "explanation": "Magnesium oxide."
+              },
+              {
+                "problem": "CaF\u2082",
+                "answer": "Ca\u00b2\u207a needs 2 F\u207b to balance charge",
+                "explanation": "Calcium fluoride."
+              }
+            ],
+            "key_vocabulary": [
+              "ionic bond",
+              "cation",
+              "anion",
+              "crystal lattice",
+              "electrolyte"
+            ],
+            "real_world": "Table salt (NaCl) is an ionic compound \u2014 it dissolves in water and conducts electricity."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Metals form ___ ions",
+              "answer": "positive",
+              "hint": "Lose electrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "Nonmetals form ___ ions",
+              "answer": "negative",
+              "hint": "Gain electrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "Na \u2192 Na\u207a is a ___",
+              "answer": "cation",
+              "hint": "Positive ion."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cl \u2192 Cl\u207b is an ___",
+              "answer": "anion",
+              "hint": "Negative ion."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Ionic compounds have ___ melting points:",
+              "options": [
+                "Low",
+                "High",
+                "Variable",
+                "Zero"
+              ],
+              "correct": 1,
+              "hint": "Strong crystal lattice."
+            },
+            {
+              "type": "fill_in",
+              "question": "CaCl\u2082: the 2 means ___ chloride ions",
+              "answer": "2",
+              "hint": "Ca\u00b2\u207a needs 2 Cl\u207b."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-4-2",
+          "title": "Covalent Bonds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Covalent bonds form between nonmetals by sharing electrons. Single bond: 1 pair shared. Double bond: 2 pairs. Triple bond: 3 pairs. Molecules can be polar (unequal sharing) or nonpolar (equal sharing). Electronegativity difference determines polarity: 0-0.4 nonpolar, 0.5-1.7 polar covalent, >1.7 ionic.",
+            "examples": [
+              {
+                "problem": "H\u2082",
+                "answer": "Single bond: H-H",
+                "explanation": "Each H shares 1 electron."
+              },
+              {
+                "problem": "O\u2082",
+                "answer": "Double bond: O=O",
+                "explanation": "Each O shares 2 electrons."
+              },
+              {
+                "problem": "N\u2082",
+                "answer": "Triple bond: N\u2261N",
+                "explanation": "Each N shares 3 electrons."
+              }
+            ],
+            "key_vocabulary": [
+              "covalent bond",
+              "single bond",
+              "double bond",
+              "triple bond",
+              "polar",
+              "nonpolar"
+            ],
+            "real_world": "Water is a polar covalent molecule \u2014 this polarity makes it the 'universal solvent'."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Covalent bonds form between:",
+              "options": [
+                "Metal+Metal",
+                "Metal+Nonmetal",
+                "Nonmetal+Nonmetal",
+                "Ion+Ion"
+              ],
+              "correct": 2,
+              "hint": "Sharing electrons."
+            },
+            {
+              "type": "fill_in",
+              "question": "A double bond shares ___ pairs of electrons",
+              "answer": "2",
+              "hint": "Two shared pairs."
+            },
+            {
+              "type": "fill_in",
+              "question": "A triple bond shares ___ pairs of electrons",
+              "answer": "3",
+              "hint": "Three shared pairs."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "H\u2082O is:",
+              "options": [
+                "Nonpolar",
+                "Polar",
+                "Ionic",
+                "Metallic"
+              ],
+              "correct": 1,
+              "hint": "O is more electronegative."
+            },
+            {
+              "type": "fill_in",
+              "question": "N\u2082 has a ___ bond",
+              "answer": "triple",
+              "hint": "N\u2261N."
+            },
+            {
+              "type": "fill_in",
+              "question": "CO\u2082 is a nonpolar molecule.",
+              "answer": "true",
+              "hint": "Linear shape cancels polarity."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-4-3",
+          "title": "Lewis Structures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Lewis structures show valence electrons as dots. Steps: 1) Count total valence electrons. 2) Draw single bonds. 3) Complete octets on outer atoms. 4) Place remaining on central atom. 5) If central atom lacks octet, make double/triple bonds. Octet rule: atoms want 8 valence electrons (H wants 2).",
+            "examples": [
+              {
+                "problem": "H\u2082O Lewis structure",
+                "answer": "H-O-H with 2 lone pairs on O",
+                "explanation": "8 total electrons: 2 bonds + 2 lone pairs."
+              },
+              {
+                "problem": "CO\u2082 Lewis structure",
+                "answer": "O=C=O",
+                "explanation": "16 total electrons, double bonds to each O."
+              },
+              {
+                "problem": "NH\u2083 Lewis structure",
+                "answer": "H-N-H with 1 lone pair on N",
+                "explanation": "8 electrons: 3 bonds + 1 lone pair."
+              }
+            ],
+            "key_vocabulary": [
+              "Lewis structure",
+              "valence electron",
+              "lone pair",
+              "octet rule",
+              "bonding pair"
+            ],
+            "real_world": "Chemists use Lewis structures to predict molecular properties and reactivity."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Carbon has ___ valence electrons",
+              "answer": "4",
+              "hint": "Group 14."
+            },
+            {
+              "type": "fill_in",
+              "question": "Oxygen has ___ valence electrons",
+              "answer": "6",
+              "hint": "Group 16."
+            },
+            {
+              "type": "fill_in",
+              "question": "Nitrogen has ___ valence electrons",
+              "answer": "5",
+              "hint": "Group 15."
+            },
+            {
+              "type": "fill_in",
+              "question": "H\u2082O has ___ lone pairs on oxygen",
+              "answer": "2",
+              "hint": "8-4=4 electrons = 2 lone pairs."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Hydrogen wants ___ electrons:",
+              "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+              ],
+              "correct": 0,
+              "hint": "Exception to octet rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "Total valence e\u207b in H\u2082O: 2(1)+6=___",
+              "answer": "8",
+              "hint": "2H + 1O."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-4-4",
+          "title": "VSEPR and Molecular Geometry",
+          "type": "lesson",
+          "content": {
+            "explanation": "VSEPR: Valence Shell Electron Pair Repulsion. Electron pairs repel \u2192 specific shapes. 2 groups: linear (180\u00b0). 3 groups: trigonal planar (120\u00b0). 4 groups: tetrahedral (109.5\u00b0). Lone pairs compress angles. 3 bonding + 1 lone = trigonal pyramidal. 2 bonding + 2 lone = bent.",
+            "examples": [
+              {
+                "problem": "CO\u2082 shape",
+                "answer": "Linear (180\u00b0)",
+                "explanation": "2 electron groups."
+              },
+              {
+                "problem": "H\u2082O shape",
+                "answer": "Bent (104.5\u00b0)",
+                "explanation": "4 groups but 2 lone pairs."
+              },
+              {
+                "problem": "CH\u2084 shape",
+                "answer": "Tetrahedral (109.5\u00b0)",
+                "explanation": "4 bonding groups, no lone pairs."
+              }
+            ],
+            "key_vocabulary": [
+              "VSEPR",
+              "linear",
+              "trigonal planar",
+              "tetrahedral",
+              "bent",
+              "trigonal pyramidal"
+            ],
+            "real_world": "Molecular shape determines smell \u2014 your nose detects specific 3D shapes of molecules."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "CO\u2082 has ___ electron groups: linear",
+              "answer": "2",
+              "hint": "Two double bonds."
+            },
+            {
+              "type": "fill_in",
+              "question": "CH\u2084 has ___ electron groups: tetrahedral",
+              "answer": "4",
+              "hint": "Four single bonds."
+            },
+            {
+              "type": "fill_in",
+              "question": "H\u2082O is ___ shaped",
+              "answer": "bent",
+              "hint": "2 bonds + 2 lone pairs."
+            },
+            {
+              "type": "fill_in",
+              "question": "NH\u2083 is trigonal ___ shaped",
+              "answer": "pyramidal",
+              "hint": "3 bonds + 1 lone pair."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Linear bond angle:",
+              "options": [
+                "90\u00b0",
+                "109.5\u00b0",
+                "120\u00b0",
+                "180\u00b0"
+              ],
+              "correct": 3,
+              "hint": "Straight line."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Tetrahedral bond angle:",
+              "options": [
+                "90\u00b0",
+                "109.5\u00b0",
+                "120\u00b0",
+                "180\u00b0"
+              ],
+              "correct": 1,
+              "hint": "Four groups."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Metals form ___ ions",
+            "answer": "positive"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Covalent bonds involve:",
+            "options": [
+              "Transfer",
+              "Sharing",
+              "Repulsion",
+              "Attraction"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Carbon has ___ valence electrons",
+            "answer": "4"
+          },
+          {
+            "type": "fill_in",
+            "question": "CH\u2084 shape: ___",
+            "answer": "tetrahedral"
+          },
+          {
+            "type": "fill_in",
+            "question": "H\u2082O shape: ___",
+            "answer": "bent"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "bonding_boss"
+      }
+    },
+    {
+      "id": "10-science-5",
+      "title": "Chemical Reactions",
+      "description": "Reaction types, balancing equations, and reaction evidence.",
+      "lessons": [
+        {
+          "id": "10-science-5-1",
+          "title": "Types of Chemical Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Synthesis: A+B\u2192AB. Decomposition: AB\u2192A+B. Single replacement: A+BC\u2192AC+B. Double replacement: AB+CD\u2192AD+CB. Combustion: fuel+O\u2082\u2192CO\u2082+H\u2082O. Recognizing type helps predict products.",
+            "examples": [
+              {
+                "problem": "2H\u2082+O\u2082\u21922H\u2082O",
+                "answer": "Synthesis",
+                "explanation": "Two elements combine."
+              },
+              {
+                "problem": "2HgO\u21922Hg+O\u2082",
+                "answer": "Decomposition",
+                "explanation": "One compound breaks apart."
+              },
+              {
+                "problem": "Zn+2HCl\u2192ZnCl\u2082+H\u2082",
+                "answer": "Single replacement",
+                "explanation": "Zn replaces H."
+              }
+            ],
+            "key_vocabulary": [
+              "synthesis",
+              "decomposition",
+              "single replacement",
+              "double replacement",
+              "combustion"
+            ],
+            "real_world": "Combustion reactions in car engines power transportation worldwide."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A+B\u2192AB is:",
+              "options": [
+                "Synthesis",
+                "Decomposition",
+                "Single replacement",
+                "Combustion"
+              ],
+              "correct": 0,
+              "hint": "Two combine into one."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "AB\u2192A+B is:",
+              "options": [
+                "Synthesis",
+                "Decomposition",
+                "Single replacement",
+                "Double replacement"
+              ],
+              "correct": 1,
+              "hint": "One breaks into two."
+            },
+            {
+              "type": "fill_in",
+              "question": "CH\u2084+2O\u2082\u2192CO\u2082+2H\u2082O is ___",
+              "answer": "combustion",
+              "hint": "Fuel + oxygen."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Zn+CuSO\u2084\u2192ZnSO\u2084+Cu is:",
+              "options": [
+                "Synthesis",
+                "Decomposition",
+                "Single replacement",
+                "Double replacement"
+              ],
+              "correct": 2,
+              "hint": "Zn replaces Cu."
+            },
+            {
+              "type": "fill_in",
+              "question": "AB+CD\u2192AD+CB is ___ replacement",
+              "answer": "double",
+              "hint": "Partners switch."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Na+Cl\u2082\u2192NaCl is:",
+              "options": [
+                "Synthesis",
+                "Decomposition",
+                "Single",
+                "Double"
+              ],
+              "correct": 0,
+              "hint": "Elements combine."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-5-2",
+          "title": "Balancing Chemical Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Law of Conservation of Mass: atoms aren't created or destroyed. Balance by adjusting coefficients (not subscripts). Steps: 1) Write unbalanced. 2) Count atoms each side. 3) Adjust coefficients to equalize. 4) Check. Start with the most complex molecule.",
+            "examples": [
+              {
+                "problem": "___Fe+___O\u2082\u2192___Fe\u2082O\u2083",
+                "answer": "4Fe+3O\u2082\u21922Fe\u2082O\u2083",
+                "explanation": "4Fe=4Fe \u2713, 6O=6O \u2713."
+              },
+              {
+                "problem": "___H\u2082+___O\u2082\u2192___H\u2082O",
+                "answer": "2H\u2082+O\u2082\u21922H\u2082O",
+                "explanation": "4H=4H \u2713, 2O=2O \u2713."
+              },
+              {
+                "problem": "___N\u2082+___H\u2082\u2192___NH\u2083",
+                "answer": "N\u2082+3H\u2082\u21922NH\u2083",
+                "explanation": "2N=2N \u2713, 6H=6H \u2713."
+              }
+            ],
+            "key_vocabulary": [
+              "balance",
+              "coefficient",
+              "conservation of mass",
+              "reactant",
+              "product"
+            ],
+            "real_world": "Chemical engineers balance equations to calculate exact amounts of ingredients needed."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "In H\u2082O, the subscript 2 means ___ hydrogen atoms",
+              "answer": "2",
+              "hint": "Per molecule."
+            },
+            {
+              "type": "fill_in",
+              "question": "___Al+___O\u2082\u2192___Al\u2082O\u2083. Coefficient for Al: ___",
+              "answer": "4",
+              "hint": "4Al+3O\u2082\u21922Al\u2082O\u2083."
+            },
+            {
+              "type": "fill_in",
+              "question": "You can change subscripts to balance.",
+              "answer": "false",
+              "hint": "Only change coefficients."
+            },
+            {
+              "type": "fill_in",
+              "question": "2H\u2082+O\u2082\u21922H\u2082O. Total H atoms on left: ___",
+              "answer": "4",
+              "hint": "2\u00d72=4."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Conservation of mass means:",
+              "options": [
+                "Mass is created",
+                "Mass is destroyed",
+                "Mass is conserved",
+                "Mass changes"
+              ],
+              "correct": 2,
+              "hint": "Atoms rearrange, not created/destroyed."
+            },
+            {
+              "type": "fill_in",
+              "question": "C\u2083H\u2088+5O\u2082\u21923CO\u2082+___H\u2082O",
+              "answer": "4",
+              "hint": "8H needs 4H\u2082O."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-5-3",
+          "title": "Energy in Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Exothermic: releases energy (heat), \u0394H<0, products lower energy. Endothermic: absorbs energy, \u0394H>0, products higher energy. Activation energy: minimum energy needed to start reaction. Catalysts lower activation energy without being consumed.",
+            "examples": [
+              {
+                "problem": "Combustion",
+                "answer": "Exothermic",
+                "explanation": "Releases heat and light."
+              },
+              {
+                "problem": "Photosynthesis",
+                "answer": "Endothermic",
+                "explanation": "Absorbs light energy."
+              },
+              {
+                "problem": "Enzymes",
+                "answer": "Biological catalysts",
+                "explanation": "Speed up body reactions."
+              }
+            ],
+            "key_vocabulary": [
+              "exothermic",
+              "endothermic",
+              "activation energy",
+              "catalyst",
+              "energy diagram"
+            ],
+            "real_world": "Hand warmers use exothermic reactions; cold packs use endothermic reactions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Exothermic reactions ___ heat:",
+              "options": [
+                "Absorb",
+                "Release",
+                "Destroy",
+                "Create"
+              ],
+              "correct": 1,
+              "hint": "Energy exits system."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Endothermic reactions ___ heat:",
+              "options": [
+                "Absorb",
+                "Release",
+                "Destroy",
+                "Create"
+              ],
+              "correct": 0,
+              "hint": "Energy enters system."
+            },
+            {
+              "type": "fill_in",
+              "question": "A catalyst ___ activation energy",
+              "answer": "lowers",
+              "hint": "Makes reaction easier to start."
+            },
+            {
+              "type": "fill_in",
+              "question": "Catalysts are consumed in reactions.",
+              "answer": "false",
+              "hint": "They're reused."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Combustion is:",
+              "options": [
+                "Endothermic",
+                "Exothermic",
+                "Neither",
+                "Both"
+              ],
+              "correct": 1,
+              "hint": "Releases heat."
+            },
+            {
+              "type": "fill_in",
+              "question": "Photosynthesis is ___ (absorbs energy)",
+              "answer": "endothermic",
+              "hint": "Absorbs light."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-5-4",
+          "title": "Reaction Rates and Equilibrium",
+          "type": "lesson",
+          "content": {
+            "explanation": "Reaction rate increases with: higher temperature, higher concentration, more surface area, catalysts. Equilibrium: forward rate = reverse rate. Le Chatelier's principle: system responds to stress by shifting to counteract it. Add reactant \u2192 shifts right. Remove product \u2192 shifts right. Increase temp: shifts toward endothermic.",
+            "examples": [
+              {
+                "problem": "Powder vs chunk dissolves faster",
+                "answer": "More surface area = faster",
+                "explanation": "Smaller pieces expose more surface."
+              },
+              {
+                "problem": "Add reactant to equilibrium",
+                "answer": "Shifts right (toward products)",
+                "explanation": "System counteracts the increase."
+              },
+              {
+                "problem": "Increase temperature, exothermic rxn",
+                "answer": "Shifts left (toward reactants)",
+                "explanation": "System absorbs the extra heat."
+              }
+            ],
+            "key_vocabulary": [
+              "reaction rate",
+              "equilibrium",
+              "Le Chatelier",
+              "concentration",
+              "surface area"
+            ],
+            "real_world": "Le Chatelier's principle explains how the body maintains blood pH during exercise."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Higher temperature ___ reaction rate:",
+              "options": [
+                "Increases",
+                "Decreases",
+                "No effect",
+                "Stops"
+              ],
+              "correct": 0,
+              "hint": "More energy = more collisions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At equilibrium:",
+              "options": [
+                "Rxn stops",
+                "Forward=reverse rate",
+                "Only forward",
+                "Only reverse"
+              ],
+              "correct": 1,
+              "hint": "Dynamic equilibrium."
+            },
+            {
+              "type": "fill_in",
+              "question": "Adding reactant shifts equilibrium ___",
+              "answer": "right",
+              "hint": "Toward products."
+            },
+            {
+              "type": "fill_in",
+              "question": "A catalyst ___ equilibrium position",
+              "answer": "doesn't change",
+              "hint": "Speeds both directions equally."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "More surface area:",
+              "options": [
+                "Slower",
+                "Faster",
+                "No change",
+                "Stops reaction"
+              ],
+              "correct": 1,
+              "hint": "More contact area."
+            },
+            {
+              "type": "fill_in",
+              "question": "Removing product shifts equilibrium ___",
+              "answer": "right",
+              "hint": "System makes more product."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-5-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "A+B\u2192AB is:",
+            "options": [
+              "Synthesis",
+              "Decomposition",
+              "Single replacement",
+              "Double replacement"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "Exothermic reactions ___ heat",
+            "answer": "release"
+          },
+          {
+            "type": "fill_in",
+            "question": "A catalyst lowers ___ energy",
+            "answer": "activation"
+          },
+          {
+            "type": "fill_in",
+            "question": "___N\u2082+___H\u2082\u21922NH\u2083. Coefficient for H\u2082: ___",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "At equilibrium:",
+            "options": [
+              "Rxn stops",
+              "Rates equal",
+              "No products",
+              "Only reactants"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "reactions_ruler"
+      }
+    },
+    {
+      "id": "10-science-6",
+      "title": "Stoichiometry",
+      "description": "The mole concept, molar mass, and quantitative relationships in reactions.",
+      "lessons": [
+        {
+          "id": "10-science-6-1",
+          "title": "The Mole Concept",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mole = 6.022\u00d710\u00b2\u00b3 particles (Avogadro's number). Like 'dozen' means 12, 'mole' means 6.022\u00d710\u00b2\u00b3. One mole of any element = its atomic mass in grams. 1 mol C = 12.01 g. 1 mol H\u2082O = 18.02 g. Molar mass = sum of atomic masses.",
+            "examples": [
+              {
+                "problem": "1 mole of carbon atoms",
+                "answer": "6.022\u00d710\u00b2\u00b3 atoms, mass 12.01 g",
+                "explanation": "Atomic mass of C = 12.01."
+              },
+              {
+                "problem": "Molar mass of H\u2082O",
+                "answer": "18.02 g/mol",
+                "explanation": "2(1.01)+16.00=18.02."
+              },
+              {
+                "problem": "Molar mass of CO\u2082",
+                "answer": "44.01 g/mol",
+                "explanation": "12.01+2(16.00)=44.01."
+              }
+            ],
+            "key_vocabulary": [
+              "mole",
+              "Avogadro's number",
+              "molar mass",
+              "formula mass"
+            ],
+            "real_world": "A mole of water molecules would fill about 18 mL \u2014 roughly a tablespoon."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Avogadro's number: 6.022\u00d710^___",
+              "answer": "23",
+              "hint": "10\u00b2\u00b3 particles per mole."
+            },
+            {
+              "type": "fill_in",
+              "question": "Molar mass of O\u2082: 2\u00d716=___ g/mol",
+              "answer": "32",
+              "hint": "Two oxygen atoms."
+            },
+            {
+              "type": "fill_in",
+              "question": "Molar mass of NaCl: 23+35.5=___ g/mol",
+              "answer": "58.5",
+              "hint": "Na + Cl."
+            },
+            {
+              "type": "fill_in",
+              "question": "Molar mass of H\u2082O: 2(1)+16=___ g/mol",
+              "answer": "18",
+              "hint": "Two H + one O."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "1 mole of any substance contains:",
+              "options": [
+                "100 particles",
+                "1000 particles",
+                "6.022\u00d710\u00b2\u00b3 particles",
+                "12 particles"
+              ],
+              "correct": 2,
+              "hint": "Avogadro's number."
+            },
+            {
+              "type": "fill_in",
+              "question": "Molar mass of CO\u2082: 12+2(16)=___ g/mol",
+              "answer": "44",
+              "hint": "C + 2O."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-6-2",
+          "title": "Mole Conversions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Grams \u2192 moles: divide by molar mass. Moles \u2192 grams: multiply by molar mass. Moles \u2192 particles: multiply by 6.022\u00d710\u00b2\u00b3. Particles \u2192 moles: divide by 6.022\u00d710\u00b2\u00b3. These are dimensional analysis conversions.",
+            "examples": [
+              {
+                "problem": "36 g H\u2082O \u2192 moles",
+                "answer": "2 mol",
+                "explanation": "36/18 = 2."
+              },
+              {
+                "problem": "3 mol CO\u2082 \u2192 grams",
+                "answer": "132 g",
+                "explanation": "3\u00d744=132."
+              },
+              {
+                "problem": "2 mol \u2192 particles",
+                "answer": "1.204\u00d710\u00b2\u2074",
+                "explanation": "2\u00d76.022\u00d710\u00b2\u00b3."
+              }
+            ],
+            "key_vocabulary": [
+              "conversion",
+              "dimensional analysis",
+              "grams to moles",
+              "moles to particles"
+            ],
+            "real_world": "Pharmacists convert between grams and moles when preparing precise drug formulations."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "44 g CO\u2082 = ___ mol",
+              "answer": "1",
+              "hint": "44/44=1."
+            },
+            {
+              "type": "fill_in",
+              "question": "2 mol H\u2082O = ___ g",
+              "answer": "36",
+              "hint": "2\u00d718=36."
+            },
+            {
+              "type": "fill_in",
+              "question": "88 g CO\u2082 = ___ mol",
+              "answer": "2",
+              "hint": "88/44=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "0.5 mol NaCl = ___ g",
+              "answer": "29.25",
+              "hint": "0.5\u00d758.5=29.25."
+            },
+            {
+              "type": "fill_in",
+              "question": "180 g H\u2082O = ___ mol",
+              "answer": "10",
+              "hint": "180/18=10."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To convert g \u2192 mol:",
+              "options": [
+                "Multiply by MM",
+                "Divide by MM",
+                "Add MM",
+                "Subtract MM"
+              ],
+              "correct": 1,
+              "hint": "Grams \u00f7 molar mass."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-6-3",
+          "title": "Stoichiometric Calculations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Balanced equations give mole ratios. 2H\u2082+O\u2082\u21922H\u2082O means 2 mol H\u2082 reacts with 1 mol O\u2082 to form 2 mol H\u2082O. Steps: grams A \u2192 moles A \u2192 moles B (using ratio) \u2192 grams B.",
+            "examples": [
+              {
+                "problem": "2H\u2082+O\u2082\u21922H\u2082O. 4g H\u2082 \u2192 ? g H\u2082O",
+                "answer": "36 g",
+                "explanation": "4g/2=2mol H\u2082. Ratio 2:2 \u2192 2mol H\u2082O. 2\u00d718=36g."
+              },
+              {
+                "problem": "N\u2082+3H\u2082\u21922NH\u2083. 28g N\u2082 \u2192 ? mol NH\u2083",
+                "answer": "2 mol",
+                "explanation": "28/28=1mol N\u2082. Ratio 1:2 \u2192 2mol NH\u2083."
+              },
+              {
+                "problem": "2Na+Cl\u2082\u21922NaCl. 46g Na \u2192 ? g NaCl",
+                "answer": "117 g",
+                "explanation": "46/23=2mol Na. Ratio 2:2 \u2192 2mol NaCl. 2\u00d758.5=117g."
+              }
+            ],
+            "key_vocabulary": [
+              "stoichiometry",
+              "mole ratio",
+              "balanced equation",
+              "grams to grams"
+            ],
+            "real_world": "Industrial chemists use stoichiometry to calculate exact amounts of chemicals needed for manufacturing."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "2H\u2082+O\u2082\u21922H\u2082O. Mole ratio H\u2082:H\u2082O = 2:___",
+              "answer": "2",
+              "hint": "Coefficients."
+            },
+            {
+              "type": "fill_in",
+              "question": "N\u2082+3H\u2082\u21922NH\u2083. Ratio N\u2082:H\u2082 = 1:___",
+              "answer": "3",
+              "hint": "From coefficients."
+            },
+            {
+              "type": "fill_in",
+              "question": "2mol H\u2082 produces ___ mol H\u2082O",
+              "answer": "2",
+              "hint": "2:2 ratio."
+            },
+            {
+              "type": "fill_in",
+              "question": "1mol N\u2082 produces ___ mol NH\u2083",
+              "answer": "2",
+              "hint": "1:2 ratio."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Mole ratios come from:",
+              "options": [
+                "Subscripts",
+                "Coefficients",
+                "Atomic mass",
+                "Density"
+              ],
+              "correct": 1,
+              "hint": "Balanced equation coefficients."
+            },
+            {
+              "type": "fill_in",
+              "question": "4g H\u2082 (2g/mol) = ___ mol",
+              "answer": "2",
+              "hint": "4/2=2 mol."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-6-4",
+          "title": "Limiting Reagent and Percent Yield",
+          "type": "lesson",
+          "content": {
+            "explanation": "Limiting reagent: runs out first, determines max product. Excess reagent: left over. Theoretical yield: max product from limiting reagent. Actual yield: what you actually get. Percent yield = (actual/theoretical)\u00d7100%.",
+            "examples": [
+              {
+                "problem": "2H\u2082+O\u2082\u21922H\u2082O. 2mol H\u2082, 2mol O\u2082. Limiting?",
+                "answer": "H\u2082",
+                "explanation": "Need 2:1 ratio. 2mol H\u2082 needs 1mol O\u2082. Have 2mol O\u2082. H\u2082 limits."
+              },
+              {
+                "problem": "Theoretical=50g, Actual=40g. % yield?",
+                "answer": "80%",
+                "explanation": "(40/50)\u00d7100=80%."
+              },
+              {
+                "problem": "Theoretical=100g, Actual=95g. % yield?",
+                "answer": "95%",
+                "explanation": "(95/100)\u00d7100=95%."
+              }
+            ],
+            "key_vocabulary": [
+              "limiting reagent",
+              "excess",
+              "theoretical yield",
+              "actual yield",
+              "percent yield"
+            ],
+            "real_world": "Percent yield tells manufacturers how efficient their process is \u2014 higher is better and cheaper."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "% yield = (actual/___) \u00d7 100",
+              "answer": "theoretical",
+              "hint": "Actual over theoretical."
+            },
+            {
+              "type": "fill_in",
+              "question": "Actual=30g, Theoretical=50g. %yield=___",
+              "answer": "60",
+              "hint": "(30/50)\u00d7100."
+            },
+            {
+              "type": "fill_in",
+              "question": "Actual=45g, Theoretical=50g. %yield=___",
+              "answer": "90",
+              "hint": "(45/50)\u00d7100."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The limiting reagent:",
+              "options": [
+                "Is left over",
+                "Runs out first",
+                "Is always smaller",
+                "Is the catalyst"
+              ],
+              "correct": 1,
+              "hint": "Determines max product."
+            },
+            {
+              "type": "fill_in",
+              "question": "Actual=80g, Theoretical=100g. %yield=___",
+              "answer": "80",
+              "hint": "(80/100)\u00d7100."
+            },
+            {
+              "type": "fill_in",
+              "question": "Percent yield can exceed 100%.",
+              "answer": "false",
+              "hint": "Can't make more than theoretical max."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Molar mass of H\u2082O: ___g/mol",
+            "answer": "18"
+          },
+          {
+            "type": "fill_in",
+            "question": "88g CO\u2082 (44g/mol) = ___ mol",
+            "answer": "2"
+          },
+          {
+            "type": "fill_in",
+            "question": "%yield: actual=70g, theoretical=100g: ___%",
+            "answer": "70"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Limiting reagent:",
+            "options": [
+              "Left over",
+              "Runs out first",
+              "Is added last",
+              "Is the product"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "N\u2082+3H\u2082\u21922NH\u2083. 1mol N\u2082 \u2192 ___ mol NH\u2083",
+            "answer": "2"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "stoichiometry_star"
+      }
+    },
+    {
+      "id": "10-science-7",
+      "title": "Gas Laws",
+      "description": "Kinetic molecular theory and the gas laws.",
+      "lessons": [
+        {
+          "id": "10-science-7-1",
+          "title": "Kinetic Molecular Theory",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gas particles are in constant random motion. No intermolecular forces (ideal). Volume of particles is negligible compared to container. Kinetic energy \u221d temperature (in Kelvin). Pressure = force of collisions on container walls. Higher temp \u2192 faster particles \u2192 higher pressure.",
+            "examples": [
+              {
+                "problem": "Why does heating a balloon expand it?",
+                "answer": "Faster particles push harder on walls",
+                "explanation": "More kinetic energy \u2192 more collisions."
+              },
+              {
+                "problem": "Why does a tire pop on a hot day?",
+                "answer": "Increased temperature \u2192 increased pressure",
+                "explanation": "Particles move faster."
+              },
+              {
+                "problem": "STP (Standard Temperature & Pressure)",
+                "answer": "0\u00b0C (273K) and 1 atm",
+                "explanation": "Standard reference conditions."
+              }
+            ],
+            "key_vocabulary": [
+              "kinetic energy",
+              "temperature",
+              "pressure",
+              "collision",
+              "ideal gas",
+              "STP"
+            ],
+            "real_world": "Car tires have recommended pressures \u2014 temperature changes can make them unsafe."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Gas particles are in ___ motion:",
+              "options": [
+                "No",
+                "Slow",
+                "Constant random",
+                "Organized"
+              ],
+              "correct": 2,
+              "hint": "KMT assumption."
+            },
+            {
+              "type": "fill_in",
+              "question": "KE increases with ___",
+              "answer": "temperature",
+              "hint": "T in Kelvin."
+            },
+            {
+              "type": "fill_in",
+              "question": "Pressure is caused by particle ___",
+              "answer": "collisions",
+              "hint": "Hitting container walls."
+            },
+            {
+              "type": "fill_in",
+              "question": "STP temperature: ___ K",
+              "answer": "273",
+              "hint": "0\u00b0C + 273."
+            },
+            {
+              "type": "fill_in",
+              "question": "STP pressure: ___ atm",
+              "answer": "1",
+              "hint": "Standard pressure."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gas particles attract each other (ideal).",
+              "answer": "false",
+              "hint": "No intermolecular forces (ideal)."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-7-2",
+          "title": "Boyle's and Charles's Laws",
+          "type": "lesson",
+          "content": {
+            "explanation": "Boyle's Law (constant T): P\u2081V\u2081=P\u2082V\u2082. Pressure and volume are inversely proportional. Charles's Law (constant P): V\u2081/T\u2081=V\u2082/T\u2082. Volume and temperature are directly proportional. Temperature MUST be in Kelvin!",
+            "examples": [
+              {
+                "problem": "P\u2081=2atm, V\u2081=4L, P\u2082=4atm. V\u2082?",
+                "answer": "2L",
+                "explanation": "(2)(4)=(4)V\u2082, V\u2082=2L. Pressure doubles, volume halves."
+              },
+              {
+                "problem": "V\u2081=3L, T\u2081=300K, T\u2082=600K. V\u2082?",
+                "answer": "6L",
+                "explanation": "3/300=V\u2082/600, V\u2082=6L. Temp doubles, volume doubles."
+              },
+              {
+                "problem": "P\u2081=1atm, V\u2081=10L, V\u2082=5L. P\u2082?",
+                "answer": "2atm",
+                "explanation": "(1)(10)=(P\u2082)(5), P\u2082=2."
+              }
+            ],
+            "key_vocabulary": [
+              "Boyle's law",
+              "Charles's law",
+              "inverse",
+              "direct",
+              "proportional"
+            ],
+            "real_world": "Scuba divers must ascend slowly \u2014 decreasing pressure causes air to expand (Boyle's law)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Boyle's: P\u2081V\u2081=P\u2082___",
+              "answer": "V\u2082",
+              "hint": "P\u2081V\u2081=P\u2082V\u2082."
+            },
+            {
+              "type": "fill_in",
+              "question": "P=3atm,V=2L. P=6atm,V=___L",
+              "answer": "1",
+              "hint": "(3)(2)=(6)V\u2082."
+            },
+            {
+              "type": "fill_in",
+              "question": "P=1atm,V=8L. P=2atm,V=___L",
+              "answer": "4",
+              "hint": "(1)(8)=(2)V\u2082."
+            },
+            {
+              "type": "fill_in",
+              "question": "Charles's: V\u2081/T\u2081=V\u2082/___",
+              "answer": "T\u2082",
+              "hint": "V\u2081/T\u2081=V\u2082/T\u2082."
+            },
+            {
+              "type": "fill_in",
+              "question": "V=4L,T=200K. T=400K,V=___L",
+              "answer": "8",
+              "hint": "4/200=V\u2082/400."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Boyle's: P and V are:",
+              "options": [
+                "Directly proportional",
+                "Inversely proportional",
+                "Unrelated",
+                "Equal"
+              ],
+              "correct": 1,
+              "hint": "P\u2191 = V\u2193."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-7-3",
+          "title": "Combined and Ideal Gas Laws",
+          "type": "lesson",
+          "content": {
+            "explanation": "Combined: P\u2081V\u2081/T\u2081=P\u2082V\u2082/T\u2082. Use when P, V, and T all change. Ideal Gas Law: PV=nRT. R=0.0821 L\u00b7atm/(mol\u00b7K). n=moles. Relates all four variables. At STP: 1 mol gas = 22.4 L (molar volume).",
+            "examples": [
+              {
+                "problem": "PV=nRT. n=2mol, T=273K, P=1atm. V?",
+                "answer": "44.8L",
+                "explanation": "V=nRT/P=2(0.0821)(273)/1=44.8."
+              },
+              {
+                "problem": "1 mol at STP. V?",
+                "answer": "22.4 L",
+                "explanation": "Molar volume at STP."
+              },
+              {
+                "problem": "P\u2081=1,V\u2081=10,T\u2081=300. P\u2082=2,T\u2082=600. V\u2082?",
+                "answer": "10L",
+                "explanation": "(1)(10)/300=(2)V\u2082/600. V\u2082=10."
+              }
+            ],
+            "key_vocabulary": [
+              "combined gas law",
+              "ideal gas law",
+              "PV=nRT",
+              "molar volume",
+              "gas constant"
+            ],
+            "real_world": "Weather balloons expand as they rise because pressure decreases and temperature changes."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "PV=nRT. R=0.0821. Units: L\u00b7atm/(mol\u00b7___)",
+              "answer": "K",
+              "hint": "Kelvin."
+            },
+            {
+              "type": "fill_in",
+              "question": "1 mol gas at STP occupies ___ L",
+              "answer": "22.4",
+              "hint": "Molar volume."
+            },
+            {
+              "type": "fill_in",
+              "question": "PV=nRT. P=1,n=1,T=273. V=1(0.0821)(273)/1\u2248___",
+              "answer": "22.4",
+              "hint": "22.4L."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Combined gas law combines:",
+              "options": [
+                "Boyle's only",
+                "Charles's only",
+                "Boyle's+Charles's",
+                "None"
+              ],
+              "correct": 2,
+              "hint": "All three variables."
+            },
+            {
+              "type": "fill_in",
+              "question": "2 mol at STP: V=2\u00d722.4=___L",
+              "answer": "44.8",
+              "hint": "2 moles."
+            },
+            {
+              "type": "fill_in",
+              "question": "PV=nRT. Solve for n: n=PV/___",
+              "answer": "RT",
+              "hint": "Divide both sides by RT."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-7-4",
+          "title": "Dalton's Law and Graham's Law",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dalton's Law: Total pressure = sum of partial pressures. P_total=P\u2081+P\u2082+P\u2083... Each gas contributes independently. Graham's Law: Rate of effusion \u221d 1/\u221a(molar mass). Lighter gases move faster. Rate\u2081/Rate\u2082=\u221a(M\u2082/M\u2081).",
+            "examples": [
+              {
+                "problem": "P_N\u2082=0.6atm, P_O\u2082=0.3atm, P_Ar=0.1atm. P_total?",
+                "answer": "1.0 atm",
+                "explanation": "0.6+0.3+0.1=1.0."
+              },
+              {
+                "problem": "H\u2082 (M=2) vs O\u2082 (M=32). Which effuses faster?",
+                "answer": "H\u2082, by \u221a(32/2)=4 times",
+                "explanation": "Lighter = faster."
+              },
+              {
+                "problem": "He vs Ar: which escapes a balloon faster?",
+                "answer": "He",
+                "explanation": "Lighter gas effuses faster."
+              }
+            ],
+            "key_vocabulary": [
+              "Dalton's law",
+              "partial pressure",
+              "Graham's law",
+              "effusion",
+              "diffusion"
+            ],
+            "real_world": "Dalton's law explains why climbers need oxygen tanks at high altitudes \u2014 lower partial pressure of O\u2082."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "P\u2081=0.5, P\u2082=0.3, P\u2083=0.2. P_total=___",
+              "answer": "1.0",
+              "hint": "0.5+0.3+0.2."
+            },
+            {
+              "type": "fill_in",
+              "question": "P_total=1.5, P\u2081=0.8, P\u2082=0.4. P\u2083=___",
+              "answer": "0.3",
+              "hint": "1.5-0.8-0.4=0.3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Lighter gases effuse:",
+              "options": [
+                "Slower",
+                "Faster",
+                "Same rate",
+                "Not at all"
+              ],
+              "correct": 1,
+              "hint": "Graham's law."
+            },
+            {
+              "type": "fill_in",
+              "question": "H\u2082 (2g/mol) vs He (4g/mol). ___ effuses faster",
+              "answer": "H\u2082",
+              "hint": "Lighter molecule."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Dalton's law involves:",
+              "options": [
+                "Volume",
+                "Partial pressures",
+                "Temperature",
+                "Moles"
+              ],
+              "correct": 1,
+              "hint": "Sum of partial pressures."
+            },
+            {
+              "type": "fill_in",
+              "question": "All gases contribute equally to total pressure regardless of amount.",
+              "answer": "false",
+              "hint": "Each contributes based on its moles."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Boyle's: P\u2081V\u2081=P\u2082___",
+            "answer": "V\u2082"
+          },
+          {
+            "type": "fill_in",
+            "question": "1 mol gas at STP = ___ L",
+            "answer": "22.4"
+          },
+          {
+            "type": "fill_in",
+            "question": "P\u2081=0.7,P\u2082=0.3. P_total=___",
+            "answer": "1.0"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Charles's: V and T are:",
+            "options": [
+              "Inversely",
+              "Directly",
+              "Un",
+              "Equally"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "PV=nRT. R=___",
+            "answer": "0.0821"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "gas_laws_guru"
+      }
+    },
+    {
+      "id": "10-science-8",
+      "title": "Solutions, Acids, and Bases",
+      "description": "Solubility, concentration, pH, and neutralization reactions.",
+      "lessons": [
+        {
+          "id": "10-science-8-1",
+          "title": "Solutions and Solubility",
+          "type": "lesson",
+          "content": {
+            "explanation": "Solution = solute (dissolved) + solvent (dissolves). 'Like dissolves like': polar dissolves polar, nonpolar dissolves nonpolar. Factors affecting solubility: temperature (solids more soluble at high T), pressure (gases more soluble at high P). Saturated: maximum solute dissolved. Unsaturated: can dissolve more.",
+            "examples": [
+              {
+                "problem": "Salt in water",
+                "answer": "NaCl is solute, water is solvent",
+                "explanation": "Polar dissolves ionic/polar."
+              },
+              {
+                "problem": "Oil in water",
+                "answer": "Don't mix",
+                "explanation": "Nonpolar oil + polar water = immiscible."
+              },
+              {
+                "problem": "CO\u2082 in soda at high pressure",
+                "answer": "More dissolves",
+                "explanation": "Henry's law: more pressure = more gas dissolves."
+              }
+            ],
+            "key_vocabulary": [
+              "solution",
+              "solute",
+              "solvent",
+              "saturated",
+              "unsaturated",
+              "solubility"
+            ],
+            "real_world": "Carbonated drinks fizz when opened because decreased pressure releases dissolved CO\u2082."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The substance that dissolves is the ___",
+              "answer": "solute",
+              "hint": "Dissolved substance."
+            },
+            {
+              "type": "fill_in",
+              "question": "The substance that does the dissolving is the ___",
+              "answer": "solvent",
+              "hint": "Usually the larger amount."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Like dissolves like' means:",
+              "options": [
+                "Polar dissolves polar",
+                "Everything mixes",
+                "Opposites dissolve",
+                "Size matters"
+              ],
+              "correct": 0,
+              "hint": "Similar polarity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Solid solubility usually ___ with temperature:",
+              "options": [
+                "Increases",
+                "Decreases",
+                "Stays same",
+                "Reverses"
+              ],
+              "correct": 0,
+              "hint": "Most solids dissolve more at higher T."
+            },
+            {
+              "type": "fill_in",
+              "question": "A ___ solution can't dissolve more solute",
+              "answer": "saturated",
+              "hint": "At maximum."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Gas solubility ___ with pressure:",
+              "options": [
+                "Increases",
+                "Decreases",
+                "Stays same",
+                "Varies"
+              ],
+              "correct": 0,
+              "hint": "Henry's law."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-8-2",
+          "title": "Concentration and Molarity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Molarity (M) = moles of solute / liters of solution. M = mol/L. Dilution: M\u2081V\u2081=M\u2082V\u2082 (moles of solute don't change). Higher molarity = more concentrated. Percent concentration: (mass solute/mass solution)\u00d7100.",
+            "examples": [
+              {
+                "problem": "2 mol NaCl in 0.5 L",
+                "answer": "4 M",
+                "explanation": "2/0.5=4."
+              },
+              {
+                "problem": "M\u2081=6M, V\u2081=0.1L, V\u2082=0.3L. M\u2082?",
+                "answer": "2 M",
+                "explanation": "(6)(0.1)=(M\u2082)(0.3), M\u2082=2."
+              },
+              {
+                "problem": "10g NaCl in 100g solution. %?",
+                "answer": "10%",
+                "explanation": "(10/100)\u00d7100=10%."
+              }
+            ],
+            "key_vocabulary": [
+              "molarity",
+              "concentration",
+              "dilution",
+              "moles",
+              "liters"
+            ],
+            "real_world": "IV fluids in hospitals have precise molarities to match the body's salt concentration."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "M = mol / ___ (in liters)",
+              "answer": "L",
+              "hint": "Moles per liter."
+            },
+            {
+              "type": "fill_in",
+              "question": "3 mol in 1.5 L: M=___",
+              "answer": "2",
+              "hint": "3/1.5=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "0.5 mol in 0.25 L: M=___",
+              "answer": "2",
+              "hint": "0.5/0.25=2."
+            },
+            {
+              "type": "fill_in",
+              "question": "M\u2081=4,V\u2081=0.5. M\u2082V\u2082: M\u2082=2,V\u2082=___L",
+              "answer": "1",
+              "hint": "(4)(0.5)=(2)V\u2082."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Diluting a solution:",
+              "options": [
+                "Adds solute",
+                "Adds solvent",
+                "Removes solvent",
+                "Changes solute"
+              ],
+              "correct": 1,
+              "hint": "Adding solvent decreases concentration."
+            },
+            {
+              "type": "fill_in",
+              "question": "1 mol in 2 L: M=___",
+              "answer": "0.5",
+              "hint": "1/2=0.5."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-8-3",
+          "title": "Acids and Bases",
+          "type": "lesson",
+          "content": {
+            "explanation": "Arrhenius: acids produce H\u207a in water, bases produce OH\u207b. Br\u00f8nsted-Lowry: acids donate H\u207a, bases accept H\u207a. Strong acids: completely dissociate (HCl, HNO\u2083, H\u2082SO\u2084). Weak acids: partially dissociate (CH\u2083COOH). Strong bases: NaOH, KOH. pH scale: 0-14. pH<7 acidic, pH=7 neutral, pH>7 basic. pH=-log[H\u207a].",
+            "examples": [
+              {
+                "problem": "HCl \u2192 H\u207a + Cl\u207b",
+                "answer": "Strong acid",
+                "explanation": "Completely dissociates."
+              },
+              {
+                "problem": "NaOH \u2192 Na\u207a + OH\u207b",
+                "answer": "Strong base",
+                "explanation": "Completely dissociates."
+              },
+              {
+                "problem": "[H\u207a]=10\u207b\u00b3. pH?",
+                "answer": "3",
+                "explanation": "-log(10\u207b\u00b3)=3. Acidic."
+              }
+            ],
+            "key_vocabulary": [
+              "acid",
+              "base",
+              "pH",
+              "strong",
+              "weak",
+              "dissociate",
+              "Arrhenius",
+              "Br\u00f8nsted-Lowry"
+            ],
+            "real_world": "Stomach acid (HCl, pH~2) helps digest food; antacids are bases that neutralize excess acid."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "pH < 7 is ___",
+              "answer": "acidic",
+              "hint": "Lower pH = more acidic."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH > 7 is ___",
+              "answer": "basic",
+              "hint": "Higher pH = more basic."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH = 7 is ___",
+              "answer": "neutral",
+              "hint": "Pure water."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH=-log(10\u207b\u2075)=___",
+              "answer": "5",
+              "hint": "Acidic."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "HCl is a ___ acid:",
+              "options": [
+                "Strong",
+                "Weak",
+                "Neutral",
+                "Base"
+              ],
+              "correct": 0,
+              "hint": "Completely dissociates."
+            },
+            {
+              "type": "fill_in",
+              "question": "pH=-log(10\u207b\u2079)=___",
+              "answer": "9",
+              "hint": "Basic."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-science-8-4",
+          "title": "Neutralization Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Acid + Base \u2192 Salt + Water. HCl+NaOH\u2192NaCl+H\u2082O. This is a double replacement reaction. Titration: adding base to acid (or vice versa) until neutral. At equivalence point: moles acid = moles base. Indicators (like phenolphthalein) change color at the endpoint.",
+            "examples": [
+              {
+                "problem": "HCl+NaOH\u2192",
+                "answer": "NaCl+H\u2082O",
+                "explanation": "Salt + water."
+              },
+              {
+                "problem": "H\u2082SO\u2084+2NaOH\u2192",
+                "answer": "Na\u2082SO\u2084+2H\u2082O",
+                "explanation": "Need 2 NaOH for diprotic acid."
+              },
+              {
+                "problem": "Titration endpoint",
+                "answer": "Indicator changes color",
+                "explanation": "Moles acid = moles base."
+              }
+            ],
+            "key_vocabulary": [
+              "neutralization",
+              "salt",
+              "titration",
+              "equivalence point",
+              "indicator"
+            ],
+            "real_world": "Farmers add lime (a base) to acidic soil to neutralize it for better crop growth."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Acid + Base \u2192 Salt + ___",
+              "answer": "Water",
+              "hint": "Neutralization product."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "HCl+NaOH\u2192NaCl+H\u2082O is:",
+              "options": [
+                "Synthesis",
+                "Decomposition",
+                "Neutralization",
+                "Combustion"
+              ],
+              "correct": 2,
+              "hint": "Acid + base."
+            },
+            {
+              "type": "fill_in",
+              "question": "At equivalence point: moles acid = moles ___",
+              "answer": "base",
+              "hint": "Equal moles."
+            },
+            {
+              "type": "fill_in",
+              "question": "Phenolphthalein is an ___",
+              "answer": "indicator",
+              "hint": "Changes color at endpoint."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The salt from HCl+KOH is:",
+              "options": [
+                "NaCl",
+                "KCl",
+                "HCl",
+                "KOH"
+              ],
+              "correct": 1,
+              "hint": "K\u207a + Cl\u207b = KCl."
+            },
+            {
+              "type": "fill_in",
+              "question": "Neutralization always produces water.",
+              "answer": "true",
+              "hint": "H\u207a+OH\u207b\u2192H\u2082O."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-science-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "pH < 7 is ___",
+            "answer": "acidic"
+          },
+          {
+            "type": "fill_in",
+            "question": "M = mol / ___",
+            "answer": "L"
+          },
+          {
+            "type": "fill_in",
+            "question": "Acid + Base \u2192 Salt + ___",
+            "answer": "Water"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Strong acids:",
+            "options": [
+              "Partially dissociate",
+              "Fully dissociate",
+              "Don't dissociate",
+              "Are weak"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "pH=-log(10\u207b\u2074)=___",
+            "answer": "4"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "acids_bases_champion"
+      }
+    }
+  ]
+}

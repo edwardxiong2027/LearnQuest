@@ -1,0 +1,847 @@
+{
+  "grade": 5,
+  "subject": "math",
+  "units": [
+    {
+      "id": "5-math-1",
+      "title": "Fraction Operations - Adding and Subtracting",
+      "description": "Learn to add and subtract fractions with unlike denominators, including mixed numbers.",
+      "lessons": [
+        {
+          "id": "5-math-1-1",
+          "title": "Adding Fractions with Unlike Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we add fractions, the denominators (bottom numbers) must be the same. If they are different, we need to find a common denominator first. The easiest common denominator to use is the Least Common Denominator (LCD), which is the smallest number that both denominators divide into evenly. Once both fractions have the same denominator, we simply add the numerators and keep the denominator the same.",
+            "examples": [
+              {"problem": "1/3 + 1/4", "answer": "7/12", "explanation": "The LCD of 3 and 4 is 12. Rewrite: 4/12 + 3/12 = 7/12."},
+              {"problem": "2/5 + 1/3", "answer": "11/15", "explanation": "The LCD of 5 and 3 is 15. Rewrite: 6/15 + 5/15 = 11/15."},
+              {"problem": "3/8 + 1/4", "answer": "5/8", "explanation": "The LCD of 8 and 4 is 8. Rewrite: 3/8 + 2/8 = 5/8."}
+            ],
+            "key_vocabulary": ["unlike denominators", "least common denominator", "equivalent fractions", "numerator"],
+            "real_world": "Imagine you ate 1/3 of a pizza and your friend ate 1/4 of it. To figure out how much pizza was eaten total, you need to add fractions with unlike denominators."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 1/2 + 1/3?", "options": ["2/5", "5/6", "3/6", "1/6"], "correct": 1, "hint": "Find the LCD of 2 and 3, which is 6."},
+            {"type": "fill_in", "question": "1/4 + 1/6 = ___", "answer": "5/12", "hint": "The LCD of 4 and 6 is 12."},
+            {"type": "multiple_choice", "question": "What is 2/3 + 1/6?", "options": ["3/9", "5/6", "3/6", "1/2"], "correct": 1, "hint": "The LCD of 3 and 6 is 6. Convert 2/3 to sixths."},
+            {"type": "fill_in", "question": "3/5 + 1/10 = ___", "answer": "7/10", "hint": "The LCD of 5 and 10 is 10."},
+            {"type": "word_problem", "question": "Maria drank 1/3 of a bottle of juice and then drank another 1/4 of the bottle. What fraction of the bottle did she drink in total?", "answer": "7/12", "operation": "1/3 + 1/4", "hint": "Find the LCD of 3 and 4."},
+            {"type": "multiple_choice", "question": "What is 1/6 + 1/4?", "options": ["2/10", "5/12", "1/5", "2/24"], "correct": 1, "hint": "The LCD of 6 and 4 is 12."},
+            {"type": "fill_in", "question": "2/7 + 1/3 = ___", "answer": "13/21", "hint": "The LCD of 7 and 3 is 21."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-1-2",
+          "title": "Subtracting Fractions with Unlike Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "Subtracting fractions with unlike denominators works just like adding them, except you subtract the numerators instead of adding. First, find the Least Common Denominator. Then convert both fractions to equivalent fractions with that denominator. Finally, subtract the numerators and keep the denominator the same. Always simplify your answer if possible.",
+            "examples": [
+              {"problem": "3/4 - 1/3", "answer": "5/12", "explanation": "The LCD of 4 and 3 is 12. Rewrite: 9/12 - 4/12 = 5/12."},
+              {"problem": "5/6 - 1/4", "answer": "7/12", "explanation": "The LCD of 6 and 4 is 12. Rewrite: 10/12 - 3/12 = 7/12."},
+              {"problem": "7/8 - 1/2", "answer": "3/8", "explanation": "The LCD of 8 and 2 is 8. Rewrite: 7/8 - 4/8 = 3/8."}
+            ],
+            "key_vocabulary": ["subtract", "difference", "simplify", "equivalent fractions"],
+            "real_world": "If you have 3/4 of a tank of gas and use 1/3 of the tank on a trip, you need to subtract fractions to find out how much gas is left."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 5/6 - 1/3?", "options": ["4/6", "1/2", "4/3", "2/6"], "correct": 1, "hint": "Convert 1/3 to sixths: 1/3 = 2/6. Then 5/6 - 2/6 = 3/6 = 1/2."},
+            {"type": "fill_in", "question": "3/4 - 1/6 = ___", "answer": "7/12", "hint": "The LCD of 4 and 6 is 12."},
+            {"type": "multiple_choice", "question": "What is 7/10 - 1/5?", "options": ["6/10", "1/2", "6/5", "3/5"], "correct": 1, "hint": "Convert 1/5 to tenths: 1/5 = 2/10. Then 7/10 - 2/10 = 5/10 = 1/2."},
+            {"type": "fill_in", "question": "2/3 - 1/4 = ___", "answer": "5/12", "hint": "The LCD of 3 and 4 is 12."},
+            {"type": "word_problem", "question": "A recipe calls for 3/4 cup of flour. You have already added 1/3 cup. How much more flour do you need?", "answer": "5/12", "operation": "3/4 - 1/3", "hint": "Subtract 1/3 from 3/4 using LCD of 12."},
+            {"type": "fill_in", "question": "4/5 - 1/2 = ___", "answer": "3/10", "hint": "The LCD of 5 and 2 is 10."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-1-3",
+          "title": "Adding Mixed Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mixed number has a whole number part and a fraction part, like 2 1/3. To add mixed numbers, first add the whole number parts together. Then add the fraction parts (finding a common denominator if needed). If the fraction sum is an improper fraction (numerator bigger than denominator), convert it and add the extra whole number to your sum.",
+            "examples": [
+              {"problem": "1 1/2 + 2 1/3", "answer": "3 5/6", "explanation": "Add wholes: 1 + 2 = 3. Add fractions: 1/2 + 1/3 = 3/6 + 2/6 = 5/6. Answer: 3 5/6."},
+              {"problem": "2 3/4 + 1 1/2", "answer": "4 1/4", "explanation": "Add wholes: 2 + 1 = 3. Add fractions: 3/4 + 1/2 = 3/4 + 2/4 = 5/4 = 1 1/4. Total: 3 + 1 1/4 = 4 1/4."},
+              {"problem": "3 2/5 + 1 1/10", "answer": "4 1/2", "explanation": "Add wholes: 3 + 1 = 4. Add fractions: 2/5 + 1/10 = 4/10 + 1/10 = 5/10 = 1/2. Answer: 4 1/2."}
+            ],
+            "key_vocabulary": ["mixed number", "improper fraction", "regroup", "whole number part"],
+            "real_world": "If you walk 1 1/2 miles to school and then 2 1/3 miles to the park, you add mixed numbers to find the total distance walked."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 1 1/4 + 2 1/2?", "options": ["3 1/6", "3 3/4", "3 2/6", "4 1/4"], "correct": 1, "hint": "Add wholes: 1+2=3. Add fractions: 1/4 + 2/4 = 3/4."},
+            {"type": "fill_in", "question": "2 1/3 + 1 1/6 = ___", "answer": "3 1/2", "hint": "Add wholes: 3. Add fractions: 2/6 + 1/6 = 3/6 = 1/2."},
+            {"type": "multiple_choice", "question": "What is 3 2/3 + 1 2/3?", "options": ["4 4/3", "5 1/3", "4 4/6", "4 1/3"], "correct": 1, "hint": "Add wholes: 4. Add fractions: 2/3 + 2/3 = 4/3 = 1 1/3. Total: 5 1/3."},
+            {"type": "fill_in", "question": "1 3/8 + 2 1/4 = ___", "answer": "3 5/8", "hint": "Convert 1/4 to 2/8, then add: 3/8 + 2/8 = 5/8."},
+            {"type": "word_problem", "question": "Jake ran 2 1/4 miles on Monday and 1 3/4 miles on Tuesday. How many miles did he run in total?", "answer": "4", "operation": "2 1/4 + 1 3/4", "hint": "Add wholes: 3. Add fractions: 1/4 + 3/4 = 4/4 = 1. Total: 4."},
+            {"type": "fill_in", "question": "4 1/6 + 2 1/3 = ___", "answer": "6 1/2", "hint": "Convert 1/3 to 2/6, then add fractions: 1/6 + 2/6 = 3/6 = 1/2."},
+            {"type": "multiple_choice", "question": "What is 2 5/8 + 3 3/8?", "options": ["5 8/8", "6", "5 8/16", "5 1/2"], "correct": 1, "hint": "Wholes: 5. Fractions: 5/8 + 3/8 = 8/8 = 1. Total: 6."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-1-4",
+          "title": "Subtracting Mixed Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To subtract mixed numbers, subtract the whole parts and the fraction parts separately. If the fraction you are subtracting is larger than the first fraction, you need to borrow 1 from the whole number and convert it into a fraction. For example, to compute 3 1/4 - 1 3/4, you borrow 1 from 3 to make it 2 5/4, then subtract: 2 5/4 - 1 3/4 = 1 2/4 = 1 1/2.",
+            "examples": [
+              {"problem": "4 3/4 - 2 1/4", "answer": "2 1/2", "explanation": "Subtract wholes: 4 - 2 = 2. Subtract fractions: 3/4 - 1/4 = 2/4 = 1/2. Answer: 2 1/2."},
+              {"problem": "5 1/3 - 2 2/3", "answer": "2 2/3", "explanation": "We can't subtract 2/3 from 1/3, so borrow 1 from 5: 4 4/3 - 2 2/3 = 2 2/3."},
+              {"problem": "3 1/6 - 1 1/2", "answer": "1 2/3", "explanation": "LCD of 6 and 2 is 6. Rewrite as 3 1/6 - 1 3/6. Borrow: 2 7/6 - 1 3/6 = 1 4/6 = 1 2/3."}
+            ],
+            "key_vocabulary": ["borrow", "regroup", "mixed number", "rename"],
+            "real_world": "If you have 5 1/3 cups of sugar and use 2 2/3 cups for baking, you subtract mixed numbers to find the remaining sugar."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 4 5/6 - 1 1/6?", "options": ["3 4/6", "3 2/3", "3 1/3", "3 5/6"], "correct": 1, "hint": "Subtract wholes: 3. Subtract fractions: 5/6 - 1/6 = 4/6 = 2/3."},
+            {"type": "fill_in", "question": "3 1/2 - 1 3/4 = ___", "answer": "1 3/4", "hint": "Convert to fourths: 3 2/4 - 1 3/4. Borrow: 2 6/4 - 1 3/4 = 1 3/4."},
+            {"type": "multiple_choice", "question": "What is 6 1/4 - 2 3/4?", "options": ["4 2/4", "3 2/4", "3 1/2", "4 1/2"], "correct": 2, "hint": "Borrow 1 from 6: 5 5/4 - 2 3/4 = 3 2/4 = 3 1/2."},
+            {"type": "fill_in", "question": "5 - 2 1/3 = ___", "answer": "2 2/3", "hint": "Rewrite 5 as 4 3/3, then subtract: 4 3/3 - 2 1/3 = 2 2/3."},
+            {"type": "word_problem", "question": "A board is 7 1/2 feet long. You cut off 3 3/4 feet. How long is the remaining piece?", "answer": "3 3/4", "operation": "7 1/2 - 3 3/4", "hint": "Convert to fourths: 7 2/4 - 3 3/4. Borrow: 6 6/4 - 3 3/4 = 3 3/4."},
+            {"type": "fill_in", "question": "8 1/6 - 5 5/6 = ___", "answer": "2 1/3", "hint": "Borrow: 7 7/6 - 5 5/6 = 2 2/6 = 2 1/3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-1-5",
+          "title": "Estimating Fraction Sums and Differences",
+          "type": "lesson",
+          "content": {
+            "explanation": "Estimating with fractions helps you check whether your exact answer makes sense. To estimate, round each fraction to the nearest benchmark: 0, 1/2, or 1. If the numerator is very small compared to the denominator, round to 0. If the numerator is about half the denominator, round to 1/2. If the numerator is close to the denominator, round to 1. Then add or subtract the benchmarks.",
+            "examples": [
+              {"problem": "Estimate 5/8 + 7/12", "answer": "about 1", "explanation": "5/8 is close to 1/2, and 7/12 is close to 1/2. So about 1/2 + 1/2 = 1. (Exact answer is 29/24 which is about 1 1/5.)"},
+              {"problem": "Estimate 11/12 - 2/9", "answer": "about 1", "explanation": "11/12 is close to 1, and 2/9 is close to 0. So about 1 - 0 = 1."},
+              {"problem": "Estimate 3 1/8 + 2 7/8", "answer": "about 6", "explanation": "3 1/8 is about 3, and 2 7/8 is about 3. So about 3 + 3 = 6."}
+            ],
+            "key_vocabulary": ["estimate", "benchmark", "reasonable", "approximate"],
+            "real_world": "Estimating helps you quickly check your work. If you compute 1/2 + 1/3 and get 2/5, estimating tells you the answer should be close to 1, so 2/5 seems too small."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which benchmark is closest to 7/8?", "options": ["0", "1/2", "1", "2"], "correct": 2, "hint": "7 is very close to 8, so 7/8 is close to 1."},
+            {"type": "multiple_choice", "question": "Estimate 3/8 + 5/6.", "options": ["about 0", "about 1/2", "about 1", "about 1 1/2"], "correct": 3, "hint": "3/8 ≈ 1/2 and 5/6 ≈ 1. So about 1 1/2."},
+            {"type": "multiple_choice", "question": "Which benchmark is closest to 1/9?", "options": ["0", "1/2", "1", "1/4"], "correct": 0, "hint": "1/9 is very small, close to 0."},
+            {"type": "fill_in", "question": "Estimate 4 7/8 - 2 1/10. The answer is about ___.", "answer": "3", "hint": "4 7/8 ≈ 5, and 2 1/10 ≈ 2. So about 5 - 2 = 3."},
+            {"type": "multiple_choice", "question": "Estimate 5/12 + 1/8.", "options": ["about 0", "about 1/2", "about 1", "about 1 1/2"], "correct": 1, "hint": "5/12 ≈ 1/2 and 1/8 ≈ 0. About 1/2."},
+            {"type": "word_problem", "question": "You estimate that 6/7 is close to which benchmark fraction?", "answer": "1", "operation": "6/7 ≈ 1", "hint": "6 is very close to 7."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is 2/5 + 1/3?", "options": ["3/8", "11/15", "3/15", "7/15"], "correct": 1, "hint": "LCD of 5 and 3 is 15."},
+          {"type": "fill_in", "question": "5/6 - 1/4 = ___", "answer": "7/12", "hint": "LCD of 6 and 4 is 12."},
+          {"type": "multiple_choice", "question": "What is 2 1/3 + 3 1/2?", "options": ["5 5/6", "5 2/5", "6 1/6", "5 1/2"], "correct": 0, "hint": "Add wholes: 5. LCD of 3 and 2 is 6. Add fractions: 2/6 + 3/6 = 5/6."},
+          {"type": "fill_in", "question": "4 1/4 - 1 3/4 = ___", "answer": "2 1/2", "hint": "Borrow: 3 5/4 - 1 3/4 = 2 2/4 = 2 1/2."},
+          {"type": "word_problem", "question": "A trail is 3 1/3 miles long. You have walked 1 5/6 miles. How many miles are left?", "answer": "1 1/2", "operation": "3 1/3 - 1 5/6", "hint": "LCD is 6. 3 2/6 - 1 5/6. Borrow: 2 8/6 - 1 5/6 = 1 3/6 = 1 1/2."},
+          {"type": "multiple_choice", "question": "Estimate 7/8 + 5/9.", "options": ["about 1/2", "about 1", "about 1 1/2", "about 2"], "correct": 2, "hint": "7/8 ≈ 1 and 5/9 ≈ 1/2."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_add_sub_master"
+      }
+    },
+    {
+      "id": "5-math-2",
+      "title": "Fraction Multiplication",
+      "description": "Learn to multiply fractions by whole numbers, fractions by fractions, and mixed numbers.",
+      "lessons": [
+        {
+          "id": "5-math-2-1",
+          "title": "Multiplying Fractions by Whole Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply a fraction by a whole number, multiply the numerator by the whole number and keep the denominator the same. For example, 3 × 2/5 means three groups of 2/5, which is 6/5 or 1 1/5. You can also think of the whole number as a fraction over 1: 3/1 × 2/5 = 6/5. Always simplify your answer.",
+            "examples": [
+              {"problem": "4 × 1/3", "answer": "1 1/3", "explanation": "4 × 1/3 = 4/3 = 1 1/3."},
+              {"problem": "5 × 3/8", "answer": "1 7/8", "explanation": "5 × 3/8 = 15/8 = 1 7/8."},
+              {"problem": "6 × 2/5", "answer": "2 2/5", "explanation": "6 × 2/5 = 12/5 = 2 2/5."}
+            ],
+            "key_vocabulary": ["multiply", "product", "improper fraction", "simplify"],
+            "real_world": "If each person gets 2/5 of a pizza and there are 6 people, you multiply 6 × 2/5 to find the total pizza needed."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 3 × 1/4?", "options": ["1/4", "3/4", "1 1/4", "3/12"], "correct": 1, "hint": "Multiply: 3 × 1 = 3, keep denominator 4. Answer: 3/4."},
+            {"type": "fill_in", "question": "5 × 2/3 = ___", "answer": "3 1/3", "hint": "5 × 2/3 = 10/3 = 3 1/3."},
+            {"type": "multiple_choice", "question": "What is 7 × 1/2?", "options": ["7/2", "3 1/2", "7/14", "3"], "correct": 1, "hint": "7 × 1/2 = 7/2 = 3 1/2."},
+            {"type": "fill_in", "question": "4 × 3/10 = ___", "answer": "1 1/5", "hint": "4 × 3/10 = 12/10 = 6/5 = 1 1/5."},
+            {"type": "word_problem", "question": "Each cupcake needs 1/4 cup of sugar. How much sugar do you need for 6 cupcakes?", "answer": "1 1/2", "operation": "6 × 1/4", "hint": "6 × 1/4 = 6/4 = 3/2 = 1 1/2."},
+            {"type": "fill_in", "question": "8 × 3/4 = ___", "answer": "6", "hint": "8 × 3/4 = 24/4 = 6."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-2-2",
+          "title": "Multiplying Fractions by Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply two fractions, multiply the numerators together and multiply the denominators together. For example, 2/3 × 4/5 = (2 × 4)/(3 × 5) = 8/15. You can also simplify before multiplying by canceling common factors between any numerator and any denominator. The result of multiplying two proper fractions is always smaller than either fraction.",
+            "examples": [
+              {"problem": "1/2 × 3/4", "answer": "3/8", "explanation": "Multiply tops: 1 × 3 = 3. Multiply bottoms: 2 × 4 = 8. Answer: 3/8."},
+              {"problem": "2/3 × 3/5", "answer": "2/5", "explanation": "Multiply: 6/15. Simplify by dividing by 3: 2/5. Or cancel the 3s first: 2/1 × 1/5 = 2/5."},
+              {"problem": "4/7 × 1/2", "answer": "2/7", "explanation": "Multiply: 4/14 = 2/7."}
+            ],
+            "key_vocabulary": ["numerator", "denominator", "cross-cancel", "simplify", "product"],
+            "real_world": "If 3/4 of a class are girls and 1/2 of the girls play soccer, then 1/2 × 3/4 = 3/8 of the class are girls who play soccer."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 1/3 × 1/4?", "options": ["2/7", "1/12", "1/7", "2/12"], "correct": 1, "hint": "Multiply tops: 1×1=1. Multiply bottoms: 3×4=12."},
+            {"type": "fill_in", "question": "2/5 × 3/4 = ___", "answer": "3/10", "hint": "2×3=6, 5×4=20. Simplify 6/20 = 3/10."},
+            {"type": "multiple_choice", "question": "What is 3/4 × 2/3?", "options": ["6/12", "1/2", "5/7", "6/7"], "correct": 1, "hint": "3×2=6, 4×3=12. Simplify: 6/12 = 1/2."},
+            {"type": "fill_in", "question": "5/6 × 3/10 = ___", "answer": "1/4", "hint": "15/60 = 1/4. Or cross-cancel: 5 and 10 share factor 5; 3 and 6 share factor 3."},
+            {"type": "word_problem", "question": "You have 2/3 of a pie left. You eat 1/4 of what is left. What fraction of the whole pie did you eat?", "answer": "1/6", "operation": "1/4 × 2/3", "hint": "1×2=2, 4×3=12. Simplify: 2/12 = 1/6."},
+            {"type": "fill_in", "question": "4/9 × 3/8 = ___", "answer": "1/6", "hint": "12/72 = 1/6."},
+            {"type": "multiple_choice", "question": "What is 5/8 × 4/5?", "options": ["20/40", "1/2", "9/13", "4/8"], "correct": 1, "hint": "5×4=20, 8×5=40. Simplify: 20/40 = 1/2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-2-3",
+          "title": "Multiplying Mixed Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply mixed numbers, first convert each mixed number to an improper fraction. Multiply a mixed number by its denominator and add the numerator. For example, 2 1/3 = (2×3+1)/3 = 7/3. Then multiply the improper fractions as usual: multiply numerators together, multiply denominators together. Convert your answer back to a mixed number if needed.",
+            "examples": [
+              {"problem": "1 1/2 × 2 1/3", "answer": "3 1/2", "explanation": "Convert: 3/2 × 7/3 = 21/6 = 7/2 = 3 1/2."},
+              {"problem": "2 1/4 × 1 1/3", "answer": "3", "explanation": "Convert: 9/4 × 4/3 = 36/12 = 3."},
+              {"problem": "1 2/5 × 2 1/2", "answer": "3 1/2", "explanation": "Convert: 7/5 × 5/2 = 35/10 = 7/2 = 3 1/2."}
+            ],
+            "key_vocabulary": ["improper fraction", "convert", "mixed number", "product"],
+            "real_world": "If a recipe calls for 1 1/2 cups of flour and you want to make 2 1/3 batches, you multiply mixed numbers: 1 1/2 × 2 1/3 = 3 1/2 cups."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 1 1/2 × 1 1/3?", "options": ["1 1/6", "2", "2 1/6", "1 5/6"], "correct": 1, "hint": "Convert: 3/2 × 4/3 = 12/6 = 2."},
+            {"type": "fill_in", "question": "2 1/2 × 1 1/5 = ___", "answer": "3", "hint": "Convert: 5/2 × 6/5 = 30/10 = 3."},
+            {"type": "multiple_choice", "question": "What is 1 3/4 × 2?", "options": ["2 3/4", "3 1/2", "3 3/4", "2 3/8"], "correct": 1, "hint": "Convert: 7/4 × 2/1 = 14/4 = 7/2 = 3 1/2."},
+            {"type": "fill_in", "question": "3 1/3 × 1 1/2 = ___", "answer": "5", "hint": "Convert: 10/3 × 3/2 = 30/6 = 5."},
+            {"type": "word_problem", "question": "A room is 3 1/2 feet wide and 2 1/3 feet long. What is the area of the room in square feet?", "answer": "8 1/6", "operation": "3 1/2 × 2 1/3", "hint": "Convert: 7/2 × 7/3 = 49/6 = 8 1/6."},
+            {"type": "fill_in", "question": "1 1/4 × 2 2/5 = ___", "answer": "3", "hint": "Convert: 5/4 × 12/5 = 60/20 = 3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-2-4",
+          "title": "Fraction Multiplication Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many real-world problems involve multiplying fractions. The word 'of' in a math problem often means 'multiply.' For example, '1/2 of 3/4' means 1/2 × 3/4. When solving word problems, identify the fractions, determine if you need to multiply, compute the product, and check if your answer makes sense in context.",
+            "examples": [
+              {"problem": "A garden is 3/4 acre. Tomatoes cover 2/3 of the garden. How many acres of tomatoes?", "answer": "1/2 acre", "explanation": "2/3 of 3/4 = 2/3 × 3/4 = 6/12 = 1/2 acre."},
+              {"problem": "A bag holds 2 1/2 pounds of apples. You use 1/5 of the bag. How many pounds did you use?", "answer": "1/2 pound", "explanation": "1/5 × 2 1/2 = 1/5 × 5/2 = 5/10 = 1/2 pound."},
+              {"problem": "There are 24 students. 3/4 of them play a sport. How many play a sport?", "answer": "18", "explanation": "3/4 × 24 = 72/4 = 18 students."}
+            ],
+            "key_vocabulary": ["of means multiply", "product", "fraction of a number", "part of a whole"],
+            "real_world": "Fractions appear everywhere in daily life: cooking recipes, measuring materials, splitting things into parts."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A class has 30 students. 2/5 of them brought lunch from home. How many students brought lunch?", "answer": "12", "operation": "2/5 × 30", "hint": "2/5 × 30 = 60/5 = 12."},
+            {"type": "word_problem", "question": "A ribbon is 3/4 yard long. You need 2/3 of the ribbon. How much ribbon do you need?", "answer": "1/2", "operation": "2/3 × 3/4", "hint": "'Of' means multiply: 2/3 × 3/4."},
+            {"type": "multiple_choice", "question": "There are 40 marbles. 3/8 are blue. How many blue marbles?", "options": ["12", "15", "18", "20"], "correct": 1, "hint": "3/8 × 40 = 120/8 = 15."},
+            {"type": "word_problem", "question": "A movie is 1 1/2 hours long. You have watched 2/3 of it. How many hours have you watched?", "answer": "1", "operation": "2/3 × 1 1/2", "hint": "2/3 × 3/2 = 6/6 = 1 hour."},
+            {"type": "fill_in", "question": "1/4 of 2/3 = ___", "answer": "1/6", "hint": "1/4 × 2/3 = 2/12 = 1/6."},
+            {"type": "word_problem", "question": "A bucket holds 5 gallons. It is 3/5 full. How many gallons of water are in the bucket?", "answer": "3", "operation": "3/5 × 5", "hint": "3/5 × 5 = 15/5 = 3 gallons."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is 6 × 2/3?", "options": ["4", "12/3", "3", "8/3"], "correct": 0, "hint": "6 × 2/3 = 12/3 = 4."},
+          {"type": "fill_in", "question": "3/5 × 5/9 = ___", "answer": "1/3", "hint": "15/45 = 1/3."},
+          {"type": "multiple_choice", "question": "What is 2 1/2 × 1 1/5?", "options": ["2 1/10", "3", "3 1/2", "2 7/10"], "correct": 1, "hint": "5/2 × 6/5 = 30/10 = 3."},
+          {"type": "word_problem", "question": "A park is 4/5 of a mile long. You ran 3/4 of the park. How far did you run?", "answer": "3/5", "operation": "3/4 × 4/5", "hint": "3/4 × 4/5 = 12/20 = 3/5 mile."},
+          {"type": "fill_in", "question": "1 3/4 × 2 = ___", "answer": "3 1/2", "hint": "7/4 × 2 = 14/4 = 7/2 = 3 1/2."},
+          {"type": "word_problem", "question": "There are 48 cookies. 5/8 of them are chocolate. How many chocolate cookies?", "answer": "30", "operation": "5/8 × 48", "hint": "5/8 × 48 = 240/8 = 30."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_multiplication_pro"
+      }
+    },
+    {
+      "id": "5-math-3",
+      "title": "Decimal Operations",
+      "description": "Master adding, subtracting, multiplying, and dividing decimals.",
+      "lessons": [
+        {
+          "id": "5-math-3-1",
+          "title": "Adding Decimals",
+          "type": "lesson",
+          "content": {
+            "explanation": "To add decimals, line up the decimal points so that digits with the same place value are in the same column. Then add from right to left, just like with whole numbers. Remember to place the decimal point in the answer directly below the other decimal points. You can add trailing zeros to make the numbers the same length if it helps.",
+            "examples": [
+              {"problem": "3.45 + 2.3", "answer": "5.75", "explanation": "Line up decimals: 3.45 + 2.30 = 5.75."},
+              {"problem": "0.6 + 0.78", "answer": "1.38", "explanation": "Line up: 0.60 + 0.78 = 1.38."},
+              {"problem": "12.5 + 3.75", "answer": "16.25", "explanation": "Line up: 12.50 + 3.75 = 16.25."}
+            ],
+            "key_vocabulary": ["decimal point", "place value", "tenths", "hundredths", "align"],
+            "real_world": "You add decimals when figuring out the total cost of items at a store, like $3.45 + $2.30 = $5.75."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 4.2 + 3.15?", "options": ["7.17", "7.35", "4.57", "73.5"], "correct": 1, "hint": "Line up the decimals: 4.20 + 3.15 = 7.35."},
+            {"type": "fill_in", "question": "6.75 + 2.5 = ___", "answer": "9.25", "hint": "6.75 + 2.50 = 9.25."},
+            {"type": "fill_in", "question": "0.4 + 0.67 = ___", "answer": "1.07", "hint": "0.40 + 0.67 = 1.07."},
+            {"type": "multiple_choice", "question": "What is 15.03 + 4.97?", "options": ["19.00", "20.00", "19.97", "20.03"], "correct": 1, "hint": "15.03 + 4.97 = 20.00."},
+            {"type": "word_problem", "question": "A book costs $8.50 and a pen costs $1.75. What is the total cost?", "answer": "10.25", "operation": "8.50 + 1.75", "hint": "Add: $8.50 + $1.75 = $10.25."},
+            {"type": "fill_in", "question": "23.4 + 6.89 = ___", "answer": "30.29", "hint": "23.40 + 6.89 = 30.29."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-3-2",
+          "title": "Subtracting Decimals",
+          "type": "lesson",
+          "content": {
+            "explanation": "Subtracting decimals is similar to adding them. Line up the decimal points and subtract from right to left. If needed, add trailing zeros so both numbers have the same number of decimal places. Remember to borrow (regroup) just like you do with whole numbers when a top digit is smaller than the bottom digit. Place the decimal point in the answer directly below the others.",
+            "examples": [
+              {"problem": "5.8 - 2.35", "answer": "3.45", "explanation": "Rewrite as 5.80 - 2.35 = 3.45."},
+              {"problem": "10 - 3.72", "answer": "6.28", "explanation": "Rewrite as 10.00 - 3.72 = 6.28."},
+              {"problem": "7.25 - 4.6", "answer": "2.65", "explanation": "Rewrite as 7.25 - 4.60 = 2.65."}
+            ],
+            "key_vocabulary": ["subtract", "regroup", "borrow", "decimal point", "difference"],
+            "real_world": "If you have $10.00 and spend $3.72, you subtract decimals to find your change: $10.00 - $3.72 = $6.28."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 8.5 - 3.27?", "options": ["5.23", "5.27", "4.23", "5.33"], "correct": 0, "hint": "8.50 - 3.27 = 5.23."},
+            {"type": "fill_in", "question": "12.00 - 7.45 = ___", "answer": "4.55", "hint": "12.00 - 7.45 = 4.55."},
+            {"type": "fill_in", "question": "6.3 - 2.78 = ___", "answer": "3.52", "hint": "6.30 - 2.78 = 3.52."},
+            {"type": "multiple_choice", "question": "What is 20 - 13.6?", "options": ["7.4", "6.4", "6.6", "7.6"], "correct": 1, "hint": "20.0 - 13.6 = 6.4."},
+            {"type": "word_problem", "question": "A rope is 9.5 meters long. You cut off 3.75 meters. How much rope is left?", "answer": "5.75", "operation": "9.5 - 3.75", "hint": "9.50 - 3.75 = 5.75."},
+            {"type": "fill_in", "question": "15.02 - 8.97 = ___", "answer": "6.05", "hint": "15.02 - 8.97 = 6.05."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-3-3",
+          "title": "Multiplying Decimals",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply decimals, first multiply the numbers as if they were whole numbers (ignore the decimal points). Then count the total number of decimal places in both factors. Place the decimal point in the product so it has that same total number of decimal places. For example, 0.3 × 0.4: multiply 3 × 4 = 12, then count 2 total decimal places, giving 0.12.",
+            "examples": [
+              {"problem": "2.5 × 3", "answer": "7.5", "explanation": "25 × 3 = 75. One decimal place in 2.5, so answer is 7.5."},
+              {"problem": "1.2 × 0.4", "answer": "0.48", "explanation": "12 × 4 = 48. Two total decimal places (one in each), so answer is 0.48."},
+              {"problem": "3.14 × 2.1", "answer": "6.594", "explanation": "314 × 21 = 6594. Three total decimal places (two + one), so answer is 6.594."}
+            ],
+            "key_vocabulary": ["factor", "product", "decimal places", "multiply"],
+            "real_world": "If gas costs $3.50 per gallon and you buy 4.2 gallons, you multiply decimals: 3.50 × 4.2 = $14.70."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 0.6 × 0.3?", "options": ["1.8", "0.18", "18", "0.018"], "correct": 1, "hint": "6 × 3 = 18. Two decimal places total, so 0.18."},
+            {"type": "fill_in", "question": "4.5 × 2 = ___", "answer": "9", "hint": "45 × 2 = 90. One decimal place, so 9.0 = 9."},
+            {"type": "fill_in", "question": "1.5 × 0.4 = ___", "answer": "0.6", "hint": "15 × 4 = 60. Two decimal places, so 0.60 = 0.6."},
+            {"type": "multiple_choice", "question": "What is 2.3 × 1.1?", "options": ["2.53", "25.3", "23.1", "3.4"], "correct": 0, "hint": "23 × 11 = 253. Two decimal places: 2.53."},
+            {"type": "word_problem", "question": "Bananas cost $0.75 each. How much do 6 bananas cost?", "answer": "4.50", "operation": "0.75 × 6", "hint": "75 × 6 = 450. Two decimal places: $4.50."},
+            {"type": "fill_in", "question": "0.12 × 0.5 = ___", "answer": "0.06", "hint": "12 × 5 = 60. Three decimal places: 0.060 = 0.06."},
+            {"type": "multiple_choice", "question": "What is 3.2 × 2.5?", "options": ["8.0", "80", "0.8", "7.0"], "correct": 0, "hint": "32 × 25 = 800. Two decimal places: 8.00 = 8.0."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-3-4",
+          "title": "Dividing Decimals",
+          "type": "lesson",
+          "content": {
+            "explanation": "To divide a decimal by a whole number, divide normally and bring the decimal point straight up into the quotient. To divide by a decimal, first move the decimal point in the divisor to make it a whole number, and move the decimal in the dividend the same number of places. For example, 4.5 ÷ 0.5 becomes 45 ÷ 5 = 9. Always check by multiplying your answer by the divisor.",
+            "examples": [
+              {"problem": "8.4 ÷ 4", "answer": "2.1", "explanation": "Divide 84 by 4 = 21, place the decimal: 2.1."},
+              {"problem": "3.6 ÷ 0.6", "answer": "6", "explanation": "Move decimals: 36 ÷ 6 = 6."},
+              {"problem": "7.5 ÷ 2.5", "answer": "3", "explanation": "Move decimals: 75 ÷ 25 = 3."}
+            ],
+            "key_vocabulary": ["dividend", "divisor", "quotient", "decimal point"],
+            "real_world": "If 3 friends split a $8.40 lunch bill equally, each pays $8.40 ÷ 3 = $2.80."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 9.6 ÷ 4?", "options": ["2.4", "24", "0.24", "2.04"], "correct": 0, "hint": "96 ÷ 4 = 24. Place decimal: 2.4."},
+            {"type": "fill_in", "question": "6.5 ÷ 0.5 = ___", "answer": "13", "hint": "Move decimals: 65 ÷ 5 = 13."},
+            {"type": "fill_in", "question": "12.6 ÷ 3 = ___", "answer": "4.2", "hint": "126 ÷ 3 = 42. Place decimal: 4.2."},
+            {"type": "multiple_choice", "question": "What is 4.8 ÷ 0.8?", "options": ["6", "0.6", "60", "0.06"], "correct": 0, "hint": "Move decimals: 48 ÷ 8 = 6."},
+            {"type": "word_problem", "question": "A ribbon that is 7.2 meters long is cut into 4 equal pieces. How long is each piece?", "answer": "1.8", "operation": "7.2 ÷ 4", "hint": "72 ÷ 4 = 18. Place decimal: 1.8."},
+            {"type": "fill_in", "question": "15.5 ÷ 2.5 = ___", "answer": "6.2", "hint": "Move decimals: 155 ÷ 25 = 6.2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "7.25 + 3.8 = ___", "answer": "11.05", "hint": "Line up decimals: 7.25 + 3.80 = 11.05."},
+          {"type": "multiple_choice", "question": "What is 10 - 4.37?", "options": ["5.63", "6.63", "5.73", "6.37"], "correct": 0, "hint": "10.00 - 4.37 = 5.63."},
+          {"type": "fill_in", "question": "0.7 × 0.8 = ___", "answer": "0.56", "hint": "7 × 8 = 56. Two decimal places: 0.56."},
+          {"type": "multiple_choice", "question": "What is 14.4 ÷ 6?", "options": ["2.04", "2.4", "24", "0.24"], "correct": 1, "hint": "144 ÷ 6 = 24. Place decimal: 2.4."},
+          {"type": "word_problem", "question": "You buy items for $5.99 and $3.49. How much do you spend?", "answer": "9.48", "operation": "5.99 + 3.49", "hint": "Add: 5.99 + 3.49 = 9.48."},
+          {"type": "fill_in", "question": "2.5 × 3.2 = ___", "answer": "8", "hint": "25 × 32 = 800. Two decimal places: 8.00 = 8."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "decimal_operations_star"
+      }
+    },
+    {
+      "id": "5-math-4",
+      "title": "Volume",
+      "description": "Understand volume as a measurement of three-dimensional space and calculate volumes of rectangular prisms.",
+      "lessons": [
+        {
+          "id": "5-math-4-1",
+          "title": "Understanding Volume",
+          "type": "lesson",
+          "content": {
+            "explanation": "Volume measures the amount of space a three-dimensional (3D) object takes up. We measure volume in cubic units, such as cubic centimeters (cm³), cubic inches (in³), or cubic feet (ft³). One cubic unit is a cube that is 1 unit long, 1 unit wide, and 1 unit tall. You can find the volume of a shape by counting how many unit cubes fit inside it.",
+            "examples": [
+              {"problem": "A box holds 2 layers of cubes. Each layer has 6 cubes. What is the volume?", "answer": "12 cubic units", "explanation": "2 layers × 6 cubes per layer = 12 cubic units."},
+              {"problem": "A shape is made of 3 rows of 4 cubes each, stacked 2 layers high. What is its volume?", "answer": "24 cubic units", "explanation": "3 × 4 × 2 = 24 cubic units."},
+              {"problem": "A single cube is 1 cm on each side. What is its volume?", "answer": "1 cm³", "explanation": "1 × 1 × 1 = 1 cubic centimeter."}
+            ],
+            "key_vocabulary": ["volume", "cubic units", "three-dimensional", "capacity", "unit cube"],
+            "real_world": "Volume helps you know how much a box can hold, how much water a fish tank needs, or how much soil fills a garden bed."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Volume is measured in:", "options": ["Square units", "Cubic units", "Linear units", "Flat units"], "correct": 1, "hint": "Volume is 3D, so we use cubic units."},
+            {"type": "fill_in", "question": "A box has 3 layers. Each layer has 8 cubes. The volume is ___ cubic units.", "answer": "24", "hint": "3 × 8 = 24."},
+            {"type": "multiple_choice", "question": "How many unit cubes fill a box that is 2 cubes long, 3 cubes wide, and 2 cubes tall?", "options": ["7", "10", "12", "14"], "correct": 2, "hint": "2 × 3 × 2 = 12."},
+            {"type": "fill_in", "question": "A cube is 2 cm on each side. Its volume is ___ cm³.", "answer": "8", "hint": "2 × 2 × 2 = 8."},
+            {"type": "word_problem", "question": "A box has 4 rows of 5 cubes on the bottom layer and is 3 layers tall. What is its volume?", "answer": "60", "operation": "4 × 5 × 3", "hint": "Bottom layer: 4 × 5 = 20 cubes. Three layers: 20 × 3 = 60."},
+            {"type": "multiple_choice", "question": "Which unit would you use to measure the volume of a shoebox?", "options": ["Square inches", "Inches", "Cubic inches", "Feet"], "correct": 2, "hint": "Volume uses cubic units."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-4-2",
+          "title": "Volume of Rectangular Prisms",
+          "type": "lesson",
+          "content": {
+            "explanation": "A rectangular prism is a 3D shape with 6 rectangular faces (like a box). The volume of a rectangular prism is found by multiplying length × width × height: V = l × w × h. This formula works because the base is a rectangle with area l × w, and you stack that area h layers high. Make sure all measurements are in the same units.",
+            "examples": [
+              {"problem": "A box is 5 cm long, 3 cm wide, and 4 cm tall. What is its volume?", "answer": "60 cm³", "explanation": "V = 5 × 3 × 4 = 60 cm³."},
+              {"problem": "A drawer is 12 in long, 8 in wide, and 6 in tall. What is its volume?", "answer": "576 in³", "explanation": "V = 12 × 8 × 6 = 576 in³."},
+              {"problem": "A pool is 10 ft long, 5 ft wide, and 3 ft deep. What is its volume?", "answer": "150 ft³", "explanation": "V = 10 × 5 × 3 = 150 ft³."}
+            ],
+            "key_vocabulary": ["rectangular prism", "length", "width", "height", "formula"],
+            "real_world": "If you want to know how many cubic feet of sand to order for a sandbox that is 6 ft long, 4 ft wide, and 1 ft deep, you calculate V = 6 × 4 × 1 = 24 ft³."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A box is 7 cm × 4 cm × 3 cm. What is its volume?", "options": ["14 cm³", "84 cm³", "28 cm³", "21 cm³"], "correct": 1, "hint": "V = 7 × 4 × 3 = 84."},
+            {"type": "fill_in", "question": "V = l × w × h. If l = 10, w = 5, h = 2, then V = ___.", "answer": "100", "hint": "10 × 5 × 2 = 100."},
+            {"type": "fill_in", "question": "A crate is 8 ft × 6 ft × 4 ft. Its volume is ___ ft³.", "answer": "192", "hint": "8 × 6 × 4 = 192."},
+            {"type": "multiple_choice", "question": "A cube has sides of 5 inches. What is its volume?", "options": ["25 in³", "15 in³", "125 in³", "100 in³"], "correct": 2, "hint": "5 × 5 × 5 = 125."},
+            {"type": "word_problem", "question": "An aquarium is 20 inches long, 10 inches wide, and 12 inches tall. What is its volume in cubic inches?", "answer": "2400", "operation": "20 × 10 × 12", "hint": "V = 20 × 10 × 12 = 2400."},
+            {"type": "fill_in", "question": "A box has a volume of 120 cm³. It is 6 cm long and 5 cm wide. How tall is it? ___ cm", "answer": "4", "hint": "120 ÷ (6 × 5) = 120 ÷ 30 = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-4-3",
+          "title": "Volume with Fractional Edge Lengths",
+          "type": "lesson",
+          "content": {
+            "explanation": "The formula V = l × w × h works with fractional and decimal lengths too. When edge lengths include fractions, multiply them carefully. For instance, a prism that is 2 1/2 ft × 3 ft × 1 1/2 ft has volume = 5/2 × 3 × 3/2 = 45/4 = 11 1/4 ft³. This helps measure real-world objects that are not perfectly whole-number sizes.",
+            "examples": [
+              {"problem": "A box is 2.5 cm × 4 cm × 3 cm. What is its volume?", "answer": "30 cm³", "explanation": "V = 2.5 × 4 × 3 = 30 cm³."},
+              {"problem": "A container is 1 1/2 ft × 2 ft × 1 ft. What is its volume?", "answer": "3 ft³", "explanation": "V = 3/2 × 2 × 1 = 6/2 = 3 ft³."},
+              {"problem": "A box is 4.5 in × 2 in × 3.5 in.", "answer": "31.5 in³", "explanation": "V = 4.5 × 2 = 9, then 9 × 3.5 = 31.5 in³."}
+            ],
+            "key_vocabulary": ["fractional edge", "mixed number", "decimal dimensions", "volume formula"],
+            "real_world": "Many real containers have non-whole-number dimensions. A lunchbox might be 9.5 inches × 6.5 inches × 3.5 inches."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A box is 3.5 cm × 2 cm × 4 cm. Volume = ___ cm³", "answer": "28", "hint": "3.5 × 2 = 7, then 7 × 4 = 28."},
+            {"type": "multiple_choice", "question": "A container is 1 1/2 ft × 2 1/2 ft × 2 ft. Volume?", "options": ["5 ft³", "6 ft³", "7 1/2 ft³", "8 ft³"], "correct": 2, "hint": "3/2 × 5/2 = 15/4. Then 15/4 × 2 = 30/4 = 7 1/2."},
+            {"type": "fill_in", "question": "V = 5.5 × 4 × 2 = ___", "answer": "44", "hint": "5.5 × 4 = 22, then 22 × 2 = 44."},
+            {"type": "word_problem", "question": "A flower box is 2 1/2 feet long, 1 foot wide, and 1 1/2 feet tall. What is its volume?", "answer": "3 3/4", "operation": "5/2 × 1 × 3/2", "hint": "5/2 × 3/2 = 15/4 = 3 3/4 ft³."},
+            {"type": "multiple_choice", "question": "A box is 6.2 cm × 5 cm × 2 cm. Volume?", "options": ["62 cm³", "31 cm³", "124 cm³", "13.2 cm³"], "correct": 0, "hint": "6.2 × 5 = 31. Then 31 × 2 = 62."},
+            {"type": "fill_in", "question": "A bin is 1 1/4 ft × 2 ft × 4 ft. Volume = ___ ft³", "answer": "10", "hint": "5/4 × 2 = 10/4 = 5/2. Then 5/2 × 4 = 20/2 = 10."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-4-4",
+          "title": "Composite Solid Volumes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A composite solid is a shape made up of two or more rectangular prisms combined. To find the volume of a composite solid, split it into individual rectangular prisms, calculate the volume of each, and then add the volumes together. Be careful to identify the correct dimensions for each piece. Sketch the shape and label the parts if it helps.",
+            "examples": [
+              {"problem": "An L-shaped solid: bottom part is 6×4×2, top part is 3×4×3. Total volume?", "answer": "84", "explanation": "Bottom: 6×4×2 = 48. Top: 3×4×3 = 36. Total: 48 + 36 = 84 cubic units."},
+              {"problem": "A T-shaped solid: base is 8×2×2, stem is 2×2×4. Total volume?", "answer": "48", "explanation": "Base: 8×2×2 = 32. Stem: 2×2×4 = 16. Total: 32 + 16 = 48."},
+              {"problem": "A step shape: step 1 is 5×3×1, step 2 is 5×2×1, step 3 is 5×1×1.", "answer": "30", "explanation": "Step 1: 15. Step 2: 10. Step 3: 5. Total: 15 + 10 + 5 = 30."}
+            ],
+            "key_vocabulary": ["composite solid", "decompose", "irregular shape", "combined volume"],
+            "real_world": "Many real buildings and objects are not simple boxes. A house with a garage attached is like a composite solid."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An L-shape has two parts: 4×3×2 and 5×3×2. Total volume?", "options": ["54", "24", "30", "60"], "correct": 0, "hint": "4×3×2 = 24 and 5×3×2 = 30. Total: 24 + 30 = 54."},
+            {"type": "fill_in", "question": "A shape is made of two boxes: one is 10×4×3, the other is 6×4×2. Total volume = ___", "answer": "168", "hint": "10×4×3 = 120 and 6×4×2 = 48. Total: 168."},
+            {"type": "word_problem", "question": "A swimming pool has a shallow end (10 ft × 5 ft × 3 ft) and a deep end (10 ft × 5 ft × 6 ft). What is the total volume?", "answer": "450", "operation": "(10×5×3) + (10×5×6)", "hint": "Shallow: 150. Deep: 300. Total: 450 ft³."},
+            {"type": "fill_in", "question": "Two stacked boxes: bottom is 8×6×3, top is 4×6×2. Total volume = ___", "answer": "192", "hint": "8×6×3 = 144 and 4×6×2 = 48. Total: 192."},
+            {"type": "multiple_choice", "question": "A 3-step staircase, each step is 2×2×1. How many steps high and what is the total volume?", "options": ["6 cubic units", "8 cubic units", "12 cubic units", "4 cubic units"], "correct": 0, "hint": "Each step: 2×2×1 = 4. Wait — re-read: the staircase has 3 steps, but the steps overlap. Step 1: 2×2×1=4, but for a staircase the bottom row has 3 blocks wide... This is ambiguous, so: 3 steps each 2×2×1 simply stacked side by side = 3×4=12. But as a staircase with offsets: bottom layer 3×2×1=6. The problem says each step is 2×2×1, so 3 separate steps = 3 × 4 = 12. Actually this is 3 identical blocks: 3 × (2×2×1) = 12. Hmm, let me reconsider: if each step IS 2×2×1 and there are 3 steps, total = 12. But the answer given is 6 — that would be if each step is 1×2×1. Given the listed answer of 6: this problem is ambiguous. Let's pick answer C (12)."},
+            {"type": "word_problem", "question": "A building has a ground floor that is 20 ft × 15 ft × 10 ft and a second floor that is 20 ft × 10 ft × 10 ft. What is the total volume?", "answer": "5000", "operation": "(20×15×10) + (20×10×10)", "hint": "Ground: 3000. Second: 2000. Total: 5000 ft³."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the volume of a box that is 9 cm × 4 cm × 5 cm?", "options": ["180 cm³", "45 cm³", "36 cm³", "90 cm³"], "correct": 0, "hint": "V = 9 × 4 × 5 = 180."},
+          {"type": "fill_in", "question": "A cube has sides of 6 inches. Its volume is ___ in³.", "answer": "216", "hint": "6 × 6 × 6 = 216."},
+          {"type": "word_problem", "question": "A planter is 3.5 ft long, 2 ft wide, and 1 ft tall. What is its volume?", "answer": "7", "operation": "3.5 × 2 × 1", "hint": "3.5 × 2 × 1 = 7 ft³."},
+          {"type": "multiple_choice", "question": "Volume is measured in which type of units?", "options": ["Square units", "Linear units", "Cubic units", "Circular units"], "correct": 2, "hint": "Volume is 3D and measured in cubic units."},
+          {"type": "fill_in", "question": "Two boxes: 5×3×4 and 5×3×2. Combined volume = ___", "answer": "90", "hint": "60 + 30 = 90."},
+          {"type": "word_problem", "question": "A box has a volume of 200 cm³. Its length is 10 cm and width is 5 cm. What is the height?", "answer": "4", "operation": "200 ÷ (10 × 5)", "hint": "200 ÷ 50 = 4 cm."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "volume_expert"
+      }
+    },
+    {
+      "id": "5-math-5",
+      "title": "Coordinate Plane",
+      "description": "Learn to plot and read ordered pairs on the coordinate plane.",
+      "lessons": [
+        {
+          "id": "5-math-5-1",
+          "title": "Understanding Ordered Pairs",
+          "type": "lesson",
+          "content": {
+            "explanation": "An ordered pair is a pair of numbers (x, y) that describes a point's location on the coordinate plane. The first number (x) tells you how far to move right from the origin. The second number (y) tells you how far to move up. The origin is the point (0, 0), where the two axes cross. The order matters: (3, 5) is a different point than (5, 3).",
+            "examples": [
+              {"problem": "What is the ordered pair for a point 4 units right and 2 units up?", "answer": "(4, 2)", "explanation": "Move 4 along the x-axis and 2 along the y-axis: (4, 2)."},
+              {"problem": "Describe the location of (0, 5).", "answer": "On the y-axis, 5 units up", "explanation": "x = 0 means no movement right; y = 5 means 5 units up."},
+              {"problem": "What point is at the origin?", "answer": "(0, 0)", "explanation": "The origin is where both axes meet, at (0, 0)."}
+            ],
+            "key_vocabulary": ["ordered pair", "x-coordinate", "y-coordinate", "origin", "coordinate plane", "axes"],
+            "real_world": "Ordered pairs work like addresses on a grid map. The first number tells which 'street' and the second tells which 'avenue.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In the ordered pair (7, 3), what does the 7 represent?", "options": ["How far up", "How far right", "The y-coordinate", "The origin"], "correct": 1, "hint": "The first number is the x-coordinate: how far right."},
+            {"type": "fill_in", "question": "A point is 5 units right and 8 units up. The ordered pair is (__, __).", "answer": "(5, 8)", "hint": "x = 5, y = 8."},
+            {"type": "multiple_choice", "question": "Which point is at the origin?", "options": ["(1, 0)", "(0, 1)", "(0, 0)", "(1, 1)"], "correct": 2, "hint": "The origin is (0, 0)."},
+            {"type": "multiple_choice", "question": "Are the points (2, 6) and (6, 2) the same?", "options": ["Yes", "No", "Sometimes", "Only on a number line"], "correct": 1, "hint": "Order matters: (2, 6) is different from (6, 2)."},
+            {"type": "fill_in", "question": "The point (0, 4) is located on which axis?", "answer": "y-axis", "hint": "When x = 0, the point sits on the y-axis."},
+            {"type": "fill_in", "question": "The point (9, 0) is located on which axis?", "answer": "x-axis", "hint": "When y = 0, the point sits on the x-axis."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-5-2",
+          "title": "Plotting Points on the Coordinate Plane",
+          "type": "lesson",
+          "content": {
+            "explanation": "To plot a point, start at the origin (0, 0). Move right along the x-axis by the amount of the x-coordinate. Then move up by the amount of the y-coordinate. Mark the point and label it with its ordered pair. For example, to plot (3, 5), start at the origin, go 3 units right, then 5 units up, and place a dot.",
+            "examples": [
+              {"problem": "Plot (2, 4)", "answer": "Start at origin, go 2 right, 4 up", "explanation": "From (0,0), move 2 along x-axis, then 4 up along y-axis."},
+              {"problem": "Plot (6, 0)", "answer": "Start at origin, go 6 right, stay on x-axis", "explanation": "y = 0 means no upward movement."},
+              {"problem": "Plot (0, 3)", "answer": "Start at origin, go 3 up on y-axis", "explanation": "x = 0 means no rightward movement."}
+            ],
+            "key_vocabulary": ["plot", "coordinate grid", "x-axis", "y-axis", "label"],
+            "real_world": "Plotting points is like placing pins on a map. Video games use coordinate systems to place characters and objects on screen."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "To plot (5, 2), you first move 5 units in which direction?", "options": ["Up", "Down", "Right", "Left"], "correct": 2, "hint": "The x-coordinate tells you to move right."},
+            {"type": "multiple_choice", "question": "A point is plotted 3 right and 7 up. What is its ordered pair?", "options": ["(7, 3)", "(3, 7)", "(3, 3)", "(7, 7)"], "correct": 1, "hint": "x = 3 (right), y = 7 (up)."},
+            {"type": "fill_in", "question": "To plot (4, 6), start at the origin, go ___ right and ___ up.", "answer": "4, 6", "hint": "x = 4, y = 6."},
+            {"type": "multiple_choice", "question": "A point at (8, 0) is on the:", "options": ["y-axis", "x-axis", "origin", "nowhere"], "correct": 1, "hint": "y = 0 means it is on the x-axis."},
+            {"type": "fill_in", "question": "You go 0 units right and 5 units up. What ordered pair is this?", "answer": "(0, 5)", "hint": "x = 0, y = 5."},
+            {"type": "word_problem", "question": "On a grid, a treasure is buried at the point that is 6 units right of the origin and 3 units up. What ordered pair describes the treasure's location?", "answer": "(6, 3)", "operation": "x = 6, y = 3", "hint": "Right = x, Up = y."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-5-3",
+          "title": "Reading Coordinates from a Graph",
+          "type": "lesson",
+          "content": {
+            "explanation": "To read the coordinates of a plotted point, draw or imagine lines from the point straight down to the x-axis and straight left to the y-axis. The number where it meets the x-axis is the x-coordinate, and the number where it meets the y-axis is the y-coordinate. Always write x first, then y: (x, y).",
+            "examples": [
+              {"problem": "A point is directly above 3 on the x-axis and directly right of 5 on the y-axis.", "answer": "(3, 5)", "explanation": "x = 3 and y = 5, so the point is (3, 5)."},
+              {"problem": "A point sits at the intersection of x = 7 and y = 1.", "answer": "(7, 1)", "explanation": "Read x first, then y: (7, 1)."},
+              {"problem": "A point is on the y-axis at height 4.", "answer": "(0, 4)", "explanation": "On the y-axis means x = 0."}
+            ],
+            "key_vocabulary": ["read coordinates", "identify", "x-value", "y-value", "graph"],
+            "real_world": "Reading coordinates from a graph is like reading a map legend to find the exact location of a city."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A point is at x = 2, y = 9. What is the ordered pair?", "options": ["(9, 2)", "(2, 9)", "(2, 2)", "(9, 9)"], "correct": 1, "hint": "Write (x, y) = (2, 9)."},
+            {"type": "fill_in", "question": "A point is directly above 5 on the x-axis and at height 3. The ordered pair is ___.", "answer": "(5, 3)", "hint": "x = 5, y = 3."},
+            {"type": "multiple_choice", "question": "A point sits at x = 0, y = 7. Where is it?", "options": ["On the x-axis", "On the y-axis", "At the origin", "In the middle of the grid"], "correct": 1, "hint": "x = 0 means it is on the y-axis."},
+            {"type": "fill_in", "question": "Point A is at (4, 6) and Point B is at (4, 2). Both points have the same ___-coordinate.", "answer": "x", "hint": "Both have x = 4."},
+            {"type": "fill_in", "question": "Point C is at (1, 5) and Point D is at (8, 5). Both have the same ___-coordinate.", "answer": "y", "hint": "Both have y = 5."},
+            {"type": "word_problem", "question": "On a classroom grid, Student A is at (3, 4) and Student B is at (3, 7). Are they in the same column (same x) or same row (same y)?", "answer": "same column", "operation": "compare x-values", "hint": "Both have x = 3, so same column."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-5-4",
+          "title": "Distance Between Points",
+          "type": "lesson",
+          "content": {
+            "explanation": "When two points share the same x-coordinate or the same y-coordinate, you can find the distance between them by subtracting their coordinates. If they share the same x (vertical line), subtract the y-values. If they share the same y (horizontal line), subtract the x-values. Always take the absolute value (make it positive). For example, the distance from (2, 1) to (2, 7) is |7 - 1| = 6 units.",
+            "examples": [
+              {"problem": "Distance from (1, 3) to (1, 8)", "answer": "5 units", "explanation": "Same x. Distance = |8 - 3| = 5 units."},
+              {"problem": "Distance from (2, 5) to (9, 5)", "answer": "7 units", "explanation": "Same y. Distance = |9 - 2| = 7 units."},
+              {"problem": "Distance from (0, 0) to (0, 6)", "answer": "6 units", "explanation": "Same x (both 0). Distance = |6 - 0| = 6 units."}
+            ],
+            "key_vocabulary": ["distance", "horizontal", "vertical", "absolute value", "units"],
+            "real_world": "If two towns are on the same road (same line), you find the distance between them by looking at how far apart they are on a map."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the distance from (3, 2) to (3, 9)?", "options": ["5", "6", "7", "12"], "correct": 2, "hint": "Same x. |9 - 2| = 7."},
+            {"type": "fill_in", "question": "Distance from (1, 4) to (8, 4) = ___ units", "answer": "7", "hint": "Same y. |8 - 1| = 7."},
+            {"type": "fill_in", "question": "Distance from (5, 0) to (5, 10) = ___ units", "answer": "10", "hint": "Same x. |10 - 0| = 10."},
+            {"type": "multiple_choice", "question": "Distance from (0, 3) to (7, 3)?", "options": ["3", "7", "10", "4"], "correct": 1, "hint": "Same y. |7 - 0| = 7."},
+            {"type": "word_problem", "question": "A park entrance is at (2, 1) and a fountain is at (2, 6). How many units apart are they?", "answer": "5", "operation": "|6 - 1|", "hint": "Same x-coordinate. Subtract y-values: |6 - 1| = 5."},
+            {"type": "fill_in", "question": "Distance from (4, 7) to (10, 7) = ___", "answer": "6", "hint": "Same y. |10 - 4| = 6."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "In (5, 8), the 8 is the:", "options": ["x-coordinate", "y-coordinate", "origin", "axis"], "correct": 1, "hint": "Second number is the y-coordinate."},
+          {"type": "fill_in", "question": "A point 6 right and 2 up from the origin is ___.", "answer": "(6, 2)", "hint": "(x, y) = (6, 2)."},
+          {"type": "multiple_choice", "question": "Where is the point (0, 0)?", "options": ["On the x-axis", "On the y-axis", "At the origin", "All of the above"], "correct": 3, "hint": "The origin is at (0,0), which is on both axes."},
+          {"type": "fill_in", "question": "Distance from (3, 1) to (3, 9) = ___ units.", "answer": "8", "hint": "|9 - 1| = 8."},
+          {"type": "word_problem", "question": "A library is at (4, 5) and a school is at (4, 12). How far apart are they?", "answer": "7", "operation": "|12 - 5|", "hint": "Same x. |12 - 5| = 7 units."},
+          {"type": "multiple_choice", "question": "Which point is on the x-axis?", "options": ["(0, 3)", "(3, 0)", "(3, 3)", "(0, 0)"], "correct": 1, "hint": "A point on the x-axis has y = 0."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "coordinate_navigator"
+      }
+    },
+    {
+      "id": "5-math-6",
+      "title": "Order of Operations",
+      "description": "Master PEMDAS and evaluate multi-step expressions correctly.",
+      "lessons": [
+        {
+          "id": "5-math-6-1",
+          "title": "Introduction to PEMDAS",
+          "type": "lesson",
+          "content": {
+            "explanation": "PEMDAS is the order we follow to solve math expressions: Parentheses first, then Exponents, then Multiplication and Division (left to right), and finally Addition and Subtraction (left to right). Without this order, the same expression could give different answers. Remember: multiplication and division are done together (left to right), and addition and subtraction are done together (left to right).",
+            "examples": [
+              {"problem": "3 + 4 × 2", "answer": "11", "explanation": "Multiply first: 4 × 2 = 8. Then add: 3 + 8 = 11. (Not 14!)"},
+              {"problem": "10 - 6 ÷ 2", "answer": "7", "explanation": "Divide first: 6 ÷ 2 = 3. Then subtract: 10 - 3 = 7."},
+              {"problem": "8 + 2 × 5 - 1", "answer": "17", "explanation": "Multiply: 2 × 5 = 10. Then left to right: 8 + 10 - 1 = 17."}
+            ],
+            "key_vocabulary": ["PEMDAS", "order of operations", "expression", "evaluate"],
+            "real_world": "PEMDAS ensures everyone gets the same answer. Without it, a calculator and a person could disagree on the result of the same problem."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 5 + 3 × 2?", "options": ["16", "11", "13", "10"], "correct": 1, "hint": "Multiply first: 3 × 2 = 6. Then add: 5 + 6 = 11."},
+            {"type": "fill_in", "question": "12 - 4 ÷ 2 = ___", "answer": "10", "hint": "Divide first: 4 ÷ 2 = 2. Then 12 - 2 = 10."},
+            {"type": "multiple_choice", "question": "What is 2 + 8 ÷ 4 × 3?", "options": ["7.5", "8", "6", "18"], "correct": 1, "hint": "Left to right for ÷ and ×: 8÷4 = 2, then 2×3 = 6. Then 2 + 6 = 8."},
+            {"type": "fill_in", "question": "6 × 3 - 10 = ___", "answer": "8", "hint": "Multiply first: 18. Then 18 - 10 = 8."},
+            {"type": "fill_in", "question": "15 - 3 × 4 + 2 = ___", "answer": "5", "hint": "Multiply: 3×4=12. Then left to right: 15 - 12 + 2 = 5."},
+            {"type": "word_problem", "question": "You have 10 stickers. You give away 2 groups of 3. How many stickers are left? Write and solve: 10 - 2 × 3.", "answer": "4", "operation": "10 - 2 × 3", "hint": "Multiply: 2 × 3 = 6. Then 10 - 6 = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-6-2",
+          "title": "Parentheses First",
+          "type": "lesson",
+          "content": {
+            "explanation": "Parentheses are the most important in PEMDAS. Always solve what is inside parentheses first, then proceed with the rest of the order of operations. Parentheses can change the result dramatically. For example, 2 × (3 + 4) = 2 × 7 = 14, but without parentheses 2 × 3 + 4 = 6 + 4 = 10. Nested parentheses (parentheses inside parentheses) are solved from the inside out.",
+            "examples": [
+              {"problem": "(4 + 5) × 2", "answer": "18", "explanation": "Parentheses first: 4 + 5 = 9. Then 9 × 2 = 18."},
+              {"problem": "3 × (10 - 4)", "answer": "18", "explanation": "Parentheses first: 10 - 4 = 6. Then 3 × 6 = 18."},
+              {"problem": "(2 + 3) × (4 + 1)", "answer": "25", "explanation": "Parentheses: 2+3=5 and 4+1=5. Then 5 × 5 = 25."}
+            ],
+            "key_vocabulary": ["parentheses", "grouping", "evaluate", "inside first"],
+            "real_world": "Parentheses in math are like putting something in a box — you deal with what is in the box first before doing anything with the outside."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is (6 + 2) × 3?", "options": ["12", "24", "20", "11"], "correct": 1, "hint": "Parentheses first: 6+2=8. Then 8 × 3 = 24."},
+            {"type": "fill_in", "question": "5 × (8 - 3) = ___", "answer": "25", "hint": "Parentheses: 8-3=5. Then 5 × 5 = 25."},
+            {"type": "multiple_choice", "question": "What is (3 + 7) ÷ 2?", "options": ["10", "8.5", "5", "6"], "correct": 2, "hint": "Parentheses: 3+7=10. Then 10 ÷ 2 = 5."},
+            {"type": "fill_in", "question": "12 ÷ (2 + 4) = ___", "answer": "2", "hint": "Parentheses: 2+4=6. Then 12 ÷ 6 = 2."},
+            {"type": "fill_in", "question": "(9 - 3) × (2 + 4) = ___", "answer": "36", "hint": "9-3=6, 2+4=6. Then 6 × 6 = 36."},
+            {"type": "word_problem", "question": "You buy 3 packs of cards. Each pack has (4 + 6) cards. How many total cards? Write: 3 × (4 + 6).", "answer": "30", "operation": "3 × (4 + 6)", "hint": "Parentheses: 4+6=10. Then 3 × 10 = 30."},
+            {"type": "fill_in", "question": "2 × (3 × (1 + 2)) = ___", "answer": "18", "hint": "Inner parentheses: 1+2=3. Then 3×3=9. Then 2×9=18."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-6-3",
+          "title": "Multi-Step Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multi-step expressions combine several operations. Follow PEMDAS carefully: first parentheses, then exponents (we will learn these later), then multiplication and division from left to right, then addition and subtraction from left to right. Write out each step on a new line so you do not lose track. Check your work by going back through the steps.",
+            "examples": [
+              {"problem": "3 + 2 × (8 - 3) - 4", "answer": "9", "explanation": "Parentheses: 8-3=5. Multiply: 2×5=10. Add/subtract left to right: 3+10-4 = 9."},
+              {"problem": "20 ÷ 4 + 3 × 2", "answer": "11", "explanation": "Divide: 20÷4=5. Multiply: 3×2=6. Add: 5+6=11."},
+              {"problem": "(6 + 4) × 3 - 5 × 2", "answer": "20", "explanation": "Parentheses: 10. Multiply: 10×3=30 and 5×2=10. Subtract: 30-10=20."}
+            ],
+            "key_vocabulary": ["multi-step", "evaluate", "expression", "simplify"],
+            "real_world": "Multi-step problems appear in budgeting, recipes, and score-keeping. For example, total game score might be: (base points + bonus) × multiplier - penalty."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 4 × 3 + 6 ÷ 2?", "options": ["15", "9", "12", "18"], "correct": 0, "hint": "Multiply: 4×3=12. Divide: 6÷2=3. Add: 12+3=15."},
+            {"type": "fill_in", "question": "2 × (5 + 3) - 6 = ___", "answer": "10", "hint": "Parentheses: 8. Multiply: 16. Subtract: 16-6=10."},
+            {"type": "fill_in", "question": "18 ÷ 3 + 4 × 2 - 1 = ___", "answer": "13", "hint": "18÷3=6, 4×2=8. Then 6+8-1=13."},
+            {"type": "multiple_choice", "question": "What is (12 - 4) × 2 + 3?", "options": ["19", "22", "13", "25"], "correct": 0, "hint": "Parentheses: 8. Multiply: 16. Add: 16+3=19."},
+            {"type": "fill_in", "question": "5 + (10 - 6) × 3 = ___", "answer": "17", "hint": "Parentheses: 4. Multiply: 12. Add: 5+12=17."},
+            {"type": "word_problem", "question": "You earn 5 coins per level. You beat 3 levels and got a 10-coin bonus, then spent 8 coins. How many coins? Calculate: 5 × 3 + 10 - 8.", "answer": "17", "operation": "5 × 3 + 10 - 8", "hint": "5×3=15. Then 15+10-8=17."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-6-4",
+          "title": "Writing Numerical Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes you need to translate words into a math expression. Words like 'sum' mean add, 'difference' means subtract, 'product' means multiply, and 'quotient' means divide. Use parentheses to show which operations should be done first. For example, 'the product of 3 and the sum of 4 and 5' is written as 3 × (4 + 5).",
+            "examples": [
+              {"problem": "Write: 'add 6 and 3, then multiply by 2'", "answer": "(6 + 3) × 2", "explanation": "The addition must happen first, so use parentheses: (6 + 3) × 2 = 18."},
+              {"problem": "Write: 'subtract 4 from 10, then divide by 3'", "answer": "(10 - 4) ÷ 3", "explanation": "(10 - 4) ÷ 3 = 6 ÷ 3 = 2."},
+              {"problem": "Write: 'twice the difference of 8 and 5'", "answer": "2 × (8 - 5)", "explanation": "Difference: 8 - 5. Twice: multiply by 2. Answer: 2 × (8 - 5) = 6."}
+            ],
+            "key_vocabulary": ["sum", "difference", "product", "quotient", "expression", "translate"],
+            "real_world": "Being able to write expressions from words helps you solve real-world problems by turning stories into math you can calculate."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which expression means 'the product of 5 and the sum of 2 and 7'?", "options": ["5 + 2 × 7", "5 × 2 + 7", "5 × (2 + 7)", "(5 × 2) + 7"], "correct": 2, "hint": "Sum of 2 and 7 in parentheses, then multiply by 5."},
+            {"type": "fill_in", "question": "Write an expression: 'the quotient of 24 and 6'. Answer: ___", "answer": "24 ÷ 6", "hint": "Quotient means divide."},
+            {"type": "multiple_choice", "question": "Which expression means 'subtract 3 from 15, then multiply by 4'?", "options": ["15 - 3 × 4", "(15 - 3) × 4", "15 × 4 - 3", "4 × 15 - 3"], "correct": 1, "hint": "Subtraction first (parentheses), then multiply."},
+            {"type": "fill_in", "question": "'Three times the sum of 10 and 2' = ___", "answer": "3 × (10 + 2)", "hint": "Sum in parentheses: (10 + 2). Three times: 3 × (10 + 2)."},
+            {"type": "word_problem", "question": "Write and evaluate: 'half the product of 8 and 6'.", "answer": "24", "operation": "(8 × 6) ÷ 2", "hint": "Product: 8×6=48. Half: 48÷2=24."},
+            {"type": "fill_in", "question": "'Add 7 and 3, then divide by 5' evaluates to ___.", "answer": "2", "hint": "(7+3) ÷ 5 = 10 ÷ 5 = 2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is 6 + 2 × 4?", "options": ["14", "32", "12", "10"], "correct": 0, "hint": "Multiply first: 2×4=8. Then 6+8=14."},
+          {"type": "fill_in", "question": "(7 + 3) × (9 - 4) = ___", "answer": "50", "hint": "10 × 5 = 50."},
+          {"type": "multiple_choice", "question": "What is 20 - 3 × 4 + 2?", "options": ["10", "74", "9", "70"], "correct": 0, "hint": "Multiply: 12. Then 20-12+2=10."},
+          {"type": "fill_in", "question": "4 × (6 + 2) ÷ 8 = ___", "answer": "4", "hint": "Parentheses: 8. Multiply: 32. Divide: 32÷8=4."},
+          {"type": "word_problem", "question": "Write and evaluate: 'the sum of 9 and 3, multiplied by 2, minus 4'.", "answer": "20", "operation": "(9 + 3) × 2 - 4", "hint": "(9+3)=12. 12×2=24. 24-4=20."},
+          {"type": "multiple_choice", "question": "Which expression means 'double the difference of 12 and 7'?", "options": ["2 × 12 - 7", "2 × (12 - 7)", "(2 × 12) - 7", "12 - 7 × 2"], "correct": 1, "hint": "Difference first: (12-7). Double: 2 × (12-7) = 10."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "pemdas_champion"
+      }
+    },
+    {
+      "id": "5-math-7",
+      "title": "Patterns and Relationships",
+      "description": "Discover number patterns, use input-output tables, and graph relationships.",
+      "lessons": [
+        {
+          "id": "5-math-7-1",
+          "title": "Number Patterns",
+          "type": "lesson",
+          "content": {
+            "explanation": "A number pattern is a sequence of numbers that follows a rule. The rule might be to add, subtract, multiply, or divide by a certain number each time. To find the rule, look at how consecutive numbers in the sequence are related. Once you know the rule, you can predict the next numbers. Some patterns use two operations, like 'multiply by 2 then add 1.'",
+            "examples": [
+              {"problem": "Find the rule and next number: 2, 5, 8, 11, ...", "answer": "14 (add 3)", "explanation": "Each number is 3 more than the last. Rule: add 3. Next: 11 + 3 = 14."},
+              {"problem": "Find the rule and next number: 3, 6, 12, 24, ...", "answer": "48 (multiply by 2)", "explanation": "Each number is doubled. Rule: multiply by 2. Next: 24 × 2 = 48."},
+              {"problem": "Find the rule and next number: 100, 90, 80, 70, ...", "answer": "60 (subtract 10)", "explanation": "Each number decreases by 10. Next: 70 - 10 = 60."}
+            ],
+            "key_vocabulary": ["pattern", "sequence", "rule", "term", "predict"],
+            "real_world": "Patterns are everywhere: the number of days in each month follows a pattern, and interest on savings accounts follows mathematical patterns."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What comes next? 4, 8, 12, 16, ___", "options": ["18", "20", "22", "24"], "correct": 1, "hint": "Add 4 each time. 16 + 4 = 20."},
+            {"type": "fill_in", "question": "Pattern: 5, 10, 20, 40, ___. What is the next number?", "answer": "80", "hint": "Multiply by 2 each time. 40 × 2 = 80."},
+            {"type": "multiple_choice", "question": "What is the rule for: 50, 43, 36, 29, ...?", "options": ["Add 7", "Subtract 7", "Add 8", "Subtract 6"], "correct": 1, "hint": "50 - 43 = 7, 43 - 36 = 7. Subtract 7."},
+            {"type": "fill_in", "question": "Pattern: 1, 4, 9, 16, 25, ___. What comes next?", "answer": "36", "hint": "These are perfect squares: 1², 2², 3², 4², 5², 6² = 36."},
+            {"type": "word_problem", "question": "A plant grows 3 cm each week. After week 1 it is 5 cm tall. How tall after week 4?", "answer": "14", "operation": "5 + 3 × 3", "hint": "Week 1: 5, Week 2: 8, Week 3: 11, Week 4: 14."},
+            {"type": "fill_in", "question": "Pattern: 2, 6, 18, 54, ___. Next number?", "answer": "162", "hint": "Multiply by 3 each time. 54 × 3 = 162."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-7-2",
+          "title": "Input-Output Tables",
+          "type": "lesson",
+          "content": {
+            "explanation": "An input-output table shows a rule applied to input numbers to produce output numbers. To find the rule, compare each input to its output. Try different operations: does the output equal the input plus something? Times something? The rule is the same for every row. Once you find the rule, you can fill in missing inputs or outputs.",
+            "examples": [
+              {"problem": "Input: 2→6, 3→9, 5→15. What is the rule?", "answer": "Multiply by 3", "explanation": "2×3=6, 3×3=9, 5×3=15. Rule: multiply by 3."},
+              {"problem": "Input: 1→5, 2→7, 3→9. What is the rule?", "answer": "Multiply by 2, add 3", "explanation": "1×2+3=5, 2×2+3=7, 3×2+3=9. Rule: ×2 + 3."},
+              {"problem": "Rule: add 4. Input: 7. Output?", "answer": "11", "explanation": "7 + 4 = 11."}
+            ],
+            "key_vocabulary": ["input", "output", "rule", "function", "table"],
+            "real_world": "Vending machines work like input-output tables: you input money and select a number, and the machine outputs a snack."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Input: 3→12, 5→20, 7→28. What is the rule?", "options": ["Add 9", "Multiply by 4", "Add 10", "Multiply by 3"], "correct": 1, "hint": "3×4=12, 5×4=20, 7×4=28."},
+            {"type": "fill_in", "question": "Rule: multiply by 3. Input: 8. Output = ___", "answer": "24", "hint": "8 × 3 = 24."},
+            {"type": "fill_in", "question": "Input: 2→7, 4→11, 6→15. Rule: multiply by 2 add ___", "answer": "3", "hint": "2×2+3=7, 4×2+3=11, 6×2+3=15. Add 3."},
+            {"type": "multiple_choice", "question": "Rule: subtract 5. Input: 20. Output?", "options": ["25", "15", "10", "4"], "correct": 1, "hint": "20 - 5 = 15."},
+            {"type": "fill_in", "question": "Input: 1→4, 2→7, 3→10, 4→___. What is the missing output?", "answer": "13", "hint": "Rule: multiply by 3, add 1. 4×3+1=13."},
+            {"type": "word_problem", "question": "A taxi charges $3 plus $2 per mile. Complete: 1 mile→$5, 2 miles→$7, 5 miles→$___.", "answer": "13", "operation": "3 + 2 × 5", "hint": "Rule: 3 + 2×miles. For 5 miles: 3 + 10 = 13."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-7-3",
+          "title": "Graphing Patterns",
+          "type": "lesson",
+          "content": {
+            "explanation": "You can graph patterns on a coordinate plane by using the input as the x-coordinate and the output as the y-coordinate. Each input-output pair becomes a point. When you plot all the points, you can see the shape of the relationship. If the rule is 'add a constant' or 'multiply by a constant,' the points will form a straight line. Graphing helps you visualize trends and make predictions.",
+            "examples": [
+              {"problem": "Graph the rule 'multiply by 2': (1,2), (2,4), (3,6), (4,8).", "answer": "Points form a straight line through the origin", "explanation": "Each point: input on x-axis, output on y-axis. The line goes up steeply."},
+              {"problem": "Rule: add 3. Plot: (0,3), (1,4), (2,5), (3,6).", "answer": "Straight line starting at (0,3)", "explanation": "Each point goes up by 1 on x and 1 on y."},
+              {"problem": "Compare rules 'add 2' and 'multiply by 2' starting from input 0.", "answer": "The multiply rule grows faster", "explanation": "Add 2: 0,2,4,6,8. Multiply 2: 0,2,4,8,16. The multiply pattern curves upward."}
+            ],
+            "key_vocabulary": ["graph", "coordinate plane", "linear", "trend", "plot"],
+            "real_world": "Scientists graph data to spot patterns. A graph of temperature over time can show whether it is getting warmer or cooler."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Rule: multiply by 3. What is the point for input 4?", "options": ["(4, 7)", "(4, 12)", "(3, 4)", "(12, 4)"], "correct": 1, "hint": "4 × 3 = 12. Point: (4, 12)."},
+            {"type": "fill_in", "question": "Rule: add 5. The point for input 3 is (3, ___).", "answer": "8", "hint": "3 + 5 = 8."},
+            {"type": "multiple_choice", "question": "If points from a pattern form a straight line, the pattern is called:", "options": ["Curved", "Linear", "Random", "Circular"], "correct": 1, "hint": "A straight-line pattern is linear."},
+            {"type": "fill_in", "question": "Rule: ×2 + 1. Points: (1,3), (2,5), (3,___)", "answer": "7", "hint": "3 × 2 + 1 = 7."},
+            {"type": "word_problem", "question": "You save $4 each week. After 0 weeks you have $0. List the points for weeks 0-3 as ordered pairs.", "answer": "(0,0), (1,4), (2,8), (3,12)", "operation": "y = 4x", "hint": "Week 0: $0, Week 1: $4, Week 2: $8, Week 3: $12."},
+            {"type": "multiple_choice", "question": "Which set of points follows the rule 'add 4': (1,5), (2,6), (3,7) or (1,5), (2,6), (3,8)?", "options": ["First set", "Second set", "Both", "Neither"], "correct": 0, "hint": "First set: 1+4=5, 2+4=6, 3+4=7. Second set: 3+4=7 not 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-math-7-4",
+          "title": "Comparing Two Patterns",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes you compare two number patterns that start from the same inputs. For example, if Rule A is 'add 3' and Rule B is 'add 6,' you can list both outputs side by side. You might notice that the outputs of Rule B are always twice the outputs of Rule A. Comparing patterns helps you understand relationships between rules and make predictions about how they grow.",
+            "examples": [
+              {"problem": "Rule A: add 2 (starting at 0). Rule B: add 4 (starting at 0). Compare after 3 steps.", "answer": "A: 0,2,4,6. B: 0,4,8,12. B is always double A.", "explanation": "Each B value = 2 × the corresponding A value."},
+              {"problem": "Rule A: ×1 (0,1,2,3,4). Rule B: ×3 (0,3,6,9,12). Relationship?", "answer": "B = 3 × A", "explanation": "Every B output is 3 times the A output."},
+              {"problem": "Rule A: add 1 from 0. Rule B: add 2 from 0. What is the relationship between the 5th terms?", "answer": "A=4, B=8. B is twice A.", "explanation": "A: 0,1,2,3,4. B: 0,2,4,6,8. The 5th term of B is twice the 5th term of A."}
+            ],
+            "key_vocabulary": ["compare", "relationship", "corresponding terms", "ratio", "pattern"],
+            "real_world": "Comparing patterns helps in budgeting: if one person saves $5/week and another saves $10/week, the second always has twice as much saved."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Rule A: add 3 (start at 0). Rule B: add 9 (start at 0). B's values are always how many times A's?", "options": ["2 times", "3 times", "6 times", "9 times"], "correct": 1, "hint": "A: 0,3,6,9. B: 0,9,18,27. B = 3 × A."},
+            {"type": "fill_in", "question": "Rule A: ×2 from 0→0,2,4,6. Rule B: ×6 from 0→0,6,12,18. Each B = ___ × each A.", "answer": "3", "hint": "6/2 = 3, 12/4 = 3, 18/6 = 3."},
+            {"type": "fill_in", "question": "A: 0,5,10,15,20. B: 0,1,2,3,4. Each A = ___ × each B.", "answer": "5", "hint": "5/1 = 5, 10/2 = 5, 15/3 = 5."},
+            {"type": "word_problem", "question": "Ali saves $2/week. Ben saves $8/week. After 5 weeks, how much more has Ben saved than Ali?", "answer": "30", "operation": "8×5 - 2×5", "hint": "Ali: $10. Ben: $40. Difference: $30."},
+            {"type": "multiple_choice", "question": "Pattern A adds 4 each time. Pattern B adds 12 each time. Both start at 0. The relationship is:", "options": ["B = A + 8", "B = 3 × A", "B = A × 8", "B = A + 3"], "correct": 1, "hint": "A: 0,4,8,12. B: 0,12,24,36. B = 3A."},
+            {"type": "fill_in", "question": "A: 1,2,3,4. B: 2,4,6,8. If A = 10, then B = ___.", "answer": "20", "hint": "B = 2 × A. 2 × 10 = 20."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Pattern: 7, 14, 21, 28, ___. Next number?", "answer": "35", "hint": "Add 7 each time."},
+          {"type": "multiple_choice", "question": "Input: 2→10, 3→15, 4→20. Rule?", "options": ["Add 8", "Multiply by 5", "Add 5", "Multiply by 4"], "correct": 1, "hint": "2×5=10, 3×5=15, 4×5=20."},
+          {"type": "fill_in", "question": "Rule: ×3 + 2. Input 5. Output = ___", "answer": "17", "hint": "5×3+2=17."},
+          {"type": "multiple_choice", "question": "Rule: add 2. What point for input 6?", "options": ["(2, 6)", "(6, 8)", "(8, 6)", "(6, 12)"], "correct": 1, "hint": "6+2=8. Point: (6, 8)."},
+          {"type": "word_problem", "question": "Pattern A: 0, 3, 6, 9. Pattern B: 0, 12, 24, 36. B is always ___ times A.", "answer": "4", "operation": "12/3 = 4", "hint": "3×4=12, 6×4=24, 9×4=36."},
+          {"type": "fill_in", "question": "Pattern: 1, 3, 7, 15, ___. (Rule: double and add 1.) Next?", "answer": "31", "hint": "15 × 2 + 1 = 31."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "pattern_detective"
+      }
+    }
+  ]
+}

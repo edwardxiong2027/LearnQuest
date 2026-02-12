@@ -1,0 +1,3612 @@
+{
+  "grade": 5,
+  "subject": "science",
+  "units": [
+    {
+      "id": "5-sci-1",
+      "title": "Ecosystems & Food Webs",
+      "description": "Dive deep into ecosystems to understand how organisms interact through complex food webs, how energy and matter cycle through living systems, and what happens when ecosystems are disturbed.",
+      "lessons": [
+        {
+          "id": "5-sci-1-1",
+          "title": "Parts of an Ecosystem",
+          "type": "lesson",
+          "content": {
+            "explanation": "An ecosystem includes all the living things (biotic factors) and nonliving things (abiotic factors) in an area and how they interact. Biotic factors are anything alive or once alive: plants, animals, fungi, bacteria, and even dead leaves on the ground. Abiotic factors are nonliving parts of the environment: sunlight, temperature, water, air, soil, and minerals. Every ecosystem has both, and they work together. For example, plants (biotic) need sunlight and water (abiotic) to grow. Fish (biotic) need clean water at the right temperature (abiotic) to survive. A habitat is the specific place where an organism lives and finds food, water, shelter, and space. A niche is the role an organism plays in its ecosystem \u2014 what it eats, what eats it, and how it interacts with other organisms. No two species in the same ecosystem can have exactly the same niche for long, because they would compete until one wins out.",
+            "examples": [
+              {
+                "problem": "Identify the biotic and abiotic factors in a pond ecosystem.",
+                "answer": "Biotic: fish, frogs, algae, lily pads, bacteria, insects. Abiotic: water, sunlight, temperature, dissolved oxygen, mud at the bottom, rocks.",
+                "explanation": "Biotic means living or once living. Abiotic means nonliving. Both types of factors are essential for the ecosystem to function."
+              },
+              {
+                "problem": "What is the difference between a habitat and a niche?",
+                "answer": "A habitat is WHERE an organism lives (like a tree for a bird). A niche is the ROLE it plays (what it eats, when it is active, how it interacts with others).",
+                "explanation": "Think of it this way: your habitat is your home address, and your niche is your job description in the ecosystem."
+              }
+            ],
+            "key_vocabulary": [
+              "ecosystem",
+              "biotic",
+              "abiotic",
+              "habitat",
+              "niche",
+              "organism",
+              "interact",
+              "environment"
+            ],
+            "real_world": "Your schoolyard is an ecosystem! The grass, trees, birds, and insects are biotic factors. The sunlight, rain, soil, and temperature are abiotic factors. Even the puddles after rain create tiny ecosystems where organisms live."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is an abiotic factor?",
+              "options": [
+                "A mushroom",
+                "Sunlight",
+                "A tree",
+                "Bacteria"
+              ],
+              "correct": 1,
+              "hint": "Abiotic means nonliving. Which of these is not alive?"
+            },
+            {
+              "type": "fill_in",
+              "question": "Living things in an ecosystem are called ___ factors.",
+              "answer": "biotic",
+              "hint": "The prefix 'bio-' means life."
+            },
+            {
+              "type": "true_false",
+              "question": "A habitat is the role an organism plays in its ecosystem.",
+              "answer": false,
+              "hint": "A habitat is where an organism lives. The role it plays is called something else."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a biotic factor?",
+              "options": [
+                "Temperature",
+                "Rocks",
+                "A frog",
+                "Water"
+              ],
+              "correct": 2,
+              "hint": "Biotic means living or once living."
+            },
+            {
+              "type": "fill_in",
+              "question": "The specific role an organism plays in its ecosystem is called its ___.",
+              "answer": "niche",
+              "hint": "It describes what the organism eats, when it is active, and how it interacts with others."
+            },
+            {
+              "type": "true_false",
+              "question": "An ecosystem includes both living and nonliving things.",
+              "answer": true,
+              "hint": "Ecosystems are made up of biotic AND abiotic factors working together."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why can't two species have exactly the same niche in an ecosystem for a long time?",
+              "options": [
+                "They would become the same species",
+                "They would compete until one wins out",
+                "They would both grow larger",
+                "They would share food equally"
+              ],
+              "correct": 1,
+              "hint": "If two species need exactly the same resources, they will compete for them."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-1-2",
+          "title": "Energy Flow in Food Webs",
+          "type": "lesson",
+          "content": {
+            "explanation": "In every ecosystem, energy flows from the sun to producers, then to consumers at different levels. A food web shows all the feeding relationships in an ecosystem. Unlike a simple food chain, a food web has many overlapping paths. Energy enters the ecosystem when producers like plants and algae use photosynthesis to convert sunlight into chemical energy stored in glucose. Primary consumers (herbivores) eat the producers and get some of that energy. Secondary consumers (carnivores or omnivores) eat the primary consumers. Tertiary consumers eat the secondary consumers. At each level, only about 10 percent of the energy is passed on to the next level. The rest is used by the organism for life processes like moving, breathing, and keeping warm, or is lost as heat. This is called the 10 percent rule. Because of this energy loss, food webs can only support a few levels of consumers.",
+            "examples": [
+              {
+                "problem": "If a plant captures 10,000 units of energy from the sun, how much energy reaches a secondary consumer?",
+                "answer": "About 100 units. The plant passes 10% (1,000 units) to the primary consumer, which then passes 10% of that (100 units) to the secondary consumer.",
+                "explanation": "At each level, 90% of energy is used or lost as heat. Only 10% moves up."
+              },
+              {
+                "problem": "Why does a food web give a more accurate picture than a food chain?",
+                "answer": "A food web shows that most organisms eat more than one thing and are eaten by more than one predator. A food chain only shows one linear path.",
+                "explanation": "Real ecosystems have complex connections. A hawk might eat mice, snakes, and rabbits, not just one type of prey."
+              }
+            ],
+            "key_vocabulary": [
+              "food web",
+              "energy flow",
+              "10 percent rule",
+              "photosynthesis",
+              "chemical energy",
+              "producer",
+              "primary consumer",
+              "secondary consumer",
+              "tertiary consumer"
+            ],
+            "real_world": "This is why it takes about 10 pounds of grain to produce 1 pound of beef. The cow uses most of the energy from the grain for its own body. Only a small fraction becomes meat that humans can eat."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "About what percentage of energy passes from one level of a food web to the next?",
+              "options": [
+                "50%",
+                "90%",
+                "10%",
+                "25%"
+              ],
+              "correct": 2,
+              "hint": "Most energy is used by the organism or lost as heat. Only a small fraction moves up."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process by which plants convert sunlight into food energy is called ___.",
+              "answer": "photosynthesis",
+              "hint": "'Photo' means light, 'synthesis' means putting together."
+            },
+            {
+              "type": "true_false",
+              "question": "A food web has only one path of energy flow.",
+              "answer": false,
+              "hint": "A food web has many overlapping paths and connections, unlike a single food chain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why are there more herbivores than top predators in an ecosystem?",
+              "options": [
+                "Herbivores are smaller",
+                "Energy decreases at each level so fewer organisms can be supported at the top",
+                "Top predators eat less food",
+                "Herbivores reproduce faster"
+              ],
+              "correct": 1,
+              "hint": "Think about the 10 percent rule."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a grasshopper eats grass and a frog eats the grasshopper, the frog is a:",
+              "options": [
+                "Producer",
+                "Primary consumer",
+                "Secondary consumer",
+                "Decomposer"
+              ],
+              "correct": 2,
+              "hint": "The grasshopper is the primary consumer. What level eats the primary consumer?"
+            },
+            {
+              "type": "true_false",
+              "question": "Energy increases as it moves up through a food web.",
+              "answer": false,
+              "hint": "Energy is lost at each level due to the 10 percent rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "Animals that eat primary consumers are called ___ consumers.",
+              "answer": "secondary",
+              "hint": "Primary is first. The next level up is..."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-1-3",
+          "title": "Decomposers and Nutrient Cycling",
+          "type": "lesson",
+          "content": {
+            "explanation": "While energy flows in one direction through an ecosystem (from sun to producers to consumers), matter and nutrients cycle over and over. Decomposers are the recyclers of nature. When plants and animals die, decomposers like bacteria, fungi, worms, and some insects break down the dead material into simpler substances. These nutrients \u2014 nitrogen, phosphorus, carbon, and others \u2014 return to the soil, water, and air. Producers then absorb these nutrients and use them to grow, starting the cycle again. Without decomposers, dead organisms would pile up, and nutrients would be locked away. Eventually, producers would run out of the nutrients they need, and the entire ecosystem would collapse. Scavengers like vultures and crabs also help by eating dead animals before decomposers finish the job.",
+            "examples": [
+              {
+                "problem": "How are decomposers different from scavengers?",
+                "answer": "Scavengers are animals that eat large pieces of dead organisms (like vultures eating a dead animal). Decomposers break down the remaining material into tiny nutrients that return to the soil.",
+                "explanation": "Scavengers start the breakdown process; decomposers finish it by returning nutrients to the ecosystem."
+              },
+              {
+                "problem": "Describe how nutrients cycle through an ecosystem.",
+                "answer": "Plants absorb nutrients from soil. Animals eat plants and get those nutrients. When organisms die, decomposers break them down and return nutrients to the soil. Plants absorb the nutrients again.",
+                "explanation": "Unlike energy, which flows in one direction, matter and nutrients are recycled over and over in a continuous loop."
+              }
+            ],
+            "key_vocabulary": [
+              "decomposer",
+              "nutrient cycling",
+              "nitrogen",
+              "phosphorus",
+              "carbon",
+              "scavenger",
+              "bacteria",
+              "fungi",
+              "matter"
+            ],
+            "real_world": "Composting is nutrient cycling in action! When you compost food scraps and yard waste, decomposers turn it into rich soil called humus. Gardeners add this to their gardens to help plants grow better."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What do decomposers do in an ecosystem?",
+              "options": [
+                "They produce food using sunlight",
+                "They hunt other animals",
+                "They break down dead organisms and return nutrients to the soil",
+                "They compete with producers"
+              ],
+              "correct": 2,
+              "hint": "Decomposers are nature's recyclers."
+            },
+            {
+              "type": "fill_in",
+              "question": "Unlike energy, ___ and nutrients are recycled over and over in an ecosystem.",
+              "answer": "matter",
+              "hint": "This is the stuff that makes up all physical things."
+            },
+            {
+              "type": "true_false",
+              "question": "Without decomposers, nutrients would stay locked inside dead organisms.",
+              "answer": true,
+              "hint": "Decomposers release the nutrients so producers can use them again."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of these is a decomposer?",
+              "options": [
+                "Eagle",
+                "Mushroom",
+                "Deer",
+                "Sunflower"
+              ],
+              "correct": 1,
+              "hint": "Mushrooms are fungi that grow on dead material and break it down."
+            },
+            {
+              "type": "true_false",
+              "question": "Energy cycles through an ecosystem the same way nutrients do.",
+              "answer": false,
+              "hint": "Energy flows in ONE direction. Nutrients cycle around and around."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A vulture that eats dead animals is called a:",
+              "options": [
+                "Producer",
+                "Decomposer",
+                "Scavenger",
+                "Primary consumer"
+              ],
+              "correct": 2,
+              "hint": "These animals eat dead organisms but do not break them down into soil nutrients."
+            },
+            {
+              "type": "fill_in",
+              "question": "Three important nutrients that cycle through ecosystems are nitrogen, phosphorus, and ___.",
+              "answer": "carbon",
+              "hint": "This element is the basis of all life on Earth and is part of CO2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What would happen if all decomposers disappeared from an ecosystem?",
+              "options": [
+                "Nothing would change",
+                "Dead organisms would pile up and nutrients would not be recycled",
+                "More plants would grow",
+                "Animals would get more energy"
+              ],
+              "correct": 1,
+              "hint": "Without decomposers, who would break down dead material?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-1-4",
+          "title": "Ecosystem Changes and Human Impact",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ecosystems are always changing. Some changes are natural, like wildfires that clear old growth so new plants can sprout, or seasonal changes that affect animal behavior. Other changes are caused by humans and can seriously harm ecosystems. Pollution puts harmful substances into air, water, and soil. Deforestation destroys habitats when forests are cut down for farming or building. Overfishing removes too many fish from the ocean, disrupting food webs. Climate change is causing temperatures to rise, which shifts weather patterns and threatens species that cannot adapt fast enough. Invasive species introduced by humans can outcompete native species. However, humans can also help ecosystems. Conservation efforts protect habitats and endangered species. Reforestation plants new trees. Wildlife corridors connect separated habitats so animals can move safely.",
+            "examples": [
+              {
+                "problem": "How can deforestation affect a food web?",
+                "answer": "Cutting down trees removes producers from the food web. Herbivores that eat those plants lose their food source. Predators that eat those herbivores also lose food. The entire food web can collapse.",
+                "explanation": "Every organism in a food web is connected. Removing producers at the base affects every level above."
+              },
+              {
+                "problem": "Give an example of a positive human impact on ecosystems.",
+                "answer": "Creating wildlife corridors that connect separated habitats allows animals to move between areas to find food, mates, and shelter, helping maintain healthy populations.",
+                "explanation": "Humans can help repair ecosystem damage through conservation, reforestation, and pollution cleanup."
+              }
+            ],
+            "key_vocabulary": [
+              "pollution",
+              "deforestation",
+              "overfishing",
+              "climate change",
+              "invasive species",
+              "conservation",
+              "reforestation",
+              "wildlife corridor",
+              "endangered species"
+            ],
+            "real_world": "Many communities have recycling programs and clean-up days for local parks, rivers, and beaches. These efforts reduce pollution and help local ecosystems stay healthy. You can help by picking up litter and planting native plants!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a human-caused change to ecosystems?",
+              "options": [
+                "A hurricane",
+                "Deforestation",
+                "A volcanic eruption",
+                "A drought"
+              ],
+              "correct": 1,
+              "hint": "Which one involves humans cutting down trees?"
+            },
+            {
+              "type": "fill_in",
+              "question": "Planting new trees to replace ones that were cut down is called ___.",
+              "answer": "reforestation",
+              "hint": "'Re-' means again. 'Forest' is in the word."
+            },
+            {
+              "type": "true_false",
+              "question": "Humans can only harm ecosystems and cannot help them.",
+              "answer": false,
+              "hint": "Think about conservation, reforestation, and wildlife corridors."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does pollution affect an ecosystem?",
+              "options": [
+                "It adds helpful nutrients",
+                "It puts harmful substances into air, water, or soil",
+                "It makes organisms stronger",
+                "It only affects nonliving things"
+              ],
+              "correct": 1,
+              "hint": "Pollution introduces harmful substances that can damage living things."
+            },
+            {
+              "type": "true_false",
+              "question": "Invasive species usually have many natural predators in their new environment.",
+              "answer": false,
+              "hint": "That is exactly why invasive species become a problem \u2014 nothing controls their population."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is a wildlife corridor?",
+              "options": [
+                "A path through a zoo",
+                "A connection between separated habitats for animals",
+                "A type of highway",
+                "A fence to keep animals in"
+              ],
+              "correct": 1,
+              "hint": "A corridor connects two places. For wildlife, it connects habitats."
+            },
+            {
+              "type": "fill_in",
+              "question": "A species at risk of dying out completely is called an ___ species.",
+              "answer": "endangered",
+              "hint": "These species are in danger of becoming extinct if not protected."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is overfishing harmful to ocean ecosystems?",
+              "options": [
+                "It makes the ocean warmer",
+                "It removes too many fish, disrupting food webs",
+                "It adds more fish",
+                "It only affects humans"
+              ],
+              "correct": 1,
+              "hint": "If too many fish are removed, what happens to the animals that depend on them?"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-1-5",
+          "title": "Symbiosis: How Organisms Live Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "Organisms in an ecosystem interact in many ways beyond just eating each other. Symbiosis is a close, long-term relationship between two different species. There are three main types. Mutualism is when both organisms benefit. For example, bees get nectar from flowers, and in return they spread pollen so flowers can reproduce. Commensalism is when one organism benefits and the other is neither helped nor harmed. For example, a remora fish attaches to a shark and eats leftover scraps \u2014 the remora benefits, and the shark is not affected. Parasitism is when one organism benefits and the other is harmed. For example, a tick attaches to a dog and feeds on its blood. The tick benefits, but the dog is harmed. Understanding these relationships helps us see how deeply connected all living things are.",
+            "examples": [
+              {
+                "problem": "A clownfish lives among the stinging tentacles of a sea anemone. The clownfish is protected from predators, and the anemone gets food scraps. What type of symbiosis is this?",
+                "answer": "Mutualism, because both organisms benefit. The clownfish gets protection and the anemone gets food.",
+                "explanation": "In mutualism, both species gain an advantage from the relationship."
+              },
+              {
+                "problem": "A bird builds a nest in a tree. The bird benefits from shelter, and the tree is not affected. What type of symbiosis is this?",
+                "answer": "Commensalism, because the bird benefits and the tree is neither helped nor harmed.",
+                "explanation": "In commensalism, one species benefits and the other is unaffected."
+              }
+            ],
+            "key_vocabulary": [
+              "symbiosis",
+              "mutualism",
+              "commensalism",
+              "parasitism",
+              "parasite",
+              "host",
+              "benefit",
+              "relationship"
+            ],
+            "real_world": "You have symbiosis happening inside you right now! Billions of helpful bacteria live in your intestines. They help you digest food, and you provide them a warm place to live with a steady food supply. That is mutualism!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In mutualism, how many organisms benefit?",
+              "options": [
+                "None",
+                "One",
+                "Both",
+                "Only the larger one"
+              ],
+              "correct": 2,
+              "hint": "'Mutual' means shared. Both organisms share the benefits."
+            },
+            {
+              "type": "fill_in",
+              "question": "A close, long-term relationship between two different species is called ___.",
+              "answer": "symbiosis",
+              "hint": "This word comes from Greek and means 'living together.'"
+            },
+            {
+              "type": "true_false",
+              "question": "In parasitism, both organisms benefit from the relationship.",
+              "answer": false,
+              "hint": "In parasitism, one organism benefits and the other is harmed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A tapeworm lives inside a cow and absorbs nutrients from the cow's food. What type of symbiosis is this?",
+              "options": [
+                "Mutualism",
+                "Commensalism",
+                "Parasitism",
+                "Competition"
+              ],
+              "correct": 2,
+              "hint": "The tapeworm benefits and the cow is harmed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Barnacles attach to a whale and get carried to food-rich waters. The whale is not affected. This is:",
+              "options": [
+                "Mutualism",
+                "Commensalism",
+                "Parasitism",
+                "Predation"
+              ],
+              "correct": 1,
+              "hint": "One benefits and the other is not affected."
+            },
+            {
+              "type": "true_false",
+              "question": "Bees and flowers have a mutualistic relationship.",
+              "answer": true,
+              "hint": "Bees get nectar, and flowers get their pollen spread. Both benefit."
+            },
+            {
+              "type": "fill_in",
+              "question": "In parasitism, the organism that is harmed is called the ___.",
+              "answer": "host",
+              "hint": "The parasite lives on or inside this organism."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of commensalism?",
+              "options": [
+                "A tick feeding on a dog",
+                "Bees pollinating flowers",
+                "A bird nesting in a tree without affecting it",
+                "A lion eating a zebra"
+              ],
+              "correct": 2,
+              "hint": "In commensalism, one benefits and the other is not affected at all."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which of the following is an abiotic factor?",
+            "options": [
+              "A tree",
+              "A mushroom",
+              "Water",
+              "A bird"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Only about 10% of energy passes from one level of a food web to the next.",
+            "answer": true
+          },
+          {
+            "type": "fill_in",
+            "question": "Organisms that break down dead material and return nutrients to the soil are called ___.",
+            "answer": "decomposers"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What type of symbiosis benefits both organisms?",
+            "options": [
+              "Parasitism",
+              "Commensalism",
+              "Mutualism",
+              "Competition"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Deforestation can cause a food web to collapse.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The specific role an organism plays in its ecosystem is called its:",
+            "options": [
+              "Habitat",
+              "Niche",
+              "Biome",
+              "Population"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A close, long-term relationship between two different species is called ___.",
+            "answer": "symbiosis"
+          },
+          {
+            "type": "true_false",
+            "question": "Matter cycles through an ecosystem, but energy flows in one direction.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A remora fish rides on a shark and eats scraps. The shark is not affected. This is:",
+            "options": [
+              "Mutualism",
+              "Parasitism",
+              "Commensalism",
+              "Predation"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which human activity helps ecosystems?",
+            "options": [
+              "Deforestation",
+              "Overfishing",
+              "Reforestation",
+              "Pollution"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ecosystem_expert"
+      }
+    },
+    {
+      "id": "5-sci-2",
+      "title": "Properties of Matter",
+      "description": "Explore what matter is made of, learn about physical and chemical properties, and discover how matter can change forms through physical and chemical changes.",
+      "lessons": [
+        {
+          "id": "5-sci-2-1",
+          "title": "What Is Matter?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Everything around you is made of matter. Matter is anything that has mass and takes up space (has volume). Your desk, the air you breathe, water, rocks, and even you are all made of matter. The amount of matter in an object is its mass, measured in grams or kilograms. The amount of space an object takes up is its volume, measured in liters or cubic centimeters. All matter is made of tiny particles called atoms. Atoms are so small you cannot see them even with most microscopes. When atoms join together, they form molecules. A molecule of water is made of two hydrogen atoms and one oxygen atom (H2O). Matter exists in three main states: solid, liquid, and gas. Solids have a definite shape and volume. Liquids have a definite volume but take the shape of their container. Gases have no definite shape or volume and spread out to fill any container.",
+            "examples": [
+              {
+                "problem": "Is air made of matter? How do you know?",
+                "answer": "Yes! Air has mass (you can weigh it) and takes up space (blow up a balloon and the air fills it). Air is matter in the gas state.",
+                "explanation": "Even though you cannot see air, it is still matter because it has mass and volume."
+              },
+              {
+                "problem": "How are solids, liquids, and gases different?",
+                "answer": "Solids have a definite shape and volume. Liquids have a definite volume but take the shape of their container. Gases have no definite shape or volume.",
+                "explanation": "The difference is in how the particles move. In solids, particles vibrate in place. In liquids, they slide past each other. In gases, they move freely."
+              }
+            ],
+            "key_vocabulary": [
+              "matter",
+              "mass",
+              "volume",
+              "atom",
+              "molecule",
+              "solid",
+              "liquid",
+              "gas",
+              "states of matter",
+              "particle"
+            ],
+            "real_world": "When you blow up a balloon, you are filling it with matter (air). The balloon gets bigger because the air particles take up space. If you weigh the balloon before and after, the inflated balloon is heavier because air has mass!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is matter?",
+              "options": [
+                "Only things you can see",
+                "Anything that has mass and takes up space",
+                "Only solid objects",
+                "Energy from the sun"
+              ],
+              "correct": 1,
+              "hint": "Matter includes solids, liquids, AND gases."
+            },
+            {
+              "type": "fill_in",
+              "question": "The amount of matter in an object is called its ___.",
+              "answer": "mass",
+              "hint": "This is measured in grams or kilograms."
+            },
+            {
+              "type": "true_false",
+              "question": "Gases are not matter because you cannot see them.",
+              "answer": false,
+              "hint": "Gases have mass and take up space. You can feel wind pushing against you."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which state of matter has a definite shape and a definite volume?",
+              "options": [
+                "Gas",
+                "Liquid",
+                "Solid",
+                "Plasma"
+              ],
+              "correct": 2,
+              "hint": "A rock keeps its shape no matter what container you put it in."
+            },
+            {
+              "type": "fill_in",
+              "question": "The smallest building blocks of matter are called ___.",
+              "answer": "atoms",
+              "hint": "These are so tiny that you cannot see them with most microscopes."
+            },
+            {
+              "type": "true_false",
+              "question": "A liquid takes the shape of its container.",
+              "answer": true,
+              "hint": "Pour water into a cup, then into a bowl. It changes shape but keeps the same volume."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A water molecule (H2O) is made of:",
+              "options": [
+                "Two oxygen atoms and one hydrogen atom",
+                "Two hydrogen atoms and one oxygen atom",
+                "Three hydrogen atoms",
+                "One hydrogen atom and one oxygen atom"
+              ],
+              "correct": 1,
+              "hint": "H2 means two hydrogen atoms. O means one oxygen atom."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which state of matter has no definite shape and no definite volume?",
+              "options": [
+                "Solid",
+                "Liquid",
+                "Gas",
+                "All of the above"
+              ],
+              "correct": 2,
+              "hint": "This state spreads out to fill any container completely."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-2-2",
+          "title": "Physical Properties of Matter",
+          "type": "lesson",
+          "content": {
+            "explanation": "Physical properties are characteristics of matter that you can observe or measure without changing what the substance is made of. Color, shape, size, texture, and odor are physical properties you can observe with your senses. Other physical properties can be measured. Density is how much mass is packed into a certain volume, calculated by dividing mass by volume (density = mass / volume). An object with high density has a lot of mass packed into a small space, like a rock. An object with low density has less mass spread over more space, like a sponge. Objects denser than water sink; objects less dense than water float. Boiling point is the temperature at which a liquid becomes a gas. Melting point is the temperature at which a solid becomes a liquid. These are all physical properties because measuring them does not change what the substance is.",
+            "examples": [
+              {
+                "problem": "A block of wood has a mass of 200 grams and a volume of 400 cubic centimeters. What is its density?",
+                "answer": "Density = mass / volume = 200 g / 400 cm3 = 0.5 g/cm3. Since water has a density of 1.0 g/cm3, this wood would float.",
+                "explanation": "Dividing mass by volume gives you density. If the density is less than 1.0 g/cm3, the object floats in water."
+              },
+              {
+                "problem": "Why does oil float on water?",
+                "answer": "Oil has a lower density than water. Oil is about 0.9 g/cm3 while water is 1.0 g/cm3. Less dense substances float on more dense substances.",
+                "explanation": "Density determines whether something sinks or floats."
+              }
+            ],
+            "key_vocabulary": [
+              "physical property",
+              "density",
+              "mass",
+              "volume",
+              "boiling point",
+              "melting point",
+              "texture",
+              "observe",
+              "measure"
+            ],
+            "real_world": "Ships made of steel can float because they are designed with a hollow shape that gives the whole ship a density less than water. Even though steel is denser than water, the air inside the ship brings down the overall density!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a physical property?",
+              "options": [
+                "Flammability",
+                "Color",
+                "Ability to rust",
+                "Reactivity with acid"
+              ],
+              "correct": 1,
+              "hint": "Physical properties can be observed without changing the substance."
+            },
+            {
+              "type": "fill_in",
+              "question": "Density is calculated by dividing ___ by volume.",
+              "answer": "mass",
+              "hint": "The formula is: density = ??? / volume."
+            },
+            {
+              "type": "true_false",
+              "question": "An object with a density less than 1.0 g/cm3 will sink in water.",
+              "answer": false,
+              "hint": "Water has a density of 1.0 g/cm3. Objects LESS dense than water float."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A rock has a mass of 300 g and a volume of 100 cm3. What is its density?",
+              "options": [
+                "3.0 g/cm3",
+                "30 g/cm3",
+                "0.3 g/cm3",
+                "300 g/cm3"
+              ],
+              "correct": 0,
+              "hint": "Density = mass / volume = 300 / 100 = ?"
+            },
+            {
+              "type": "true_false",
+              "question": "Measuring the boiling point of water changes it into a different substance.",
+              "answer": false,
+              "hint": "Boiling point is a physical property. Measuring it does not change the substance."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why does a wooden log float in water?",
+              "options": [
+                "Wood is heavier than water",
+                "Wood has a lower density than water",
+                "Wood repels water",
+                "Wood absorbs water and expands"
+              ],
+              "correct": 1,
+              "hint": "Objects that are LESS dense than water float."
+            },
+            {
+              "type": "fill_in",
+              "question": "The temperature at which a solid becomes a liquid is called its ___ point.",
+              "answer": "melting",
+              "hint": "Ice turns into water at 0 degrees Celsius at this point."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-2-3",
+          "title": "Chemical Properties and Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Chemical properties describe how a substance interacts with other substances to form new substances. Unlike physical properties, you cannot observe a chemical property without actually changing the substance. Flammability (whether something can burn), reactivity (how easily something reacts with other substances), and the ability to rust are all chemical properties. A chemical change occurs when substances react and form completely new substances with different properties. Signs that a chemical change has happened include: a color change that cannot be reversed, production of gas (bubbles), production of heat or light, formation of a precipitate (solid from mixing two liquids), and a new smell. Burning wood is a chemical change \u2014 the wood reacts with oxygen and becomes ash, carbon dioxide, and water vapor. You cannot turn the ash back into wood! Chemical changes are different from physical changes, which only change appearance.",
+            "examples": [
+              {
+                "problem": "Is rusting a physical change or a chemical change?",
+                "answer": "Rusting is a chemical change. Iron reacts with oxygen and water to form iron oxide (rust), which is a completely new substance with different properties.",
+                "explanation": "The iron atoms combine with oxygen atoms to create a new substance. You cannot simply reverse rusting to get shiny iron back."
+              },
+              {
+                "problem": "What are three signs that a chemical change has occurred?",
+                "answer": "Signs include: production of gas (bubbles), a color change that cannot be reversed, production of heat or light, formation of a new smell, or a precipitate forming.",
+                "explanation": "These signs tell you that new substances are being formed."
+              }
+            ],
+            "key_vocabulary": [
+              "chemical property",
+              "chemical change",
+              "flammability",
+              "reactivity",
+              "rust",
+              "precipitate",
+              "irreversible",
+              "react",
+              "substance"
+            ],
+            "real_world": "Baking a cake involves chemical changes! When you mix flour, eggs, sugar, and baking soda and heat them, chemical reactions create a fluffy cake. You cannot unmix a cake back into flour and eggs."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a chemical change?",
+              "options": [
+                "Cutting paper",
+                "Melting ice",
+                "Burning wood",
+                "Breaking a rock"
+              ],
+              "correct": 2,
+              "hint": "A chemical change creates a new substance."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ability of a substance to catch fire and burn is called ___.",
+              "answer": "flammability",
+              "hint": "This chemical property tells you whether a material can burn."
+            },
+            {
+              "type": "true_false",
+              "question": "You can observe a chemical property without changing the substance.",
+              "answer": false,
+              "hint": "To observe flammability, you must actually burn the substance."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a sign that a chemical change has occurred?",
+              "options": [
+                "The substance changes shape",
+                "The substance is cut into pieces",
+                "Gas bubbles are produced",
+                "The substance is dissolved in water"
+              ],
+              "correct": 2,
+              "hint": "New gas bubbles can indicate a new gaseous substance is being created."
+            },
+            {
+              "type": "true_false",
+              "question": "Cooking an egg is a physical change because it changes appearance.",
+              "answer": false,
+              "hint": "When you cook an egg, the proteins change permanently. You cannot uncook an egg!"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Iron combines with oxygen and water to form rust. This is an example of:",
+              "options": [
+                "A physical change",
+                "A chemical change",
+                "Evaporation",
+                "Condensation"
+              ],
+              "correct": 1,
+              "hint": "Rust (iron oxide) is a completely new substance different from iron."
+            },
+            {
+              "type": "fill_in",
+              "question": "When two liquids are mixed and a solid forms, the solid is called a ___.",
+              "answer": "precipitate",
+              "hint": "This is one sign of a chemical change."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a chemical property?",
+              "options": [
+                "Color",
+                "Density",
+                "Boiling point",
+                "Reactivity with acid"
+              ],
+              "correct": 3,
+              "hint": "Chemical properties describe how a substance interacts with other substances."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-2-4",
+          "title": "Physical Changes vs. Chemical Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "It is important to tell physical and chemical changes apart. A physical change alters the form or appearance of matter but does not change what the substance actually is. Cutting, tearing, folding, melting, freezing, dissolving, and boiling are all physical changes. When you cut paper, it is still paper \u2014 just smaller. When you melt ice, it becomes liquid water, but it is still H2O. You can usually reverse a physical change. Freeze the water, and you get ice again. A chemical change creates entirely new substances with different properties. The original substance is gone. Burning, cooking, rusting, and reactions that produce gas or light are chemical changes. You usually cannot reverse a chemical change. Here is a helpful test: ask yourself, 'Is it still the same substance?' If yes, it is a physical change. If a new substance was formed, it is a chemical change.",
+            "examples": [
+              {
+                "problem": "Is dissolving sugar in water a physical or chemical change?",
+                "answer": "Physical change. The sugar dissolves and seems to disappear, but it is still sugar. You can prove this by evaporating the water and the sugar crystals reappear.",
+                "explanation": "Dissolving is a physical change because the substance does not become something new."
+              },
+              {
+                "problem": "Is baking bread a physical or chemical change?",
+                "answer": "Chemical change. The ingredients react when heated. The yeast produces carbon dioxide gas (making the bread rise), and the proteins and starches change permanently.",
+                "explanation": "You cannot unbake bread back into flour and eggs. New substances are formed."
+              }
+            ],
+            "key_vocabulary": [
+              "physical change",
+              "chemical change",
+              "reversible",
+              "irreversible",
+              "dissolve",
+              "evaporate",
+              "substance",
+              "form"
+            ],
+            "real_world": "When a blacksmith heats iron and bends it into a horseshoe shape, that is a physical change \u2014 the iron is still iron. But if that horseshoe is left outside in the rain and rusts, that is a chemical change \u2014 the iron has become iron oxide!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a physical change?",
+              "options": [
+                "Burning a match",
+                "Rusting a nail",
+                "Melting butter",
+                "Cooking an egg"
+              ],
+              "correct": 2,
+              "hint": "Which change can be reversed? Melted butter can be refrozen."
+            },
+            {
+              "type": "true_false",
+              "question": "Dissolving salt in water is a chemical change.",
+              "answer": false,
+              "hint": "The salt is still salt \u2014 you can get it back by evaporating the water."
+            },
+            {
+              "type": "fill_in",
+              "question": "A change that creates a new substance is called a ___ change.",
+              "answer": "chemical",
+              "hint": "This type of change cannot usually be reversed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which question helps you decide if a change is physical or chemical?",
+              "options": [
+                "Did it change color?",
+                "Is it still the same substance?",
+                "Did it get bigger?",
+                "Did it happen fast?"
+              ],
+              "correct": 1,
+              "hint": "The key difference is whether a NEW substance is formed."
+            },
+            {
+              "type": "true_false",
+              "question": "Freezing water into ice is a chemical change.",
+              "answer": false,
+              "hint": "Ice is still H2O \u2014 the same substance, just in a different state."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a chemical change?",
+              "options": [
+                "Tearing paper",
+                "Chopping vegetables",
+                "A firework exploding",
+                "Mixing sand and water"
+              ],
+              "correct": 2,
+              "hint": "A firework produces light, heat, gas, and new colored substances."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is burning wood a chemical change?",
+              "options": [
+                "It changes shape",
+                "It gets smaller",
+                "New substances (ash, CO2, water vapor) are formed",
+                "It changes temperature"
+              ],
+              "correct": 2,
+              "hint": "After burning, the wood is gone and new substances remain."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-2-5",
+          "title": "Mixtures and Solutions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mixture is two or more substances combined together where each substance keeps its own properties. The substances in a mixture are not chemically bonded \u2014 they are just mixed together and can usually be separated. Trail mix is a mixture: you can pick out the nuts, raisins, and chocolate pieces. There are two main types. A heterogeneous mixture has parts you can see and distinguish, like a salad or oil and water. A homogeneous mixture looks the same throughout \u2014 you cannot see the individual parts. A solution is a special type of homogeneous mixture where one substance (the solute) dissolves completely in another substance (the solvent). Salt water is a solution: the salt (solute) dissolves in water (solvent). Mixtures can be separated using physical methods: filtering, evaporation, magnetism, or simply picking things apart. Since mixing is a physical change, no new substances are created.",
+            "examples": [
+              {
+                "problem": "How would you separate a mixture of sand and iron filings?",
+                "answer": "Use a magnet! The iron filings are magnetic and will stick to the magnet, leaving the sand behind.",
+                "explanation": "Each substance in a mixture keeps its own properties. Iron is magnetic; sand is not."
+              },
+              {
+                "problem": "Is lemonade a solution?",
+                "answer": "Yes. Sugar and lemon juice dissolve in water to form a homogeneous mixture. You cannot see the individual sugar or lemon molecules.",
+                "explanation": "In a solution, the solute dissolves in the solvent and the mixture appears uniform."
+              }
+            ],
+            "key_vocabulary": [
+              "mixture",
+              "solution",
+              "solute",
+              "solvent",
+              "heterogeneous",
+              "homogeneous",
+              "dissolve",
+              "filter",
+              "separate"
+            ],
+            "real_world": "The air you breathe is a solution! It is a homogeneous mixture of nitrogen (about 78%), oxygen (about 21%), and small amounts of other gases. You cannot see the different gases because they are completely mixed."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a mixture?",
+              "options": [
+                "A new substance formed by a chemical reaction",
+                "Two or more substances combined where each keeps its properties",
+                "A single pure substance",
+                "A liquid that has been boiled"
+              ],
+              "correct": 1,
+              "hint": "In a mixture, substances are combined but not chemically changed."
+            },
+            {
+              "type": "fill_in",
+              "question": "In a solution, the substance that dissolves is called the ___.",
+              "answer": "solute",
+              "hint": "In salt water, this is the salt."
+            },
+            {
+              "type": "true_false",
+              "question": "Oil and water form a homogeneous mixture.",
+              "answer": false,
+              "hint": "Oil floats on top of water \u2014 you can clearly see two layers."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which method could separate salt from water?",
+              "options": [
+                "Using a magnet",
+                "Filtering",
+                "Evaporation",
+                "Freezing"
+              ],
+              "correct": 2,
+              "hint": "If you let the water evaporate, what is left behind?"
+            },
+            {
+              "type": "fill_in",
+              "question": "A mixture that looks the same throughout is called a ___ mixture.",
+              "answer": "homogeneous",
+              "hint": "'Homo' means same. The mixture looks the same everywhere."
+            },
+            {
+              "type": "true_false",
+              "question": "Making a mixture is a chemical change.",
+              "answer": false,
+              "hint": "Each substance keeps its own properties. No new substances are formed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is a heterogeneous mixture?",
+              "options": [
+                "Salt water",
+                "A fruit salad",
+                "Air",
+                "Lemonade"
+              ],
+              "correct": 1,
+              "hint": "A heterogeneous mixture has parts you can see and distinguish."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a solution of sugar water, the water is the:",
+              "options": [
+                "Solute",
+                "Mixture",
+                "Precipitate",
+                "Solvent"
+              ],
+              "correct": 3,
+              "hint": "The solvent does the dissolving. Sugar dissolves IN the water."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Matter is anything that has:",
+            "options": [
+              "Color and shape",
+              "Mass and volume",
+              "Taste and smell",
+              "Energy and light"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Density equals mass divided by ___.",
+            "answer": "volume"
+          },
+          {
+            "type": "true_false",
+            "question": "Burning wood is a physical change.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is a sign of a chemical change?",
+            "options": [
+              "Changing shape",
+              "Dissolving in water",
+              "Production of gas bubbles",
+              "Melting"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "A solution is a type of homogeneous mixture.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is a chemical property?",
+            "options": [
+              "Color",
+              "Density",
+              "Flammability",
+              "Boiling point"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The substance that dissolves in a solution is called the ___.",
+            "answer": "solute"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is a physical change?",
+            "options": [
+              "Cooking an egg",
+              "Rusting iron",
+              "Freezing water",
+              "Burning paper"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "You can observe a chemical property without changing the substance.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An object with a density of 0.7 g/cm3 placed in water will:",
+            "options": [
+              "Sink",
+              "Float",
+              "Dissolve",
+              "Explode"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "matter_master"
+      }
+    },
+    {
+      "id": "5-sci-3",
+      "title": "Earth's Water Systems",
+      "description": "Explore the water cycle, learn about Earth's freshwater and saltwater resources, understand weather patterns, and discover how water shapes the landscape.",
+      "lessons": [
+        {
+          "id": "5-sci-3-1",
+          "title": "The Water Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The water cycle is the continuous movement of water on, above, and below Earth's surface. It is powered by energy from the sun. Evaporation occurs when the sun heats water in oceans, lakes, and rivers, turning liquid water into water vapor (gas) that rises into the atmosphere. Transpiration is when plants release water vapor through their leaves. Condensation happens when water vapor cools as it rises and forms tiny water droplets that cling to dust particles, creating clouds. Precipitation occurs when water droplets in clouds combine and become heavy enough to fall as rain, snow, sleet, or hail. Collection happens when water that falls collects in oceans, lakes, rivers, and underground (groundwater). Then the cycle starts again! The total amount of water on Earth never changes \u2014 it just keeps cycling between liquid, solid (ice), and gas (water vapor).",
+            "examples": [
+              {
+                "problem": "What is the difference between evaporation and condensation?",
+                "answer": "Evaporation is when liquid water turns into water vapor (gas) \u2014 water goes UP. Condensation is the opposite: water vapor cools and turns back into tiny liquid droplets \u2014 clouds form.",
+                "explanation": "They are reverse processes. Evaporation: liquid to gas. Condensation: gas to liquid."
+              },
+              {
+                "problem": "Why does it rain more near mountains?",
+                "answer": "When warm, moist air hits a mountain, it is forced upward. As it rises, it cools. The cooling causes water vapor to condense and form clouds that produce rain or snow.",
+                "explanation": "This is called orographic precipitation. The windward side of mountains gets more rain."
+              }
+            ],
+            "key_vocabulary": [
+              "water cycle",
+              "evaporation",
+              "transpiration",
+              "condensation",
+              "precipitation",
+              "collection",
+              "water vapor",
+              "groundwater",
+              "atmosphere"
+            ],
+            "real_world": "You can see the water cycle in your own kitchen! When you boil water, steam rises (evaporation). If you hold a cold lid above the pot, water droplets form on the lid (condensation). The droplets grow and fall back down (precipitation)!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What provides the energy that drives the water cycle?",
+              "options": [
+                "The moon",
+                "Wind",
+                "The sun",
+                "Gravity"
+              ],
+              "correct": 2,
+              "hint": "This is the energy source that heats lakes and oceans, causing water to evaporate."
+            },
+            {
+              "type": "fill_in",
+              "question": "When water vapor cools and forms tiny droplets that make clouds, it is called ___.",
+              "answer": "condensation",
+              "hint": "This is the opposite of evaporation \u2014 gas turns back into liquid."
+            },
+            {
+              "type": "true_false",
+              "question": "New water is constantly being created on Earth.",
+              "answer": false,
+              "hint": "The total amount of water on Earth stays the same. It just changes form and location."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is transpiration?",
+              "options": [
+                "Rain falling from clouds",
+                "Water flowing in rivers",
+                "Plants releasing water vapor through their leaves",
+                "Snow melting on mountains"
+              ],
+              "correct": 2,
+              "hint": "This process involves plants moving water to the atmosphere."
+            },
+            {
+              "type": "true_false",
+              "question": "Clouds form when water vapor condenses around tiny dust particles.",
+              "answer": true,
+              "hint": "Water vapor needs something to cling to (dust, pollen, salt) to form droplets."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a form of precipitation?",
+              "options": [
+                "Rain",
+                "Snow",
+                "Evaporation",
+                "Hail"
+              ],
+              "correct": 2,
+              "hint": "Precipitation is water FALLING from clouds. Which one goes UP instead?"
+            },
+            {
+              "type": "fill_in",
+              "question": "Water that seeps underground and fills spaces between rocks is called ___.",
+              "answer": "groundwater",
+              "hint": "This underground water is an important source for wells and springs."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the water cycle, what happens right after condensation?",
+              "options": [
+                "Evaporation",
+                "Precipitation",
+                "Transpiration",
+                "Groundwater flow"
+              ],
+              "correct": 1,
+              "hint": "After water vapor condenses into cloud droplets, the droplets grow heavy and fall."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-3-2",
+          "title": "Earth's Water Resources",
+          "type": "lesson",
+          "content": {
+            "explanation": "About 71 percent of Earth's surface is covered with water, but not all of it is available for us to drink. About 97 percent of Earth's water is saltwater in the oceans \u2014 too salty to drink or use for farming. Only about 3 percent is freshwater. Of that 3 percent, about 69 percent is frozen in glaciers and ice caps. About 30 percent is underground as groundwater. Less than 1 percent of all water on Earth is available as surface freshwater in lakes and rivers. An aquifer is an underground layer of rock or sediment that holds groundwater. People drill wells into aquifers to get freshwater. Water can be found in many forms on Earth: liquid water in oceans, lakes, and rivers; solid ice in glaciers, ice caps, and snow; and water vapor (gas) in the atmosphere.",
+            "examples": [
+              {
+                "problem": "Why is freshwater considered a limited resource?",
+                "answer": "97% of Earth's water is saltwater, and most freshwater is frozen in ice caps. Less than 1% of all water is available fresh surface water.",
+                "explanation": "Even though Earth looks blue and watery from space, the usable freshwater is a very small percentage."
+              },
+              {
+                "problem": "Where is most of Earth's freshwater located?",
+                "answer": "Most freshwater (about 69%) is frozen in glaciers and ice caps, mainly in Antarctica and Greenland.",
+                "explanation": "This frozen water is not easily available. The next largest source is groundwater (about 30%)."
+              }
+            ],
+            "key_vocabulary": [
+              "freshwater",
+              "saltwater",
+              "glacier",
+              "ice cap",
+              "aquifer",
+              "groundwater",
+              "surface water",
+              "water resource"
+            ],
+            "real_world": "Many cities get their drinking water from underground aquifers. The Ogallala Aquifer under the Great Plains provides water for farms across eight states. But people are using water from it faster than rain can refill it."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "About what percentage of Earth's water is saltwater?",
+              "options": [
+                "3%",
+                "50%",
+                "71%",
+                "97%"
+              ],
+              "correct": 3,
+              "hint": "The vast majority of Earth's water is in the salty oceans."
+            },
+            {
+              "type": "fill_in",
+              "question": "An underground layer of rock that holds water is called an ___.",
+              "answer": "aquifer",
+              "hint": "People drill wells into this to reach groundwater."
+            },
+            {
+              "type": "true_false",
+              "question": "Most of Earth's freshwater is in lakes and rivers.",
+              "answer": false,
+              "hint": "Most freshwater is frozen in glaciers and ice caps."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where is most of Earth's freshwater found?",
+              "options": [
+                "In lakes and rivers",
+                "In the atmosphere",
+                "Frozen in glaciers and ice caps",
+                "In the oceans"
+              ],
+              "correct": 2,
+              "hint": "Think about the huge ice sheets in Antarctica and Greenland."
+            },
+            {
+              "type": "true_false",
+              "question": "Less than 1% of Earth's water is available as fresh surface water.",
+              "answer": true,
+              "hint": "97% is saltwater, about 2% is frozen, and only a tiny fraction is in lakes and rivers."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a form in which water exists on Earth?",
+              "options": [
+                "Liquid in oceans",
+                "Solid in glaciers",
+                "Gas in the atmosphere",
+                "Plasma in volcanoes"
+              ],
+              "correct": 3,
+              "hint": "Water exists as liquid, solid (ice), and gas (water vapor). Plasma is different."
+            },
+            {
+              "type": "fill_in",
+              "question": "Large bodies of slow-moving ice formed from compacted snow are called ___.",
+              "answer": "glaciers",
+              "hint": "These massive ice formations hold about 69% of Earth's freshwater."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-3-3",
+          "title": "Weather and the Atmosphere",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weather is the condition of the atmosphere at a specific place and time. It includes temperature, humidity, precipitation, wind speed, wind direction, and cloud cover. The atmosphere is the layer of gases surrounding Earth, and weather happens in the lowest layer called the troposphere. Temperature is how hot or cold the air is, measured with a thermometer. Humidity is the amount of water vapor in the air. Air pressure (also called barometric pressure) is the weight of the atmosphere pressing down. High pressure usually brings clear, sunny weather. Low pressure often brings clouds and rain. Wind is caused by differences in air pressure \u2014 air moves from high-pressure areas to low-pressure areas. Weather changes constantly because the sun heats Earth's surface unevenly. Land heats up faster than water, causing air pressure differences that drive weather patterns.",
+            "examples": [
+              {
+                "problem": "Why does it feel hotter on a humid day than on a dry day at the same temperature?",
+                "answer": "On a humid day, the air already has a lot of water vapor. Your sweat cannot evaporate easily. Since evaporating sweat cools your body, high humidity makes you feel hotter.",
+                "explanation": "Humidity affects how we experience temperature."
+              },
+              {
+                "problem": "What causes wind?",
+                "answer": "Wind is caused by differences in air pressure. The sun heats Earth's surface unevenly, creating areas of high and low pressure. Air flows from high-pressure areas toward low-pressure areas.",
+                "explanation": "Think of it like a ball rolling downhill \u2014 air flows from more pressure to less pressure."
+              }
+            ],
+            "key_vocabulary": [
+              "weather",
+              "atmosphere",
+              "troposphere",
+              "temperature",
+              "humidity",
+              "air pressure",
+              "barometric pressure",
+              "wind",
+              "thermometer"
+            ],
+            "real_world": "Weather forecasters use tools like thermometers (temperature), barometers (air pressure), anemometers (wind speed), and rain gauges (precipitation) to measure weather conditions and predict what is coming next."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Weather occurs in which layer of the atmosphere?",
+              "options": [
+                "Stratosphere",
+                "Mesosphere",
+                "Troposphere",
+                "Thermosphere"
+              ],
+              "correct": 2,
+              "hint": "This is the lowest layer of the atmosphere, closest to Earth's surface."
+            },
+            {
+              "type": "fill_in",
+              "question": "The amount of water vapor in the air is called ___.",
+              "answer": "humidity",
+              "hint": "On a sticky, moist summer day, this measurement is high."
+            },
+            {
+              "type": "true_false",
+              "question": "High air pressure usually brings cloudy, rainy weather.",
+              "answer": false,
+              "hint": "High pressure pushes clouds away. LOW pressure brings clouds and rain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What causes wind?",
+              "options": [
+                "The rotation of Earth",
+                "Differences in air pressure",
+                "Gravity pulling air down",
+                "The moon's orbit"
+              ],
+              "correct": 1,
+              "hint": "Air moves from areas of HIGH pressure to areas of LOW pressure."
+            },
+            {
+              "type": "true_false",
+              "question": "A thermometer measures air pressure.",
+              "answer": false,
+              "hint": "A thermometer measures temperature. A barometer measures air pressure."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why does the sun heat Earth's surface unevenly?",
+              "options": [
+                "The sun changes brightness",
+                "Earth has different surfaces that absorb heat differently",
+                "Gravity affects heat",
+                "The moon blocks sunlight"
+              ],
+              "correct": 1,
+              "hint": "Land heats up faster than water. Dark surfaces absorb more heat than light ones."
+            },
+            {
+              "type": "fill_in",
+              "question": "An instrument used to measure air pressure is called a ___.",
+              "answer": "barometer",
+              "hint": "This tool helps predict weather changes."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-3-4",
+          "title": "Types of Severe Weather",
+          "type": "lesson",
+          "content": {
+            "explanation": "Severe weather events are powerful and can be dangerous. A thunderstorm forms when warm, moist air rises quickly, creating tall cumulonimbus clouds. These storms produce lightning (a giant spark of electricity), thunder (the sound caused by lightning heating the air), heavy rain, and sometimes hail. A tornado is a violently rotating column of air that extends from a thunderstorm to the ground. Tornadoes are measured using the Enhanced Fujita Scale (EF0 to EF5) and are most common in the central United States, called Tornado Alley. A hurricane is a massive rotating storm that forms over warm ocean water. Hurricanes have an eye (calm center), an eye wall (strongest winds), and rain bands (outer rings). They are measured using the Saffir-Simpson Scale (Category 1 to 5). Blizzards are severe winter storms with heavy snow, strong winds, and cold temperatures.",
+            "examples": [
+              {
+                "problem": "How does a tornado form?",
+                "answer": "A tornado forms inside a severe thunderstorm when warm, moist air and cold, dry air meet. Wind blowing at different speeds and directions creates a spinning column of air that extends to the ground.",
+                "explanation": "The contrast between warm and cold air masses combined with wind shear creates the spinning motion."
+              },
+              {
+                "problem": "Why do hurricanes form over warm ocean water?",
+                "answer": "Warm ocean water (above 80 degrees F) evaporates and provides the energy and moisture that fuel the hurricane. As warm, moist air rises and cools, it releases heat energy that powers the winds.",
+                "explanation": "Hurricanes weaken over land because they lose their warm water energy source."
+              }
+            ],
+            "key_vocabulary": [
+              "thunderstorm",
+              "lightning",
+              "thunder",
+              "tornado",
+              "hurricane",
+              "blizzard",
+              "cumulonimbus",
+              "eye",
+              "eye wall",
+              "severe weather"
+            ],
+            "real_world": "Weather forecasters use Doppler radar to detect rotation inside thunderstorms that could produce tornadoes. Tornado warnings give people time to seek shelter. Knowing what to do during severe weather can save lives!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of cloud produces thunderstorms?",
+              "options": [
+                "Cirrus",
+                "Stratus",
+                "Cumulonimbus",
+                "Cumulus"
+              ],
+              "correct": 2,
+              "hint": "These are tall, dark, towering clouds."
+            },
+            {
+              "type": "fill_in",
+              "question": "A violently rotating column of air that touches the ground is called a ___.",
+              "answer": "tornado",
+              "hint": "These funnel-shaped storms are most common in Tornado Alley."
+            },
+            {
+              "type": "true_false",
+              "question": "Hurricanes form over cold ocean water.",
+              "answer": false,
+              "hint": "Hurricanes need warm ocean water (above 80 degrees F) for energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the calm center of a hurricane called?",
+              "options": [
+                "The eye wall",
+                "The rain band",
+                "The eye",
+                "The funnel"
+              ],
+              "correct": 2,
+              "hint": "From space, you can see a hole in the center of the hurricane."
+            },
+            {
+              "type": "true_false",
+              "question": "Lightning is caused by a giant spark of electricity.",
+              "answer": true,
+              "hint": "Electrical charges build up in clouds and discharge as a massive spark."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What scale measures tornado strength?",
+              "options": [
+                "Richter Scale",
+                "Saffir-Simpson Scale",
+                "Enhanced Fujita Scale",
+                "Mohs Scale"
+              ],
+              "correct": 2,
+              "hint": "The scale goes from EF0 to EF5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do hurricanes weaken over land?",
+              "options": [
+                "Land is too flat",
+                "They lose their warm ocean water energy source",
+                "Wind stops over land",
+                "The eye disappears"
+              ],
+              "correct": 1,
+              "hint": "Hurricanes are powered by warm, moist ocean air."
+            },
+            {
+              "type": "fill_in",
+              "question": "A severe winter storm with heavy snow and strong winds is called a ___.",
+              "answer": "blizzard",
+              "hint": "These dangerous storms bring low visibility and bitter cold."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-3-5",
+          "title": "How Water Shapes the Land",
+          "type": "lesson",
+          "content": {
+            "explanation": "Water is one of the most powerful forces shaping Earth's surface. Erosion is the process of wearing away and moving rock and soil from one place to another. Water erosion happens when rain, rivers, and ocean waves break down rock and carry sediment (tiny pieces of rock and soil) to new locations. Deposition is when sediment is dropped in a new location. Fast-moving water can carry larger particles, but as water slows down, it drops the heaviest particles first. Rivers carve valleys and canyons over thousands of years. The Grand Canyon was carved by the Colorado River over millions of years! At river mouths, sediment is deposited to form deltas \u2014 fan-shaped areas of new land. Ocean waves erode coastlines, creating sea cliffs, caves, and arches. Glaciers carve U-shaped valleys as they move. Underground water dissolves limestone to create caves and sinkholes.",
+            "examples": [
+              {
+                "problem": "How did the Grand Canyon form?",
+                "answer": "The Colorado River carved the Grand Canyon over millions of years. The river eroded layers of rock, cutting deeper and deeper. The canyon shows layers of rock up to 2 billion years old.",
+                "explanation": "Water erosion is slow but powerful. Given enough time, even a small river can carve through solid rock."
+              },
+              {
+                "problem": "What is a delta and how does it form?",
+                "answer": "A delta is a fan-shaped area of land at the mouth of a river. As the river slows down, it deposits the sediment it was carrying, building up new land over time.",
+                "explanation": "The Nile River Delta in Egypt and the Mississippi River Delta are famous examples."
+              }
+            ],
+            "key_vocabulary": [
+              "erosion",
+              "deposition",
+              "sediment",
+              "delta",
+              "canyon",
+              "valley",
+              "glacier",
+              "weathering",
+              "coastline",
+              "sea cliff"
+            ],
+            "real_world": "After heavy rain, you might see muddy water flowing in streams or gutters. That muddy water is carrying sediment \u2014 tiny bits of rock and soil being eroded from one place and deposited somewhere else!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is erosion?",
+              "options": [
+                "Building up land with sediment",
+                "Wearing away and moving rock and soil",
+                "Water flowing underground",
+                "Rocks melting from heat"
+              ],
+              "correct": 1,
+              "hint": "Erosion is the process of wearing away and MOVING rock and soil."
+            },
+            {
+              "type": "fill_in",
+              "question": "When a river drops sediment at its mouth, it forms a fan-shaped area called a ___.",
+              "answer": "delta",
+              "hint": "The Nile River in Egypt has a famous one of these."
+            },
+            {
+              "type": "true_false",
+              "question": "Fast-moving water can carry larger particles than slow-moving water.",
+              "answer": true,
+              "hint": "The faster water moves, the more energy it has to carry heavy particles."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What carved the Grand Canyon?",
+              "options": [
+                "An earthquake",
+                "A glacier",
+                "The Colorado River",
+                "Volcanic activity"
+              ],
+              "correct": 2,
+              "hint": "This took millions of years of water erosion."
+            },
+            {
+              "type": "true_false",
+              "question": "Glaciers can carve valleys.",
+              "answer": true,
+              "hint": "Massive glaciers carve U-shaped valleys as they move."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When water slows down, what happens to the sediment it carries?",
+              "options": [
+                "It dissolves",
+                "It floats",
+                "It is deposited (dropped)",
+                "It evaporates"
+              ],
+              "correct": 2,
+              "hint": "Slower water has less energy, so it drops the sediment."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process of dropping sediment in a new location is called ___.",
+              "answer": "deposition",
+              "hint": "This is the opposite of erosion."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does underground water create caves?",
+              "options": [
+                "By freezing and expanding",
+                "By dissolving limestone rock over time",
+                "By pushing rocks apart",
+                "By heating rock until it melts"
+              ],
+              "correct": 1,
+              "hint": "Slightly acidic groundwater slowly dissolves soft limestone."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What drives the water cycle?",
+            "options": [
+              "Gravity",
+              "The moon",
+              "Energy from the sun",
+              "Wind"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "When water vapor cools and forms cloud droplets, the process is called ___.",
+            "answer": "condensation"
+          },
+          {
+            "type": "true_false",
+            "question": "Most of Earth's water is freshwater.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Where is most of Earth's freshwater found?",
+            "options": [
+              "In rivers",
+              "In lakes",
+              "Frozen in glaciers and ice caps",
+              "In the atmosphere"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "High air pressure usually brings clear weather.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A fan-shaped deposit of sediment at a river's mouth is called a:",
+            "options": [
+              "Canyon",
+              "Valley",
+              "Delta",
+              "Glacier"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "A massive rotating storm that forms over warm ocean water is called a ___.",
+            "answer": "hurricane"
+          },
+          {
+            "type": "true_false",
+            "question": "Erosion builds up land by adding sediment.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An underground layer of rock that holds water is called an:",
+            "options": [
+              "Aquifer",
+              "Glacier",
+              "Delta",
+              "Reservoir"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which causes wind?",
+            "options": [
+              "Temperature differences in the ocean",
+              "Differences in air pressure",
+              "The moon's gravity",
+              "Rotation of clouds"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "water_cycle_wizard"
+      }
+    },
+    {
+      "id": "5-sci-4",
+      "title": "Space: The Solar System & Stars",
+      "description": "Journey through our solar system to explore the planets, learn about stars and their life cycles, understand gravity and orbits, and discover Earth's place in the universe.",
+      "lessons": [
+        {
+          "id": "5-sci-4-1",
+          "title": "Our Solar System",
+          "type": "lesson",
+          "content": {
+            "explanation": "Our solar system is made up of the sun, eight planets, dwarf planets, moons, asteroids, comets, and other objects all held together by the sun's gravity. The sun is at the center and contains over 99% of the mass in our solar system. The eight planets in order from the sun are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. A helpful way to remember the order is: My Very Excited Mother Just Served Us Nachos. The four inner planets (Mercury, Venus, Earth, Mars) are called terrestrial planets because they are small, rocky, and have solid surfaces. The four outer planets (Jupiter, Saturn, Uranus, Neptune) are called gas giants (or ice giants for Uranus and Neptune) because they are much larger and made mostly of gases and liquids. Between Mars and Jupiter is the asteroid belt, a region with millions of rocky objects. Pluto was reclassified as a dwarf planet in 2006.",
+            "examples": [
+              {
+                "problem": "What is the difference between terrestrial planets and gas giants?",
+                "answer": "Terrestrial planets (Mercury, Venus, Earth, Mars) are small, rocky, and have solid surfaces. Gas giants (Jupiter, Saturn, Uranus, Neptune) are much larger and made mostly of gases and liquids with no solid surface.",
+                "explanation": "The word 'terrestrial' comes from 'terra' meaning Earth or land. These planets have land-like surfaces."
+              },
+              {
+                "problem": "Why is the sun so important to our solar system?",
+                "answer": "The sun contains over 99% of the solar system's mass. Its gravity holds all the planets in orbit. It provides the light and heat that make life possible on Earth.",
+                "explanation": "Without the sun, the planets would fly off into space and Earth would be a frozen, dark world."
+              }
+            ],
+            "key_vocabulary": [
+              "solar system",
+              "planet",
+              "terrestrial",
+              "gas giant",
+              "asteroid belt",
+              "dwarf planet",
+              "orbit",
+              "gravity",
+              "inner planets",
+              "outer planets"
+            ],
+            "real_world": "If you could drive a car at highway speed (60 mph) to the sun, it would take about 177 years! The solar system is enormous. Light from the sun takes about 8 minutes to reach Earth."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many planets are in our solar system?",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct": 1,
+              "hint": "Pluto was reclassified as a dwarf planet in 2006."
+            },
+            {
+              "type": "fill_in",
+              "question": "The four inner planets are called ___ planets because they are small and rocky.",
+              "answer": "terrestrial",
+              "hint": "'Terra' means Earth or land. These planets have land-like solid surfaces."
+            },
+            {
+              "type": "true_false",
+              "question": "Jupiter is a terrestrial planet.",
+              "answer": false,
+              "hint": "Jupiter is the largest planet and is made mostly of gases. It is a gas giant."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which planet is closest to the sun?",
+              "options": [
+                "Venus",
+                "Earth",
+                "Mercury",
+                "Mars"
+              ],
+              "correct": 2,
+              "hint": "This is the first planet in our mnemonic: My Very Excited Mother..."
+            },
+            {
+              "type": "true_false",
+              "question": "The sun contains over 99% of the mass in our solar system.",
+              "answer": true,
+              "hint": "The sun is incredibly massive compared to everything else in the solar system combined."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is located between Mars and Jupiter?",
+              "options": [
+                "A moon",
+                "The asteroid belt",
+                "Another planet",
+                "A comet"
+              ],
+              "correct": 1,
+              "hint": "This region contains millions of rocky objects orbiting the sun."
+            },
+            {
+              "type": "fill_in",
+              "question": "The four outer planets are also called ___ giants.",
+              "answer": "gas",
+              "hint": "These planets are made mostly of gases and liquids, not rock."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is the correct order of the first four planets from the sun?",
+              "options": [
+                "Venus, Mercury, Earth, Mars",
+                "Mercury, Venus, Earth, Mars",
+                "Earth, Mars, Mercury, Venus",
+                "Mercury, Earth, Venus, Mars"
+              ],
+              "correct": 1,
+              "hint": "My Very Excited Mother..."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-4-2",
+          "title": "The Inner Planets",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four inner planets are the closest to the sun and share several features: they are all relatively small, rocky, and have solid surfaces. Mercury is the smallest planet and closest to the sun. It has extreme temperatures \u2014 scorching hot on the sunny side (800 degrees F) and freezing cold on the dark side (-290 degrees F) because it has almost no atmosphere to hold heat. Venus is similar in size to Earth but has a thick atmosphere of carbon dioxide that traps heat, making it the hottest planet (about 900 degrees F). Venus spins backward compared to most planets. Earth is the third planet and the only one known to have liquid water on its surface and life. Our atmosphere of nitrogen and oxygen protects us and keeps temperatures comfortable. Mars is called the Red Planet because of iron oxide (rust) in its soil. Mars has the tallest volcano in the solar system (Olympus Mons) and a massive canyon (Valles Marineris). Scientists have found evidence that Mars once had liquid water.",
+            "examples": [
+              {
+                "problem": "Why is Venus hotter than Mercury even though Mercury is closer to the sun?",
+                "answer": "Venus has a thick atmosphere of carbon dioxide that traps heat (the greenhouse effect). Mercury has almost no atmosphere, so heat escapes into space. Venus's trapped heat makes it about 900 degrees F.",
+                "explanation": "The greenhouse effect on Venus is extreme \u2014 the thick atmosphere acts like a blanket that traps the sun's heat."
+              },
+              {
+                "problem": "Why is Mars called the Red Planet?",
+                "answer": "Mars appears red because its soil contains iron oxide, which is rust. The iron in the soil reacted with oxygen long ago, creating a rusty red surface.",
+                "explanation": "The same chemical reaction that makes a rusty bicycle red makes the entire surface of Mars appear red."
+              }
+            ],
+            "key_vocabulary": [
+              "Mercury",
+              "Venus",
+              "Earth",
+              "Mars",
+              "atmosphere",
+              "greenhouse effect",
+              "iron oxide",
+              "Olympus Mons",
+              "terrestrial"
+            ],
+            "real_world": "NASA has sent multiple rovers to Mars, including Curiosity and Perseverance. These robots explore the surface, analyze rocks, and search for signs that Mars once had conditions suitable for life!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which planet is the hottest in our solar system?",
+              "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mars"
+              ],
+              "correct": 1,
+              "hint": "This planet has a thick atmosphere that traps heat through the greenhouse effect."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mars is called the ___ Planet because of iron oxide in its soil.",
+              "answer": "Red",
+              "hint": "Iron oxide is another name for rust, which has a reddish color."
+            },
+            {
+              "type": "true_false",
+              "question": "Mercury is the hottest planet because it is closest to the sun.",
+              "answer": false,
+              "hint": "Venus is hotter because its thick atmosphere traps heat. Mercury has almost no atmosphere."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which planet is the only one known to have liquid water and life?",
+              "options": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                "Mars"
+              ],
+              "correct": 2,
+              "hint": "We live here!"
+            },
+            {
+              "type": "true_false",
+              "question": "Venus spins in the same direction as most other planets.",
+              "answer": false,
+              "hint": "Venus is unusual because it spins backward compared to most planets."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes Venus so hot?",
+              "options": [
+                "It is closest to the sun",
+                "Its thick carbon dioxide atmosphere traps heat",
+                "It has active volcanoes",
+                "It has no water"
+              ],
+              "correct": 1,
+              "hint": "The greenhouse effect on Venus traps heat from escaping."
+            },
+            {
+              "type": "fill_in",
+              "question": "The tallest volcano in the solar system, ___ Mons, is found on Mars.",
+              "answer": "Olympus",
+              "hint": "This volcano is about three times the height of Mount Everest!"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which inner planet is the smallest?",
+              "options": [
+                "Venus",
+                "Earth",
+                "Mars",
+                "Mercury"
+              ],
+              "correct": 3,
+              "hint": "This planet is closest to the sun and only slightly larger than Earth's moon."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-4-3",
+          "title": "The Outer Planets",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four outer planets are much larger than the inner planets and are made mostly of gases and liquids. Jupiter is the largest planet in our solar system \u2014 more than 1,300 Earths could fit inside it! Jupiter is famous for its Great Red Spot, a giant storm that has been raging for hundreds of years. Jupiter has at least 95 known moons, including the four large Galilean moons. Saturn is best known for its spectacular ring system, made of billions of pieces of ice and rock ranging from tiny grains to house-sized chunks. Saturn is so light for its size that it would float in water if you could find a bathtub big enough! Uranus is tilted on its side, rolling around the sun like a ball. It appears blue-green due to methane in its atmosphere. Neptune is the farthest planet from the sun and has the strongest winds in the solar system, reaching over 1,200 mph. Both Uranus and Neptune are sometimes called ice giants because they contain more ices (water, ammonia, methane) than hydrogen and helium.",
+            "examples": [
+              {
+                "problem": "What is Jupiter's Great Red Spot?",
+                "answer": "The Great Red Spot is a massive storm on Jupiter that has been swirling for at least 350 years. It is so large that two or three Earths could fit inside it.",
+                "explanation": "Jupiter's fast rotation and thick atmosphere create powerful, long-lasting storms."
+              },
+              {
+                "problem": "What are Saturn's rings made of?",
+                "answer": "Saturn's rings are made of billions of pieces of ice and rock, ranging from tiny grains of sand to chunks as big as houses. They orbit Saturn like tiny moons.",
+                "explanation": "The rings look solid from far away but are actually made of countless individual pieces spread out in thin bands."
+              }
+            ],
+            "key_vocabulary": [
+              "Jupiter",
+              "Saturn",
+              "Uranus",
+              "Neptune",
+              "gas giant",
+              "ice giant",
+              "Great Red Spot",
+              "rings",
+              "Galilean moons",
+              "methane"
+            ],
+            "real_world": "The Voyager 1 and 2 spacecraft launched in 1977 visited all four outer planets. Voyager 1 is now the farthest human-made object from Earth, over 15 billion miles away, and it is still sending data back!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is the largest planet in our solar system?",
+              "options": [
+                "Saturn",
+                "Neptune",
+                "Jupiter",
+                "Uranus"
+              ],
+              "correct": 2,
+              "hint": "More than 1,300 Earths could fit inside this planet."
+            },
+            {
+              "type": "fill_in",
+              "question": "Saturn is famous for its spectacular ___ made of ice and rock.",
+              "answer": "rings",
+              "hint": "These structures orbit Saturn and are visible even through small telescopes."
+            },
+            {
+              "type": "true_false",
+              "question": "Uranus is tilted on its side.",
+              "answer": true,
+              "hint": "Uranus is unique because it rotates almost sideways, rolling around the sun."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which planet has the strongest winds in the solar system?",
+              "options": [
+                "Jupiter",
+                "Saturn",
+                "Uranus",
+                "Neptune"
+              ],
+              "correct": 3,
+              "hint": "This is the farthest planet from the sun, with winds over 1,200 mph."
+            },
+            {
+              "type": "true_false",
+              "question": "Saturn's rings are one solid piece of material.",
+              "answer": false,
+              "hint": "The rings are made of billions of individual pieces of ice and rock."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What gives Uranus and Neptune their blue color?",
+              "options": [
+                "Water on their surface",
+                "Methane in their atmosphere",
+                "Reflection from their moons",
+                "Ice on their rings"
+              ],
+              "correct": 1,
+              "hint": "This gas absorbs red light and reflects blue light."
+            },
+            {
+              "type": "fill_in",
+              "question": "Jupiter's ___ ___ Spot is a giant storm that has lasted for hundreds of years.",
+              "answer": "Great Red",
+              "hint": "This is the most famous feature on Jupiter."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Uranus and Neptune are sometimes called:",
+              "options": [
+                "Rock giants",
+                "Fire giants",
+                "Ice giants",
+                "Mini giants"
+              ],
+              "correct": 2,
+              "hint": "They contain more ices (water, ammonia, methane) than Jupiter and Saturn."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-4-4",
+          "title": "Stars and Their Life Cycles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Stars are massive balls of hot gas (mostly hydrogen and helium) that produce energy through nuclear fusion \u2014 the process of hydrogen atoms fusing together to form helium, releasing enormous amounts of energy as light and heat. Our sun is a medium-sized star called a yellow dwarf. Stars come in different sizes, colors, and temperatures. Blue stars are the hottest, followed by white, yellow (like our sun), orange, and red stars (the coolest). Stars have life cycles. They are born in nebulae \u2014 huge clouds of gas and dust in space. Gravity pulls the gas together until it gets hot enough to start nuclear fusion, and a star is born. A star like our sun will shine for about 10 billion years, then swell into a red giant, shed its outer layers, and end as a white dwarf. More massive stars can explode in a supernova and collapse into a neutron star or even a black hole. The elements that make up your body were created inside stars that exploded long ago!",
+            "examples": [
+              {
+                "problem": "What is nuclear fusion?",
+                "answer": "Nuclear fusion is the process of hydrogen atoms combining (fusing) together to form helium inside a star. This releases enormous amounts of energy as light and heat.",
+                "explanation": "Fusion is what makes stars shine. The sun fuses about 600 million tons of hydrogen into helium every second!"
+              },
+              {
+                "problem": "How are stars born?",
+                "answer": "Stars are born inside nebulae \u2014 large clouds of gas and dust in space. Gravity pulls the gas and dust together. As the material compresses, it heats up until nuclear fusion begins.",
+                "explanation": "A nebula is like a star nursery where new stars are constantly forming."
+              }
+            ],
+            "key_vocabulary": [
+              "star",
+              "nuclear fusion",
+              "hydrogen",
+              "helium",
+              "nebula",
+              "red giant",
+              "white dwarf",
+              "supernova",
+              "neutron star",
+              "black hole"
+            ],
+            "real_world": "When you look at the night sky, you are looking back in time! Light from stars takes years to reach us. The closest star to our sun, Proxima Centauri, is 4.24 light-years away \u2014 its light takes over 4 years to reach Earth."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What process makes stars shine?",
+              "options": [
+                "Burning like fire",
+                "Nuclear fusion",
+                "Reflection of light",
+                "Chemical reactions"
+              ],
+              "correct": 1,
+              "hint": "Hydrogen atoms fuse together to form helium, releasing energy."
+            },
+            {
+              "type": "fill_in",
+              "question": "Stars are born inside large clouds of gas and dust in space called ___.",
+              "answer": "nebulae",
+              "hint": "These are sometimes called star nurseries."
+            },
+            {
+              "type": "true_false",
+              "question": "Blue stars are cooler than red stars.",
+              "answer": false,
+              "hint": "Blue stars are the HOTTEST. Red stars are the coolest."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Our sun is classified as a:",
+              "options": [
+                "Blue giant",
+                "Red dwarf",
+                "Yellow dwarf",
+                "White giant"
+              ],
+              "correct": 2,
+              "hint": "Our sun is a medium-sized, yellow-colored star."
+            },
+            {
+              "type": "true_false",
+              "question": "The elements in your body were created inside stars.",
+              "answer": true,
+              "hint": "When massive stars explode, they scatter elements like carbon, oxygen, and iron into space."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens to a very massive star at the end of its life?",
+              "options": [
+                "It becomes a white dwarf",
+                "It explodes in a supernova",
+                "It slowly fades away",
+                "It becomes a planet"
+              ],
+              "correct": 1,
+              "hint": "Very massive stars end dramatically with a huge explosion."
+            },
+            {
+              "type": "fill_in",
+              "question": "In nuclear fusion, ___ atoms fuse together to form helium.",
+              "answer": "hydrogen",
+              "hint": "This is the lightest and most common element in the universe."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What color are the hottest stars?",
+              "options": [
+                "Red",
+                "Yellow",
+                "White",
+                "Blue"
+              ],
+              "correct": 3,
+              "hint": "Think about a flame \u2014 the hottest part is blue."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-4-5",
+          "title": "Gravity, Orbits, and Earth's Place in Space",
+          "type": "lesson",
+          "content": {
+            "explanation": "Gravity is a force of attraction between any two objects that have mass. The more mass an object has, the stronger its gravity. The closer two objects are, the stronger the gravitational pull between them. Gravity is what keeps the planets orbiting the sun, the moon orbiting Earth, and your feet on the ground. An orbit is the curved path one object takes around another due to gravity. The planets orbit the sun in slightly oval-shaped (elliptical) paths. Earth takes 365.25 days (one year) to orbit the sun. The moon takes about 27.3 days to orbit Earth. Earth also rotates (spins) on its axis once every 24 hours, giving us day and night. Earth's axis is tilted about 23.5 degrees, which causes the seasons. When the Northern Hemisphere is tilted toward the sun, it experiences summer. When it is tilted away, it experiences winter. Our solar system is part of the Milky Way galaxy, which contains hundreds of billions of stars.",
+            "examples": [
+              {
+                "problem": "Why do we have seasons?",
+                "answer": "Earth's axis is tilted about 23.5 degrees. As Earth orbits the sun, different hemispheres are tilted toward or away from the sun. When your hemisphere is tilted toward the sun, you get more direct sunlight and longer days \u2014 that is summer.",
+                "explanation": "Seasons are NOT caused by Earth being closer or farther from the sun. They are caused by the tilt of Earth's axis."
+              },
+              {
+                "problem": "What causes day and night?",
+                "answer": "Earth rotates (spins) on its axis once every 24 hours. The side facing the sun has day. The side facing away has night. As Earth continues to spin, we cycle between day and night.",
+                "explanation": "Earth's rotation is like a slow spin. One full spin = one day."
+              }
+            ],
+            "key_vocabulary": [
+              "gravity",
+              "orbit",
+              "elliptical",
+              "rotate",
+              "axis",
+              "tilt",
+              "seasons",
+              "revolution",
+              "galaxy",
+              "Milky Way"
+            ],
+            "real_world": "Astronauts on the International Space Station are in free fall around Earth \u2014 they orbit so fast that they experience weightlessness. They are still affected by Earth's gravity; they are just constantly falling around the planet!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What causes the seasons on Earth?",
+              "options": [
+                "Earth's distance from the sun",
+                "The tilt of Earth's axis",
+                "The speed of Earth's rotation",
+                "The moon's gravity"
+              ],
+              "correct": 1,
+              "hint": "Earth's axis is tilted about 23.5 degrees, causing different hemispheres to get more or less sunlight."
+            },
+            {
+              "type": "fill_in",
+              "question": "Earth takes ___ days to complete one orbit around the sun.",
+              "answer": "365.25",
+              "hint": "This is why we have a leap year every four years \u2014 to account for that extra quarter day."
+            },
+            {
+              "type": "true_false",
+              "question": "The planets orbit the sun in perfect circles.",
+              "answer": false,
+              "hint": "Planetary orbits are slightly oval-shaped, which is called elliptical."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What causes day and night?",
+              "options": [
+                "Earth orbiting the sun",
+                "The moon blocking the sun",
+                "Earth rotating on its axis",
+                "The sun moving across the sky"
+              ],
+              "correct": 2,
+              "hint": "Earth spins once every 24 hours."
+            },
+            {
+              "type": "true_false",
+              "question": "Gravity gets stronger when objects are closer together.",
+              "answer": true,
+              "hint": "The closer two objects are, the stronger the gravitational pull between them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Our solar system is part of which galaxy?",
+              "options": [
+                "Andromeda",
+                "Milky Way",
+                "Triangulum",
+                "Sombrero"
+              ],
+              "correct": 1,
+              "hint": "On clear dark nights, you can see a faint band of light across the sky \u2014 that is our galaxy viewed from the inside."
+            },
+            {
+              "type": "fill_in",
+              "question": "Earth's axis is tilted about ___ degrees.",
+              "answer": "23.5",
+              "hint": "This tilt is what causes the seasons to change throughout the year."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The more mass an object has, the ___ its gravity.",
+              "options": [
+                "Weaker",
+                "Faster",
+                "Stronger",
+                "Lighter"
+              ],
+              "correct": 2,
+              "hint": "Jupiter has much more mass than Earth, so it has much stronger gravity."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many planets are in our solar system?",
+            "options": [
+              "7",
+              "8",
+              "9",
+              "10"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The four small, rocky planets closest to the sun are called ___ planets.",
+            "answer": "terrestrial"
+          },
+          {
+            "type": "true_false",
+            "question": "Venus is the hottest planet due to its thick atmosphere.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which planet is the largest?",
+            "options": [
+              "Saturn",
+              "Jupiter",
+              "Neptune",
+              "Uranus"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Stars produce energy through a process called nuclear ___.",
+            "answer": "fusion"
+          },
+          {
+            "type": "true_false",
+            "question": "Seasons are caused by Earth's distance from the sun.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Stars are born inside clouds of gas and dust called:",
+            "options": [
+              "Galaxies",
+              "Nebulae",
+              "Asteroids",
+              "Comets"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What causes day and night?",
+            "options": [
+              "Earth orbiting the sun",
+              "Earth rotating on its axis",
+              "The moon's orbit",
+              "The sun moving"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Saturn's rings are made of ice and rock.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Earth's axis is tilted about:",
+            "options": [
+              "10 degrees",
+              "23.5 degrees",
+              "45 degrees",
+              "90 degrees"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "space_explorer"
+      }
+    },
+    {
+      "id": "5-sci-5",
+      "title": "Energy & Motion",
+      "description": "Discover the different forms of energy, learn how energy can be transferred and transformed, explore the laws of motion, and understand how simple machines make work easier.",
+      "lessons": [
+        {
+          "id": "5-sci-5-1",
+          "title": "Forms of Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy is the ability to do work or cause change. Energy comes in many forms. Kinetic energy is the energy of motion \u2014 anything that is moving has kinetic energy. A rolling ball, a flying bird, and a running person all have kinetic energy. The faster something moves and the more mass it has, the more kinetic energy it has. Potential energy is stored energy that has the ability to do work later. A book on a high shelf has gravitational potential energy \u2014 if it falls, that stored energy becomes kinetic energy. A stretched rubber band has elastic potential energy. Chemical energy is stored in food, batteries, and fuels like gasoline. Thermal energy (heat) is the total kinetic energy of all the particles in a substance. Electrical energy is the flow of electrons through a conductor. Sound energy is vibrations moving through matter. Light energy (radiant energy) travels in waves and can move through empty space.",
+            "examples": [
+              {
+                "problem": "What type of energy does a ball at the top of a hill have?",
+                "answer": "Gravitational potential energy. It is stored energy due to the ball's height. When the ball rolls down the hill, the potential energy is converted to kinetic energy (motion).",
+                "explanation": "The higher the ball is, the more potential energy it has. As it falls or rolls down, that stored energy is released as movement."
+              },
+              {
+                "problem": "Name three forms of energy you use every morning.",
+                "answer": "Chemical energy (food you eat for breakfast), electrical energy (lights, alarm clock), and thermal energy (hot water for a shower or heat from a toaster).",
+                "explanation": "Energy is all around us in many forms. We use and transform energy constantly throughout the day."
+              }
+            ],
+            "key_vocabulary": [
+              "energy",
+              "kinetic energy",
+              "potential energy",
+              "chemical energy",
+              "thermal energy",
+              "electrical energy",
+              "sound energy",
+              "light energy",
+              "radiant energy"
+            ],
+            "real_world": "A roller coaster is a great example of energy changes! At the top of the first hill, the car has maximum potential energy. As it zooms down, potential energy converts to kinetic energy. At the bottom, it has maximum kinetic energy!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is kinetic energy?",
+              "options": [
+                "Stored energy",
+                "Energy of motion",
+                "Heat energy",
+                "Light energy"
+              ],
+              "correct": 1,
+              "hint": "Kinetic comes from a Greek word meaning 'to move.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Energy that is stored and has the potential to do work is called ___ energy.",
+              "answer": "potential",
+              "hint": "This type of energy is waiting to be released."
+            },
+            {
+              "type": "true_false",
+              "question": "A book sitting on a high shelf has kinetic energy.",
+              "answer": false,
+              "hint": "The book is not moving. It has stored (potential) energy due to its height."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Food contains what type of energy?",
+              "options": [
+                "Kinetic energy",
+                "Sound energy",
+                "Chemical energy",
+                "Light energy"
+              ],
+              "correct": 2,
+              "hint": "The energy in food is stored in chemical bonds and released when you digest it."
+            },
+            {
+              "type": "true_false",
+              "question": "A faster-moving object has more kinetic energy than a slower one of the same mass.",
+              "answer": true,
+              "hint": "Speed and mass both affect kinetic energy. More speed = more kinetic energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which form of energy travels in waves and can move through empty space?",
+              "options": [
+                "Sound energy",
+                "Chemical energy",
+                "Thermal energy",
+                "Light energy"
+              ],
+              "correct": 3,
+              "hint": "This is how sunlight reaches Earth through the vacuum of space."
+            },
+            {
+              "type": "fill_in",
+              "question": "The total kinetic energy of all particles in a substance is called ___ energy.",
+              "answer": "thermal",
+              "hint": "This is another word for heat energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A stretched rubber band has what type of energy?",
+              "options": [
+                "Kinetic energy",
+                "Elastic potential energy",
+                "Sound energy",
+                "Chemical energy"
+              ],
+              "correct": 1,
+              "hint": "The rubber band is storing energy that will be released when you let go."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-5-2",
+          "title": "Energy Transfer and Transformation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy cannot be created or destroyed \u2014 it can only be transferred from one object to another or transformed from one form to another. This is called the law of conservation of energy. Energy transfer happens when energy moves from one object to another. When you hit a baseball with a bat, kinetic energy transfers from the bat to the ball. When you heat soup on a stove, thermal energy transfers from the burner to the pot to the soup. Energy transformation happens when energy changes from one form to another. When you turn on a lamp, electrical energy transforms into light energy and thermal energy (the bulb gets warm). When you eat food, chemical energy transforms into kinetic energy (movement) and thermal energy (body heat). In every energy transformation, some energy is always converted to thermal energy (heat). This is why machines get warm when they run and why a bouncing ball eventually stops \u2014 its kinetic energy gradually becomes heat.",
+            "examples": [
+              {
+                "problem": "Describe the energy transformations when you ride a bicycle.",
+                "answer": "Chemical energy in your muscles (from food) transforms into kinetic energy (pedaling motion), which transfers to the bicycle wheels. Some energy becomes thermal energy (you get warm) and sound energy (chain clicking).",
+                "explanation": "Multiple energy transformations happen at once. Energy always changes form but is never lost."
+              },
+              {
+                "problem": "Why does a bouncing ball eventually stop?",
+                "answer": "Each time the ball bounces, some kinetic energy is transformed into thermal energy (heat) and sound energy. With each bounce, less kinetic energy remains until the ball stops.",
+                "explanation": "The energy is not destroyed \u2014 it is converted to heat and sound that spread into the environment."
+              }
+            ],
+            "key_vocabulary": [
+              "energy transfer",
+              "energy transformation",
+              "conservation of energy",
+              "convert",
+              "electrical energy",
+              "kinetic energy",
+              "thermal energy"
+            ],
+            "real_world": "Solar panels transform light energy from the sun into electrical energy. The electrical energy can then be transformed into light (lamps), sound (speakers), kinetic energy (motors), or thermal energy (heaters). One form of energy can become many others!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does the law of conservation of energy state?",
+              "options": [
+                "Energy can be created from nothing",
+                "Energy can be destroyed",
+                "Energy cannot be created or destroyed, only transferred or transformed",
+                "Energy always stays in the same form"
+              ],
+              "correct": 2,
+              "hint": "Energy changes form but the total amount stays the same."
+            },
+            {
+              "type": "fill_in",
+              "question": "When energy moves from one object to another, it is called energy ___.",
+              "answer": "transfer",
+              "hint": "When you push a friend on a swing, energy moves from you to the swing."
+            },
+            {
+              "type": "true_false",
+              "question": "When a lamp is turned on, electrical energy is transformed into only light energy.",
+              "answer": false,
+              "hint": "The light bulb also gets warm, showing that some electrical energy becomes thermal energy too."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens to a bouncing ball's kinetic energy when it stops?",
+              "options": [
+                "It disappears",
+                "It is destroyed",
+                "It transforms into thermal and sound energy",
+                "It stays as kinetic energy"
+              ],
+              "correct": 2,
+              "hint": "Energy is never destroyed. It transforms into other forms."
+            },
+            {
+              "type": "true_false",
+              "question": "In every energy transformation, some energy becomes thermal energy (heat).",
+              "answer": true,
+              "hint": "This is why machines get warm and why no energy transformation is 100% efficient."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When you eat food, what energy transformation occurs?",
+              "options": [
+                "Light to sound",
+                "Chemical to kinetic and thermal",
+                "Kinetic to potential",
+                "Electrical to chemical"
+              ],
+              "correct": 1,
+              "hint": "Food contains chemical energy. Your body converts it to movement and body heat."
+            },
+            {
+              "type": "fill_in",
+              "question": "When energy changes from one form to another, it is called energy ___.",
+              "answer": "transformation",
+              "hint": "A toaster transforms electrical energy into thermal (heat) and light energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Solar panels transform ___ energy into electrical energy.",
+              "options": [
+                "Sound",
+                "Chemical",
+                "Light",
+                "Thermal"
+              ],
+              "correct": 2,
+              "hint": "Solar panels absorb energy from the sun."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-5-3",
+          "title": "Forces and Motion",
+          "type": "lesson",
+          "content": {
+            "explanation": "A force is a push or a pull that can change an object's motion. Forces can make objects start moving, stop moving, speed up, slow down, or change direction. Isaac Newton described three laws of motion. The first law (law of inertia) states that an object at rest stays at rest, and an object in motion stays in motion at the same speed and direction, unless acted on by an unbalanced force. This means a ball will not roll unless you push it, and it will keep rolling until friction or another force stops it. The second law states that the more force you apply to an object, the more it accelerates (speeds up). Also, heavier objects need more force to move. Force equals mass times acceleration (F = m x a). The third law states that for every action, there is an equal and opposite reaction. When you push against a wall, the wall pushes back on you with the same force. When a rocket pushes gas downward, the gas pushes the rocket upward.",
+            "examples": [
+              {
+                "problem": "Why do you lean forward when a car suddenly stops?",
+                "answer": "Newton's first law (inertia): your body was moving forward with the car. When the car stops, your body wants to keep moving forward. The seatbelt provides the force to stop you.",
+                "explanation": "Objects in motion tend to stay in motion unless a force acts on them. Your body's inertia keeps it moving forward."
+              },
+              {
+                "problem": "Why is it harder to push a heavy box than a light box?",
+                "answer": "Newton's second law: heavier objects (more mass) need more force to accelerate. The heavy box has more mass, so you need to push harder to move it at the same speed.",
+                "explanation": "F = m x a. If mass is larger, you need more force to get the same acceleration."
+              }
+            ],
+            "key_vocabulary": [
+              "force",
+              "motion",
+              "inertia",
+              "Newton's laws",
+              "acceleration",
+              "friction",
+              "mass",
+              "action",
+              "reaction",
+              "unbalanced force"
+            ],
+            "real_world": "When astronauts are in space with almost no friction or air resistance, Newton's first law is very obvious. If an astronaut throws a ball, it keeps going in a straight line forever (or until it hits something) because there is almost no force to slow it down!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Newton's first law of motion is also called the law of:",
+              "options": [
+                "Gravity",
+                "Inertia",
+                "Friction",
+                "Acceleration"
+              ],
+              "correct": 1,
+              "hint": "This law says objects resist changes in their motion."
+            },
+            {
+              "type": "fill_in",
+              "question": "A push or a pull that can change an object's motion is called a ___.",
+              "answer": "force",
+              "hint": "This can make objects start moving, stop, speed up, slow down, or change direction."
+            },
+            {
+              "type": "true_false",
+              "question": "A heavier object needs less force to move than a lighter object.",
+              "answer": false,
+              "hint": "Newton's second law says more mass needs MORE force to accelerate."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "According to Newton's third law, when you push a wall:",
+              "options": [
+                "The wall does nothing",
+                "The wall pushes back with equal force",
+                "The wall moves away",
+                "The wall pushes back with more force"
+              ],
+              "correct": 1,
+              "hint": "For every action, there is an equal and opposite reaction."
+            },
+            {
+              "type": "true_false",
+              "question": "An object in motion will eventually stop on its own even without any forces acting on it.",
+              "answer": false,
+              "hint": "Newton's first law says objects in motion stay in motion unless a force acts on them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What force slows down a ball rolling on the ground?",
+              "options": [
+                "Gravity",
+                "Inertia",
+                "Friction",
+                "Magnetism"
+              ],
+              "correct": 2,
+              "hint": "This force acts between surfaces that touch and opposes motion."
+            },
+            {
+              "type": "fill_in",
+              "question": "Newton's second law can be written as the equation F = m x ___.",
+              "answer": "a",
+              "hint": "Force equals mass times this. It means speeding up or slowing down."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does a rocket lift off the ground?",
+              "options": [
+                "It pushes air downward",
+                "Hot gases push downward, and the rocket is pushed upward (Newton's 3rd law)",
+                "Gravity pushes it up",
+                "The fuel makes it lighter"
+              ],
+              "correct": 1,
+              "hint": "For every action (gas pushing down), there is an equal and opposite reaction (rocket going up)."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-5-4",
+          "title": "Speed, Velocity, and Acceleration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Speed is how fast an object is moving. It is calculated by dividing distance by time: speed = distance / time. If you run 100 meters in 20 seconds, your speed is 100 / 20 = 5 meters per second (m/s). Average speed is the total distance divided by total time for a whole trip. Velocity is speed with a direction. Saying 'a car moves at 60 mph' describes speed. Saying 'a car moves at 60 mph north' describes velocity. Velocity matters because direction matters \u2014 a plane flying north at 500 mph and a plane flying south at 500 mph have the same speed but different velocities. Acceleration is the rate at which velocity changes. When a car speeds up from 0 to 60 mph, it is accelerating. When it slows down (decelerates), it is also changing velocity. Acceleration is calculated as: acceleration = change in velocity / time. Even changing direction at the same speed is acceleration because the velocity (which includes direction) is changing.",
+            "examples": [
+              {
+                "problem": "A car travels 240 miles in 4 hours. What is its average speed?",
+                "answer": "Average speed = distance / time = 240 miles / 4 hours = 60 miles per hour (mph).",
+                "explanation": "Divide the total distance by the total time to find average speed."
+              },
+              {
+                "problem": "What is the difference between speed and velocity?",
+                "answer": "Speed is how fast something moves (just a number). Velocity is speed plus direction. 30 mph is a speed. 30 mph north is a velocity.",
+                "explanation": "Velocity includes direction, which is important for describing motion precisely."
+              }
+            ],
+            "key_vocabulary": [
+              "speed",
+              "velocity",
+              "acceleration",
+              "deceleration",
+              "distance",
+              "time",
+              "rate",
+              "direction",
+              "average speed"
+            ],
+            "real_world": "Speed limits on roads are posted in miles per hour (mph) or kilometers per hour (km/h). A cheetah can reach speeds of 70 mph in short bursts, making it the fastest land animal. But a peregrine falcon can dive at over 240 mph!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How do you calculate speed?",
+              "options": [
+                "Speed = time x distance",
+                "Speed = distance / time",
+                "Speed = force x mass",
+                "Speed = time / distance"
+              ],
+              "correct": 1,
+              "hint": "If you travel a distance in a certain amount of time, divide distance by time."
+            },
+            {
+              "type": "fill_in",
+              "question": "Speed with a direction is called ___.",
+              "answer": "velocity",
+              "hint": "60 mph is speed. 60 mph north is this."
+            },
+            {
+              "type": "true_false",
+              "question": "A car traveling at 50 mph east and a car traveling at 50 mph west have the same velocity.",
+              "answer": false,
+              "hint": "They have the same speed, but different directions means different velocity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A bike travels 30 km in 2 hours. What is its average speed?",
+              "options": [
+                "60 km/h",
+                "15 km/h",
+                "32 km/h",
+                "28 km/h"
+              ],
+              "correct": 1,
+              "hint": "Speed = distance / time = 30 / 2 = ?"
+            },
+            {
+              "type": "true_false",
+              "question": "Slowing down is a form of acceleration.",
+              "answer": true,
+              "hint": "Acceleration is any change in velocity \u2014 speeding up, slowing down, or changing direction."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A runner goes 200 meters in 40 seconds. What is the runner's speed?",
+              "options": [
+                "8,000 m/s",
+                "5 m/s",
+                "240 m/s",
+                "160 m/s"
+              ],
+              "correct": 1,
+              "hint": "Speed = distance / time = 200 / 40 = ?"
+            },
+            {
+              "type": "fill_in",
+              "question": "The rate at which velocity changes is called ___.",
+              "answer": "acceleration",
+              "hint": "When a car speeds up from 0 to 60 mph, it is doing this."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A car going around a curve at a constant speed is:",
+              "options": [
+                "Not accelerating because speed is constant",
+                "Accelerating because direction is changing",
+                "Decelerating",
+                "Stopped"
+              ],
+              "correct": 1,
+              "hint": "Velocity includes direction. If direction changes, velocity changes."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-5-5",
+          "title": "Simple Machines",
+          "type": "lesson",
+          "content": {
+            "explanation": "Simple machines are devices that make work easier by changing the amount or direction of force needed. There are six simple machines. A lever is a bar that pivots on a fixed point called a fulcrum \u2014 like a seesaw, crowbar, or bottle opener. An inclined plane is a flat surface tilted at an angle, like a ramp. It takes less force to push something up a ramp than to lift it straight up, but you move it a longer distance. A wedge is two inclined planes put together to form a point, like an axe, knife, or doorstop. It splits or separates materials. A screw is an inclined plane wrapped around a cylinder \u2014 like a wood screw, jar lid, or spiral staircase. A wheel and axle is a wheel attached to a rod (axle) \u2014 like a doorknob, bicycle wheel, or screwdriver. A pulley is a wheel with a rope around it that changes the direction of force \u2014 like a flagpole pulley or a crane. Compound machines combine two or more simple machines, like scissors (lever + wedge) or a bicycle (wheel and axle + lever + pulley).",
+            "examples": [
+              {
+                "problem": "Why is it easier to push a heavy box up a ramp than to lift it straight up?",
+                "answer": "A ramp (inclined plane) spreads the work over a longer distance, reducing the force needed at any moment. You use less force, but you move the box a greater distance.",
+                "explanation": "Simple machines do not reduce the total work \u2014 they make it easier by reducing the force needed or changing its direction."
+              },
+              {
+                "problem": "How is a screw related to an inclined plane?",
+                "answer": "A screw is an inclined plane wrapped in a spiral around a cylinder. The threads of the screw are the inclined plane. Turning the screw moves it forward with less force than pushing it straight in.",
+                "explanation": "If you could unwrap the threads of a screw, you would see a long, thin triangle \u2014 an inclined plane!"
+              }
+            ],
+            "key_vocabulary": [
+              "simple machine",
+              "lever",
+              "fulcrum",
+              "inclined plane",
+              "wedge",
+              "screw",
+              "wheel and axle",
+              "pulley",
+              "compound machine",
+              "force"
+            ],
+            "real_world": "Your body uses simple machines! Your arm is a lever (the elbow is the fulcrum). Your front teeth are wedges for cutting food. Every time you use a doorknob (wheel and axle), climb stairs (inclined plane), or use scissors (lever + wedge), you are using simple machines!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many types of simple machines are there?",
+              "options": [
+                "3",
+                "4",
+                "6",
+                "8"
+              ],
+              "correct": 2,
+              "hint": "Lever, inclined plane, wedge, screw, wheel and axle, and pulley."
+            },
+            {
+              "type": "fill_in",
+              "question": "The fixed point on which a lever pivots is called the ___.",
+              "answer": "fulcrum",
+              "hint": "On a seesaw, this is the center point where the board balances."
+            },
+            {
+              "type": "true_false",
+              "question": "A ramp is an example of an inclined plane.",
+              "answer": true,
+              "hint": "An inclined plane is any flat surface tilted at an angle."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A screw is actually what simple machine wrapped in a spiral?",
+              "options": [
+                "Lever",
+                "Pulley",
+                "Inclined plane",
+                "Wedge"
+              ],
+              "correct": 2,
+              "hint": "The threads of a screw form a spiral ramp."
+            },
+            {
+              "type": "true_false",
+              "question": "Simple machines reduce the total amount of work needed.",
+              "answer": false,
+              "hint": "Simple machines make work EASIER by reducing force, but you move the object a longer distance. Total work stays the same."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which simple machine is used in a flagpole to raise a flag?",
+              "options": [
+                "Lever",
+                "Wedge",
+                "Pulley",
+                "Screw"
+              ],
+              "correct": 2,
+              "hint": "A wheel with a rope that changes the direction of force \u2014 you pull down, the flag goes up."
+            },
+            {
+              "type": "fill_in",
+              "question": "A knife and an axe are examples of a ___.",
+              "answer": "wedge",
+              "hint": "These tools have two inclined planes that meet at a sharp point to split things apart."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Scissors are an example of a compound machine combining:",
+              "options": [
+                "Pulley and wheel",
+                "Lever and wedge",
+                "Screw and lever",
+                "Ramp and pulley"
+              ],
+              "correct": 1,
+              "hint": "The handles act as levers and the blades act as wedges."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is kinetic energy?",
+            "options": [
+              "Stored energy",
+              "Energy of motion",
+              "Heat energy",
+              "Chemical energy"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Energy can be created from nothing.",
+            "answer": false
+          },
+          {
+            "type": "fill_in",
+            "question": "Speed is calculated by dividing distance by ___.",
+            "answer": "time"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Newton's first law is also called the law of:",
+            "options": [
+              "Gravity",
+              "Inertia",
+              "Friction",
+              "Energy"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "In every energy transformation, some energy becomes heat.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A ramp is an example of which simple machine?",
+            "options": [
+              "Lever",
+              "Pulley",
+              "Inclined plane",
+              "Wedge"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The fixed point on which a lever pivots is called the ___.",
+            "answer": "fulcrum"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "According to Newton's third law, for every action there is:",
+            "options": [
+              "No reaction",
+              "A larger reaction",
+              "An equal and opposite reaction",
+              "A delayed reaction"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Velocity is speed with a direction.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Food contains what type of stored energy?",
+            "options": [
+              "Kinetic",
+              "Thermal",
+              "Chemical",
+              "Electrical"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "energy_engineer"
+      }
+    },
+    {
+      "id": "5-sci-6",
+      "title": "Engineering & Design",
+      "description": "Learn how engineers solve problems using the engineering design process, explore how science and technology work together, and design your own solutions to real-world challenges.",
+      "lessons": [
+        {
+          "id": "5-sci-6-1",
+          "title": "What Is Engineering?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Engineering is the process of using science, math, and creativity to design solutions to real-world problems. Engineers do not just build things \u2014 they identify problems, research solutions, design prototypes, test them, and improve them. There are many types of engineers. Civil engineers design roads, bridges, and buildings. Mechanical engineers design machines and tools. Electrical engineers work with electrical systems and electronics. Environmental engineers find ways to protect the environment, like designing water treatment plants or finding clean energy solutions. Biomedical engineers design medical devices and artificial organs. Aerospace engineers design aircraft and spacecraft. All engineers follow a similar process: they define the problem, research what is already known, brainstorm ideas, build and test solutions, and improve their designs based on results. Engineering is not about getting it right the first time \u2014 it is about improving through repeated testing and redesign.",
+            "examples": [
+              {
+                "problem": "How is engineering different from science?",
+                "answer": "Science focuses on understanding the natural world through observation and experiments. Engineering focuses on using scientific knowledge to design and build solutions to practical problems.",
+                "explanation": "Scientists ask 'Why does this happen?' Engineers ask 'How can I use this knowledge to solve a problem?'"
+              },
+              {
+                "problem": "Name an engineering solution to a real-world problem.",
+                "answer": "Water filters are an engineering solution to the problem of dirty water. Engineers used knowledge of chemistry and biology to design filters that remove bacteria, chemicals, and particles from water.",
+                "explanation": "Engineers take scientific knowledge and apply it to create tools, systems, and solutions that help people."
+              }
+            ],
+            "key_vocabulary": [
+              "engineering",
+              "engineer",
+              "design",
+              "prototype",
+              "solution",
+              "civil engineer",
+              "mechanical engineer",
+              "electrical engineer",
+              "biomedical engineer"
+            ],
+            "real_world": "Every object you use was designed by an engineer! Your phone, the building you are in, the water coming from your faucet, the car or bus you ride \u2014 engineers designed all of these to solve problems and make life easier."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is engineering?",
+              "options": [
+                "Only building bridges",
+                "Using science and math to design solutions to problems",
+                "Studying animals in nature",
+                "Writing computer programs only"
+              ],
+              "correct": 1,
+              "hint": "Engineering is about solving real-world problems using scientific knowledge."
+            },
+            {
+              "type": "fill_in",
+              "question": "A first version of a design built for testing is called a ___.",
+              "answer": "prototype",
+              "hint": "Engineers build this to test their ideas before making the final product."
+            },
+            {
+              "type": "true_false",
+              "question": "Engineers always get their designs right on the first try.",
+              "answer": false,
+              "hint": "Engineering involves testing, failing, learning, and improving. Rarely is the first attempt perfect."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of engineer designs roads and bridges?",
+              "options": [
+                "Mechanical engineer",
+                "Electrical engineer",
+                "Civil engineer",
+                "Biomedical engineer"
+              ],
+              "correct": 2,
+              "hint": "'Civil' relates to cities and communities \u2014 the infrastructure we all use."
+            },
+            {
+              "type": "true_false",
+              "question": "Science and engineering are the same thing.",
+              "answer": false,
+              "hint": "Science seeks to understand the natural world. Engineering uses that understanding to build solutions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A biomedical engineer might design:",
+              "options": [
+                "A highway",
+                "An artificial heart",
+                "An airplane",
+                "A computer chip"
+              ],
+              "correct": 1,
+              "hint": "'Bio' means life, 'medical' relates to medicine. This engineer works on medical solutions."
+            },
+            {
+              "type": "fill_in",
+              "question": "Engineers who design aircraft and spacecraft are called ___ engineers.",
+              "answer": "aerospace",
+              "hint": "'Aero' means air, 'space' means outer space."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do all types of engineers have in common?",
+              "options": [
+                "They all build bridges",
+                "They all use computers",
+                "They all solve problems using science and math",
+                "They all work in factories"
+              ],
+              "correct": 2,
+              "hint": "The core of engineering is using scientific knowledge to solve practical problems."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-6-2",
+          "title": "The Engineering Design Process",
+          "type": "lesson",
+          "content": {
+            "explanation": "The engineering design process is a series of steps engineers follow to solve problems. Step 1: Define the Problem \u2014 clearly identify what problem you are trying to solve and what constraints (limits) you have, like budget, materials, or time. Step 2: Research \u2014 learn about the problem and find out what solutions already exist. Step 3: Brainstorm \u2014 come up with as many ideas as possible without judging them. The more ideas the better! Step 4: Choose a Solution \u2014 evaluate your ideas and pick the best one based on your constraints. Step 5: Build a Prototype \u2014 create a simple, testable version of your design. Step 6: Test and Evaluate \u2014 test your prototype and collect data on how well it works. Did it solve the problem? Step 7: Improve \u2014 use your test results to make your design better. Then test again! This process is not always linear \u2014 engineers often go back to earlier steps as they learn more. This repeating cycle of testing and improving is called iteration.",
+            "examples": [
+              {
+                "problem": "A school needs to reduce the amount of water wasted at drinking fountains. Walk through the engineering design process.",
+                "answer": "Define: Water runs too long at fountains. Research: Study how much water is wasted and how fountains work. Brainstorm: Automatic shut-off, foot pedals, sensors, shorter timers. Choose: Automatic sensor shut-off. Build: Create a prototype sensor. Test: Install and measure water savings. Improve: Adjust sensor timing based on results.",
+                "explanation": "The engineering design process gives engineers an organized approach to solving any problem."
+              },
+              {
+                "problem": "Why is iteration important in engineering?",
+                "answer": "Iteration means repeating the testing and improving steps. The first prototype rarely works perfectly. Each round of testing reveals problems that can be fixed in the next version. This cycle continues until the design meets all requirements.",
+                "explanation": "Most successful products went through many iterations. The first iPhone was very different from today's version \u2014 years of iteration improved it."
+              }
+            ],
+            "key_vocabulary": [
+              "engineering design process",
+              "define",
+              "research",
+              "brainstorm",
+              "prototype",
+              "test",
+              "evaluate",
+              "improve",
+              "iteration",
+              "constraint"
+            ],
+            "real_world": "The Wright brothers did not build a successful airplane on their first try. They went through the engineering design process many times \u2014 testing different wing shapes, building wind tunnels, and crashing many prototypes before their famous 1903 flight!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the first step of the engineering design process?",
+              "options": [
+                "Build a prototype",
+                "Brainstorm ideas",
+                "Define the problem",
+                "Test the solution"
+              ],
+              "correct": 2,
+              "hint": "Before you can solve a problem, you must clearly identify what the problem IS."
+            },
+            {
+              "type": "fill_in",
+              "question": "The repeating cycle of testing and improving a design is called ___.",
+              "answer": "iteration",
+              "hint": "Engineers repeat the test-improve cycle many times to make designs better."
+            },
+            {
+              "type": "true_false",
+              "question": "The engineering design process must always be followed in exact order.",
+              "answer": false,
+              "hint": "Engineers often go back to earlier steps as they learn more from testing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are constraints in engineering?",
+              "options": [
+                "Tools used to build things",
+                "Limits like budget, time, and materials",
+                "Types of engineers",
+                "Test results"
+              ],
+              "correct": 1,
+              "hint": "Every project has limits \u2014 you cannot spend unlimited money or time."
+            },
+            {
+              "type": "true_false",
+              "question": "During brainstorming, you should judge and eliminate bad ideas immediately.",
+              "answer": false,
+              "hint": "In brainstorming, the goal is to generate as many ideas as possible WITHOUT judging them."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do engineers build prototypes?",
+              "options": [
+                "To sell to customers",
+                "To test their ideas before making the final product",
+                "Because the first version is always perfect",
+                "To replace the original design"
+              ],
+              "correct": 1,
+              "hint": "A prototype is a test version. It helps engineers find and fix problems."
+            },
+            {
+              "type": "fill_in",
+              "question": "Limits on a design like budget, materials, and time are called ___.",
+              "answer": "constraints",
+              "hint": "Every engineering project has these practical limitations."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "After testing a prototype, what should an engineer do next?",
+              "options": [
+                "Start a completely new project",
+                "Improve the design based on test results",
+                "Throw the prototype away",
+                "Declare the project finished"
+              ],
+              "correct": 1,
+              "hint": "The test results show what works and what needs to be better."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-6-3",
+          "title": "Testing and Improving Designs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Testing is one of the most important parts of engineering. A fair test changes only one variable at a time so you can tell what caused any differences in results. For example, if you are testing which bridge design can hold the most weight, you should use the same materials, the same size, and the same testing method for each design \u2014 only the shape should be different. Engineers collect data during tests by measuring and recording results carefully. They might measure how much weight a structure holds, how far a vehicle travels, how fast a process works, or how much energy a device uses. After collecting data, engineers analyze the results to find patterns and determine if the design meets the requirements. If it does not, they identify what needs to change and redesign. This cycle of build-test-analyze-improve is repeated until the design works well. Failure is not bad in engineering \u2014 each failure teaches you something valuable about how to make the design better.",
+            "examples": [
+              {
+                "problem": "You are testing two paper airplane designs to see which flies farther. What variables should you keep the same?",
+                "answer": "Keep the same: paper size, paper type, throwing force, throwing angle, throwing height, and testing location. Only change: the airplane fold design.",
+                "explanation": "A fair test controls all variables except the one you are testing. This way you know that differences in distance are caused by the design, not other factors."
+              },
+              {
+                "problem": "Your bridge prototype collapsed under 5 pounds but needed to hold 10 pounds. What do you do?",
+                "answer": "Analyze why it collapsed (weak joints? thin beams? bad shape?). Research stronger structures. Redesign the weak points. Build a new prototype. Test again.",
+                "explanation": "The collapse is not a failure \u2014 it is data! It tells you exactly where the design needs improvement."
+              }
+            ],
+            "key_vocabulary": [
+              "fair test",
+              "variable",
+              "data",
+              "analyze",
+              "requirement",
+              "redesign",
+              "control",
+              "measure",
+              "failure",
+              "improvement"
+            ],
+            "real_world": "Car manufacturers crash-test cars hundreds of times with dummy passengers to find weak points in safety designs. Each crash provides data that engineers use to make cars safer. The crash tests that 'fail' are the most valuable because they show what needs to improve!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a fair test, how many variables should you change at a time?",
+              "options": [
+                "None",
+                "One",
+                "Two",
+                "As many as possible"
+              ],
+              "correct": 1,
+              "hint": "Changing only one variable tells you exactly what caused the results to change."
+            },
+            {
+              "type": "fill_in",
+              "question": "Information collected during a test by measuring and recording results is called ___.",
+              "answer": "data",
+              "hint": "Scientists and engineers collect this to analyze their experiments and tests."
+            },
+            {
+              "type": "true_false",
+              "question": "In engineering, failure is always a bad thing.",
+              "answer": false,
+              "hint": "Failures teach engineers what needs to improve. Every failure provides valuable information."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is it important to control variables during testing?",
+              "options": [
+                "It makes the test faster",
+                "So you know what caused the results to change",
+                "It uses fewer materials",
+                "It is easier"
+              ],
+              "correct": 1,
+              "hint": "If you change multiple things, you cannot tell which change caused the different results."
+            },
+            {
+              "type": "true_false",
+              "question": "Engineers should stop testing after the first successful trial.",
+              "answer": false,
+              "hint": "Engineers test multiple times to make sure results are consistent and to find more improvements."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "After analyzing test data, if the design does not meet requirements, an engineer should:",
+              "options": [
+                "Give up on the project",
+                "Identify weaknesses and redesign",
+                "Keep the same design and hope it works next time",
+                "Start a completely different project"
+              ],
+              "correct": 1,
+              "hint": "The test data tells you what to fix. Use it to make the design better."
+            },
+            {
+              "type": "fill_in",
+              "question": "A test that changes only one variable while keeping everything else the same is called a ___ test.",
+              "answer": "fair",
+              "hint": "This type of test makes sure the results are caused by the variable you changed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When testing paper airplane designs for distance, which should be kept the same?",
+              "options": [
+                "The fold design",
+                "Only the paper color",
+                "Paper size, throwing force, angle, and location",
+                "Nothing needs to be the same"
+              ],
+              "correct": 2,
+              "hint": "Everything except the variable you are testing (fold design) should stay the same."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-sci-6-4",
+          "title": "Technology and Society",
+          "type": "lesson",
+          "content": {
+            "explanation": "Technology is any tool, system, or device created by humans to solve a problem or meet a need. Technology is not just electronics \u2014 a pencil, a wheel, eyeglasses, and a water filter are all technology. Science and technology have a two-way relationship. Scientific discoveries lead to new technologies (understanding electricity led to light bulbs). New technologies lead to scientific discoveries (telescopes led to understanding the universe). Technology has both benefits and drawbacks for society. Medical technology like vaccines and X-rays saves lives. Transportation technology like cars and airplanes connects people. Communication technology like phones and the internet lets us share information instantly. However, technology can also have negative effects. Factories cause pollution. Social media can spread misinformation. Cars contribute to climate change. Responsible engineering means considering both the benefits and potential negative impacts of a technology before building it. Engineers must think about how their designs affect people, animals, and the environment.",
+            "examples": [
+              {
+                "problem": "How did the invention of the microscope lead to scientific discoveries?",
+                "answer": "The microscope (technology) allowed scientists to see cells, bacteria, and other tiny organisms for the first time. This led to cell theory, the germ theory of disease, and modern medicine.",
+                "explanation": "New technology often opens doors to discoveries that were impossible before. Technology and science push each other forward."
+              },
+              {
+                "problem": "What are the benefits and drawbacks of plastic?",
+                "answer": "Benefits: lightweight, durable, cheap, versatile, used in medical devices. Drawbacks: takes hundreds of years to decompose, pollutes oceans, harms wildlife, made from fossil fuels.",
+                "explanation": "Most technologies have both positive and negative effects. Engineers must weigh both when designing solutions."
+              }
+            ],
+            "key_vocabulary": [
+              "technology",
+              "benefit",
+              "drawback",
+              "society",
+              "innovation",
+              "responsible engineering",
+              "impact",
+              "misinformation",
+              "pollution"
+            ],
+            "real_world": "Electric cars are an engineering solution to the pollution caused by gasoline cars. But they also have drawbacks \u2014 the batteries require mining for rare minerals, and the electricity to charge them sometimes comes from coal power plants. Engineers are working to improve these issues!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of these is an example of technology?",
+              "options": [
+                "A sunset",
+                "A rainstorm",
+                "A pencil",
+                "A mountain"
+              ],
+              "correct": 2,
+              "hint": "Technology is anything humans create to solve a problem or meet a need."
+            },
+            {
+              "type": "fill_in",
+              "question": "Technology is any tool, system, or device created by humans to solve a ___ or meet a need.",
+              "answer": "problem",
+              "hint": "Engineering and technology are all about solving these."
+            },
+            {
+              "type": "true_false",
+              "question": "Technology only refers to electronic devices like computers and phones.",
+              "answer": false,
+              "hint": "A wheel, a pencil, eyeglasses, and a water filter are all technology too."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How are science and technology related?",
+              "options": [
+                "They are the same thing",
+                "They have a two-way relationship \u2014 each helps the other advance",
+                "Science came first and technology came later",
+                "They are not related at all"
+              ],
+              "correct": 1,
+              "hint": "Science leads to new technology, and new technology leads to scientific discoveries."
+            },
+            {
+              "type": "true_false",
+              "question": "All technology has only positive effects on society.",
+              "answer": false,
+              "hint": "Technology has both benefits and drawbacks. Cars are useful but also cause pollution."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What should responsible engineers consider when designing technology?",
+              "options": [
+                "Only the cost",
+                "Only how fast they can build it",
+                "Both the benefits and potential negative impacts",
+                "Only what customers want"
+              ],
+              "correct": 2,
+              "hint": "Responsible engineering means thinking about how designs affect people AND the environment."
+            },
+            {
+              "type": "fill_in",
+              "question": "Scientific discoveries lead to new technologies, and new technologies lead to scientific ___.",
+              "answer": "discoveries",
+              "hint": "Science and technology push each other forward in a cycle."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a drawback of plastic technology?",
+              "options": [
+                "It is too expensive",
+                "It is too heavy",
+                "It takes hundreds of years to decompose and pollutes oceans",
+                "It breaks too easily"
+              ],
+              "correct": 2,
+              "hint": "Plastic pollution in oceans is a major environmental problem caused by this technology."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the first step of the engineering design process?",
+            "options": [
+              "Build a prototype",
+              "Test the solution",
+              "Define the problem",
+              "Brainstorm ideas"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "A first version of a design built for testing is called a ___.",
+            "answer": "prototype"
+          },
+          {
+            "type": "true_false",
+            "question": "Technology only refers to computers and electronics.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In a fair test, how many variables should you change?",
+            "options": [
+              "None",
+              "One",
+              "Three",
+              "All of them"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Failure in engineering provides valuable information for improvement.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The repeating cycle of testing and improving is called:",
+            "options": [
+              "Brainstorming",
+              "Constraint",
+              "Iteration",
+              "Research"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Limits on a design like budget, materials, and time are called ___.",
+            "answer": "constraints"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of engineer designs roads and bridges?",
+            "options": [
+              "Mechanical",
+              "Electrical",
+              "Civil",
+              "Biomedical"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Science and technology have a two-way relationship.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What should responsible engineers consider?",
+            "options": [
+              "Only profit",
+              "Only speed",
+              "Both benefits and negative impacts",
+              "Only customer requests"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "design_thinker"
+      }
+    }
+  ]
+}

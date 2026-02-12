@@ -1,0 +1,733 @@
+{
+  "grade": 0,
+  "subject": "math",
+  "units": [
+    {
+      "id": "k-math-1",
+      "title": "Counting to 10",
+      "description": "Learn to count from 1 to 10, recognize numbers, and count objects.",
+      "lessons": [
+        {
+          "id": "k-math-1-1",
+          "title": "Counting Objects 1 to 5",
+          "type": "lesson",
+          "content": {
+            "explanation": "Counting means finding out how many things there are. Point to each object one at a time and say the numbers: 1, 2, 3, 4, 5. Each object gets one number. When you finish pointing, the last number you say tells you how many there are!",
+            "examples": [
+              {"problem": "Count the apples: apple apple apple", "answer": "3", "explanation": "Point to each apple and count: 1, 2, 3. There are 3 apples!"},
+              {"problem": "Count the stars: star star star star star", "answer": "5", "explanation": "Point to each star: 1, 2, 3, 4, 5. There are 5 stars!"},
+              {"problem": "Count the balls: ball ball", "answer": "2", "explanation": "Point to each ball: 1, 2. There are 2 balls!"}
+            ],
+            "key_vocabulary": ["count", "how many", "number", "one", "two", "three", "four", "five"],
+            "real_world": "You can count anything! Count your fingers on one hand: 1, 2, 3, 4, 5."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many cats? cat cat cat cat", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Point to each cat and count."},
+            {"type": "multiple_choice", "question": "How many dogs? dog dog", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Point to each dog and count."},
+            {"type": "fill_in", "question": "Count the hearts: heart heart heart heart heart. How many? ___", "answer": "5", "hint": "Point to each heart and count. The last number you say is the answer."},
+            {"type": "multiple_choice", "question": "How many fish? fish", "options": ["1", "2", "3", "0"], "correct": 0, "hint": "There is just one fish."},
+            {"type": "fill_in", "question": "Count the birds: bird bird bird. How many? ___", "answer": "3", "hint": "Point to each bird: 1, 2, 3."},
+            {"type": "multiple_choice", "question": "Which number comes after 3?", "options": ["2", "5", "4", "1"], "correct": 2, "hint": "Count: 1, 2, 3, ___"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-1-2",
+          "title": "Counting Objects 6 to 10",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now let's count higher! After 5 comes 6, 7, 8, 9, 10. Remember to point to each object as you count. Don't skip any and don't count the same one twice!",
+            "examples": [
+              {"problem": "Count the dots: dot dot dot dot dot dot dot", "answer": "7", "explanation": "Point to each dot: 1, 2, 3, 4, 5, 6, 7. There are 7 dots!"},
+              {"problem": "Count the blocks: 10 blocks in a row", "answer": "10", "explanation": "Count all the way: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. There are 10 blocks!"},
+              {"problem": "Count the flowers: 8 flowers", "answer": "8", "explanation": "Count each flower: 1, 2, 3, 4, 5, 6, 7, 8. There are 8 flowers!"}
+            ],
+            "key_vocabulary": ["six", "seven", "eight", "nine", "ten", "count"],
+            "real_world": "Count all 10 of your fingers. Hold them up and count each one!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many stars are there? star star star star star star", "options": ["5", "6", "7", "8"], "correct": 1, "hint": "Point to each star and count carefully."},
+            {"type": "fill_in", "question": "Count the circles: 9 circles. How many? ___", "answer": "9", "hint": "Count each one: 1, 2, 3 ... keep going!"},
+            {"type": "multiple_choice", "question": "How many fingers do you have on both hands?", "options": ["5", "8", "10", "12"], "correct": 2, "hint": "Count all the fingers on both hands."},
+            {"type": "fill_in", "question": "Count the trees: tree tree tree tree tree tree tree tree. How many? ___", "answer": "8", "hint": "Touch each tree as you count."},
+            {"type": "multiple_choice", "question": "Which number comes after 9?", "options": ["8", "11", "10", "7"], "correct": 2, "hint": "Count: 7, 8, 9, ___"},
+            {"type": "fill_in", "question": "Count the bees: bee bee bee bee bee bee bee. How many? ___", "answer": "7", "hint": "Point to each bee as you count."},
+            {"type": "multiple_choice", "question": "How many suns? sun sun sun sun sun sun sun sun sun sun", "options": ["8", "9", "10", "11"], "correct": 2, "hint": "Count carefully all the way to the end."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-1-3",
+          "title": "Number Recognition 1 to 5",
+          "type": "lesson",
+          "content": {
+            "explanation": "Numbers have special shapes. The number 1 looks like a straight line. The number 2 has a curve at the top. The number 3 has two bumps. The number 4 has a pointed top. The number 5 has a flat top and a round bottom. Let's learn to read these numbers!",
+            "examples": [
+              {"problem": "What number is this: 3", "answer": "3", "explanation": "This is the number 3. It has two bumps on the right side."},
+              {"problem": "What number is this: 5", "answer": "5", "explanation": "This is the number 5. It means there are five things."},
+              {"problem": "What number is this: 1", "answer": "1", "explanation": "This is the number 1. It looks like a straight stick."}
+            ],
+            "key_vocabulary": ["number", "recognize", "digit", "numeral"],
+            "real_world": "Look around your room. Can you find any numbers? Maybe on a clock, a book, or a calendar?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which number is 'four'?", "options": ["2", "5", "4", "1"], "correct": 2, "hint": "Four comes after three."},
+            {"type": "multiple_choice", "question": "Which number is 'two'?", "options": ["2", "5", "3", "1"], "correct": 0, "hint": "Two has a curve and sits on a flat line."},
+            {"type": "multiple_choice", "question": "What is the name of this number: 5", "options": ["three", "four", "two", "five"], "correct": 3, "hint": "It's the biggest number we've learned so far."},
+            {"type": "fill_in", "question": "Write the number that means 'three': ___", "answer": "3", "hint": "Three comes after two."},
+            {"type": "multiple_choice", "question": "Which number is 'one'?", "options": ["4", "1", "3", "5"], "correct": 1, "hint": "One is the first number we count."},
+            {"type": "fill_in", "question": "What number comes between 3 and 5? ___", "answer": "4", "hint": "Count: 3, ___, 5"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-1-4",
+          "title": "Number Recognition 6 to 10",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now let's learn the bigger numbers! The number 6 has a big round belly. The number 7 has a line across the top. The number 8 looks like a snowman. The number 9 looks like 6 upside down. The number 10 is special because it uses TWO digits: a 1 and a 0!",
+            "examples": [
+              {"problem": "What number is this: 8", "answer": "8", "explanation": "This is the number 8. It looks like a snowman with two circles stacked!"},
+              {"problem": "What number is this: 10", "answer": "10", "explanation": "This is the number 10. It uses two digits together: 1 and 0."},
+              {"problem": "What number is this: 6", "answer": "6", "explanation": "This is the number 6. It has a big round belly at the bottom."}
+            ],
+            "key_vocabulary": ["six", "seven", "eight", "nine", "ten", "digit"],
+            "real_world": "When you play hide and seek, you count to 10! Can you count 1, 2, 3, 4, 5, 6, 7, 8, 9, 10?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which number is 'seven'?", "options": ["9", "6", "7", "8"], "correct": 2, "hint": "Seven has a line across the top."},
+            {"type": "multiple_choice", "question": "Which number is 'nine'?", "options": ["6", "9", "8", "10"], "correct": 1, "hint": "Nine looks like a 6 turned upside down."},
+            {"type": "fill_in", "question": "Write the number that means 'eight': ___", "answer": "8", "hint": "Eight looks like a snowman."},
+            {"type": "multiple_choice", "question": "Which number is 'ten'?", "options": ["01", "10", "1", "100"], "correct": 1, "hint": "Ten uses two digits: a 1 and a 0."},
+            {"type": "fill_in", "question": "What number comes after 7? ___", "answer": "8", "hint": "Count: 6, 7, ___"},
+            {"type": "multiple_choice", "question": "What is the name of this number: 6", "options": ["nine", "five", "six", "seven"], "correct": 2, "hint": "It comes right after five."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-1-5",
+          "title": "Counting on Fingers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Your fingers are great for counting! Hold up your hands and put all fingers down. Now raise one finger at a time as you count. One hand has 5 fingers. Both hands together have 10 fingers. Fingers can help you count and even add!",
+            "examples": [
+              {"problem": "Hold up 3 fingers. How many are up?", "answer": "3", "explanation": "You held up 3 fingers. You can see 1, 2, 3!"},
+              {"problem": "Hold up all fingers on one hand. How many?", "answer": "5", "explanation": "One hand has 5 fingers: thumb, pointer, middle, ring, pinky."},
+              {"problem": "Hold up 7 fingers. How many?", "answer": "7", "explanation": "That's all 5 on one hand plus 2 more on the other hand. 5 and 2 make 7!"}
+            ],
+            "key_vocabulary": ["fingers", "hands", "count", "hold up"],
+            "real_world": "When someone asks how old you are, you can hold up fingers to show them!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many fingers are on one hand?", "options": ["4", "5", "6", "10"], "correct": 1, "hint": "Count all the fingers on one hand, including your thumb."},
+            {"type": "fill_in", "question": "How many fingers are on both hands together? ___", "answer": "10", "hint": "Count all fingers on both hands."},
+            {"type": "multiple_choice", "question": "You hold up 4 fingers. Which number is that?", "options": ["3", "5", "4", "6"], "correct": 2, "hint": "Count the fingers you held up."},
+            {"type": "fill_in", "question": "Hold up 6 fingers. That is one whole hand (5) plus how many more? ___", "answer": "1", "hint": "6 is 5 and 1 more."},
+            {"type": "multiple_choice", "question": "You hold up all fingers on one hand and 3 fingers on the other. How many total?", "options": ["7", "8", "3", "5"], "correct": 1, "hint": "5 fingers plus 3 more fingers."},
+            {"type": "fill_in", "question": "You show 9 fingers. How many fingers are still down? ___", "answer": "1", "hint": "You have 10 fingers total. If 9 are up, how many are down?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many ducks? duck duck duck duck duck duck", "options": ["4", "5", "6", "7"], "correct": 2, "hint": "Point to each duck and count."},
+          {"type": "fill_in", "question": "What number comes after 8? ___", "answer": "9", "hint": "Count: 7, 8, ___"},
+          {"type": "multiple_choice", "question": "Which number is 'ten'?", "options": ["01", "10", "100", "1"], "correct": 1, "hint": "Ten uses a 1 and a 0."},
+          {"type": "fill_in", "question": "Count the smiley faces: 4 smiley faces. How many? ___", "answer": "4", "hint": "Touch each one as you count."},
+          {"type": "multiple_choice", "question": "How many fingers are on both hands?", "options": ["5", "8", "10", "20"], "correct": 2, "hint": "Count all your fingers."},
+          {"type": "fill_in", "question": "What number comes between 6 and 8? ___", "answer": "7", "hint": "Count: 6, ___, 8"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "counting_champion"
+      }
+    },
+    {
+      "id": "k-math-2",
+      "title": "Counting to 20",
+      "description": "Extend counting skills to 20, recognize teen numbers, and understand ten and some more.",
+      "lessons": [
+        {
+          "id": "k-math-2-1",
+          "title": "Numbers 11 to 15",
+          "type": "lesson",
+          "content": {
+            "explanation": "After 10 come the teen numbers. They are 11, 12, 13, 14, 15. These numbers are 10 and some more. Eleven is 10 and 1 more. Twelve is 10 and 2 more. Can you see the pattern?",
+            "examples": [
+              {"problem": "What number is 10 and 3 more?", "answer": "13", "explanation": "10 and 3 more makes 13. Thirteen!"},
+              {"problem": "What comes after 11?", "answer": "12", "explanation": "After 11 comes 12. Count: 10, 11, 12."},
+              {"problem": "How many is 10 and 5 more?", "answer": "15", "explanation": "10 and 5 more makes 15. Fifteen!"}
+            ],
+            "key_vocabulary": ["eleven", "twelve", "thirteen", "fourteen", "fifteen", "teen numbers"],
+            "real_world": "A dozen eggs is 12. That's 10 eggs and 2 more eggs!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What number comes after 10?", "options": ["9", "11", "20", "12"], "correct": 1, "hint": "Count: 9, 10, ___"},
+            {"type": "fill_in", "question": "10 and 4 more makes ___", "answer": "14", "hint": "Start at 10 and count 4 more: 11, 12, 13, 14."},
+            {"type": "multiple_choice", "question": "What number is fifteen?", "options": ["50", "5", "15", "51"], "correct": 2, "hint": "Fifteen is 10 and 5 more."},
+            {"type": "fill_in", "question": "What number comes after 12? ___", "answer": "13", "hint": "Count: 11, 12, ___"},
+            {"type": "multiple_choice", "question": "How many is 10 and 1 more?", "options": ["10", "1", "11", "12"], "correct": 2, "hint": "Start at 10 and count 1 more."},
+            {"type": "fill_in", "question": "What number comes between 13 and 15? ___", "answer": "14", "hint": "Count: 13, ___, 15"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-2-2",
+          "title": "Numbers 16 to 20",
+          "type": "lesson",
+          "content": {
+            "explanation": "Let's keep counting! After 15 comes 16, 17, 18, 19, and then 20! The number 20 is special - it means two groups of ten. Sixteen is 10 and 6 more. Seventeen is 10 and 7 more. All the way to 19, which is 10 and 9 more.",
+            "examples": [
+              {"problem": "What number is 10 and 8 more?", "answer": "18", "explanation": "10 and 8 more makes 18. Eighteen!"},
+              {"problem": "What comes after 19?", "answer": "20", "explanation": "After 19 comes 20. Twenty! That's two groups of 10."},
+              {"problem": "What number is 10 and 6 more?", "answer": "16", "explanation": "10 and 6 more makes 16. Sixteen!"}
+            ],
+            "key_vocabulary": ["sixteen", "seventeen", "eighteen", "nineteen", "twenty"],
+            "real_world": "You have 10 toes and 10 fingers. Together that's 20!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What number comes after 17?", "options": ["16", "19", "18", "15"], "correct": 2, "hint": "Count: 16, 17, ___"},
+            {"type": "fill_in", "question": "10 and 7 more makes ___", "answer": "17", "hint": "Start at 10 and count 7 more."},
+            {"type": "multiple_choice", "question": "What number is twenty?", "options": ["12", "20", "200", "2"], "correct": 1, "hint": "Twenty means two groups of ten."},
+            {"type": "fill_in", "question": "What comes after 19? ___", "answer": "20", "hint": "19 is the last teen number. What comes next?"},
+            {"type": "multiple_choice", "question": "How many is 10 and 9 more?", "options": ["18", "19", "20", "17"], "correct": 1, "hint": "Start at 10 and count 9 more."},
+            {"type": "fill_in", "question": "What number comes between 15 and 17? ___", "answer": "16", "hint": "Count: 15, ___, 17"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-2-3",
+          "title": "Counting Objects to 20",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you count lots of objects, it helps to be organized. Touch each object as you count so you don't skip any or count one twice. You can also arrange them in a line or put them in groups of 5 or 10 to make counting easier.",
+            "examples": [
+              {"problem": "Count 14 blocks arranged in a group of 10 and a group of 4", "answer": "14", "explanation": "Count the big group: 1 through 10. Then keep counting: 11, 12, 13, 14!"},
+              {"problem": "Count 17 stickers in a row", "answer": "17", "explanation": "Point to each one: 1, 2, 3... all the way to 17!"},
+              {"problem": "Count 20 crayons in two groups of 10", "answer": "20", "explanation": "First group has 10, second group has 10. That's 20 altogether!"}
+            ],
+            "key_vocabulary": ["count", "group", "arrange", "organize", "total"],
+            "real_world": "If you have a big bag of candies, you can put them in groups of 10 to count them faster!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "You count 10 red blocks and 6 blue blocks. How many blocks in all?", "options": ["15", "16", "17", "14"], "correct": 1, "hint": "Start at 10 and count 6 more."},
+            {"type": "fill_in", "question": "You count 10 apples in one bag and 3 apples in another bag. How many apples total? ___", "answer": "13", "hint": "10 and 3 more is?"},
+            {"type": "multiple_choice", "question": "There are two groups of 10 pennies. How many pennies?", "options": ["10", "15", "20", "12"], "correct": 2, "hint": "10 and 10 more is?"},
+            {"type": "fill_in", "question": "You count 10 crayons and 8 more crayons. How many crayons in all? ___", "answer": "18", "hint": "Start at 10 and count 8 more."},
+            {"type": "multiple_choice", "question": "A box has 10 toy cars and 2 more on the table. How many cars total?", "options": ["10", "12", "20", "2"], "correct": 1, "hint": "10 and 2 more makes?"},
+            {"type": "fill_in", "question": "You count 10 books on one shelf and 10 books on another shelf. How many books? ___", "answer": "20", "hint": "10 + 10 = ?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-2-4",
+          "title": "Ten and Some More",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every teen number is made of 10 and some more. This is a big idea! The number 11 is 10 + 1. The number 15 is 10 + 5. The number 19 is 10 + 9. When you see a teen number, think: that's 10 and how many more?",
+            "examples": [
+              {"problem": "14 is 10 and how many more?", "answer": "4", "explanation": "14 = 10 + 4. So 14 is ten and four more!"},
+              {"problem": "10 + 7 = ?", "answer": "17", "explanation": "10 and 7 more makes 17!"},
+              {"problem": "18 is 10 and how many more?", "answer": "8", "explanation": "18 = 10 + 8. Eighteen is ten and eight more!"}
+            ],
+            "key_vocabulary": ["ten", "more", "teen", "plus", "and"],
+            "real_world": "If you have 10 grapes and someone gives you 5 more, you have 15 grapes. That's ten and five more!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "13 is 10 and how many more? ___", "answer": "3", "hint": "13 = 10 + ?"},
+            {"type": "multiple_choice", "question": "10 + 6 = ?", "options": ["14", "15", "16", "17"], "correct": 2, "hint": "Start at 10 and count 6 more."},
+            {"type": "fill_in", "question": "16 is 10 and how many more? ___", "answer": "6", "hint": "16 = 10 + ?"},
+            {"type": "multiple_choice", "question": "10 + 2 = ?", "options": ["20", "12", "10", "2"], "correct": 1, "hint": "Ten and two more makes?"},
+            {"type": "fill_in", "question": "10 + 9 = ___", "answer": "19", "hint": "Start at 10 and count 9 more."},
+            {"type": "multiple_choice", "question": "17 is 10 and how many more?", "options": ["5", "6", "7", "8"], "correct": 2, "hint": "What plus 10 equals 17?"},
+            {"type": "fill_in", "question": "10 + 5 = ___", "answer": "15", "hint": "Ten and five more."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "What number comes after 15? ___", "answer": "16", "hint": "Count: 14, 15, ___"},
+          {"type": "multiple_choice", "question": "10 + 8 = ?", "options": ["17", "18", "19", "80"], "correct": 1, "hint": "Ten and eight more."},
+          {"type": "fill_in", "question": "19 is 10 and how many more? ___", "answer": "9", "hint": "19 = 10 + ?"},
+          {"type": "multiple_choice", "question": "You count 10 red beads and 4 blue beads. How many beads?", "options": ["10", "4", "14", "40"], "correct": 2, "hint": "10 and 4 more makes?"},
+          {"type": "fill_in", "question": "What number is between 18 and 20? ___", "answer": "19", "hint": "Count: 18, ___, 20"},
+          {"type": "multiple_choice", "question": "How many is two groups of 10?", "options": ["10", "12", "20", "100"], "correct": 2, "hint": "10 + 10 = ?"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "teen_number_pro"
+      }
+    },
+    {
+      "id": "k-math-3",
+      "title": "Comparing Numbers",
+      "description": "Learn to compare groups and numbers using more, less, and equal.",
+      "lessons": [
+        {
+          "id": "k-math-3-1",
+          "title": "More and Less",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we compare two groups, one might have more and one might have less. 'More' means a bigger amount. 'Less' means a smaller amount. Line up the objects and see which group has extras left over - that group has more!",
+            "examples": [
+              {"problem": "Group A has 5 apples. Group B has 3 apples. Which has more?", "answer": "Group A", "explanation": "5 is more than 3, so Group A has more apples!"},
+              {"problem": "Group A has 2 toys. Group B has 7 toys. Which has less?", "answer": "Group A", "explanation": "2 is less than 7, so Group A has less toys!"},
+              {"problem": "There are 4 cats and 6 dogs. Are there more cats or more dogs?", "answer": "more dogs", "explanation": "6 is more than 4, so there are more dogs!"}
+            ],
+            "key_vocabulary": ["more", "less", "fewer", "compare", "group"],
+            "real_world": "If your friend has 5 cookies and you have 3, your friend has more. You have less."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is more: 7 or 4?", "options": ["4", "7", "they are equal", "neither"], "correct": 1, "hint": "Which number is bigger?"},
+            {"type": "multiple_choice", "question": "Which is less: 3 or 8?", "options": ["3", "8", "they are equal", "neither"], "correct": 0, "hint": "Which number is smaller?"},
+            {"type": "multiple_choice", "question": "There are 6 red balls and 2 blue balls. Which color has more?", "options": ["red", "blue", "they are equal"], "correct": 0, "hint": "6 compared to 2... which is bigger?"},
+            {"type": "multiple_choice", "question": "Sam has 1 cookie. Lily has 9 cookies. Who has less?", "options": ["Sam", "Lily", "they have the same"], "correct": 0, "hint": "1 compared to 9... which is smaller?"},
+            {"type": "multiple_choice", "question": "Which is more: 5 or 10?", "options": ["5", "10", "they are equal"], "correct": 1, "hint": "Count to see which is bigger."},
+            {"type": "multiple_choice", "question": "Which is less: 9 or 6?", "options": ["9", "6", "they are equal"], "correct": 1, "hint": "Which number is smaller?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-3-2",
+          "title": "Equal Groups",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes two groups have the same number of things. We call that 'equal.' If you have 4 apples and your friend has 4 apples, you have an equal number! You can check by matching objects one-to-one.",
+            "examples": [
+              {"problem": "Group A: 3 stars. Group B: 3 hearts. Are they equal?", "answer": "yes", "explanation": "Both groups have 3. They are equal!"},
+              {"problem": "Group A: 5 blocks. Group B: 4 blocks. Are they equal?", "answer": "no", "explanation": "5 and 4 are not the same number. They are NOT equal."},
+              {"problem": "You have 7 crayons. Your friend has 7 crayons. Are the amounts equal?", "answer": "yes", "explanation": "Both have 7 crayons. That's equal!"}
+            ],
+            "key_vocabulary": ["equal", "same", "match", "fair", "even"],
+            "real_world": "When you share cookies equally, each person gets the same number. That's fair!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Are 5 and 5 equal?", "options": ["Yes", "No"], "correct": 0, "hint": "Do both numbers have the same amount?"},
+            {"type": "multiple_choice", "question": "Are 3 and 7 equal?", "options": ["Yes", "No"], "correct": 1, "hint": "Is 3 the same as 7?"},
+            {"type": "multiple_choice", "question": "Tom has 6 stickers and Maya has 6 stickers. Do they have equal amounts?", "options": ["Yes", "No"], "correct": 0, "hint": "Compare 6 and 6."},
+            {"type": "multiple_choice", "question": "There are 4 dogs and 8 cats. Are the groups equal?", "options": ["Yes", "No"], "correct": 1, "hint": "Is 4 the same as 8?"},
+            {"type": "fill_in", "question": "I have 5 apples. How many apples does my friend need to have an equal amount? ___", "answer": "5", "hint": "Equal means the same number."},
+            {"type": "multiple_choice", "question": "Which pair is equal?", "options": ["2 and 5", "3 and 3", "1 and 4", "6 and 9"], "correct": 1, "hint": "Equal means the same number."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-3-3",
+          "title": "Comparing Groups of Objects",
+          "type": "lesson",
+          "content": {
+            "explanation": "To compare two groups, line them up side by side. Match each object from one group with an object from the other group. If one group has objects left over with no match, that group has more. The other group has fewer.",
+            "examples": [
+              {"problem": "Row 1: apple apple apple apple. Row 2: apple apple. Which row has more?", "answer": "Row 1", "explanation": "Row 1 has 4 apples and Row 2 has 2 apples. Row 1 has more because 4 is greater than 2."},
+              {"problem": "Line up 3 cats and 3 dogs. Compare them.", "answer": "equal", "explanation": "Each cat matches with a dog. No extras left over. The groups are equal!"},
+              {"problem": "5 red blocks and 8 blue blocks. Which group has fewer?", "answer": "red blocks", "explanation": "5 is less than 8. The red blocks group has fewer."}
+            ],
+            "key_vocabulary": ["compare", "match", "line up", "more", "fewer", "extra"],
+            "real_world": "At a party, you can compare cups and plates. If there are more plates than cups, some plates won't have a cup to match!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Group A has 6 stars. Group B has 9 stars. Which group has more?", "options": ["Group A", "Group B", "They are equal"], "correct": 1, "hint": "Compare 6 and 9."},
+            {"type": "multiple_choice", "question": "Group A has 7 balls. Group B has 7 balls. Which group has fewer?", "options": ["Group A", "Group B", "Neither - they are equal"], "correct": 2, "hint": "Are the groups the same?"},
+            {"type": "multiple_choice", "question": "There are 2 birds and 5 worms. Are there more birds or worms?", "options": ["birds", "worms", "the same"], "correct": 1, "hint": "Compare 2 and 5."},
+            {"type": "fill_in", "question": "A basket has 8 oranges. Another basket has 3 oranges. Which basket has more? Write the number of oranges in that basket: ___", "answer": "8", "hint": "Which is bigger: 8 or 3?"},
+            {"type": "multiple_choice", "question": "There are 4 chairs and 4 kids. Are there enough chairs?", "options": ["Yes, exactly enough", "No, not enough", "Yes, extras left over"], "correct": 0, "hint": "Compare 4 chairs to 4 kids."},
+            {"type": "multiple_choice", "question": "Group A has 10 coins. Group B has 1 coin. Which has fewer?", "options": ["Group A", "Group B", "They are equal"], "correct": 1, "hint": "Which number is smaller: 10 or 1?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-3-4",
+          "title": "Greater Than and Less Than within 10",
+          "type": "lesson",
+          "content": {
+            "explanation": "We use special words to compare numbers. We say a number is 'greater than' another if it is bigger. We say a number is 'less than' another if it is smaller. For example, 8 is greater than 3, and 3 is less than 8. Think of a number line: numbers to the right are greater!",
+            "examples": [
+              {"problem": "Is 7 greater than or less than 4?", "answer": "greater than", "explanation": "7 is greater than 4 because 7 is bigger. When you count, 7 comes after 4."},
+              {"problem": "Is 2 greater than or less than 9?", "answer": "less than", "explanation": "2 is less than 9 because 2 is smaller. 9 is much further along when you count."},
+              {"problem": "Compare 5 and 5.", "answer": "equal", "explanation": "5 and 5 are the same number. They are equal!"}
+            ],
+            "key_vocabulary": ["greater than", "less than", "equal to", "compare", "bigger", "smaller"],
+            "real_world": "If you have 6 stickers and your friend has 2 stickers, you have a greater number of stickers."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Is 9 greater than or less than 3?", "options": ["greater than", "less than", "equal to"], "correct": 0, "hint": "Is 9 bigger or smaller than 3?"},
+            {"type": "multiple_choice", "question": "Is 1 greater than or less than 6?", "options": ["greater than", "less than", "equal to"], "correct": 1, "hint": "Is 1 bigger or smaller than 6?"},
+            {"type": "multiple_choice", "question": "Is 4 greater than or less than 4?", "options": ["greater than", "less than", "equal to"], "correct": 2, "hint": "4 and 4 are the same number."},
+            {"type": "multiple_choice", "question": "Which number is greater: 8 or 5?", "options": ["5", "8", "they are equal"], "correct": 1, "hint": "Which number is bigger?"},
+            {"type": "multiple_choice", "question": "Which number is less: 10 or 7?", "options": ["10", "7", "they are equal"], "correct": 1, "hint": "Which number is smaller?"},
+            {"type": "fill_in", "question": "Write a number that is greater than 3 but less than 5: ___", "answer": "4", "hint": "What number is between 3 and 5?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is more: 6 or 2?", "options": ["2", "6", "they are equal"], "correct": 1, "hint": "Which number is bigger?"},
+          {"type": "multiple_choice", "question": "Are 8 and 8 equal?", "options": ["Yes", "No"], "correct": 0, "hint": "Compare the two numbers."},
+          {"type": "multiple_choice", "question": "Is 3 greater than or less than 7?", "options": ["greater than", "less than", "equal to"], "correct": 1, "hint": "Is 3 bigger or smaller than 7?"},
+          {"type": "fill_in", "question": "I have 5 toys. My sister has 9 toys. Who has fewer? Write 5 or 9: ___", "answer": "5", "hint": "Fewer means less. Which number is smaller?"},
+          {"type": "multiple_choice", "question": "Group A has 3 balls. Group B has 6 balls. Which group has more?", "options": ["Group A", "Group B", "They are equal"], "correct": 1, "hint": "Compare 3 and 6."},
+          {"type": "multiple_choice", "question": "Which number is greater: 1 or 10?", "options": ["1", "10", "they are equal"], "correct": 1, "hint": "Think about counting. Which comes later?"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "comparison_king"
+      }
+    },
+    {
+      "id": "k-math-4",
+      "title": "Addition within 5",
+      "description": "Learn to add numbers together with sums up to 5.",
+      "lessons": [
+        {
+          "id": "k-math-4-1",
+          "title": "Adding with Objects",
+          "type": "lesson",
+          "content": {
+            "explanation": "Adding means putting groups together to find out how many in all. If you have 2 apples and get 1 more apple, you put them together and count: 1, 2, 3. You have 3 apples! Adding is like combining two groups.",
+            "examples": [
+              {"problem": "2 blocks and 1 more block. How many altogether?", "answer": "3", "explanation": "Put them together and count: 1, 2, 3. There are 3 blocks altogether!"},
+              {"problem": "1 cat and 3 more cats. How many cats?", "answer": "4", "explanation": "Put them together: 1, 2, 3, 4. There are 4 cats in all!"},
+              {"problem": "3 flowers and 2 more flowers. How many flowers?", "answer": "5", "explanation": "Start with 3 and count 2 more: 4, 5. There are 5 flowers!"}
+            ],
+            "key_vocabulary": ["add", "plus", "altogether", "in all", "total", "combine"],
+            "real_world": "If you have 2 toy cars and your friend gives you 2 more, you put them together. Now you have 4 toy cars!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "1 apple and 2 more apples. How many altogether?", "options": ["2", "3", "4", "1"], "correct": 1, "hint": "Put the groups together and count all the apples."},
+            {"type": "fill_in", "question": "3 balls and 1 more ball. How many in all? ___", "answer": "4", "hint": "Start with 3 and count 1 more."},
+            {"type": "multiple_choice", "question": "2 birds and 3 more birds. How many birds altogether?", "options": ["3", "4", "5", "6"], "correct": 2, "hint": "Start with 2 and count 3 more."},
+            {"type": "fill_in", "question": "4 cookies and 1 more cookie. How many cookies? ___", "answer": "5", "hint": "Start with 4 and count 1 more."},
+            {"type": "multiple_choice", "question": "2 toy cars and 2 more toy cars. How many?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Start with 2 and count 2 more."},
+            {"type": "word_problem", "question": "You have 1 crayon. Your friend gives you 3 more crayons. How many crayons do you have now?", "answer": "4", "operation": "1 + 3", "hint": "Start with 1 and count 3 more."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-4-2",
+          "title": "Addition Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "We can write adding with numbers and symbols. The plus sign (+) means 'and' or 'add.' The equals sign (=) means 'is' or 'makes.' So 2 + 3 = 5 means '2 and 3 makes 5.' This is called an addition sentence!",
+            "examples": [
+              {"problem": "Write an addition sentence: 1 and 4 makes 5", "answer": "1 + 4 = 5", "explanation": "We write the first number (1), then the plus sign (+), then the second number (4), then equals (=), then the total (5)."},
+              {"problem": "2 + 2 = ?", "answer": "4", "explanation": "2 plus 2 means 2 and 2 more. Count: 1, 2, 3, 4. The answer is 4!"},
+              {"problem": "3 + 1 = ?", "answer": "4", "explanation": "3 plus 1 means start at 3 and count 1 more. That's 4!"}
+            ],
+            "key_vocabulary": ["plus", "equals", "addition sentence", "sum"],
+            "real_world": "If you eat 2 strawberries and then eat 3 more, you ate 2 + 3 = 5 strawberries!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1 + 1 = ___", "answer": "2", "hint": "1 and 1 more. How many?"},
+            {"type": "fill_in", "question": "2 + 3 = ___", "answer": "5", "hint": "Start at 2 and count 3 more."},
+            {"type": "fill_in", "question": "4 + 1 = ___", "answer": "5", "hint": "Start at 4 and count 1 more."},
+            {"type": "multiple_choice", "question": "3 + 2 = ?", "options": ["4", "5", "6", "3"], "correct": 1, "hint": "Start at 3 and count 2 more."},
+            {"type": "fill_in", "question": "0 + 5 = ___", "answer": "5", "hint": "If you start with 0 and add 5, you have 5."},
+            {"type": "multiple_choice", "question": "1 + 3 = ?", "options": ["3", "2", "4", "5"], "correct": 2, "hint": "Start at 1 and count 3 more: 2, 3, 4."},
+            {"type": "fill_in", "question": "2 + 1 = ___", "answer": "3", "hint": "2 and 1 more is?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-4-3",
+          "title": "Putting Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "Addition is all about putting things together! You can use your fingers to help. Hold up fingers for the first number, then hold up more fingers for the second number, then count all the fingers that are up. That's the answer!",
+            "examples": [
+              {"problem": "Use fingers: 2 + 2", "answer": "4", "explanation": "Hold up 2 fingers on one hand. Hold up 2 fingers on the other hand. Count all fingers that are up: 1, 2, 3, 4!"},
+              {"problem": "Use fingers: 1 + 4", "answer": "5", "explanation": "Hold up 1 finger. Then hold up 4 more fingers. Count them all: 1, 2, 3, 4, 5!"},
+              {"problem": "Use fingers: 3 + 0", "answer": "3", "explanation": "Hold up 3 fingers. Add 0 more (none!). You still have 3 fingers up!"}
+            ],
+            "key_vocabulary": ["put together", "combine", "total", "sum", "fingers"],
+            "real_world": "If there are 3 kids playing and 2 more kids join, put the groups together: 3 + 2 = 5 kids playing!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "3 + 2 = ___", "answer": "5", "hint": "Use your fingers! Hold up 3, then 2 more."},
+            {"type": "multiple_choice", "question": "0 + 4 = ?", "options": ["0", "4", "40", "3"], "correct": 1, "hint": "Zero plus a number is always that number."},
+            {"type": "fill_in", "question": "1 + 2 = ___", "answer": "3", "hint": "Hold up 1 finger, then 2 more. Count them all."},
+            {"type": "word_problem", "question": "There are 2 birds in a tree. 3 more birds fly to the tree. How many birds are in the tree now?", "answer": "5", "operation": "2 + 3", "hint": "Put the groups together: 2 and 3 more."},
+            {"type": "fill_in", "question": "5 + 0 = ___", "answer": "5", "hint": "If you add nothing, the number stays the same."},
+            {"type": "multiple_choice", "question": "4 + 1 = ?", "options": ["3", "4", "5", "6"], "correct": 2, "hint": "Start at 4, count 1 more."},
+            {"type": "word_problem", "question": "You draw 1 picture. Then you draw 1 more picture. How many pictures did you draw?", "answer": "2", "operation": "1 + 1", "hint": "1 and 1 more is?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-4-4",
+          "title": "Adding Zero and Adding to Make 5",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you add zero to any number, the number stays the same! Zero means nothing, so adding nothing doesn't change anything. Also, there are many ways to make 5: 0+5, 1+4, 2+3, 3+2, 4+1, and 5+0. These are called 'partners of 5.'",
+            "examples": [
+              {"problem": "3 + 0 = ?", "answer": "3", "explanation": "Adding zero means adding nothing. 3 stays 3!"},
+              {"problem": "What are two numbers that add to make 5?", "answer": "2 and 3", "explanation": "2 + 3 = 5. They are partners of 5!"},
+              {"problem": "0 + 4 = ?", "answer": "4", "explanation": "Zero plus 4 is still 4. Nothing changes when you add zero."}
+            ],
+            "key_vocabulary": ["zero", "nothing", "partners", "ways to make"],
+            "real_world": "If you have 5 fingers up and 0 fingers down, you still have 5 fingers. Adding zero doesn't change anything!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "0 + 3 = ___", "answer": "3", "hint": "Adding zero changes nothing."},
+            {"type": "fill_in", "question": "4 + 0 = ___", "answer": "4", "hint": "Adding zero keeps the number the same."},
+            {"type": "multiple_choice", "question": "Which two numbers make 5?", "options": ["2 and 2", "1 and 4", "3 and 3", "1 and 5"], "correct": 1, "hint": "Try adding each pair. Which gives you 5?"},
+            {"type": "fill_in", "question": "1 + ___ = 5. What is the missing number?", "answer": "4", "hint": "Start at 1. How many more to get to 5?"},
+            {"type": "fill_in", "question": "2 + ___ = 5. What is the missing number?", "answer": "3", "hint": "Start at 2. Count up to 5. How many did you count?"},
+            {"type": "multiple_choice", "question": "0 + 0 = ?", "options": ["0", "1", "2", "00"], "correct": 0, "hint": "Nothing plus nothing is still nothing."},
+            {"type": "fill_in", "question": "___ + 5 = 5. What is the missing number?", "answer": "0", "hint": "What number added to 5 keeps it at 5?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "2 + 3 = ___", "answer": "5", "hint": "Start at 2 and count 3 more."},
+          {"type": "multiple_choice", "question": "4 + 1 = ?", "options": ["3", "4", "5", "6"], "correct": 2, "hint": "Start at 4, count 1 more."},
+          {"type": "fill_in", "question": "0 + 2 = ___", "answer": "2", "hint": "Adding zero changes nothing."},
+          {"type": "word_problem", "question": "You have 3 stickers. Your mom gives you 2 more stickers. How many stickers do you have now?", "answer": "5", "operation": "3 + 2", "hint": "Put the groups together."},
+          {"type": "fill_in", "question": "1 + 4 = ___", "answer": "5", "hint": "Hold up 1 finger, then 4 more. Count all."},
+          {"type": "multiple_choice", "question": "3 + ___ = 5. What is the missing number?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "3 plus what equals 5?"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "addition_apprentice"
+      }
+    },
+    {
+      "id": "k-math-5",
+      "title": "Subtraction within 5",
+      "description": "Learn to subtract by taking away objects and finding how many are left.",
+      "lessons": [
+        {
+          "id": "k-math-5-1",
+          "title": "Taking Away",
+          "type": "lesson",
+          "content": {
+            "explanation": "Subtracting means taking some away from a group. If you have 5 cookies and eat 2, you take away 2. Count what's left: 1, 2, 3. You have 3 cookies left! Subtraction helps us find out how many are left.",
+            "examples": [
+              {"problem": "You have 4 balloons and 1 pops. How many are left?", "answer": "3", "explanation": "Start with 4 balloons. Take away 1. Count what's left: 1, 2, 3. You have 3 balloons!"},
+              {"problem": "There are 5 ducks and 3 swim away. How many are left?", "answer": "2", "explanation": "Start with 5 ducks. Take away 3. Count what's left: 1, 2. There are 2 ducks left!"},
+              {"problem": "You have 3 candies and eat 1. How many are left?", "answer": "2", "explanation": "Start with 3 candies. Take away 1. You have 2 candies left!"}
+            ],
+            "key_vocabulary": ["subtract", "take away", "left", "remain", "minus"],
+            "real_world": "If you have 4 crayons and give 1 to your friend, you have 3 crayons left."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "You have 5 apples. You eat 1. How many are left?", "options": ["5", "4", "3", "6"], "correct": 1, "hint": "Start with 5 and take away 1."},
+            {"type": "fill_in", "question": "There are 3 birds. 2 fly away. How many are left? ___", "answer": "1", "hint": "Start with 3. Take away 2."},
+            {"type": "multiple_choice", "question": "You have 4 toys. You give away 2. How many do you have left?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Start with 4, take away 2."},
+            {"type": "fill_in", "question": "There are 5 fish. 4 swim away. How many are left? ___", "answer": "1", "hint": "Start with 5, take away 4."},
+            {"type": "word_problem", "question": "You have 2 cookies. You eat 1 cookie. How many cookies are left?", "answer": "1", "operation": "2 - 1", "hint": "Start with 2, take away 1."},
+            {"type": "multiple_choice", "question": "There are 4 flowers. Someone picks 3. How many are left?", "options": ["0", "1", "2", "3"], "correct": 1, "hint": "Start with 4 and take away 3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-5-2",
+          "title": "Subtraction Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "We can write subtraction with numbers and symbols. The minus sign (-) means 'take away.' The equals sign (=) means 'is.' So 5 - 2 = 3 means '5 take away 2 is 3.' This is called a subtraction sentence!",
+            "examples": [
+              {"problem": "5 - 1 = ?", "answer": "4", "explanation": "5 take away 1 is 4. Start with 5, remove 1, you have 4 left."},
+              {"problem": "3 - 2 = ?", "answer": "1", "explanation": "3 take away 2 is 1. Start with 3, remove 2, only 1 is left."},
+              {"problem": "4 - 4 = ?", "answer": "0", "explanation": "4 take away 4 is 0. If you take away everything, nothing is left!"}
+            ],
+            "key_vocabulary": ["minus", "take away", "subtraction sentence", "difference"],
+            "real_world": "If you have 5 grapes and eat 3, you can write: 5 - 3 = 2. You have 2 grapes left!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "5 - 3 = ___", "answer": "2", "hint": "Start with 5, take away 3."},
+            {"type": "fill_in", "question": "4 - 2 = ___", "answer": "2", "hint": "Start with 4, take away 2."},
+            {"type": "multiple_choice", "question": "3 - 1 = ?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Start with 3, take away 1."},
+            {"type": "fill_in", "question": "5 - 5 = ___", "answer": "0", "hint": "Take away all of them. What's left?"},
+            {"type": "fill_in", "question": "2 - 1 = ___", "answer": "1", "hint": "Start with 2, take away 1."},
+            {"type": "multiple_choice", "question": "4 - 3 = ?", "options": ["0", "1", "2", "3"], "correct": 1, "hint": "Start with 4 fingers. Put down 3. How many are still up?"},
+            {"type": "fill_in", "question": "5 - 4 = ___", "answer": "1", "hint": "Start with 5, take away 4. What's left?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-5-3",
+          "title": "How Many Left?",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we ask 'how many are left,' we are asking you to subtract! You can use your fingers to help. Hold up fingers for the starting number. Then put down fingers for the number taken away. Count the fingers still up - that's how many are left!",
+            "examples": [
+              {"problem": "5 birds on a wire. 2 fly away. How many are left?", "answer": "3", "explanation": "Hold up 5 fingers. Put down 2. Count the ones still up: 1, 2, 3. There are 3 birds left!"},
+              {"problem": "3 cookies on a plate. You eat 3. How many are left?", "answer": "0", "explanation": "Hold up 3 fingers. Put down 3. No fingers are up. Zero cookies left!"},
+              {"problem": "4 toy cars. 1 rolls away. How many are left?", "answer": "3", "explanation": "Hold up 4 fingers. Put 1 down. Count: 1, 2, 3. You have 3 toy cars left!"}
+            ],
+            "key_vocabulary": ["how many left", "remaining", "subtract", "take away", "fingers"],
+            "real_world": "If there are 5 slices of pizza and your family eats 3, you can count how many slices are left: 5 - 3 = 2 slices."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "There are 5 kittens. 2 kittens run away. How many kittens are left?", "answer": "3", "operation": "5 - 2", "hint": "Use your fingers. Hold up 5, put down 2."},
+            {"type": "fill_in", "question": "4 - 1 = ___", "answer": "3", "hint": "Hold up 4 fingers, put down 1."},
+            {"type": "word_problem", "question": "You have 3 stickers. You give 2 to your friend. How many stickers do you have left?", "answer": "1", "operation": "3 - 2", "hint": "3 take away 2."},
+            {"type": "multiple_choice", "question": "5 - 0 = ?", "options": ["0", "1", "4", "5"], "correct": 3, "hint": "If you take away nothing, the number stays the same!"},
+            {"type": "fill_in", "question": "2 - 2 = ___", "answer": "0", "hint": "Take away all of them. Nothing left!"},
+            {"type": "word_problem", "question": "There are 4 ducks in a pond. 2 ducks leave. How many ducks are still in the pond?", "answer": "2", "operation": "4 - 2", "hint": "Start with 4, take away 2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-5-4",
+          "title": "Subtracting Zero and Subtracting All",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two special subtraction rules: When you subtract zero, nothing changes! 4 - 0 = 4. When you subtract a number from itself, you get zero! 4 - 4 = 0. That's because you took away everything!",
+            "examples": [
+              {"problem": "5 - 0 = ?", "answer": "5", "explanation": "Take away nothing from 5. You still have 5!"},
+              {"problem": "3 - 3 = ?", "answer": "0", "explanation": "Take away all 3. Nothing is left! The answer is 0."},
+              {"problem": "2 - 0 = ?", "answer": "2", "explanation": "Take away nothing. You still have 2!"}
+            ],
+            "key_vocabulary": ["zero", "nothing", "all", "same", "empty"],
+            "real_world": "If you have 3 toys and don't give any away (take away 0), you still have 3 toys. But if you give all 3 away, you have 0 toys."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "4 - 0 = ___", "answer": "4", "hint": "Take away nothing."},
+            {"type": "fill_in", "question": "5 - 5 = ___", "answer": "0", "hint": "Take away everything."},
+            {"type": "multiple_choice", "question": "1 - 0 = ?", "options": ["0", "1", "2", "10"], "correct": 1, "hint": "Subtracting zero changes nothing."},
+            {"type": "fill_in", "question": "2 - 2 = ___", "answer": "0", "hint": "Take away all of them."},
+            {"type": "multiple_choice", "question": "3 - 0 = ?", "options": ["0", "1", "2", "3"], "correct": 3, "hint": "Take away nothing. The number stays the same."},
+            {"type": "fill_in", "question": "1 - 1 = ___", "answer": "0", "hint": "Take away all of it. Nothing left."},
+            {"type": "multiple_choice", "question": "0 - 0 = ?", "options": ["0", "1", "2", "nothing"], "correct": 0, "hint": "You have nothing and take away nothing. Still nothing!"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "5 - 2 = ___", "answer": "3", "hint": "Start with 5, take away 2."},
+          {"type": "multiple_choice", "question": "3 - 1 = ?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Start with 3, take away 1."},
+          {"type": "word_problem", "question": "You have 4 crayons. You lose 2. How many do you have left?", "answer": "2", "operation": "4 - 2", "hint": "4 take away 2."},
+          {"type": "fill_in", "question": "5 - 0 = ___", "answer": "5", "hint": "Taking away zero changes nothing."},
+          {"type": "fill_in", "question": "4 - 4 = ___", "answer": "0", "hint": "Take away everything."},
+          {"type": "multiple_choice", "question": "5 - 3 = ?", "options": ["1", "2", "3", "4"], "correct": 1, "hint": "Start with 5 fingers, put 3 down."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "subtraction_starter"
+      }
+    },
+    {
+      "id": "k-math-6",
+      "title": "Shapes",
+      "description": "Learn to identify circles, squares, triangles, and rectangles, and explore 2D and 3D shapes.",
+      "lessons": [
+        {
+          "id": "k-math-6-1",
+          "title": "Circles and Squares",
+          "type": "lesson",
+          "content": {
+            "explanation": "A circle is perfectly round with no corners and no straight sides. A wheel, a clock face, and a cookie are all circles! A square has 4 straight sides that are ALL the same length and 4 corners. A window or a cracker can be a square.",
+            "examples": [
+              {"problem": "Is a wheel a circle or a square?", "answer": "circle", "explanation": "A wheel is round with no corners, so it's a circle!"},
+              {"problem": "Is a window with four equal sides a circle or a square?", "answer": "square", "explanation": "A window with 4 equal sides and 4 corners is a square!"},
+              {"problem": "How many corners does a circle have?", "answer": "0", "explanation": "A circle has zero corners. It's perfectly round!"}
+            ],
+            "key_vocabulary": ["circle", "square", "round", "corner", "side", "straight"],
+            "real_world": "Look around your room! The clock might be a circle. A tile on the floor might be a square."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which shape is round with no corners?", "options": ["square", "triangle", "circle", "rectangle"], "correct": 2, "hint": "It has no corners and no straight sides."},
+            {"type": "multiple_choice", "question": "How many sides does a square have?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count the sides of a square."},
+            {"type": "multiple_choice", "question": "Which shape has 4 equal sides and 4 corners?", "options": ["circle", "triangle", "square", "oval"], "correct": 2, "hint": "All four sides are the same length."},
+            {"type": "fill_in", "question": "How many corners does a circle have? ___", "answer": "0", "hint": "A circle is round. No sharp points."},
+            {"type": "multiple_choice", "question": "A coin is shaped like a ___.", "options": ["square", "triangle", "circle", "rectangle"], "correct": 2, "hint": "A coin is round."},
+            {"type": "fill_in", "question": "How many corners does a square have? ___", "answer": "4", "hint": "Count each corner (sharp point) of a square."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-6-2",
+          "title": "Triangles and Rectangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "A triangle has 3 straight sides and 3 corners. 'Tri' means three! A slice of pizza can look like a triangle. A rectangle has 4 straight sides and 4 corners, but unlike a square, the sides are not all the same. Two sides are longer and two sides are shorter. A door is shaped like a rectangle!",
+            "examples": [
+              {"problem": "How many sides does a triangle have?", "answer": "3", "explanation": "A triangle always has 3 sides. Tri = three!"},
+              {"problem": "How many corners does a rectangle have?", "answer": "4", "explanation": "A rectangle has 4 corners, just like a square. But its sides are not all the same length."},
+              {"problem": "A door is shaped like a ___.", "answer": "rectangle", "explanation": "A door has 4 sides with 4 corners. Two sides are longer, two are shorter. That's a rectangle!"}
+            ],
+            "key_vocabulary": ["triangle", "rectangle", "sides", "corners", "long", "short"],
+            "real_world": "A slice of pizza is a triangle. A book is a rectangle. Look around and find some!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "How many sides does a triangle have? ___", "answer": "3", "hint": "'Tri' means three."},
+            {"type": "multiple_choice", "question": "Which shape has 4 sides but they are NOT all the same length?", "options": ["circle", "triangle", "square", "rectangle"], "correct": 3, "hint": "Two sides are longer and two are shorter."},
+            {"type": "multiple_choice", "question": "A pizza slice looks like a ___.", "options": ["circle", "square", "triangle", "rectangle"], "correct": 2, "hint": "It has a pointy end and 3 sides."},
+            {"type": "fill_in", "question": "How many corners does a triangle have? ___", "answer": "3", "hint": "Same as the number of sides."},
+            {"type": "multiple_choice", "question": "How many sides does a rectangle have?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Count the sides of a door shape."},
+            {"type": "multiple_choice", "question": "A book is shaped like a ___.", "options": ["circle", "triangle", "rectangle", "square"], "correct": 2, "hint": "A book has 4 sides. The top and bottom are longer than the left and right (or vice versa)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-6-3",
+          "title": "Identifying Shapes All Around",
+          "type": "lesson",
+          "content": {
+            "explanation": "Shapes are everywhere! Once you learn the shapes, you can find them all around you. Wheels are circles. Windows can be squares or rectangles. Road signs can be triangles. Look at the things around you and think about what shapes they are!",
+            "examples": [
+              {"problem": "What shape is a stop sign? (It has 8 sides)", "answer": "octagon", "explanation": "A stop sign is an octagon with 8 sides. That's a bonus shape! Most things you see will be circles, squares, triangles, or rectangles."},
+              {"problem": "What shape is a sheet of paper?", "answer": "rectangle", "explanation": "A sheet of paper has 4 sides with 4 corners. Two sides are longer. It's a rectangle!"},
+              {"problem": "What shape is a clock face?", "answer": "circle", "explanation": "A clock face is round with no corners. It's a circle!"}
+            ],
+            "key_vocabulary": ["identify", "shape", "around us", "real world", "everywhere"],
+            "real_world": "Go on a shape hunt at home! How many circles, squares, triangles, and rectangles can you find?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What shape is a tire?", "options": ["square", "circle", "triangle", "rectangle"], "correct": 1, "hint": "A tire is round."},
+            {"type": "multiple_choice", "question": "What shape is a piece of sandwich cut diagonally?", "options": ["circle", "square", "triangle", "rectangle"], "correct": 2, "hint": "Cut corner to corner and you get a shape with 3 sides."},
+            {"type": "multiple_choice", "question": "What shape is a television screen?", "options": ["circle", "triangle", "square", "rectangle"], "correct": 3, "hint": "A TV screen has 4 sides. The top/bottom are usually longer."},
+            {"type": "multiple_choice", "question": "What shape is a plate?", "options": ["circle", "square", "triangle", "rectangle"], "correct": 0, "hint": "A plate is round."},
+            {"type": "multiple_choice", "question": "What shape is a yield road sign?", "options": ["circle", "square", "triangle", "rectangle"], "correct": 2, "hint": "A yield sign has 3 sides."},
+            {"type": "multiple_choice", "question": "What shape is a floor tile that has 4 equal sides?", "options": ["circle", "triangle", "rectangle", "square"], "correct": 3, "hint": "4 equal sides and 4 corners."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-math-6-4",
+          "title": "Flat and Solid Shapes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Flat shapes are called 2D shapes (like a drawing on paper). They have length and width but are flat. A circle, square, triangle, and rectangle are all 2D shapes. Solid shapes are called 3D shapes. They are like real objects you can hold. A ball is a sphere. A box is a cube. A can is a cylinder. You can hold 3D shapes in your hand!",
+            "examples": [
+              {"problem": "Is a drawing of a square flat or solid?", "answer": "flat (2D)", "explanation": "A drawing on paper is flat. It's a 2D shape!"},
+              {"problem": "Is a basketball flat or solid?", "answer": "solid (3D)", "explanation": "A basketball is solid. You can hold it and roll it. It's a 3D shape called a sphere!"},
+              {"problem": "What 3D shape is a tissue box?", "answer": "rectangular prism (box)", "explanation": "A tissue box is a 3D shape. It's like a rectangle but you can hold it. It's called a rectangular prism, or just a box shape!"}
+            ],
+            "key_vocabulary": ["flat", "solid", "2D", "3D", "sphere", "cube", "cylinder", "cone"],
+            "real_world": "A picture of a circle is 2D (flat). A ball is 3D (solid). You can pick up 3D shapes!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is a 3D (solid) shape?", "options": ["a drawing of a circle", "a basketball", "a picture of a square", "a triangle on paper"], "correct": 1, "hint": "Which one can you hold in your hand?"},
+            {"type": "multiple_choice", "question": "A soup can is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 2, "hint": "It has a circle on top and bottom with a tube shape."},
+            {"type": "multiple_choice", "question": "A dice (die) is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 1, "hint": "All 6 faces of a die are squares."},
+            {"type": "multiple_choice", "question": "Is a drawing of a triangle 2D or 3D?", "options": ["2D (flat)", "3D (solid)"], "correct": 0, "hint": "A drawing on paper is flat."},
+            {"type": "multiple_choice", "question": "An ice cream cone is shaped like a ___.", "options": ["sphere", "cube", "cylinder", "cone"], "correct": 3, "hint": "It has a point at the bottom and a circle at the top."},
+            {"type": "multiple_choice", "question": "A globe (model of Earth) is shaped like a ___.", "options": ["circle", "sphere", "cube", "cylinder"], "correct": 1, "hint": "It's round like a ball. You can hold it."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many sides does a triangle have?", "options": ["2", "3", "4", "5"], "correct": 1, "hint": "Tri means three."},
+          {"type": "fill_in", "question": "How many corners does a square have? ___", "answer": "4", "hint": "Count the corners of a square."},
+          {"type": "multiple_choice", "question": "Which shape is round with no corners?", "options": ["square", "triangle", "rectangle", "circle"], "correct": 3, "hint": "It's perfectly round."},
+          {"type": "multiple_choice", "question": "A door is shaped like a ___.", "options": ["circle", "triangle", "rectangle", "sphere"], "correct": 2, "hint": "It has 4 sides, two are longer."},
+          {"type": "multiple_choice", "question": "A basketball is what kind of 3D shape?", "options": ["cube", "cylinder", "sphere", "cone"], "correct": 2, "hint": "It's round like a ball."},
+          {"type": "multiple_choice", "question": "How many sides does a rectangle have?", "options": ["3", "4", "5", "6"], "correct": 1, "hint": "Same number as a square."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "shape_explorer"
+      }
+    }
+  ]
+}

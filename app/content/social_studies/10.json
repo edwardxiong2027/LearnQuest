@@ -1,0 +1,3451 @@
+{
+  "grade": 10,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "10-ss-1",
+      "title": "Enlightenment and Revolutions",
+      "description": "Explore how Enlightenment thinkers challenged absolute authority with reason, natural rights, and the social contract, laying the intellectual foundations for modern democracy.",
+      "lessons": [
+        {
+          "id": "10-social_studies-1-1",
+          "title": "The Enlightenment: An Age of Reason",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Enlightenment (c. 1685-1789) was an intellectual movement that emphasized reason, science, and individual rights over tradition, superstition, and absolute authority. Building on the Scientific Revolution's success in explaining the natural world, Enlightenment thinkers asked: could reason also improve government, society, and human life? They believed it could. Thinkers gathered in Parisian salons, published encyclopedias and pamphlets, and challenged the divine right of kings, religious intolerance, and social inequality. The Enlightenment's core ideas included natural rights (all people are born with inherent rights), progress (society can improve through reason), tolerance (people should be free to hold different beliefs), and the power of education. These ideas spread through print culture and coffeehouses across Europe and the Americas, inspiring revolutionary movements that would reshape the world.",
+            "examples": [
+              {
+                "problem": "What was the Enlightenment?",
+                "answer": "An intellectual movement emphasizing reason, science, and individual rights over tradition and absolute authority.",
+                "explanation": "It grew from the Scientific Revolution's success. If nature followed rational laws, thinkers reasoned, perhaps government and society could be improved through reason too."
+              },
+              {
+                "problem": "How did the Enlightenment spread?",
+                "answer": "Through books, pamphlets, salons, coffeehouses, and encyclopedias across Europe and the Americas.",
+                "explanation": "The printing press made ideas accessible to a growing literate public. Salons in Paris brought thinkers together, and coffeehouses became centers of debate and discussion."
+              },
+              {
+                "problem": "What is a natural right?",
+                "answer": "A right that all people are born with simply by being human, not granted by any government.",
+                "explanation": "Enlightenment thinkers argued that rights like life, liberty, and property exist naturally and that governments are created to protect them, not to grant them."
+              }
+            ],
+            "key_vocabulary": [
+              "Enlightenment",
+              "reason",
+              "natural rights",
+              "salon",
+              "divine right",
+              "tolerance",
+              "progress",
+              "print culture"
+            ],
+            "real_world": "Enlightenment ideals are embedded in modern democracies. The U.S. Declaration of Independence, the French Declaration of the Rights of Man, and the UN Universal Declaration of Human Rights all reflect Enlightenment principles."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did Enlightenment thinkers emphasize?",
+              "options": [
+                "Military conquest",
+                "Reason and individual rights",
+                "Religious authority",
+                "Feudal tradition"
+              ],
+              "correct": 1,
+              "hint": "They challenged tradition with rational inquiry."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Enlightenment is also called the Age of ___.",
+              "answer": "Reason",
+              "hint": "Thinkers believed rational thought could improve society."
+            },
+            {
+              "type": "true_false",
+              "question": "Enlightenment thinkers supported the divine right of kings.",
+              "answer": false,
+              "hint": "They challenged the idea that monarchs ruled by God's will."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where did Enlightenment thinkers often gather to discuss ideas?",
+              "options": [
+                "Churches",
+                "Battlefields",
+                "Salons and coffeehouses",
+                "Monasteries"
+              ],
+              "correct": 2,
+              "hint": "These social spaces became centers of intellectual exchange."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are natural rights?",
+              "options": [
+                "Rights earned through military service",
+                "Rights granted by kings",
+                "Rights all people are born with",
+                "Rights only for nobles"
+              ],
+              "correct": 2,
+              "hint": "They exist simply because one is human."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Enlightenment built on the success of the ___ Revolution.",
+              "answer": "Scientific",
+              "hint": "If nature followed rational laws, perhaps society could too."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-1-2",
+          "title": "Key Enlightenment Thinkers: Locke, Montesquieu, Rousseau",
+          "type": "lesson",
+          "content": {
+            "explanation": "Three thinkers profoundly shaped Enlightenment political philosophy. John Locke (1632-1704), an English philosopher, argued that all people possess natural rights to life, liberty, and property. Government, he wrote, is a social contract: people consent to be governed in exchange for protection of their rights. If a government violates those rights, the people have the right to overthrow it. Baron de Montesquieu (1689-1755), a French nobleman, studied governments worldwide and concluded in The Spirit of the Laws (1748) that the best protection against tyranny is separation of powers into legislative, executive, and judicial branches, each checking the others. Jean-Jacques Rousseau (1712-1778), a Swiss-French philosopher, argued in The Social Contract (1762) that legitimate government rests on the general will of the people. He believed that civilization had corrupted humanity's natural goodness and that sovereignty belongs to the people collectively. Together, these thinkers provided the intellectual blueprint for modern democratic government.",
+            "examples": [
+              {
+                "problem": "What was Locke's social contract theory?",
+                "answer": "People consent to government in exchange for protection of their natural rights; if government fails, the people may overthrow it.",
+                "explanation": "Locke's Two Treatises of Government (1689) directly influenced the American Declaration of Independence. Jefferson's 'life, liberty, and the pursuit of happiness' echoes Locke's 'life, liberty, and property.'"
+              },
+              {
+                "problem": "What was Montesquieu's key contribution?",
+                "answer": "The idea that government power should be separated into three branches that check and balance each other.",
+                "explanation": "Montesquieu studied the English system and ancient Rome, concluding that concentrated power leads to tyranny. His ideas directly shaped the U.S. Constitution's three-branch structure."
+              },
+              {
+                "problem": "What did Rousseau mean by the 'general will'?",
+                "answer": "The collective will of the people, which should guide government decisions rather than the desires of rulers.",
+                "explanation": "Rousseau argued that true freedom comes from obeying laws one has helped create. His ideas inspired both democratic movements and, controversially, revolutionary leaders who claimed to represent the people's will."
+              }
+            ],
+            "key_vocabulary": [
+              "John Locke",
+              "Montesquieu",
+              "Rousseau",
+              "social contract",
+              "separation of powers",
+              "general will",
+              "natural rights",
+              "consent of the governed"
+            ],
+            "real_world": "The U.S. Constitution directly reflects these thinkers: Locke's natural rights appear in the Bill of Rights, Montesquieu's separation of powers structures the three branches, and Rousseau's popular sovereignty opens with 'We the People.'"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who argued for natural rights to life, liberty, and property?",
+              "options": [
+                "Montesquieu",
+                "Rousseau",
+                "Locke",
+                "Voltaire"
+              ],
+              "correct": 2,
+              "hint": "This English philosopher influenced the American Revolution."
+            },
+            {
+              "type": "fill_in",
+              "question": "Montesquieu argued for ___ of powers into three branches of government.",
+              "answer": "separation",
+              "hint": "This concept prevents any one branch from becoming too powerful."
+            },
+            {
+              "type": "true_false",
+              "question": "Rousseau believed civilization had improved humanity's natural goodness.",
+              "answer": false,
+              "hint": "He argued civilization had corrupted natural human goodness."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the 'social contract'?",
+              "options": [
+                "A business agreement",
+                "People consent to government in exchange for rights protection",
+                "A peace treaty",
+                "A religious covenant"
+              ],
+              "correct": 1,
+              "hint": "Locke described government as based on this idea."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Whose ideas most directly shaped the structure of the U.S. Constitution?",
+              "options": [
+                "Locke",
+                "Montesquieu",
+                "Rousseau",
+                "Voltaire"
+              ],
+              "correct": 1,
+              "hint": "He proposed separating government into three checking branches."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rousseau argued that sovereignty belongs to the people, expressed through the ___ will.",
+              "answer": "general",
+              "hint": "This concept influenced democratic and revolutionary movements."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-1-3",
+          "title": "The Scientific Method and Rational Inquiry",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Enlightenment's emphasis on reason was deeply connected to the Scientific Revolution's development of the scientific method. Francis Bacon (1561-1626) championed empiricism and inductive reasoning: observe nature, collect data, and draw conclusions from evidence. Rene Descartes (1596-1650) promoted deductive reasoning and radical doubt, famously declaring 'I think, therefore I am' (Cogito ergo sum) as the one certainty from which all knowledge could be built. Isaac Newton (1643-1727) synthesized these approaches in his Principia Mathematica (1687), demonstrating that the universe operates according to mathematical laws, especially gravity. Newton's success convinced Enlightenment thinkers that reason could unlock all mysteries. Thinkers applied scientific thinking to society: Adam Smith used observation to develop economic theory, Cesare Beccaria applied reason to criminal justice reform, and Mary Wollstonecraft used rational argument to advocate for women's rights. The scientific method became not just a tool for studying nature but a model for improving all of human life.",
+            "examples": [
+              {
+                "problem": "How did Bacon and Descartes differ in their approaches?",
+                "answer": "Bacon championed empiricism (knowledge from observation); Descartes promoted rationalism (knowledge from logical deduction).",
+                "explanation": "Bacon said: observe first, then theorize. Descartes said: start with what you can logically prove and build from there. Modern science combines both approaches."
+              },
+              {
+                "problem": "Why was Newton so influential for Enlightenment thinking?",
+                "answer": "He showed the universe follows mathematical laws, convincing thinkers that reason could explain everything.",
+                "explanation": "If gravity could be expressed in a simple equation, perhaps politics, economics, and society also followed discoverable rational laws. Newton inspired an age of confidence in human reason."
+              },
+              {
+                "problem": "How was the scientific method applied to society?",
+                "answer": "Thinkers like Adam Smith, Beccaria, and Wollstonecraft used evidence and reason to analyze economics, justice, and gender equality.",
+                "explanation": "Smith observed markets to develop capitalism's principles. Beccaria argued punishment should fit the crime based on rational analysis. Wollstonecraft argued rationally that denying women education was unjust."
+              }
+            ],
+            "key_vocabulary": [
+              "scientific method",
+              "empiricism",
+              "rationalism",
+              "Descartes",
+              "Newton",
+              "inductive reasoning",
+              "deductive reasoning",
+              "Principia Mathematica"
+            ],
+            "real_world": "The scientific method remains the foundation of modern science and has expanded into evidence-based medicine, data-driven policy, and even business analytics. The Enlightenment idea that decisions should be based on evidence, not tradition, shapes our world daily."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who championed empiricism and observation-based knowledge?",
+              "options": [
+                "Descartes",
+                "Newton",
+                "Bacon",
+                "Locke"
+              ],
+              "correct": 2,
+              "hint": "He promoted inductive reasoning from evidence."
+            },
+            {
+              "type": "fill_in",
+              "question": "Descartes' famous statement 'I think, therefore I am' is written in Latin as ___ ergo sum.",
+              "answer": "Cogito",
+              "hint": "It established the thinking self as the foundation of knowledge."
+            },
+            {
+              "type": "true_false",
+              "question": "Newton's success discouraged Enlightenment thinkers from applying reason to society.",
+              "answer": false,
+              "hint": "It inspired them to believe reason could solve all problems."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Adam Smith apply the scientific method to?",
+              "options": [
+                "Astronomy",
+                "Medicine",
+                "Economics",
+                "Military strategy"
+              ],
+              "correct": 2,
+              "hint": "He observed markets and trade to develop theories."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who advocated for women's rights using Enlightenment reasoning?",
+              "options": [
+                "Montesquieu",
+                "Mary Wollstonecraft",
+                "Voltaire",
+                "Rousseau"
+              ],
+              "correct": 1,
+              "hint": "She argued that denying women education was irrational and unjust."
+            },
+            {
+              "type": "fill_in",
+              "question": "Newton's ___ Mathematica demonstrated that the universe operates by mathematical laws.",
+              "answer": "Principia",
+              "hint": "Published in 1687, it was one of the most influential scientific works ever written."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-1-4",
+          "title": "Enlightenment Impact: Voltaire, the Encyclopedia, and Reform",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Enlightenment produced practical reformers alongside theorists. Voltaire (1694-1778), perhaps the most famous philosophe, championed freedom of speech, religious tolerance, and separation of church and state. His witty satire Candide (1759) mocked optimism, intolerance, and injustice. When censored in France, he published from abroad, demonstrating the difficulty of suppressing ideas in the print age. Denis Diderot (1713-1784) and Jean le Rond d'Alembert compiled the Encyclopedie (1751-1772), a 28-volume work aiming to collect all human knowledge and make it accessible. It spread Enlightenment ideas to educated readers across Europe. Cesare Beccaria's On Crimes and Punishments (1764) argued against torture and the death penalty, influencing modern criminal justice. Some rulers, called 'enlightened despots,' adopted Enlightenment reforms while maintaining absolute power: Frederick the Great of Prussia promoted religious tolerance, Catherine the Great of Russia modernized education, and Joseph II of Austria abolished serfdom. The Enlightenment demonstrated that ideas have the power to reshape societies.",
+            "examples": [
+              {
+                "problem": "Why was Voltaire important?",
+                "answer": "He championed free speech, religious tolerance, and separation of church and state through witty and persuasive writing.",
+                "explanation": "Voltaire's famous defense of free expression \u2014 often paraphrased as 'I disapprove of what you say, but I will defend to the death your right to say it' \u2014 captures a core Enlightenment value."
+              },
+              {
+                "problem": "What was the Encyclopedie?",
+                "answer": "A 28-volume work by Diderot and d'Alembert aiming to compile all human knowledge and spread Enlightenment ideas.",
+                "explanation": "It was revolutionary because it made knowledge accessible beyond universities and churches. Articles on science, technology, philosophy, and politics challenged traditional authority."
+              },
+              {
+                "problem": "What were enlightened despots?",
+                "answer": "Absolute rulers who adopted some Enlightenment reforms while maintaining their power.",
+                "explanation": "Frederick the Great allowed religious freedom, Catherine the Great promoted education, and Joseph II freed serfs. However, they kept absolute political control, showing the limits of reform without democracy."
+              }
+            ],
+            "key_vocabulary": [
+              "Voltaire",
+              "philosophe",
+              "Encyclopedie",
+              "Diderot",
+              "enlightened despot",
+              "Beccaria",
+              "Frederick the Great",
+              "Catherine the Great"
+            ],
+            "real_world": "Wikipedia is a modern descendant of Diderot's Encyclopedie \u2014 both aim to make all human knowledge freely accessible. The Enlightenment dream of universal education continues through open-access resources today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did Voltaire champion?",
+              "options": [
+                "Absolute monarchy",
+                "Free speech and religious tolerance",
+                "Military expansion",
+                "Church authority"
+              ],
+              "correct": 1,
+              "hint": "He used wit and satire to fight intolerance."
+            },
+            {
+              "type": "fill_in",
+              "question": "Diderot compiled a 28-volume ___ to spread Enlightenment knowledge.",
+              "answer": "Encyclopedie",
+              "hint": "It aimed to collect all human knowledge in one work."
+            },
+            {
+              "type": "true_false",
+              "question": "Enlightened despots fully embraced democracy.",
+              "answer": false,
+              "hint": "They adopted some reforms but maintained absolute political power."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who argued against torture and the death penalty?",
+              "options": [
+                "Voltaire",
+                "Locke",
+                "Beccaria",
+                "Rousseau"
+              ],
+              "correct": 2,
+              "hint": "His On Crimes and Punishments influenced modern criminal justice."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which enlightened despot abolished serfdom?",
+              "options": [
+                "Frederick the Great",
+                "Catherine the Great",
+                "Joseph II",
+                "Louis XVI"
+              ],
+              "correct": 2,
+              "hint": "This Austrian ruler enacted bold social reforms."
+            },
+            {
+              "type": "fill_in",
+              "question": "Voltaire's satirical novel ___ mocked optimism, intolerance, and injustice.",
+              "answer": "Candide",
+              "hint": "Published in 1759, it remains a classic of world literature."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-1-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who argued government is a social contract?",
+            "options": [
+              "Montesquieu",
+              "Voltaire",
+              "Locke",
+              "Diderot"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Montesquieu proposed ___ of powers into three branches.",
+            "answer": "separation"
+          },
+          {
+            "type": "true_false",
+            "question": "The Enlightenment rejected reason in favor of tradition.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the Encyclopedie?",
+            "options": [
+              "A novel",
+              "A legal code",
+              "A compilation of all human knowledge",
+              "A religious text"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Whose phrase was 'I think, therefore I am'?",
+            "options": [
+              "Newton",
+              "Locke",
+              "Bacon",
+              "Descartes"
+            ],
+            "correct": 3
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "enlightenment_scholar"
+      }
+    },
+    {
+      "id": "10-ss-2",
+      "title": "Age of Revolutions",
+      "description": "Examine how Enlightenment ideas sparked revolutions in America, France, Haiti, and Latin America, transforming the political landscape of the modern world.",
+      "lessons": [
+        {
+          "id": "10-social_studies-2-1",
+          "title": "The American Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American Revolution (1775-1783) was the first major political upheaval inspired by Enlightenment ideas. British colonists in North America, angered by taxation without representation, restrictions on trade, and violations of their rights as Englishmen, declared independence on July 4, 1776. Thomas Jefferson's Declaration of Independence drew directly from Locke: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness.' The Continental Army, led by George Washington, defeated Britain with crucial French assistance. The resulting Constitution (1787) created a federal republic with separation of powers (Montesquieu), checks and balances, and a Bill of Rights protecting individual freedoms. The American Revolution proved that Enlightenment principles could work in practice and inspired revolutions worldwide, though its ideals of equality initially excluded women, enslaved people, and Native Americans.",
+            "examples": [
+              {
+                "problem": "How did Enlightenment ideas influence the Declaration of Independence?",
+                "answer": "Jefferson drew directly from Locke's natural rights theory and social contract philosophy.",
+                "explanation": "Locke's 'life, liberty, and property' became Jefferson's 'life, liberty, and the pursuit of happiness.' The idea that government derives power from the consent of the governed comes straight from Enlightenment philosophy."
+              },
+              {
+                "problem": "How did the Constitution reflect Enlightenment thinking?",
+                "answer": "It incorporated Montesquieu's separation of powers, Locke's natural rights, and Rousseau's popular sovereignty.",
+                "explanation": "The three branches of government, the Bill of Rights, and 'We the People' all demonstrate Enlightenment influence in a practical governing document."
+              },
+              {
+                "problem": "What were the Revolution's limitations?",
+                "answer": "Its ideals of equality excluded women, enslaved people, and Native Americans.",
+                "explanation": "While revolutionary in theory, the new nation allowed slavery, denied women political rights, and continued to displace Native Americans. The tension between ideals and reality would drive American history for centuries."
+              }
+            ],
+            "key_vocabulary": [
+              "American Revolution",
+              "Declaration of Independence",
+              "Thomas Jefferson",
+              "George Washington",
+              "Constitution",
+              "Bill of Rights",
+              "taxation without representation",
+              "federal republic"
+            ],
+            "real_world": "The American Revolution was the first time Enlightenment theory became political reality on a national scale, proving that citizens could govern themselves without a king."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who wrote the Declaration of Independence?",
+              "options": [
+                "Washington",
+                "Franklin",
+                "Jefferson",
+                "Adams"
+              ],
+              "correct": 2,
+              "hint": "He drew heavily from Locke's philosophy."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Declaration states that all men are endowed with ___ rights.",
+              "answer": "unalienable",
+              "hint": "These rights cannot be taken away by any government."
+            },
+            {
+              "type": "true_false",
+              "question": "The American Revolution immediately established equality for all people.",
+              "answer": false,
+              "hint": "Women, enslaved people, and Native Americans were excluded."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which Enlightenment thinker most influenced the Constitution's structure?",
+              "options": [
+                "Locke",
+                "Montesquieu",
+                "Rousseau",
+                "Voltaire"
+              ],
+              "correct": 1,
+              "hint": "His separation of powers idea shaped the three-branch system."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was a key colonial grievance against Britain?",
+              "options": [
+                "Religious persecution",
+                "Taxation without representation",
+                "Forced military service",
+                "Lack of land"
+              ],
+              "correct": 1,
+              "hint": "Colonists wanted a voice in the laws that taxed them."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ of Rights protects individual freedoms in the U.S. Constitution.",
+              "answer": "Bill",
+              "hint": "It was added as the first ten amendments."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-2-2",
+          "title": "The French Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The French Revolution (1789-1799) was the most radical Enlightenment-inspired revolution. France faced a fiscal crisis, extreme inequality between the Three Estates (clergy, nobility, commoners), food shortages, and an incompetent monarchy under Louis XVI. On July 14, 1789, Parisians stormed the Bastille fortress, symbolizing revolution against tyranny. The National Assembly issued the Declaration of the Rights of Man and of the Citizen, proclaiming liberty, equality, and popular sovereignty. However, the revolution radicalized: Louis XVI and Marie Antoinette were executed by guillotine (1793), and the Reign of Terror under Maximilien Robespierre saw an estimated 17,000 people executed as 'enemies of the revolution.' The revolution consumed its own leaders \u2014 Robespierre himself was guillotined in 1794. After years of instability, Napoleon Bonaparte seized power in 1799. The French Revolution demonstrated both the liberating power of Enlightenment ideals and the dangers of revolutionary extremism.",
+            "examples": [
+              {
+                "problem": "What caused the French Revolution?",
+                "answer": "Fiscal crisis, extreme social inequality, food shortages, and Enlightenment ideas challenging royal authority.",
+                "explanation": "The Third Estate (commoners, 98% of the population) paid nearly all taxes while the clergy and nobles were exempt. Enlightenment ideas gave the people a language to demand their rights."
+              },
+              {
+                "problem": "What was the Reign of Terror?",
+                "answer": "A period (1793-1794) when Robespierre's revolutionary government executed about 17,000 people as enemies of the revolution.",
+                "explanation": "The revolution turned on itself as increasingly radical factions competed for control. Even revolutionary leaders were guillotined. It demonstrated how revolutionary idealism can descend into tyranny."
+              },
+              {
+                "problem": "What was the Declaration of the Rights of Man?",
+                "answer": "A foundational document proclaiming that all men are born free and equal, with rights to liberty, property, and security.",
+                "explanation": "Inspired by the American Declaration and Enlightenment philosophy, it became a cornerstone of French law and influenced human rights declarations worldwide."
+              }
+            ],
+            "key_vocabulary": [
+              "French Revolution",
+              "Bastille",
+              "Declaration of the Rights of Man",
+              "Reign of Terror",
+              "Robespierre",
+              "guillotine",
+              "Three Estates",
+              "Napoleon"
+            ],
+            "real_world": "The French Revolution's motto 'Liberty, Equality, Fraternity' remains France's national motto today and has inspired democratic movements worldwide for over two centuries."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What event symbolized the start of the French Revolution?",
+              "options": [
+                "The Boston Tea Party",
+                "Storming the Bastille",
+                "Execution of Louis XVI",
+                "Napoleon's coup"
+              ],
+              "correct": 1,
+              "hint": "This fortress was attacked on July 14, 1789."
+            },
+            {
+              "type": "fill_in",
+              "question": "The French Revolution's motto was Liberty, Equality, and ___.",
+              "answer": "Fraternity",
+              "hint": "This means brotherhood or solidarity."
+            },
+            {
+              "type": "true_false",
+              "question": "The French Revolution remained peaceful throughout.",
+              "answer": false,
+              "hint": "The Reign of Terror saw approximately 17,000 executions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who led the Reign of Terror?",
+              "options": [
+                "Napoleon",
+                "Louis XVI",
+                "Robespierre",
+                "Lafayette"
+              ],
+              "correct": 2,
+              "hint": "He was later guillotined himself."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were the Three Estates?",
+              "options": [
+                "Three branches of government",
+                "Clergy, nobility, and commoners",
+                "Three regions of France",
+                "Three revolutionary parties"
+              ],
+              "correct": 1,
+              "hint": "The Third Estate included 98% of the population."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ Bonaparte seized power after the revolution's instability in 1799.",
+              "answer": "Napoleon",
+              "hint": "He would eventually crown himself Emperor of France."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-2-3",
+          "title": "The Haitian Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Haitian Revolution (1791-1804) was the only successful large-scale slave revolt in history and produced the first Black republic. Saint-Domingue (Haiti) was France's wealthiest colony, producing sugar and coffee through the brutal labor of approximately 500,000 enslaved Africans. Inspired by the French Revolution's ideals of liberty and equality \u2014 which France hypocritically did not extend to its colonies \u2014 enslaved people rose in rebellion in August 1791. Toussaint L'Ouverture, a formerly enslaved man of extraordinary military and political genius, emerged as the revolution's leader. He defeated French, Spanish, and British forces, abolished slavery, and governed the colony. Napoleon sent an army to re-establish slavery; L'Ouverture was captured and died in a French prison. But his successor, Jean-Jacques Dessalines, defeated Napoleon's forces (helped by yellow fever), and Haiti declared independence on January 1, 1804. The Haitian Revolution challenged the racial foundations of colonialism and slavery, terrified slaveholders worldwide, and demonstrated that Enlightenment ideals of freedom applied to all people.",
+            "examples": [
+              {
+                "problem": "Why is the Haitian Revolution historically significant?",
+                "answer": "It was the only successful large-scale slave revolt in history and created the first Black republic.",
+                "explanation": "Haiti proved that enslaved people could liberate themselves and build a nation. It challenged the racist ideology that justified slavery and colonialism."
+              },
+              {
+                "problem": "Who was Toussaint L'Ouverture?",
+                "answer": "A formerly enslaved man who became the revolution's brilliant military and political leader.",
+                "explanation": "L'Ouverture defeated European armies from three empires (France, Spain, Britain), abolished slavery, and demonstrated extraordinary diplomatic skill. Napoleon called him 'the most remarkable man in the Americas.'"
+              },
+              {
+                "problem": "How did France respond to the Haitian Revolution?",
+                "answer": "Napoleon sent an army to re-establish slavery, captured L'Ouverture, but ultimately lost to Haitian forces and yellow fever.",
+                "explanation": "France's failure in Haiti contributed to Napoleon selling Louisiana to the United States in 1803. Haiti's independence came at a terrible cost \u2014 France later forced Haiti to pay enormous 'reparations' for lost slave property."
+              }
+            ],
+            "key_vocabulary": [
+              "Haitian Revolution",
+              "Toussaint L'Ouverture",
+              "Saint-Domingue",
+              "Dessalines",
+              "slave revolt",
+              "abolition",
+              "colonialism",
+              "independence"
+            ],
+            "real_world": "France forced independent Haiti to pay 150 million francs in 'reparations' to former slaveholders \u2014 a debt not fully paid until 1947. This economic burden, imposed for the 'crime' of freeing themselves, contributed to Haiti's long-term poverty."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What made the Haitian Revolution unique in history?",
+              "options": [
+                "It was the fastest revolution",
+                "It was the only successful large-scale slave revolt",
+                "It was the most peaceful",
+                "It was led by Europeans"
+              ],
+              "correct": 1,
+              "hint": "No other enslaved population achieved this."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ L'Ouverture was the brilliant leader of the Haitian Revolution.",
+              "answer": "Toussaint",
+              "hint": "He was formerly enslaved and defeated three European empires."
+            },
+            {
+              "type": "true_false",
+              "question": "France willingly freed its enslaved people in Haiti.",
+              "answer": false,
+              "hint": "Napoleon actually sent an army to re-establish slavery."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When did Haiti declare independence?",
+              "options": [
+                "1776",
+                "1789",
+                "1799",
+                "1804"
+              ],
+              "correct": 3,
+              "hint": "It became the first Black republic in history."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What helped Haitian forces defeat Napoleon's army?",
+              "options": [
+                "British support",
+                "Yellow fever and determined resistance",
+                "Superior weapons",
+                "Naval power"
+              ],
+              "correct": 1,
+              "hint": "Disease killed thousands of French soldiers."
+            },
+            {
+              "type": "fill_in",
+              "question": "Haiti was formerly the French colony of ___-Domingue.",
+              "answer": "Saint",
+              "hint": "It was France's wealthiest colony due to sugar and coffee production."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-2-4",
+          "title": "Latin American Revolutions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Between 1810 and 1830, independence movements swept across Latin America, inspired by the American, French, and Haitian revolutions. Simon Bolivar ('The Liberator') led independence movements across northern South America, freeing Venezuela, Colombia, Ecuador, Peru, and Bolivia (named after him). Jose de San Martin liberated Argentina, Chile, and Peru from the south. In Mexico, Father Miguel Hidalgo sparked the independence movement in 1810 with the Grito de Dolores (Cry of Dolores), a call to revolt, though independence was not achieved until 1821. Brazil gained independence peacefully in 1822 when Prince Pedro declared himself emperor. These revolutions were primarily led by Creoles (people of European descent born in the Americas) who resented Spanish-born officials' privileges. While they achieved political independence, most Latin American nations struggled with inequality, military rule, and economic dependence on former colonial powers. The promised Enlightenment ideals of equality rarely extended to indigenous peoples, enslaved Africans, or mixed-race populations.",
+            "examples": [
+              {
+                "problem": "Who was Simon Bolivar?",
+                "answer": "Known as 'The Liberator,' he led independence movements that freed Venezuela, Colombia, Ecuador, Peru, and Bolivia.",
+                "explanation": "Bolivar dreamed of a unified South American republic similar to the United States, but regional divisions, personal rivalries, and geographic challenges prevented his vision from being realized."
+              },
+              {
+                "problem": "How did Mexico's independence movement begin?",
+                "answer": "Father Miguel Hidalgo issued the Grito de Dolores in 1810, calling Mexicans to revolt against Spanish rule.",
+                "explanation": "Unlike South American revolutions led mainly by elites, Mexico's movement initially included indigenous and mestizo populations. However, independence in 1821 was ultimately achieved by conservative Creole leaders."
+              },
+              {
+                "problem": "What were the limitations of Latin American independence?",
+                "answer": "Political freedom was achieved but inequality persisted \u2014 indigenous peoples, Africans, and mixed-race populations saw little improvement.",
+                "explanation": "Independence mainly benefited Creole elites who replaced Spanish administrators. Land ownership, wealth, and political power remained concentrated. Military strongmen (caudillos) often replaced colonial governors."
+              }
+            ],
+            "key_vocabulary": [
+              "Simon Bolivar",
+              "Jose de San Martin",
+              "Grito de Dolores",
+              "Creole",
+              "caudillo",
+              "Miguel Hidalgo",
+              "independence",
+              "Latin America"
+            ],
+            "real_world": "Latin America's struggle between democratic ideals and authoritarian reality continued well into the 20th century and beyond, with cycles of democratic government and military dictatorship in many countries."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was called 'The Liberator' of South America?",
+              "options": [
+                "San Martin",
+                "Hidalgo",
+                "Bolivar",
+                "Pedro"
+              ],
+              "correct": 2,
+              "hint": "He freed multiple countries in northern South America."
+            },
+            {
+              "type": "fill_in",
+              "question": "Father Hidalgo's ___ de Dolores launched Mexico's independence movement.",
+              "answer": "Grito",
+              "hint": "This 'Cry' in 1810 called Mexicans to revolt."
+            },
+            {
+              "type": "true_false",
+              "question": "Latin American independence movements brought equality to all social classes.",
+              "answer": false,
+              "hint": "Creole elites mainly benefited; indigenous and African-descent peoples saw little change."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who liberated Argentina and Chile?",
+              "options": [
+                "Bolivar",
+                "Hidalgo",
+                "San Martin",
+                "Pedro"
+              ],
+              "correct": 2,
+              "hint": "He led campaigns from the south of the continent."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who were the Creoles?",
+              "options": [
+                "Indigenous peoples",
+                "People of European descent born in the Americas",
+                "Spanish officials",
+                "Enslaved Africans"
+              ],
+              "correct": 1,
+              "hint": "They resented Spanish-born officials' privileges."
+            },
+            {
+              "type": "fill_in",
+              "question": "The country of ___ was named after Simon Bolivar.",
+              "answer": "Bolivia",
+              "hint": "He liberated it from Spanish rule."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which was the first major Enlightenment-inspired revolution?",
+            "options": [
+              "French",
+              "Haitian",
+              "American",
+              "Mexican"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "___ L'Ouverture led the Haitian Revolution.",
+            "answer": "Toussaint"
+          },
+          {
+            "type": "true_false",
+            "question": "The French Revolution's Reign of Terror was a peaceful period.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who wrote the Declaration of Independence?",
+            "options": [
+              "Washington",
+              "Jefferson",
+              "Franklin",
+              "Adams"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who led South American independence in the north?",
+            "options": [
+              "San Martin",
+              "Hidalgo",
+              "Bolivar",
+              "Pedro"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "age_of_revolutions_scholar"
+      }
+    },
+    {
+      "id": "10-ss-3",
+      "title": "Industrial Revolution",
+      "description": "Discover how the shift from hand production to machine manufacturing transformed economies, cities, work, and daily life, creating the modern industrial world.",
+      "lessons": [
+        {
+          "id": "10-social_studies-3-1",
+          "title": "Origins of the Industrial Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Industrial Revolution began in Britain around 1760 and fundamentally transformed how goods were produced, how people worked, and how societies were organized. Several factors made Britain the birthplace: abundant coal and iron deposits, a stable government that protected property rights, an extensive colonial empire providing raw materials and markets, a strong banking system for investment, geographic advantages (island nation with many rivers for transport), and an agricultural revolution that freed labor for factories. The textile industry led the way. James Watt's improved steam engine (1769) provided a reliable power source that could be used anywhere, not just near water. The factory system replaced cottage industry (home-based production): workers came to centralized locations with machines, working set hours under supervision. This shift from hand production to machine manufacturing, from rural life to urban life, and from agriculture to industry was the most profound economic transformation since the invention of farming.",
+            "examples": [
+              {
+                "problem": "Why did the Industrial Revolution begin in Britain?",
+                "answer": "Britain had coal, iron, stable government, colonies for materials and markets, capital, and rivers for transport.",
+                "explanation": "No single factor explains it \u2014 Britain had a unique combination of natural resources, political stability, financial systems, and colonial advantages that made industrialization possible there first."
+              },
+              {
+                "problem": "How did the factory system differ from cottage industry?",
+                "answer": "Factories centralized workers and machines in one location with set hours; cottage industry was home-based and self-paced.",
+                "explanation": "Under cottage industry, families worked at home at their own pace. Factories demanded punctuality, repetitive tasks, and submission to supervisors \u2014 a completely new way of working."
+              },
+              {
+                "problem": "Why was the steam engine so important?",
+                "answer": "It provided reliable power that could be used anywhere, freeing industry from dependence on water power.",
+                "explanation": "Water-powered mills had to be built near rivers. Steam engines could be placed in cities, near markets and labor. This flexibility enabled rapid industrialization and urbanization."
+              }
+            ],
+            "key_vocabulary": [
+              "Industrial Revolution",
+              "factory system",
+              "steam engine",
+              "James Watt",
+              "cottage industry",
+              "textile",
+              "coal",
+              "industrialization"
+            ],
+            "real_world": "The Industrial Revolution's transformation of work continues today. The shift to automation and AI is often called the 'Fourth Industrial Revolution,' raising similar questions about jobs, inequality, and social change."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where did the Industrial Revolution begin?",
+              "options": [
+                "France",
+                "Germany",
+                "Britain",
+                "United States"
+              ],
+              "correct": 2,
+              "hint": "This country had unique advantages including coal and colonies."
+            },
+            {
+              "type": "fill_in",
+              "question": "James Watt improved the ___ engine, providing reliable power for factories.",
+              "answer": "steam",
+              "hint": "It freed industry from dependence on water power."
+            },
+            {
+              "type": "true_false",
+              "question": "The Industrial Revolution began in the textile industry.",
+              "answer": true,
+              "hint": "Cloth production was the first industry to be mechanized."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did the factory system replace?",
+              "options": [
+                "Slave labor",
+                "Cottage industry",
+                "Feudalism",
+                "Guilds"
+              ],
+              "correct": 1,
+              "hint": "Workers moved from home-based production to centralized workplaces."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which natural resource was essential to the Industrial Revolution?",
+              "options": [
+                "Gold",
+                "Silver",
+                "Coal",
+                "Diamonds"
+              ],
+              "correct": 2,
+              "hint": "It powered steam engines and iron production."
+            },
+            {
+              "type": "fill_in",
+              "question": "The shift from hand production to ___ manufacturing defines the Industrial Revolution.",
+              "answer": "machine",
+              "hint": "This change was the most profound economic transformation since agriculture."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-3-2",
+          "title": "Urbanization and Social Changes",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Industrial Revolution triggered massive urbanization as people flooded from rural areas to factory cities. Manchester, England, grew from 25,000 to over 300,000 in just 80 years. Cities were unprepared: workers lived in overcrowded, unsanitary slums without clean water, sewage systems, or garbage collection. Disease \u2014 especially cholera, typhoid, and tuberculosis \u2014 was rampant. Air and water pollution from factories darkened skies and poisoned rivers. A new social class emerged: the industrial working class (proletariat), who owned no property and depended entirely on wages. Workers, including women and children as young as 5, labored 12-16 hours per day in dangerous conditions. The factory bell, not the sun, now governed life. Meanwhile, a new middle class of factory owners, merchants, and professionals grew wealthy. This stark inequality \u2014 vast wealth alongside desperate poverty \u2014 became the defining social issue of the industrial age and sparked reform movements, labor unions, and new political ideologies.",
+            "examples": [
+              {
+                "problem": "How did urbanization affect living conditions?",
+                "answer": "Rapid city growth created overcrowded slums with poor sanitation, polluted water, rampant disease, and air pollution.",
+                "explanation": "Cities grew faster than infrastructure could accommodate. Raw sewage flowed through streets, multiple families shared single rooms, and life expectancy in industrial cities was often under 30 years."
+              },
+              {
+                "problem": "What was life like for factory workers?",
+                "answer": "12-16 hour days, dangerous conditions, low wages, and strict discipline \u2014 including for women and young children.",
+                "explanation": "Factory work was monotonous, exhausting, and dangerous. Workers could lose fingers, limbs, or lives to unguarded machinery. Children crawled under machines to clean them. There were no safety regulations."
+              },
+              {
+                "problem": "What new social classes emerged?",
+                "answer": "The industrial working class (proletariat) who depended on wages, and a new middle class of factory owners and professionals.",
+                "explanation": "Before industrialization, most people were farmers. Factories created a new division: those who owned the means of production (capitalists) and those who sold their labor (workers). This class divide defined the era."
+              }
+            ],
+            "key_vocabulary": [
+              "urbanization",
+              "slum",
+              "proletariat",
+              "middle class",
+              "child labor",
+              "sanitation",
+              "industrialization",
+              "class division"
+            ],
+            "real_world": "Many problems of early industrialization persist. Issues like worker safety, fair wages, housing affordability, and pollution remain relevant. The fight for labor rights that began in the 1800s continues today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What happened to Manchester's population during industrialization?",
+              "options": [
+                "It declined",
+                "It grew from 25,000 to over 300,000",
+                "It stayed the same",
+                "It doubled"
+              ],
+              "correct": 1,
+              "hint": "This growth was typical of industrial cities."
+            },
+            {
+              "type": "fill_in",
+              "question": "Factory workers, who owned no property and depended on wages, were called the ___.",
+              "answer": "proletariat",
+              "hint": "This term was later used by Karl Marx in his analysis of capitalism."
+            },
+            {
+              "type": "true_false",
+              "question": "Industrial cities had excellent sanitation and clean water.",
+              "answer": false,
+              "hint": "Cities were overcrowded with poor sanitation and rampant disease."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many hours per day did factory workers typically labor?",
+              "options": [
+                "6-8",
+                "8-10",
+                "12-16",
+                "18-20"
+              ],
+              "correct": 2,
+              "hint": "There were no regulations limiting work hours."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was a major disease problem in industrial cities?",
+              "options": [
+                "Malaria",
+                "Cholera",
+                "Smallpox",
+                "Scurvy"
+              ],
+              "correct": 1,
+              "hint": "It spread through contaminated water supplies."
+            },
+            {
+              "type": "fill_in",
+              "question": "Children as young as ___ worked in factories during the Industrial Revolution.",
+              "answer": "5",
+              "hint": "Child labor was widespread and unregulated in early factories."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-3-3",
+          "title": "Key Inventions and the Spread of Industry",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Industrial Revolution was driven by a cascade of inventions. In textiles, the spinning jenny (Hargreaves, 1764), water frame (Arkwright, 1769), and power loom (Cartwright, 1785) mechanized cloth production. The steam engine evolved from Newcomen's mine pump to Watt's efficient design to powering locomotives (Stephenson's Rocket, 1829) and steamships. Railroads transformed transportation: goods and people could move faster and cheaper than ever, connecting cities and markets. The telegraph (Morse, 1837) enabled instant long-distance communication. Bessemer's steel process (1856) made strong, cheap steel possible, enabling bridges, skyscrapers, and railroads. Industrialization spread from Britain to Belgium, France, Germany, and the United States by the mid-1800s. The U.S. industrialized rapidly after the Civil War, with innovations in assembly-line production, oil refining, and electrical power. Germany's industrialization, especially in chemicals and steel, made it a European power. Japan industrialized during the Meiji Restoration (1868) to compete with Western powers.",
+            "examples": [
+              {
+                "problem": "How did railroads transform society?",
+                "answer": "They moved goods and people faster and cheaper than ever, connecting distant cities and creating national markets.",
+                "explanation": "Railroads shrank distances, standardized time zones, created new industries (steel, coal), and enabled urbanization. They were the internet of the 19th century \u2014 a transformative infrastructure technology."
+              },
+              {
+                "problem": "How did industrialization spread beyond Britain?",
+                "answer": "It moved to Belgium, France, Germany, and the U.S. by mid-1800s, and to Japan after 1868.",
+                "explanation": "Each country industrialized differently based on its resources and situation. The U.S. had vast resources and immigrant labor; Germany excelled in science-based industries; Japan modernized rapidly to avoid colonization."
+              },
+              {
+                "problem": "Why was the Bessemer process important?",
+                "answer": "It made strong, cheap steel possible, enabling construction of railroads, bridges, and eventually skyscrapers.",
+                "explanation": "Before Bessemer, steel was expensive and rare. His process converted iron to steel cheaply and quickly, making steel the building material of the modern world."
+              }
+            ],
+            "key_vocabulary": [
+              "spinning jenny",
+              "power loom",
+              "railroad",
+              "telegraph",
+              "Bessemer process",
+              "assembly line",
+              "Meiji Restoration",
+              "locomotive"
+            ],
+            "real_world": "The cascade of invention during the Industrial Revolution mirrors today's tech revolution. Just as the steam engine led to railroads and factories, the microchip led to computers, the internet, and smartphones."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did railroads transform?",
+              "options": [
+                "Agriculture only",
+                "Transportation of goods and people",
+                "Religious practices",
+                "Military uniforms"
+              ],
+              "correct": 1,
+              "hint": "They connected cities and created national markets."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ process made cheap steel possible, transforming construction.",
+              "answer": "Bessemer",
+              "hint": "It enabled railroads, bridges, and eventually skyscrapers."
+            },
+            {
+              "type": "true_false",
+              "question": "Industrialization only occurred in Britain.",
+              "answer": false,
+              "hint": "It spread to Belgium, France, Germany, the U.S., Japan, and beyond."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which country industrialized during the Meiji Restoration?",
+              "options": [
+                "China",
+                "India",
+                "Japan",
+                "Korea"
+              ],
+              "correct": 2,
+              "hint": "It modernized rapidly after 1868 to compete with Western powers."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What enabled instant long-distance communication?",
+              "options": [
+                "Telephone",
+                "Telegraph",
+                "Radio",
+                "Railroad"
+              ],
+              "correct": 1,
+              "hint": "Samuel Morse developed this technology in 1837."
+            },
+            {
+              "type": "fill_in",
+              "question": "Stephenson's ___ was an early locomotive that demonstrated the power of rail transport.",
+              "answer": "Rocket",
+              "hint": "It helped launch the railroad age in 1829."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-3-4",
+          "title": "Reform Movements and New Ideologies",
+          "type": "lesson",
+          "content": {
+            "explanation": "The suffering caused by industrialization sparked powerful reform movements and new political ideologies. Labor unions formed to fight for better wages, shorter hours, and safer conditions, despite fierce opposition from factory owners and governments. Reform legislation gradually addressed the worst abuses: Britain's Factory Acts limited child labor and working hours, and the Ten Hours Act (1847) capped the workday. Karl Marx and Friedrich Engels published The Communist Manifesto (1848), arguing that capitalism inevitably exploits workers and that the proletariat would eventually overthrow the bourgeoisie (capitalist class) and create a classless society. Socialism, in various forms, proposed that the means of production should be owned collectively rather than by private individuals. In contrast, proponents of laissez-faire capitalism argued that government should not interfere in the economy. Reformers like Robert Owen created model factory communities, while the women's suffrage movement grew as women sought equal rights. These debates between capitalism, socialism, and reform continue to shape political discourse today.",
+            "examples": [
+              {
+                "problem": "What were early labor unions fighting for?",
+                "answer": "Better wages, shorter hours, safer working conditions, and the right to organize collectively.",
+                "explanation": "Unions faced fierce opposition. Factory owners fired and blacklisted members; governments often banned unions and used police to break strikes. Despite this, unions gradually won essential protections."
+              },
+              {
+                "problem": "What did Karl Marx argue?",
+                "answer": "That capitalism inevitably exploits workers and that the proletariat would eventually overthrow the capitalist class to create a classless society.",
+                "explanation": "Marx saw history as a series of class struggles. He predicted that capitalism's internal contradictions \u2014 wealth concentration, worker exploitation \u2014 would lead to revolution. His ideas profoundly influenced the 20th century."
+              },
+              {
+                "problem": "What is the difference between capitalism and socialism?",
+                "answer": "Capitalism features private ownership and free markets; socialism proposes collective ownership of production for the common good.",
+                "explanation": "Capitalists argued that free competition drives innovation and prosperity. Socialists argued that unregulated capitalism creates exploitation and inequality. Most modern economies blend elements of both."
+              }
+            ],
+            "key_vocabulary": [
+              "labor union",
+              "socialism",
+              "capitalism",
+              "Karl Marx",
+              "Communist Manifesto",
+              "proletariat",
+              "bourgeoisie",
+              "laissez-faire",
+              "Factory Acts"
+            ],
+            "real_world": "The debate between free-market capitalism and government regulation continues today. Issues like minimum wage, healthcare, worker safety, and wealth inequality echo the same tensions that emerged during industrialization."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did labor unions fight for?",
+              "options": [
+                "Higher taxes",
+                "Better wages, hours, and safety",
+                "More child labor",
+                "Fewer regulations"
+              ],
+              "correct": 1,
+              "hint": "Workers organized collectively to improve conditions."
+            },
+            {
+              "type": "fill_in",
+              "question": "Marx and Engels published The ___ Manifesto in 1848.",
+              "answer": "Communist",
+              "hint": "It argued that capitalism exploits workers and would be overthrown."
+            },
+            {
+              "type": "true_false",
+              "question": "Factory Acts in Britain made child labor and long hours worse.",
+              "answer": false,
+              "hint": "They limited child labor and reduced working hours."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does laissez-faire mean in economics?",
+              "options": [
+                "Government controls everything",
+                "Government should not interfere in the economy",
+                "Workers own all factories",
+                "Trade should be banned"
+              ],
+              "correct": 1,
+              "hint": "This French phrase means 'let it be' or 'leave it alone.'"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who wrote The Communist Manifesto?",
+              "options": [
+                "Adam Smith",
+                "John Locke",
+                "Marx and Engels",
+                "Robert Owen"
+              ],
+              "correct": 2,
+              "hint": "They predicted a workers' revolution against capitalism."
+            },
+            {
+              "type": "fill_in",
+              "question": "Marx called the capitalist class the ___.",
+              "answer": "bourgeoisie",
+              "hint": "He opposed them to the proletariat (working class)."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-3-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Where did the Industrial Revolution begin?",
+            "options": [
+              "France",
+              "United States",
+              "Britain",
+              "Germany"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The ___ engine powered factories and transformed transportation.",
+            "answer": "steam"
+          },
+          {
+            "type": "true_false",
+            "question": "Factory workers enjoyed short hours and safe conditions.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What did Karl Marx predict?",
+            "options": [
+              "Eternal capitalism",
+              "Workers would overthrow the capitalist class",
+              "The end of technology",
+              "Return to feudalism"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What did the Bessemer process produce cheaply?",
+            "options": [
+              "Coal",
+              "Cotton",
+              "Steel",
+              "Glass"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "industrial_revolution_scholar"
+      }
+    },
+    {
+      "id": "10-ss-4",
+      "title": "Imperialism",
+      "description": "Examine how industrialized nations expanded their empires across Africa, Asia, and the Pacific, and the lasting effects of colonialism on colonized peoples.",
+      "lessons": [
+        {
+          "id": "10-social_studies-4-1",
+          "title": "Causes and Justifications of Imperialism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Imperialism \u2014 the domination of one country over another's political, economic, and cultural life \u2014 accelerated dramatically in the late 19th century. Industrial nations sought raw materials (rubber, copper, palm oil), new markets for manufactured goods, and strategic military positions. Economic competition among European powers created a scramble for colonies. Imperialism was justified through several ideologies: Social Darwinism misapplied Darwin's 'survival of the fittest' to claim that European domination proved racial superiority. The 'White Man's Burden' (from Rudyard Kipling's poem) framed colonialism as a noble duty to 'civilize' non-European peoples. Christian missionaries sought to convert 'heathen' populations. Nationalism drove competition: colonies were seen as measures of national prestige. These justifications masked the exploitation at imperialism's core \u2014 the extraction of wealth from colonized peoples for the benefit of colonizing nations, enforced by military power and often maintained through violence.",
+            "examples": [
+              {
+                "problem": "What economic factors drove imperialism?",
+                "answer": "Industrial nations needed raw materials, markets for goods, and profitable investment opportunities abroad.",
+                "explanation": "Factories needed rubber from Congo, cotton from India, and minerals from Africa. Colonies provided captive markets forced to buy European goods. Investors sought higher returns in colonial enterprises than at home."
+              },
+              {
+                "problem": "What was Social Darwinism?",
+                "answer": "A misapplication of Darwin's evolutionary theory to claim that European dominance proved racial superiority.",
+                "explanation": "Darwin's biological theory of natural selection was twisted to justify racial hierarchies and colonialism. This pseudoscientific racism was used to claim that Europeans were 'naturally' superior and had a right to rule others."
+              },
+              {
+                "problem": "What was the 'White Man's Burden'?",
+                "answer": "The idea that Europeans had a duty to 'civilize' non-European peoples through colonialism.",
+                "explanation": "Kipling's 1899 poem urged Americans to colonize the Philippines as a noble obligation. Critics then and now recognize it as a self-serving justification for exploitation dressed up as charity."
+              }
+            ],
+            "key_vocabulary": [
+              "imperialism",
+              "Social Darwinism",
+              "White Man's Burden",
+              "colonialism",
+              "raw materials",
+              "nationalism",
+              "exploitation",
+              "missionary"
+            ],
+            "real_world": "The legacy of imperial justifications persists. Debates about foreign intervention, development aid, and cultural superiority still echo the arguments imperialists used to justify domination."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What economic factor drove imperialism?",
+              "options": [
+                "Desire for democracy",
+                "Need for raw materials and markets",
+                "Religious conversion",
+                "Scientific curiosity"
+              ],
+              "correct": 1,
+              "hint": "Industrial nations needed resources and places to sell goods."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ Darwinism misapplied evolutionary theory to justify racial superiority.",
+              "answer": "Social",
+              "hint": "It falsely claimed European dominance proved biological superiority."
+            },
+            {
+              "type": "true_false",
+              "question": "The 'White Man's Burden' was a critique of imperialism.",
+              "answer": false,
+              "hint": "It framed colonialism as a noble duty to 'civilize' other peoples."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did nationalism contribute to imperialism?",
+              "options": [
+                "It ended colonial competition",
+                "Colonies became measures of national prestige",
+                "It promoted isolationism",
+                "It encouraged decolonization"
+              ],
+              "correct": 1,
+              "hint": "Nations competed for colonies as signs of power and greatness."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Christian missionaries seek in colonies?",
+              "options": [
+                "Gold and silver",
+                "To convert non-Christian populations",
+                "Military alliances",
+                "Trading posts"
+              ],
+              "correct": 1,
+              "hint": "Religious conversion was one justification for colonial presence."
+            },
+            {
+              "type": "fill_in",
+              "question": "Imperialism is the ___ of one country over another's political, economic, and cultural life.",
+              "answer": "domination",
+              "hint": "It was enforced by military power and maintained through exploitation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-4-2",
+          "title": "The Scramble for Africa",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Scramble for Africa (1881-1914) was the rapid colonization of nearly the entire African continent by European powers. At the Berlin Conference (1884-1885), European nations \u2014 with no African representatives present \u2014 divided Africa among themselves, drawing arbitrary borders that ignored existing ethnic, linguistic, and political boundaries. By 1914, only Ethiopia and Liberia remained independent. Britain controlled large territories including Egypt, Sudan, South Africa, Nigeria, and Kenya. France dominated West and North Africa. Belgium's King Leopold II personally controlled the Congo Free State, where his regime of forced rubber collection caused the deaths of an estimated 10 million Congolese \u2014 one of history's worst atrocities. Germany, Italy, Portugal, and Spain claimed remaining territories. Africans resisted colonization through both armed rebellion (the Zulu Wars, the Maji Maji Rebellion, the Herero resistance) and diplomatic efforts, but European military technology \u2014 especially the Maxim machine gun \u2014 gave colonizers an overwhelming advantage.",
+            "examples": [
+              {
+                "problem": "What was the Berlin Conference?",
+                "answer": "An 1884-1885 meeting where European powers divided Africa among themselves \u2014 without any African participation.",
+                "explanation": "Fourteen European nations and the U.S. attended; not a single African leader was invited. They drew straight-line borders on maps, splitting ethnic groups and forcing rival groups into single colonies \u2014 creating problems that persist today."
+              },
+              {
+                "problem": "What happened in the Congo Free State?",
+                "answer": "King Leopold II's forced rubber collection regime caused approximately 10 million deaths through murder, starvation, and disease.",
+                "explanation": "Leopold claimed the Congo as personal property and imposed a system of terror. Workers who failed to meet rubber quotas had their hands cut off. International outrage eventually forced Belgium to take the colony from Leopold."
+              },
+              {
+                "problem": "How did Africans resist colonization?",
+                "answer": "Through armed rebellions (Zulu Wars, Maji Maji), diplomatic efforts, and cultural resistance.",
+                "explanation": "African resistance was persistent and widespread but outmatched by European military technology, especially the machine gun. The Zulu defeated a British force at Isandlwana (1879) before being overwhelmed by superior firepower."
+              }
+            ],
+            "key_vocabulary": [
+              "Scramble for Africa",
+              "Berlin Conference",
+              "King Leopold II",
+              "Congo Free State",
+              "partition",
+              "Maxim gun",
+              "resistance",
+              "colony"
+            ],
+            "real_world": "The arbitrary borders drawn at the Berlin Conference remain largely intact today as Africa's national boundaries, continuing to cause ethnic and political conflicts in many countries."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the Berlin Conference?",
+              "options": [
+                "A peace conference after WWI",
+                "European powers dividing Africa among themselves",
+                "An African independence meeting",
+                "A trade summit"
+              ],
+              "correct": 1,
+              "hint": "It took place in 1884-1885 with no African representatives."
+            },
+            {
+              "type": "fill_in",
+              "question": "By 1914, only Ethiopia and ___ remained independent in Africa.",
+              "answer": "Liberia",
+              "hint": "Every other African nation had been colonized by European powers."
+            },
+            {
+              "type": "true_false",
+              "question": "African leaders participated in deciding how Africa was divided.",
+              "answer": false,
+              "hint": "No African representatives were present at the Berlin Conference."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What atrocity occurred in the Congo Free State?",
+              "options": [
+                "The country was peacefully governed",
+                "An estimated 10 million died under Leopold's forced rubber regime",
+                "Leopold freed enslaved people",
+                "Democracy was established"
+              ],
+              "correct": 1,
+              "hint": "King Leopold II's personal rule was one of history's worst atrocities."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which two African nations remained independent?",
+              "options": [
+                "Egypt and Nigeria",
+                "Ethiopia and Liberia",
+                "South Africa and Morocco",
+                "Kenya and Ghana"
+              ],
+              "correct": 1,
+              "hint": "They were the only countries not colonized during the Scramble."
+            },
+            {
+              "type": "fill_in",
+              "question": "European military advantage was largely due to the ___ machine gun.",
+              "answer": "Maxim",
+              "hint": "This weapon gave colonizers overwhelming firepower against resistance."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-4-3",
+          "title": "British India and the Spheres of Influence in China",
+          "type": "lesson",
+          "content": {
+            "explanation": "India was the crown jewel of the British Empire. The British East India Company gradually took control from the declining Mughal Empire, and after the Sepoy Mutiny (Indian Rebellion) of 1857, the British government assumed direct rule \u2014 the 'British Raj' (1858-1947). Britain extracted raw materials (cotton, tea, spices), forced India to buy British manufactured goods (destroying India's textile industry), imposed English education, and built railroads primarily for resource extraction. Indian resistance ranged from armed rebellion to intellectual movements. In China, European powers did not directly colonize but established 'spheres of influence' \u2014 regions where they had exclusive trading rights. The Opium Wars (1839-1842, 1856-1860) forced China to open ports, legalize opium, and cede Hong Kong to Britain. The resulting 'unequal treaties' humiliated China and contributed to internal rebellions (Taiping Rebellion, Boxer Rebellion) and eventually the fall of the Qing Dynasty in 1912.",
+            "examples": [
+              {
+                "problem": "How did British rule affect India economically?",
+                "answer": "Britain extracted raw materials and destroyed India's textile industry by forcing India to buy British manufactured goods.",
+                "explanation": "India had been one of the world's leading textile producers. British policy deliberately deindustrialized India, turning it into a supplier of raw cotton that was manufactured in British factories and sold back to Indians."
+              },
+              {
+                "problem": "What were the Opium Wars?",
+                "answer": "Conflicts (1839-1842, 1856-1860) where Britain forced China to open trade and accept opium imports, resulting in humiliating 'unequal treaties.'",
+                "explanation": "Britain grew opium in India and sold it in China to balance trade. When China tried to stop the opium trade, Britain used military force. China was forced to open ports, pay indemnities, and grant special privileges to foreigners."
+              },
+              {
+                "problem": "What were spheres of influence?",
+                "answer": "Regions within China where foreign powers had exclusive trading and economic rights.",
+                "explanation": "Rather than directly colonizing China, European powers carved it into zones of economic control. Britain, France, Germany, Russia, and Japan each claimed regions, undermining Chinese sovereignty without formal colonization."
+              }
+            ],
+            "key_vocabulary": [
+              "British Raj",
+              "East India Company",
+              "Sepoy Mutiny",
+              "Opium Wars",
+              "spheres of influence",
+              "unequal treaties",
+              "Boxer Rebellion",
+              "Qing Dynasty"
+            ],
+            "real_world": "India's experience under British rule shaped its post-independence economic policies. Leaders like Nehru promoted domestic industry to reverse the deindustrialization Britain had imposed. China's 'century of humiliation' still influences its foreign policy today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the British Raj?",
+              "options": [
+                "A trading company",
+                "Direct British government rule of India (1858-1947)",
+                "An Indian independence movement",
+                "A type of tea"
+              ],
+              "correct": 1,
+              "hint": "It began after the Sepoy Mutiny."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Wars forced China to open ports and accept opium imports.",
+              "answer": "Opium",
+              "hint": "Britain used military force when China tried to stop the drug trade."
+            },
+            {
+              "type": "true_false",
+              "question": "Britain built railroads in India primarily for Indian benefit.",
+              "answer": false,
+              "hint": "Railroads were built mainly for extracting resources from India."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were 'unequal treaties'?",
+              "options": [
+                "Fair trade agreements",
+                "Treaties forced on China giving foreigners special privileges",
+                "Military alliances",
+                "Cultural exchanges"
+              ],
+              "correct": 1,
+              "hint": "They humiliated China and undermined its sovereignty."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What destroyed India's textile industry?",
+              "options": [
+                "Natural disasters",
+                "British policy forcing India to buy British manufactured goods",
+                "Indian civil war",
+                "Lack of cotton"
+              ],
+              "correct": 1,
+              "hint": "India went from textile producer to raw material supplier."
+            },
+            {
+              "type": "fill_in",
+              "question": "Foreign powers carved China into ___ of influence for exclusive trading rights.",
+              "answer": "spheres",
+              "hint": "This allowed economic control without formal colonization."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-4-4",
+          "title": "Effects of Imperialism on Colonized Peoples",
+          "type": "lesson",
+          "content": {
+            "explanation": "Imperialism had devastating and lasting effects on colonized peoples. Economically, colonies were restructured to serve imperial interests: subsistence farming was replaced by cash crops (coffee, rubber, cotton) for export, creating dependence and vulnerability to famine. Traditional industries were destroyed to create markets for European goods. Politically, colonial borders ignored ethnic and cultural boundaries, creating artificial states that would face ethnic conflict after independence. Colonizers used 'divide and rule' tactics, favoring certain groups to maintain control, deepening social divisions. Culturally, colonial education imposed European languages, religions, and values while suppressing indigenous cultures, languages, and traditions. The psychological impact of colonialism \u2014 being told your culture, race, and civilization were inferior \u2014 created lasting damage. However, colonized peoples also resisted, adapted, and preserved their cultures. They would eventually use European ideas of nationalism and self-determination to demand independence in the 20th century.",
+            "examples": [
+              {
+                "problem": "How did imperialism affect colonial economies?",
+                "answer": "Colonies were restructured to export raw materials and cash crops while being forced to import European manufactured goods.",
+                "explanation": "Self-sufficient farming was replaced by export crops like rubber and coffee. If world prices fell, colonized peoples starved. This economic structure \u2014 raw material exporter, manufactured goods importer \u2014 persisted long after independence."
+              },
+              {
+                "problem": "What was 'divide and rule'?",
+                "answer": "A colonial strategy of favoring one ethnic or religious group over others to prevent unified resistance.",
+                "explanation": "In Rwanda, Belgian colonizers exaggerated differences between Hutus and Tutsis, creating identity cards and favoring Tutsis \u2014 contributing to divisions that eventually led to the 1994 genocide."
+              },
+              {
+                "problem": "How did colonialism affect culture?",
+                "answer": "European languages, religions, and values were imposed while indigenous cultures, languages, and traditions were suppressed.",
+                "explanation": "Children were educated in European languages and taught that their own cultures were 'backward.' Many indigenous languages and cultural practices were lost. The psychological impact of this cultural denigration lasted generations."
+              }
+            ],
+            "key_vocabulary": [
+              "cash crops",
+              "divide and rule",
+              "cultural imperialism",
+              "exploitation",
+              "resistance",
+              "nationalism",
+              "self-determination",
+              "decolonization"
+            ],
+            "real_world": "The effects of imperialism persist today in economic inequalities, political borders, linguistic patterns, and social divisions across the formerly colonized world. Understanding this history is essential for understanding global inequality."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How did colonizers restructure colonial economies?",
+              "options": [
+                "Promoted industrialization",
+                "Replaced subsistence farming with export cash crops",
+                "Encouraged local trade",
+                "Built democratic institutions"
+              ],
+              "correct": 1,
+              "hint": "Colonies became dependent on exporting raw materials."
+            },
+            {
+              "type": "fill_in",
+              "question": "The colonial strategy of favoring one group over others to prevent resistance was called ___ and rule.",
+              "answer": "divide",
+              "hint": "This tactic deepened social divisions that persisted after independence."
+            },
+            {
+              "type": "true_false",
+              "question": "Colonial education preserved and celebrated indigenous cultures.",
+              "answer": false,
+              "hint": "It imposed European values while suppressing indigenous cultures and languages."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was a lasting political effect of imperialism?",
+              "options": [
+                "Strong democracies",
+                "Borders that ignored ethnic boundaries, causing conflict",
+                "Economic equality",
+                "Cultural unity"
+              ],
+              "correct": 1,
+              "hint": "Artificial borders created by colonizers still cause problems today."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did colonized peoples eventually gain independence?",
+              "options": [
+                "By accepting colonial rule",
+                "Using European ideas of nationalism and self-determination",
+                "Through peaceful agreement with all colonizers",
+                "Colonies were willingly released"
+              ],
+              "correct": 1,
+              "hint": "They turned the colonizers' own ideas against them."
+            },
+            {
+              "type": "fill_in",
+              "question": "Replacing subsistence farming with export ___ crops made colonies dependent and vulnerable to famine.",
+              "answer": "cash",
+              "hint": "Crops like coffee and rubber were grown for European markets, not local food needs."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-4-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What justified imperialism through misapplied science?",
+            "options": [
+              "Marxism",
+              "Social Darwinism",
+              "Enlightenment",
+              "Romanticism"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Berlin Conference divided ___ among European powers.",
+            "answer": "Africa"
+          },
+          {
+            "type": "true_false",
+            "question": "All African nations were colonized during the Scramble for Africa.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What were the Opium Wars about?",
+            "options": [
+              "Religious freedom",
+              "Britain forcing China to accept opium trade",
+              "Control of India",
+              "African independence"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What colonial strategy deepened social divisions?",
+            "options": [
+              "Democracy",
+              "Education",
+              "Divide and rule",
+              "Free trade"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "imperialism_scholar"
+      }
+    },
+    {
+      "id": "10-ss-5",
+      "title": "World War I",
+      "description": "Examine the causes, course, and consequences of the Great War \u2014 the first truly global conflict that shattered empires and reshaped the modern world.",
+      "lessons": [
+        {
+          "id": "10-social_studies-5-1",
+          "title": "Causes of World War I: MAIN",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War I (1914-1918) resulted from four interconnected causes, remembered by the acronym MAIN. Militarism: European nations engaged in a massive arms race, building huge armies and navies (especially the Anglo-German naval rivalry). Alliances: two rival alliance systems \u2014 the Triple Alliance (Germany, Austria-Hungary, Italy) and the Triple Entente (France, Russia, Britain) \u2014 meant a conflict between two nations could drag in all of Europe. Imperialism: competition for colonies created tensions, especially between France and Germany over Morocco. Nationalism: intense national pride and ethnic tensions, particularly in the Balkans (the 'powder keg of Europe'), where Slavic peoples under Austro-Hungarian and Ottoman rule wanted independence. The immediate trigger was the assassination of Archduke Franz Ferdinand of Austria-Hungary by Gavrilo Princip, a Bosnian Serb nationalist, on June 28, 1914 in Sarajevo. Austria-Hungary's ultimatum to Serbia activated the alliance system like dominoes: within weeks, most of Europe was at war.",
+            "examples": [
+              {
+                "problem": "What does MAIN stand for?",
+                "answer": "Militarism, Alliances, Imperialism, and Nationalism \u2014 the four main causes of WWI.",
+                "explanation": "These causes built up over decades. The alliance system turned a regional assassination into a continental war, while militarism ensured the war would be fought with devastating modern weapons."
+              },
+              {
+                "problem": "Why were the Balkans called the 'powder keg of Europe'?",
+                "answer": "Ethnic nationalism among Slavic peoples under Austrian and Ottoman rule created explosive tensions in the region.",
+                "explanation": "Multiple ethnic groups sought independence or unification. Serbia wanted to unite all South Slavs; Austria-Hungary feared this would destroy its multi-ethnic empire. The assassination in Sarajevo lit the fuse."
+              },
+              {
+                "problem": "How did the alliance system cause a world war?",
+                "answer": "Two rival alliances meant a conflict between two nations automatically involved all their allies.",
+                "explanation": "Austria declared war on Serbia. Russia mobilized to support Serbia. Germany declared war on Russia and France. Britain joined when Germany invaded Belgium. Within weeks, a political assassination became a global war."
+              }
+            ],
+            "key_vocabulary": [
+              "MAIN",
+              "militarism",
+              "alliances",
+              "imperialism",
+              "nationalism",
+              "Triple Alliance",
+              "Triple Entente",
+              "Franz Ferdinand",
+              "Balkans"
+            ],
+            "real_world": "The lesson of how alliances can escalate conflicts remains relevant. Today's military alliances like NATO operate on similar principles \u2014 an attack on one is an attack on all."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does the M in MAIN stand for?",
+              "options": [
+                "Monarchy",
+                "Militarism",
+                "Mercantilism",
+                "Migration"
+              ],
+              "correct": 1,
+              "hint": "European nations engaged in a massive arms race."
+            },
+            {
+              "type": "fill_in",
+              "question": "The assassination of Archduke ___ ___ triggered WWI.",
+              "answer": "Franz Ferdinand",
+              "hint": "He was killed in Sarajevo on June 28, 1914."
+            },
+            {
+              "type": "true_false",
+              "question": "The alliance system helped prevent the spread of conflict.",
+              "answer": false,
+              "hint": "It expanded a regional crisis into a continental war."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which region was called the 'powder keg of Europe'?",
+              "options": [
+                "Scandinavia",
+                "Iberia",
+                "The Balkans",
+                "The Rhineland"
+              ],
+              "correct": 2,
+              "hint": "Ethnic nationalism created explosive tensions here."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What were the two alliance systems?",
+              "options": [
+                "NATO and Warsaw Pact",
+                "Triple Alliance and Triple Entente",
+                "Axis and Allies",
+                "Central and Allied Powers"
+              ],
+              "correct": 1,
+              "hint": "These rival alliances divided Europe into two armed camps."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Balkan crisis was driven by ___ among Slavic peoples seeking independence.",
+              "answer": "nationalism",
+              "hint": "They wanted freedom from Austro-Hungarian and Ottoman rule."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-5-2",
+          "title": "Trench Warfare and New Technology",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War I introduced industrialized warfare on an unprecedented scale. After initial mobile warfare, the Western Front in France and Belgium settled into trench warfare \u2014 a nightmarish stalemate where opposing armies faced each other from elaborate trench systems stretching 400 miles from the English Channel to Switzerland. The space between trenches, called 'no man's land,' was a death zone of barbed wire, shell craters, and machine gun fire. Soldiers lived in muddy, rat-infested trenches, suffering from disease, shell shock (PTSD), and constant bombardment. New weapons made this war uniquely destructive: machine guns (firing 600 rounds per minute), poison gas (chlorine, mustard gas), tanks (first used at the Somme in 1916), airplanes (initially for reconnaissance, later for bombing and dogfights), submarines (Germany's U-boats), and long-range artillery. The Battle of the Somme (1916) saw 1 million casualties; the Battle of Verdun (1916) lasted 10 months. Technology had outpaced tactics \u2014 generals sent men against machine guns with catastrophic results.",
+            "examples": [
+              {
+                "problem": "What was trench warfare?",
+                "answer": "A form of warfare where opposing armies fought from elaborate trench systems, creating a deadly stalemate.",
+                "explanation": "Trenches stretched 400 miles across France and Belgium. Neither side could advance against machine guns and artillery. Attacks gained yards at the cost of thousands of lives. The war became a grinding war of attrition."
+              },
+              {
+                "problem": "What new weapons appeared in WWI?",
+                "answer": "Machine guns, poison gas, tanks, airplanes, submarines, and long-range artillery.",
+                "explanation": "These weapons made WWI unprecedentedly destructive. Machine guns made frontal attacks suicidal. Poison gas caused horrible suffering. Tanks were introduced to break the trench deadlock."
+              },
+              {
+                "problem": "What was the Battle of the Somme?",
+                "answer": "A 1916 British-French offensive that resulted in approximately 1 million total casualties.",
+                "explanation": "On the first day alone, the British suffered 57,000 casualties \u2014 the bloodiest day in British military history. The battle lasted five months and gained only 6 miles of territory."
+              }
+            ],
+            "key_vocabulary": [
+              "trench warfare",
+              "no man's land",
+              "machine gun",
+              "poison gas",
+              "tank",
+              "U-boat",
+              "Battle of the Somme",
+              "shell shock"
+            ],
+            "real_world": "Shell shock \u2014 now recognized as PTSD \u2014 was first widely documented in WWI. Soldiers who survived physically were often permanently traumatized. Understanding of combat trauma from WWI eventually led to modern treatment of PTSD."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How long were the Western Front trenches?",
+              "options": [
+                "50 miles",
+                "100 miles",
+                "400 miles",
+                "1,000 miles"
+              ],
+              "correct": 2,
+              "hint": "They stretched from the Channel to Switzerland."
+            },
+            {
+              "type": "fill_in",
+              "question": "The area between opposing trenches was called ___ man's land.",
+              "answer": "no",
+              "hint": "It was a death zone of barbed wire and shell craters."
+            },
+            {
+              "type": "true_false",
+              "question": "Trench warfare allowed armies to advance quickly.",
+              "answer": false,
+              "hint": "It created a deadly stalemate that lasted years."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many casualties resulted from the Battle of the Somme?",
+              "options": [
+                "10,000",
+                "100,000",
+                "1 million",
+                "10 million"
+              ],
+              "correct": 2,
+              "hint": "It was one of the bloodiest battles in history."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What weapon was first used at the Somme in 1916?",
+              "options": [
+                "Machine gun",
+                "Poison gas",
+                "Tank",
+                "Airplane"
+              ],
+              "correct": 2,
+              "hint": "It was introduced to break the trench deadlock."
+            },
+            {
+              "type": "fill_in",
+              "question": "Germany's ___ submarines threatened Allied shipping in the Atlantic.",
+              "answer": "U-boat",
+              "hint": "Unrestricted submarine warfare helped bring the U.S. into the war."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-5-3",
+          "title": "The War's Global Impact and End",
+          "type": "lesson",
+          "content": {
+            "explanation": "WWI was truly a global conflict. Beyond the Western Front, fighting occurred in Eastern Europe, the Middle East (where the Ottoman Empire fought and eventually collapsed), Africa (where colonial troops fought in their colonizers' wars), and at sea. The war drew in nations worldwide: Japan seized German colonies in Asia; the Ottoman Empire joined the Central Powers; and the United States entered in 1917 after Germany's unrestricted submarine warfare and the Zimmermann Telegram (a German proposal for Mexico to attack the U.S.). American troops and resources tipped the balance. Russia withdrew after the Bolshevik Revolution of 1917 brought Lenin's communists to power. Germany, exhausted and facing revolution at home, signed an armistice on November 11, 1918 \u2014 the 11th hour of the 11th day of the 11th month. The war's toll was staggering: approximately 20 million dead (10 million soldiers, 10 million civilians), 21 million wounded, empires destroyed (Ottoman, Austro-Hungarian, Russian, German), and the political map of Europe and the Middle East permanently redrawn.",
+            "examples": [
+              {
+                "problem": "Why did the United States enter WWI?",
+                "answer": "Germany's unrestricted submarine warfare sank American ships, and the Zimmermann Telegram proposed a German-Mexican alliance against the U.S.",
+                "explanation": "The U.S. had tried to remain neutral, but German U-boats sinking American ships \u2014 especially the Lusitania \u2014 and the revealed plot with Mexico pushed public opinion toward war. American resources proved decisive."
+              },
+              {
+                "problem": "How did WWI affect the Ottoman Empire?",
+                "answer": "The Ottoman Empire collapsed, and its Middle Eastern territories were divided between Britain and France.",
+                "explanation": "The empire's Arab territories became British and French mandates (Iraq, Syria, Palestine, Lebanon). Borders drawn by European diplomats \u2014 ignoring ethnic and religious realities \u2014 created conflicts that persist today."
+              },
+              {
+                "problem": "What was the human cost of WWI?",
+                "answer": "Approximately 20 million dead, 21 million wounded, and four empires destroyed.",
+                "explanation": "An entire generation of young men was devastated. France lost nearly 1.4 million soldiers; Germany lost nearly 2 million. The psychological and cultural impact was immeasurable."
+              }
+            ],
+            "key_vocabulary": [
+              "armistice",
+              "Central Powers",
+              "Allied Powers",
+              "Zimmermann Telegram",
+              "Bolshevik Revolution",
+              "Ottoman Empire",
+              "U-boat",
+              "casualty"
+            ],
+            "real_world": "November 11 is still commemorated as Veterans Day (U.S.) or Remembrance Day (U.K., Canada). The phrase 'the eleventh hour' meaning 'the last moment' comes from the WWI armistice signing."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When did WWI end?",
+              "options": [
+                "1916",
+                "1917",
+                "1918",
+                "1919"
+              ],
+              "correct": 2,
+              "hint": "The armistice was signed on November 11 of this year."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Telegram was a German proposal for Mexico to attack the United States.",
+              "answer": "Zimmermann",
+              "hint": "Its interception helped push America into the war."
+            },
+            {
+              "type": "true_false",
+              "question": "The United States entered WWI at the very beginning in 1914.",
+              "answer": false,
+              "hint": "The U.S. entered in 1917, three years after the war began."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Approximately how many people died in WWI?",
+              "options": [
+                "5 million",
+                "10 million",
+                "20 million",
+                "50 million"
+              ],
+              "correct": 2,
+              "hint": "This includes both soldiers and civilians."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which revolution took Russia out of the war?",
+              "options": [
+                "French Revolution",
+                "American Revolution",
+                "Bolshevik Revolution",
+                "Industrial Revolution"
+              ],
+              "correct": 2,
+              "hint": "Lenin's communists seized power in 1917 and made peace with Germany."
+            },
+            {
+              "type": "fill_in",
+              "question": "The war ended at the 11th hour of the 11th day of the ___ month.",
+              "answer": "11th",
+              "hint": "November 11, 1918 became Armistice Day."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-5-4",
+          "title": "The Treaty of Versailles and Its Consequences",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Paris Peace Conference of 1919, dominated by the 'Big Three' \u2014 Woodrow Wilson (U.S.), Georges Clemenceau (France), and David Lloyd George (Britain) \u2014 produced the Treaty of Versailles. Wilson advocated his Fourteen Points, including self-determination for nations and a League of Nations to prevent future wars. But France and Britain, seeking revenge and security, imposed harsh terms on Germany: acceptance of sole guilt for the war (Article 231, the 'war guilt clause'), massive reparations (132 billion gold marks), loss of territory (Alsace-Lorraine, colonies, Polish corridor), severe military restrictions, and occupation of the Rhineland. The treaty also created new nations from the collapsed empires (Poland, Czechoslovakia, Yugoslavia) and established the League of Nations \u2014 though the U.S. Senate refused to join, fatally weakening it. The Treaty of Versailles, rather than creating lasting peace, bred German resentment that Adolf Hitler would later exploit. Many historians consider it a primary cause of World War II.",
+            "examples": [
+              {
+                "problem": "What was the war guilt clause?",
+                "answer": "Article 231 of the Treaty of Versailles forced Germany to accept sole responsibility for causing WWI.",
+                "explanation": "Germans saw this as deeply unjust since multiple nations contributed to the war's outbreak. The clause humiliated Germany and fueled resentment that extremists later exploited."
+              },
+              {
+                "problem": "What were Wilson's Fourteen Points?",
+                "answer": "U.S. President Wilson's plan for post-war peace, including self-determination, open diplomacy, and a League of Nations.",
+                "explanation": "Wilson envisioned a just peace that would prevent future wars. But France and Britain, having suffered enormously, demanded harsh punishment for Germany. The final treaty was a compromise that satisfied no one."
+              },
+              {
+                "problem": "Why did the Treaty of Versailles fail to create lasting peace?",
+                "answer": "Its harsh terms humiliated Germany, creating resentment that Hitler exploited, while the League of Nations was too weak to enforce peace.",
+                "explanation": "The treaty was too harsh to be accepted willingly by Germany but not harsh enough to prevent Germany from recovering and seeking revenge. It planted the seeds of World War II."
+              }
+            ],
+            "key_vocabulary": [
+              "Treaty of Versailles",
+              "Fourteen Points",
+              "League of Nations",
+              "war guilt clause",
+              "reparations",
+              "self-determination",
+              "Wilson",
+              "Clemenceau"
+            ],
+            "real_world": "The failure of the Treaty of Versailles taught that peace agreements must balance justice with reconciliation. After WWII, the Marshall Plan rebuilt Germany rather than punishing it \u2014 a lesson learned from Versailles."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the war guilt clause?",
+              "options": [
+                "Germany's military restrictions",
+                "Germany accepting sole blame for WWI",
+                "Reparations payments",
+                "Loss of territory"
+              ],
+              "correct": 1,
+              "hint": "Article 231 forced Germany to accept responsibility."
+            },
+            {
+              "type": "fill_in",
+              "question": "President Wilson proposed ___ Points as a plan for lasting peace.",
+              "answer": "Fourteen",
+              "hint": "They included self-determination and a League of Nations."
+            },
+            {
+              "type": "true_false",
+              "question": "The United States joined the League of Nations.",
+              "answer": false,
+              "hint": "The U.S. Senate refused to ratify the treaty, weakening the League."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Germany lose in the Treaty of Versailles?",
+              "options": [
+                "Nothing significant",
+                "Territory, military, and money through reparations",
+                "Only its colonies",
+                "Only its navy"
+              ],
+              "correct": 1,
+              "hint": "The terms were intentionally harsh and punitive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is the Treaty considered a cause of WWII?",
+              "options": [
+                "It was too lenient",
+                "Its harsh terms bred German resentment exploited by Hitler",
+                "It strengthened the League",
+                "Germany accepted the terms willingly"
+              ],
+              "correct": 1,
+              "hint": "German humiliation fueled extremism and revenge."
+            },
+            {
+              "type": "fill_in",
+              "question": "The international organization created to prevent future wars was the ___ of Nations.",
+              "answer": "League",
+              "hint": "It was fatally weakened when the U.S. refused to join."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-5-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What does MAIN stand for?",
+            "options": [
+              "Military, Arms, Industry, Navy",
+              "Militarism, Alliances, Imperialism, Nationalism",
+              "Monarchy, Aristocracy, Industry, Navy",
+              "Maps, Alliances, Infantry, Nationalism"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The space between trenches was called ___ man's land.",
+            "answer": "no"
+          },
+          {
+            "type": "true_false",
+            "question": "The Treaty of Versailles created lasting peace in Europe.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What triggered the start of WWI?",
+            "options": [
+              "Sinking of the Lusitania",
+              "Assassination of Franz Ferdinand",
+              "German invasion of France",
+              "Russian revolution"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How many people died in WWI?",
+            "options": [
+              "5 million",
+              "10 million",
+              "20 million",
+              "40 million"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_war_i_scholar"
+      }
+    },
+    {
+      "id": "10-ss-6",
+      "title": "Rise of Totalitarianism",
+      "description": "Examine how economic crisis, political instability, and fear enabled the rise of totalitarian dictators who promised order but delivered oppression and war.",
+      "lessons": [
+        {
+          "id": "10-social_studies-6-1",
+          "title": "Fascism: Ideology and Appeal",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fascism emerged in the 1920s and 1930s as a radical political ideology rejecting both liberal democracy and communism. Fascism glorified the nation and race above the individual, demanded absolute obedience to a charismatic leader, used violence and intimidation against opponents, and rejected rational discourse in favor of emotion, myth, and spectacle. Fascism appealed to people devastated by WWI, the Great Depression, and fear of communism. It promised national greatness, order, and purpose. In Italy, Benito Mussolini founded the Fascist Party and became dictator (Il Duce) in 1922 after his March on Rome. He suppressed opposition, controlled the press, and pursued aggressive foreign policy, invading Ethiopia in 1935. Mussolini's success inspired imitators across Europe. Fascism thrived on economic despair, national humiliation, and the failure of democratic governments to address people's needs \u2014 conditions that existed across post-WWI Europe.",
+            "examples": [
+              {
+                "problem": "What are the core features of fascism?",
+                "answer": "Extreme nationalism, authoritarian leadership, rejection of democracy, glorification of violence, and suppression of opposition.",
+                "explanation": "Fascism demanded total loyalty to the state and its leader. Individual rights were meaningless; only the nation mattered. Opponents were imprisoned, exiled, or killed. The state controlled media, education, and culture."
+              },
+              {
+                "problem": "Why did fascism appeal to people?",
+                "answer": "It offered certainty, national pride, and strong leadership to populations devastated by war, economic crisis, and social upheaval.",
+                "explanation": "When democratic governments seemed weak and ineffective, fascist leaders promised decisive action. In times of fear and uncertainty, the appeal of a strong leader who promised to restore national greatness was powerful."
+              },
+              {
+                "problem": "How did Mussolini come to power?",
+                "answer": "He exploited post-war chaos and fear of communism, using his Fascist Party's violence and intimidation, culminating in the March on Rome in 1922.",
+                "explanation": "Mussolini's Blackshirts (paramilitary forces) attacked socialists and labor unions. When he threatened to march on Rome, King Victor Emmanuel III appointed him prime minister rather than risk civil war. Mussolini then dismantled democracy."
+              }
+            ],
+            "key_vocabulary": [
+              "fascism",
+              "Mussolini",
+              "totalitarianism",
+              "Il Duce",
+              "Blackshirts",
+              "March on Rome",
+              "dictatorship",
+              "nationalism"
+            ],
+            "real_world": "Scholars study fascism's rise to understand how democracies can fail. Warning signs include demonizing opponents, attacking the press, glorifying violence, and concentrating power \u2014 patterns that remain relevant today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does fascism glorify above all?",
+              "options": [
+                "Individual rights",
+                "The nation and its leader",
+                "Economic freedom",
+                "Religious authority"
+              ],
+              "correct": 1,
+              "hint": "Individual rights are meaningless in fascist ideology."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mussolini was known as Il ___, meaning 'The Leader.'",
+              "answer": "Duce",
+              "hint": "He became Italy's fascist dictator in 1922."
+            },
+            {
+              "type": "true_false",
+              "question": "Fascism supports democratic processes and free elections.",
+              "answer": false,
+              "hint": "Fascism rejects democracy and demands obedience to the leader."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What event brought Mussolini to power?",
+              "options": [
+                "A free election",
+                "The March on Rome",
+                "A military coup",
+                "Foreign invasion"
+              ],
+              "correct": 1,
+              "hint": "He threatened to march on Rome with his Blackshirts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What conditions helped fascism rise?",
+              "options": [
+                "Prosperity and peace",
+                "Economic crisis, war trauma, and fear of communism",
+                "Scientific advancement",
+                "Colonial success"
+              ],
+              "correct": 1,
+              "hint": "People turned to strongmen when democracy seemed to fail."
+            },
+            {
+              "type": "fill_in",
+              "question": "Mussolini's paramilitary supporters were called ___.",
+              "answer": "Blackshirts",
+              "hint": "They used violence against socialists and political opponents."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-6-2",
+          "title": "Stalin's Soviet Union",
+          "type": "lesson",
+          "content": {
+            "explanation": "After Lenin's death in 1924, Joseph Stalin outmaneuvered rivals to become dictator of the Soviet Union. Stalin imposed a totalitarian state with complete control over every aspect of life. His Five-Year Plans forced rapid industrialization, transforming the USSR from an agricultural society into an industrial power \u2014 but at enormous human cost. Collectivization of agriculture, which combined private farms into large state-run collectives, met fierce resistance from peasants (kulaks). Stalin responded with deliberate famine and deportation; the Holodomor in Ukraine (1932-1933) killed an estimated 3.5-7.5 million people. The Great Purge (1936-1938) eliminated perceived enemies through show trials, executions, and imprisonment in the Gulag (forced labor camp system), where millions died. A personality cult portrayed Stalin as an infallible genius. Secret police (NKVD) monitored citizens; informers were everywhere. Despite the terror, Soviet industrialization and military buildup would prove crucial in defeating Nazi Germany in WWII.",
+            "examples": [
+              {
+                "problem": "What were Stalin's Five-Year Plans?",
+                "answer": "Ambitious programs to rapidly industrialize the Soviet Union through state-controlled economic planning.",
+                "explanation": "The plans transformed the USSR from agricultural to industrial in a decade \u2014 but through forced labor, terrible working conditions, and suppression of any dissent. Workers who failed to meet quotas faced punishment."
+              },
+              {
+                "problem": "What was the Holodomor?",
+                "answer": "A deliberate famine in Ukraine (1932-1933) caused by Stalin's collectivization policies, killing an estimated 3.5-7.5 million people.",
+                "explanation": "Stalin seized Ukrainian grain for export while people starved. Borders were sealed to prevent escape. Many scholars consider it a genocide deliberately targeting Ukrainian national identity."
+              },
+              {
+                "problem": "What was the Great Purge?",
+                "answer": "Stalin's campaign (1936-1938) to eliminate perceived enemies through show trials, executions, and Gulag imprisonment.",
+                "explanation": "Stalin purged military leaders, party officials, intellectuals, and ordinary citizens. Estimates of those killed or imprisoned range from 750,000 executed to millions sent to forced labor camps."
+              }
+            ],
+            "key_vocabulary": [
+              "Stalin",
+              "totalitarianism",
+              "Five-Year Plans",
+              "collectivization",
+              "Holodomor",
+              "Great Purge",
+              "Gulag",
+              "kulak",
+              "NKVD"
+            ],
+            "real_world": "The Gulag system is documented in Aleksandr Solzhenitsyn's The Gulag Archipelago, which helped expose Soviet atrocities to the world and contributed to the moral delegitimization of the USSR."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What were the Five-Year Plans?",
+              "options": [
+                "Military campaigns",
+                "Rapid industrialization programs",
+                "Agricultural reforms",
+                "Education initiatives"
+              ],
+              "correct": 1,
+              "hint": "They transformed the USSR into an industrial power."
+            },
+            {
+              "type": "fill_in",
+              "question": "The deliberate famine in Ukraine is known as the ___.",
+              "answer": "Holodomor",
+              "hint": "An estimated 3.5-7.5 million Ukrainians died."
+            },
+            {
+              "type": "true_false",
+              "question": "Collectivization was voluntarily accepted by all farmers.",
+              "answer": false,
+              "hint": "Peasants fiercely resisted, and Stalin responded with famine and deportation."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Gulag?",
+              "options": [
+                "A university",
+                "A forced labor camp system",
+                "A government ministry",
+                "A military unit"
+              ],
+              "correct": 1,
+              "hint": "Millions of prisoners suffered and died there."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Great Purge?",
+              "options": [
+                "An economic reform",
+                "A military campaign",
+                "Stalin's campaign to eliminate perceived enemies",
+                "A cultural movement"
+              ],
+              "correct": 2,
+              "hint": "Show trials, executions, and mass imprisonment characterized it."
+            },
+            {
+              "type": "fill_in",
+              "question": "Stalin's secret police, the ___, monitored all citizens.",
+              "answer": "NKVD",
+              "hint": "Informers were everywhere; anyone could be denounced and arrested."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-6-3",
+          "title": "Hitler and Nazi Germany",
+          "type": "lesson",
+          "content": {
+            "explanation": "Adolf Hitler rose to power by exploiting Germany's post-WWI humiliation, economic devastation (especially the Great Depression), and fear of communism. His Nazi Party (National Socialist German Workers' Party) combined extreme nationalism, racial ideology (Aryan supremacy), and antisemitism. Hitler's powerful oratory and propaganda, masterfully managed by Joseph Goebbels, attracted mass support. Appointed Chancellor in 1933 through legal means, Hitler quickly dismantled democracy: the Reichstag fire was used to suspend civil liberties; the Enabling Act gave him dictatorial powers; opposition parties were banned; and the Nuremberg Laws (1935) stripped Jews of citizenship. Hitler created a totalitarian state with secret police (Gestapo), youth organizations (Hitler Youth), and total media control. He launched massive public works and rearmament programs that reduced unemployment, building popular support. His foreign policy of aggressive expansion \u2014 remilitarizing the Rhineland (1936), annexing Austria (Anschluss, 1938), and seizing Czechoslovakia \u2014 went unchecked by Western democracies pursuing appeasement.",
+            "examples": [
+              {
+                "problem": "How did Hitler rise to power?",
+                "answer": "He exploited German humiliation from Versailles, economic crisis, fear of communism, and used propaganda and legal processes to gain and consolidate power.",
+                "explanation": "Hitler didn't seize power by force \u2014 he was appointed Chancellor through legal channels, then used emergency powers and legislation to dismantle democracy from within. This remains a cautionary tale about democratic vulnerability."
+              },
+              {
+                "problem": "What was the Nazi racial ideology?",
+                "answer": "A belief in Aryan (Germanic) racial supremacy and the need to 'purify' Germany by eliminating Jews and other 'undesirables.'",
+                "explanation": "Nazi ideology drew on centuries of European antisemitism and pseudoscientific racism. It classified humans into racial hierarchies with 'Aryans' at the top and Jews, Roma, disabled people, and others as subhuman threats."
+              },
+              {
+                "problem": "What was appeasement?",
+                "answer": "Western democracies' policy of giving in to Hitler's demands to avoid war.",
+                "explanation": "Britain's Neville Chamberlain infamously declared 'peace for our time' after allowing Hitler to annex part of Czechoslovakia at Munich (1938). Appeasement failed \u2014 each concession emboldened Hitler to demand more."
+              }
+            ],
+            "key_vocabulary": [
+              "Hitler",
+              "Nazi",
+              "Aryan",
+              "antisemitism",
+              "Gestapo",
+              "Nuremberg Laws",
+              "appeasement",
+              "propaganda",
+              "Anschluss"
+            ],
+            "real_world": "Hitler's rise through democratic processes shows that democracy can be destroyed from within. Studying how this happened helps citizens recognize and resist similar threats to democratic institutions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How did Hitler initially gain power?",
+              "options": [
+                "Military coup",
+                "Legal appointment as Chancellor",
+                "Foreign invasion",
+                "Popular revolution"
+              ],
+              "correct": 1,
+              "hint": "He then used legal mechanisms to dismantle democracy."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Laws of 1935 stripped Jews of German citizenship.",
+              "answer": "Nuremberg",
+              "hint": "They institutionalized Nazi antisemitism into law."
+            },
+            {
+              "type": "true_false",
+              "question": "Western democracies firmly opposed all of Hitler's expansions.",
+              "answer": false,
+              "hint": "They pursued appeasement, giving in to demands to avoid war."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who managed Nazi propaganda?",
+              "options": [
+                "Himmler",
+                "Goering",
+                "Goebbels",
+                "Rommel"
+              ],
+              "correct": 2,
+              "hint": "He controlled all media and public messaging in Nazi Germany."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Anschluss?",
+              "options": [
+                "Germany's rearmament",
+                "The annexation of Austria",
+                "Invasion of Poland",
+                "The Munich Agreement"
+              ],
+              "correct": 1,
+              "hint": "Hitler united Germany and Austria in 1938."
+            },
+            {
+              "type": "fill_in",
+              "question": "The policy of giving in to Hitler's demands to avoid war was called ___.",
+              "answer": "appeasement",
+              "hint": "Chamberlain declared 'peace for our time' \u2014 but war came anyway."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-6-4",
+          "title": "Propaganda and Control in Totalitarian States",
+          "type": "lesson",
+          "content": {
+            "explanation": "All totalitarian regimes \u2014 fascist, communist, and Nazi \u2014 relied on sophisticated propaganda and total social control. Propaganda used modern media (radio, film, newspapers, posters) to spread the regime's message, glorify the leader, demonize enemies, and create an alternative reality. In Nazi Germany, Goebbels controlled all media; in the USSR, the state rewrote history, altered photographs, and created a cult around Stalin. Education was transformed into indoctrination: children learned loyalty to the state through youth organizations (Hitler Youth, Soviet Pioneers, Italian Balilla). Secret police forces \u2014 the Gestapo (Germany), NKVD (USSR), OVRA (Italy) \u2014 monitored citizens, encouraged informing, and used torture and imprisonment. Fear was a tool of governance: anyone could be arrested, and families of 'enemies' were punished collectively. Despite this control, resistance existed: underground movements, secret art and literature, and quiet acts of defiance showed that totalitarianism could never fully control the human spirit.",
+            "examples": [
+              {
+                "problem": "How did totalitarian regimes use propaganda?",
+                "answer": "They controlled all media to glorify the leader, spread ideology, demonize enemies, and create an alternative reality.",
+                "explanation": "Propaganda was everywhere \u2014 in newspapers, films, radio broadcasts, posters, textbooks, and public events. It aimed not just to inform but to shape how people thought and felt about everything."
+              },
+              {
+                "problem": "How did regimes control youth?",
+                "answer": "Through mandatory youth organizations that indoctrinated children with regime ideology and loyalty to the leader.",
+                "explanation": "The Hitler Youth, Soviet Pioneers, and Italian Balilla taught children that the state and leader came before family. Children were encouraged to inform on parents. Education became political training."
+              },
+              {
+                "problem": "How did secret police maintain control?",
+                "answer": "Through surveillance, informer networks, arbitrary arrest, torture, and punishment of families.",
+                "explanation": "The constant threat of arrest created a climate of fear. People censored themselves, distrusted neighbors, and avoided any behavior that might attract attention. This self-policing was the most effective form of control."
+              }
+            ],
+            "key_vocabulary": [
+              "propaganda",
+              "indoctrination",
+              "secret police",
+              "Hitler Youth",
+              "cult of personality",
+              "censorship",
+              "totalitarianism",
+              "surveillance"
+            ],
+            "real_world": "Totalitarian propaganda techniques are studied today because they remain relevant. Social media disinformation, deepfakes, and state-controlled media echo the methods used by 20th-century dictators."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What tool did all totalitarian regimes rely on?",
+              "options": [
+                "Free elections",
+                "Propaganda and social control",
+                "Independent media",
+                "Democratic debate"
+              ],
+              "correct": 1,
+              "hint": "Modern media was used to control what people thought."
+            },
+            {
+              "type": "fill_in",
+              "question": "Totalitarian regimes created ___ of personality around their leaders.",
+              "answer": "cults",
+              "hint": "Leaders were portrayed as infallible geniuses."
+            },
+            {
+              "type": "true_false",
+              "question": "Totalitarian regimes allowed free and independent media.",
+              "answer": false,
+              "hint": "All media was controlled by the state and used for propaganda."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the purpose of youth organizations like the Hitler Youth?",
+              "options": [
+                "Physical fitness",
+                "Indoctrinating children with loyalty to the regime",
+                "Academic education",
+                "Community service"
+              ],
+              "correct": 1,
+              "hint": "Children were taught to put the state above family."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did secret police maintain control?",
+              "options": [
+                "Through fair trials",
+                "Through surveillance, informers, and fear",
+                "Through public debate",
+                "Through elections"
+              ],
+              "correct": 1,
+              "hint": "Arbitrary arrest and punishment created a climate of terror."
+            },
+            {
+              "type": "fill_in",
+              "question": "Despite total control, ___ movements showed that totalitarianism could never fully control the human spirit.",
+              "answer": "resistance",
+              "hint": "Secret art, literature, and quiet defiance persisted."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-6-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is fascism?",
+            "options": [
+              "A democratic ideology",
+              "An extreme nationalist authoritarian ideology",
+              "A communist philosophy",
+              "A religious movement"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Stalin's forced labor camps were called the ___.",
+            "answer": "Gulag"
+          },
+          {
+            "type": "true_false",
+            "question": "Hitler seized power through a violent military coup.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the Holodomor?",
+            "options": [
+              "A military battle",
+              "A deliberate famine in Ukraine",
+              "A German law",
+              "A propaganda film"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What did all totalitarian regimes use for control?",
+            "options": [
+              "Free press",
+              "Propaganda, secret police, and youth indoctrination",
+              "Democratic elections",
+              "International law"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "totalitarianism_scholar"
+      }
+    },
+    {
+      "id": "10-ss-7",
+      "title": "World War II",
+      "description": "Examine the causes, major events, and consequences of the deadliest conflict in human history, including the Holocaust and the birth of the nuclear age.",
+      "lessons": [
+        {
+          "id": "10-social_studies-7-1",
+          "title": "Causes and Early Stages of WWII",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War II (1939-1945) grew from the failures of the post-WWI settlement, the Great Depression, and the aggressive expansion of totalitarian regimes. Hitler's Germany remilitarized the Rhineland (1936), annexed Austria (1938), and seized Czechoslovakia (1938-1939) while Western democracies pursued appeasement. The Nazi-Soviet Pact (August 1939), in which Hitler and Stalin secretly agreed to divide Eastern Europe, shocked the world. On September 1, 1939, Germany invaded Poland using Blitzkrieg ('lightning war') \u2014 fast-moving combined attacks using tanks, aircraft, and infantry. Britain and France declared war but could not save Poland. Germany then conquered Denmark, Norway, the Netherlands, Belgium, and France by June 1940. Britain stood alone against Hitler, surviving the Battle of Britain (1940) as the Royal Air Force defended against massive German bombing raids (the Blitz). The war expanded to North Africa and the Balkans as Italy joined Germany. By mid-1941, Nazi Germany controlled most of Europe.",
+            "examples": [
+              {
+                "problem": "What was Blitzkrieg?",
+                "answer": "'Lightning war' \u2014 fast-moving coordinated attacks using tanks, aircraft, and infantry to overwhelm enemies before they could respond.",
+                "explanation": "Blitzkrieg explained Germany's rapid conquests. Poland fell in weeks, France in six. Traditional defensive strategies were useless against the speed and coordination of German forces."
+              },
+              {
+                "problem": "Why did appeasement fail?",
+                "answer": "Each concession emboldened Hitler to demand more, and he had no intention of honoring agreements.",
+                "explanation": "Chamberlain believed giving Hitler what he wanted would satisfy him. Instead, each success made Hitler more aggressive. When he invaded Poland despite warnings, war became unavoidable."
+              },
+              {
+                "problem": "How did Britain survive alone in 1940?",
+                "answer": "The Royal Air Force defeated the Luftwaffe in the Battle of Britain, preventing a German invasion.",
+                "explanation": "British pilots, aided by radar technology, inflicted heavy losses on German bombers. Churchill's defiant leadership rallied the nation. Hitler abandoned invasion plans and turned east toward the Soviet Union."
+              }
+            ],
+            "key_vocabulary": [
+              "Blitzkrieg",
+              "appeasement",
+              "Nazi-Soviet Pact",
+              "Battle of Britain",
+              "Blitz",
+              "Churchill",
+              "Luftwaffe",
+              "invasion of Poland"
+            ],
+            "real_world": "Churchill's speeches during the Battle of Britain ('We shall fight on the beaches... we shall never surrender') remain among history's most powerful examples of leadership through communication during crisis."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When did WWII begin?",
+              "options": [
+                "1937",
+                "1938",
+                "1939",
+                "1941"
+              ],
+              "correct": 2,
+              "hint": "Germany invaded Poland on September 1 of this year."
+            },
+            {
+              "type": "fill_in",
+              "question": "Germany's fast-moving attack strategy was called ___.",
+              "answer": "Blitzkrieg",
+              "hint": "It means 'lightning war' in German."
+            },
+            {
+              "type": "true_false",
+              "question": "Appeasement successfully prevented World War II.",
+              "answer": false,
+              "hint": "It emboldened Hitler and failed to prevent war."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Nazi-Soviet Pact?",
+              "options": [
+                "A trade agreement",
+                "A secret agreement to divide Eastern Europe",
+                "A peace treaty",
+                "A military alliance against Britain"
+              ],
+              "correct": 1,
+              "hint": "Hitler and Stalin shocked the world with this deal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What saved Britain from invasion in 1940?",
+              "options": [
+                "American intervention",
+                "The Royal Air Force winning the Battle of Britain",
+                "A peace treaty",
+                "Russian attack on Germany"
+              ],
+              "correct": 1,
+              "hint": "British pilots defeated the German Luftwaffe."
+            },
+            {
+              "type": "fill_in",
+              "question": "By June 1940, Germany had conquered France in just ___ weeks.",
+              "answer": "six",
+              "hint": "The speed of Germany's Blitzkrieg shocked the world."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-7-2",
+          "title": "The Holocaust",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Holocaust was the systematic, state-sponsored genocide of six million Jews by Nazi Germany, along with the murder of millions of others including Roma, disabled people, homosexuals, political prisoners, and Slavic peoples. The Holocaust evolved in stages: first, discrimination (Nuremberg Laws, 1935); then segregation and violence (Kristallnacht, 1938, when Nazi mobs attacked Jewish businesses, synagogues, and homes); then forced relocation into ghettos (walled-off sections of cities); and finally systematic extermination in death camps. The 'Final Solution,' decided at the Wannsee Conference (January 1942), established a system of industrialized murder. Six extermination camps in occupied Poland \u2014 including Auschwitz-Birkenau, Treblinka, and Sobibor \u2014 used gas chambers to kill thousands daily. Victims were transported by rail from across Europe. In total, the Nazis murdered approximately 6 million Jews (two-thirds of Europe's Jewish population) and 5-6 million others. The Holocaust stands as a warning of where dehumanization, hatred, and unchecked state power can lead.",
+            "examples": [
+              {
+                "problem": "What were the stages of the Holocaust?",
+                "answer": "Discrimination, segregation, forced relocation to ghettos, and finally systematic extermination in death camps.",
+                "explanation": "The Holocaust did not happen overnight. It escalated gradually \u2014 from laws removing Jewish rights, to violent pogroms, to ghettos, to deportation, and finally to industrialized mass murder in gas chambers."
+              },
+              {
+                "problem": "What was the 'Final Solution'?",
+                "answer": "The Nazi plan, formalized at the Wannsee Conference in 1942, for the systematic extermination of all European Jews.",
+                "explanation": "Senior Nazi officials discussed the logistics of murdering millions with bureaucratic efficiency. The conference treated genocide as an administrative problem to be solved, revealing the terrifying banality of evil."
+              },
+              {
+                "problem": "What was Auschwitz?",
+                "answer": "The largest Nazi death camp complex, where approximately 1.1 million people were murdered, mostly Jews.",
+                "explanation": "Auschwitz-Birkenau in occupied Poland contained both a concentration camp and extermination facilities. Arriving prisoners were 'selected' \u2014 those deemed unfit for labor were sent directly to gas chambers."
+              }
+            ],
+            "key_vocabulary": [
+              "Holocaust",
+              "genocide",
+              "Final Solution",
+              "Auschwitz",
+              "ghetto",
+              "Kristallnacht",
+              "Nuremberg Laws",
+              "concentration camp",
+              "Wannsee Conference"
+            ],
+            "real_world": "The Holocaust led to the Universal Declaration of Human Rights (1948) and the Genocide Convention. 'Never Again' became a global pledge \u2014 though genocides in Cambodia, Rwanda, Bosnia, and Darfur show the promise remains unfulfilled."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many Jews were murdered in the Holocaust?",
+              "options": [
+                "1 million",
+                "3 million",
+                "6 million",
+                "10 million"
+              ],
+              "correct": 2,
+              "hint": "This was approximately two-thirds of Europe's Jewish population."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Nazi plan for systematic extermination was called the '___ Solution.'",
+              "answer": "Final",
+              "hint": "It was formalized at the Wannsee Conference in 1942."
+            },
+            {
+              "type": "true_false",
+              "question": "The Holocaust targeted only Jewish people.",
+              "answer": false,
+              "hint": "Roma, disabled people, homosexuals, political prisoners, and Slavic peoples were also murdered."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was Kristallnacht?",
+              "options": [
+                "A peace conference",
+                "A night of Nazi mob attacks on Jewish communities",
+                "A military battle",
+                "A political election"
+              ],
+              "correct": 1,
+              "hint": "It occurred in November 1938, destroying synagogues and businesses."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the largest Nazi death camp?",
+              "options": [
+                "Treblinka",
+                "Dachau",
+                "Auschwitz-Birkenau",
+                "Sobibor"
+              ],
+              "correct": 2,
+              "hint": "Approximately 1.1 million people were murdered there."
+            },
+            {
+              "type": "fill_in",
+              "question": "Victims were forced into walled-off sections of cities called ___.",
+              "answer": "ghettos",
+              "hint": "These overcrowded areas were staging grounds for deportation to death camps."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-7-3",
+          "title": "Major Battles and Turning Points",
+          "type": "lesson",
+          "content": {
+            "explanation": "Several turning points shifted the war toward Allied victory. Operation Barbarossa (June 1941), Hitler's invasion of the Soviet Union, opened the Eastern Front \u2014 the war's deadliest theater. Initial German advances stalled at the Battle of Stalingrad (1942-1943), where Soviet forces encircled and destroyed an entire German army in brutal urban combat. Stalingrad was the war's major turning point: Germany was now on the defensive. In the Pacific, Japan's surprise attack on Pearl Harbor (December 7, 1941) brought the United States into the war. The Battle of Midway (June 1942) destroyed four Japanese aircraft carriers and shifted Pacific momentum to the Americans. In North Africa, the Allies defeated Rommel's Afrika Korps (1943), then invaded Sicily and Italy. On June 6, 1944 (D-Day), the massive Allied invasion of Normandy, France, opened a second front in Europe. Soviet forces advanced from the east while Allies pushed from the west, squeezing Germany. The war in Europe ended on May 8, 1945 (V-E Day) after Hitler's suicide and Germany's unconditional surrender.",
+            "examples": [
+              {
+                "problem": "Why was Stalingrad the war's turning point?",
+                "answer": "Soviet forces encircled and destroyed an entire German army, putting Germany on the defensive for the rest of the war.",
+                "explanation": "The battle killed roughly 2 million people and devastated the city. Germany lost its best army and could never fully recover. After Stalingrad, the Soviets steadily pushed westward toward Berlin."
+              },
+              {
+                "problem": "What was D-Day?",
+                "answer": "The massive Allied invasion of Normandy, France, on June 6, 1944, opening a second front against Germany.",
+                "explanation": "Over 156,000 troops landed on five beaches in the largest amphibious invasion in history. Despite heavy casualties, the Allies established a beachhead and began liberating Western Europe."
+              },
+              {
+                "problem": "How did Pearl Harbor change the war?",
+                "answer": "Japan's surprise attack brought the United States \u2014 with its massive industrial capacity \u2014 into the war on the Allied side.",
+                "explanation": "Before Pearl Harbor, the U.S. was officially neutral. Japan's attack united American public opinion for war. American industrial production ultimately overwhelmed both Germany and Japan."
+              }
+            ],
+            "key_vocabulary": [
+              "Stalingrad",
+              "Pearl Harbor",
+              "D-Day",
+              "Midway",
+              "Operation Barbarossa",
+              "Eastern Front",
+              "V-E Day",
+              "Normandy"
+            ],
+            "real_world": "D-Day remains one of history's most studied military operations. Its success required unprecedented international cooperation, logistical planning, and individual courage under fire."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the major turning point of WWII in Europe?",
+              "options": [
+                "D-Day",
+                "Battle of Britain",
+                "Battle of Stalingrad",
+                "Pearl Harbor"
+              ],
+              "correct": 2,
+              "hint": "Soviet forces encircled a German army in brutal urban combat."
+            },
+            {
+              "type": "fill_in",
+              "question": "Japan's attack on ___ Harbor brought the U.S. into WWII.",
+              "answer": "Pearl",
+              "hint": "The surprise attack occurred on December 7, 1941."
+            },
+            {
+              "type": "true_false",
+              "question": "Germany was winning on the Eastern Front after Stalingrad.",
+              "answer": false,
+              "hint": "Stalingrad put Germany permanently on the defensive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When was D-Day?",
+              "options": [
+                "December 7, 1941",
+                "February 2, 1943",
+                "June 6, 1944",
+                "May 8, 1945"
+              ],
+              "correct": 2,
+              "hint": "Allied forces invaded Normandy, France."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did the Battle of Midway accomplish?",
+              "options": [
+                "Defeated Germany in Africa",
+                "Destroyed four Japanese carriers, shifting Pacific momentum",
+                "Liberated France",
+                "Ended the war in Europe"
+              ],
+              "correct": 1,
+              "hint": "It was a decisive naval battle in June 1942."
+            },
+            {
+              "type": "fill_in",
+              "question": "WWII in Europe ended on May 8, 1945, known as ___-E Day.",
+              "answer": "V",
+              "hint": "V stands for Victory in Europe."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-7-4",
+          "title": "Atomic Bombs and the Birth of the United Nations",
+          "type": "lesson",
+          "content": {
+            "explanation": "The war in the Pacific continued after V-E Day. Island-hopping campaigns (Iwo Jima, Okinawa) brought American forces closer to Japan but at enormous cost. Facing the prospect of invading mainland Japan \u2014 estimated to cause hundreds of thousands of Allied casualties \u2014 President Harry Truman authorized the use of atomic bombs. On August 6, 1945, the B-29 bomber Enola Gay dropped 'Little Boy' on Hiroshima, killing approximately 80,000 instantly (140,000 by year's end). Three days later, 'Fat Man' was dropped on Nagasaki, killing approximately 40,000 instantly. Japan surrendered on August 15, 1945 (V-J Day). The atomic bombings remain the most controversial military decisions in history \u2014 defenders argue they saved lives by avoiding invasion; critics argue they were unnecessary and morally indefensible. WWII killed an estimated 70-85 million people (3% of the world's population). In its aftermath, the United Nations was founded (1945) to prevent future global conflicts, with the Security Council, General Assembly, and the goal of international cooperation and human rights.",
+            "examples": [
+              {
+                "problem": "Why did the U.S. use atomic bombs?",
+                "answer": "President Truman authorized them to end the war quickly and avoid the enormous casualties expected from invading Japan.",
+                "explanation": "The decision remains debated. Truman believed invasion would cost hundreds of thousands of lives on both sides. Critics argue Japan was near surrender, the bombs targeted civilians, and their use was partly motivated by intimidating the Soviet Union."
+              },
+              {
+                "problem": "What was the total human cost of WWII?",
+                "answer": "An estimated 70-85 million people died \u2014 approximately 3% of the world's population.",
+                "explanation": "The Soviet Union suffered the most casualties (roughly 27 million). China lost 15-20 million. The Holocaust killed 11 million. Civilian deaths exceeded military deaths for the first time in a major war."
+              },
+              {
+                "problem": "Why was the United Nations created?",
+                "answer": "To prevent another world war through international cooperation, collective security, and the promotion of human rights.",
+                "explanation": "The UN aimed to succeed where the League of Nations had failed by including all major powers. The Security Council, with five permanent members holding veto power, was designed to manage international conflicts."
+              }
+            ],
+            "key_vocabulary": [
+              "atomic bomb",
+              "Hiroshima",
+              "Nagasaki",
+              "Truman",
+              "United Nations",
+              "V-J Day",
+              "Security Council",
+              "Enola Gay"
+            ],
+            "real_world": "The atomic bombings opened the nuclear age. The existence of nuclear weapons has since shaped international relations, creating the doctrine of 'mutually assured destruction' that paradoxically helped prevent direct conflict between superpowers."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What cities were atomic bombs dropped on?",
+              "options": [
+                "Tokyo and Osaka",
+                "Berlin and Munich",
+                "Hiroshima and Nagasaki",
+                "Pearl Harbor and Midway"
+              ],
+              "correct": 2,
+              "hint": "These bombings ended WWII in the Pacific."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Nations was founded after WWII to prevent future global conflicts.",
+              "answer": "United",
+              "hint": "It replaced the failed League of Nations."
+            },
+            {
+              "type": "true_false",
+              "question": "The atomic bombings are universally considered justified.",
+              "answer": false,
+              "hint": "They remain among the most debated military decisions in history."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many people died in WWII?",
+              "options": [
+                "20 million",
+                "40 million",
+                "70-85 million",
+                "100 million"
+              ],
+              "correct": 2,
+              "hint": "This was approximately 3% of the world's population."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When did Japan surrender?",
+              "options": [
+                "May 8, 1945",
+                "August 15, 1945",
+                "September 2, 1945",
+                "December 25, 1945"
+              ],
+              "correct": 1,
+              "hint": "This date is known as V-J Day."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Council of the United Nations has five permanent members with veto power.",
+              "answer": "Security",
+              "hint": "It was designed to manage international conflicts."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-7-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What strategy did Germany use to conquer Poland quickly?",
+            "options": [
+              "Trench warfare",
+              "Blitzkrieg",
+              "Naval blockade",
+              "Guerrilla warfare"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Holocaust murdered approximately ___ million Jews.",
+            "answer": "6"
+          },
+          {
+            "type": "true_false",
+            "question": "The Battle of Stalingrad was a German victory.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "When was D-Day?",
+            "options": [
+              "1941",
+              "1942",
+              "1943",
+              "1944"
+            ],
+            "correct": 3
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What organization was founded after WWII?",
+            "options": [
+              "League of Nations",
+              "NATO",
+              "United Nations",
+              "European Union"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_war_ii_scholar"
+      }
+    },
+    {
+      "id": "10-ss-8",
+      "title": "Cold War and Modern World",
+      "description": "Trace the superpower rivalry between the U.S. and USSR, the decolonization of Asia and Africa, and the emergence of our interconnected modern world.",
+      "lessons": [
+        {
+          "id": "10-social_studies-8-1",
+          "title": "Origins of the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Cold War (1947-1991) was a global ideological, political, and military rivalry between the United States (capitalist democracy) and the Soviet Union (communist state) that stopped short of direct military conflict between the two superpowers \u2014 hence 'cold.' Its origins lay in fundamental ideological differences, wartime tensions, and post-WWII power dynamics. At the Yalta and Potsdam conferences (1945), the Allies divided Germany and Europe into spheres of influence. The Soviet Union installed communist governments across Eastern Europe, creating a bloc of satellite states behind what Winston Churchill called the 'Iron Curtain.' The U.S. responded with the Truman Doctrine (1947), pledging to support nations resisting communism, and the Marshall Plan (1948), providing massive economic aid to rebuild Western Europe and prevent communist influence. The Berlin Blockade (1948-1949), where the USSR cut off access to West Berlin, led to a dramatic Allied airlift and the division of Germany into East and West. NATO (1949) and the Warsaw Pact (1955) formalized the two opposing military alliances.",
+            "examples": [
+              {
+                "problem": "Why was it called the 'Cold War'?",
+                "answer": "The superpowers never fought each other directly \u2014 their conflict was 'cold' (indirect) rather than 'hot' (direct military combat).",
+                "explanation": "The nuclear arsenals of both sides made direct war potentially civilization-ending. Instead, they competed through proxy wars, espionage, propaganda, technology races, and support for allied governments worldwide."
+              },
+              {
+                "problem": "What was the Iron Curtain?",
+                "answer": "Churchill's term for the ideological and physical boundary dividing communist Eastern Europe from democratic Western Europe.",
+                "explanation": "The Iron Curtain was both metaphorical and literal \u2014 the Berlin Wall, barbed wire, and minefields physically separated East from West. It symbolized the division of Europe and the world into two opposing camps."
+              },
+              {
+                "problem": "What was the Marshall Plan?",
+                "answer": "A massive U.S. economic aid program ($13 billion) to rebuild Western Europe after WWII.",
+                "explanation": "The Marshall Plan was both humanitarian and strategic. It rebuilt war-devastated economies, created markets for American goods, and prevented communist parties from gaining support in desperate populations. It is considered one of history's most successful foreign policy initiatives."
+              }
+            ],
+            "key_vocabulary": [
+              "Cold War",
+              "Iron Curtain",
+              "Truman Doctrine",
+              "Marshall Plan",
+              "NATO",
+              "Warsaw Pact",
+              "superpower",
+              "Berlin Blockade"
+            ],
+            "real_world": "The Marshall Plan is still cited as a model for post-conflict reconstruction. Its success in rebuilding Europe contrasts with the failure of the Treaty of Versailles, showing that aid works better than punishment."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the Cold War?",
+              "options": [
+                "A war fought in winter",
+                "A rivalry between the U.S. and USSR that avoided direct combat",
+                "A European civil war",
+                "A trade dispute"
+              ],
+              "correct": 1,
+              "hint": "Nuclear weapons made direct conflict too dangerous."
+            },
+            {
+              "type": "fill_in",
+              "question": "Churchill called the division of Europe the '___ Curtain.'",
+              "answer": "Iron",
+              "hint": "It separated communist East from democratic West."
+            },
+            {
+              "type": "true_false",
+              "question": "The U.S. and Soviet Union frequently fought each other directly.",
+              "answer": false,
+              "hint": "They competed through proxy wars and other indirect means."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was the Marshall Plan?",
+              "options": [
+                "A military strategy",
+                "Massive U.S. aid to rebuild Western Europe",
+                "A Soviet spy program",
+                "A nuclear weapons treaty"
+              ],
+              "correct": 1,
+              "hint": "It provided $13 billion to rebuild war-torn economies."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What was NATO?",
+              "options": [
+                "An economic alliance",
+                "A Western military alliance against the Soviet bloc",
+                "A United Nations agency",
+                "A trade agreement"
+              ],
+              "correct": 1,
+              "hint": "It was formed in 1949 and remains active today."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Doctrine pledged U.S. support for nations resisting communism.",
+              "answer": "Truman",
+              "hint": "It marked America's commitment to containing Soviet expansion."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-8-2",
+          "title": "Proxy Wars and the Nuclear Arms Race",
+          "type": "lesson",
+          "content": {
+            "explanation": "Unable to fight each other directly due to nuclear weapons, the superpowers waged proxy wars \u2014 conflicts in other countries where each side supported opposing forces. The Korean War (1950-1953) pitted U.S.-backed South Korea against Soviet and Chinese-backed North Korea, ending in a stalemate that divided the peninsula along the 38th parallel \u2014 a division that persists today. The Vietnam War (1955-1975) saw the U.S. intervene massively to prevent communist North Vietnam from unifying the country, ultimately failing after losing over 58,000 American lives and millions of Vietnamese lives. Other proxy conflicts occurred in Afghanistan, Angola, Nicaragua, and elsewhere. Meanwhile, the nuclear arms race escalated terrifyingly. Both sides developed hydrogen bombs (1,000 times more powerful than Hiroshima), intercontinental ballistic missiles, and submarine-launched missiles. By the 1980s, both nations had enough weapons to destroy civilization many times over \u2014 a doctrine called Mutually Assured Destruction (MAD). The Cuban Missile Crisis (1962), when Soviet missiles were discovered in Cuba, brought the world closest to nuclear war.",
+            "examples": [
+              {
+                "problem": "What were proxy wars?",
+                "answer": "Conflicts where superpowers supported opposing sides in other countries instead of fighting each other directly.",
+                "explanation": "Korea, Vietnam, Afghanistan, and many other conflicts were proxy wars. Local populations suffered while superpowers competed for influence without risking nuclear confrontation."
+              },
+              {
+                "problem": "What was the Cuban Missile Crisis?",
+                "answer": "A 13-day confrontation in 1962 when Soviet nuclear missiles were discovered in Cuba, bringing the world to the brink of nuclear war.",
+                "explanation": "President Kennedy imposed a naval blockade and demanded missile removal. After tense negotiations, the Soviets withdrew missiles in exchange for U.S. promises not to invade Cuba and to remove missiles from Turkey."
+              },
+              {
+                "problem": "What was Mutually Assured Destruction?",
+                "answer": "The doctrine that both superpowers had enough nuclear weapons to destroy each other completely, making nuclear war suicidal for both sides.",
+                "explanation": "MAD paradoxically created stability \u2014 neither side would start a nuclear war knowing it meant their own destruction. But it also meant that any miscalculation could end civilization."
+              }
+            ],
+            "key_vocabulary": [
+              "proxy war",
+              "Korean War",
+              "Vietnam War",
+              "Cuban Missile Crisis",
+              "nuclear arms race",
+              "Mutually Assured Destruction",
+              "ICBM",
+              "38th parallel"
+            ],
+            "real_world": "The Korean peninsula remains divided today, with nuclear-armed North Korea and democratic South Korea still technically at war. The Cold War's proxy conflicts continue to shape geopolitics."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What are proxy wars?",
+              "options": [
+                "Wars fought on water",
+                "Conflicts where superpowers support opposing sides in other countries",
+                "Training exercises",
+                "Trade disputes"
+              ],
+              "correct": 1,
+              "hint": "The superpowers avoided direct combat."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Missile Crisis of 1962 was the closest the world came to nuclear war.",
+              "answer": "Cuban",
+              "hint": "Soviet missiles in Cuba triggered a tense 13-day standoff."
+            },
+            {
+              "type": "true_false",
+              "question": "The Korean War resulted in a unified Korea.",
+              "answer": false,
+              "hint": "Korea remains divided along the 38th parallel."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is Mutually Assured Destruction?",
+              "options": [
+                "A military tactic",
+                "Both sides having enough nukes to destroy each other",
+                "A peace treaty",
+                "An economic policy"
+              ],
+              "correct": 1,
+              "hint": "Paradoxically, it created a form of stability."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many American lives were lost in the Vietnam War?",
+              "options": [
+                "5,000",
+                "28,000",
+                "58,000",
+                "100,000"
+              ],
+              "correct": 2,
+              "hint": "Millions of Vietnamese also died in the conflict."
+            },
+            {
+              "type": "fill_in",
+              "question": "Proxy wars allowed superpowers to compete without risking ___ confrontation.",
+              "answer": "nuclear",
+              "hint": "Direct war between nuclear powers could have ended civilization."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-8-3",
+          "title": "Decolonization and the Fall of the Berlin Wall",
+          "type": "lesson",
+          "content": {
+            "explanation": "The post-WWII era saw the rapid decolonization of Asia and Africa. European empires, weakened by war and challenged by rising nationalism, could no longer maintain their colonies. India gained independence from Britain in 1947, led by Mahatma Gandhi's nonviolent resistance movement, though partition into Hindu India and Muslim Pakistan caused massive violence and displacement. African independence movements accelerated in the 1950s-1960s: Ghana (1957), Nigeria (1960), Kenya (1963), and dozens of others gained freedom, though many faced challenges of ethnic division, economic dependence, and Cold War interference. Meanwhile, the Cold War's end approached. Soviet leader Mikhail Gorbachev introduced glasnost (openness) and perestroika (restructuring) in the late 1980s, inadvertently unleashing forces that dissolved the Soviet bloc. On November 9, 1989, the Berlin Wall fell as East Germans flooded through newly opened crossings in scenes of joy broadcast worldwide. The Soviet Union itself dissolved on December 26, 1991, ending the Cold War and leaving the United States as the world's sole superpower.",
+            "examples": [
+              {
+                "problem": "How did India achieve independence?",
+                "answer": "Through Mahatma Gandhi's nonviolent resistance movement, which pressured Britain to grant independence in 1947.",
+                "explanation": "Gandhi's methods \u2014 boycotts, marches, civil disobedience, and fasting \u2014 demonstrated that empires could be challenged without violence. His approach inspired civil rights movements worldwide, including Martin Luther King Jr.'s."
+              },
+              {
+                "problem": "Why did the Berlin Wall fall?",
+                "answer": "Gorbachev's reforms loosened Soviet control, and East Germans demanded freedom, overwhelming the communist government.",
+                "explanation": "The Wall, built in 1961 to prevent East Germans from fleeing to the West, symbolized Cold War division. Its fall on November 9, 1989, was a moment of global celebration and marked the Cold War's effective end."
+              },
+              {
+                "problem": "What caused the Soviet Union to collapse?",
+                "answer": "Economic stagnation, the cost of the arms race, Gorbachev's reforms, nationalist movements, and the failure of communist ideology.",
+                "explanation": "The Soviet economy could not keep pace with the West. Gorbachev's openness revealed the system's failures. Once the possibility of change appeared, nationalist and democratic movements throughout the Soviet bloc quickly dismantled communist rule."
+              }
+            ],
+            "key_vocabulary": [
+              "decolonization",
+              "Gandhi",
+              "nonviolent resistance",
+              "partition",
+              "glasnost",
+              "perestroika",
+              "Berlin Wall",
+              "Soviet collapse"
+            ],
+            "real_world": "The fall of the Berlin Wall in 1989 is one of history's most powerful images of freedom. Pieces of the Wall are displayed in museums and public spaces worldwide as symbols of the triumph of liberty over oppression."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who led India's independence movement?",
+              "options": [
+                "Nehru",
+                "Gandhi",
+                "Jinnah",
+                "Mountbatten"
+              ],
+              "correct": 1,
+              "hint": "He used nonviolent resistance to challenge British rule."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gorbachev's policy of openness was called ___.",
+              "answer": "glasnost",
+              "hint": "It unintentionally helped unleash forces that dissolved the Soviet bloc."
+            },
+            {
+              "type": "true_false",
+              "question": "Decolonization was always peaceful and orderly.",
+              "answer": false,
+              "hint": "Many independence movements involved violence, and partition of India caused massive displacement."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When did the Berlin Wall fall?",
+              "options": [
+                "1985",
+                "1987",
+                "1989",
+                "1991"
+              ],
+              "correct": 2,
+              "hint": "East Germans flooded through in scenes of global celebration."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When did the Soviet Union officially dissolve?",
+              "options": [
+                "1989",
+                "1990",
+                "1991",
+                "1995"
+              ],
+              "correct": 2,
+              "hint": "This ended the Cold War and left the U.S. as sole superpower."
+            },
+            {
+              "type": "fill_in",
+              "question": "India's partition in 1947 created India and ___.",
+              "answer": "Pakistan",
+              "hint": "The division caused massive violence and displacement."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "10-social_studies-8-4",
+          "title": "Globalization and the Contemporary World",
+          "type": "lesson",
+          "content": {
+            "explanation": "The post-Cold War world has been shaped by globalization \u2014 the increasing interconnection of economies, cultures, and peoples worldwide. Advances in technology (the internet, smartphones, satellite communication), transportation (container shipping, air travel), and trade agreements (NAFTA, WTO, EU expansion) have created a truly global economy. Manufacturing shifted to developing nations, global supply chains connected producers and consumers across continents, and information flows instantly across borders. Globalization has lifted hundreds of millions out of poverty, especially in China and India, and enabled unprecedented cultural exchange. However, it has also increased inequality within nations, displaced workers in developed countries, threatened local cultures, and created environmental challenges including climate change. The 21st century faces complex challenges: terrorism (especially after 9/11), the rise of China as a global power, climate change, pandemic disease (COVID-19), threats to democracy, and the digital revolution's impact on society. Understanding how we arrived at this moment \u2014 through the revolutions, wars, and transformations of modern history \u2014 is essential for navigating the future.",
+            "examples": [
+              {
+                "problem": "What is globalization?",
+                "answer": "The increasing interconnection of economies, cultures, and peoples worldwide through technology, trade, and communication.",
+                "explanation": "Globalization means a phone designed in California is assembled in China from components made in 30 countries, sold worldwide, and supported by software teams in India. The world's economies are deeply intertwined."
+              },
+              {
+                "problem": "What are the benefits and drawbacks of globalization?",
+                "answer": "Benefits include poverty reduction and cultural exchange; drawbacks include inequality, worker displacement, and environmental damage.",
+                "explanation": "Globalization has lifted millions from poverty but also widened the gap between rich and poor within countries. Local cultures face pressure from global media, and global supply chains contribute to climate change."
+              },
+              {
+                "problem": "What challenges does the 21st century face?",
+                "answer": "Terrorism, climate change, pandemics, the rise of China, threats to democracy, and the digital revolution's social impact.",
+                "explanation": "These interconnected challenges require international cooperation \u2014 yet nationalism and division are rising in many countries. Whether humanity can cooperate on shared problems while respecting diversity is the central question of our time."
+              }
+            ],
+            "key_vocabulary": [
+              "globalization",
+              "internet",
+              "climate change",
+              "terrorism",
+              "pandemic",
+              "digital revolution",
+              "inequality",
+              "interdependence"
+            ],
+            "real_world": "The COVID-19 pandemic demonstrated both the benefits and risks of globalization: the virus spread rapidly along global travel routes, but international scientific cooperation produced vaccines in record time."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is globalization?",
+              "options": [
+                "A military strategy",
+                "Increasing worldwide economic and cultural interconnection",
+                "A type of government",
+                "An environmental policy"
+              ],
+              "correct": 1,
+              "hint": "Technology, trade, and communication link peoples across borders."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ has been the most transformative technology of globalization.",
+              "answer": "internet",
+              "hint": "It enables instant worldwide communication and commerce."
+            },
+            {
+              "type": "true_false",
+              "question": "Globalization has only positive effects.",
+              "answer": false,
+              "hint": "It also increases inequality, displaces workers, and threatens local cultures."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What event demonstrated globalization's vulnerability to disease?",
+              "options": [
+                "The Black Death",
+                "Spanish Flu",
+                "COVID-19 pandemic",
+                "Ebola outbreak"
+              ],
+              "correct": 2,
+              "hint": "It spread rapidly along global travel routes."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which country's rise as a global power is reshaping the 21st century?",
+              "options": [
+                "Russia",
+                "India",
+                "Brazil",
+                "China"
+              ],
+              "correct": 3,
+              "hint": "Its economic growth has been the most dramatic in recent decades."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ change is one of the most critical global challenges of the 21st century.",
+              "answer": "Climate",
+              "hint": "It requires international cooperation that has proven difficult to achieve."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "10-ss-8-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What was the Iron Curtain?",
+            "options": [
+              "A military weapon",
+              "The divide between communist East and democratic West Europe",
+              "A trade barrier",
+              "A wall in Berlin"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Berlin Wall fell in ___.",
+            "answer": "1989"
+          },
+          {
+            "type": "true_false",
+            "question": "The Cold War ended with a direct military battle between the U.S. and USSR.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who led India's nonviolent independence movement?",
+            "options": [
+              "Nehru",
+              "Mountbatten",
+              "Gandhi",
+              "Jinnah"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What defines globalization?",
+            "options": [
+              "Military expansion",
+              "Increasing worldwide interconnection of economies and cultures",
+              "A single world government",
+              "Universal religion"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cold_war_modern_world_scholar"
+      }
+    }
+  ]
+}

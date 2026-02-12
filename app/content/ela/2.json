@@ -1,0 +1,704 @@
+{
+  "grade": 2,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "2-ela-1",
+      "title": "Advanced Phonics",
+      "description": "Master vowel teams, r-controlled vowels, prefixes, and suffixes to decode bigger words.",
+      "lessons": [
+        {
+          "id": "2-ela-1-1",
+          "title": "Vowel Teams",
+          "type": "lesson",
+          "content": {
+            "explanation": "A vowel team is two vowels working together to make one sound. There is a saying: 'When two vowels go walking, the first one does the talking!' This means the first vowel usually says its long name. For example: 'ai' in 'rain' makes long A, 'ea' in 'beach' makes long E, 'oa' in 'boat' makes long O, and 'ee' in 'tree' makes long E. Not all vowel teams follow this rule, but many do!",
+            "examples": [
+              {"problem": "What vowel team is in 'rain'?", "answer": "ai", "explanation": "The letters A and I work together to make the long A sound."},
+              {"problem": "What vowel team is in 'boat'?", "answer": "oa", "explanation": "The letters O and A work together to make the long O sound."},
+              {"problem": "What vowel team is in 'feet'?", "answer": "ee", "explanation": "Two E's together make the long E sound."}
+            ],
+            "key_vocabulary": ["vowel team", "long vowel", "vowel pair"],
+            "real_world": "Vowel teams are in many everyday words: read, coat, play, keep, and team!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What vowel team is in the word 'seat'?", "options": ["ai", "ea", "oa", "ee"], "correct": 1, "hint": "Look at the two vowels together in 'seat.'"},
+            {"type": "multiple_choice", "question": "In 'When two vowels go walking,' what does the first one do?", "options": ["It is silent", "It does the talking", "It disappears", "It changes"], "correct": 1, "hint": "The first vowel says its name!"},
+            {"type": "true_false", "question": "The vowel team 'oa' in 'goat' makes a long O sound.", "answer": "true", "hint": "The first vowel (O) does the talking."},
+            {"type": "fill_in", "question": "The vowel team in 'beach' is: ___", "answer": "ea", "hint": "Which two vowels are next to each other?"},
+            {"type": "multiple_choice", "question": "Which word has the vowel team 'ai'?", "options": ["Bat", "Boat", "Tail", "Tea"], "correct": 2, "hint": "Look for A and I together."},
+            {"type": "multiple_choice", "question": "What sound does 'ee' make in 'sleep'?", "options": ["Short E", "Long E", "Short I", "Long I"], "correct": 1, "hint": "Two E's together say the long E sound."},
+            {"type": "true_false", "question": "A vowel team is two vowels that work together.", "answer": "true", "hint": "Two vowels side by side making one sound."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-1-2",
+          "title": "R-Controlled Vowels",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a vowel is followed by the letter R, the R changes the vowel's sound. We call these 'r-controlled vowels' or 'bossy R' because R bosses the vowel around! The main r-controlled vowels are: 'ar' (car, star), 'er' (her, fern), 'ir' (bird, girl), 'or' (fork, corn), and 'ur' (burn, turn). Notice that 'er,' 'ir,' and 'ur' all sound the same! They make the /er/ sound.",
+            "examples": [
+              {"problem": "What r-controlled vowel is in 'star'?", "answer": "ar", "explanation": "The A is controlled by the R, making the /ar/ sound."},
+              {"problem": "What r-controlled vowel is in 'bird'?", "answer": "ir", "explanation": "The I is controlled by the R, making the /er/ sound."},
+              {"problem": "Do 'her' and 'fur' have the same vowel sound?", "answer": "Yes", "explanation": "Both 'er' and 'ur' make the same /er/ sound."}
+            ],
+            "key_vocabulary": ["r-controlled vowel", "bossy R", "ar", "er", "ir", "or", "ur"],
+            "real_world": "R-controlled vowels are in words you use daily: car, her, bird, more, turn."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an r-controlled vowel?", "options": ["A vowel after S", "A vowel after R", "A vowel before R that changes its sound", "A vowel by itself"], "correct": 2, "hint": "The R comes after the vowel and changes how it sounds."},
+            {"type": "multiple_choice", "question": "Which word has the 'ar' sound?", "options": ["Her", "Bird", "Farm", "Burn"], "correct": 2, "hint": "Look for the A followed by R."},
+            {"type": "true_false", "question": "'Er,' 'ir,' and 'ur' all make the same sound.", "answer": "true", "hint": "They all sound like /er/."},
+            {"type": "fill_in", "question": "The r-controlled vowel in 'corn' is: ___", "answer": "or", "hint": "What vowel comes before the R?"},
+            {"type": "multiple_choice", "question": "Which word has the same vowel sound as 'fern'?", "options": ["Car", "Dirt", "Corn", "Star"], "correct": 1, "hint": "'Fern' has the /er/ sound. Which other word has it?"},
+            {"type": "multiple_choice", "question": "Why is R called 'bossy R'?", "options": ["R is a big letter", "R changes the vowel sound", "R comes first", "R is loud"], "correct": 1, "hint": "R 'bosses' the vowel and changes how it sounds."},
+            {"type": "true_false", "question": "The word 'park' has an r-controlled vowel.", "answer": "true", "hint": "The A is followed by R, making the /ar/ sound."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-1-3",
+          "title": "Prefixes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A prefix is a group of letters added to the BEGINNING of a word that changes its meaning. The prefix 'un-' means 'not' or 'opposite.' If you add 'un-' to 'happy,' you get 'unhappy,' which means 'not happy.' The prefix 're-' means 'again.' If you add 're-' to 'read,' you get 'reread,' which means 'read again.' The prefix 'pre-' means 'before.' Knowing prefixes helps you figure out new words!",
+            "examples": [
+              {"problem": "What does 'unkind' mean?", "answer": "Not kind", "explanation": "The prefix 'un-' means 'not,' so 'unkind' means 'not kind.'"},
+              {"problem": "What does 'redo' mean?", "answer": "Do again", "explanation": "The prefix 're-' means 'again,' so 'redo' means 'do again.'"},
+              {"problem": "What does 'preheat' mean?", "answer": "Heat before", "explanation": "The prefix 'pre-' means 'before,' so 'preheat' means 'heat before.'"}
+            ],
+            "key_vocabulary": ["prefix", "un-", "re-", "pre-"],
+            "real_world": "Prefixes help you understand words like 'unlock' (un + lock), 'replay' (re + play), and 'preview' (pre + view)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a prefix?", "options": ["Letters at the end of a word", "Letters at the beginning of a word", "The middle of a word", "A type of sentence"], "correct": 1, "hint": "Pre- means 'before.' A prefix goes before the word."},
+            {"type": "multiple_choice", "question": "What does the prefix 'un-' mean?", "options": ["Again", "Before", "Not or opposite", "After"], "correct": 2, "hint": "If you are 'unhappy,' you are not happy."},
+            {"type": "fill_in", "question": "If 're-' means 'again,' then 'rewrite' means: write ___", "answer": "again", "hint": "Re- means to do something one more time."},
+            {"type": "multiple_choice", "question": "What does 'unsafe' mean?", "options": ["Very safe", "Not safe", "Safe again", "Safe before"], "correct": 1, "hint": "'Un-' means 'not.'"},
+            {"type": "true_false", "question": "'Retell' means to tell a story again.", "answer": "true", "hint": "'Re-' means again. So retell = tell again."},
+            {"type": "multiple_choice", "question": "What does 'preview' mean?", "options": ["View again", "View after", "Not view", "View before"], "correct": 3, "hint": "'Pre-' means 'before.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-1-4",
+          "title": "Suffixes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A suffix is a group of letters added to the END of a word that changes its meaning. The suffix '-er' can mean 'a person who does something' (teach → teacher) or 'more' (fast → faster). The suffix '-est' means 'the most' (fast → fastest). The suffix '-ing' shows an action happening now (run → running). The suffix '-ed' shows an action happened in the past (walked). Suffixes help you make new words from words you already know!",
+            "examples": [
+              {"problem": "What does 'teacher' mean?", "answer": "A person who teaches", "explanation": "The suffix '-er' means 'a person who.' Teach + er = a person who teaches."},
+              {"problem": "What does 'tallest' mean?", "answer": "The most tall", "explanation": "The suffix '-est' means 'the most.' Tall + est = the most tall."},
+              {"problem": "What does 'jumping' mean?", "answer": "The action of jumping happening now", "explanation": "The suffix '-ing' shows the action is happening now."}
+            ],
+            "key_vocabulary": ["suffix", "-er", "-est", "-ing", "-ed"],
+            "real_world": "You use suffixes when you say 'I am running,' 'she is the tallest,' or 'he walked home.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a suffix?", "options": ["Letters at the beginning of a word", "Letters at the end of a word", "The middle of a word", "A whole word"], "correct": 1, "hint": "A suffix is added to the END of a word."},
+            {"type": "multiple_choice", "question": "What does the suffix '-er' often mean?", "options": ["Not", "Before", "A person who", "Again"], "correct": 2, "hint": "A teach-er is a person who teaches."},
+            {"type": "fill_in", "question": "Add '-ing' to 'play' to make: ___", "answer": "playing", "hint": "Just add the letters i-n-g to the end."},
+            {"type": "multiple_choice", "question": "What does 'fastest' mean?", "options": ["Not fast", "Fast again", "The most fast", "A little fast"], "correct": 2, "hint": "The suffix '-est' means 'the most.'"},
+            {"type": "true_false", "question": "The suffix '-ed' shows something happened in the past.", "answer": "true", "hint": "'Walked' means the walking already happened."},
+            {"type": "multiple_choice", "question": "What is the base word in 'singer'?", "options": ["Sing", "Ring", "Sin", "Ger"], "correct": 0, "hint": "Remove the suffix '-er' to find the base word."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What vowel team is in 'boat'?", "options": ["ai", "ea", "oa", "ee"], "correct": 2, "hint": "Look at the two vowels together."},
+          {"type": "multiple_choice", "question": "What is an r-controlled vowel?", "options": ["A vowel with R that changes its sound", "A vowel at the end", "A loud vowel", "A silent vowel"], "correct": 0, "hint": "R bosses the vowel and changes its sound."},
+          {"type": "fill_in", "question": "The prefix 'un-' means: ___", "answer": "not", "hint": "Unhappy means NOT happy."},
+          {"type": "multiple_choice", "question": "What does 'reread' mean?", "options": ["Not read", "Read before", "Read again", "Read fast"], "correct": 2, "hint": "Re- means again."},
+          {"type": "true_false", "question": "A suffix is added to the end of a word.", "answer": "true", "hint": "Suffixes go at the END."},
+          {"type": "multiple_choice", "question": "What does the suffix '-est' mean?", "options": ["Not", "Again", "The most", "Before"], "correct": 2, "hint": "Tallest means the MOST tall."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "word_wizard"
+      }
+    },
+    {
+      "id": "2-ela-2",
+      "title": "Reading Fiction",
+      "description": "Dive deeper into stories by understanding characters, setting, plot, and problem/solution.",
+      "lessons": [
+        {
+          "id": "2-ela-2-1",
+          "title": "Characters and Character Traits",
+          "type": "lesson",
+          "content": {
+            "explanation": "Characters are the people or animals in a story. Character traits are words that describe what a character is like on the inside. A character might be brave, kind, funny, smart, shy, or mean. You can figure out character traits by paying attention to what the character says, does, and how they feel. For example, if a character shares their lunch with a friend, the character is kind or generous.",
+            "examples": [
+              {"problem": "A girl helps her neighbor carry groceries. What character trait does she show?", "answer": "Helpful or kind", "explanation": "Helping someone shows that the character is kind and helpful."},
+              {"problem": "A boy is afraid to try the roller coaster but does it anyway. What trait does he show?", "answer": "Brave or courageous", "explanation": "Doing something scary shows bravery."},
+              {"problem": "A girl always tells the truth, even when it is hard. What trait is this?", "answer": "Honest", "explanation": "Telling the truth shows honesty."}
+            ],
+            "key_vocabulary": ["character", "character trait", "brave", "kind", "honest"],
+            "real_world": "You have character traits too! Think about what makes you YOU — are you kind, funny, creative?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a character trait?", "options": ["What a character looks like", "What a character is like on the inside", "Where a character lives", "A character's name"], "correct": 1, "hint": "Traits describe personality, not appearance."},
+            {"type": "multiple_choice", "question": "If a character gives away their toy to a friend, they are:", "options": ["Mean", "Generous", "Lazy", "Scared"], "correct": 1, "hint": "Giving things to others shows this trait."},
+            {"type": "true_false", "question": "You can learn about a character's traits from their actions.", "answer": "true", "hint": "What characters DO shows who they are."},
+            {"type": "multiple_choice", "question": "A character who always lies is:", "options": ["Honest", "Brave", "Dishonest", "Kind"], "correct": 2, "hint": "The opposite of honest."},
+            {"type": "multiple_choice", "question": "Which is a character trait?", "options": ["Tall", "Brave", "Brown hair", "Blue shirt"], "correct": 1, "hint": "Traits are about personality, not looks."},
+            {"type": "fill_in", "question": "A character who helps everyone is: ___", "answer": "helpful", "hint": "Someone who helps is called..."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-2-2",
+          "title": "Setting",
+          "type": "lesson",
+          "content": {
+            "explanation": "The setting is WHERE and WHEN a story takes place. The 'where' could be a school, a forest, a castle, or outer space. The 'when' could be morning, nighttime, long ago, or in the future. Authors use describing words to help you picture the setting. If the author writes 'The snow covered the ground and icicles hung from the roof,' you can tell the setting is a cold, wintry place.",
+            "examples": [
+              {"problem": "A story begins: 'The sun beat down on the sandy beach.' What is the setting?", "answer": "A beach on a sunny day", "explanation": "The description tells us where (beach) and gives clues about when (a sunny day)."},
+              {"problem": "A story says: 'Long ago, in a faraway kingdom...' What does this tell you?", "answer": "The setting is a kingdom in the past", "explanation": "'Long ago' tells when, and 'faraway kingdom' tells where."},
+              {"problem": "Can the setting change during a story?", "answer": "Yes!", "explanation": "Characters might move from home to school, or from day to night."}
+            ],
+            "key_vocabulary": ["setting", "where", "when", "place", "time"],
+            "real_world": "Every story you read or movie you watch has a setting. Where and when does your favorite story take place?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the setting of a story?", "options": ["The main character", "Where and when the story takes place", "The problem", "The ending"], "correct": 1, "hint": "Setting = where + when."},
+            {"type": "multiple_choice", "question": "'The classroom was busy on Monday morning.' What is the setting?", "options": ["A park on Sunday", "A classroom on Monday morning", "A house at night", "A zoo in summer"], "correct": 1, "hint": "Where is it? When is it?"},
+            {"type": "true_false", "question": "The setting can change during a story.", "answer": "true", "hint": "Characters can move to new places or time can pass."},
+            {"type": "multiple_choice", "question": "'Stars twinkled in the dark sky above the campfire.' When does this take place?", "options": ["Morning", "Afternoon", "Nighttime", "Noon"], "correct": 2, "hint": "Stars and dark sky are clues."},
+            {"type": "fill_in", "question": "Setting tells us WHERE and ___.", "answer": "when", "hint": "Setting has two parts: where and ___?"},
+            {"type": "multiple_choice", "question": "Which detail helps you know the setting?", "options": ["The character's name", "Describing words about the place", "What the character eats", "The title"], "correct": 1, "hint": "Authors use descriptive words to paint a picture of where the story happens."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-2-3",
+          "title": "Plot: What Happens",
+          "type": "lesson",
+          "content": {
+            "explanation": "The plot is everything that happens in a story. It has three main parts: the beginning (we meet the characters and learn the setting), the middle (the main events happen, usually including a problem), and the end (the problem is solved). The plot keeps us reading because we want to know what happens next! Think of the plot as a path: it starts somewhere, goes on an adventure, and arrives at the end.",
+            "examples": [
+              {"problem": "What are the three parts of a plot?", "answer": "Beginning, middle, end", "explanation": "Every plot has these three parts that tell the story in order."},
+              {"problem": "In 'Jack and the Beanstalk,' what is the beginning?", "answer": "Jack trades his cow for magic beans", "explanation": "The beginning introduces the character and the first event."},
+              {"problem": "What makes the middle exciting?", "answer": "The problem or conflict", "explanation": "The middle is where things get interesting — the character faces a challenge."}
+            ],
+            "key_vocabulary": ["plot", "beginning", "middle", "end", "events"],
+            "real_world": "Every movie, show, and book you enjoy has a plot that keeps you interested!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the plot?", "options": ["The characters", "Everything that happens in the story", "The setting", "The title"], "correct": 1, "hint": "The plot is the sequence of events."},
+            {"type": "multiple_choice", "question": "What usually happens in the BEGINNING of a plot?", "options": ["The problem is solved", "We meet the characters", "The story ends", "The climax happens"], "correct": 1, "hint": "The beginning introduces who and where."},
+            {"type": "true_false", "question": "The middle of the plot usually has a problem.", "answer": "true", "hint": "The middle is where things get exciting and challenging."},
+            {"type": "multiple_choice", "question": "What happens at the END of the plot?", "options": ["We meet new characters", "A new problem starts", "The problem is solved", "Nothing happens"], "correct": 2, "hint": "By the end, things usually work out."},
+            {"type": "multiple_choice", "question": "The plot is like a:", "options": ["Drawing", "Path from start to finish", "Single word", "Color"], "correct": 1, "hint": "It goes from beginning to end, step by step."},
+            {"type": "true_false", "question": "A story can have a plot without a beginning.", "answer": "false", "hint": "Every story needs a beginning, middle, and end."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-2-4",
+          "title": "Problem and Solution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Most stories have a problem that a character must solve. The problem is a challenge or difficulty the character faces. The solution is how the character fixes the problem. For example: Problem — A boy loses his dog. Solution — He searches the neighborhood and finds the dog at the park. Finding the problem and solution helps you understand the most important parts of a story.",
+            "examples": [
+              {"problem": "In a story, a girl cannot reach a book on a high shelf. She gets a stool to stand on. What is the problem? What is the solution?", "answer": "Problem: can't reach the book. Solution: uses a stool.", "explanation": "The problem is the challenge (can't reach), and the solution is how she fixes it (stool)."},
+              {"problem": "A bear is hungry but can't find food. His friend shows him a berry bush. Problem and solution?", "answer": "Problem: bear is hungry. Solution: friend shows him berries.", "explanation": "The problem is hunger, and the solution is finding food."},
+              {"problem": "Why do stories need problems?", "answer": "Problems make stories interesting", "explanation": "Without a problem, there would be nothing exciting to read about!"}
+            ],
+            "key_vocabulary": ["problem", "solution", "challenge", "solve"],
+            "real_world": "You solve problems every day! If you can't find your shoe, the problem is a missing shoe and the solution is looking for it."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a problem in a story?", "options": ["Something easy", "A challenge a character faces", "The setting", "The title"], "correct": 1, "hint": "A problem is a difficulty or challenge."},
+            {"type": "multiple_choice", "question": "What is a solution?", "options": ["A new problem", "How the problem is fixed", "The beginning of the story", "A character's name"], "correct": 1, "hint": "The solution SOLVES the problem."},
+            {"type": "multiple_choice", "question": "A cat is stuck in a tree. A firefighter gets it down. What is the problem?", "options": ["The firefighter is tired", "The tree is tall", "The cat is stuck", "The cat is hungry"], "correct": 2, "hint": "What challenge needs to be solved?"},
+            {"type": "fill_in", "question": "In the story above, the solution is: the firefighter gets the cat ___.", "answer": "down", "hint": "How does the firefighter solve the problem?"},
+            {"type": "true_false", "question": "Every story needs a problem to be interesting.", "answer": "true", "hint": "Problems give characters something to overcome."},
+            {"type": "multiple_choice", "question": "Why do we look for the problem and solution?", "options": ["To count the pages", "To understand the most important parts of the story", "To find the author", "To read faster"], "correct": 1, "hint": "Problem and solution are the heart of the story."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A character trait describes:", "options": ["How a character looks", "What a character is like inside", "Where a character lives", "A character's age"], "correct": 1, "hint": "Traits = personality."},
+          {"type": "multiple_choice", "question": "The setting tells us:", "options": ["Who and why", "Where and when", "What and how", "Problem and solution"], "correct": 1, "hint": "Setting = place + time."},
+          {"type": "true_false", "question": "The plot is everything that happens in a story.", "answer": "true", "hint": "Plot = the events of the story."},
+          {"type": "multiple_choice", "question": "What is the solution in a story?", "options": ["The problem", "How the problem is fixed", "The beginning", "The characters"], "correct": 1, "hint": "Solution = how the problem is solved."},
+          {"type": "multiple_choice", "question": "If a character shares her snack, she is probably:", "options": ["Selfish", "Generous", "Scared", "Angry"], "correct": 1, "hint": "Sharing shows what trait?"},
+          {"type": "multiple_choice", "question": "What part of the plot usually has the problem?", "options": ["Beginning", "Middle", "End", "Title"], "correct": 1, "hint": "The middle is where the excitement happens."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fiction_fan"
+      }
+    },
+    {
+      "id": "2-ela-3",
+      "title": "Reading Nonfiction",
+      "description": "Learn to read and understand informational texts using text features, main idea, and facts vs. opinions.",
+      "lessons": [
+        {
+          "id": "2-ela-3-1",
+          "title": "Text Features",
+          "type": "lesson",
+          "content": {
+            "explanation": "Nonfiction books have special text features that help you find and understand information. A title tells what the whole text is about. Headings tell what each section is about. Bold words are important vocabulary. Captions explain pictures or photos. A table of contents shows what is in the book and where to find it. These features are like a map that helps you navigate the text!",
+            "examples": [
+              {"problem": "What does a heading tell you?", "answer": "What a section is about", "explanation": "Headings are like mini-titles for each part of the text."},
+              {"problem": "Why are some words bold?", "answer": "They are important vocabulary words", "explanation": "Authors make key words bold so you know they are important to understand."},
+              {"problem": "What does a caption do?", "answer": "It explains a picture or photo", "explanation": "Captions are short descriptions next to images."}
+            ],
+            "key_vocabulary": ["text feature", "heading", "bold", "caption", "table of contents"],
+            "real_world": "Textbooks, magazines, and websites all use text features to help you find information quickly."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a heading tell you?", "options": ["The author's name", "What a section is about", "The page number", "When the book was written"], "correct": 1, "hint": "Headings are like titles for each section."},
+            {"type": "true_false", "question": "Bold words are important vocabulary.", "answer": "true", "hint": "Authors use bold to show important words."},
+            {"type": "multiple_choice", "question": "A caption is found:", "options": ["At the start of the book", "Next to a picture", "At the end of every sentence", "In the glossary only"], "correct": 1, "hint": "Captions explain pictures."},
+            {"type": "multiple_choice", "question": "Where do you look to find what page a topic is on?", "options": ["The title", "The caption", "The table of contents", "The pictures"], "correct": 2, "hint": "This feature lists topics and their page numbers."},
+            {"type": "true_false", "question": "Text features help you find information faster.", "answer": "true", "hint": "Features like headings and bold words guide you."},
+            {"type": "multiple_choice", "question": "Which is a text feature?", "options": ["A character", "A heading", "A verb", "An adjective"], "correct": 1, "hint": "Text features are parts of the text that help organize information."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-3-2",
+          "title": "Main Idea in Nonfiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "In nonfiction, the main idea is what the text is mostly about. Supporting details are facts that tell more about the main idea. For example, if the main idea is 'Dogs make great pets,' the supporting details might be: 'Dogs are loyal,' 'Dogs can learn tricks,' and 'Dogs are playful.' The main idea is often in the first sentence of a paragraph. Supporting details come after.",
+            "examples": [
+              {"problem": "Read: 'Butterflies are beautiful insects. They have colorful wings. They drink nectar from flowers. They can fly long distances.' What is the main idea?", "answer": "Butterflies are beautiful insects", "explanation": "The first sentence gives the main idea, and the rest are details."},
+              {"problem": "What are supporting details?", "answer": "Facts that tell more about the main idea", "explanation": "They support or back up the main idea with more information."},
+              {"problem": "Where is the main idea often found?", "answer": "In the first sentence", "explanation": "Authors often put the main idea first, then add details."}
+            ],
+            "key_vocabulary": ["main idea", "supporting details", "nonfiction"],
+            "real_world": "When you read a sign at the zoo about an animal, the main idea tells you the most important fact."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The main idea is:", "options": ["A small detail", "What the text is mostly about", "The last sentence", "The author's name"], "correct": 1, "hint": "Main idea = the big message."},
+            {"type": "multiple_choice", "question": "Supporting details:", "options": ["Replace the main idea", "Tell more about the main idea", "Are not important", "Are always in bold"], "correct": 1, "hint": "They SUPPORT the main idea with facts."},
+            {"type": "true_false", "question": "The main idea is often in the first sentence of a paragraph.", "answer": "true", "hint": "Authors usually state the main idea early."},
+            {"type": "multiple_choice", "question": "'Frogs live near water. They eat insects. They can jump far. They lay eggs in ponds.' The main idea is:", "options": ["Frogs eat insects", "Frogs jump far", "Frogs live near water", "Frogs lay eggs"], "correct": 2, "hint": "Which sentence covers the whole topic?"},
+            {"type": "fill_in", "question": "Facts that tell more about the main idea are called supporting ___.", "answer": "details", "hint": "They give more information about the main idea."},
+            {"type": "multiple_choice", "question": "In a paragraph about whales, which is likely the main idea?", "options": ["Whales eat fish", "Whales live in the ocean", "Whales are amazing ocean animals", "Baby whales are called calves"], "correct": 2, "hint": "The main idea covers the WHOLE paragraph, not just one fact."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-3-3",
+          "title": "Facts vs. Opinions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A fact is something that is TRUE and can be proven. 'Dogs have four legs' is a fact. An opinion is what someone THINKS or FEELS — not everyone agrees. 'Dogs are the best pets' is an opinion. To tell them apart, ask: 'Can this be proven true?' If yes, it is a fact. If it is a personal feeling, it is an opinion. Opinion words include: think, believe, feel, best, worst, should, favorite.",
+            "examples": [
+              {"problem": "Is 'The sky is blue' a fact or opinion?", "answer": "Fact", "explanation": "You can look at the sky and see it is blue. It can be proven."},
+              {"problem": "Is 'Blue is the prettiest color' a fact or opinion?", "answer": "Opinion", "explanation": "Not everyone thinks blue is the prettiest. It is a personal feeling."},
+              {"problem": "Is 'The Earth orbits the Sun' a fact or opinion?", "answer": "Fact", "explanation": "Scientists have proven this. It is true for everyone."}
+            ],
+            "key_vocabulary": ["fact", "opinion", "proven", "believe", "think"],
+            "real_world": "News reports should have facts. Reviews and comments often have opinions."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a fact?", "options": ["Something you believe", "Something that can be proven true", "Something funny", "Something you wish for"], "correct": 1, "hint": "Facts are true and can be proven."},
+            {"type": "multiple_choice", "question": "Which is a FACT?", "options": ["Cats are the cutest animals", "Cats have whiskers", "Cats are boring", "Cats are the best pets"], "correct": 1, "hint": "Which one can be proven true?"},
+            {"type": "multiple_choice", "question": "Which is an OPINION?", "options": ["Water freezes at 32 degrees", "Ice cream is the best dessert", "There are 50 states in the US", "Fish live in water"], "correct": 1, "hint": "Which one is a personal feeling?"},
+            {"type": "true_false", "question": "'Summer is the best season' is a fact.", "answer": "false", "hint": "Not everyone agrees. It is an opinion."},
+            {"type": "multiple_choice", "question": "Which word is a clue that something is an opinion?", "options": ["Is", "The", "Think", "Has"], "correct": 2, "hint": "'I think...' signals a personal belief."},
+            {"type": "multiple_choice", "question": "'Spiders have eight legs' is:", "options": ["An opinion", "A fact", "A question", "A story"], "correct": 1, "hint": "Can this be proven? Yes!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-3-4",
+          "title": "Comparing Fiction and Nonfiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fiction and nonfiction are different types of books. Fiction is MADE UP — it tells a story from someone's imagination. Fairy tales, fantasy stories, and novels are fiction. Nonfiction is REAL — it gives true facts and information. Textbooks, biographies, and science books are nonfiction. Some books look like they could be either, so ask: 'Is this true or made up?' That helps you tell the difference.",
+            "examples": [
+              {"problem": "Is 'A talking pig goes to school' fiction or nonfiction?", "answer": "Fiction", "explanation": "Pigs cannot really talk or go to school. It is made up."},
+              {"problem": "Is 'How to Take Care of Your Dog' fiction or nonfiction?", "answer": "Nonfiction", "explanation": "It gives real information about caring for a dog."},
+              {"problem": "Is a fairy tale fiction or nonfiction?", "answer": "Fiction", "explanation": "Fairy tales are made-up stories with imaginary characters."}
+            ],
+            "key_vocabulary": ["fiction", "nonfiction", "made up", "true", "real"],
+            "real_world": "At the library, fiction and nonfiction books are in different sections!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Fiction stories are:", "options": ["True", "Made up", "Always about animals", "Always short"], "correct": 1, "hint": "Fiction comes from the imagination."},
+            {"type": "multiple_choice", "question": "Nonfiction texts are:", "options": ["Made up", "Real and true", "Only in books", "Only about people"], "correct": 1, "hint": "Nonfiction gives real facts."},
+            {"type": "true_false", "question": "A book about the solar system is nonfiction.", "answer": "true", "hint": "It gives true facts about planets."},
+            {"type": "multiple_choice", "question": "Which is fiction?", "options": ["A book about how plants grow", "A fairy tale about a magic dragon", "An article about weather", "A biography of a president"], "correct": 1, "hint": "Magic dragons are not real."},
+            {"type": "multiple_choice", "question": "Which is nonfiction?", "options": ["A story about a talking cat", "A book about dinosaur facts", "A tale about a princess", "A story about a flying boy"], "correct": 1, "hint": "Facts about real things = nonfiction."},
+            {"type": "true_false", "question": "Novels are fiction.", "answer": "true", "hint": "Novels are long made-up stories."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a text feature?", "options": ["A character in a story", "Something that helps organize information like headings or bold words", "A type of sentence", "A punctuation mark"], "correct": 1, "hint": "Text features help you navigate nonfiction."},
+          {"type": "true_false", "question": "A fact is something that can be proven true.", "answer": "true", "hint": "Facts are true for everyone."},
+          {"type": "multiple_choice", "question": "Which is an opinion?", "options": ["There are 12 months in a year", "Math is the hardest subject", "Water is made of hydrogen and oxygen", "The sun rises in the east"], "correct": 1, "hint": "Opinions are personal feelings."},
+          {"type": "multiple_choice", "question": "Fiction texts are:", "options": ["True", "Made up", "Always about science", "Always long"], "correct": 1, "hint": "Fiction = imagination."},
+          {"type": "fill_in", "question": "Supporting details tell more about the main ___.", "answer": "idea", "hint": "They support the main ___."},
+          {"type": "multiple_choice", "question": "A bold word in a nonfiction text is:", "options": ["Not important", "An important vocabulary word", "A mistake", "Part of the title"], "correct": 1, "hint": "Bold = important."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "nonfiction_navigator"
+      }
+    },
+    {
+      "id": "2-ela-4",
+      "title": "Writing Sentences and Paragraphs",
+      "description": "Build strong sentences and learn to organize your ideas into paragraphs.",
+      "lessons": [
+        {
+          "id": "2-ela-4-1",
+          "title": "Complete Sentences Review",
+          "type": "lesson",
+          "content": {
+            "explanation": "A complete sentence has a subject (who or what) and a predicate (what they do or are). It expresses a complete thought and makes sense on its own. 'The bird sings.' is complete. 'The bird.' is NOT complete — what about the bird? 'Sings loudly.' is NOT complete — who sings? You can fix incomplete sentences by adding the missing part.",
+            "examples": [
+              {"problem": "Is 'My mom bakes cookies' a complete sentence?", "answer": "Yes", "explanation": "Subject: My mom. Predicate: bakes cookies. It is a complete thought."},
+              {"problem": "Is 'Ran to the store' complete?", "answer": "No", "explanation": "Who ran? There is no subject. Fix it: 'Dad ran to the store.'"},
+              {"problem": "Fix: 'The big yellow bus.'", "answer": "The big yellow bus stopped.", "explanation": "We added a predicate (stopped) to make it complete."}
+            ],
+            "key_vocabulary": ["complete sentence", "subject", "predicate", "fragment"],
+            "real_world": "Complete sentences help people understand your writing clearly."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is a complete sentence?", "options": ["The tall tree.", "Ran very fast.", "My dog plays fetch.", "In the morning."], "correct": 2, "hint": "A complete sentence has a subject AND a predicate."},
+            {"type": "true_false", "question": "'Ate pizza for lunch' is a complete sentence.", "answer": "false", "hint": "Who ate pizza? There is no subject."},
+            {"type": "multiple_choice", "question": "What is missing from 'Jumps really high'?", "options": ["A period", "A predicate", "A subject", "An adjective"], "correct": 2, "hint": "WHO jumps? We need a subject."},
+            {"type": "fill_in", "question": "Fix this fragment by adding a subject: '___ likes to read books.'", "answer": "She", "hint": "Add a person or name at the beginning."},
+            {"type": "multiple_choice", "question": "A sentence fragment is:", "options": ["A complete sentence", "An incomplete sentence", "A question", "A paragraph"], "correct": 1, "hint": "Fragment means a piece — not the whole thing."},
+            {"type": "true_false", "question": "'The rain falls gently.' is a complete sentence.", "answer": "true", "hint": "Subject: rain. Predicate: falls gently."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-4-2",
+          "title": "Topic Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A topic sentence tells the reader what a paragraph is about. It is usually the first sentence of a paragraph. A good topic sentence gives the main idea in one clear sentence. For example, if your paragraph is about why dogs make great pets, your topic sentence might be: 'Dogs make great pets for many reasons.' Everything else in the paragraph should connect to this topic sentence.",
+            "examples": [
+              {"problem": "What is a good topic sentence for a paragraph about pizza?", "answer": "Pizza is one of the most popular foods in the world.", "explanation": "This tells the reader the paragraph will be about pizza's popularity."},
+              {"problem": "Where does the topic sentence usually go?", "answer": "At the beginning of the paragraph", "explanation": "The topic sentence is usually the first sentence."},
+              {"problem": "A paragraph is about the ocean. Which is a better topic sentence: 'Fish swim' or 'The ocean is full of amazing creatures'?", "answer": "'The ocean is full of amazing creatures'", "explanation": "It covers the whole paragraph topic, not just one detail."}
+            ],
+            "key_vocabulary": ["topic sentence", "paragraph", "main idea"],
+            "real_world": "Topic sentences help your reader know what you will write about before they read the rest."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does a topic sentence do?", "options": ["Ends the paragraph", "Tells what the paragraph is about", "Asks a question", "Lists vocabulary"], "correct": 1, "hint": "Topic sentence = main idea of the paragraph."},
+            {"type": "multiple_choice", "question": "Where is the topic sentence usually found?", "options": ["At the end", "In the middle", "At the beginning", "It doesn't matter"], "correct": 2, "hint": "It usually comes first."},
+            {"type": "multiple_choice", "question": "Which is the best topic sentence for a paragraph about cats?", "options": ["Cats have whiskers.", "Cats say meow.", "Cats are wonderful pets.", "I saw a cat once."], "correct": 2, "hint": "A good topic sentence covers the whole paragraph."},
+            {"type": "true_false", "question": "Every sentence in a paragraph should connect to the topic sentence.", "answer": "true", "hint": "All sentences should support the main idea."},
+            {"type": "multiple_choice", "question": "Which topic sentence goes with these details: 'First, you gather supplies. Then, you draw a picture. Last, you color it in.'?", "options": ["I like art class.", "Making art is easy and fun.", "Colors are pretty.", "I have crayons."], "correct": 1, "hint": "The details describe steps of making art."},
+            {"type": "true_false", "question": "A topic sentence should be very long and detailed.", "answer": "false", "hint": "Topic sentences should be clear and simple."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-4-3",
+          "title": "Supporting Details in Writing",
+          "type": "lesson",
+          "content": {
+            "explanation": "After writing a topic sentence, you add supporting details. These are sentences that give facts, examples, or reasons that explain your topic sentence. If your topic sentence is 'Recess is the best part of school,' your supporting details might be: 'I get to play with my friends,' 'I can run and exercise,' and 'Fresh air makes me feel good.' Each detail should connect to and support the topic sentence.",
+            "examples": [
+              {"problem": "Topic sentence: 'My dog is very smart.' Give a supporting detail.", "answer": "He can sit, shake, and roll over.", "explanation": "This detail gives an example that shows the dog is smart."},
+              {"problem": "Topic sentence: 'Winter is fun.' Give a supporting detail.", "answer": "You can build snowmen and go sledding.", "explanation": "This detail explains WHY winter is fun."},
+              {"problem": "Does 'I had eggs for breakfast' support the topic 'My dog is smart'?", "answer": "No", "explanation": "Breakfast has nothing to do with a smart dog."}
+            ],
+            "key_vocabulary": ["supporting detail", "example", "reason", "connect"],
+            "real_world": "When you tell someone why you like something, you give supporting details!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Supporting details:", "options": ["Change the topic", "Give more information about the topic sentence", "End the paragraph", "Start a new topic"], "correct": 1, "hint": "They SUPPORT the main idea."},
+            {"type": "multiple_choice", "question": "Topic sentence: 'Apples are healthy.' Which is a supporting detail?", "options": ["I like pizza.", "Dogs are cute.", "Apples have vitamins that are good for your body.", "My mom is nice."], "correct": 2, "hint": "Which sentence tells more about apples being healthy?"},
+            {"type": "true_false", "question": "A supporting detail about 'Summer is fun' could be 'We go to the beach.'", "answer": "true", "hint": "Going to the beach is an example of why summer is fun."},
+            {"type": "multiple_choice", "question": "How many supporting details should a paragraph have?", "options": ["Zero", "At least two or three", "Exactly ten", "Just one"], "correct": 1, "hint": "Good paragraphs have several supporting details."},
+            {"type": "true_false", "question": "Supporting details should connect to the topic sentence.", "answer": "true", "hint": "Every detail should relate to the main idea."},
+            {"type": "multiple_choice", "question": "Which detail does NOT support 'Cats are good pets'?", "options": ["Cats are clean animals.", "Cats are soft to pet.", "Fish live in water.", "Cats are playful."], "correct": 2, "hint": "One of these has nothing to do with cats being good pets."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-4-4",
+          "title": "Writing a Paragraph",
+          "type": "lesson",
+          "content": {
+            "explanation": "A paragraph is a group of sentences about one topic. It starts with a topic sentence, has supporting details in the middle, and ends with a closing sentence. The closing sentence wraps up the paragraph — it might restate the main idea in different words. When you write a paragraph, indent the first line (move it a little to the right). Here is a full paragraph: 'Dogs make great pets. They are loyal and loving. They like to play. They can learn tricks. Dogs are truly wonderful companions.'",
+            "examples": [
+              {"problem": "What are the three parts of a paragraph?", "answer": "Topic sentence, supporting details, closing sentence", "explanation": "Every paragraph has these three parts."},
+              {"problem": "What is a closing sentence?", "answer": "The last sentence that wraps up the paragraph", "explanation": "It restates the main idea or gives a final thought."},
+              {"problem": "What does 'indent' mean?", "answer": "Moving the first line a little to the right", "explanation": "Indenting shows where a new paragraph begins."}
+            ],
+            "key_vocabulary": ["paragraph", "topic sentence", "closing sentence", "indent"],
+            "real_world": "Every email, book, and letter you read uses paragraphs to organize ideas."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A paragraph is:", "options": ["One sentence", "A group of sentences about one topic", "A whole book", "Just a title"], "correct": 1, "hint": "A paragraph has several sentences about the same topic."},
+            {"type": "multiple_choice", "question": "What are the three parts of a paragraph?", "options": ["Beginning, middle, end of a story", "Title, author, date", "Topic sentence, details, closing sentence", "Noun, verb, adjective"], "correct": 2, "hint": "These are the building blocks of a paragraph."},
+            {"type": "true_false", "question": "You should indent the first line of a paragraph.", "answer": "true", "hint": "Indenting shows a new paragraph is starting."},
+            {"type": "multiple_choice", "question": "The closing sentence:", "options": ["Introduces a new topic", "Wraps up the paragraph", "Asks a question always", "Is the first sentence"], "correct": 1, "hint": "The closing sentence brings the paragraph to an end."},
+            {"type": "true_false", "question": "A paragraph should only be about one topic.", "answer": "true", "hint": "All sentences in a paragraph connect to one main idea."},
+            {"type": "multiple_choice", "question": "Which is a good closing sentence for a paragraph about why reading is fun?", "options": ["Dogs are cool.", "Reading is truly one of the best things you can do.", "I ate lunch.", "Today is Monday."], "correct": 1, "hint": "The closing should connect to the topic of reading."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A complete sentence needs:", "options": ["Just a period", "A subject and a predicate", "Only a noun", "Only a verb"], "correct": 1, "hint": "Subject + predicate = complete sentence."},
+          {"type": "true_false", "question": "A topic sentence tells what a paragraph is about.", "answer": "true", "hint": "Topic sentence = main idea of the paragraph."},
+          {"type": "multiple_choice", "question": "Supporting details:", "options": ["Change the subject", "Give more info about the topic", "Always come first", "Are always questions"], "correct": 1, "hint": "They support the main idea."},
+          {"type": "multiple_choice", "question": "The closing sentence:", "options": ["Starts a new topic", "Wraps up the paragraph", "Is always a question", "Is the topic sentence"], "correct": 1, "hint": "It comes at the end."},
+          {"type": "true_false", "question": "'Ran to the park.' is a complete sentence.", "answer": "false", "hint": "Who ran? There is no subject."},
+          {"type": "multiple_choice", "question": "What does indent mean?", "options": ["Write bigger", "Move the first line to the right", "Skip a page", "Write in pen"], "correct": 1, "hint": "Indenting shows a new paragraph."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "paragraph_pro"
+      }
+    },
+    {
+      "id": "2-ela-5",
+      "title": "Grammar",
+      "description": "Explore types of nouns, verb tenses, pronouns, and descriptive words.",
+      "lessons": [
+        {
+          "id": "2-ela-5-1",
+          "title": "Types of Nouns",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are different types of nouns. Common nouns are general names for people, places, or things: dog, city, book. Proper nouns are specific names and always start with a capital letter: Spot (a specific dog), New York (a specific city), Charlotte's Web (a specific book). Plural nouns name more than one: dogs, cities, books. Most plurals add -s, but some add -es (box → boxes) or change form (child → children).",
+            "examples": [
+              {"problem": "Is 'cat' a common or proper noun?", "answer": "Common", "explanation": "'Cat' is a general name. A proper noun would be a specific cat's name like 'Whiskers.'"},
+              {"problem": "Is 'Texas' a common or proper noun?", "answer": "Proper", "explanation": "'Texas' is a specific place name. It starts with a capital letter."},
+              {"problem": "What is the plural of 'box'?", "answer": "Boxes", "explanation": "Words ending in X add -es to make the plural."}
+            ],
+            "key_vocabulary": ["common noun", "proper noun", "plural", "singular"],
+            "real_world": "Your name is a proper noun! The words 'boy' and 'girl' are common nouns."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is a proper noun?", "options": ["dog", "park", "Sarah", "book"], "correct": 2, "hint": "Proper nouns are specific names with capital letters."},
+            {"type": "multiple_choice", "question": "Which is a common noun?", "options": ["Monday", "Dr. Smith", "city", "Disney World"], "correct": 2, "hint": "Common nouns are general names without capital letters."},
+            {"type": "fill_in", "question": "The plural of 'cat' is: ___", "answer": "cats", "hint": "Add -s to most nouns."},
+            {"type": "multiple_choice", "question": "What is the plural of 'bus'?", "options": ["Buss", "Buses", "Busse", "Bus"], "correct": 1, "hint": "Words ending in S add -es."},
+            {"type": "true_false", "question": "Proper nouns always start with a capital letter.", "answer": "true", "hint": "Specific names get capitals: Sarah, Texas, Monday."},
+            {"type": "multiple_choice", "question": "What is the plural of 'child'?", "options": ["Childs", "Childes", "Children", "Childen"], "correct": 2, "hint": "This is an irregular plural — it does not just add -s."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-5-2",
+          "title": "Verb Tenses: Past, Present, Future",
+          "type": "lesson",
+          "content": {
+            "explanation": "Verbs change form to show WHEN something happens. Present tense means it happens NOW: 'I walk.' Past tense means it already happened: 'I walked.' Future tense means it will happen LATER: 'I will walk.' Most past tense verbs add -ed (walk → walked, play → played). Some verbs are irregular and change form differently (run → ran, go → went, eat → ate).",
+            "examples": [
+              {"problem": "What is the past tense of 'jump'?", "answer": "Jumped", "explanation": "Add -ed to make most verbs past tense: jump → jumped."},
+              {"problem": "What is the past tense of 'run'?", "answer": "Ran", "explanation": "'Run' is irregular. It does not add -ed. It changes to 'ran.'"},
+              {"problem": "What is the future tense of 'eat'?", "answer": "Will eat", "explanation": "Add 'will' before the verb for future tense."}
+            ],
+            "key_vocabulary": ["past tense", "present tense", "future tense", "irregular verb"],
+            "real_world": "You use verb tenses all the time: 'I ate lunch' (past), 'I eat lunch' (present), 'I will eat lunch' (future)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which sentence is in PAST tense?", "options": ["I play soccer.", "I played soccer.", "I will play soccer.", "I am playing soccer."], "correct": 1, "hint": "Past tense = already happened. Look for -ed."},
+            {"type": "fill_in", "question": "The past tense of 'walk' is: ___", "answer": "walked", "hint": "Add -ed to most regular verbs."},
+            {"type": "multiple_choice", "question": "Which sentence is in FUTURE tense?", "options": ["She ran home.", "She runs home.", "She will run home.", "She is running home."], "correct": 2, "hint": "Future tense uses 'will.'"},
+            {"type": "multiple_choice", "question": "What is the past tense of 'go'?", "options": ["Goed", "Gos", "Went", "Going"], "correct": 2, "hint": "'Go' is an irregular verb."},
+            {"type": "true_false", "question": "All past tense verbs end in -ed.", "answer": "false", "hint": "Some verbs are irregular: run → ran, eat → ate."},
+            {"type": "multiple_choice", "question": "'She eats breakfast every day.' What tense is this?", "options": ["Past", "Present", "Future", "None"], "correct": 1, "hint": "It happens regularly, right now = present tense."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-5-3",
+          "title": "Pronouns",
+          "type": "lesson",
+          "content": {
+            "explanation": "A pronoun is a word that takes the place of a noun. Instead of saying 'Sam went to Sam's house,' you can say 'Sam went to his house.' Common pronouns are: I, me, you, he, she, it, we, they, him, her, us, them, his, her, its, our, their. Using pronouns makes your writing smoother and less repetitive.",
+            "examples": [
+              {"problem": "Replace the noun with a pronoun: 'Maria is kind. Maria helps everyone.'", "answer": "Maria is kind. She helps everyone.", "explanation": "'She' replaces 'Maria' so we don't repeat the name."},
+              {"problem": "What pronoun replaces 'the dog'?", "answer": "It", "explanation": "For animals and things, we often use 'it.'"},
+              {"problem": "What pronoun replaces 'Tom and I'?", "answer": "We", "explanation": "'We' replaces a group that includes yourself."}
+            ],
+            "key_vocabulary": ["pronoun", "he", "she", "it", "they", "we"],
+            "real_world": "You use pronouns constantly: 'She told me that they want to play with us.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a pronoun?", "options": ["A type of verb", "A word that replaces a noun", "A describing word", "A place name"], "correct": 1, "hint": "Pronouns take the place of nouns."},
+            {"type": "multiple_choice", "question": "Which pronoun replaces 'Sarah'?", "options": ["He", "She", "It", "They"], "correct": 1, "hint": "Sarah is a girl, so use the pronoun for a girl."},
+            {"type": "multiple_choice", "question": "Which pronoun replaces 'the boys'?", "options": ["He", "She", "It", "They"], "correct": 3, "hint": "More than one person = they."},
+            {"type": "fill_in", "question": "Tom likes soccer. ___ plays every day. (He / She)", "answer": "He", "hint": "Tom is a boy."},
+            {"type": "true_false", "question": "'It' can replace 'the book.'", "answer": "true", "hint": "For things, we use 'it.'"},
+            {"type": "multiple_choice", "question": "Which pronoun replaces 'my sister and I'?", "options": ["They", "She", "We", "Us"], "correct": 2, "hint": "A group that includes you = we."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-5-4",
+          "title": "Adjectives and Adverbs",
+          "type": "lesson",
+          "content": {
+            "explanation": "You know adjectives describe nouns (the tall tree). Now let's learn about adverbs! Adverbs describe verbs — they tell HOW, WHEN, or WHERE an action happens. Many adverbs end in '-ly.' For example: 'She ran quickly' — 'quickly' is an adverb that tells HOW she ran. 'He will come later' — 'later' tells WHEN. 'The cat sat there' — 'there' tells WHERE.",
+            "examples": [
+              {"problem": "What is the adverb in 'She sings beautifully'?", "answer": "Beautifully", "explanation": "'Beautifully' tells HOW she sings. It describes the verb 'sings.'"},
+              {"problem": "What is the adjective in 'The happy child laughed loudly'?", "answer": "Happy (adjective), loudly (adverb)", "explanation": "'Happy' describes the noun 'child.' 'Loudly' describes the verb 'laughed.'"},
+              {"problem": "What is the difference between adjectives and adverbs?", "answer": "Adjectives describe nouns; adverbs describe verbs", "explanation": "Adjective: big dog. Adverb: ran quickly."}
+            ],
+            "key_vocabulary": ["adverb", "adjective", "-ly", "how", "when", "where"],
+            "real_world": "You use adverbs when you say 'I ran quickly,' 'She spoke softly,' or 'They arrived early.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An adverb describes a:", "options": ["Noun", "Verb", "Pronoun", "Sentence"], "correct": 1, "hint": "Adverbs tell more about actions (verbs)."},
+            {"type": "multiple_choice", "question": "Which is an adverb?", "options": ["Big", "Red", "Slowly", "Happy"], "correct": 2, "hint": "Many adverbs end in -ly."},
+            {"type": "fill_in", "question": "In 'He walked quietly,' the adverb is: ___", "answer": "quietly", "hint": "Which word tells HOW he walked?"},
+            {"type": "multiple_choice", "question": "In 'The small cat purred softly,' which is the adjective?", "options": ["cat", "purred", "softly", "small"], "correct": 3, "hint": "The adjective describes the noun 'cat.'"},
+            {"type": "true_false", "question": "An adjective describes a noun, and an adverb describes a verb.", "answer": "true", "hint": "Adjective → noun. Adverb → verb."},
+            {"type": "multiple_choice", "question": "In 'She always eats breakfast,' what does 'always' tell us?", "options": ["How", "When", "Where", "What"], "correct": 1, "hint": "'Always' tells WHEN (every time)."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is a proper noun?", "options": ["cat", "city", "Texas", "book"], "correct": 2, "hint": "Proper nouns are specific names with capitals."},
+          {"type": "multiple_choice", "question": "What is the past tense of 'play'?", "options": ["Plays", "Played", "Playing", "Will play"], "correct": 1, "hint": "Add -ed for regular past tense."},
+          {"type": "multiple_choice", "question": "Which pronoun replaces 'the girls'?", "options": ["She", "He", "They", "It"], "correct": 2, "hint": "More than one person = they."},
+          {"type": "true_false", "question": "An adverb describes a verb.", "answer": "true", "hint": "Adverbs tell how, when, or where about verbs."},
+          {"type": "fill_in", "question": "The plural of 'dish' is: ___", "answer": "dishes", "hint": "Words ending in SH add -es."},
+          {"type": "multiple_choice", "question": "Which is an adverb?", "options": ["Tall", "Gently", "Cat", "Blue"], "correct": 1, "hint": "Adverbs often end in -ly."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_star"
+      }
+    },
+    {
+      "id": "2-ela-6",
+      "title": "Punctuation and Capitalization",
+      "description": "Master commas, apostrophes, quotation marks, and capitalization rules.",
+      "lessons": [
+        {
+          "id": "2-ela-6-1",
+          "title": "Commas in Lists",
+          "type": "lesson",
+          "content": {
+            "explanation": "Commas are used to separate items in a list. When you write three or more things, put a comma after each item except the last one. For example: 'I like apples, bananas, and grapes.' The commas separate the three fruits. Without commas, lists would be confusing: 'I like apples bananas and grapes' is hard to read. Use commas to make your lists clear!",
+            "examples": [
+              {"problem": "Add commas: 'I have a dog a cat and a fish.'", "answer": "I have a dog, a cat, and a fish.", "explanation": "Commas separate the three pets in the list."},
+              {"problem": "Add commas: 'She bought bread milk and eggs.'", "answer": "She bought bread, milk, and eggs.", "explanation": "Commas separate the three grocery items."},
+              {"problem": "Does 'I like pizza and cake' need commas?", "answer": "No", "explanation": "With only two items, you just use 'and' — no commas needed."}
+            ],
+            "key_vocabulary": ["comma", "list", "separate"],
+            "real_world": "You use commas in lists when writing grocery lists, describing friends, or listing your favorite things."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When do you use commas in a list?", "options": ["Never", "Between two items", "Between three or more items", "At the end of a sentence"], "correct": 2, "hint": "Commas separate items in a list of three or more."},
+            {"type": "multiple_choice", "question": "Which sentence has correct comma use?", "options": ["I like red blue and green.", "I like red, blue, and green.", "I like, red blue and green.", "I, like red blue, and green."], "correct": 1, "hint": "Commas go between each item in the list."},
+            {"type": "fill_in", "question": "I packed a sandwich___ an apple___ and a drink. (What punctuation goes in the blanks?)", "answer": ",", "hint": "Use commas to separate list items."},
+            {"type": "true_false", "question": "'I have a cat and a dog' needs commas.", "answer": "false", "hint": "Only two items do not need commas."},
+            {"type": "multiple_choice", "question": "How many commas does this sentence need? 'We saw lions tigers bears and monkeys.'", "options": ["1", "2", "3", "4"], "correct": 2, "hint": "With four items, you need three commas."},
+            {"type": "true_false", "question": "Commas make lists easier to read.", "answer": "true", "hint": "Commas help separate items clearly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-6-2",
+          "title": "Apostrophes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Apostrophes (') have two important jobs. First, they show ownership (possessives). 'The dog's bone' means the bone belongs to the dog. Add 's to show something belongs to someone. Second, apostrophes are used in contractions — two words squeezed into one. 'Can't' = 'cannot.' 'Don't' = 'do not.' 'I'm' = 'I am.' The apostrophe shows where letters were removed.",
+            "examples": [
+              {"problem": "What does 'Sara's book' mean?", "answer": "The book that belongs to Sara", "explanation": "The apostrophe S ('s) shows the book belongs to Sara."},
+              {"problem": "What does 'don't' mean?", "answer": "Do not", "explanation": "'Don't' is a contraction. The apostrophe replaces the O in 'not.'"},
+              {"problem": "What does 'it's' mean?", "answer": "It is", "explanation": "'It's' is a contraction of 'it is.' The apostrophe replaces the I."}
+            ],
+            "key_vocabulary": ["apostrophe", "possessive", "contraction", "ownership"],
+            "real_world": "You use apostrophes when you say 'That's my friend's bike' or 'I can't wait!'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the apostrophe show in 'cat's toy'?", "options": ["The cat is a toy", "The toy belongs to the cat", "There are many cats", "The cat is running"], "correct": 1, "hint": "Apostrophe S shows ownership."},
+            {"type": "fill_in", "question": "The contraction for 'do not' is: ___", "answer": "don't", "hint": "Squeeze 'do' and 'not' together with an apostrophe."},
+            {"type": "multiple_choice", "question": "What does 'can't' mean?", "options": ["Can it", "Cannot", "Can do", "Can too"], "correct": 1, "hint": "Can't = can + not."},
+            {"type": "multiple_choice", "question": "Which shows ownership?", "options": ["don't", "she's running", "Tom's hat", "can't"], "correct": 2, "hint": "Whose hat? Tom's = belonging to Tom."},
+            {"type": "true_false", "question": "A contraction is two words squeezed into one.", "answer": "true", "hint": "The apostrophe shows where letters were removed."},
+            {"type": "fill_in", "question": "The contraction for 'I am' is: ___", "answer": "I'm", "hint": "Remove the A and add an apostrophe."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-6-3",
+          "title": "Quotation Marks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Quotation marks (\") go around the exact words someone says. They show that a character is speaking. For example: Mom said, \"Time for dinner!\" The quotation marks go around \"Time for dinner!\" because those are Mom's exact words. The first quotation mark goes before the first word, and the second goes after the punctuation at the end. A comma usually comes before the quotation marks.",
+            "examples": [
+              {"problem": "Add quotation marks: She said, I love pizza.", "answer": "She said, \"I love pizza.\"", "explanation": "Put quotation marks around what she actually said."},
+              {"problem": "Add quotation marks: He asked, Where is my hat?", "answer": "He asked, \"Where is my hat?\"", "explanation": "The question mark goes inside the quotation marks."},
+              {"problem": "Who is speaking in: Tom said, \"Let's go\"?", "answer": "Tom", "explanation": "The words in quotation marks are what Tom said."}
+            ],
+            "key_vocabulary": ["quotation marks", "dialogue", "exact words"],
+            "real_world": "Books use quotation marks to show when characters are talking."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Quotation marks go around:", "options": ["Every sentence", "The exact words someone says", "The author's name", "The title only"], "correct": 1, "hint": "Quotation marks show someone is speaking."},
+            {"type": "multiple_choice", "question": "Which sentence uses quotation marks correctly?", "options": ["\"She\" said hello.", "She said, \"Hello.\"", "She \"said\" hello.", "She said \"hello."], "correct": 1, "hint": "Quotation marks go around the spoken words."},
+            {"type": "true_false", "question": "Punctuation at the end of a quote goes inside the quotation marks.", "answer": "true", "hint": "The period or question mark goes before the closing quotation mark."},
+            {"type": "multiple_choice", "question": "In 'Dad said, \"Come here,\"' who is speaking?", "options": ["Mom", "Dad", "The narrator", "Nobody"], "correct": 1, "hint": "Look at who said the words."},
+            {"type": "true_false", "question": "A comma usually comes before quotation marks.", "answer": "true", "hint": "She said, \"...\" — the comma comes before the quote."},
+            {"type": "multiple_choice", "question": "Which needs quotation marks?", "options": ["The dog ran fast.", "She is tall.", "Mom said I love you.", "The sky is blue."], "correct": 2, "hint": "Which sentence has someone speaking?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "2-ela-6-4",
+          "title": "Capitalization Rules",
+          "type": "lesson",
+          "content": {
+            "explanation": "Let's review and expand our capitalization rules. Capitalize: (1) the first word of a sentence, (2) the word 'I,' (3) names of people and pets (Sarah, Buddy), (4) names of places (Texas, Main Street), (5) days of the week (Monday), (6) months (January), (7) holidays (Thanksgiving), and (8) titles of books and movies (The Cat in the Hat). These rules help readers know what is special and where sentences begin.",
+            "examples": [
+              {"problem": "Which words need capitals? 'we went to new york on monday.'", "answer": "We went to New York on Monday.", "explanation": "'We' starts the sentence. 'New York' is a place. 'Monday' is a day."},
+              {"problem": "Which words need capitals? 'my birthday is in june.'", "answer": "My birthday is in June.", "explanation": "'My' starts the sentence. 'June' is a month."},
+              {"problem": "Which words need capitals? 'i read the book green eggs and ham.'", "answer": "I read the book Green Eggs and Ham.", "explanation": "'I' is always capital. Book title words get capitals (except small words like 'and')."}
+            ],
+            "key_vocabulary": ["capitalize", "proper noun", "title", "days", "months"],
+            "real_world": "Capitalization rules are used everywhere: in letters, emails, reports, and signs."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which should be capitalized?", "options": ["dog", "happy", "tuesday", "big"], "correct": 2, "hint": "Days of the week are capitalized."},
+            {"type": "multiple_choice", "question": "Which sentence has correct capitalization?", "options": ["i went to the Park.", "I went to the park.", "i Went to the Park.", "I Went To The Park."], "correct": 1, "hint": "Only the first word and proper nouns need capitals."},
+            {"type": "true_false", "question": "Names of months should be capitalized.", "answer": "true", "hint": "January, February, March... all start with capitals."},
+            {"type": "multiple_choice", "question": "Which word in this sentence needs a capital? 'my cat fluffy is cute.'", "options": ["cat", "fluffy", "is", "cute"], "correct": 1, "hint": "Fluffy is a name (proper noun)."},
+            {"type": "fill_in", "question": "The holiday in November is called ___ (hint: we eat turkey).", "answer": "Thanksgiving", "hint": "This holiday name starts with a capital T."},
+            {"type": "true_false", "question": "Book titles should have capitalized words.", "answer": "true", "hint": "The important words in titles are capitalized."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Where do commas go in a list?", "options": ["After every word", "Between items in a list of three or more", "At the start of a sentence", "Nowhere"], "correct": 1, "hint": "Commas separate list items."},
+          {"type": "fill_in", "question": "The contraction for 'is not' is: ___", "answer": "isn't", "hint": "Squeeze the two words together."},
+          {"type": "multiple_choice", "question": "In 'Sam's bike,' the apostrophe shows:", "options": ["Sam is a bike", "The bike belongs to Sam", "There are many Sams", "Sam is riding"], "correct": 1, "hint": "Apostrophe S = ownership."},
+          {"type": "true_false", "question": "Quotation marks go around the exact words someone says.", "answer": "true", "hint": "Quotation marks show dialogue."},
+          {"type": "multiple_choice", "question": "Which word should be capitalized? 'We celebrate thanksgiving in november.'", "options": ["celebrate", "thanksgiving and november", "in", "we"], "correct": 1, "hint": "Holiday names and months need capitals."},
+          {"type": "multiple_choice", "question": "Which has correct comma use?", "options": ["I like pizza pasta, and salad.", "I like pizza, pasta, and salad.", "I, like pizza pasta and salad.", "I like, pizza, pasta and, salad."], "correct": 1, "hint": "Commas go between each item in the list."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "punctuation_master"
+      }
+    }
+  ]
+}

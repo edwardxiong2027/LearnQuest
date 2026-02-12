@@ -1,0 +1,766 @@
+{
+  "grade": 7,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "7-ela-1",
+      "title": "Advanced Literary Analysis: Tone, Mood, and Irony",
+      "description": "Deepen your understanding of how authors craft emotional experiences through tone, mood, and the use of irony.",
+      "lessons": [
+        {
+          "id": "7-ela-1-1",
+          "title": "Understanding Tone",
+          "type": "lesson",
+          "content": {
+            "explanation": "Tone is the author's attitude toward the subject, the characters, or the reader. Just as a person's tone of voice reveals how they feel when they speak, an author's word choice, sentence structure, and details reveal their attitude in writing. Tone can be formal, informal, sarcastic, humorous, serious, optimistic, pessimistic, critical, admiring, and much more. To identify tone, pay close attention to diction (word choice) — the specific words an author selects carry emotional weight. For example, describing a house as 'cozy' conveys warmth, while calling it 'cramped' conveys discomfort, even though both describe a small space. Tone can shift within a text as the author's attitude changes toward different aspects of the subject.",
+            "examples": [
+              {"problem": "Identify the tone: 'The politician's so-called plan was nothing more than recycled promises wrapped in a shiny new bow.'", "answer": "Sarcastic and critical", "explanation": "The phrase 'so-called' and the metaphor of 'recycled promises wrapped in a shiny new bow' reveal the author's skepticism and disdain."},
+              {"problem": "Identify the tone: 'The little girl clutched her teddy bear tightly, her eyes wide with wonder as snow fell for the very first time.'", "answer": "Warm and tender", "explanation": "Details like 'clutched her teddy bear,' 'eyes wide with wonder,' and 'very first time' convey affection and gentleness."},
+              {"problem": "How does word choice (diction) affect tone?", "answer": "Different words for the same thing carry different emotional connotations, shaping the reader's perception of the author's attitude.", "explanation": "'The soldier marched bravely' (admiring tone) versus 'The soldier trudged wearily' (sympathetic tone) — the verbs change everything."}
+            ],
+            "key_vocabulary": ["tone", "diction", "connotation", "attitude", "word choice", "formal", "informal"],
+            "real_world": "You adjust your tone constantly in real life — how you text a friend (casual, funny) is different from how you email a teacher (respectful, formal). Writers make these same choices deliberately."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Tone in literature refers to:", "options": ["The volume of the narrator's voice", "The author's attitude toward the subject", "The topic of the story", "The setting of the story"], "correct": 1, "hint": "Tone is about attitude, not content."},
+            {"type": "multiple_choice", "question": "Which word best describes the tone? 'What a delightful surprise to find my car had been towed — again.'", "options": ["Joyful", "Sarcastic", "Formal", "Fearful"], "correct": 1, "hint": "The situation is negative, but the language pretends to be positive. That contrast signals sarcasm."},
+            {"type": "fill_in", "question": "An author's specific word choices that reveal tone are called ___.", "answer": "diction", "hint": "This literary term refers to the selection and use of words."},
+            {"type": "true_false", "question": "The tone of a text can change from one section to another.", "answer": true, "hint": "An author might start with humor and shift to seriousness as events unfold."},
+            {"type": "multiple_choice", "question": "Describing a meal as 'a feast fit for royalty' versus 'an excessive display of waste' demonstrates how ___ affects tone.", "options": ["Grammar", "Sentence length", "Diction", "Punctuation"], "correct": 2, "hint": "The word choices (feast/royalty versus excessive/waste) create completely different attitudes."},
+            {"type": "multiple_choice", "question": "Which passage has a formal tone?", "options": ["'Hey, check this out — it's wild!'", "'The data suggests a significant correlation between the variables.'", "'LOL, that was hilarious.'", "'Dude, you have to see this.'"], "correct": 1, "hint": "Formal tone uses academic vocabulary and complete, structured sentences."},
+            {"type": "true_false", "question": "Connotation refers to the emotional associations a word carries beyond its dictionary definition.", "answer": true, "hint": "Think of 'home' versus 'house' — same basic meaning, but 'home' feels warmer."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-1-2",
+          "title": "Understanding Mood",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mood is the emotional atmosphere of a text — the feeling it creates in the reader. While tone is the author's attitude, mood is the reader's emotional response. Authors create mood through setting descriptions, imagery, word choice, pacing, and sound devices. A dark, stormy setting with words like 'shadows,' 'creaking,' and 'silence' creates an eerie, suspenseful mood. A sun-drenched meadow with words like 'golden,' 'laughter,' and 'blossoming' creates a cheerful, peaceful mood. Mood can be described with emotion words: tense, joyful, melancholy, romantic, ominous, whimsical, nostalgic, or gloomy. Skilled authors carefully control mood to immerse the reader in the world of the story and make them feel what the characters feel.",
+            "examples": [
+              {"problem": "What mood does this create? 'The fog crept through the empty streets. A dog howled in the distance. Every window was dark.'", "answer": "Eerie, ominous, or suspenseful", "explanation": "The fog, empty streets, howling dog, and dark windows all combine to create a sense of unease and foreboding."},
+              {"problem": "What mood does this create? 'Sunlight poured through the kitchen window as the smell of fresh pancakes filled the room. Laughter echoed from upstairs.'", "answer": "Warm, cheerful, and cozy", "explanation": "Sunlight, fresh pancakes, and laughter are all associated with comfort and happiness."},
+              {"problem": "How is mood different from tone?", "answer": "Tone is the author's attitude; mood is the feeling the text creates in the reader.", "explanation": "An author can write with a detached, clinical tone while still creating a horrifying mood through the details they describe."}
+            ],
+            "key_vocabulary": ["mood", "atmosphere", "imagery", "setting", "emotional response", "ominous", "nostalgic"],
+            "real_world": "Film directors create mood through music, lighting, and camera angles. A horror movie uses dark lighting and eerie music to make you feel scared before anything even happens."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Mood in literature refers to:", "options": ["The author's attitude", "The emotional atmosphere felt by the reader", "The main character's personality", "The climax of the story"], "correct": 1, "hint": "Mood is about how the text makes YOU feel."},
+            {"type": "multiple_choice", "question": "Which detail would create an ominous mood?", "options": ["Butterflies dancing in a meadow", "A child opening birthday presents", "A creaking door in an abandoned house", "Friends laughing at a picnic"], "correct": 2, "hint": "Ominous means something bad or threatening is about to happen."},
+            {"type": "true_false", "question": "Tone and mood are the same thing.", "answer": false, "hint": "Tone = author's attitude. Mood = reader's feeling."},
+            {"type": "fill_in", "question": "A feeling of longing for the past is described as a ___ mood.", "answer": "nostalgic", "hint": "This word describes missing or fondly remembering something from the past."},
+            {"type": "multiple_choice", "question": "Which literary element is MOST important in creating mood?", "options": ["The title", "Imagery and setting descriptions", "The character's name", "The page number"], "correct": 1, "hint": "Vivid descriptions of what characters see, hear, smell, and feel create emotional atmosphere."},
+            {"type": "multiple_choice", "question": "'The flowers wilted in the vase. Dust covered the photographs on the mantle. The clock on the wall had stopped.' What mood is created?", "options": ["Joyful", "Melancholy and abandoned", "Exciting", "Humorous"], "correct": 1, "hint": "Wilted flowers, dust, and a stopped clock all suggest neglect and sadness."},
+            {"type": "true_false", "question": "An author can create mood through word choice alone, without describing the setting.", "answer": true, "hint": "Even in dialogue or narration, the specific words chosen can evoke emotions in the reader."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-1-3",
+          "title": "Verbal, Situational, and Dramatic Irony",
+          "type": "lesson",
+          "content": {
+            "explanation": "Irony occurs when there is a contrast between what is expected and what actually happens (or what is said and what is meant). There are three main types of irony in literature. Verbal irony is when a speaker says the opposite of what they mean — similar to sarcasm, but more nuanced. If it is pouring rain and someone says 'What lovely weather,' that is verbal irony. Situational irony is when the outcome of a situation is the opposite of what was expected. A fire station burning down is situational irony. Dramatic irony is when the audience or reader knows something that a character does not, creating tension or humor. In a horror movie, when the audience sees the villain hiding in the closet but the character does not, that is dramatic irony. Authors use irony to add depth, humor, surprise, and complexity to their writing.",
+            "examples": [
+              {"problem": "A lifeguard drowns on vacation. What type of irony is this?", "answer": "Situational irony", "explanation": "A lifeguard, trained to prevent drowning, drowning themselves is the opposite of what we would expect."},
+              {"problem": "In Romeo and Juliet, Romeo believes Juliet is dead (but the audience knows she is only sleeping). What type of irony is this?", "answer": "Dramatic irony", "explanation": "The audience has information that Romeo does not, creating painful tension."},
+              {"problem": "After failing a test, a student says, 'Well, that went perfectly.' What type of irony is this?", "answer": "Verbal irony", "explanation": "The student says the opposite of what they mean — the test clearly did not go perfectly."}
+            ],
+            "key_vocabulary": ["verbal irony", "situational irony", "dramatic irony", "sarcasm", "contrast", "expectation"],
+            "real_world": "Irony appears everywhere: in sitcoms (characters misunderstand situations the audience understands), in news headlines ('Bank Robber Uses Getaway Car with GPS Tracker'), and in everyday conversation ('Oh great, another flat tire')."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When a speaker says the opposite of what they mean, it is:", "options": ["Dramatic irony", "Situational irony", "Verbal irony", "A metaphor"], "correct": 2, "hint": "This type involves the words (verbal) spoken not matching the true meaning."},
+            {"type": "multiple_choice", "question": "A traffic cop gets a ticket for illegal parking. This is an example of:", "options": ["Verbal irony", "Dramatic irony", "Situational irony", "Symbolism"], "correct": 2, "hint": "The outcome is the opposite of what you'd expect from someone who enforces traffic laws."},
+            {"type": "true_false", "question": "In dramatic irony, the audience knows something that a character does not.", "answer": true, "hint": "This creates tension because we know what the character is about to discover."},
+            {"type": "fill_in", "question": "When the outcome of a situation is the opposite of what was expected, it is called ___ irony.", "answer": "situational", "hint": "This type is about the situation or outcome, not words or audience knowledge."},
+            {"type": "multiple_choice", "question": "In a movie, the viewer sees a surprise party being set up, but the birthday girl has no idea. This is:", "options": ["Verbal irony", "Situational irony", "Dramatic irony", "A simile"], "correct": 2, "hint": "The audience/viewer knows something the character does not."},
+            {"type": "multiple_choice", "question": "Sarcasm is most closely related to which type of irony?", "options": ["Situational", "Dramatic", "Verbal", "Cosmic"], "correct": 2, "hint": "Sarcasm involves saying something you do not really mean — it is a form of verbal irony."},
+            {"type": "true_false", "question": "Irony always involves humor.", "answer": false, "hint": "Dramatic irony in tragedies is often painful, not funny — like Romeo's misunderstanding."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-1-4",
+          "title": "Analyzing Author's Craft",
+          "type": "lesson",
+          "content": {
+            "explanation": "Author's craft refers to the deliberate choices an author makes to create a specific effect on the reader. These choices include diction (word choice), syntax (sentence structure), figurative language, point of view, tone, mood, pacing, and literary devices. Analyzing author's craft means examining not just what a text says, but how it says it and why the author made those specific choices. When you analyze craft, ask: Why did the author choose this particular word? Why is this sentence short while the next one is long? Why did the author use this metaphor? What effect does this choice have on the reader? Moving from simply understanding a text to analyzing how and why it was crafted is the key step to becoming a sophisticated reader and a stronger writer yourself.",
+            "examples": [
+              {"problem": "An author writes: 'The old house breathed.' Analyze this craft choice.", "answer": "The author uses personification to make the house feel alive and perhaps haunting. This creates an eerie mood and suggests the house has a presence of its own.", "explanation": "By giving the house a human action (breathing), the author transforms it from a simple setting into almost a character."},
+              {"problem": "Why might an author use a series of very short sentences during an action scene?", "answer": "Short sentences quicken the pace, create urgency, and mimic the rapid heartbeat of an adrenaline-fueled moment.", "explanation": "This is a syntax choice — the sentence structure physically mirrors the experience of the scene."},
+              {"problem": "An author describes a battlefield as 'a garden of steel flowers.' Analyze this.", "answer": "The metaphor contrasts the beauty of a garden with the horror of weapons, creating a disturbing and thought-provoking image that highlights the absurdity of war.", "explanation": "The juxtaposition of something beautiful (garden, flowers) with something deadly (steel, battlefield) forces the reader to confront the contrast."}
+            ],
+            "key_vocabulary": ["author's craft", "syntax", "diction", "literary devices", "figurative language", "juxtaposition", "effect"],
+            "real_world": "Analyzing craft helps you in all areas — understanding how advertisements manipulate you, how speeches inspire you, and how your favorite books make you feel. It also improves your own writing."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Author's craft refers to:", "options": ["The author's hobbies", "The deliberate choices an author makes to create a specific effect", "The genre of a book", "The number of pages"], "correct": 1, "hint": "Craft = the skill and choices that go into creating something."},
+            {"type": "fill_in", "question": "The structure of sentences — including their length, complexity, and arrangement — is called ___.", "answer": "syntax", "hint": "This term comes from Greek and relates to how words are organized in sentences."},
+            {"type": "multiple_choice", "question": "When analyzing author's craft, you should ask:", "options": ["How many characters are in the story?", "Why did the author make this particular choice, and what effect does it have?", "When was the author born?", "How long did it take to write?"], "correct": 1, "hint": "Craft analysis focuses on the 'how' and 'why' behind writing choices."},
+            {"type": "true_false", "question": "Short sentences always mean the author is a bad writer.", "answer": false, "hint": "Short sentences are a deliberate craft choice that creates urgency and emphasis."},
+            {"type": "multiple_choice", "question": "Placing two contrasting ideas side by side for effect is called:", "options": ["Alliteration", "Juxtaposition", "Onomatopoeia", "Hyperbole"], "correct": 1, "hint": "'Juxta' means 'next to' and 'position' means placement."},
+            {"type": "true_false", "question": "Analyzing author's craft can help improve your own writing.", "answer": true, "hint": "By understanding what makes other authors' writing effective, you can apply those techniques yourself."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-1-5",
+          "title": "Analyzing How Setting Shapes Meaning",
+          "type": "lesson",
+          "content": {
+            "explanation": "Setting is more than just where and when a story takes place — it can shape characters, drive conflict, reflect themes, and create mood. Authors choose settings deliberately to enhance the meaning of their stories. A story about isolation set in the Arctic tundra uses the harsh, empty landscape to mirror the character's emotional state. A coming-of-age story set in a small town might use the town's boundaries to represent the limits the protagonist is trying to break free from. The historical period of a setting also matters — a story set during the Civil War carries different weight and raises different themes than one set in modern-day suburbia. When analyzing setting, look beyond the physical description and consider what the setting represents and how it influences everything else in the story.",
+            "examples": [
+              {"problem": "A story about a character's recovery from grief is set during spring, when flowers are blooming and days are growing longer. How does the setting enhance the theme?", "answer": "Spring symbolizes rebirth and new beginnings, mirroring the character's emotional healing and recovery.", "explanation": "The seasonal setting reinforces the theme that after a period of darkness (winter/grief), new growth is possible."},
+              {"problem": "Why might an author set a dystopian novel in a ruined, ash-covered city?", "answer": "The destroyed setting reflects the breakdown of society and creates a bleak, hopeless mood that reinforces the dystopian themes.", "explanation": "The physical environment mirrors the social and moral environment of the story."},
+              {"problem": "How can setting create conflict?", "answer": "A hostile environment (desert, ocean, war zone) can serve as the antagonist, or a restrictive social setting can create interpersonal conflict.", "explanation": "In survival stories, nature itself is the opponent. In social novels, the setting's culture and rules create barriers for characters."}
+            ],
+            "key_vocabulary": ["setting", "atmosphere", "symbolic setting", "historical context", "environment", "conflict"],
+            "real_world": "Setting matters in real life too — the environment you are in affects your mood, behavior, and opportunities. A school's physical environment influences how students learn."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Setting in literature includes:", "options": ["Only the location", "Only the time period", "The time, place, and social environment of a story", "Only the weather"], "correct": 2, "hint": "Setting is comprehensive — it covers where, when, and the social conditions."},
+            {"type": "true_false", "question": "Setting can be used as a symbol to represent larger ideas.", "answer": true, "hint": "A prison setting might symbolize feeling trapped; a garden might symbolize growth."},
+            {"type": "fill_in", "question": "When the physical setting reflects a character's emotional state, it is called ___ setting (or pathetic fallacy).", "answer": "symbolic", "hint": "The setting stands for something beyond its literal meaning."},
+            {"type": "multiple_choice", "question": "A survival story set in the frozen Arctic uses the setting to:", "options": ["Make the story boring", "Create conflict between the character and the harsh environment", "Show that the character likes cold weather", "Add humor"], "correct": 1, "hint": "In survival stories, the environment itself becomes the antagonist."},
+            {"type": "multiple_choice", "question": "How does a historical setting affect a story?", "options": ["It does not affect the story at all", "It determines the social rules, technology, and challenges characters face", "It only matters if the author mentions dates", "It makes the story automatically boring"], "correct": 1, "hint": "Time period shapes everything from what characters can do to what conflicts they face."},
+            {"type": "true_false", "question": "Authors always choose settings randomly without considering their effect on the story.", "answer": false, "hint": "Setting is a deliberate craft choice that enhances theme, mood, and conflict."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Tone refers to:", "options": ["The reader's emotional response", "The author's attitude toward the subject", "The setting of the story", "The main character's feelings"], "correct": 1},
+          {"type": "true_false", "question": "Mood is the emotional atmosphere felt by the reader.", "answer": true},
+          {"type": "multiple_choice", "question": "A teacher who says 'Oh wonderful, another excuse for late homework' is using:", "options": ["Dramatic irony", "Situational irony", "Verbal irony", "A metaphor"], "correct": 2},
+          {"type": "fill_in", "question": "When the audience knows something a character does not, it is called ___ irony.", "answer": "dramatic"},
+          {"type": "multiple_choice", "question": "Author's craft includes:", "options": ["Only the plot of the story", "Diction, syntax, figurative language, and other deliberate choices", "The author's biography", "The book's cover design"], "correct": 1},
+          {"type": "true_false", "question": "Setting can function as a symbol in a story.", "answer": true},
+          {"type": "multiple_choice", "question": "A fire station burning down is an example of:", "options": ["Verbal irony", "Dramatic irony", "Situational irony", "Personification"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which element most strongly creates mood?", "options": ["The title", "Imagery and descriptive language", "The font", "The author's name"], "correct": 1},
+          {"type": "true_false", "question": "Juxtaposition means placing two contrasting ideas side by side.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "literary_detective"
+      }
+    },
+    {
+      "id": "7-ela-2",
+      "title": "Argumentative Writing",
+      "description": "Learn to construct well-reasoned arguments with clear claims, strong evidence, counterarguments, and persuasive conclusions.",
+      "lessons": [
+        {
+          "id": "7-ela-2-1",
+          "title": "Claims and Thesis Statements",
+          "type": "lesson",
+          "content": {
+            "explanation": "An argumentative essay takes a clear position on a debatable issue and defends that position with evidence and reasoning. The foundation of any argument is the claim — a statement that asserts your position. Your thesis statement is your central claim, and it should be specific, debatable, and defensible. A strong thesis is not a fact (no one can argue against it) or a personal preference (it cannot be proven). 'Pizza is food' is a fact. 'Pizza is the best food' is a preference. 'Schools should offer healthier lunch options because improved nutrition leads to better academic performance' is a strong, arguable thesis with a clear reason. Your thesis should preview the main reasons that support your argument.",
+            "examples": [
+              {"problem": "Is this a strong thesis? 'Dogs are animals.'", "answer": "No — it is a fact, not an arguable claim.", "explanation": "No one would disagree that dogs are animals, so there is nothing to argue."},
+              {"problem": "Improve this thesis: 'Homework is bad.'", "answer": "Excessive homework is counterproductive because it increases student stress, reduces family time, and does not significantly improve academic outcomes.", "explanation": "The improved thesis is specific (excessive homework), takes a clear position (counterproductive), and previews three supporting reasons."},
+              {"problem": "What makes a claim 'debatable'?", "answer": "A debatable claim is one that reasonable people could disagree about, requiring evidence to support.", "explanation": "If everyone would agree, there is no argument to make. If no evidence can support it, it is just an opinion."}
+            ],
+            "key_vocabulary": ["claim", "thesis statement", "arguable", "debatable", "position", "defensible"],
+            "real_world": "Every time you try to convince your parents to extend your curfew or argue for a different family vacation destination, you are making claims and supporting them with reasons."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A strong thesis statement should be:", "options": ["A well-known fact", "A personal preference without reasons", "Specific, debatable, and supported by reasons", "A question"], "correct": 2, "hint": "The thesis should be something you can argue and prove with evidence."},
+            {"type": "true_false", "question": "'Water is wet' is a strong thesis for an argumentative essay.", "answer": false, "hint": "This is a fact — there is nothing to argue about."},
+            {"type": "multiple_choice", "question": "Which is the strongest thesis?", "options": ["Social media is interesting.", "I like social media.", "Social media harms teenagers' mental health by promoting unrealistic comparisons and cyberbullying.", "Social media exists."], "correct": 2, "hint": "Look for a specific, debatable claim with clear reasons."},
+            {"type": "fill_in", "question": "The central argument of an essay is called the ___ statement.", "answer": "thesis", "hint": "This statement appears in the introduction and tells the reader your position."},
+            {"type": "multiple_choice", "question": "A claim is debatable when:", "options": ["Everyone agrees with it", "Reasonable people could disagree about it", "It is a question", "It has no evidence"], "correct": 1, "hint": "If there is no disagreement possible, there is no argument."},
+            {"type": "true_false", "question": "A thesis statement should preview the main reasons supporting the argument.", "answer": true, "hint": "This gives the reader a roadmap of what to expect in the essay."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-2-2",
+          "title": "Supporting Claims with Evidence",
+          "type": "lesson",
+          "content": {
+            "explanation": "A claim without evidence is just an opinion. In argumentative writing, every claim must be supported by relevant, credible evidence. There are several types of evidence: factual evidence (verified facts and data), statistical evidence (numbers and percentages from research), expert testimony (quotes and opinions from authorities in the field), examples (real-world instances that illustrate your point), and logical reasoning (cause-and-effect connections and deductions). After presenting evidence, you must include reasoning — an explanation of how and why the evidence supports your claim. This is sometimes called the 'warrant' or the 'bridge' because it connects your evidence to your claim. A common formula is: Claim + Evidence + Reasoning (C.E.R.) for each body paragraph.",
+            "examples": [
+              {"problem": "Claim: Schools should start later. Provide evidence and reasoning.", "answer": "Evidence: A study by the American Academy of Pediatrics found that schools starting after 8:30 AM saw a 15% increase in student attendance and a rise in test scores. Reasoning: This data demonstrates that later start times align with adolescent sleep patterns, resulting in more alert, engaged students.", "explanation": "The evidence is specific and from a credible source, and the reasoning explains why it supports the claim."},
+              {"problem": "Which is stronger evidence for arguing that recess improves learning? A) 'I think recess is fun.' B) 'A 2019 study in Pediatrics journal found that students with regular recess breaks showed 23% improved focus in class.'", "answer": "B is much stronger.", "explanation": "Option B provides a specific study, journal, year, and percentage — all credible and verifiable. Option A is a personal opinion."},
+              {"problem": "What is the C.E.R. framework?", "answer": "Claim (your argument), Evidence (the support), Reasoning (how the evidence proves the claim).", "explanation": "This framework ensures every paragraph in your argument is complete and convincing."}
+            ],
+            "key_vocabulary": ["evidence", "reasoning", "warrant", "credible", "relevant", "C.E.R.", "expert testimony"],
+            "real_world": "Lawyers in court must present evidence for every claim they make. Scientists support their hypotheses with experimental data. In both cases, claims without evidence are dismissed."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does C.E.R. stand for?", "options": ["Cause, Effect, Result", "Claim, Evidence, Reasoning", "Content, Explanation, Review", "Character, Event, Resolution"], "correct": 1, "hint": "This framework structures each paragraph of an argument."},
+            {"type": "true_false", "question": "A personal opinion without supporting evidence is strong enough for an argumentative essay.", "answer": false, "hint": "Arguments require credible, relevant evidence — not just opinions."},
+            {"type": "multiple_choice", "question": "Which type of evidence comes from an authority in the field?", "options": ["Statistical evidence", "Anecdotal evidence", "Expert testimony", "Personal preference"], "correct": 2, "hint": "This evidence carries weight because of the person's credentials and knowledge."},
+            {"type": "fill_in", "question": "The explanation of how evidence connects to and supports a claim is called ___.", "answer": "reasoning", "hint": "This is the bridge between your evidence and your claim."},
+            {"type": "multiple_choice", "question": "Which evidence best supports the claim 'Reading improves vocabulary'?", "options": ["My friend reads a lot and knows big words.", "A University of Michigan study found that students who read daily knew 50% more words than non-readers.", "Books have lots of words in them.", "Vocabulary is important."], "correct": 1, "hint": "Look for specific, credible, and quantifiable evidence."},
+            {"type": "true_false", "question": "Evidence should always be relevant to the specific claim being made.", "answer": true, "hint": "Irrelevant evidence does not strengthen an argument, even if it is factually correct."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-2-3",
+          "title": "Counterarguments and Rebuttals",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong argumentative essay does not ignore the other side — it acknowledges counterarguments and responds to them with rebuttals. A counterargument is an opposing viewpoint that someone might raise against your claim. A rebuttal is your response to that counterargument, explaining why it is wrong, incomplete, or less valid than your position. Addressing counterarguments actually strengthens your essay because it shows you have considered multiple perspectives and your argument can withstand challenges. Common phrases for introducing counterarguments include 'Some may argue that...' 'Critics might claim...' and 'While it is true that...' For rebuttals, use phrases like 'However, this overlooks...' 'While this may seem valid, the evidence shows...' and 'This argument fails to consider...'",
+            "examples": [
+              {"problem": "Claim: School uniforms should be required. Write a counterargument and rebuttal.", "answer": "Counterargument: Some argue that uniforms suppress individual expression. Rebuttal: However, students can express individuality through accessories, hairstyles, and extracurricular activities. Meanwhile, uniforms reduce bullying related to clothing brands and economic differences.", "explanation": "The counterargument is fairly stated, and the rebuttal acknowledges it but provides a stronger opposing point."},
+              {"problem": "Why does addressing counterarguments strengthen your essay?", "answer": "It shows you have considered all sides and your argument is strong enough to withstand challenges.", "explanation": "An argument that only presents one side seems biased and unaware. Addressing the other side demonstrates critical thinking."},
+              {"problem": "What is a 'straw man' fallacy?", "answer": "When you misrepresent the other side's argument to make it easier to defeat, rather than addressing their actual strongest point.", "explanation": "A straw man weakens your credibility because it shows you are not engaging honestly with the opposing view."}
+            ],
+            "key_vocabulary": ["counterargument", "rebuttal", "concession", "refutation", "opposing viewpoint", "straw man"],
+            "real_world": "In debates, each side must respond to the other's arguments. In everyday life, anticipating objections helps you convince your parents, friends, or teachers."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A counterargument is:", "options": ["Evidence that supports your claim", "An opposing viewpoint that challenges your position", "A summary of your essay", "A type of hook"], "correct": 1, "hint": "'Counter' means against — this is the argument against your position."},
+            {"type": "fill_in", "question": "Your response to a counterargument that explains why it is wrong or less valid is called a ___.", "answer": "rebuttal", "hint": "This word means to argue back or refute."},
+            {"type": "true_false", "question": "Including counterarguments in your essay makes your argument weaker.", "answer": false, "hint": "Addressing counterarguments shows strength and critical thinking."},
+            {"type": "multiple_choice", "question": "Which phrase introduces a counterargument?", "options": ["In conclusion...", "For example...", "Some may argue that...", "Therefore..."], "correct": 2, "hint": "This phrase acknowledges what the other side might say."},
+            {"type": "multiple_choice", "question": "Misrepresenting the other side's argument to make it easier to defeat is called:", "options": ["A rebuttal", "A straw man fallacy", "A thesis statement", "A concession"], "correct": 1, "hint": "Think of knocking down something easy (a straw figure) instead of the real opponent."},
+            {"type": "true_false", "question": "A concession acknowledges that the opposing side has a valid point, before explaining why your argument is still stronger.", "answer": true, "hint": "Conceding a point shows fairness and strengthens your overall credibility."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-2-4",
+          "title": "Logical Fallacies to Avoid",
+          "type": "lesson",
+          "content": {
+            "explanation": "A logical fallacy is an error in reasoning that weakens an argument. Even if your evidence is strong, a fallacy in your logic can undermine your entire essay. Some common fallacies include: ad hominem (attacking the person instead of their argument), bandwagon (everyone is doing it, so it must be right), false dilemma (presenting only two options when more exist), slippery slope (claiming one small action will lead to extreme consequences without evidence), hasty generalization (drawing a broad conclusion from limited evidence), and appeal to authority (using an irrelevant authority figure to support your claim). Learning to identify fallacies in others' arguments and avoid them in your own makes you a stronger critical thinker and more persuasive writer.",
+            "examples": [
+              {"problem": "Identify the fallacy: 'Everyone is buying this product, so it must be the best.'", "answer": "Bandwagon fallacy", "explanation": "Just because something is popular does not mean it is the best. Popularity is not proof of quality."},
+              {"problem": "Identify the fallacy: 'If we allow students to use phones during lunch, next they will want them in class, and eventually they will never pay attention to anything.'", "answer": "Slippery slope", "explanation": "This argument assumes an extreme chain of events without evidence that one step will inevitably lead to the next."},
+              {"problem": "Identify the fallacy: 'You cannot trust her opinion on education policy — she has never been a teacher.'", "answer": "Ad hominem", "explanation": "This attacks the person's credentials rather than addressing the actual content of their argument."}
+            ],
+            "key_vocabulary": ["logical fallacy", "ad hominem", "bandwagon", "false dilemma", "slippery slope", "hasty generalization"],
+            "real_world": "Advertisements use logical fallacies constantly — bandwagon ('everyone is switching'), false dilemma ('you are either with us or against us'), and appeal to authority (celebrities endorsing products they are not experts on)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An ad hominem fallacy involves:", "options": ["Attacking the person instead of their argument", "Using emotional language", "Citing too many sources", "Writing a long essay"], "correct": 0, "hint": "'Ad hominem' is Latin for 'to the person.'"},
+            {"type": "multiple_choice", "question": "'Either you support the new rule or you do not care about safety.' This is a:", "options": ["Bandwagon", "Slippery slope", "False dilemma", "Hasty generalization"], "correct": 2, "hint": "This presents only two options when there could be many positions between them."},
+            {"type": "fill_in", "question": "Drawing a broad conclusion from very limited evidence is called a hasty ___.", "answer": "generalization", "hint": "This means applying a small sample to a large group without sufficient proof."},
+            {"type": "true_false", "question": "'Everyone else is doing it' is a valid logical argument.", "answer": false, "hint": "This is the bandwagon fallacy — popularity does not equal correctness."},
+            {"type": "multiple_choice", "question": "'If we ban plastic bags, businesses will close, the economy will crash, and society will collapse.' This is a:", "options": ["Ad hominem", "False dilemma", "Slippery slope", "Bandwagon"], "correct": 2, "hint": "One small action is claimed to lead to catastrophic consequences without proof of each step."},
+            {"type": "multiple_choice", "question": "How can you avoid logical fallacies in your writing?", "options": ["Ignore the other side's arguments", "Use emotions instead of evidence", "Check your reasoning carefully and ensure each claim is supported by evidence", "Write shorter essays"], "correct": 2, "hint": "Strong reasoning backed by evidence prevents fallacious arguments."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-2-5",
+          "title": "Writing a Complete Argumentative Essay",
+          "type": "lesson",
+          "content": {
+            "explanation": "A complete argumentative essay combines all the elements you have learned: a clear thesis, well-supported body paragraphs using the C.E.R. framework, a counterargument with a rebuttal, and a strong conclusion. The standard structure is: an introduction with a hook and thesis, two to three body paragraphs each presenting a reason with evidence and reasoning, a counterargument paragraph with a rebuttal, and a conclusion that restates the thesis and ends with a call to action or final thought. Your essay should maintain a formal, academic tone throughout. Avoid first person ('I think') when possible — let your evidence speak for itself. Use transition words to connect your ideas smoothly, and make sure every paragraph clearly connects back to your thesis.",
+            "examples": [
+              {"problem": "Outline an argumentative essay about whether schools should have a four-day week.", "answer": "I. Introduction: Hook (statistic about student burnout) + Thesis (Schools should adopt a four-day week because it reduces burnout, saves money, and improves performance). II. Body 1: Reduces student and teacher burnout (evidence from districts that tried it). III. Body 2: Saves schools money on transportation, utilities, and staff costs. IV. Body 3: Counter + rebuttal (critics say students lose learning time, but studies show four longer days yield equal or better results). V. Conclusion: Restate thesis and call for pilot programs.", "explanation": "This outline ensures a clear structure with a thesis, multiple C.E.R. paragraphs, a counterargument, and a call to action."},
+              {"problem": "Why should you avoid 'I think' in argumentative writing?", "answer": "It weakens your authority. Instead of 'I think schools should start later,' write 'Schools should start later' — the evidence will show it is your supported position.", "explanation": "'I think' makes a claim sound like a personal opinion rather than a well-supported argument."},
+              {"problem": "What is a call to action in a conclusion?", "answer": "A statement urging the reader to do something specific based on your argument, such as 'Contact your school board to advocate for healthier lunch options.'", "explanation": "A call to action gives the reader a concrete next step, making the essay feel purposeful and urgent."}
+            ],
+            "key_vocabulary": ["argumentative essay", "formal tone", "call to action", "outline", "structure", "transition"],
+            "real_world": "Argumentative writing is essential in law, politics, business proposals, and college applications. The ability to construct a logical, evidence-based argument is one of the most valuable skills you can develop."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The correct order for an argumentative essay is:", "options": ["Counterargument, body, introduction, conclusion", "Introduction, body paragraphs, counterargument/rebuttal, conclusion", "Conclusion, introduction, body, counterargument", "Body, conclusion, introduction"], "correct": 1, "hint": "Start with your position, prove it, address the other side, then wrap up."},
+            {"type": "true_false", "question": "Using 'I think' in an argumentative essay strengthens your claim.", "answer": false, "hint": "'I think' makes your argument sound like a personal opinion rather than a proven position."},
+            {"type": "fill_in", "question": "A statement urging the reader to take a specific action is called a call to ___.", "answer": "action", "hint": "You are calling on the reader to do something."},
+            {"type": "multiple_choice", "question": "How many reasons should a strong argumentative essay present?", "options": ["Zero", "One", "At least two to three", "Ten or more"], "correct": 2, "hint": "Multiple reasons with evidence make an argument more convincing."},
+            {"type": "true_false", "question": "Every body paragraph should connect back to the thesis.", "answer": true, "hint": "If a paragraph does not support the thesis, it does not belong in the essay."},
+            {"type": "multiple_choice", "question": "Which tone is most appropriate for argumentative writing?", "options": ["Casual and slangy", "Formal and academic", "Angry and emotional", "Humorous and silly"], "correct": 1, "hint": "Argumentative writing should sound authoritative and professional."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A strong thesis statement is:", "options": ["A fact everyone agrees on", "A debatable claim supported by reasons", "A personal preference", "A question"], "correct": 1},
+          {"type": "fill_in", "question": "C.E.R. stands for Claim, Evidence, and ___.", "answer": "Reasoning"},
+          {"type": "true_false", "question": "Including counterarguments weakens your essay.", "answer": false},
+          {"type": "multiple_choice", "question": "'Everyone is doing it, so you should too' is which fallacy?", "options": ["Ad hominem", "Slippery slope", "Bandwagon", "False dilemma"], "correct": 2},
+          {"type": "multiple_choice", "question": "A rebuttal is:", "options": ["An introduction technique", "A response to a counterargument", "A type of evidence", "A conclusion strategy"], "correct": 1},
+          {"type": "true_false", "question": "Argumentative essays should use a formal, academic tone.", "answer": true},
+          {"type": "multiple_choice", "question": "Which is NOT a logical fallacy?", "options": ["Ad hominem", "Bandwagon", "Citing a credible research study", "Slippery slope"], "correct": 2},
+          {"type": "multiple_choice", "question": "A call to action in the conclusion:", "options": ["Introduces a new argument", "Urges the reader to take a specific action", "Restates the counterargument", "Lists all the evidence again"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "argument_ace"
+      }
+    },
+    {
+      "id": "7-ela-3",
+      "title": "Research Papers",
+      "description": "Learn the process of researching a topic, evaluating sources, organizing information, and writing a well-cited research paper.",
+      "lessons": [
+        {
+          "id": "7-ela-3-1",
+          "title": "Choosing a Topic and Research Questions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A research paper begins with a good topic and focused research questions. Your topic should be specific enough to research thoroughly but broad enough to find sufficient sources. 'Animals' is too broad. 'The mating habits of the Northern Spotted Owl' might be too narrow. 'How endangered species are protected in the Pacific Northwest' is well-scoped. Once you have a topic, develop research questions — specific questions your paper will answer. Good research questions start with 'how,' 'why,' 'what effect,' or 'to what extent' rather than simple yes/no questions. Your research questions will guide your reading and help you stay focused as you gather information.",
+            "examples": [
+              {"problem": "Narrow this broad topic: 'Space'", "answer": "How has the International Space Station contributed to medical research?", "explanation": "This narrows 'space' to a specific aspect (ISS) and a specific focus (medical research), making it researchable."},
+              {"problem": "Which is a better research question? A) 'Is pollution bad?' B) 'What effect does ocean plastic pollution have on marine food chains?'", "answer": "B is much better.", "explanation": "A is too vague and has an obvious answer. B is specific, focused, and requires real research to answer."},
+              {"problem": "Why should research questions avoid simple yes/no answers?", "answer": "Because yes/no questions lead to shallow papers. Open-ended questions require deeper analysis, evidence, and explanation.", "explanation": "'Does homework help students?' can be answered in one word. 'How does homework affect student performance and well-being?' requires real investigation."}
+            ],
+            "key_vocabulary": ["research paper", "research question", "topic", "scope", "thesis", "focus"],
+            "real_world": "Scientists, journalists, and professionals all begin projects with research questions. A medical researcher might ask, 'Does this drug reduce symptoms better than the current treatment?' — a specific, testable question."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A good research topic should be:", "options": ["As broad as possible", "So narrow that only one source exists", "Specific enough to research thoroughly but broad enough to find sources", "The first thing that comes to mind"], "correct": 2, "hint": "Balance specificity with availability of information."},
+            {"type": "true_false", "question": "Yes/no research questions lead to strong, in-depth papers.", "answer": false, "hint": "Open-ended questions encourage deeper analysis and more substantive writing."},
+            {"type": "fill_in", "question": "The specific questions your paper will answer are called ___ questions.", "answer": "research", "hint": "These questions guide your investigation and focus your paper."},
+            {"type": "multiple_choice", "question": "Which is the best research question?", "options": ["Is climate change real?", "What year was the first car made?", "How do deforestation practices in the Amazon affect global carbon emissions?", "Do people like dogs?"], "correct": 2, "hint": "Look for specific, open-ended questions that require real research."},
+            {"type": "multiple_choice", "question": "How do research questions help you during the research process?", "options": ["They make the paper longer", "They keep you focused and guide your reading", "They replace the thesis statement", "They are only for the introduction"], "correct": 1, "hint": "Research questions act like a compass, keeping you on track."},
+            {"type": "true_false", "question": "'History' is a well-scoped research topic.", "answer": false, "hint": "'History' is far too broad — you would need to narrow it to a specific era, event, or theme."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-3-2",
+          "title": "Evaluating Sources",
+          "type": "lesson",
+          "content": {
+            "explanation": "Not all sources are created equal. Evaluating sources for credibility and reliability is a critical research skill. Use the CRAAP test to evaluate sources: Currency (is the information recent enough?), Relevance (does it relate to your topic?), Authority (who is the author, and are they qualified?), Accuracy (is the information supported by evidence and verifiable?), and Purpose (why was this written — to inform, persuade, sell, or entertain?). Primary sources are original, firsthand accounts (diaries, interviews, scientific data), while secondary sources analyze or interpret primary sources (textbooks, articles, biographies). Scholarly sources (peer-reviewed journal articles, academic books) are generally more reliable than popular sources (magazines, blogs, social media posts).",
+            "examples": [
+              {"problem": "Which source is more reliable for a paper on climate change? A) A tweet from a celebrity B) A peer-reviewed article in the journal Nature", "answer": "B — the peer-reviewed article.", "explanation": "Peer-reviewed articles are evaluated by experts before publication. A celebrity tweet lacks academic authority and verification."},
+              {"problem": "Evaluate this source using the CRAAP test: A blog post from 2008 by 'CoolDude99' about current medical treatments.", "answer": "Weak source: not current (2008), unknown authority ('CoolDude99' is not a medical professional), and the purpose/accuracy cannot be verified.", "explanation": "Multiple CRAAP criteria fail — this source should not be used for academic research."},
+              {"problem": "What is the difference between a primary and secondary source?", "answer": "A primary source is a firsthand, original account (a soldier's diary from WWI). A secondary source analyzes or interprets primary sources (a historian's book about WWI).", "explanation": "Primary sources give you direct evidence; secondary sources give you expert analysis of that evidence."}
+            ],
+            "key_vocabulary": ["CRAAP test", "credibility", "reliability", "primary source", "secondary source", "peer-reviewed", "scholarly"],
+            "real_world": "In the age of social media, evaluating sources is more important than ever. Misinformation spreads quickly, and being able to distinguish reliable sources from unreliable ones is an essential life skill."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the 'A' in CRAAP stand for?", "options": ["Audience", "Authority and Accuracy", "Argument", "Assumption"], "correct": 1, "hint": "There are two A's — one for the author's qualifications, one for the information's correctness."},
+            {"type": "true_false", "question": "A peer-reviewed journal article is generally more reliable than a blog post.", "answer": true, "hint": "Peer review means experts have checked the work before publication."},
+            {"type": "fill_in", "question": "An original, firsthand account of an event is called a ___ source.", "answer": "primary", "hint": "This is the 'first' or original account — not someone else's interpretation."},
+            {"type": "multiple_choice", "question": "When evaluating a source, 'Currency' refers to:", "options": ["How much the source costs", "How recent the information is", "The country it was published in", "The currency of the country mentioned"], "correct": 1, "hint": "Currency in this context means timeliness — is the information up to date?"},
+            {"type": "multiple_choice", "question": "Which is a secondary source?", "options": ["A scientist's original lab data", "A soldier's letter from the Civil War", "A textbook chapter about the Civil War", "A photograph from 1865"], "correct": 2, "hint": "A secondary source analyzes or interprets events rather than being a firsthand account."},
+            {"type": "true_false", "question": "Any information found on the internet is automatically reliable.", "answer": false, "hint": "Anyone can publish anything online — always evaluate sources carefully."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-3-3",
+          "title": "Taking Notes and Avoiding Plagiarism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Effective note-taking is the bridge between reading sources and writing your paper. When taking notes, record the source information (author, title, date, URL) so you can cite it later. Use a combination of direct quotations (exact words in quotation marks), paraphrasing (restating ideas in your own words), and summarizing (condensing the main ideas). Plagiarism — using someone else's words or ideas without giving credit — is a serious academic offense. Even unintentional plagiarism (forgetting to cite a source or paraphrasing too closely) can have consequences. To avoid plagiarism, always cite your sources, put direct quotes in quotation marks, and when paraphrasing, change both the words and the sentence structure — do not just swap a few synonyms.",
+            "examples": [
+              {"problem": "Original: 'The Great Barrier Reef has lost approximately 50% of its coral cover since 1995.' Paraphrase this without plagiarizing.", "answer": "Since the mid-1990s, about half of the coral in the Great Barrier Reef has disappeared (Source).", "explanation": "The paraphrase changes the structure and some wording while preserving the meaning and crediting the source."},
+              {"problem": "Is this plagiarism? You copy a paragraph from a website and put it in your essay without quotation marks or a citation.", "answer": "Yes, this is plagiarism.", "explanation": "Even if you did not intend to cheat, using someone's exact words without quotes and citation is plagiarism."},
+              {"problem": "When should you use a direct quote versus paraphrasing?", "answer": "Use a direct quote when the exact wording is important or particularly well-stated. Paraphrase when you just need the information in your own voice.", "explanation": "Over-quoting makes your paper feel like a patchwork of other people's words. Paraphrasing shows you understand the material."}
+            ],
+            "key_vocabulary": ["paraphrase", "summarize", "direct quotation", "plagiarism", "citation", "note-taking"],
+            "real_world": "Plagiarism has real consequences — students can fail assignments, professionals can lose careers, and journalists can be fired. Giving proper credit is both an ethical and legal requirement."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Plagiarism is:", "options": ["Citing your sources", "Using your own ideas", "Using someone else's words or ideas without giving credit", "Paraphrasing correctly"], "correct": 2, "hint": "Plagiarism means taking credit for work that is not yours."},
+            {"type": "true_false", "question": "Changing a few words in someone else's sentence is enough to avoid plagiarism.", "answer": false, "hint": "Proper paraphrasing requires changing both the words AND the sentence structure."},
+            {"type": "fill_in", "question": "Restating someone else's ideas in your own words and sentence structure is called ___.", "answer": "paraphrasing", "hint": "This is not copying — it is expressing the same idea in a completely different way."},
+            {"type": "multiple_choice", "question": "When should you use a direct quotation?", "options": ["For every piece of information", "When the exact wording is important or particularly well-phrased", "Never", "Only in the conclusion"], "correct": 1, "hint": "Direct quotes are reserved for when the original words matter."},
+            {"type": "multiple_choice", "question": "What information should you record when taking notes from a source?", "options": ["Only the page number", "Author, title, date, and where you found it", "Only the website name", "Nothing — you can find it later"], "correct": 1, "hint": "You need complete source information to create accurate citations."},
+            {"type": "true_false", "question": "Even unintentional plagiarism can have serious academic consequences.", "answer": true, "hint": "Not knowing it was plagiarism does not excuse it — always cite carefully."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-3-4",
+          "title": "Organizing and Outlining Your Research Paper",
+          "type": "lesson",
+          "content": {
+            "explanation": "Before writing your research paper, organize your notes and create an outline. An outline is a blueprint that shows the structure of your paper before you start writing. A research paper typically follows this structure: Introduction (hook, background, thesis), Body Paragraphs (each focusing on one aspect of your research, with evidence and analysis), and Conclusion (restate thesis, summarize findings, discuss significance). Group your notes by subtopic — all the evidence about one aspect of your research question goes in one section. Each body paragraph should have a clear topic sentence, evidence from your research (with citations), and your analysis of what that evidence means. The outline does not need to be written in full sentences, but it should clearly show the flow of ideas from one paragraph to the next.",
+            "examples": [
+              {"problem": "Create a brief outline for a research paper on the effects of social media on teen mental health.", "answer": "I. Introduction: Hook (statistic on teen social media use), background, thesis. II. Body 1: Social comparison and self-esteem (cite studies). III. Body 2: Cyberbullying and anxiety (cite research). IV. Body 3: Positive effects — community and support networks (balanced perspective). V. Conclusion: Restate thesis, summarize findings, call for responsible use.", "explanation": "The outline gives a clear roadmap with specific subtopics and a balanced approach."},
+              {"problem": "Why is outlining important before writing?", "answer": "An outline ensures your paper is organized logically, prevents you from going off-topic, and makes the writing process much faster.", "explanation": "Writing without an outline is like building without a blueprint — you are likely to end up with a disorganized mess."},
+              {"problem": "How do you decide the order of body paragraphs?", "answer": "Arrange them in a logical order: chronological, least to most important, cause then effect, or problem then solution.", "explanation": "The order should make sense to the reader and build your argument progressively."}
+            ],
+            "key_vocabulary": ["outline", "structure", "organize", "subtopic", "body paragraph", "logical order"],
+            "real_world": "Professionals in every field outline before they write — scientists outline research reports, architects create blueprints, and filmmakers storyboard scenes."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An outline is:", "options": ["The final draft of your paper", "A blueprint showing the structure of your paper", "A list of sources", "A type of citation"], "correct": 1, "hint": "An outline is a plan you create before writing."},
+            {"type": "true_false", "question": "You should write your research paper before creating an outline.", "answer": false, "hint": "The outline comes first — it guides the writing process."},
+            {"type": "fill_in", "question": "Each body paragraph should focus on one ___ of your research.", "answer": "subtopic", "hint": "This is a smaller topic within your larger research question."},
+            {"type": "multiple_choice", "question": "A research paper's conclusion should:", "options": ["Introduce new evidence", "Restate the thesis and summarize findings", "List all sources", "Start a new argument"], "correct": 1, "hint": "The conclusion wraps up what you have already proven."},
+            {"type": "multiple_choice", "question": "How should you group your research notes?", "options": ["By the color of the highlighter used", "By subtopic — related evidence together", "In alphabetical order", "By date taken"], "correct": 1, "hint": "Grouping by subtopic makes it easy to write focused body paragraphs."},
+            {"type": "true_false", "question": "Body paragraphs in a research paper should be arranged in a logical order.", "answer": true, "hint": "Random order confuses readers — choose chronological, least-to-most important, or another logical structure."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A good research question is:", "options": ["A yes/no question", "Open-ended and specific", "As broad as possible", "About a topic with no available sources"], "correct": 1},
+          {"type": "fill_in", "question": "The CRAAP test evaluates Currency, Relevance, Authority, Accuracy, and ___.", "answer": "Purpose"},
+          {"type": "true_false", "question": "A peer-reviewed source has been evaluated by experts before publication.", "answer": true},
+          {"type": "multiple_choice", "question": "Plagiarism is:", "options": ["Citing sources properly", "Paraphrasing with citation", "Using someone's ideas without credit", "Writing in your own words"], "correct": 2},
+          {"type": "multiple_choice", "question": "An outline is created:", "options": ["After the final draft", "Before writing the paper", "Only for math papers", "Instead of a bibliography"], "correct": 1},
+          {"type": "true_false", "question": "A diary entry from a historical figure is a primary source.", "answer": true},
+          {"type": "multiple_choice", "question": "When paraphrasing, you should change:", "options": ["Only one or two words", "Both the words and sentence structure", "Nothing — just remove quotation marks", "Only the punctuation"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which organizational pattern works best for a history research paper?", "options": ["Random order", "Chronological order", "Reverse alphabetical", "By word count"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "research_ranger"
+      }
+    },
+    {
+      "id": "7-ela-4",
+      "title": "Grammar: Verbals, Appositives, and Parallel Structure",
+      "description": "Master advanced grammar concepts that add sophistication and variety to your writing.",
+      "lessons": [
+        {
+          "id": "7-ela-4-1",
+          "title": "Verbals: Gerunds, Participles, and Infinitives",
+          "type": "lesson",
+          "content": {
+            "explanation": "Verbals are verb forms used as other parts of speech. There are three types: gerunds, participles, and infinitives. A gerund is a verb form ending in '-ing' that functions as a noun: 'Swimming is great exercise' (swimming is the subject). A participle is a verb form used as an adjective, either ending in '-ing' (present participle) or '-ed'/'-en' (past participle): 'The running water' or 'The broken window.' An infinitive is 'to + verb' and can function as a noun, adjective, or adverb: 'To win is everything' (noun), 'She had a reason to leave' (adjective), 'He studied to pass' (adverb). Understanding verbals helps you write more complex and varied sentences.",
+            "examples": [
+              {"problem": "Identify the verbal: 'Reading books expands your vocabulary.'", "answer": "'Reading' is a gerund (verb form acting as a noun — it is the subject of the sentence).", "explanation": "Even though 'reading' looks like a verb, it functions as the subject of the sentence, making it a gerund."},
+              {"problem": "Identify the verbal: 'The howling wind rattled the windows.'", "answer": "'Howling' is a participle (verb form acting as an adjective modifying 'wind').", "explanation": "'Howling' describes the wind — it tells us what kind of wind, making it an adjective."},
+              {"problem": "Identify the verbal: 'She wants to learn French.'", "answer": "'To learn' is an infinitive (functioning as a noun — it is the direct object of 'wants').", "explanation": "She wants what? To learn French. The infinitive answers this question, functioning as a noun."}
+            ],
+            "key_vocabulary": ["verbal", "gerund", "participle", "infinitive", "noun", "adjective", "adverb"],
+            "real_world": "Verbals make your writing more flexible. Instead of writing 'The act of swimming is exercise,' you can write 'Swimming is exercise' — cleaner and more natural."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A gerund is a verb form ending in '-ing' that functions as a:", "options": ["Verb", "Adjective", "Noun", "Adverb"], "correct": 2, "hint": "Gerunds look like verbs but act as nouns — they can be subjects or objects."},
+            {"type": "multiple_choice", "question": "In 'The barking dog woke us up,' 'barking' is a:", "options": ["Gerund", "Participle", "Infinitive", "Preposition"], "correct": 1, "hint": "It modifies 'dog' — what kind of dog? A barking dog. That makes it an adjective."},
+            {"type": "fill_in", "question": "The verbal form 'to + verb' is called an ___.", "answer": "infinitive", "hint": "Examples include 'to run,' 'to eat,' and 'to think.'"},
+            {"type": "true_false", "question": "In 'Cooking is my hobby,' 'cooking' is a gerund.", "answer": true, "hint": "'Cooking' is the subject of the sentence — it functions as a noun, making it a gerund."},
+            {"type": "multiple_choice", "question": "In 'She loves to sing,' the infinitive is:", "options": ["She", "loves", "to sing", "sing"], "correct": 2, "hint": "Look for the 'to + verb' form."},
+            {"type": "multiple_choice", "question": "Which sentence contains a participle?", "options": ["Swimming is fun.", "The frozen lake sparkled.", "To err is human.", "I enjoy reading."], "correct": 1, "hint": "A participle acts as an adjective — which option has a verb form describing a noun?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-4-2",
+          "title": "Appositives and Appositive Phrases",
+          "type": "lesson",
+          "content": {
+            "explanation": "An appositive is a noun or noun phrase that renames or explains another noun right beside it. Appositives add detail to your writing without requiring a separate sentence. For example, instead of writing 'My teacher is Mrs. Rodriguez. She assigned a new project,' you can write 'My teacher, Mrs. Rodriguez, assigned a new project.' The appositive 'Mrs. Rodriguez' renames 'my teacher.' Nonessential appositives (which add extra but unnecessary information) are set off by commas: 'My dog, a golden retriever, loves swimming.' Essential appositives (which are needed to identify the noun) do not use commas: 'The novel To Kill a Mockingbird is a classic.' Appositives make your writing more concise and sophisticated.",
+            "examples": [
+              {"problem": "Identify the appositive: 'Albert Einstein, a brilliant physicist, developed the theory of relativity.'", "answer": "'A brilliant physicist' is the appositive, renaming 'Albert Einstein.'", "explanation": "The phrase provides extra information about who Einstein was, set off by commas because it is nonessential."},
+              {"problem": "Combine using an appositive: 'The Nile is the longest river in Africa. It flows through eleven countries.'", "answer": "The Nile, the longest river in Africa, flows through eleven countries.", "explanation": "The appositive 'the longest river in Africa' renames and describes 'The Nile,' combining the two sentences smoothly."},
+              {"problem": "Does this appositive need commas? 'My friend Sarah is coming over.'", "answer": "It depends. If you have only one friend, commas are needed (nonessential). If you have multiple friends and 'Sarah' specifies which one, no commas are needed (essential).", "explanation": "If removing 'Sarah' would leave the sentence unclear, it is essential and needs no commas."}
+            ],
+            "key_vocabulary": ["appositive", "appositive phrase", "nonessential", "essential", "rename", "concise"],
+            "real_world": "Journalists use appositives constantly to add information efficiently: 'The president, a former senator from Illinois, announced the new policy.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An appositive is:", "options": ["A verb that shows action", "A noun that renames another noun beside it", "An adverb that modifies a verb", "A conjunction that connects clauses"], "correct": 1, "hint": "Appositives sit next to nouns and rename or explain them."},
+            {"type": "fill_in", "question": "A nonessential appositive is set off by ___.", "answer": "commas", "hint": "These punctuation marks separate extra information from the rest of the sentence."},
+            {"type": "multiple_choice", "question": "Identify the appositive: 'Barack Obama, the 44th president, wrote two memoirs.'", "options": ["Barack Obama", "the 44th president", "wrote", "two memoirs"], "correct": 1, "hint": "Which phrase renames 'Barack Obama'?"},
+            {"type": "true_false", "question": "Essential appositives are set off by commas.", "answer": false, "hint": "Essential appositives are needed for identification and do NOT use commas."},
+            {"type": "multiple_choice", "question": "Which sentence uses an appositive?", "options": ["She ran quickly to school.", "The movie, a sci-fi thriller, opens Friday.", "I enjoy basketball and soccer.", "After dinner, we watched TV."], "correct": 1, "hint": "Look for a phrase that renames a noun."},
+            {"type": "true_false", "question": "Appositives help combine choppy sentences into smoother, more concise writing.", "answer": true, "hint": "Instead of two short sentences, one sentence with an appositive provides the same information more elegantly."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-4-3",
+          "title": "Parallel Structure",
+          "type": "lesson",
+          "content": {
+            "explanation": "Parallel structure (or parallelism) means using the same grammatical form for items in a list, pair, or series. When you write a series of items, they should all match in form — all nouns, all verbs, all phrases of the same type. For example, 'She likes swimming, biking, and running' is parallel (all gerunds). 'She likes swimming, to bike, and runs' is not parallel (mixed forms). Parallel structure also applies to paired constructions using correlative conjunctions like 'both...and,' 'either...or,' 'neither...nor,' and 'not only...but also.' Parallel structure makes your writing sound polished, rhythmic, and professional. It is especially important in formal writing and speeches.",
+            "examples": [
+              {"problem": "Fix the parallel structure: 'The coach told us to stretch, warming up, and that we should run laps.'", "answer": "The coach told us to stretch, warm up, and run laps.", "explanation": "Now all three items are infinitives (to stretch, to warm up, to run laps), creating consistent parallel structure."},
+              {"problem": "Is this parallel? 'She is smart, hardworking, and has dedication.'", "answer": "No — 'smart' and 'hardworking' are adjectives, but 'has dedication' is a verb phrase. Fix: 'She is smart, hardworking, and dedicated.'", "explanation": "All three should be the same form — in this case, adjectives."},
+              {"problem": "Identify the parallel structure: 'We came, we saw, we conquered.'", "answer": "Three short clauses with the same structure: subject (we) + past tense verb.", "explanation": "This famous quote by Julius Caesar is a perfect example of parallelism, giving it a powerful rhythm."}
+            ],
+            "key_vocabulary": ["parallel structure", "parallelism", "series", "correlative conjunctions", "consistency", "rhythm"],
+            "real_world": "Famous speeches rely on parallel structure: 'I have a dream that...' (Martin Luther King Jr.) repeats the same structure for rhetorical power."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Parallel structure means:", "options": ["Writing very long sentences", "Using the same grammatical form for items in a list or pair", "Starting every sentence the same way", "Writing in first person"], "correct": 1, "hint": "Parallel = consistent form across a series."},
+            {"type": "multiple_choice", "question": "Which sentence has correct parallel structure?", "options": ["She enjoys reading, to paint, and runs.", "She enjoys reading, painting, and running.", "She enjoys reading, painted, and to run.", "She enjoys to read, painting, and runs."], "correct": 1, "hint": "All items in the series should be the same form — here, all gerunds (-ing)."},
+            {"type": "true_false", "question": "'Both the teacher and the students were prepared' uses correct parallel structure.", "answer": true, "hint": "'Both...and' connects two parallel noun phrases: 'the teacher' and 'the students.'"},
+            {"type": "fill_in", "question": "Using the same grammatical form for items in a series is called ___ structure.", "answer": "parallel", "hint": "Parallel lines are equal and consistent — just like parallel grammatical forms."},
+            {"type": "multiple_choice", "question": "Fix the parallel structure: 'He likes to swim, hiking, and plays basketball.'", "options": ["He likes to swim, to hike, and to play basketball.", "He likes swim, hiking, and basketball.", "He likes to swim, hiking, and to play.", "He likes swimming, to hike, and plays."], "correct": 0, "hint": "Choose one form (infinitives work well here) and apply it to all three items."},
+            {"type": "true_false", "question": "Parallel structure is only important in formal writing.", "answer": false, "hint": "Parallel structure improves all writing — from essays to emails to creative stories."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-4-4",
+          "title": "Sentence Variety and Combining Strategies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Skilled writers vary their sentence length and structure to create rhythm and maintain reader interest. A mix of short, punchy sentences and longer, complex ones keeps the reader engaged. There are four main sentence types by structure: simple (one independent clause), compound (two independent clauses joined by a conjunction or semicolon), complex (one independent clause and one dependent clause), and compound-complex (two independent clauses and at least one dependent clause). You can combine short, choppy sentences using coordination (and, but, or), subordination (because, although, when), appositives, participial phrases, and other techniques. The goal is not to make every sentence long — it is to vary the length and structure intentionally for the best effect.",
+            "examples": [
+              {"problem": "Combine these choppy sentences: 'The rain stopped. The sun came out. We went outside to play.'", "answer": "After the rain stopped and the sun came out, we went outside to play.", "explanation": "Subordination ('After') and coordination ('and') combine three sentences into one smooth, complex sentence."},
+              {"problem": "What is a compound-complex sentence?", "answer": "A sentence with at least two independent clauses and at least one dependent clause. Example: 'Although it was raining, we went to the park, and we had a great time.'", "explanation": "The dependent clause is 'Although it was raining,' and the two independent clauses are 'we went to the park' and 'we had a great time.'"},
+              {"problem": "Why should you vary sentence length?", "answer": "Variety creates rhythm and keeps the reader engaged. All short sentences feel choppy; all long sentences feel exhausting.", "explanation": "The best writers alternate between lengths for maximum effect — short for impact, long for flow and detail."}
+            ],
+            "key_vocabulary": ["simple sentence", "compound sentence", "complex sentence", "compound-complex", "coordination", "subordination"],
+            "real_world": "Professional writers, from novelists to journalists, master sentence variety. Read your favorite author and notice how they mix short and long sentences."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A compound sentence contains:", "options": ["One independent clause", "Two or more independent clauses", "One dependent clause only", "No clauses"], "correct": 1, "hint": "Compound = combined. Two complete thoughts joined together."},
+            {"type": "fill_in", "question": "A sentence with one independent clause and at least one dependent clause is called a ___ sentence.", "answer": "complex", "hint": "It is more complex than a simple sentence because it has a dependent clause."},
+            {"type": "true_false", "question": "All sentences in a paragraph should be the same length.", "answer": false, "hint": "Variety in sentence length creates rhythm and interest."},
+            {"type": "multiple_choice", "question": "Which technique combines sentences using words like 'because,' 'although,' and 'when'?", "options": ["Coordination", "Subordination", "Appositives", "Parallelism"], "correct": 1, "hint": "These words create dependent clauses that are subordinate (less important) to the main clause."},
+            {"type": "multiple_choice", "question": "Which is a simple sentence?", "options": ["The cat sat on the mat.", "The cat sat on the mat, and the dog lay on the rug.", "Although the cat sat on the mat, the dog barked.", "The cat sat on the mat, and the dog barked because it was excited."], "correct": 0, "hint": "A simple sentence has just one independent clause with no dependent clauses."},
+            {"type": "true_false", "question": "Short sentences can be used for dramatic emphasis.", "answer": true, "hint": "A short sentence after several long ones creates a punchy, memorable moment."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "A gerund is a verb form that functions as a:", "options": ["Verb", "Adjective", "Noun", "Conjunction"], "correct": 2},
+          {"type": "fill_in", "question": "A noun phrase that renames another noun beside it is called an ___.", "answer": "appositive"},
+          {"type": "true_false", "question": "Parallel structure means using the same grammatical form for items in a series.", "answer": true},
+          {"type": "multiple_choice", "question": "In 'To forgive is divine,' 'to forgive' is:", "options": ["A gerund", "A participle", "An infinitive", "An appositive"], "correct": 2},
+          {"type": "multiple_choice", "question": "Which has correct parallel structure?", "options": ["She likes singing, dance, and to swim.", "She likes singing, dancing, and swimming.", "She likes to sing, dancing, and swims.", "She likes sing, dance, and swim."], "correct": 1},
+          {"type": "true_false", "question": "A nonessential appositive requires commas.", "answer": true},
+          {"type": "multiple_choice", "question": "A compound-complex sentence has:", "options": ["Only one clause", "Two independent clauses and at least one dependent clause", "Only dependent clauses", "No subjects"], "correct": 1},
+          {"type": "multiple_choice", "question": "In 'The smiling child waved,' 'smiling' is a:", "options": ["Gerund", "Participle", "Infinitive", "Appositive"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "grammar_guru"
+      }
+    },
+    {
+      "id": "7-ela-5",
+      "title": "Vocabulary Building: Roots, Prefixes, and Suffixes",
+      "description": "Expand your vocabulary systematically by learning Greek and Latin word parts that unlock the meaning of thousands of English words.",
+      "lessons": [
+        {
+          "id": "7-ela-5-1",
+          "title": "Greek Roots",
+          "type": "lesson",
+          "content": {
+            "explanation": "A huge portion of English vocabulary — especially academic and scientific terms — comes from Greek roots. Learning these roots gives you the power to decode unfamiliar words. Some essential Greek roots include: 'graph/gram' (write), 'log/logy' (word/study), 'phon' (sound), 'scope' (see/examine), 'bio' (life), 'geo' (earth), 'therm' (heat), 'chron' (time), 'path' (feeling/suffering), 'auto' (self), 'tele' (far), and 'psych' (mind/soul). When you see an unfamiliar word in a textbook or on a test, breaking it into its Greek parts often reveals the meaning. For example, 'chronometer' = chron (time) + meter (measure) = a device that measures time.",
+            "examples": [
+              {"problem": "Use Greek roots to decode 'biography.'", "answer": "bio (life) + graph (write) = a written account of someone's life.", "explanation": "Knowing just two Greek roots unlocks the meaning of this word."},
+              {"problem": "What does 'telephone' mean based on its roots?", "answer": "tele (far) + phon (sound) = a device for transmitting sound over a distance.", "explanation": "The Greek roots describe exactly what a telephone does."},
+              {"problem": "If 'geo' means earth and 'logy' means study, what is geology?", "answer": "The study of the earth.", "explanation": "Combining Greek roots gives you the definition directly."}
+            ],
+            "key_vocabulary": ["Greek roots", "etymology", "graph", "bio", "geo", "phon", "chron", "auto", "tele"],
+            "real_world": "Medical professionals rely heavily on Greek roots — 'dermatology' (derma = skin + logy = study), 'cardiology' (cardio = heart + logy = study). Knowing roots helps you understand professional vocabulary."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The Greek root 'bio' means:", "options": ["Water", "Life", "Sound", "Earth"], "correct": 1, "hint": "Think of biology, biography, and biome."},
+            {"type": "fill_in", "question": "The Greek root 'chron' means ___.", "answer": "time", "hint": "Think of words like 'chronological' and 'chronicle.'"},
+            {"type": "multiple_choice", "question": "What does 'autobiography' mean?", "options": ["A book about cars", "A self-written account of one's own life", "A study of automobiles", "A graph about automation"], "correct": 1, "hint": "auto (self) + bio (life) + graph (write) = writing about your own life."},
+            {"type": "true_false", "question": "The root 'tele' means 'close' or 'near.'", "answer": false, "hint": "Think of television and telephone — they work over long distances."},
+            {"type": "multiple_choice", "question": "A 'microscope' uses the root 'scope' meaning:", "options": ["Small", "Large", "See/examine", "Touch"], "correct": 2, "hint": "A microscope lets you see tiny things — 'scope' means to view or examine."},
+            {"type": "multiple_choice", "question": "If 'path' means feeling or suffering, what does 'empathy' mean?", "options": ["Studying feelings", "Feeling what others feel", "Lack of feeling", "Fear of feelings"], "correct": 1, "hint": "'Em-' (or 'en-') means 'in' — feeling IN someone else's experience."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-5-2",
+          "title": "Latin Roots",
+          "type": "lesson",
+          "content": {
+            "explanation": "Latin roots form the foundation of much of the English language, especially in law, medicine, science, and academics. Important Latin roots include: 'dict' (say/speak), 'rupt' (break), 'port' (carry), 'duct/duc' (lead), 'scrib/script' (write), 'vis/vid' (see), 'aud' (hear), 'cred' (believe), 'flex/flect' (bend), 'ject' (throw), 'struct' (build), and 'tract' (pull/drag). By combining these roots with prefixes and suffixes, you can decode thousands of words. For example, 'construct' = con (together) + struct (build) = to build something by putting parts together. 'Disrupt' = dis (apart) + rupt (break) = to break apart or interrupt.",
+            "examples": [
+              {"problem": "Decode 'predict' using Latin roots.", "answer": "pre (before) + dict (say) = to say what will happen before it occurs.", "explanation": "A prediction is literally 'saying before' — foretelling the future."},
+              {"problem": "What does 'transport' mean based on its roots?", "answer": "trans (across) + port (carry) = to carry something across a distance.", "explanation": "Transportation literally means the act of carrying things from one place to another."},
+              {"problem": "If 'rupt' means break, what does 'interrupt' mean?", "answer": "inter (between) + rupt (break) = to break into the middle of something.", "explanation": "When you interrupt someone, you break into their speech or activity."}
+            ],
+            "key_vocabulary": ["Latin roots", "dict", "rupt", "port", "scrib", "vis", "aud", "cred", "struct"],
+            "real_world": "Legal terms are heavily based on Latin: 'verdict' (vere = truth + dict = say = a statement of truth), 'subpoena' (sub = under + poena = penalty = under penalty of punishment)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The Latin root 'scrib' or 'script' means:", "options": ["Read", "Write", "Speak", "Think"], "correct": 1, "hint": "Think of 'scripture,' 'manuscript,' and 'describe.'"},
+            {"type": "fill_in", "question": "The Latin root 'aud' means ___.", "answer": "hear", "hint": "Think of 'audience,' 'audio,' and 'auditorium.'"},
+            {"type": "multiple_choice", "question": "What does 'incredible' mean based on its roots?", "options": ["Very credible", "Not able to be believed", "Easy to build", "Hard to hear"], "correct": 1, "hint": "in (not) + cred (believe) + ible (able to be) = not able to be believed."},
+            {"type": "true_false", "question": "The root 'vis' means to hear.", "answer": false, "hint": "Think of 'vision,' 'visible,' and 'visual' — they all relate to seeing."},
+            {"type": "multiple_choice", "question": "If 'struct' means build, what does 'destruct' mean?", "options": ["To build up", "To build again", "To take apart or tear down", "To build together"], "correct": 2, "hint": "de- means down or away — so 'destruct' means to un-build or tear down."},
+            {"type": "multiple_choice", "question": "'Eject' means to throw out. What root means 'throw'?", "options": ["Ject", "Rupt", "Port", "Dict"], "correct": 0, "hint": "Think of 'inject' (throw in), 'project' (throw forward), and 'reject' (throw back)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-5-3",
+          "title": "Common Prefixes and Their Meanings",
+          "type": "lesson",
+          "content": {
+            "explanation": "Prefixes are word parts added to the beginning of a root that change its meaning. Learning common prefixes dramatically expands your ability to decode unfamiliar words. Negative prefixes reverse or negate meaning: 'un-' (not), 'in-/im-/il-/ir-' (not), 'dis-' (not/opposite), 'non-' (not), 'mis-' (wrong). Direction/position prefixes show spatial relationships: 'pre-' (before), 'post-' (after), 'sub-' (under), 'super-' (above), 'inter-' (between), 'trans-' (across). Number prefixes indicate quantity: 'uni-/mono-' (one), 'bi-/di-' (two), 'tri-' (three), 'multi-/poly-' (many). Size and degree prefixes include: 'micro-' (small), 'macro-' (large), 'semi-' (half), 'over-' (too much), 'under-' (too little).",
+            "examples": [
+              {"problem": "What does 'intercontinental' mean?", "answer": "inter (between) + continental (relating to continents) = between or across continents.", "explanation": "An intercontinental flight goes between continents."},
+              {"problem": "What does 'submarine' mean based on its prefix?", "answer": "sub (under) + marine (sea) = under the sea.", "explanation": "A submarine travels under the surface of the water."},
+              {"problem": "The prefix 'im-' in 'impossible' is a variation of which prefix?", "answer": "'In-' meaning 'not.' It changes to 'im-' before words starting with 'b,' 'm,' or 'p.'", "explanation": "Impossible = im (not) + possible = not possible. The prefix changes spelling for easier pronunciation."}
+            ],
+            "key_vocabulary": ["prefix", "negate", "direction", "quantity", "un-", "pre-", "inter-", "trans-", "sub-", "multi-"],
+            "real_world": "Understanding prefixes helps in every subject: 'preview' (see before) in English, 'subtract' (pull under/away) in math, 'microscope' (small + see) in science."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The prefix 'dis-' means:", "options": ["Again", "Before", "Not or opposite", "Together"], "correct": 2, "hint": "Think of 'disagree,' 'disappear,' and 'disconnect.'"},
+            {"type": "fill_in", "question": "The prefix 'trans-' means ___.", "answer": "across", "hint": "Think of 'transport,' 'translate,' and 'transcontinental.'"},
+            {"type": "multiple_choice", "question": "If 'mono-' means one and 'poly-' means many, a polygon has:", "options": ["One side", "Many sides", "Two sides", "No sides"], "correct": 1, "hint": "poly (many) + gon (angle/side) = a shape with many sides."},
+            {"type": "true_false", "question": "The prefix 'post-' means before.", "answer": false, "hint": "Post means after — think of 'postpone' (put after) and 'post-game' (after the game). Pre- means before."},
+            {"type": "multiple_choice", "question": "What does 'bilingual' mean?", "options": ["Speaking one language", "Speaking two languages", "Speaking many languages", "Unable to speak"], "correct": 1, "hint": "bi (two) + lingual (language) = two languages."},
+            {"type": "multiple_choice", "question": "The word 'overestimate' means:", "options": ["To estimate correctly", "To estimate too little", "To estimate too much", "To not estimate at all"], "correct": 2, "hint": "'Over-' means too much or excessively."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-5-4",
+          "title": "Common Suffixes and Their Meanings",
+          "type": "lesson",
+          "content": {
+            "explanation": "Suffixes are word parts added to the end of a root that change the word's meaning or part of speech. Noun-forming suffixes create nouns: '-tion/-sion' (act of: education, decision), '-ment' (state of: enjoyment), '-ness' (quality of: kindness), '-er/-or' (one who: teacher, actor), '-ist' (one who: scientist). Adjective-forming suffixes create adjectives: '-able/-ible' (able to be: readable, visible), '-ful' (full of: hopeful), '-less' (without: hopeless), '-ous/-ious' (full of: dangerous, curious). Verb-forming suffixes create verbs: '-ize' (make: apologize), '-fy' (make: simplify), '-en' (make: strengthen). Adverb-forming suffix: '-ly' (in a way: quickly). Understanding how suffixes change a word's part of speech gives you tremendous flexibility in your writing.",
+            "examples": [
+              {"problem": "Change the verb 'create' to a noun using a suffix.", "answer": "Creation (adding '-tion' changes the verb to a noun meaning the act of creating).", "explanation": "The suffix '-tion' turns a verb into a noun that describes the action or result."},
+              {"problem": "What does '-ible' mean in 'flexible'?", "answer": "Able to be — flexible means 'able to be bent or flexed.'", "explanation": "The suffix '-ible' means 'capable of being,' so it creates an adjective describing ability."},
+              {"problem": "How does adding '-less' change 'hope'?", "answer": "Hope (noun: a feeling of expectation) becomes hopeless (adjective: without hope).", "explanation": "'-Less' means 'without,' and it changes the noun into an adjective."}
+            ],
+            "key_vocabulary": ["suffix", "part of speech", "-tion", "-ment", "-ness", "-able", "-ful", "-less", "-ize", "-ly"],
+            "real_world": "Knowing suffixes helps you guess the part of speech of unfamiliar words on tests. If a word ends in '-tion,' you know it is a noun. If it ends in '-ous,' you know it is an adjective."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "The suffix '-less' means:", "options": ["Full of", "Without", "Able to be", "One who"], "correct": 1, "hint": "Think of 'careless' (without care) and 'homeless' (without a home)."},
+            {"type": "fill_in", "question": "The suffix '-tion' or '-sion' changes a verb into a ___.", "answer": "noun", "hint": "Educate becomes education, decide becomes decision."},
+            {"type": "multiple_choice", "question": "Which suffix creates an adjective?", "options": ["-ment", "-tion", "-ous", "-er"], "correct": 2, "hint": "Think of 'dangerous,' 'famous,' and 'curious.'"},
+            {"type": "true_false", "question": "The suffix '-ly' typically creates an adverb.", "answer": true, "hint": "Quick becomes quickly, slow becomes slowly."},
+            {"type": "multiple_choice", "question": "What does the suffix '-ist' mean?", "options": ["Without", "Full of", "One who practices or specializes in", "The act of"], "correct": 2, "hint": "Think of 'scientist,' 'artist,' and 'pianist.'"},
+            {"type": "multiple_choice", "question": "Adding '-ize' to 'modern' creates:", "options": ["Modernful", "Modernly", "Modernize (to make modern)", "Modernness"], "correct": 2, "hint": "'-ize' means 'to make,' so modernize means to make modern."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "The Greek root 'geo' means:", "options": ["Life", "Earth", "Write", "Time"], "correct": 1},
+          {"type": "fill_in", "question": "The Latin root 'dict' means ___.", "answer": "say"},
+          {"type": "multiple_choice", "question": "What does 'microscope' literally mean?", "options": ["Small viewer", "Large writer", "Far sound", "Self writer"], "correct": 0},
+          {"type": "true_false", "question": "The prefix 'pre-' means after.", "answer": false},
+          {"type": "multiple_choice", "question": "The suffix '-able' means:", "options": ["Without", "Full of", "Able to be", "One who"], "correct": 2},
+          {"type": "multiple_choice", "question": "If 'rupt' means break, 'bankrupt' literally means:", "options": ["Bank building", "Broken bank", "Bank worker", "Bank safe"], "correct": 1},
+          {"type": "true_false", "question": "The prefix 'uni-' means many.", "answer": false},
+          {"type": "multiple_choice", "question": "Knowing word parts helps you:", "options": ["Only in English class", "Decode unfamiliar words across all subjects", "Spell perfectly", "Read faster"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "word_wizard"
+      }
+    },
+    {
+      "id": "7-ela-6",
+      "title": "Media Literacy",
+      "description": "Develop critical skills for analyzing media messages, identifying bias, evaluating news sources, and understanding how media shapes our view of the world.",
+      "lessons": [
+        {
+          "id": "7-ela-6-1",
+          "title": "What is Media Literacy?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Media literacy is the ability to access, analyze, evaluate, and create media in various forms. In today's world, you are surrounded by media messages — from social media posts and news articles to advertisements, podcasts, and videos. Media-literate people do not just consume media passively; they think critically about who created the message, what its purpose is, what techniques are used, what values or points of view are represented, and how different people might interpret it. These are the five key questions of media literacy. Every piece of media is constructed by someone with a particular perspective, and understanding this helps you become a more informed and thoughtful consumer of information.",
+            "examples": [
+              {"problem": "Apply media literacy to a soda commercial showing teenagers having fun at a beach party.", "answer": "The commercial was created by the soda company to sell their product. It uses pathos (fun, friendship, excitement) to associate positive emotions with the drink. It does not show the health effects of sugary drinks.", "explanation": "Media literacy helps you see beyond the surface message to the underlying purpose and techniques."},
+              {"problem": "What are the five key questions of media literacy?", "answer": "1) Who created this? 2) What is the purpose? 3) What techniques are used? 4) What values/perspectives are represented? 5) How might others interpret this differently?", "explanation": "These questions apply to any media message and help you think critically about what you are consuming."},
+              {"problem": "Why is media literacy important?", "answer": "It helps you distinguish reliable information from misleading content, understand how media influences opinions, and make informed decisions.", "explanation": "Without media literacy, people are vulnerable to manipulation, misinformation, and advertising tricks."}
+            ],
+            "key_vocabulary": ["media literacy", "critical thinking", "analyze", "evaluate", "media message", "perspective"],
+            "real_world": "Every day, you encounter hundreds of media messages — from your social media feed to the news on TV to the ads on websites. Media literacy is an essential survival skill for the modern world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Media literacy means:", "options": ["Reading books quickly", "Critically analyzing and evaluating media messages", "Only watching educational TV", "Avoiding all media"], "correct": 1, "hint": "Media literacy is about thinking critically, not avoiding media."},
+            {"type": "true_false", "question": "Every media message is created by someone with a particular perspective.", "answer": true, "hint": "No media is completely neutral — someone chose what to include, exclude, and emphasize."},
+            {"type": "fill_in", "question": "The five key questions of media literacy help you analyze the creator, purpose, techniques, ___, and interpretations of a message.", "answer": "values", "hint": "What beliefs or points of view are represented (or left out)?"},
+            {"type": "multiple_choice", "question": "Why might two people interpret the same news story differently?", "options": ["Because one of them cannot read", "Because their backgrounds, experiences, and beliefs shape interpretation", "Because the story has no meaning", "Because only one person is smart"], "correct": 1, "hint": "Personal experience and perspective affect how we understand media."},
+            {"type": "multiple_choice", "question": "When you see an advertisement, a key question to ask is:", "options": ["Is this pretty?", "What is this trying to sell me, and how?", "Is this on a big screen?", "What time is it?"], "correct": 1, "hint": "Ads are designed to persuade — understanding how they work makes you a smarter consumer."},
+            {"type": "true_false", "question": "Media-literate people passively accept all media messages as truth.", "answer": false, "hint": "The whole point of media literacy is to think CRITICALLY, not passively."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-6-2",
+          "title": "Identifying Bias in Media",
+          "type": "lesson",
+          "content": {
+            "explanation": "Bias is a leaning or preference toward a particular perspective. All media contains some degree of bias because every creator makes choices about what to include, what to exclude, how to frame information, and what language to use. There are several types of media bias: selection bias (choosing which stories to cover), framing bias (how a story is presented or angled), language bias (using loaded or emotional words), confirmation bias (seeking information that confirms existing beliefs), and omission bias (leaving out important information). To identify bias, compare multiple sources on the same topic, look for loaded language, notice what information is included versus excluded, and consider the source's funding and purpose.",
+            "examples": [
+              {"problem": "Two headlines about the same event: A) 'Protestors Demand Justice' B) 'Mob Disrupts City Center.' What bias is present?", "answer": "Language bias — 'protestors' vs. 'mob' and 'demand justice' vs. 'disrupts' frame the same event very differently.", "explanation": "The word choices reveal the bias of each source: one is sympathetic, the other is critical."},
+              {"problem": "A news channel only covers stories that support one political party. What type of bias is this?", "answer": "Selection bias — they choose to cover stories that align with their perspective while ignoring others.", "explanation": "By selecting only certain stories, the channel creates an incomplete picture of reality."},
+              {"problem": "How can you detect bias in a news article?", "answer": "Look for loaded language, check if both sides are fairly represented, consider what is left out, and compare with other sources.", "explanation": "No single strategy is enough — use multiple approaches to evaluate bias."}
+            ],
+            "key_vocabulary": ["bias", "framing", "loaded language", "selection bias", "omission bias", "confirmation bias", "objectivity"],
+            "real_world": "Bias affects everything from news coverage to search engine results to your social media feed. Understanding bias helps you get a more complete and accurate picture of the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Bias in media means:", "options": ["The media is always lying", "A leaning toward a particular perspective that affects how information is presented", "There are no good sources", "Only newspapers have bias"], "correct": 1, "hint": "Bias is a perspective or preference, not necessarily a deliberate lie."},
+            {"type": "true_false", "question": "All media has some degree of bias.", "answer": true, "hint": "Every creator makes choices that reflect some perspective — complete objectivity is nearly impossible."},
+            {"type": "fill_in", "question": "Using emotional or loaded words to influence the reader is called ___ bias.", "answer": "language", "hint": "The specific words (language) chosen carry emotional weight."},
+            {"type": "multiple_choice", "question": "The best way to get a balanced view of a news event is to:", "options": ["Read only one source", "Ignore the news entirely", "Compare multiple sources with different perspectives", "Only read headlines"], "correct": 2, "hint": "Multiple perspectives help you see the full picture."},
+            {"type": "multiple_choice", "question": "Confirmation bias is:", "options": ["Confirming facts with experts", "Seeking information that supports what you already believe", "Being biased toward confirmation emails", "A type of grammatical error"], "correct": 1, "hint": "People naturally gravitate toward information that 'confirms' their existing views."},
+            {"type": "true_false", "question": "Omission bias means leaving out important information that might change the reader's understanding.", "answer": true, "hint": "What is NOT said can be just as important as what IS said."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-6-3",
+          "title": "Evaluating Online Information",
+          "type": "lesson",
+          "content": {
+            "explanation": "The internet is an incredible resource, but it also contains misinformation (false information shared without malicious intent) and disinformation (false information spread deliberately to deceive). To evaluate online information, use lateral reading — instead of just reading the website itself, open new tabs to check what other sources say about it. Check the URL domain (.edu and .gov sites are generally more reliable than .com or .org, though not always). Look for an 'About' page to learn who runs the site. Check the date to ensure the information is current. Verify claims by cross-referencing with established news organizations and fact-checking websites. Be especially cautious of content designed to provoke strong emotions, as it may be designed to spread rather than to inform.",
+            "examples": [
+              {"problem": "You find a dramatic health claim on a website with lots of ads and no author listed. Should you trust it?", "answer": "No — the lack of an author, heavy advertising, and dramatic claims are red flags suggesting unreliable information.", "explanation": "Credible sources identify their authors, are not overwhelmed by ads, and present claims carefully with evidence."},
+              {"problem": "What is lateral reading?", "answer": "Opening new tabs to check what other sources say about a website or claim, rather than only evaluating the site itself.", "explanation": "A website can look professional and still be unreliable. Checking outside sources gives you a broader view."},
+              {"problem": "What is the difference between misinformation and disinformation?", "answer": "Misinformation is false information shared without intent to deceive (the sharer believes it). Disinformation is false information deliberately created and spread to deceive.", "explanation": "Both are dangerous, but disinformation is intentionally malicious."}
+            ],
+            "key_vocabulary": ["misinformation", "disinformation", "lateral reading", "fact-checking", "credible", "verify", "cross-reference"],
+            "real_world": "During major events (elections, pandemics, crises), misinformation spreads rapidly on social media. Being able to evaluate online information is critical for making good decisions."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Misinformation is:", "options": ["Deliberately false information designed to deceive", "False information shared without malicious intent", "Always found on social media", "The same as a fact"], "correct": 1, "hint": "Misinformation is accidentally false — the person sharing it may believe it is true."},
+            {"type": "true_false", "question": "A professional-looking website is always a reliable source.", "answer": false, "hint": "Anyone can create a professional-looking website — appearance does not guarantee accuracy."},
+            {"type": "fill_in", "question": "Checking what other sources say about a claim by opening new browser tabs is called ___ reading.", "answer": "lateral", "hint": "Lateral means 'to the side' — you look sideways at other sources rather than staying on one site."},
+            {"type": "multiple_choice", "question": "Which domain is generally most reliable for government information?", "options": [".com", ".org", ".gov", ".net"], "correct": 2, "hint": "This domain is reserved for government websites."},
+            {"type": "multiple_choice", "question": "Content designed to make you feel angry or outraged is:", "options": ["Always true because emotions are real", "Worth sharing immediately", "Possibly designed to spread virally rather than inform accurately", "The best source of news"], "correct": 2, "hint": "Emotionally provocative content often spreads faster but may sacrifice accuracy."},
+            {"type": "true_false", "question": "Cross-referencing a claim with multiple established sources is a good fact-checking strategy.", "answer": true, "hint": "If multiple reliable sources confirm the same information, it is more likely to be accurate."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ela-6-4",
+          "title": "How Media Shapes Perception",
+          "type": "lesson",
+          "content": {
+            "explanation": "Media does not just report reality — it shapes how we perceive reality. The stories media chooses to tell (and not tell), the images it shows, the language it uses, and the perspectives it amplifies all influence our understanding of the world. Agenda setting is the media's power to influence what people think about by choosing which stories to cover prominently. Framing is how the media presents a story — the angle or context given that shapes interpretation. Representation matters because when certain groups are consistently portrayed in stereotypical ways (or left out entirely), it affects how society views those groups. Media-literate individuals recognize these influences and actively seek diverse sources and perspectives to form their own informed opinions.",
+            "examples": [
+              {"problem": "If every news channel leads with crime stories, what effect might this have on viewers?", "answer": "Viewers might believe crime is more common and increasing, even if crime rates are actually decreasing — this is agenda setting.", "explanation": "By giving crime stories prominent coverage, media makes viewers think about crime more, which can distort their perception of reality."},
+              {"problem": "The same story framed two ways: 'The glass is half full' vs. 'The glass is half empty.' How does framing affect perception?", "answer": "The first frame creates optimism; the second creates pessimism. Same facts, different emotional responses.", "explanation": "Framing determines how the audience interprets information by emphasizing certain aspects over others."},
+              {"problem": "Why does representation in media matter?", "answer": "When people see themselves represented accurately and positively in media, it validates their experiences. When groups are stereotyped or absent, it reinforces bias and misunderstanding.", "explanation": "Media shapes what society considers 'normal' and how different groups are perceived."}
+            ],
+            "key_vocabulary": ["agenda setting", "framing", "representation", "stereotype", "perception", "influence", "diverse perspectives"],
+            "real_world": "Social media algorithms create 'filter bubbles' by showing you content that matches your existing interests and views, which can limit your exposure to different perspectives."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Agenda setting means:", "options": ["Setting a schedule for the day", "The media's power to influence what people think about by choosing what to cover", "Creating an agenda for a meeting", "A type of news article"], "correct": 1, "hint": "The 'agenda' is the list of topics the media makes prominent."},
+            {"type": "true_false", "question": "Framing can cause the same facts to be interpreted in different ways.", "answer": true, "hint": "The context and angle given to a story shape how readers understand it."},
+            {"type": "fill_in", "question": "When media consistently portrays a group in an oversimplified or inaccurate way, it creates a ___.", "answer": "stereotype", "hint": "This is an oversimplified, fixed idea about a group of people."},
+            {"type": "multiple_choice", "question": "A 'filter bubble' on social media means:", "options": ["A new type of filter", "You only see content that matches your existing views and interests", "Social media is cleaner", "You can filter water through your phone"], "correct": 1, "hint": "The algorithm filters what you see, creating a 'bubble' around your existing perspective."},
+            {"type": "multiple_choice", "question": "Why should you seek diverse media sources?", "options": ["To waste more time", "To get a more complete and balanced understanding of issues", "To confuse yourself", "To find the one correct source"], "correct": 1, "hint": "Multiple perspectives help you see the full picture."},
+            {"type": "true_false", "question": "Media simply reports reality without shaping how we perceive it.", "answer": false, "hint": "Every choice about what to cover, how to frame it, and what language to use shapes perception."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Media literacy is the ability to:", "options": ["Watch more TV", "Critically analyze and evaluate media messages", "Create social media accounts", "Avoid all media"], "correct": 1},
+          {"type": "true_false", "question": "All media contains some degree of bias.", "answer": true},
+          {"type": "multiple_choice", "question": "Disinformation is:", "options": ["Accidentally false information", "Deliberately false information spread to deceive", "True information that is unpopular", "A type of advertisement"], "correct": 1},
+          {"type": "fill_in", "question": "The media's power to influence what topics people think about is called agenda ___.", "answer": "setting"},
+          {"type": "multiple_choice", "question": "Lateral reading means:", "options": ["Reading while lying down", "Checking other sources to verify claims", "Reading left to right", "Skimming quickly"], "correct": 1},
+          {"type": "true_false", "question": "A .gov website is generally more reliable for government data than a .com blog.", "answer": true},
+          {"type": "multiple_choice", "question": "When the same event is described with different words to create different impressions, this is:", "options": ["Agenda setting", "Framing and language bias", "Fact-checking", "Lateral reading"], "correct": 1},
+          {"type": "multiple_choice", "question": "The best defense against misinformation is:", "options": ["Believing everything you read", "Never reading the news", "Critical thinking and checking multiple reliable sources", "Only reading one trusted source"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "media_maven"
+      }
+    }
+  ]
+}

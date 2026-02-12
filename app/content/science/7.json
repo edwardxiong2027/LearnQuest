@@ -1,0 +1,2042 @@
+{
+  "grade": 7,
+  "subject": "science",
+  "units": [
+    {
+      "id": "7-sci-1",
+      "title": "Genetics & Heredity",
+      "description": "Discover how traits are passed from parents to offspring. Learn about DNA, genes, dominant and recessive traits, and how Gregor Mendel's experiments with pea plants laid the foundation for modern genetics.",
+      "lessons": [
+        {
+          "id": "7-sci-1-1",
+          "title": "Introduction to Heredity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Heredity is the passing of traits from parents to their offspring. A trait is a characteristic of an organism, such as eye color, hair color, height, or the shape of a flower. Some traits are inherited (passed through genes from parents), while others are influenced by the environment (like a scar or a suntan). The study of heredity is called genetics. Gregor Mendel, an Austrian monk in the 1800s, is known as the 'Father of Genetics.' He studied heredity by cross-pollinating pea plants and carefully tracking traits across generations. Mendel chose pea plants because they reproduce quickly, have easily observable traits, and he could control which plants bred together. He studied seven traits, including seed color (yellow vs. green), seed shape (round vs. wrinkled), flower color (purple vs. white), and plant height (tall vs. short). Through thousands of experiments, Mendel discovered that traits are determined by discrete units (which we now call genes) and that these units come in pairs — one inherited from each parent.",
+            "examples": [
+              {
+                "problem": "Why is Gregor Mendel called the 'Father of Genetics'?",
+                "answer": "He discovered the basic principles of heredity through his experiments with pea plants.",
+                "explanation": "Mendel's careful experiments with pea plants in the 1800s revealed how traits are passed from parents to offspring, establishing the foundation for the science of genetics."
+              },
+              {
+                "problem": "Is a scar an inherited trait?",
+                "answer": "No, a scar is an acquired trait caused by the environment, not inherited through genes.",
+                "explanation": "Inherited traits come from your parents through DNA. Acquired traits happen during your life due to experiences or environment and cannot be passed to offspring."
+              }
+            ],
+            "key_vocabulary": ["heredity", "trait", "genetics", "Gregor Mendel", "inherited trait", "acquired trait", "gene", "cross-pollination"],
+            "real_world": "Look at your family — you might have your mother's eye color and your father's nose shape. These are inherited traits that were passed to you through your parents' genes."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is heredity?",
+              "options": ["The study of cells", "The passing of traits from parents to offspring", "The process of evolution", "The study of fossils"],
+              "correct": 1,
+              "hint": "Think about how you got your eye color or hair color."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gregor Mendel is known as the 'Father of ___.'",
+              "answer": "Genetics",
+              "hint": "He established the science of how traits are inherited."
+            },
+            {
+              "type": "true_false",
+              "question": "Mendel studied heredity using dogs.",
+              "answer": false,
+              "hint": "He chose organisms that reproduce quickly and have easily observable traits."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is an inherited trait?",
+              "options": ["A broken arm", "Natural eye color", "A suntan", "A haircut"],
+              "correct": 1,
+              "hint": "Inherited traits are determined by genes from your parents."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why did Mendel use pea plants for his experiments?",
+              "options": ["They were the only plants available", "They reproduce quickly and have easily observable traits", "They are the largest plants", "They don't have genes"],
+              "correct": 1,
+              "hint": "He needed organisms he could study across many generations quickly."
+            },
+            {
+              "type": "true_false",
+              "question": "You inherit one copy of each gene from each parent.",
+              "answer": true,
+              "hint": "Genes come in pairs — one from your mother and one from your father."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-1-2",
+          "title": "Dominant and Recessive Alleles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Genes are sections of DNA that code for specific traits. Different versions of the same gene are called alleles. For example, the gene for pea plant flower color has two alleles: one for purple flowers and one for white flowers. Mendel discovered that some alleles are dominant and others are recessive. A dominant allele masks or hides the effect of a recessive allele when both are present. Dominant alleles are represented with a capital letter (like B for brown eyes), and recessive alleles are represented with a lowercase letter (like b for blue eyes). Since you inherit one allele from each parent, you have two alleles for every gene. This combination is called your genotype. If both alleles are the same (BB or bb), you are homozygous for that trait. If the alleles are different (Bb), you are heterozygous. The physical appearance that results from your genotype is called your phenotype. A person with genotype BB or Bb would both have the phenotype of brown eyes, because the dominant B allele masks the recessive b allele. Only someone with genotype bb would have blue eyes.",
+            "examples": [
+              {
+                "problem": "If B = brown eyes (dominant) and b = blue eyes (recessive), what eye color does a person with genotype Bb have?",
+                "answer": "Brown eyes",
+                "explanation": "Since B (brown) is dominant over b (blue), even one copy of the B allele will produce brown eyes. Only bb produces blue eyes."
+              },
+              {
+                "problem": "What is the difference between genotype and phenotype?",
+                "answer": "Genotype is the combination of alleles (like Bb), and phenotype is the physical trait that results (like brown eyes).",
+                "explanation": "Genotype is the genetic makeup; phenotype is what you actually see. Two organisms can have the same phenotype (brown eyes) but different genotypes (BB vs. Bb)."
+              }
+            ],
+            "key_vocabulary": ["allele", "dominant", "recessive", "genotype", "phenotype", "homozygous", "heterozygous", "gene"],
+            "real_world": "If both your parents have brown eyes but you have blue eyes, it means both parents are heterozygous (Bb). You inherited a recessive b allele from each parent, giving you the genotype bb."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which letter represents a dominant allele?",
+              "options": ["Lowercase letter (b)", "Capital letter (B)", "A number", "A Greek letter"],
+              "correct": 1,
+              "hint": "Dominant alleles are always written in uppercase."
+            },
+            {
+              "type": "fill_in",
+              "question": "Different versions of the same gene are called ___.",
+              "answer": "alleles",
+              "hint": "For example, a gene for eye color might have a brown version and a blue version."
+            },
+            {
+              "type": "true_false",
+              "question": "A person with genotype Bb is homozygous.",
+              "answer": false,
+              "hint": "Homozygous means both alleles are the same (BB or bb). Different alleles means heterozygous."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What genotype must a person have to show a recessive trait?",
+              "options": ["BB", "Bb", "bb", "Either BB or Bb"],
+              "correct": 2,
+              "hint": "The recessive allele can only show when there is no dominant allele to mask it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is a phenotype?",
+              "options": ["The combination of alleles an organism has", "The physical appearance of a trait", "A type of gene", "A type of cell"],
+              "correct": 1,
+              "hint": "It's what you can actually observe or see."
+            },
+            {
+              "type": "fill_in",
+              "question": "An organism that has two identical alleles (like BB) for a trait is said to be ___.",
+              "answer": "homozygous",
+              "hint": "'Homo' means same, and 'zygous' relates to the allele pair."
+            },
+            {
+              "type": "true_false",
+              "question": "A dominant allele always masks the effect of a recessive allele.",
+              "answer": true,
+              "hint": "That's the definition of dominant — it hides the recessive allele's effect when both are present."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-1-3",
+          "title": "Punnett Squares",
+          "type": "lesson",
+          "content": {
+            "explanation": "A Punnett square is a tool used to predict the possible genotypes and phenotypes of offspring from a cross between two parents. It was invented by Reginald Punnett in the early 1900s. To use a Punnett square, you write one parent's alleles across the top and the other parent's alleles along the side. Then you fill in each box by combining the allele from the top with the allele from the side. Each box represents an equally likely genotype for the offspring. For example, if you cross two heterozygous parents (Bb x Bb), the Punnett square shows four possible outcomes: BB, Bb, Bb, and bb. This gives a genotype ratio of 1 BB : 2 Bb : 1 bb, and a phenotype ratio of 3 dominant : 1 recessive (since BB and Bb both show the dominant trait). These ratios represent probabilities — there's a 75% chance of the dominant phenotype and a 25% chance of the recessive phenotype. Keep in mind that these are probabilities, not guarantees. Just like flipping a coin, each individual offspring event is independent.",
+            "examples": [
+              {
+                "problem": "Cross Bb x Bb. What percentage of offspring are expected to show the recessive phenotype?",
+                "answer": "25% (1 out of 4)",
+                "explanation": "The Punnett square gives: BB, Bb, Bb, bb. Only bb shows the recessive phenotype, and that's 1 out of 4 boxes = 25%."
+              },
+              {
+                "problem": "Cross BB x bb. What are the possible genotypes of the offspring?",
+                "answer": "All offspring will be Bb (100% heterozygous).",
+                "explanation": "Parent 1 can only give B, and Parent 2 can only give b. Every combination is Bb."
+              }
+            ],
+            "key_vocabulary": ["Punnett square", "cross", "genotype ratio", "phenotype ratio", "probability", "offspring", "heterozygous", "homozygous"],
+            "real_world": "Dog breeders use Punnett squares to predict the coat colors and other traits of puppies. Genetic counselors use similar tools to assess the probability of inherited disorders."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a cross between Bb x Bb, what is the expected genotype ratio?",
+              "options": ["All Bb", "1 BB : 2 Bb : 1 bb", "1 BB : 1 bb", "All BB"],
+              "correct": 1,
+              "hint": "Fill out the Punnett square — there are four boxes."
+            },
+            {
+              "type": "fill_in",
+              "question": "A tool used to predict the genotypes of offspring is called a ___ square.",
+              "answer": "Punnett",
+              "hint": "Named after Reginald ___, who invented it."
+            },
+            {
+              "type": "true_false",
+              "question": "If you cross BB x bb, all offspring will be heterozygous (Bb).",
+              "answer": true,
+              "hint": "One parent can only give B, the other can only give b."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the expected phenotype ratio when crossing two heterozygous parents (Bb x Bb)?",
+              "options": ["1 dominant : 1 recessive", "3 dominant : 1 recessive", "All dominant", "All recessive"],
+              "correct": 1,
+              "hint": "BB and Bb both show the dominant trait. Only bb shows recessive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a cross between Bb x bb, what percentage of offspring are expected to show the recessive phenotype?",
+              "options": ["0%", "25%", "50%", "100%"],
+              "correct": 2,
+              "hint": "Draw the Punnett square: Bb and bb are the possible outcomes."
+            },
+            {
+              "type": "true_false",
+              "question": "Punnett square results guarantee exact outcomes for every offspring.",
+              "answer": false,
+              "hint": "Punnett squares show probabilities, not guarantees — like flipping a coin."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-1-4",
+          "title": "DNA: The Code of Life",
+          "type": "lesson",
+          "content": {
+            "explanation": "DNA (deoxyribonucleic acid) is the molecule that carries the genetic instructions for all living things. It is found in the nucleus of every cell. DNA has a unique shape called a double helix — imagine a twisted ladder. The sides of the ladder are made of alternating sugar (deoxyribose) and phosphate molecules. The rungs of the ladder are made of pairs of nitrogen bases. There are four nitrogen bases: adenine (A), thymine (T), guanine (G), and cytosine (C). These bases pair in a specific way: A always pairs with T, and G always pairs with C. This is called complementary base pairing. The sequence of these bases along the DNA strand forms a code — like letters forming words. A gene is a specific segment of DNA that contains the instructions for making a particular protein. Proteins are the molecules that actually carry out most of the cell's functions, from building structures to speeding up chemical reactions. The Human Genome Project, completed in 2003, mapped all the DNA in human cells. Humans have about 20,000-25,000 genes spread across 23 pairs of chromosomes.",
+            "examples": [
+              {
+                "problem": "If one strand of DNA reads ATCGGA, what does the complementary strand read?",
+                "answer": "TAGCCT",
+                "explanation": "A pairs with T, T pairs with A, C pairs with G, G pairs with C, G pairs with C, A pairs with T. So ATCGGA → TAGCCT."
+              },
+              {
+                "problem": "What is the shape of DNA?",
+                "answer": "A double helix (twisted ladder)",
+                "explanation": "James Watson and Francis Crick discovered this shape in 1953, with crucial X-ray data from Rosalind Franklin."
+              }
+            ],
+            "key_vocabulary": ["DNA", "double helix", "nitrogen bases", "adenine", "thymine", "guanine", "cytosine", "complementary base pairing", "gene", "chromosome", "protein"],
+            "real_world": "DNA testing is used in many ways: solving crimes (forensic DNA), determining ancestry (like DNA testing kits), diagnosing genetic diseases, and even identifying remains of ancient organisms."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the shape of DNA?",
+              "options": ["Single helix", "Double helix", "Triple helix", "Flat sheet"],
+              "correct": 1,
+              "hint": "Think of a twisted ladder."
+            },
+            {
+              "type": "fill_in",
+              "question": "In DNA, adenine (A) always pairs with ___.",
+              "answer": "thymine",
+              "hint": "Remember: A-T and G-C are the base pairs."
+            },
+            {
+              "type": "true_false",
+              "question": "Guanine pairs with cytosine in DNA.",
+              "answer": true,
+              "hint": "The base pairing rules are A-T and G-C."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a DNA strand reads GCTA, what is the complementary strand?",
+              "options": ["GCTA", "TAGC", "CGAT", "ATGC"],
+              "correct": 2,
+              "hint": "G pairs with C, C pairs with G, T pairs with A, A pairs with T."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does DNA stand for?",
+              "options": ["Deoxyribonucleic acid", "Double nucleic acid", "Deoxyribose nucleotide arrangement", "Dynamic nucleic assembly"],
+              "correct": 0,
+              "hint": "The full name includes 'deoxyribo-' and 'nucleic acid.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "A specific segment of DNA that codes for a particular protein is called a ___.",
+              "answer": "gene",
+              "hint": "Humans have about 20,000-25,000 of these."
+            },
+            {
+              "type": "true_false",
+              "question": "DNA is found in the mitochondria, not the nucleus.",
+              "answer": false,
+              "hint": "While mitochondria do have a small amount of their own DNA, the vast majority of an organism's DNA is in the nucleus."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-1-5",
+          "title": "Genetic Variations and Mutations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Even though all humans share about 99.9% of the same DNA, the small differences in our genes create the incredible variety we see among people — different eye colors, hair textures, heights, and more. This genetic variation comes from several sources. Sexual reproduction is the biggest source of variation because offspring receive a unique combination of alleles from two parents. During meiosis (the cell division that creates sex cells), chromosomes exchange segments in a process called crossing over, creating even more unique combinations. Mutations are permanent changes in the DNA sequence. They can be caused by errors during DNA replication, or by environmental factors like UV radiation or certain chemicals. Most mutations are neutral and have no noticeable effect. Some mutations are harmful, causing genetic disorders like sickle cell disease or cystic fibrosis. Rarely, a mutation can be beneficial, giving an organism an advantage. For example, a mutation might help a bacterium resist an antibiotic. Mutations are the ultimate source of all genetic variation and are the raw material for evolution by natural selection.",
+            "examples": [
+              {
+                "problem": "What is a mutation?",
+                "answer": "A permanent change in the DNA sequence of an organism.",
+                "explanation": "Mutations can range from a single base pair change to large rearrangements of chromosomes. They can be caused by errors in DNA replication or environmental factors."
+              },
+              {
+                "problem": "Why are offspring from sexual reproduction genetically unique?",
+                "answer": "They receive a unique combination of alleles from two parents, and crossing over creates additional variation.",
+                "explanation": "Each parent contributes half their DNA, and the specific combination is different each time. This is why siblings (except identical twins) look different from each other."
+              }
+            ],
+            "key_vocabulary": ["genetic variation", "mutation", "meiosis", "crossing over", "sexual reproduction", "DNA replication", "genetic disorder", "sickle cell disease", "beneficial mutation"],
+            "real_world": "Antibiotic resistance in bacteria is an example of beneficial mutations (for the bacteria, not for us). A random mutation helps some bacteria survive antibiotics, and they pass that trait to their offspring."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the main source of genetic variation in organisms that reproduce sexually?",
+              "options": ["Identical DNA from both parents", "Unique combination of alleles from two parents", "Only mutations", "Environmental factors only"],
+              "correct": 1,
+              "hint": "Each parent contributes half their DNA, creating a unique combination."
+            },
+            {
+              "type": "fill_in",
+              "question": "A permanent change in the DNA sequence is called a ___.",
+              "answer": "mutation",
+              "hint": "These can be neutral, harmful, or beneficial."
+            },
+            {
+              "type": "true_false",
+              "question": "All mutations are harmful.",
+              "answer": false,
+              "hint": "Most mutations are neutral. Some are harmful, and rarely, some are beneficial."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "During meiosis, chromosomes exchange segments in a process called:",
+              "options": ["Mitosis", "Crossing over", "Binary fission", "Mutation"],
+              "correct": 1,
+              "hint": "This process increases genetic variation by mixing parental chromosome segments."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following can cause mutations?",
+              "options": ["UV radiation", "Errors in DNA replication", "Certain chemicals", "All of the above"],
+              "correct": 3,
+              "hint": "Mutations have multiple possible causes."
+            },
+            {
+              "type": "true_false",
+              "question": "All humans share about 99.9% of the same DNA.",
+              "answer": true,
+              "hint": "The small 0.1% difference accounts for all the visible variation among people."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who is known as the 'Father of Genetics'?",
+            "options": ["Charles Darwin", "Gregor Mendel", "James Watson", "Rosalind Franklin"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "A person with genotype Bb is heterozygous.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In DNA, which base pairs with adenine?",
+            "options": ["Cytosine", "Guanine", "Thymine", "Adenine"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In a Bb x Bb cross, what fraction of offspring is expected to be homozygous recessive (bb)?",
+            "options": ["1/2", "1/4", "3/4", "1/3"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Dominant alleles are represented by lowercase letters.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the physical appearance of a trait called?",
+            "options": ["Genotype", "Allele", "Phenotype", "Chromosome"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What shape is the DNA molecule?",
+            "options": ["Single strand", "Triple helix", "Double helix", "Circular ring"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Most mutations have no noticeable effect on the organism.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does a Punnett square predict?",
+            "options": ["The exact traits of every offspring", "The probable genotypes and phenotypes of offspring", "The age of an organism", "The number of chromosomes"],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "genetics_guru"
+      }
+    },
+    {
+      "id": "7-sci-2",
+      "title": "Evolution & Adaptation",
+      "description": "Learn how species change over time through natural selection. Explore the evidence for evolution, how adaptations help organisms survive, and how new species form.",
+      "lessons": [
+        {
+          "id": "7-sci-2-1",
+          "title": "What is Evolution?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Evolution is the process by which populations of organisms change over successive generations through changes in heritable traits. It is one of the most important concepts in biology because it explains the diversity of life on Earth. Charles Darwin, a British naturalist, developed the theory of evolution by natural selection after a famous voyage on the HMS Beagle in the 1830s. During this voyage, Darwin observed the incredible variety of species on the Galapagos Islands, particularly the finches. He noticed that finches on different islands had different beak shapes suited to the food sources available on their particular island. This observation led him to conclude that species are not fixed — they change over time in response to their environment. Darwin published his theory in 1859 in a book called 'On the Origin of Species.' The key idea is that organisms with traits better suited to their environment are more likely to survive, reproduce, and pass those traits to the next generation. Over many generations, this process leads to significant changes in populations.",
+            "examples": [
+              {
+                "problem": "What did Darwin observe about the finches on the Galapagos Islands?",
+                "answer": "Finches on different islands had different beak shapes suited to the food sources on their island.",
+                "explanation": "Finches that ate seeds had strong, thick beaks. Those that ate insects had thin, pointed beaks. Each population had adapted to its environment over many generations."
+              },
+              {
+                "problem": "What book did Darwin publish about his theory?",
+                "answer": "On the Origin of Species (1859)",
+                "explanation": "This book presented the evidence for evolution by natural selection and is one of the most important scientific works ever published."
+              }
+            ],
+            "key_vocabulary": ["evolution", "natural selection", "Charles Darwin", "population", "heritable traits", "Galapagos Islands", "adaptation", "species"],
+            "real_world": "Dog breeds are an example of artificial selection — humans deliberately bred dogs with specific traits over thousands of years, creating everything from tiny Chihuahuas to massive Great Danes, all from the same ancestral wolf."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who developed the theory of evolution by natural selection?",
+              "options": ["Gregor Mendel", "Isaac Newton", "Charles Darwin", "Louis Pasteur"],
+              "correct": 2,
+              "hint": "He sailed on the HMS Beagle and studied finches on the Galapagos Islands."
+            },
+            {
+              "type": "fill_in",
+              "question": "Evolution is the change in heritable traits in a ___ over successive generations.",
+              "answer": "population",
+              "hint": "Evolution happens to groups, not individuals."
+            },
+            {
+              "type": "true_false",
+              "question": "Darwin observed that finches on different Galapagos Islands all had the same beak shape.",
+              "answer": false,
+              "hint": "The finches had different beak shapes suited to different food sources."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does natural selection mean?",
+              "options": ["Organisms choose their traits", "Organisms with advantageous traits survive and reproduce more", "All organisms evolve at the same rate", "Only the largest organisms survive"],
+              "correct": 1,
+              "hint": "Nature 'selects' organisms that are best suited to their environment."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Evolution occurs over:",
+              "options": ["A single day", "One generation", "Many generations", "Exactly 100 years"],
+              "correct": 2,
+              "hint": "It's a gradual process that takes place across many, many generations."
+            },
+            {
+              "type": "true_false",
+              "question": "Dog breeds are an example of artificial selection.",
+              "answer": true,
+              "hint": "Humans chose which dogs to breed based on desired traits."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-2-2",
+          "title": "Natural Selection in Action",
+          "type": "lesson",
+          "content": {
+            "explanation": "Natural selection works through four key steps. First, there must be variation within a population — individuals differ in their traits (like color, size, or speed). Second, there must be a struggle for existence — organisms compete for limited resources like food, water, and shelter, and face threats from predators and disease. Third, survival of the fittest occurs — organisms whose traits give them an advantage in their environment are more likely to survive. The word 'fitness' in biology doesn't mean physically strong — it means how well an organism is suited to its environment. Fourth, reproduction with inheritance — the organisms that survive pass their advantageous traits to their offspring. Over many generations, the frequency of beneficial traits increases in the population. A classic example is the peppered moth in England during the Industrial Revolution. Before pollution darkened tree trunks, light-colored moths were camouflaged and survived better. After pollution darkened the trees, dark-colored moths had the advantage. The moth population shifted from mostly light to mostly dark over just a few decades.",
+            "examples": [
+              {
+                "problem": "Explain how the peppered moth is an example of natural selection.",
+                "answer": "When trees darkened from pollution, dark moths were better camouflaged, survived more, and reproduced more. The population shifted from mostly light to mostly dark.",
+                "explanation": "This shows all four steps: variation (light and dark moths), struggle (predation by birds), survival of the fittest (dark moths on dark trees), and inheritance (passing dark color to offspring)."
+              },
+              {
+                "problem": "What does 'survival of the fittest' mean in biology?",
+                "answer": "Organisms best suited to their environment are most likely to survive and reproduce.",
+                "explanation": "'Fittest' doesn't mean strongest — it means the best fit for the environment. A well-camouflaged organism is 'fitter' than a strong one that's easily seen by predators."
+              }
+            ],
+            "key_vocabulary": ["variation", "struggle for existence", "survival of the fittest", "fitness", "natural selection", "peppered moth", "adaptation", "frequency"],
+            "real_world": "Bacteria that survive antibiotic treatment pass their resistance genes to offspring, creating 'superbugs.' This is natural selection happening in real time and is a major medical concern."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the first requirement for natural selection to occur?",
+              "options": ["A large population", "Variation within a population", "Extreme temperatures", "Predators"],
+              "correct": 1,
+              "hint": "Natural selection needs differences among individuals to 'select' from."
+            },
+            {
+              "type": "fill_in",
+              "question": "In biology, '_____' means how well suited an organism is to its environment.",
+              "answer": "fitness",
+              "hint": "It's not about being physically strong — it's about being the best fit."
+            },
+            {
+              "type": "true_false",
+              "question": "In natural selection, organisms choose which traits to develop.",
+              "answer": false,
+              "hint": "Natural selection is not a choice — it's determined by which traits help organisms survive."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why did dark peppered moths become more common during the Industrial Revolution?",
+              "options": ["Moths chose to become darker", "Pollution darkened trees, so dark moths were better camouflaged", "Dark moths were stronger", "Scientists bred them"],
+              "correct": 1,
+              "hint": "Think about which color moth would be harder for birds to see on a dark tree."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are the four steps of natural selection?",
+              "options": ["Birth, growth, death, decay", "Variation, struggle, survival of fittest, reproduction", "Mutation, migration, selection, extinction", "Creation, adaptation, mutation, evolution"],
+              "correct": 1,
+              "hint": "There must be differences, competition, differential survival, and passing traits to offspring."
+            },
+            {
+              "type": "true_false",
+              "question": "Natural selection acts on individuals, not populations.",
+              "answer": false,
+              "hint": "While individuals survive or die, natural selection changes the traits of the population over time."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-2-3",
+          "title": "Adaptations",
+          "type": "lesson",
+          "content": {
+            "explanation": "An adaptation is a trait that helps an organism survive and reproduce in its environment. Adaptations develop over many generations through natural selection. There are three main types of adaptations. Structural adaptations are physical features of an organism, like a polar bear's thick fur for insulation, a cactus's spines to reduce water loss, or a bird's beak shape suited to its food source. Behavioral adaptations are actions that help survival, like bird migration to warmer climates in winter, nocturnal animals hunting at night to avoid predators, and bears hibernating through winter when food is scarce. Physiological adaptations are internal body processes, like a rattlesnake's ability to produce venom, camels storing fat in their humps for energy in the desert, or bacteria producing enzymes that break down antibiotics. Organisms that are well-adapted to their environment have higher fitness and are more likely to survive and reproduce. If an environment changes faster than a population can adapt, the species may become endangered or extinct.",
+            "examples": [
+              {
+                "problem": "Is a bird migrating south for winter a structural or behavioral adaptation?",
+                "answer": "Behavioral adaptation",
+                "explanation": "Migration is an action the bird takes — a behavior — not a physical body structure. It helps the bird survive winter by moving to areas with more food."
+              },
+              {
+                "problem": "Why do cacti have spines instead of leaves?",
+                "answer": "Spines reduce water loss and protect the cactus from herbivores.",
+                "explanation": "This is a structural adaptation to the desert environment, where water conservation is critical for survival."
+              }
+            ],
+            "key_vocabulary": ["adaptation", "structural adaptation", "behavioral adaptation", "physiological adaptation", "camouflage", "mimicry", "migration", "hibernation"],
+            "real_world": "Stick insects look exactly like twigs — a structural adaptation called camouflage. Some harmless butterflies have wing patterns that mimic poisonous species — this is called mimicry and discourages predators."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "A polar bear's thick fur is an example of which type of adaptation?",
+              "options": ["Behavioral", "Physiological", "Structural", "Genetic"],
+              "correct": 2,
+              "hint": "Thick fur is a physical feature of the bear's body."
+            },
+            {
+              "type": "fill_in",
+              "question": "When an organism blends in with its environment using color or pattern, it is called ___.",
+              "answer": "camouflage",
+              "hint": "Think about how a chameleon changes color to blend in."
+            },
+            {
+              "type": "true_false",
+              "question": "Adaptations develop within a single organism's lifetime.",
+              "answer": false,
+              "hint": "Adaptations develop over many generations through natural selection."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Bears hibernating in winter is an example of which type of adaptation?",
+              "options": ["Structural", "Physiological", "Behavioral", "None of these"],
+              "correct": 2,
+              "hint": "Hibernation is an action — something the bear does."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A rattlesnake producing venom is an example of which type of adaptation?",
+              "options": ["Structural", "Behavioral", "Physiological", "Camouflage"],
+              "correct": 2,
+              "hint": "Producing venom is an internal body process."
+            },
+            {
+              "type": "true_false",
+              "question": "If an environment changes faster than a species can adapt, the species may go extinct.",
+              "answer": true,
+              "hint": "Species need time (many generations) to adapt through natural selection."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-2-4",
+          "title": "Evidence for Evolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Scientists have gathered overwhelming evidence for evolution from many different sources. Fossil evidence shows how organisms have changed over time. The fossil record shows transitional forms — organisms with features of both ancestral and descendant groups, like Archaeopteryx (which had features of both dinosaurs and birds). Comparative anatomy reveals homologous structures — body parts that are structurally similar in different species because they share a common ancestor. For example, the arm bones of humans, whales, bats, and dogs all have the same basic bone structure (humerus, radius, ulna) even though they serve different functions. Embryology shows that the embryos of different vertebrates look remarkably similar in early stages, suggesting common ancestry. DNA evidence (molecular biology) is the strongest evidence — closely related species have more similar DNA sequences. For instance, human DNA is about 98.7% identical to chimpanzee DNA. Biogeography (the study of where species live) also supports evolution — island species often closely resemble species on the nearest mainland, suggesting they evolved from mainland ancestors.",
+            "examples": [
+              {
+                "problem": "Why are the arm bones of humans, whales, and bats considered evidence for evolution?",
+                "answer": "They are homologous structures — they share the same basic bone structure despite different functions, suggesting a common ancestor.",
+                "explanation": "A human arm, a whale flipper, and a bat wing all have the same bones (humerus, radius, ulna) arranged similarly, even though they are used for different purposes."
+              },
+              {
+                "problem": "How does DNA evidence support evolution?",
+                "answer": "Species that are more closely related have more similar DNA sequences.",
+                "explanation": "Human DNA is about 98.7% identical to chimpanzee DNA, suggesting we share a recent common ancestor. The more distantly related two species are, the more different their DNA."
+              }
+            ],
+            "key_vocabulary": ["fossil record", "transitional form", "homologous structures", "comparative anatomy", "embryology", "biogeography", "molecular biology", "common ancestor"],
+            "real_world": "The discovery of Tiktaalik, a 375-million-year-old fossil with features of both fish and four-legged animals, is a transitional form that shows how aquatic vertebrates evolved to live on land."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What are homologous structures?",
+              "options": ["Structures with the same function in different species", "Structures with similar anatomy in different species due to common ancestry", "Structures found only in humans", "Structures that serve no purpose"],
+              "correct": 1,
+              "hint": "They have similar bone structure even if used for different purposes."
+            },
+            {
+              "type": "fill_in",
+              "question": "Human DNA is about ___% identical to chimpanzee DNA.",
+              "answer": "98.7",
+              "hint": "It's a very high percentage, reflecting close evolutionary relationship."
+            },
+            {
+              "type": "true_false",
+              "question": "The fossil record provides no evidence for evolution.",
+              "answer": false,
+              "hint": "Fossils show how organisms have changed over millions of years."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which field of study compares embryos of different species as evidence for evolution?",
+              "options": ["Biogeography", "Embryology", "Geology", "Astronomy"],
+              "correct": 1,
+              "hint": "It studies early developmental stages of organisms."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is a transitional form?",
+              "options": ["A modern species", "A fossil showing features of both ancestral and descendant groups", "A mutation", "An extinct species with no relatives"],
+              "correct": 1,
+              "hint": "Archaeopteryx, with features of both dinosaurs and birds, is a famous example."
+            },
+            {
+              "type": "true_false",
+              "question": "Species on islands often closely resemble species on the nearest mainland.",
+              "answer": true,
+              "hint": "This biogeographic evidence suggests island species evolved from mainland ancestors."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who developed the theory of evolution by natural selection?",
+            "options": ["Gregor Mendel", "Charles Darwin", "Carl Linnaeus", "Louis Pasteur"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Natural selection requires variation within a population.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A polar bear's white fur is an example of which type of adaptation?",
+            "options": ["Behavioral", "Structural", "Physiological", "Genetic"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Body parts with similar structure in different species due to common ancestry are called:",
+            "options": ["Analogous structures", "Homologous structures", "Vestigial structures", "Parallel structures"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "In biology, 'fitness' means how physically strong an organism is.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is the strongest evidence for evolution?",
+            "options": ["Fossil record only", "Comparative anatomy only", "DNA (molecular) evidence", "Biogeography only"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What happened to peppered moths during England's Industrial Revolution?",
+            "options": ["They all turned white", "Dark moths became more common as trees darkened from pollution", "They went extinct", "They migrated away"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Adaptations develop in a single generation.",
+            "answer": false
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "evolution_expert"
+      }
+    },
+    {
+      "id": "7-sci-3",
+      "title": "Chemistry: Periodic Table, Compounds & Reactions",
+      "description": "Explore the periodic table in depth, learn how atoms combine to form compounds through chemical bonds, and discover how chemical reactions rearrange atoms to create new substances.",
+      "lessons": [
+        {
+          "id": "7-sci-3-1",
+          "title": "The Periodic Table in Depth",
+          "type": "lesson",
+          "content": {
+            "explanation": "The periodic table organizes all known elements based on their atomic number, electron configuration, and chemical properties. Elements are arranged in rows called periods (7 periods) and columns called groups or families (18 groups). Elements in the same group share similar chemical properties because they have the same number of valence electrons (electrons in the outermost shell). Key groups include: Group 1, the Alkali Metals (Li, Na, K) — very reactive metals that are soft and have low density; Group 2, the Alkaline Earth Metals (Be, Mg, Ca) — reactive but less so than Group 1; Groups 3-12, the Transition Metals (Fe, Cu, Au, Ag) — includes many common metals that are hard, shiny, and good conductors; Group 17, the Halogens (F, Cl, Br, I) — very reactive nonmetals that form salts with metals; and Group 18, the Noble Gases (He, Ne, Ar, Kr) — extremely unreactive because they have full outer electron shells. The number of valence electrons increases from left to right across each period: Group 1 has 1, Group 2 has 2, and so on, with Group 18 having 8 (except He with 2).",
+            "examples": [
+              {
+                "problem": "Why are noble gases unreactive?",
+                "answer": "They have full outer electron shells, so they don't need to gain, lose, or share electrons.",
+                "explanation": "Having a full outer shell (usually 8 electrons, called an octet) makes an atom stable. Noble gases already have this, so they rarely react with other elements."
+              },
+              {
+                "problem": "Why are elements in the same group of the periodic table similar?",
+                "answer": "They have the same number of valence electrons, which determines how they react chemically.",
+                "explanation": "For example, all alkali metals (Group 1) have 1 valence electron, making them all highly reactive and eager to lose that electron."
+              }
+            ],
+            "key_vocabulary": ["periodic table", "period", "group", "valence electrons", "alkali metals", "alkaline earth metals", "transition metals", "halogens", "noble gases"],
+            "real_world": "Gold (Au), silver (Ag), and copper (Cu) are transition metals used in jewelry and electronics. Helium (He) is a noble gas used in balloons — it's unreactive, so it won't explode like hydrogen."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Elements in the same column (group) have similar properties because they have the same number of:",
+              "options": ["Protons", "Neutrons", "Valence electrons", "Total electrons"],
+              "correct": 2,
+              "hint": "These outermost electrons determine how an element reacts."
+            },
+            {
+              "type": "fill_in",
+              "question": "Group 18 elements are called ___ gases because they are extremely unreactive.",
+              "answer": "noble",
+              "hint": "They have full outer electron shells and don't react with other elements."
+            },
+            {
+              "type": "true_false",
+              "question": "Alkali metals (Group 1) are very unreactive.",
+              "answer": false,
+              "hint": "Alkali metals are actually the MOST reactive metals on the periodic table."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many valence electrons do elements in Group 1 have?",
+              "options": ["1", "2", "7", "8"],
+              "correct": 0,
+              "hint": "The group number for the main groups often tells you the number of valence electrons."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which group of elements includes very reactive nonmetals that form salts with metals?",
+              "options": ["Noble gases", "Alkali metals", "Halogens", "Transition metals"],
+              "correct": 2,
+              "hint": "The word 'halogen' comes from Greek words meaning 'salt-producing.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Rows in the periodic table are called ___.",
+              "answer": "periods",
+              "hint": "They go from left to right across the table."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-3-2",
+          "title": "Chemical Bonds: Ionic and Covalent",
+          "type": "lesson",
+          "content": {
+            "explanation": "Atoms bond with other atoms to achieve a stable electron configuration — usually a full outer shell of 8 electrons (the octet rule). There are two main types of chemical bonds. In an ionic bond, one atom transfers electrons to another. This typically happens between a metal and a nonmetal. The atom that loses electrons becomes a positively charged ion (cation), and the atom that gains electrons becomes a negatively charged ion (anion). The opposite charges attract, forming the bond. For example, sodium (Na) gives one electron to chlorine (Cl), creating Na+ and Cl- ions that attract each other to form sodium chloride (NaCl) — table salt. In a covalent bond, atoms share electrons rather than transferring them. This typically happens between two nonmetals. For example, two hydrogen atoms each share their single electron, forming H2. Water (H2O) is formed by covalent bonds: oxygen shares electrons with two hydrogen atoms. Ionic compounds tend to form crystalline solids with high melting points and conduct electricity when dissolved. Covalent compounds tend to have lower melting points and don't conduct electricity.",
+            "examples": [
+              {
+                "problem": "Is NaCl (table salt) held together by ionic or covalent bonds?",
+                "answer": "Ionic bonds",
+                "explanation": "Sodium is a metal that loses an electron, and chlorine is a nonmetal that gains an electron. The resulting Na+ and Cl- ions attract each other through ionic bonding."
+              },
+              {
+                "problem": "Is H2O (water) held together by ionic or covalent bonds?",
+                "answer": "Covalent bonds",
+                "explanation": "Oxygen and hydrogen are both nonmetals. They share electrons rather than transferring them, forming covalent bonds."
+              }
+            ],
+            "key_vocabulary": ["chemical bond", "ionic bond", "covalent bond", "ion", "cation", "anion", "octet rule", "valence electrons", "transfer", "share"],
+            "real_world": "Diamonds are made entirely of carbon atoms connected by very strong covalent bonds in a 3D network. That's why diamonds are the hardest natural material on Earth!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In an ionic bond, atoms ___ electrons.",
+              "options": ["Share", "Transfer", "Destroy", "Create"],
+              "correct": 1,
+              "hint": "One atom gives electrons and the other receives them."
+            },
+            {
+              "type": "fill_in",
+              "question": "In a covalent bond, atoms ___ electrons.",
+              "answer": "share",
+              "hint": "Both atoms use the electrons together."
+            },
+            {
+              "type": "true_false",
+              "question": "Ionic bonds typically form between two nonmetals.",
+              "answer": false,
+              "hint": "Ionic bonds form between a metal and a nonmetal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An atom that loses an electron becomes a:",
+              "options": ["Negative ion (anion)", "Positive ion (cation)", "Neutral atom", "Molecule"],
+              "correct": 1,
+              "hint": "Losing a negative electron leaves the atom with a net positive charge."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The octet rule states that atoms tend to bond until they have ___ electrons in their outer shell.",
+              "options": ["2", "4", "6", "8"],
+              "correct": 3,
+              "hint": "'Octet' means eight."
+            },
+            {
+              "type": "true_false",
+              "question": "Covalent bonds usually form between nonmetals.",
+              "answer": true,
+              "hint": "When two nonmetals come together, they share electrons rather than transferring them."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-3-3",
+          "title": "Chemical Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A chemical reaction occurs when substances (reactants) interact to form new substances (products) with different properties. In a chemical equation, reactants are written on the left side of an arrow and products on the right. For example: 2H2 + O2 → 2H2O means hydrogen gas and oxygen gas react to form water. The arrow means 'yields' or 'produces.' A fundamental law in chemistry is the Law of Conservation of Mass, which states that matter cannot be created or destroyed in a chemical reaction. This means the total number of each type of atom must be the same on both sides of the equation. When an equation has the same number of each atom on both sides, it is balanced. There are several signs that a chemical reaction has occurred: a color change, production of gas (bubbles), formation of a precipitate (solid from liquids), temperature change (release or absorption of heat), and production of light. Not all changes are chemical reactions — remember, physical changes like melting and dissolving don't form new substances.",
+            "examples": [
+              {
+                "problem": "In the equation 2H2 + O2 → 2H2O, how many hydrogen atoms are on each side?",
+                "answer": "4 hydrogen atoms on each side",
+                "explanation": "Left side: 2H2 means 2 molecules × 2 atoms = 4 hydrogen atoms. Right side: 2H2O means 2 molecules × 2 hydrogen atoms = 4 hydrogen atoms. The equation is balanced."
+              },
+              {
+                "problem": "What is the Law of Conservation of Mass?",
+                "answer": "Matter cannot be created or destroyed in a chemical reaction.",
+                "explanation": "The same atoms that go into a reaction must come out. They may be rearranged into new molecules, but no atoms are gained or lost."
+              }
+            ],
+            "key_vocabulary": ["chemical reaction", "reactant", "product", "chemical equation", "Law of Conservation of Mass", "balanced equation", "precipitate", "coefficient"],
+            "real_world": "Cooking is full of chemical reactions. When you bake bread, yeast ferments sugars and produces carbon dioxide gas (the bubbles that make bread rise) and alcohol (which evaporates during baking)."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a chemical equation, the substances you start with are called:",
+              "options": ["Products", "Catalysts", "Reactants", "Solutions"],
+              "correct": 2,
+              "hint": "They're on the left side of the arrow."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Law of Conservation of ___ states that matter cannot be created or destroyed in a chemical reaction.",
+              "answer": "Mass",
+              "hint": "The total mass of reactants must equal the total mass of products."
+            },
+            {
+              "type": "true_false",
+              "question": "In a balanced chemical equation, the number of each type of atom is the same on both sides.",
+              "answer": true,
+              "hint": "This is required by the Law of Conservation of Mass."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is NOT a sign that a chemical reaction has occurred?",
+              "options": ["Color change", "Production of gas", "Change in shape", "Temperature change"],
+              "correct": 2,
+              "hint": "Changing shape (like cutting) is a physical change, not chemical."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the equation CH4 + 2O2 → CO2 + 2H2O, what are the products?",
+              "options": ["CH4 and O2", "CO2 and H2O", "CH4 only", "O2 only"],
+              "correct": 1,
+              "hint": "Products are on the right side of the arrow."
+            },
+            {
+              "type": "fill_in",
+              "question": "The substances produced in a chemical reaction are called ___.",
+              "answer": "products",
+              "hint": "They're on the right side of the arrow in a chemical equation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-3-4",
+          "title": "Types of Chemical Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Chemical reactions can be classified into several main types based on how reactants change into products. In a synthesis (combination) reaction, two or more simple substances combine to form a more complex product: A + B → AB. Example: 2Na + Cl2 → 2NaCl (sodium and chlorine combine to form salt). In a decomposition reaction, a complex substance breaks down into simpler substances: AB → A + B. Example: 2H2O → 2H2 + O2 (water decomposes into hydrogen and oxygen gas with electricity). In a single replacement (substitution) reaction, one element replaces another in a compound: A + BC → AC + B. Example: Zn + CuSO4 → ZnSO4 + Cu (zinc replaces copper). In a double replacement reaction, the positive ions of two compounds switch places: AB + CD → AD + CB. In a combustion reaction, a substance reacts with oxygen to produce heat and light, typically forming CO2 and H2O. Example: CH4 + 2O2 → CO2 + 2H2O (methane burning). Recognizing reaction types helps predict what products will form.",
+            "examples": [
+              {
+                "problem": "What type of reaction is: 2H2 + O2 → 2H2O?",
+                "answer": "Synthesis (combination) reaction",
+                "explanation": "Two simple substances (hydrogen and oxygen) combine to form a more complex product (water). A + B → AB."
+              },
+              {
+                "problem": "What type of reaction is: 2H2O → 2H2 + O2?",
+                "answer": "Decomposition reaction",
+                "explanation": "A complex substance (water) breaks down into simpler substances (hydrogen and oxygen). AB → A + B. Notice this is the reverse of the synthesis example."
+              }
+            ],
+            "key_vocabulary": ["synthesis reaction", "decomposition reaction", "single replacement", "double replacement", "combustion", "reactant", "product"],
+            "real_world": "Your car engine runs on combustion reactions — gasoline reacts with oxygen to produce carbon dioxide, water, and energy (heat) that powers the engine."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a synthesis reaction, what happens?",
+              "options": ["A compound breaks down", "Two substances combine to form one product", "One element replaces another", "A substance burns"],
+              "correct": 1,
+              "hint": "Think: A + B → AB. Simple things combine into something more complex."
+            },
+            {
+              "type": "fill_in",
+              "question": "A reaction where a complex substance breaks into simpler substances is called a ___ reaction.",
+              "answer": "decomposition",
+              "hint": "The prefix 'de-' means to reverse or break apart."
+            },
+            {
+              "type": "true_false",
+              "question": "Combustion reactions always involve oxygen.",
+              "answer": true,
+              "hint": "Combustion is essentially burning — a substance reacting rapidly with oxygen."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Zn + CuSO4 → ZnSO4 + Cu is an example of what type of reaction?",
+              "options": ["Synthesis", "Decomposition", "Single replacement", "Combustion"],
+              "correct": 2,
+              "hint": "Zinc replaces copper in the compound."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What are the typical products of a combustion reaction involving a hydrocarbon?",
+              "options": ["Only water", "Carbon dioxide and water", "Only carbon dioxide", "Hydrogen and oxygen"],
+              "correct": 1,
+              "hint": "When something containing carbon and hydrogen burns in oxygen, it produces CO2 and H2O."
+            },
+            {
+              "type": "true_false",
+              "question": "In a single replacement reaction, two compounds swap their positive ions.",
+              "answer": false,
+              "hint": "That describes a double replacement. In a single replacement, one element replaces another in a compound."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What determines the chemical properties of an element?",
+            "options": ["Number of protons", "Number of neutrons", "Number of valence electrons", "Atomic mass"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Noble gases are very reactive.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In an ionic bond, electrons are:",
+            "options": ["Shared equally", "Transferred from one atom to another", "Destroyed", "Created"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does the Law of Conservation of Mass state?",
+            "options": ["Energy is always conserved", "Mass can be created in reactions", "Matter cannot be created or destroyed in chemical reactions", "All reactions produce heat"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Covalent bonds form when atoms share electrons.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A + B → AB is an example of what type of reaction?",
+            "options": ["Decomposition", "Synthesis", "Combustion", "Single replacement"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which group of elements is the most reactive metals?",
+            "options": ["Noble gases", "Halogens", "Alkali metals", "Transition metals"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "A balanced chemical equation has the same number of each type of atom on both sides.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "chemistry_champion"
+      }
+    },
+    {
+      "id": "7-sci-4",
+      "title": "Physics: Newton's Laws & Energy",
+      "description": "Discover Newton's three laws of motion and explore the different forms of energy. Learn how forces and energy govern everything from a rolling ball to a rocket launch.",
+      "lessons": [
+        {
+          "id": "7-sci-4-1",
+          "title": "Newton's First Law: Inertia",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's First Law of Motion states: An object at rest stays at rest, and an object in motion stays in motion with the same speed and direction, unless acted upon by an unbalanced force. This property of matter is called inertia — the tendency of an object to resist changes in its motion. The more mass an object has, the more inertia it has. Think of it this way: it's harder to start pushing a heavy boulder than a soccer ball, and it's harder to stop a moving truck than a moving bicycle. This law explains why you lurch forward when a car suddenly stops — your body was in motion and wants to stay in motion (that's why we wear seatbelts!). It also explains why a ball on a flat surface will eventually stop — friction is the unbalanced force that acts on it. If there were no friction and no air resistance, the ball would roll forever. In space, where there is virtually no friction, spacecraft continue moving at the same speed without needing to use engines.",
+            "examples": [
+              {
+                "problem": "Why do you lurch forward when a car suddenly brakes?",
+                "answer": "Because of inertia — your body was moving with the car and wants to keep moving even when the car stops.",
+                "explanation": "Newton's First Law says objects in motion stay in motion unless an unbalanced force acts on them. The brakes stop the car, but your body keeps moving forward until the seatbelt provides the stopping force."
+              },
+              {
+                "problem": "Why does a hockey puck slide so far on ice?",
+                "answer": "Ice has very little friction, so there's minimal unbalanced force to slow the puck down.",
+                "explanation": "According to Newton's First Law, the puck will keep moving until a force (friction) slows it. Less friction = farther travel."
+              }
+            ],
+            "key_vocabulary": ["Newton's First Law", "inertia", "unbalanced force", "at rest", "in motion", "friction", "mass"],
+            "real_world": "Seatbelts save lives because of Newton's First Law. In a crash, the car stops suddenly but your body keeps moving forward. The seatbelt provides the force to stop your body safely."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is inertia?",
+              "options": ["A type of force", "The tendency of an object to resist changes in motion", "The speed of an object", "A type of energy"],
+              "correct": 1,
+              "hint": "It's why heavy objects are harder to start moving and harder to stop."
+            },
+            {
+              "type": "fill_in",
+              "question": "Newton's First Law states that an object at rest stays at rest unless acted upon by a(n) ___ force.",
+              "answer": "unbalanced",
+              "hint": "If all forces are balanced, the object won't change its motion."
+            },
+            {
+              "type": "true_false",
+              "question": "An object with more mass has less inertia.",
+              "answer": false,
+              "hint": "More mass means more inertia — it's harder to change its motion."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A ball rolling on a flat surface eventually stops because of:",
+              "options": ["Gravity", "Inertia", "Friction", "Acceleration"],
+              "correct": 2,
+              "hint": "This force acts against the ball's motion, slowing it down."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In space, a moving object with no forces acting on it will:",
+              "options": ["Stop immediately", "Slow down gradually", "Keep moving at the same speed forever", "Speed up"],
+              "correct": 2,
+              "hint": "Newton's First Law: no unbalanced force = no change in motion."
+            },
+            {
+              "type": "true_false",
+              "question": "Newton's First Law explains why we need seatbelts in cars.",
+              "answer": true,
+              "hint": "In a crash, your body keeps moving forward (inertia) unless the seatbelt stops you."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-4-2",
+          "title": "Newton's Second Law: F = ma",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Second Law of Motion describes the relationship between force, mass, and acceleration. It is expressed by the equation F = ma (Force equals mass times acceleration). This means that the acceleration of an object depends on two things: the net force applied to it and its mass. If you increase the force on an object, its acceleration increases (push harder, go faster). If you increase the mass while keeping the force the same, the acceleration decreases (heavier objects are harder to accelerate). Force is measured in Newtons (N), mass in kilograms (kg), and acceleration in meters per second squared (m/s²). One Newton is the force needed to accelerate a 1 kg object at 1 m/s². For example, if you push a 10 kg shopping cart with a force of 20 N, its acceleration is: a = F/m = 20/10 = 2 m/s². This law also explains why a professional pitcher can throw a light baseball much faster than a heavy bowling ball with the same force.",
+            "examples": [
+              {
+                "problem": "If a force of 30 N acts on a 5 kg object, what is its acceleration?",
+                "answer": "6 m/s²",
+                "explanation": "Using F = ma, rearrange to a = F/m = 30 N / 5 kg = 6 m/s²."
+              },
+              {
+                "problem": "Why is it harder to push a heavy truck than a light car with the same force?",
+                "answer": "The truck has more mass, so with the same force, it accelerates less (a = F/m).",
+                "explanation": "According to F = ma, if mass increases and force stays the same, acceleration decreases."
+              }
+            ],
+            "key_vocabulary": ["Newton's Second Law", "force", "mass", "acceleration", "F = ma", "Newton (unit)", "net force"],
+            "real_world": "Race cars are built to be lightweight — less mass means more acceleration for the same engine force. That's why a sports car accelerates much faster than a heavy SUV with a similar engine."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the formula for Newton's Second Law?",
+              "options": ["F = m/a", "F = ma", "F = m + a", "F = a/m"],
+              "correct": 1,
+              "hint": "Force equals mass times acceleration."
+            },
+            {
+              "type": "fill_in",
+              "question": "If a 10 kg object is pushed with 50 N of force, its acceleration is ___ m/s².",
+              "answer": "5",
+              "hint": "a = F/m = 50/10."
+            },
+            {
+              "type": "true_false",
+              "question": "If you double the force on an object (keeping mass the same), the acceleration doubles.",
+              "answer": true,
+              "hint": "F = ma. If F doubles and m stays the same, a must double."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens to acceleration if you increase mass but keep force the same?",
+              "options": ["Acceleration increases", "Acceleration stays the same", "Acceleration decreases", "Acceleration becomes zero"],
+              "correct": 2,
+              "hint": "a = F/m. If m gets bigger and F stays the same, a gets smaller."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How much force is needed to accelerate a 3 kg object at 4 m/s²?",
+              "options": ["7 N", "12 N", "1.33 N", "0.75 N"],
+              "correct": 1,
+              "hint": "F = ma = 3 × 4."
+            },
+            {
+              "type": "fill_in",
+              "question": "The unit of force is the ___, which equals 1 kg × 1 m/s².",
+              "answer": "Newton",
+              "hint": "Named after Sir Isaac Newton."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-4-3",
+          "title": "Newton's Third Law: Action and Reaction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Third Law of Motion states: For every action, there is an equal and opposite reaction. This means that forces always come in pairs. When you push on something, it pushes back on you with equal force in the opposite direction. When you sit in a chair, your weight pushes down on the chair (action force), and the chair pushes up on you with equal force (reaction force). When you jump, your legs push down on the ground (action), and the ground pushes you up into the air (reaction). Rockets work because of the Third Law — hot gases are expelled downward (action), and the rocket is pushed upward (reaction). It's important to understand that the action and reaction forces act on different objects. When you push a wall, you push the wall (force on the wall) and the wall pushes you back (force on you). The forces are equal in magnitude and opposite in direction, but they act on different objects, so they don't cancel each other out.",
+            "examples": [
+              {
+                "problem": "How does Newton's Third Law explain how rockets work?",
+                "answer": "Hot gases are expelled downward (action), and the rocket is pushed upward with equal force (reaction).",
+                "explanation": "The rocket pushes gas molecules downward. By Newton's Third Law, the gas pushes the rocket upward with equal force. This works even in the vacuum of space."
+              },
+              {
+                "problem": "When you push against a wall, what is the reaction force?",
+                "answer": "The wall pushes back on your hands with equal force in the opposite direction.",
+                "explanation": "That's why you can feel the wall pressing against your hands — it's the reaction force."
+              }
+            ],
+            "key_vocabulary": ["Newton's Third Law", "action force", "reaction force", "force pairs", "equal and opposite"],
+            "real_world": "Swimming works because of the Third Law. When you push water backward with your hands (action), the water pushes you forward (reaction). The harder you push the water, the faster you move."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Newton's Third Law states that for every action there is:",
+              "options": ["An equal reaction in the same direction", "A greater reaction", "An equal and opposite reaction", "No reaction"],
+              "correct": 2,
+              "hint": "The key words are 'equal' and 'opposite.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "When you jump, your legs push ___ on the ground, and the ground pushes you up.",
+              "answer": "down",
+              "hint": "The action and reaction forces are in opposite directions."
+            },
+            {
+              "type": "true_false",
+              "question": "Action and reaction forces act on the same object.",
+              "answer": false,
+              "hint": "They act on different objects — that's why they don't cancel out."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A rocket expels hot gases downward. What happens to the rocket?",
+              "options": ["It moves downward", "It stays still", "It moves upward", "It spins"],
+              "correct": 2,
+              "hint": "Newton's Third Law: push something one way, get pushed the other way."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When you sit on a chair, the chair pushes up on you. This upward force is the:",
+              "options": ["Gravity", "Action force", "Reaction force", "Friction"],
+              "correct": 2,
+              "hint": "Your weight pushing down is the action; the chair's response is the reaction."
+            },
+            {
+              "type": "true_false",
+              "question": "Action and reaction forces are always equal in strength.",
+              "answer": true,
+              "hint": "Newton's Third Law says they are always equal in magnitude."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-4-4",
+          "title": "Forms of Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy is the ability to do work or cause change. Energy comes in many forms. Kinetic energy is the energy of motion — any moving object has kinetic energy. The faster and heavier an object is, the more kinetic energy it has (KE = 1/2 mv²). Potential energy is stored energy based on position or condition. Gravitational potential energy depends on height — a book on a high shelf has more gravitational PE than one on the floor. Elastic potential energy is stored in stretched or compressed objects like springs and rubber bands. Chemical energy is stored in the bonds of molecules — food, batteries, and fuel contain chemical energy. Thermal energy (heat) is the total kinetic energy of particles in a substance. Electrical energy is the energy of moving electrons through a conductor. Sound energy is the energy of vibrations traveling through matter. Light energy (radiant energy) is electromagnetic energy that travels in waves. Nuclear energy is stored in the nucleus of atoms and is released in nuclear reactions. The Law of Conservation of Energy states that energy cannot be created or destroyed, only transformed from one form to another.",
+            "examples": [
+              {
+                "problem": "What type of energy does a ball at the top of a hill have?",
+                "answer": "Gravitational potential energy",
+                "explanation": "The ball has stored energy due to its elevated position. When it rolls down, this potential energy converts to kinetic energy (energy of motion)."
+              },
+              {
+                "problem": "What energy transformation occurs when you turn on a lamp?",
+                "answer": "Electrical energy → Light energy (and thermal/heat energy)",
+                "explanation": "The electrical energy flowing through the bulb is transformed into light and heat. The heat is actually wasted energy."
+              }
+            ],
+            "key_vocabulary": ["energy", "kinetic energy", "potential energy", "gravitational PE", "elastic PE", "chemical energy", "thermal energy", "electrical energy", "Law of Conservation of Energy"],
+            "real_world": "When you eat food, your body converts the chemical energy in food into kinetic energy (movement), thermal energy (body heat), and other forms. Your body is an energy transformation machine!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of energy does a moving car have?",
+              "options": ["Potential energy", "Kinetic energy", "Chemical energy", "Nuclear energy"],
+              "correct": 1,
+              "hint": "Kinetic energy is the energy of motion."
+            },
+            {
+              "type": "fill_in",
+              "question": "Energy stored in food and fuel is called ___ energy.",
+              "answer": "chemical",
+              "hint": "This energy is stored in the bonds between atoms in molecules."
+            },
+            {
+              "type": "true_false",
+              "question": "Energy can be created from nothing.",
+              "answer": false,
+              "hint": "The Law of Conservation of Energy says energy can only be transformed, not created or destroyed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A stretched rubber band has what type of energy?",
+              "options": ["Kinetic energy", "Chemical energy", "Elastic potential energy", "Thermal energy"],
+              "correct": 2,
+              "hint": "The energy is stored in the stretched material, ready to be released."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What energy transformation occurs when a ball falls from a shelf?",
+              "options": ["Kinetic → Potential", "Chemical → Thermal", "Potential → Kinetic", "Electrical → Light"],
+              "correct": 2,
+              "hint": "The stored energy of position converts to energy of motion as it falls."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Law of Conservation of ___ states that energy cannot be created or destroyed.",
+              "answer": "Energy",
+              "hint": "Energy can only change forms — the total amount stays the same."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-4-5",
+          "title": "Energy Transformations and Transfer",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy is constantly being transformed from one form to another. In a car engine, chemical energy in gasoline is converted to thermal energy through combustion, which is then converted to kinetic energy as the car moves. In a hydroelectric dam, gravitational potential energy of water becomes kinetic energy as water falls, which turns turbines to produce electrical energy. In photosynthesis, light energy from the Sun is converted to chemical energy stored in glucose. Energy transfer occurs when energy moves from one object to another. Heat transfer happens in three ways: conduction (direct contact, like touching a hot stove), convection (movement of heated fluid, like warm air rising), and radiation (electromagnetic waves, like heat from the Sun). In every energy transformation, some energy is always converted to thermal energy (heat) that spreads out into the surroundings. This is why no machine is 100% efficient — some energy is always 'lost' as heat. Efficiency measures how much of the input energy is converted to useful output energy.",
+            "examples": [
+              {
+                "problem": "Trace the energy transformations in a flashlight.",
+                "answer": "Chemical energy (battery) → Electrical energy → Light energy + Thermal energy (heat)",
+                "explanation": "The battery stores chemical energy, which is converted to electrical energy that flows to the bulb, where it becomes light and heat."
+              },
+              {
+                "problem": "Why is no machine 100% efficient?",
+                "answer": "Some energy is always converted to heat (thermal energy) that dissipates into the surroundings.",
+                "explanation": "Friction, air resistance, and other factors always convert some useful energy into waste heat, reducing efficiency."
+              }
+            ],
+            "key_vocabulary": ["energy transformation", "energy transfer", "conduction", "convection", "radiation", "efficiency", "heat transfer", "thermal energy"],
+            "real_world": "An LED light bulb is about 90% efficient — 90% of electrical energy becomes light. An old incandescent bulb was only about 10% efficient — 90% was wasted as heat! That's why LEDs save so much energy."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which type of heat transfer occurs through direct contact?",
+              "options": ["Radiation", "Convection", "Conduction", "Transformation"],
+              "correct": 2,
+              "hint": "Think about touching a hot pan — the heat transfers directly to your hand."
+            },
+            {
+              "type": "fill_in",
+              "question": "Heat transfer through the movement of heated fluids (liquids or gases) is called ___.",
+              "answer": "convection",
+              "hint": "This is why warm air rises and cool air sinks."
+            },
+            {
+              "type": "true_false",
+              "question": "Some machines are 100% efficient.",
+              "answer": false,
+              "hint": "Energy is always partly lost as waste heat in any machine."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In photosynthesis, what energy transformation occurs?",
+              "options": ["Chemical → Light", "Light → Chemical", "Kinetic → Potential", "Thermal → Electrical"],
+              "correct": 1,
+              "hint": "Plants capture sunlight and store its energy in glucose molecules."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does the Sun's heat reach Earth?",
+              "options": ["Conduction", "Convection", "Radiation", "All three equally"],
+              "correct": 2,
+              "hint": "Space is a vacuum — there's no matter for conduction or convection."
+            },
+            {
+              "type": "true_false",
+              "question": "In every energy transformation, some energy is converted to thermal energy (heat).",
+              "answer": true,
+              "hint": "This is a fundamental principle — waste heat is unavoidable."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Newton's First Law is also called the Law of:",
+            "options": ["Acceleration", "Inertia", "Action-Reaction", "Gravity"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "According to F = ma, doubling the mass while keeping force constant will halve the acceleration.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A 5 kg object accelerated by a net force of 20 N has an acceleration of:",
+            "options": ["4 m/s²", "100 m/s²", "25 m/s²", "15 m/s²"],
+            "correct": 0
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Newton's Third Law states that action and reaction forces are:",
+            "options": ["Equal and in the same direction", "Unequal and opposite", "Equal and opposite", "Random"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Energy can be created from nothing according to the Law of Conservation of Energy.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A ball on top of a hill has primarily:",
+            "options": ["Kinetic energy", "Chemical energy", "Gravitational potential energy", "Electrical energy"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of heat transfer does NOT require matter?",
+            "options": ["Conduction", "Convection", "Radiation", "All require matter"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "An object in motion will stay in motion forever unless an unbalanced force acts on it.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "physics_pro"
+      }
+    },
+    {
+      "id": "7-sci-5",
+      "title": "Earth Science: Plate Tectonics, Earthquakes & Volcanoes",
+      "description": "Explore the dynamic forces inside Earth that shape our planet. Learn about tectonic plates, why earthquakes shake the ground, and what makes volcanoes erupt.",
+      "lessons": [
+        {
+          "id": "7-sci-5-1",
+          "title": "Earth's Interior Layers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth is not solid all the way through — it has distinct layers with different properties. The outermost layer is the crust, which is the thin, rocky layer we live on. There are two types of crust: oceanic crust (thinner, about 5-10 km, denser, made of basalt) and continental crust (thicker, about 30-50 km, less dense, made mostly of granite). Below the crust is the mantle, Earth's thickest layer (about 2,900 km thick). The upper mantle is mostly solid rock, but the asthenosphere (a zone within the upper mantle) is partially melted and flows very slowly like thick honey. This flowing layer is what allows tectonic plates to move. Below the mantle is the outer core, a layer of liquid iron and nickel about 2,200 km thick. The movement of this liquid metal generates Earth's magnetic field, which protects us from harmful solar radiation. At the very center is the inner core, a solid ball of iron and nickel about 1,200 km in radius. Despite temperatures over 5,000°C (hotter than the surface of the Sun), the inner core remains solid because of the immense pressure at Earth's center.",
+            "examples": [
+              {
+                "problem": "Why is the inner core solid even though it's extremely hot?",
+                "answer": "The immense pressure at Earth's center keeps it solid despite the high temperature.",
+                "explanation": "Normally, such extreme heat would melt metal, but the weight of all the layers above creates enormous pressure that compresses the iron and nickel into a solid state."
+              },
+              {
+                "problem": "What generates Earth's magnetic field?",
+                "answer": "The movement of liquid iron and nickel in the outer core.",
+                "explanation": "As liquid metal circulates in the outer core, it creates electric currents that generate the magnetic field — like a giant electromagnet inside Earth."
+              }
+            ],
+            "key_vocabulary": ["crust", "mantle", "asthenosphere", "outer core", "inner core", "oceanic crust", "continental crust", "basalt", "granite", "magnetic field"],
+            "real_world": "Earth's magnetic field creates the magnetosphere, which deflects charged particles from the Sun (solar wind). Without it, life on Earth might not exist because solar radiation would strip away our atmosphere."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is Earth's thickest layer?",
+              "options": ["Crust", "Mantle", "Outer core", "Inner core"],
+              "correct": 1,
+              "hint": "It's about 2,900 km thick."
+            },
+            {
+              "type": "fill_in",
+              "question": "The partially melted layer of the upper mantle that allows tectonic plates to move is called the ___.",
+              "answer": "asthenosphere",
+              "hint": "It flows slowly like thick honey."
+            },
+            {
+              "type": "true_false",
+              "question": "The outer core is solid.",
+              "answer": false,
+              "hint": "The outer core is liquid iron and nickel."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the inner core made of?",
+              "options": ["Liquid rock", "Solid iron and nickel", "Liquid iron and nickel", "Granite"],
+              "correct": 1,
+              "hint": "Despite extreme heat, pressure keeps it solid."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of crust is thinner and denser?",
+              "options": ["Continental crust", "Oceanic crust", "They are the same", "Neither has crust"],
+              "correct": 1,
+              "hint": "It's made of basalt and is found under the oceans."
+            },
+            {
+              "type": "fill_in",
+              "question": "Earth's ___ field is generated by the movement of liquid metal in the outer core.",
+              "answer": "magnetic",
+              "hint": "It protects Earth from harmful solar radiation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-5-2",
+          "title": "Plate Tectonics",
+          "type": "lesson",
+          "content": {
+            "explanation": "The theory of plate tectonics states that Earth's crust is broken into large pieces called tectonic plates that float on the asthenosphere and slowly move. There are about 15 major plates and several smaller ones. Plates move because of convection currents in the mantle — hot rock rises from deep in the mantle, spreads out along the surface, cools, and sinks back down, creating a circular flow that drags the plates along. Alfred Wegener first proposed the idea of continental drift in 1912. He noticed that the continents look like they could fit together like a puzzle (especially South America and Africa), and he found similar fossils on continents separated by oceans. He proposed that all continents were once joined in a supercontinent called Pangaea. However, Wegener couldn't explain what moved the continents, so his idea was rejected until the 1960s when scientists discovered seafloor spreading — new ocean floor being created at mid-ocean ridges as magma rises from the mantle. This provided the mechanism Wegener was missing and led to the modern theory of plate tectonics.",
+            "examples": [
+              {
+                "problem": "What was Pangaea?",
+                "answer": "A supercontinent where all of Earth's landmasses were joined together about 300 million years ago.",
+                "explanation": "Over millions of years, Pangaea broke apart and the continents drifted to their current positions. This process is still happening — continents are still slowly moving."
+              },
+              {
+                "problem": "What drives the movement of tectonic plates?",
+                "answer": "Convection currents in the mantle.",
+                "explanation": "Hot rock rises, spreads, cools, and sinks in a circular pattern. This flowing motion drags the tectonic plates along the surface."
+              }
+            ],
+            "key_vocabulary": ["plate tectonics", "tectonic plate", "convection currents", "continental drift", "Alfred Wegener", "Pangaea", "seafloor spreading", "mid-ocean ridge"],
+            "real_world": "GPS measurements show that North America and Europe are currently moving apart at about 2.5 cm per year — roughly the speed your fingernails grow!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who first proposed the idea of continental drift?",
+              "options": ["Isaac Newton", "Charles Darwin", "Alfred Wegener", "Albert Einstein"],
+              "correct": 2,
+              "hint": "He noticed that the continents fit together like puzzle pieces."
+            },
+            {
+              "type": "fill_in",
+              "question": "The supercontinent that existed about 300 million years ago is called ___.",
+              "answer": "Pangaea",
+              "hint": "It means 'all lands' in Greek."
+            },
+            {
+              "type": "true_false",
+              "question": "Tectonic plates float on the outer core.",
+              "answer": false,
+              "hint": "Plates float on a layer of the upper mantle."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What drives the movement of tectonic plates?",
+              "options": ["Wind", "Ocean tides", "Convection currents in the mantle", "Earth's rotation"],
+              "correct": 2,
+              "hint": "Hot rock rises, spreads, cools, and sinks in circular patterns."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What evidence did Wegener use to support continental drift?",
+              "options": ["GPS data", "Matching fossils and coastlines on different continents", "Satellite images", "Earthquake records"],
+              "correct": 1,
+              "hint": "He found similar fossils on continents separated by oceans."
+            },
+            {
+              "type": "fill_in",
+              "question": "New ocean floor is created at mid-ocean ridges through a process called seafloor ___.",
+              "answer": "spreading",
+              "hint": "Magma rises from the mantle, cools, and forms new crust."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-5-3",
+          "title": "Plate Boundaries and Earthquakes",
+          "type": "lesson",
+          "content": {
+            "explanation": "The edges where tectonic plates meet are called plate boundaries, and they are where most geological activity occurs. There are three types of plate boundaries. At divergent boundaries, plates move apart from each other. Magma rises to fill the gap, creating new crust. This happens at mid-ocean ridges and can create rift valleys on land. At convergent boundaries, plates move toward each other. When an oceanic plate collides with a continental plate, the denser oceanic plate subducts (slides under) the continental plate, creating trenches and volcanic mountains. When two continental plates collide, neither subducts — instead they crumple upward, forming mountain ranges like the Himalayas. At transform boundaries, plates slide past each other horizontally. This creates intense friction and produces earthquakes. The San Andreas Fault in California is a famous transform boundary. Earthquakes occur when stress builds up at plate boundaries until rocks suddenly break and shift. The point underground where the break occurs is the focus, and the point on the surface directly above is the epicenter. Earthquakes are measured using the Richter Scale (magnitude) and the Modified Mercalli Scale (intensity of shaking).",
+            "examples": [
+              {
+                "problem": "What type of plate boundary created the Himalayas?",
+                "answer": "Convergent boundary (two continental plates colliding).",
+                "explanation": "The Indian plate has been colliding with the Eurasian plate for millions of years, pushing rock upward to form the tallest mountain range on Earth. The Himalayas are still growing!"
+              },
+              {
+                "problem": "What is the difference between the focus and epicenter of an earthquake?",
+                "answer": "The focus is the point underground where the earthquake starts; the epicenter is the point on the surface directly above the focus.",
+                "explanation": "Seismic waves radiate outward from the focus. The epicenter is where the most damage usually occurs because it's closest to the energy source."
+              }
+            ],
+            "key_vocabulary": ["plate boundary", "divergent", "convergent", "transform", "subduction", "earthquake", "focus", "epicenter", "Richter Scale", "seismic waves"],
+            "real_world": "Japan experiences frequent earthquakes because it sits at the boundary of four tectonic plates. Japanese buildings are specially designed to withstand shaking."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "At which type of boundary do plates move apart?",
+              "options": ["Convergent", "Transform", "Divergent", "Subduction"],
+              "correct": 2,
+              "hint": "'Diverge' means to move apart or separate."
+            },
+            {
+              "type": "fill_in",
+              "question": "When an oceanic plate slides under a continental plate, it is called ___.",
+              "answer": "subduction",
+              "hint": "The denser oceanic plate goes under ('sub') the less dense continental plate."
+            },
+            {
+              "type": "true_false",
+              "question": "The San Andreas Fault is a divergent plate boundary.",
+              "answer": false,
+              "hint": "At the San Andreas Fault, plates slide past each other — that's a transform boundary."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The point on Earth's surface directly above where an earthquake starts is the:",
+              "options": ["Focus", "Epicenter", "Fault line", "Plate boundary"],
+              "correct": 1,
+              "hint": "The underground starting point is the focus; the surface point above it is the ___."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What happens at a convergent boundary when two continental plates collide?",
+              "options": ["One plate subducts", "Both plates sink", "Mountains form", "A rift valley forms"],
+              "correct": 2,
+              "hint": "Neither plate can subduct because both are too light, so they crumple upward."
+            },
+            {
+              "type": "fill_in",
+              "question": "Earthquake strength is measured using the ___ Scale.",
+              "answer": "Richter",
+              "hint": "This scale measures the magnitude (energy released) of an earthquake."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-5-4",
+          "title": "Volcanoes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A volcano is an opening in Earth's crust through which magma (molten rock), gases, and ash can escape to the surface. When magma reaches the surface, it is called lava. Volcanoes form primarily at plate boundaries. At convergent boundaries, subducting plates melt as they descend into the hot mantle, creating magma that rises to the surface. This is how the Ring of Fire — a chain of volcanoes around the Pacific Ocean — formed. At divergent boundaries, magma rises to fill the gap between separating plates, forming volcanic ridges. Volcanoes can also form over hot spots — stationary plumes of hot mantle material that melt through the plate above them. The Hawaiian Islands formed over a hot spot. There are three main types of volcanoes: shield volcanoes (broad, gently sloping, formed by thin, runny lava — like those in Hawaii), cinder cone volcanoes (small, steep, formed by explosive eruptions of ash and cinders), and composite volcanoes (tall, steep, layered with both lava and ash — like Mount St. Helens and Mount Fuji). These are the most dangerous because they produce explosive eruptions.",
+            "examples": [
+              {
+                "problem": "How did the Hawaiian Islands form?",
+                "answer": "Over a volcanic hot spot in the middle of the Pacific Plate.",
+                "explanation": "A stationary plume of hot mantle material melts through the Pacific Plate. As the plate moves northwest over the hot spot, a chain of islands is created one at a time."
+              },
+              {
+                "problem": "Which type of volcano is the most dangerous?",
+                "answer": "Composite (stratovolcano)",
+                "explanation": "Composite volcanoes have thick, sticky magma that traps gases, building up pressure until the volcano erupts explosively, sending ash, rock, and pyroclastic flows in all directions."
+              }
+            ],
+            "key_vocabulary": ["volcano", "magma", "lava", "Ring of Fire", "hot spot", "shield volcano", "cinder cone", "composite volcano", "eruption", "pyroclastic flow"],
+            "real_world": "The Ring of Fire, a horseshoe-shaped chain around the Pacific Ocean, contains about 75% of the world's active volcanoes and is the site of about 90% of the world's earthquakes."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is magma called when it reaches Earth's surface?",
+              "options": ["Granite", "Lava", "Basalt", "Crust"],
+              "correct": 1,
+              "hint": "It has a different name when it's underground vs. on the surface."
+            },
+            {
+              "type": "fill_in",
+              "question": "The chain of volcanoes around the Pacific Ocean is called the Ring of ___.",
+              "answer": "Fire",
+              "hint": "It contains about 75% of the world's active volcanoes."
+            },
+            {
+              "type": "true_false",
+              "question": "The Hawaiian Islands formed at a plate boundary.",
+              "answer": false,
+              "hint": "Hawaii formed over a hot spot in the middle of the Pacific Plate."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of volcano is broad with gently sloping sides?",
+              "options": ["Cinder cone", "Composite", "Shield", "Caldera"],
+              "correct": 2,
+              "hint": "Think of a warrior's shield lying on the ground — it's broad and gently curved."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At which type of plate boundary do most volcanoes in the Ring of Fire form?",
+              "options": ["Divergent", "Transform", "Convergent", "Hot spot"],
+              "correct": 2,
+              "hint": "Subducting oceanic plates melt and create magma that rises to form volcanoes."
+            },
+            {
+              "type": "true_false",
+              "question": "Composite volcanoes are the most explosive type.",
+              "answer": true,
+              "hint": "They have thick, sticky magma that traps gases and builds up pressure."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which layer of Earth is liquid iron and nickel?",
+            "options": ["Inner core", "Crust", "Mantle", "Outer core"],
+            "correct": 3
+          },
+          {
+            "type": "true_false",
+            "question": "Alfred Wegener proposed the theory of continental drift.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "At divergent plate boundaries, plates:",
+            "options": ["Collide", "Slide past each other", "Move apart", "Stack on top of each other"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the point underground where an earthquake starts called?",
+            "options": ["Epicenter", "Focus", "Fault", "Plate boundary"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The Hawaiian Islands were formed at a convergent plate boundary.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What drives the movement of tectonic plates?",
+            "options": ["Wind erosion", "Convection currents in the mantle", "Ocean tides", "Earthquakes"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of volcano has gently sloping sides and is formed by runny lava?",
+            "options": ["Composite", "Cinder cone", "Shield", "Caldera"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "The Himalayas were formed by two oceanic plates colliding.",
+            "answer": false
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "earth_science_master"
+      }
+    },
+    {
+      "id": "7-sci-6",
+      "title": "Ecology & Environment",
+      "description": "Explore how living things interact with each other and their environment. Learn about ecosystems, food webs, energy flow, and how human activity impacts the natural world.",
+      "lessons": [
+        {
+          "id": "7-sci-6-1",
+          "title": "Ecosystems and Biomes",
+          "type": "lesson",
+          "content": {
+            "explanation": "An ecosystem includes all the living organisms (biotic factors) and nonliving things (abiotic factors) in an area and how they interact. Biotic factors include plants, animals, fungi, and bacteria. Abiotic factors include sunlight, water, temperature, soil, and air. Organisms within an ecosystem are organized at different levels. A single organism is an individual. All individuals of the same species in an area form a population. All the different populations in an area form a community. The community plus the abiotic factors make up the ecosystem. A biome is a large geographic area with similar climate, plants, and animals. Major biomes include tropical rainforests (warm and wet, highest biodiversity), deserts (very dry, extreme temperatures), grasslands (moderate rainfall, dominated by grasses), temperate forests (four seasons, deciduous trees), boreal forests/taiga (cold, coniferous trees), tundra (extremely cold, permafrost, few trees), and aquatic biomes (freshwater and marine). Each biome has unique organisms adapted to its specific conditions.",
+            "examples": [
+              {
+                "problem": "What is the difference between a community and an ecosystem?",
+                "answer": "A community includes all living things in an area; an ecosystem includes both living and nonliving things.",
+                "explanation": "Community = biotic factors only. Ecosystem = biotic + abiotic factors interacting together."
+              },
+              {
+                "problem": "Which biome has the highest biodiversity?",
+                "answer": "Tropical rainforest",
+                "explanation": "Tropical rainforests have warm temperatures, abundant rainfall, and sunlight year-round, supporting an incredibly diverse range of species."
+              }
+            ],
+            "key_vocabulary": ["ecosystem", "biotic", "abiotic", "population", "community", "biome", "biodiversity", "tropical rainforest", "desert", "tundra", "taiga"],
+            "real_world": "A pond is a small ecosystem: frogs, fish, and algae are biotic factors; water temperature, sunlight, and dissolved oxygen are abiotic factors. Change one factor and the whole system is affected."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following is an abiotic factor?",
+              "options": ["A tree", "A rabbit", "Sunlight", "Bacteria"],
+              "correct": 2,
+              "hint": "Abiotic means nonliving."
+            },
+            {
+              "type": "fill_in",
+              "question": "All individuals of the same species in an area form a ___.",
+              "answer": "population",
+              "hint": "All the deer in a forest, for example."
+            },
+            {
+              "type": "true_false",
+              "question": "The tundra biome has the highest biodiversity.",
+              "answer": false,
+              "hint": "The tundra is extremely cold with few species. Which biome is warm and wet?"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What makes up an ecosystem?",
+              "options": ["Only living things", "Only nonliving things", "Both living and nonliving things", "Only plants"],
+              "correct": 2,
+              "hint": "Eco = environment, system = interacting parts. It includes everything."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which biome is characterized by extreme cold and permafrost?",
+              "options": ["Desert", "Tropical rainforest", "Tundra", "Grassland"],
+              "correct": 2,
+              "hint": "This biome is found near the poles and has very few trees."
+            },
+            {
+              "type": "fill_in",
+              "question": "Living factors in an ecosystem are called ___ factors.",
+              "answer": "biotic",
+              "hint": "'Bio' means life."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-6-2",
+          "title": "Food Chains and Food Webs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy flows through an ecosystem in a pathway called a food chain. A food chain shows the feeding relationships between organisms — who eats whom. Every food chain starts with a producer (an organism that makes its own food, usually through photosynthesis), such as a plant or algae. Producers are eaten by primary consumers (herbivores), which are eaten by secondary consumers (carnivores or omnivores), which may be eaten by tertiary consumers (top predators). Decomposers, like fungi and bacteria, break down dead organisms and waste, returning nutrients to the soil. In real ecosystems, food chains interconnect to form food webs, which show all the feeding relationships in an ecosystem. Food webs are more realistic than simple food chains because most organisms eat multiple species and are eaten by multiple predators. Energy is lost at each level of the food chain — only about 10% of energy is transferred from one level to the next (the 10% rule). The rest is lost as heat through cellular respiration. This is why there are fewer top predators than herbivores in any ecosystem — there's less energy available at the top.",
+            "examples": [
+              {
+                "problem": "In the food chain: grass → rabbit → fox → eagle, identify the producer and the tertiary consumer.",
+                "answer": "Producer: grass. Tertiary consumer: eagle.",
+                "explanation": "Grass is the producer (makes its own food). Rabbit is the primary consumer, fox is secondary, and eagle is tertiary (top predator)."
+              },
+              {
+                "problem": "Why are there fewer top predators than herbivores?",
+                "answer": "Energy is lost at each level (10% rule), so there is less energy to support organisms at higher levels.",
+                "explanation": "If grass has 10,000 calories of energy, rabbits get only 1,000, foxes get 100, and eagles get only 10. Less energy = fewer organisms."
+              }
+            ],
+            "key_vocabulary": ["food chain", "food web", "producer", "consumer", "primary consumer", "secondary consumer", "tertiary consumer", "decomposer", "herbivore", "carnivore", "omnivore", "10% rule"],
+            "real_world": "If a disease killed all the rabbits in an ecosystem, foxes would lose their food source and their population would decline. Meanwhile, the grass would grow unchecked. This shows how interconnected food webs are."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What always starts a food chain?",
+              "options": ["A carnivore", "A decomposer", "A producer", "A consumer"],
+              "correct": 2,
+              "hint": "This organism makes its own food through photosynthesis."
+            },
+            {
+              "type": "fill_in",
+              "question": "Only about ___% of energy is passed from one level of a food chain to the next.",
+              "answer": "10",
+              "hint": "The rest is lost as heat through cellular respiration."
+            },
+            {
+              "type": "true_false",
+              "question": "A food web is more realistic than a single food chain.",
+              "answer": true,
+              "hint": "In real ecosystems, organisms eat many different species."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the food chain: phytoplankton → fish → seal → shark, the fish is a:",
+              "options": ["Producer", "Primary consumer", "Secondary consumer", "Decomposer"],
+              "correct": 1,
+              "hint": "The fish eats the producer (phytoplankton), making it the first consumer level."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What role do decomposers play in an ecosystem?",
+              "options": ["They produce food through photosynthesis", "They hunt other animals", "They break down dead organisms and return nutrients to the soil", "They produce oxygen"],
+              "correct": 2,
+              "hint": "Think about what happens to dead leaves, fallen trees, and dead animals."
+            },
+            {
+              "type": "fill_in",
+              "question": "An animal that eats only plants is called a(n) ___.",
+              "answer": "herbivore",
+              "hint": "'Herb' refers to plants, and 'vore' means to eat."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-6-3",
+          "title": "Symbiotic Relationships",
+          "type": "lesson",
+          "content": {
+            "explanation": "Organisms in an ecosystem often have close, long-term relationships called symbiosis. There are three main types of symbiotic relationships. In mutualism, both organisms benefit from the relationship. For example, bees pollinate flowers while collecting nectar — the bee gets food and the flower gets pollinated. Clownfish and sea anemones are another example: the clownfish gets protection from the anemone's stinging tentacles, and the anemone gets food scraps from the clownfish. In commensalism, one organism benefits while the other is neither helped nor harmed. For example, barnacles attach to whales — the barnacles get transportation to food-rich waters, while the whale is unaffected. Birds that nest in trees benefit from shelter, while the tree is generally unharmed. In parasitism, one organism (the parasite) benefits while the other (the host) is harmed. Ticks feed on blood from dogs and deer, gaining nutrition while potentially spreading disease to the host. Tapeworms live in the intestines of animals and absorb the host's nutrients. Understanding these relationships helps us see how species depend on each other.",
+            "examples": [
+              {
+                "problem": "A clownfish lives among the tentacles of a sea anemone. The clownfish gets protection, and the anemone gets food scraps. What type of symbiosis is this?",
+                "answer": "Mutualism",
+                "explanation": "Both organisms benefit: the clownfish gets protection from predators, and the anemone gets leftover food. This is mutualism — both win."
+              },
+              {
+                "problem": "A tick feeds on a dog's blood. What type of symbiosis is this?",
+                "answer": "Parasitism",
+                "explanation": "The tick benefits (gets food), but the dog is harmed (loses blood, risks disease). The tick is the parasite and the dog is the host."
+              }
+            ],
+            "key_vocabulary": ["symbiosis", "mutualism", "commensalism", "parasitism", "parasite", "host", "symbiotic relationship"],
+            "real_world": "You have a mutualistic relationship with bacteria in your gut! They help you digest food and produce vitamins, and in return, they get a warm home with a steady food supply."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In which type of symbiosis do both organisms benefit?",
+              "options": ["Parasitism", "Commensalism", "Mutualism", "Predation"],
+              "correct": 2,
+              "hint": "'Mutual' means shared or reciprocal — both sides gain something."
+            },
+            {
+              "type": "fill_in",
+              "question": "In parasitism, the organism that benefits is called the ___ and the one that is harmed is the host.",
+              "answer": "parasite",
+              "hint": "Ticks, tapeworms, and fleas are examples."
+            },
+            {
+              "type": "true_false",
+              "question": "In commensalism, both organisms are harmed.",
+              "answer": false,
+              "hint": "In commensalism, one benefits and the other is unaffected (not harmed)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Barnacles on a whale benefit from transportation, and the whale is unaffected. This is:",
+              "options": ["Mutualism", "Parasitism", "Commensalism", "Competition"],
+              "correct": 2,
+              "hint": "One benefits, the other is neither helped nor harmed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Bees pollinating flowers while collecting nectar is an example of:",
+              "options": ["Parasitism", "Commensalism", "Mutualism", "Predation"],
+              "correct": 2,
+              "hint": "The bee gets food (nectar) and the flower gets pollinated — both benefit."
+            },
+            {
+              "type": "true_false",
+              "question": "A tapeworm living in an animal's intestines is an example of mutualism.",
+              "answer": false,
+              "hint": "The tapeworm benefits but the host is harmed — that's parasitism."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-sci-6-4",
+          "title": "Human Impact on the Environment",
+          "type": "lesson",
+          "content": {
+            "explanation": "Human activities have significant impacts on ecosystems and the environment. Pollution affects air, water, and soil. Air pollution from burning fossil fuels contributes to smog, acid rain, and climate change. Water pollution from industrial waste, agricultural runoff, and plastics harms aquatic ecosystems. Deforestation — the clearing of forests for agriculture, lumber, or development — destroys habitats, reduces biodiversity, and releases stored carbon into the atmosphere. Habitat destruction is the leading cause of species extinction today. Overexploitation — overfishing, overhunting, and overuse of resources — depletes natural populations faster than they can recover. Climate change, driven primarily by the burning of fossil fuels that release greenhouse gases (like CO2), is causing global temperatures to rise, ice caps to melt, sea levels to rise, and weather patterns to change. However, humans can also have positive impacts through conservation efforts, renewable energy, recycling, reforestation, protected areas (national parks and wildlife reserves), and sustainable practices. Understanding ecology helps us make better decisions about how we interact with the natural world.",
+            "examples": [
+              {
+                "problem": "What is the leading cause of species extinction today?",
+                "answer": "Habitat destruction",
+                "explanation": "When forests are cleared, wetlands are drained, or land is developed, the organisms that lived there lose their homes and food sources. Many cannot adapt quickly enough and face extinction."
+              },
+              {
+                "problem": "How do greenhouse gases contribute to climate change?",
+                "answer": "They trap heat in Earth's atmosphere, causing global temperatures to rise.",
+                "explanation": "CO2 and other greenhouse gases act like a blanket around Earth, trapping heat from the Sun. More greenhouse gases = more trapped heat = warmer planet."
+              }
+            ],
+            "key_vocabulary": ["pollution", "deforestation", "habitat destruction", "overexploitation", "climate change", "greenhouse gases", "fossil fuels", "conservation", "renewable energy", "biodiversity"],
+            "real_world": "The Great Pacific Garbage Patch is a massive area of floating plastic debris in the Pacific Ocean, roughly twice the size of Texas. It's a stark example of how human pollution impacts marine ecosystems."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the leading cause of species extinction today?",
+              "options": ["Climate change", "Pollution", "Habitat destruction", "Natural disasters"],
+              "correct": 2,
+              "hint": "When organisms lose their homes, they often can't survive."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ gases, like CO2, trap heat in the atmosphere and contribute to climate change.",
+              "answer": "Greenhouse",
+              "hint": "They act like a greenhouse, trapping warmth around Earth."
+            },
+            {
+              "type": "true_false",
+              "question": "Deforestation has no effect on climate change.",
+              "answer": false,
+              "hint": "Trees absorb CO2. Cutting them down releases stored carbon and removes a CO2 sink."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of a positive human impact on the environment?",
+              "options": ["Burning fossil fuels", "Deforestation", "Creating national parks and wildlife reserves", "Dumping waste in rivers"],
+              "correct": 2,
+              "hint": "Protected areas help preserve biodiversity and ecosystems."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is overexploitation?",
+              "options": ["Using resources slowly", "Harvesting organisms faster than they can reproduce", "Planting too many trees", "Recycling materials"],
+              "correct": 1,
+              "hint": "Think about overfishing — taking fish faster than populations can recover."
+            },
+            {
+              "type": "fill_in",
+              "question": "The clearing of forests for agriculture or development is called ___.",
+              "answer": "deforestation",
+              "hint": "The prefix 'de-' means removal, and the root word is 'forest.'"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which of the following is a biotic factor?",
+            "options": ["Temperature", "Sunlight", "A mushroom", "Water"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "In a food chain, only about 10% of energy passes from one level to the next.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What type of symbiotic relationship exists when one organism benefits and the other is harmed?",
+            "options": ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which biome has the greatest biodiversity?",
+            "options": ["Desert", "Tundra", "Tropical rainforest", "Grassland"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Decomposers break down dead organisms and return nutrients to the soil.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the primary cause of current climate change?",
+            "options": ["Volcanic eruptions", "Solar flares", "Burning fossil fuels releasing greenhouse gases", "Earth's rotation"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Bees and flowers have what type of relationship?",
+            "options": ["Parasitism", "Commensalism", "Mutualism", "Competition"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Habitat destruction is the leading cause of species extinction.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ecology_defender"
+      }
+    }
+  ]
+}

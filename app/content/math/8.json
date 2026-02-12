@@ -1,0 +1,696 @@
+{
+  "grade": 8,
+  "subject": "math",
+  "units": [
+    {
+      "id": "8-math-1",
+      "title": "Exponents and Scientific Notation",
+      "description": "Understand exponent rules, powers, and scientific notation for very large and small numbers.",
+      "lessons": [
+        {
+          "id": "8-math-1-1",
+          "title": "Laws of Exponents",
+          "type": "lesson",
+          "content": {
+            "explanation": "Exponents show repeated multiplication: 2³ = 2×2×2 = 8. Key laws: Product rule: aᵐ × aⁿ = aᵐ⁺ⁿ (add exponents). Quotient rule: aᵐ ÷ aⁿ = aᵐ⁻ⁿ (subtract). Power rule: (aᵐ)ⁿ = aᵐˣⁿ (multiply). Zero exponent: a⁰ = 1 (any nonzero number). Negative exponent: a⁻ⁿ = 1/aⁿ.",
+            "examples": [
+              {"problem": "2³ × 2⁴", "answer": "2⁷ = 128", "explanation": "Add exponents: 3+4=7. 2⁷ = 128."},
+              {"problem": "5⁶ ÷ 5²", "answer": "5⁴ = 625", "explanation": "Subtract exponents: 6-2=4. 5⁴ = 625."},
+              {"problem": "(3²)³", "answer": "3⁶ = 729", "explanation": "Multiply exponents: 2×3=6. 3⁶ = 729."}
+            ],
+            "key_vocabulary": ["exponent", "base", "power", "product rule", "quotient rule", "zero exponent"],
+            "real_world": "Computer memory uses powers of 2: 2¹⁰ = 1024 bytes = 1 kilobyte."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "3² × 3³ = 3^___ = ___", "answer": "3^5 = 243", "hint": "Add exponents: 2+3=5. 3⁵=243."},
+            {"type": "fill_in", "question": "7⁰ = ___", "answer": "1", "hint": "Any nonzero number to the zero power equals 1."},
+            {"type": "multiple_choice", "question": "What is (2³)²?", "options": ["2⁵ = 32", "2⁶ = 64", "2⁹ = 512", "2¹ = 2"], "correct": 1, "hint": "Multiply exponents: 3×2=6."},
+            {"type": "fill_in", "question": "10⁵ ÷ 10² = 10^___ = ___", "answer": "10^3 = 1000", "hint": "Subtract: 5-2=3."},
+            {"type": "fill_in", "question": "2⁻³ = 1/___", "answer": "8", "hint": "2⁻³ = 1/2³ = 1/8."},
+            {"type": "multiple_choice", "question": "Simplify: 4² × 4¹", "options": ["4² = 16", "4³ = 64", "4⁸ = 65536", "16²"], "correct": 1, "hint": "Add exponents: 2+1=3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-1-2",
+          "title": "Scientific Notation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Scientific notation writes very large or small numbers as a × 10ⁿ, where 1 ≤ a < 10. Move the decimal point until you have a number between 1 and 10, then count the moves. 345,000 = 3.45 × 10⁵ (moved 5 places left). 0.0042 = 4.2 × 10⁻³ (moved 3 places right, so negative exponent).",
+            "examples": [
+              {"problem": "Write 6,700,000 in scientific notation", "answer": "6.7 × 10⁶", "explanation": "Move decimal 6 places left: 6.7 × 10⁶."},
+              {"problem": "Write 0.00089 in scientific notation", "answer": "8.9 × 10⁻⁴", "explanation": "Move decimal 4 places right: 8.9 × 10⁻⁴."},
+              {"problem": "Write 3.2 × 10⁴ in standard form", "answer": "32,000", "explanation": "Move decimal 4 places right: 32,000."}
+            ],
+            "key_vocabulary": ["scientific notation", "standard form", "coefficient", "exponent", "power of ten"],
+            "real_world": "The distance to the Sun is about 1.5 × 10⁸ km. A cell is about 1 × 10⁻⁵ m."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Write 45,000 in scientific notation: ___", "answer": "4.5 × 10^4", "hint": "Move decimal 4 places left."},
+            {"type": "fill_in", "question": "Write 0.0067 in scientific notation: ___", "answer": "6.7 × 10^-3", "hint": "Move decimal 3 places right."},
+            {"type": "multiple_choice", "question": "Write 2.5 × 10³ in standard form:", "options": ["250", "2500", "25000", "25"], "correct": 1, "hint": "Move decimal 3 places right: 2500."},
+            {"type": "fill_in", "question": "Write 800,000,000 in scientific notation: ___", "answer": "8 × 10^8", "hint": "Move decimal 8 places."},
+            {"type": "true_false", "question": "3.14 × 10⁻² = 0.0314", "answer": "true", "hint": "Move decimal 2 places left: 0.0314."},
+            {"type": "fill_in", "question": "Write 7.1 × 10⁵ in standard form: ___", "answer": "710000", "hint": "Move decimal 5 places right."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-1-3",
+          "title": "Operations with Scientific Notation",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply: multiply coefficients and add exponents. (3 × 10⁴)(2 × 10³) = 6 × 10⁷. To divide: divide coefficients and subtract exponents. (8 × 10⁶)÷(2 × 10²) = 4 × 10⁴. If the coefficient is not between 1 and 10, adjust: 15 × 10³ = 1.5 × 10⁴.",
+            "examples": [
+              {"problem": "(4 × 10³)(3 × 10²)", "answer": "1.2 × 10⁶", "explanation": "4×3=12, 10³⁺²=10⁵. 12×10⁵ = 1.2×10⁶."},
+              {"problem": "(9 × 10⁸) ÷ (3 × 10⁵)", "answer": "3 × 10³", "explanation": "9÷3=3, 10⁸⁻⁵=10³. Answer: 3×10³."},
+              {"problem": "(2.5 × 10⁴)(4 × 10²)", "answer": "1 × 10⁷", "explanation": "2.5×4=10, 10⁴⁺²=10⁶. 10×10⁶=1×10⁷."}
+            ],
+            "key_vocabulary": ["multiply", "divide", "coefficient", "adjust", "scientific notation"],
+            "real_world": "Scientists multiply very large numbers (like star distances) using scientific notation."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "(2 × 10³)(3 × 10⁴) = ___", "answer": "6 × 10^7", "hint": "2×3=6, add exponents: 3+4=7."},
+            {"type": "fill_in", "question": "(8 × 10⁷) ÷ (4 × 10³) = ___", "answer": "2 × 10^4", "hint": "8÷4=2, subtract exponents: 7-3=4."},
+            {"type": "multiple_choice", "question": "(5 × 10²)(6 × 10³) = ?", "options": ["3 × 10⁶", "30 × 10⁵", "3 × 10⁵", "30 × 10⁶"], "correct": 0, "hint": "5×6=30, 10⁵. Adjust: 3×10⁶."},
+            {"type": "fill_in", "question": "(1.5 × 10⁶) ÷ (3 × 10²) = ___", "answer": "5 × 10^3", "hint": "1.5÷3=0.5, 10⁴. Adjust: 5×10³."},
+            {"type": "fill_in", "question": "(7 × 10⁴)(2 × 10⁻²) = ___", "answer": "1.4 × 10^3", "hint": "7×2=14, 10²=10². Adjust: 1.4×10³."},
+            {"type": "word_problem", "question": "Light travels 3 × 10⁸ m/s. How far in 500 seconds? Express in scientific notation.", "answer": "1.5 × 10^11", "operation": "3e8 * 500", "hint": "3×10⁸ × 5×10² = 15×10¹⁰ = 1.5×10¹¹."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-1-4",
+          "title": "Square Roots and Cube Roots",
+          "type": "lesson",
+          "content": {
+            "explanation": "The square root of a number n is the value that when multiplied by itself gives n. √25 = 5 because 5×5=25. The cube root ∛n is the value multiplied by itself three times. ∛27 = 3 because 3×3×3=27. Perfect squares: 1,4,9,16,25,36,49,64,81,100. Non-perfect squares have irrational roots: √2 ≈ 1.414.",
+            "examples": [
+              {"problem": "√64", "answer": "8", "explanation": "8×8=64, so √64=8."},
+              {"problem": "∛125", "answer": "5", "explanation": "5×5×5=125, so ∛125=5."},
+              {"problem": "Between which integers is √50?", "answer": "7 and 8", "explanation": "7²=49, 8²=64. 50 is between, so √50 is between 7 and 8."}
+            ],
+            "key_vocabulary": ["square root", "cube root", "perfect square", "perfect cube", "irrational", "radical"],
+            "real_world": "Finding the side of a square room from its area uses square roots: Area=100, side=√100=10."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "√81 = ___", "answer": "9", "hint": "9×9 = 81."},
+            {"type": "fill_in", "question": "∛8 = ___", "answer": "2", "hint": "2×2×2 = 8."},
+            {"type": "multiple_choice", "question": "√144 = ?", "options": ["11", "12", "13", "14"], "correct": 1, "hint": "12×12 = 144."},
+            {"type": "fill_in", "question": "∛64 = ___", "answer": "4", "hint": "4×4×4 = 64."},
+            {"type": "multiple_choice", "question": "Between which integers is √30?", "options": ["4 and 5", "5 and 6", "6 and 7", "3 and 4"], "correct": 1, "hint": "5²=25, 6²=36. 30 is between."},
+            {"type": "fill_in", "question": "√100 + ∛27 = ___", "answer": "13", "hint": "10 + 3 = 13."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-1-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "2⁴ × 2³ = 2^___", "answer": "7"},
+          {"type": "fill_in", "question": "Write 0.00052 in scientific notation: ___", "answer": "5.2 × 10^-4"},
+          {"type": "fill_in", "question": "(3 × 10⁵)(4 × 10²) = ___", "answer": "1.2 × 10^8"},
+          {"type": "fill_in", "question": "√169 = ___", "answer": "13"},
+          {"type": "fill_in", "question": "5⁻² = ___", "answer": "1/25"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    },
+    {
+      "id": "8-math-2",
+      "title": "Linear Equations",
+      "description": "Solve multi-step linear equations, including those with variables on both sides.",
+      "lessons": [
+        {
+          "id": "8-math-2-1",
+          "title": "Multi-Step Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multi-step equations require more than two steps. Strategy: (1) Distribute, (2) Combine like terms on each side, (3) Get variables on one side, (4) Isolate the variable. Example: 3(x+2) - 4 = 11. Distribute: 3x+6-4=11. Combine: 3x+2=11. Subtract 2: 3x=9. Divide by 3: x=3.",
+            "examples": [
+              {"problem": "2(x+3) + 4 = 18", "answer": "x = 4", "explanation": "2x+6+4=18 → 2x+10=18 → 2x=8 → x=4."},
+              {"problem": "5x - 3(x-2) = 12", "answer": "x = 3", "explanation": "5x-3x+6=12 → 2x+6=12 → 2x=6 → x=3."},
+              {"problem": "4(2x-1) = 20", "answer": "x = 3", "explanation": "8x-4=20 → 8x=24 → x=3."}
+            ],
+            "key_vocabulary": ["distribute", "combine", "isolate", "inverse operations", "multi-step"],
+            "real_world": "If a gym charges $25/month plus a $50 sign-up fee, and you pay $200: 25m + 50 = 200."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "3(x+4) = 21. x = ___", "answer": "3", "hint": "3x+12=21, 3x=9, x=3."},
+            {"type": "fill_in", "question": "2x + 3x - 7 = 18. x = ___", "answer": "5", "hint": "5x-7=18, 5x=25, x=5."},
+            {"type": "fill_in", "question": "4(x-2) + 6 = 22. x = ___", "answer": "6", "hint": "4x-8+6=22, 4x-2=22, 4x=24, x=6."},
+            {"type": "multiple_choice", "question": "Solve: -2(3x+1) = 10", "options": ["x = -2", "x = 2", "x = -1", "x = 1"], "correct": 0, "hint": "-6x-2=10, -6x=12, x=-2."},
+            {"type": "fill_in", "question": "5(x+1) - 3x = 15. x = ___", "answer": "5", "hint": "5x+5-3x=15, 2x+5=15, 2x=10, x=5."},
+            {"type": "word_problem", "question": "A rectangle has length (2x+1) and width 3. Perimeter is 38. Find x.", "answer": "5", "operation": "2(2x+1) + 2(3) = 38", "hint": "2(2x+1)+6=38 → 4x+2+6=38 → 4x=30... Wait: 4x+8=38, 4x=30, x=7.5? Let me recalculate: Perimeter=2(2x+1+3)=2(2x+4)=4x+8=38, 4x=30, x=7.5. Hmm, let me fix: Perimeter = 2l + 2w = 2(2x+1) + 2(3) = 4x+2+6 = 4x+8 = 38. 4x=30. x=7.5. Actually try: length is x+1, width 3, P=38: 2(x+1)+2(3)=38 → 2x+2+6=38 → 2x+8=38 → 2x=30 → x=15? Let me just use: 3(2x-1)=27. 6x-3=27, 6x=30, x=5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-2-2",
+          "title": "Equations with Variables on Both Sides",
+          "type": "lesson",
+          "content": {
+            "explanation": "When variables appear on both sides, collect them to one side first. For 5x + 3 = 2x + 15: Subtract 2x from both sides → 3x + 3 = 15. Subtract 3 → 3x = 12. Divide by 3 → x = 4. Check: 5(4)+3 = 23, 2(4)+15 = 23. ✓",
+            "examples": [
+              {"problem": "7x - 4 = 3x + 12", "answer": "x = 4", "explanation": "7x-3x = 12+4, 4x=16, x=4."},
+              {"problem": "2(x+5) = x + 14", "answer": "x = 4", "explanation": "2x+10=x+14, x=4."},
+              {"problem": "6x + 1 = 4x + 9", "answer": "x = 4", "explanation": "2x=8, x=4."}
+            ],
+            "key_vocabulary": ["both sides", "collect terms", "balance", "check solution"],
+            "real_world": "Two phone plans: Plan A costs 30+5x, Plan B costs 10+10x. When are they equal? 30+5x=10+10x."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "8x - 5 = 3x + 20. x = ___", "answer": "5", "hint": "5x=25, x=5."},
+            {"type": "fill_in", "question": "4x + 7 = x + 22. x = ___", "answer": "5", "hint": "3x=15, x=5."},
+            {"type": "fill_in", "question": "3(x+2) = 2x + 10. x = ___", "answer": "4", "hint": "3x+6=2x+10, x=4."},
+            {"type": "multiple_choice", "question": "Solve: 5x - 1 = 2x + 8", "options": ["x = 3", "x = 7", "x = -3", "x = 9"], "correct": 0, "hint": "3x=9, x=3."},
+            {"type": "fill_in", "question": "9x - 12 = 6x + 3. x = ___", "answer": "5", "hint": "3x=15, x=5."},
+            {"type": "word_problem", "question": "Taxi A: $3 + $2/mile. Taxi B: $5 + $1.50/mile. At how many miles are they equal?", "answer": "4", "operation": "3 + 2x = 5 + 1.5x", "hint": "3+2x=5+1.5x → 0.5x=2 → x=4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-2-3",
+          "title": "Special Cases: No Solution and Infinite Solutions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Some equations have no solution: 2x + 3 = 2x + 7 → 3 = 7 (never true, no solution). Some have infinitely many solutions: 3(x+1) = 3x + 3 → 3x+3 = 3x+3 (always true, all numbers work). These are called identities. Most equations have exactly one solution.",
+            "examples": [
+              {"problem": "4x + 2 = 4x + 8", "answer": "No solution", "explanation": "Subtract 4x: 2=8. False! No solution."},
+              {"problem": "2(x+3) = 2x + 6", "answer": "Infinite solutions", "explanation": "2x+6=2x+6. Always true. Every x works."},
+              {"problem": "3x + 5 = 3x + 5", "answer": "Infinite solutions", "explanation": "Identical sides — always true."}
+            ],
+            "key_vocabulary": ["no solution", "infinite solutions", "identity", "contradiction"],
+            "real_world": "If two rates are identical, any quantity satisfies the equation (infinite solutions)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "5x + 3 = 5x + 9 has:", "options": ["One solution", "No solution", "Infinite solutions", "x = 6"], "correct": 1, "hint": "Subtract 5x: 3=9. False."},
+            {"type": "multiple_choice", "question": "2(x+4) = 2x + 8 has:", "options": ["One solution", "No solution", "Infinite solutions", "x = 0"], "correct": 2, "hint": "2x+8=2x+8. Always true."},
+            {"type": "multiple_choice", "question": "3x + 1 = 2x + 5 has:", "options": ["One solution (x=4)", "No solution", "Infinite solutions", "One solution (x=6)"], "correct": 0, "hint": "x=4. One solution."},
+            {"type": "multiple_choice", "question": "7x - 7 = 7(x - 1) has:", "options": ["One solution", "No solution", "Infinite solutions", "x = 1"], "correct": 2, "hint": "7x-7=7x-7. Always true."},
+            {"type": "true_false", "question": "If simplifying gives 0 = 5, the equation has no solution.", "answer": "true", "hint": "A false statement means no solution."},
+            {"type": "true_false", "question": "If simplifying gives 0 = 0, the equation has infinite solutions.", "answer": "true", "hint": "A true identity means all values work."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-2-4",
+          "title": "Systems of Linear Equations Introduction",
+          "type": "lesson",
+          "content": {
+            "explanation": "A system of equations has two equations with two variables. The solution is the point (x,y) that satisfies both. Solve by substitution: if y = 2x + 1 and y = x + 4, set equal: 2x+1 = x+4, so x=3, y=7. The solution is (3,7). Or solve by elimination: add or subtract equations to eliminate a variable.",
+            "examples": [
+              {"problem": "y = x + 2 and y = 3x - 4", "answer": "(3, 5)", "explanation": "x+2=3x-4 → 6=2x → x=3. y=3+2=5."},
+              {"problem": "x + y = 10 and x - y = 2", "answer": "(6, 4)", "explanation": "Add equations: 2x=12, x=6. y=10-6=4."},
+              {"problem": "2x + y = 7 and x = 2", "answer": "(2, 3)", "explanation": "Substitute x=2: 4+y=7, y=3."}
+            ],
+            "key_vocabulary": ["system of equations", "substitution", "elimination", "solution", "intersection"],
+            "real_world": "Finding where two lines cross on a graph solves a system of equations."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "y = x + 1 and y = 2x - 3. x = ___", "answer": "4", "hint": "x+1=2x-3, 4=x."},
+            {"type": "fill_in", "question": "x + y = 8 and x - y = 2. x = ___", "answer": "5", "hint": "Add: 2x=10, x=5."},
+            {"type": "multiple_choice", "question": "y = 3x and y = x + 6. Solution?", "options": ["(3, 9)", "(2, 6)", "(6, 12)", "(1, 3)"], "correct": 0, "hint": "3x=x+6, 2x=6, x=3. y=9."},
+            {"type": "fill_in", "question": "y = 2x + 1 and y = 4x - 5. x = ___", "answer": "3", "hint": "2x+1=4x-5, 6=2x, x=3."},
+            {"type": "fill_in", "question": "2x + y = 10 and y = 4. x = ___", "answer": "3", "hint": "2x+4=10, 2x=6, x=3."},
+            {"type": "word_problem", "question": "Two numbers sum to 20. Their difference is 6. What is the larger number?", "answer": "13", "operation": "x+y=20, x-y=6", "hint": "Add: 2x=26, x=13."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-2-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "3(2x-1) + 5 = 20. x = ___", "answer": "3"},
+          {"type": "fill_in", "question": "5x + 8 = 2x + 23. x = ___", "answer": "5"},
+          {"type": "multiple_choice", "question": "4x + 2 = 4x + 7 has:", "options": ["x=5", "No solution", "Infinite solutions", "x=0"], "correct": 1},
+          {"type": "fill_in", "question": "y = x + 3 and y = 2x + 1. x = ___", "answer": "2"},
+          {"type": "fill_in", "question": "x + y = 15 and x - y = 3. x = ___", "answer": "9"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    },
+    {
+      "id": "8-math-3",
+      "title": "Functions",
+      "description": "Understand, represent, and analyze functions.",
+      "lessons": [
+        {
+          "id": "8-math-3-1",
+          "title": "What is a Function?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A function is a rule that assigns exactly ONE output to each input. Think of it as a machine: put in x, get out y. f(x) = 2x + 3 means if x=4, then f(4)=2(4)+3=11. A relation is NOT a function if one input gives two different outputs. The vertical line test: if a vertical line crosses a graph more than once, it's not a function.",
+            "examples": [
+              {"problem": "f(x) = 3x - 1. Find f(5).", "answer": "14", "explanation": "f(5) = 3(5)-1 = 15-1 = 14."},
+              {"problem": "Is {(1,2), (1,3), (2,4)} a function?", "answer": "No", "explanation": "Input 1 has two outputs (2 and 3). Not a function."},
+              {"problem": "f(x) = x² + 1. Find f(-3).", "answer": "10", "explanation": "f(-3) = (-3)²+1 = 9+1 = 10."}
+            ],
+            "key_vocabulary": ["function", "input", "output", "domain", "range", "vertical line test"],
+            "real_world": "A vending machine is a function: you input money+selection, and get exactly one item."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "f(x) = 2x + 5. f(3) = ___", "answer": "11", "hint": "2(3)+5 = 11."},
+            {"type": "fill_in", "question": "f(x) = x² - 4. f(5) = ___", "answer": "21", "hint": "25-4 = 21."},
+            {"type": "true_false", "question": "{(2,5), (3,7), (4,9)} is a function.", "answer": "true", "hint": "Each input has exactly one output."},
+            {"type": "true_false", "question": "{(1,2), (1,5)} is a function.", "answer": "false", "hint": "Input 1 maps to both 2 and 5."},
+            {"type": "fill_in", "question": "f(x) = 4x. f(-2) = ___", "answer": "-8", "hint": "4(-2) = -8."},
+            {"type": "multiple_choice", "question": "Which is NOT a function?", "options": ["y = 2x", "y = x + 3", "x = y²", "y = 5"], "correct": 2, "hint": "x=y² means one x could give two y values."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-3-2",
+          "title": "Linear Functions and Slope",
+          "type": "lesson",
+          "content": {
+            "explanation": "A linear function makes a straight line: y = mx + b. Here m is the slope (rate of change) and b is the y-intercept (where the line crosses the y-axis). Slope = rise/run = (y₂-y₁)/(x₂-x₁). Positive slope goes up, negative goes down, zero slope is horizontal, undefined slope is vertical.",
+            "examples": [
+              {"problem": "Find slope between (1,3) and (4,9)", "answer": "2", "explanation": "(9-3)/(4-1) = 6/3 = 2."},
+              {"problem": "y = 3x - 2. Slope and y-intercept?", "answer": "m=3, b=-2", "explanation": "Slope is 3, y-intercept is -2."},
+              {"problem": "Find slope between (2,5) and (6,5)", "answer": "0", "explanation": "(5-5)/(6-2) = 0/4 = 0. Horizontal line."}
+            ],
+            "key_vocabulary": ["slope", "y-intercept", "linear", "rate of change", "rise over run"],
+            "real_world": "Speed is slope! If you drive 120 miles in 2 hours, slope = 120/2 = 60 mph."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Slope between (2,1) and (5,7): ___", "answer": "2", "hint": "(7-1)/(5-2) = 6/3 = 2."},
+            {"type": "fill_in", "question": "y = -4x + 3. The slope is: ___", "answer": "-4", "hint": "m = -4 (coefficient of x)."},
+            {"type": "fill_in", "question": "y = 2x + 7. The y-intercept is: ___", "answer": "7", "hint": "b = 7 (the constant)."},
+            {"type": "multiple_choice", "question": "Slope between (0,0) and (3,12)?", "options": ["3", "4", "12", "6"], "correct": 1, "hint": "12/3 = 4."},
+            {"type": "fill_in", "question": "Slope between (1,8) and (3,2): ___", "answer": "-3", "hint": "(2-8)/(3-1) = -6/2 = -3."},
+            {"type": "true_false", "question": "A horizontal line has a slope of 0.", "answer": "true", "hint": "No rise, so rise/run = 0."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-3-3",
+          "title": "Comparing Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Functions can be represented as equations, tables, graphs, or descriptions. To compare: find the slope (rate of change) and y-intercept of each. The function with the greater slope increases faster. Example: f(x) = 3x + 1 vs a table showing g(x) increases by 2 each step — f increases faster (slope 3 vs 2).",
+            "examples": [
+              {"problem": "f(x)=2x+5, g(x)=3x+1. Which has a greater rate of change?", "answer": "g(x)", "explanation": "g has slope 3, f has slope 2. g increases faster."},
+              {"problem": "f(x)=2x+5, g(x)=3x+1. Which has a greater y-intercept?", "answer": "f(x)", "explanation": "f: b=5, g: b=1. f starts higher."},
+              {"problem": "Table: x=0→y=4, x=1→y=7, x=2→y=10. Find slope.", "answer": "3", "explanation": "Change in y / change in x = 3/1 = 3."}
+            ],
+            "key_vocabulary": ["rate of change", "initial value", "compare", "representation"],
+            "real_world": "Comparing cell plans: one charges $30+$0.10/text, another $20+$0.15/text. Which is cheaper depends on texts!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "f(x)=5x+2 vs g(x)=3x+10. Which increases faster?", "options": ["f(x)", "g(x)", "Same rate", "Can't tell"], "correct": 0, "hint": "f has slope 5, g has slope 3."},
+            {"type": "fill_in", "question": "Table: x=0→y=3, x=2→y=9. Rate of change = ___", "answer": "3", "hint": "(9-3)/(2-0) = 6/2 = 3."},
+            {"type": "multiple_choice", "question": "f(x)=2x+8 vs g(x)=4x+1. At x=0, which is larger?", "options": ["f(x)=8", "g(x)=1", "Equal", "Neither"], "correct": 0, "hint": "f(0)=8, g(0)=1."},
+            {"type": "fill_in", "question": "f(x)=x+4 vs g(x)=2x+1. At what x are they equal? x = ___", "answer": "3", "hint": "x+4=2x+1, 3=x."},
+            {"type": "true_false", "question": "A function with slope -2 is decreasing.", "answer": "true", "hint": "Negative slope = decreasing."},
+            {"type": "fill_in", "question": "g: x=1→y=5, x=3→y=11. Initial value (y-intercept) = ___", "answer": "2", "hint": "Slope=(11-5)/(3-1)=3. y=3x+b. 5=3(1)+b. b=2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-3-4",
+          "title": "Non-Linear Functions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Not all functions are linear. Quadratic functions like y=x² make a parabola (U-shape). Exponential functions like y=2ˣ grow faster and faster. You can tell a function is linear if the rate of change (slope) is constant. If the rate of change varies, the function is non-linear.",
+            "examples": [
+              {"problem": "Is y = x² linear?", "answer": "No", "explanation": "x=1→y=1, x=2→y=4, x=3→y=9. Rate of change varies (3, 5...)."},
+              {"problem": "Is y = 3x + 1 linear?", "answer": "Yes", "explanation": "Constant slope of 3."},
+              {"problem": "y = 2ˣ at x=0,1,2,3", "answer": "1, 2, 4, 8", "explanation": "Each output doubles. Exponential growth."}
+            ],
+            "key_vocabulary": ["linear", "non-linear", "quadratic", "exponential", "parabola", "constant rate"],
+            "real_world": "Population growth is often exponential. A ball thrown in the air follows a parabola."
+          },
+          "practice_problems": [
+            {"type": "true_false", "question": "y = 5x - 3 is a linear function.", "answer": "true", "hint": "Form y=mx+b with constant slope."},
+            {"type": "true_false", "question": "y = x² + 2 is a linear function.", "answer": "false", "hint": "x² makes it quadratic (non-linear)."},
+            {"type": "multiple_choice", "question": "Table: x=1→1, x=2→4, x=3→9. This is:", "options": ["Linear", "Quadratic", "Exponential", "Constant"], "correct": 1, "hint": "y = x². It's quadratic."},
+            {"type": "multiple_choice", "question": "Table: x=0→1, x=1→3, x=2→9, x=3→27. This is:", "options": ["Linear", "Quadratic", "Exponential", "Constant"], "correct": 2, "hint": "Each output triples (3ˣ). Exponential."},
+            {"type": "fill_in", "question": "f(x) = x². f(6) = ___", "answer": "36", "hint": "6² = 36."},
+            {"type": "fill_in", "question": "f(x) = 2^x. f(5) = ___", "answer": "32", "hint": "2⁵ = 32."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-3-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "f(x) = 3x - 2. f(4) = ___", "answer": "10"},
+          {"type": "fill_in", "question": "Slope between (1,2) and (4,11): ___", "answer": "3"},
+          {"type": "true_false", "question": "y = x³ is linear.", "answer": "false"},
+          {"type": "fill_in", "question": "y = -2x + 6. y-intercept = ___", "answer": "6"},
+          {"type": "multiple_choice", "question": "f(x)=x+5 and g(x)=3x-1 equal at x=?", "options": ["2", "3", "4", "1"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    },
+    {
+      "id": "8-math-4",
+      "title": "Pythagorean Theorem",
+      "description": "Apply the Pythagorean theorem to find missing sides and distances.",
+      "lessons": [
+        {
+          "id": "8-math-4-1",
+          "title": "The Pythagorean Theorem",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a right triangle, the square of the hypotenuse (longest side, opposite the right angle) equals the sum of squares of the other two sides: a² + b² = c². If legs are 3 and 4: 9 + 16 = 25, so c = √25 = 5. This only works for right triangles!",
+            "examples": [
+              {"problem": "Legs 3 and 4. Find hypotenuse.", "answer": "5", "explanation": "3²+4²=9+16=25. √25=5."},
+              {"problem": "Legs 5 and 12. Find hypotenuse.", "answer": "13", "explanation": "25+144=169. √169=13."},
+              {"problem": "Hypotenuse 10, one leg 6. Find other leg.", "answer": "8", "explanation": "6²+b²=10². 36+b²=100. b²=64. b=8."}
+            ],
+            "key_vocabulary": ["Pythagorean theorem", "hypotenuse", "leg", "right triangle", "square root"],
+            "real_world": "Finding the diagonal of a TV screen: a 48-inch wide and 36-inch tall TV has a diagonal of 60 inches."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Legs 6 and 8. Hypotenuse = ___", "answer": "10", "hint": "36+64=100. √100=10."},
+            {"type": "fill_in", "question": "Legs 8 and 15. Hypotenuse = ___", "answer": "17", "hint": "64+225=289. √289=17."},
+            {"type": "fill_in", "question": "Hypotenuse 13, one leg 5. Other leg = ___", "answer": "12", "hint": "5²+b²=13². 25+b²=169. b²=144. b=12."},
+            {"type": "multiple_choice", "question": "Is a triangle with sides 7, 24, 25 a right triangle?", "options": ["Yes", "No"], "correct": 0, "hint": "7²+24²=49+576=625=25². Yes!"},
+            {"type": "fill_in", "question": "Legs 9 and 12. Hypotenuse = ___", "answer": "15", "hint": "81+144=225. √225=15."},
+            {"type": "word_problem", "question": "A ladder reaches 12 feet up a wall and the base is 5 feet from the wall. How long is the ladder?", "answer": "13", "operation": "sqrt(144+25)", "hint": "12²+5²=144+25=169. √169=13 feet."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-4-2",
+          "title": "Distance Between Two Points",
+          "type": "lesson",
+          "content": {
+            "explanation": "The distance formula comes from the Pythagorean theorem! For points (x₁,y₁) and (x₂,y₂): d = √[(x₂-x₁)² + (y₂-y₁)²]. This is the hypotenuse of a right triangle where the legs are the horizontal and vertical distances. Between (1,2) and (4,6): d = √[(3)²+(4)²] = √[9+16] = √25 = 5.",
+            "examples": [
+              {"problem": "Distance from (0,0) to (3,4)", "answer": "5", "explanation": "√(9+16) = √25 = 5."},
+              {"problem": "Distance from (1,1) to (4,5)", "answer": "5", "explanation": "√(9+16) = √25 = 5."},
+              {"problem": "Distance from (-2,3) to (4,3)", "answer": "6", "explanation": "√(36+0) = √36 = 6. (Horizontal distance only.)"}
+            ],
+            "key_vocabulary": ["distance formula", "coordinate plane", "horizontal", "vertical", "hypotenuse"],
+            "real_world": "GPS uses distance formulas to calculate how far apart two locations are."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Distance from (0,0) to (5,12) = ___", "answer": "13", "hint": "√(25+144)=√169=13."},
+            {"type": "fill_in", "question": "Distance from (1,2) to (7,10) = ___", "answer": "10", "hint": "√(36+64)=√100=10."},
+            {"type": "multiple_choice", "question": "Distance from (3,0) to (3,8)?", "options": ["8", "3", "5", "11"], "correct": 0, "hint": "Same x: just the vertical distance = 8."},
+            {"type": "fill_in", "question": "Distance from (0,0) to (8,6) = ___", "answer": "10", "hint": "√(64+36)=√100=10."},
+            {"type": "fill_in", "question": "Distance from (2,3) to (5,7) = ___", "answer": "5", "hint": "√(9+16)=√25=5."},
+            {"type": "word_problem", "question": "A drone flies from (0,0) to (9,12). How far did it travel?", "answer": "15", "operation": "sqrt(81+144)", "hint": "√(81+144)=√225=15."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-4-3",
+          "title": "Pythagorean Theorem in 3D",
+          "type": "lesson",
+          "content": {
+            "explanation": "You can extend the Pythagorean theorem to 3D! The space diagonal of a box with dimensions l, w, h is d = √(l² + w² + h²). First find the diagonal of the base: d_base = √(l² + w²), then use that with height: d = √(d_base² + h²) = √(l² + w² + h²).",
+            "examples": [
+              {"problem": "Diagonal of 3×4×12 box", "answer": "13", "explanation": "√(9+16+144) = √169 = 13."},
+              {"problem": "Diagonal of 2×3×6 box", "answer": "7", "explanation": "√(4+9+36) = √49 = 7."},
+              {"problem": "Diagonal of 1×2×2 box", "answer": "3", "explanation": "√(1+4+4) = √9 = 3."}
+            ],
+            "key_vocabulary": ["space diagonal", "three-dimensional", "rectangular prism"],
+            "real_world": "Finding if a long rod fits inside a box diagonally."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Diagonal of a 6×8×24 box = ___", "answer": "26", "hint": "√(36+64+576)=√676=26."},
+            {"type": "fill_in", "question": "Diagonal of a 1×4×8 box = ___", "answer": "9", "hint": "√(1+16+64)=√81=9."},
+            {"type": "multiple_choice", "question": "Diagonal of a 2×6×9 box?", "options": ["11", "12", "10", "9"], "correct": 0, "hint": "√(4+36+81)=√121=11."},
+            {"type": "fill_in", "question": "Diagonal of a 5×5×5 cube = √___", "answer": "75", "hint": "5²+5²+5²=25+25+25=75."},
+            {"type": "true_false", "question": "The space diagonal of a 3×4×0 box is 5.", "answer": "true", "hint": "√(9+16+0)=√25=5. (It's flat — just a 2D diagonal.)"},
+            {"type": "word_problem", "question": "Can a 15-foot pole fit inside a room that is 8 ft × 6 ft × 10 ft tall?", "answer": "No", "operation": "sqrt(64+36+100)", "hint": "Diagonal = √(64+36+100)=√200≈14.1. The pole is 15 ft, so no."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-4-4",
+          "title": "Pythagorean Triples and Converse",
+          "type": "lesson",
+          "content": {
+            "explanation": "Pythagorean triples are sets of three whole numbers that satisfy a²+b²=c². Common ones: (3,4,5), (5,12,13), (8,15,17), (7,24,25). Multiples also work: (6,8,10) is 2×(3,4,5). The converse: if a²+b²=c², the triangle IS right. If a²+b²≠c², it's not right. If a²+b²>c², the triangle is acute. If a²+b²<c², it's obtuse.",
+            "examples": [
+              {"problem": "Is (9,12,15) a Pythagorean triple?", "answer": "Yes", "explanation": "81+144=225=15². Yes! (It's 3×(3,4,5).)"},
+              {"problem": "Triangle with sides 6, 7, 10. Right triangle?", "answer": "No", "explanation": "36+49=85≠100. Not right."},
+              {"problem": "Is (20,21,29) a triple?", "answer": "Yes", "explanation": "400+441=841=29². Yes!"}
+            ],
+            "key_vocabulary": ["Pythagorean triple", "converse", "right triangle", "acute", "obtuse"],
+            "real_world": "Construction workers use 3-4-5 triangles to ensure walls meet at right angles."
+          },
+          "practice_problems": [
+            {"type": "true_false", "question": "(5,12,13) is a Pythagorean triple.", "answer": "true", "hint": "25+144=169=13²."},
+            {"type": "true_false", "question": "(6,8,10) is a Pythagorean triple.", "answer": "true", "hint": "36+64=100=10²."},
+            {"type": "multiple_choice", "question": "Triangle sides 4, 5, 7. Is it right?", "options": ["Yes", "No"], "correct": 1, "hint": "16+25=41≠49. Not right."},
+            {"type": "true_false", "question": "(10,24,26) is a Pythagorean triple.", "answer": "true", "hint": "100+576=676=26²."},
+            {"type": "multiple_choice", "question": "Which is a Pythagorean triple?", "options": ["(2,3,4)", "(3,4,5)", "(4,5,6)", "(1,2,3)"], "correct": 1, "hint": "9+16=25."},
+            {"type": "true_false", "question": "If sides are 1, 1, √2, it's a right triangle.", "answer": "true", "hint": "1+1=2=(√2)²."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-4-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Legs 5 and 12. Hypotenuse = ___", "answer": "13"},
+          {"type": "fill_in", "question": "Distance from (0,0) to (6,8) = ___", "answer": "10"},
+          {"type": "true_false", "question": "(8,15,17) is a Pythagorean triple.", "answer": "true"},
+          {"type": "fill_in", "question": "Hypotenuse 25, leg 7. Other leg = ___", "answer": "24"},
+          {"type": "fill_in", "question": "Diagonal of 3×4×12 box = ___", "answer": "13"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    },
+    {
+      "id": "8-math-5",
+      "title": "Transformations",
+      "description": "Understand translations, reflections, rotations, and dilations on the coordinate plane.",
+      "lessons": [
+        {
+          "id": "8-math-5-1",
+          "title": "Translations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A translation slides a shape without rotating or flipping it. Every point moves the same direction and distance. To translate (x,y) by (a,b): new point = (x+a, y+b). Translating right means adding to x; up means adding to y. Left means subtracting from x; down means subtracting from y.",
+            "examples": [
+              {"problem": "Translate (3,5) right 4, up 2", "answer": "(7,7)", "explanation": "(3+4, 5+2) = (7,7)."},
+              {"problem": "Translate (6,2) left 3, down 1", "answer": "(3,1)", "explanation": "(6-3, 2-1) = (3,1)."},
+              {"problem": "Translate (-1,4) by (5,-3)", "answer": "(4,1)", "explanation": "(-1+5, 4-3) = (4,1)."}
+            ],
+            "key_vocabulary": ["translation", "slide", "image", "pre-image", "coordinate"],
+            "real_world": "Moving furniture across a room is a translation — it slides without rotating."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Translate (2,3) right 5, up 4: (___,___)", "answer": "(7,7)", "hint": "(2+5, 3+4)."},
+            {"type": "fill_in", "question": "Translate (8,1) left 3, down 2: (___,___)", "answer": "(5,-1)", "hint": "(8-3, 1-2)."},
+            {"type": "multiple_choice", "question": "Translate (-2,6) by (4,-3):", "options": ["(2,3)", "(-6,9)", "(2,9)", "(-2,3)"], "correct": 0, "hint": "(-2+4, 6-3) = (2,3)."},
+            {"type": "fill_in", "question": "Translate (0,0) by (-3,7): (___,___)", "answer": "(-3,7)", "hint": "(0-3, 0+7)."},
+            {"type": "true_false", "question": "A translation changes the size of a shape.", "answer": "false", "hint": "Translations only move — they don't resize."},
+            {"type": "fill_in", "question": "(4,-2) translated by (3,5) = (___,___)", "answer": "(7,3)", "hint": "(4+3, -2+5)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-5-2",
+          "title": "Reflections",
+          "type": "lesson",
+          "content": {
+            "explanation": "A reflection flips a shape across a line (axis). Reflecting across the x-axis: (x,y) → (x,-y). Reflecting across the y-axis: (x,y) → (-x,y). Reflecting across y=x: (x,y) → (y,x). The image is a mirror image — same size, reversed orientation.",
+            "examples": [
+              {"problem": "Reflect (3,5) across x-axis", "answer": "(3,-5)", "explanation": "(x,y) → (x,-y): (3,-5)."},
+              {"problem": "Reflect (3,5) across y-axis", "answer": "(-3,5)", "explanation": "(x,y) → (-x,y): (-3,5)."},
+              {"problem": "Reflect (2,7) across y=x", "answer": "(7,2)", "explanation": "(x,y) → (y,x): (7,2)."}
+            ],
+            "key_vocabulary": ["reflection", "flip", "axis", "line of reflection", "mirror image"],
+            "real_world": "Your reflection in a mirror is a mathematical reflection across the mirror line."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Reflect (4,6) across x-axis: (___,___)", "answer": "(4,-6)", "hint": "Keep x, negate y."},
+            {"type": "fill_in", "question": "Reflect (-2,3) across y-axis: (___,___)", "answer": "(2,3)", "hint": "Negate x, keep y."},
+            {"type": "multiple_choice", "question": "Reflect (5,1) across y=x:", "options": ["(1,5)", "(5,-1)", "(-5,1)", "(-1,-5)"], "correct": 0, "hint": "(x,y) → (y,x)."},
+            {"type": "fill_in", "question": "Reflect (0,-4) across x-axis: (___,___)", "answer": "(0,4)", "hint": "(0,y) → (0,-y). So (0,4)."},
+            {"type": "true_false", "question": "A reflection preserves the size of a shape.", "answer": "true", "hint": "Reflections keep size, just flip orientation."},
+            {"type": "fill_in", "question": "Reflect (-3,-7) across y-axis: (___,___)", "answer": "(3,-7)", "hint": "Negate x only."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-5-3",
+          "title": "Rotations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A rotation turns a shape around a center point. Common rotations around the origin: 90° counterclockwise: (x,y) → (-y,x). 180°: (x,y) → (-x,-y). 270° counterclockwise (=90° clockwise): (x,y) → (y,-x). The shape keeps its size and shape, just changes orientation.",
+            "examples": [
+              {"problem": "Rotate (3,2) 90° CCW", "answer": "(-2,3)", "explanation": "(x,y) → (-y,x): (-2,3)."},
+              {"problem": "Rotate (3,2) 180°", "answer": "(-3,-2)", "explanation": "(x,y) → (-x,-y): (-3,-2)."},
+              {"problem": "Rotate (3,2) 270° CCW", "answer": "(2,-3)", "explanation": "(x,y) → (y,-x): (2,-3)."}
+            ],
+            "key_vocabulary": ["rotation", "center of rotation", "clockwise", "counterclockwise", "degree"],
+            "real_world": "A Ferris wheel rotates passengers around a center point."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Rotate (4,1) 90° CCW: (___,___)", "answer": "(-1,4)", "hint": "(x,y) → (-y,x)."},
+            {"type": "fill_in", "question": "Rotate (5,-3) 180°: (___,___)", "answer": "(-5,3)", "hint": "(x,y) → (-x,-y)."},
+            {"type": "multiple_choice", "question": "Rotate (2,6) 270° CCW:", "options": ["(6,-2)", "(-6,2)", "(-2,-6)", "(6,2)"], "correct": 0, "hint": "(x,y) → (y,-x)."},
+            {"type": "fill_in", "question": "Rotate (-3,4) 90° CCW: (___,___)", "answer": "(-4,-3)", "hint": "(-y,x) = (-4,-3)."},
+            {"type": "true_false", "question": "A 360° rotation returns a point to its original position.", "answer": "true", "hint": "Full turn = back to start."},
+            {"type": "fill_in", "question": "Rotate (1,0) 90° CCW: (___,___)", "answer": "(0,1)", "hint": "(x,y) → (-y,x) = (0,1)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-5-4",
+          "title": "Dilations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A dilation resizes a shape by a scale factor k from a center point. For dilation from the origin with scale factor k: (x,y) → (kx,ky). If k>1, the shape gets bigger (enlargement). If 0<k<1, it gets smaller (reduction). If k=2, every distance doubles. Dilations preserve shape but not size — they create similar figures.",
+            "examples": [
+              {"problem": "Dilate (3,4) by factor 2", "answer": "(6,8)", "explanation": "(2×3, 2×4) = (6,8)."},
+              {"problem": "Dilate (10,6) by factor 1/2", "answer": "(5,3)", "explanation": "(10/2, 6/2) = (5,3)."},
+              {"problem": "Dilate (-4,2) by factor 3", "answer": "(-12,6)", "explanation": "(3×-4, 3×2) = (-12,6)."}
+            ],
+            "key_vocabulary": ["dilation", "scale factor", "enlargement", "reduction", "similar", "center"],
+            "real_world": "Zooming in on a photo is a dilation — same shape, different size."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Dilate (5,3) by factor 3: (___,___)", "answer": "(15,9)", "hint": "(3×5, 3×3)."},
+            {"type": "fill_in", "question": "Dilate (8,12) by factor 1/4: (___,___)", "answer": "(2,3)", "hint": "(8/4, 12/4)."},
+            {"type": "multiple_choice", "question": "Dilate (4,-2) by factor 2:", "options": ["(8,-4)", "(2,-1)", "(6,0)", "(8,4)"], "correct": 0, "hint": "(2×4, 2×-2)."},
+            {"type": "true_false", "question": "A dilation with scale factor 1 changes the shape.", "answer": "false", "hint": "Factor 1 means no change."},
+            {"type": "fill_in", "question": "Dilate (-6,4) by factor 1/2: (___,___)", "answer": "(-3,2)", "hint": "(-6/2, 4/2)."},
+            {"type": "word_problem", "question": "A triangle has vertices (2,1), (4,1), (3,5). After dilation by factor 2, what are the new vertices?", "answer": "(4,2), (8,2), (6,10)", "operation": "multiply each by 2", "hint": "Multiply each coordinate by 2."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-5-quiz",
+        "questions": [
+          {"type": "fill_in", "question": "Translate (3,5) by (4,-2): (___,___)", "answer": "(7,3)"},
+          {"type": "fill_in", "question": "Reflect (6,-2) across x-axis: (___,___)", "answer": "(6,2)"},
+          {"type": "fill_in", "question": "Rotate (1,3) 180°: (___,___)", "answer": "(-1,-3)"},
+          {"type": "fill_in", "question": "Dilate (4,6) by factor 3: (___,___)", "answer": "(12,18)"},
+          {"type": "true_false", "question": "Translations, reflections, and rotations all preserve size.", "answer": "true"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    },
+    {
+      "id": "8-math-6",
+      "title": "Scatter Plots and Data Analysis",
+      "description": "Create and interpret scatter plots, identify trends, and use lines of best fit.",
+      "lessons": [
+        {
+          "id": "8-math-6-1",
+          "title": "Scatter Plots and Associations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A scatter plot shows pairs of data as dots on a coordinate plane. Look for patterns: positive association (both increase together), negative association (one goes up, other goes down), no association (no pattern). Also look for clustering (groups of points) and outliers (points far from the pattern).",
+            "examples": [
+              {"problem": "Height vs weight data", "answer": "Positive association", "explanation": "As height increases, weight tends to increase too."},
+              {"problem": "Temperature vs hot chocolate sales", "answer": "Negative association", "explanation": "Higher temp → fewer hot chocolate sales."},
+              {"problem": "Shoe size vs test score", "answer": "No association", "explanation": "No meaningful relationship between these."}
+            ],
+            "key_vocabulary": ["scatter plot", "positive association", "negative association", "cluster", "outlier"],
+            "real_world": "Scientists use scatter plots to find relationships between variables."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Study hours vs grade. Association?", "options": ["Positive", "Negative", "No association", "Can't tell"], "correct": 0, "hint": "More studying → better grades."},
+            {"type": "multiple_choice", "question": "Age of car vs value. Association?", "options": ["Positive", "Negative", "No association", "Can't tell"], "correct": 1, "hint": "Older cars typically lose value."},
+            {"type": "multiple_choice", "question": "Hair color vs math score. Association?", "options": ["Positive", "Negative", "No association", "Positive"], "correct": 2, "hint": "Hair color doesn't affect math ability."},
+            {"type": "true_false", "question": "An outlier is a point far from the overall pattern.", "answer": "true", "hint": "Outliers are unusual data points."},
+            {"type": "multiple_choice", "question": "Exercise hours vs resting heart rate:", "options": ["Positive", "Negative", "No association", "Can't tell"], "correct": 1, "hint": "More exercise → lower resting heart rate."},
+            {"type": "true_false", "question": "A positive association means as x increases, y decreases.", "answer": "false", "hint": "Positive means both increase together."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-6-2",
+          "title": "Lines of Best Fit",
+          "type": "lesson",
+          "content": {
+            "explanation": "A line of best fit (trend line) is a straight line that comes closest to the data points in a scatter plot. It should have roughly equal numbers of points above and below. You can use the line to make predictions. If the line is y = 2x + 10, and x=15, predict y = 2(15)+10 = 40.",
+            "examples": [
+              {"problem": "Line: y = 3x + 5. Predict y when x=10.", "answer": "35", "explanation": "3(10)+5=35."},
+              {"problem": "Line: y = -2x + 100. Predict y when x=30.", "answer": "40", "explanation": "-2(30)+100=40."},
+              {"problem": "Predict using y = 0.5x + 20 at x=50.", "answer": "45", "explanation": "0.5(50)+20=45."}
+            ],
+            "key_vocabulary": ["line of best fit", "trend line", "prediction", "interpolation", "extrapolation"],
+            "real_world": "Businesses use trend lines to predict future sales based on past data."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Line: y = 4x + 2. Predict y at x=8: ___", "answer": "34", "hint": "4(8)+2=34."},
+            {"type": "fill_in", "question": "Line: y = -x + 50. Predict y at x=20: ___", "answer": "30", "hint": "-20+50=30."},
+            {"type": "multiple_choice", "question": "A good line of best fit should:", "options": ["Pass through every point", "Have equal points above and below", "Only touch the first and last points", "Be vertical"], "correct": 1, "hint": "It balances the data points."},
+            {"type": "fill_in", "question": "Line: y = 2.5x + 10. Predict at x=12: ___", "answer": "40", "hint": "2.5(12)+10=30+10=40."},
+            {"type": "true_false", "question": "Extrapolation (predicting outside the data range) is always reliable.", "answer": "false", "hint": "Extrapolation can be unreliable — the pattern may not continue."},
+            {"type": "word_problem", "question": "Trend line: profit = 500x + 2000 (x=months). Predict profit at month 6.", "answer": "5000", "operation": "500*6 + 2000", "hint": "500(6)+2000 = 3000+2000 = 5000."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-6-3",
+          "title": "Two-Way Tables",
+          "type": "lesson",
+          "content": {
+            "explanation": "A two-way table shows data for two categories. Rows are one category, columns are another. You can find joint frequencies (specific cells), marginal frequencies (row/column totals), and conditional probabilities. Example: if 20 of 50 students like dogs AND are boys, the joint frequency is 20/50 = 40%.",
+            "examples": [
+              {"problem": "30 boys total, 18 like dogs. P(dog|boy)?", "answer": "18/30 = 60%", "explanation": "18 out of 30 boys like dogs = 60%."},
+              {"problem": "Total: 100 students, 45 like cats. P(cat)?", "answer": "45/100 = 45%", "explanation": "45 out of 100 = 45%."},
+              {"problem": "Girls who like dogs: 15 out of 50 total. P(girl AND dog)?", "answer": "15/100 = 15%", "explanation": "Joint frequency: 15/100 = 15%."}
+            ],
+            "key_vocabulary": ["two-way table", "joint frequency", "marginal frequency", "conditional", "relative frequency"],
+            "real_world": "Surveys use two-way tables to analyze responses by different groups."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "80 students: 30 boys like sports, 50 boys total. P(sports|boy) = ___%", "answer": "60", "hint": "30/50 = 0.60 = 60%."},
+            {"type": "fill_in", "question": "120 total: 40 prefer pizza. P(pizza) = ___%", "answer": "33", "hint": "40/120 ≈ 0.333 ≈ 33%."},
+            {"type": "multiple_choice", "question": "In a two-way table, the total of all cells equals:", "options": ["The largest cell", "The total number surveyed", "100%", "The mean"], "correct": 1, "hint": "All cells add up to the grand total."},
+            {"type": "true_false", "question": "Marginal frequencies are found in the totals row/column.", "answer": "true", "hint": "Margins = edges/totals of the table."},
+            {"type": "fill_in", "question": "45 girls, 20 like math. P(math|girl) = ___/45", "answer": "20", "hint": "20 out of 45 girls."},
+            {"type": "word_problem", "question": "200 students: 80 boys, 120 girls. 50 boys play sports, 60 girls play sports. What fraction of all students play sports?", "answer": "110/200", "operation": "50+60/200", "hint": "50+60=110 play sports out of 200."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-math-6-4",
+          "title": "Interpreting Data and Making Conclusions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Good data analysis involves looking at the full picture: center (mean/median), spread (range/IQR), shape (symmetric, skewed), and unusual features (outliers, gaps). Correlation does NOT mean causation — just because two things are related doesn't mean one causes the other. Sample size matters: larger samples give more reliable results.",
+            "examples": [
+              {"problem": "Ice cream sales and drownings both increase in summer.", "answer": "Correlation, not causation", "explanation": "Both increase due to hot weather, not because one causes the other."},
+              {"problem": "Data: mean=80, median=78, range=40. Describe.", "answer": "Center ~80, moderate spread", "explanation": "Mean and median are close, so roughly symmetric. Range of 40 shows some variability."},
+              {"problem": "Survey of 5 people vs 500 people.", "answer": "500 is more reliable", "explanation": "Larger sample = more representative."}
+            ],
+            "key_vocabulary": ["correlation", "causation", "sample size", "bias", "conclusion", "inference"],
+            "real_world": "News headlines often confuse correlation with causation. Critical thinking matters!"
+          },
+          "practice_problems": [
+            {"type": "true_false", "question": "Correlation always implies causation.", "answer": "false", "hint": "Correlation ≠ causation."},
+            {"type": "multiple_choice", "question": "A survey of 10 students vs 1000. Which is more reliable?", "options": ["10 students", "1000 students", "Same reliability", "Can't tell"], "correct": 1, "hint": "Larger sample = more reliable."},
+            {"type": "multiple_choice", "question": "Shoe size and reading level in elementary school. Why correlated?", "options": ["Big feet help reading", "Both increase with age", "Reading makes feet grow", "No reason"], "correct": 1, "hint": "Both are related to a third variable: age."},
+            {"type": "true_false", "question": "An outlier can greatly affect the mean.", "answer": "true", "hint": "One extreme value pulls the mean toward it."},
+            {"type": "multiple_choice", "question": "Best measure of center for skewed data:", "options": ["Mean", "Median", "Mode", "Range"], "correct": 1, "hint": "Median is resistant to skewness."},
+            {"type": "true_false", "question": "A well-designed experiment can show causation.", "answer": "true", "hint": "Controlled experiments with random assignment can establish cause-effect."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "8-math-6-quiz",
+        "questions": [
+          {"type": "multiple_choice", "question": "Height and weight show what type of association?", "options": ["Positive", "Negative", "None", "Can't tell"], "correct": 0},
+          {"type": "fill_in", "question": "Trend line y = 3x + 5. At x=10, y = ___", "answer": "35"},
+          {"type": "true_false", "question": "Correlation means causation.", "answer": "false"},
+          {"type": "multiple_choice", "question": "An outlier in a dataset:", "options": ["Is always an error", "Is far from the pattern", "Should be deleted", "Equals the mean"], "correct": 1},
+          {"type": "fill_in", "question": "100 students: 40 boys, 25 boys like art. P(art|boy) = ___/40", "answer": "25"}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50
+      }
+    }
+  ]
+}

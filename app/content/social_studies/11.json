@@ -1,0 +1,3527 @@
+{
+  "grade": 11,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "11-ss-1",
+      "title": "Colonial America and the Revolution",
+      "description": "Explore the thirteen colonies, causes of the American Revolution, the Declaration of Independence, key battles, and the Treaty of Paris.",
+      "lessons": [
+        {
+          "id": "11-social_studies-1-1",
+          "title": "The Thirteen Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "By the mid-1700s, Britain had established thirteen colonies along the eastern seaboard of North America. These colonies fell into three regional groups, each with distinct economies and cultures. The New England colonies (Massachusetts, Connecticut, Rhode Island, New Hampshire) had rocky soil and cold winters, leading to an economy based on fishing, shipbuilding, and trade. The Middle colonies (New York, New Jersey, Pennsylvania, Delaware) were known as the 'breadbasket' for their fertile farmland and diverse populations of English, Dutch, German, and Scots-Irish settlers. The Southern colonies (Virginia, Maryland, North Carolina, South Carolina, Georgia) developed plantation agriculture \u2014 tobacco, rice, and indigo \u2014 increasingly dependent on enslaved African labor. Despite their differences, all thirteen colonies shared English legal traditions, representative assemblies, and a growing sense of self-governance that would eventually clash with British imperial authority.",
+            "examples": [
+              {
+                "problem": "What were the three colonial regions?",
+                "answer": "New England, Middle, and Southern colonies",
+                "explanation": "Each region developed distinct economic and cultural characteristics based on geography, climate, and the backgrounds of their settlers."
+              },
+              {
+                "problem": "Why was Virginia significant?",
+                "answer": "It was the first permanent English settlement (Jamestown, 1607) and became a model for Southern plantation economy.",
+                "explanation": "Jamestown struggled initially but became profitable through tobacco cultivation, establishing patterns of cash-crop agriculture and reliance on enslaved labor."
+              },
+              {
+                "problem": "What role did religion play in colonial settlement?",
+                "answer": "Many colonies were founded for religious freedom, including Massachusetts (Puritans), Pennsylvania (Quakers), and Maryland (Catholics).",
+                "explanation": "Religious motivations shaped colonial laws, education, and social structures, though tolerance varied widely between colonies."
+              }
+            ],
+            "key_vocabulary": [
+              "thirteen colonies",
+              "New England",
+              "Middle colonies",
+              "Southern colonies",
+              "Jamestown",
+              "plantation",
+              "representative assembly",
+              "self-governance"
+            ],
+            "real_world": "The regional differences that shaped colonial America still echo in American culture today. The industrial Northeast, agricultural South, and diverse Mid-Atlantic each trace roots to colonial patterns."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which colony was the first permanent English settlement in North America?",
+              "options": [
+                "Plymouth",
+                "Virginia (Jamestown)",
+                "Pennsylvania",
+                "Georgia"
+              ],
+              "correct": 1,
+              "hint": "It was founded in 1607."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Middle colonies were called the 'breadbasket' because of their:",
+              "options": [
+                "fishing industry",
+                "fertile farmland",
+                "textile mills",
+                "gold mines"
+              ],
+              "correct": 1,
+              "hint": "Think about what 'breadbasket' implies about agriculture."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ colonies developed plantation agriculture dependent on enslaved labor.",
+              "answer": "Southern",
+              "hint": "Think about the region with tobacco and rice plantations."
+            },
+            {
+              "type": "fill_in",
+              "question": "Massachusetts was founded primarily by Puritans seeking religious freedom.",
+              "answer": "true",
+              "hint": "The Pilgrims and Puritans came to New England for religious reasons."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which group of colonies included New York, New Jersey, Pennsylvania, and Delaware?",
+              "options": [
+                "New England",
+                "Middle",
+                "Southern",
+                "Western"
+              ],
+              "correct": 1,
+              "hint": "These colonies were geographically between New England and the South."
+            },
+            {
+              "type": "fill_in",
+              "question": "The first permanent English settlement was ___, founded in 1607.",
+              "answer": "Jamestown",
+              "hint": "It was located in present-day Virginia."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-1-2",
+          "title": "Causes of the American Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Tensions between Britain and the American colonies escalated dramatically after the French and Indian War (1754-1763). Britain had accumulated massive war debt and decided the colonies should help pay for it through new taxes. The Sugar Act (1764), Stamp Act (1765), and Townshend Acts (1767) imposed taxes on the colonists without their consent, sparking the rallying cry 'No taxation without representation.' Colonists argued that since they had no elected members in the British Parliament, Parliament had no right to tax them. Britain responded to colonial resistance with punitive measures: the Quartering Act forced colonists to house British soldiers, and after the Boston Tea Party (1773), Parliament passed the Intolerable Acts, closing Boston Harbor and restricting colonial self-government. These acts united the colonies in opposition. The First Continental Congress met in 1774 to coordinate a response, and by April 1775, fighting broke out at Lexington and Concord, marking the beginning of the Revolutionary War.",
+            "examples": [
+              {
+                "problem": "What was the significance of 'No taxation without representation'?",
+                "answer": "Colonists argued Parliament could not tax them because they had no elected representatives in Parliament.",
+                "explanation": "This principle was rooted in English constitutional tradition that taxation required consent of the governed through their representatives."
+              },
+              {
+                "problem": "What happened at the Boston Tea Party?",
+                "answer": "In 1773, colonists dumped 342 chests of British tea into Boston Harbor to protest the Tea Act.",
+                "explanation": "The Tea Act gave the British East India Company a monopoly on tea sales, threatening colonial merchants. The protest led to the harsh Intolerable Acts."
+              },
+              {
+                "problem": "What were the Intolerable Acts?",
+                "answer": "Punitive laws passed by Parliament in 1774 that closed Boston Harbor, restricted town meetings, and expanded the Quartering Act.",
+                "explanation": "Rather than isolating Massachusetts, these acts united the colonies against Britain, leading to the First Continental Congress."
+              }
+            ],
+            "key_vocabulary": [
+              "French and Indian War",
+              "Stamp Act",
+              "Townshend Acts",
+              "Boston Tea Party",
+              "Intolerable Acts",
+              "No taxation without representation",
+              "First Continental Congress",
+              "Lexington and Concord"
+            ],
+            "real_world": "The principle of 'no taxation without representation' remains central to American democracy. Citizens today vote for representatives who decide tax policy, a direct legacy of the Revolution."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What war's debt led Britain to tax the American colonies?",
+              "options": [
+                "War of 1812",
+                "French and Indian War",
+                "English Civil War",
+                "Seven Years' War in Europe only"
+              ],
+              "correct": 1,
+              "hint": "This war ended in 1763 and was fought in North America."
+            },
+            {
+              "type": "fill_in",
+              "question": "The rallying cry '___ ___ without ___' summarized colonial opposition to British taxes.",
+              "answer": "No taxation without representation",
+              "hint": "Colonists had no voice in Parliament."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Boston Tea Party was a protest against the:",
+              "options": [
+                "Stamp Act",
+                "Sugar Act",
+                "Tea Act",
+                "Quartering Act"
+              ],
+              "correct": 2,
+              "hint": "It involved dumping tea into Boston Harbor."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Intolerable Acts united the colonies against Britain.",
+              "answer": "true",
+              "hint": "Rather than punishing only Massachusetts, these acts brought the colonies together."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where were the first shots of the Revolutionary War fired in April 1775?",
+              "options": [
+                "Boston",
+                "Philadelphia",
+                "Lexington and Concord",
+                "Yorktown"
+              ],
+              "correct": 2,
+              "hint": "These two Massachusetts towns saw the first military engagements."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The First Continental Congress met in what year?",
+              "options": [
+                "1770",
+                "1773",
+                "1774",
+                "1776"
+              ],
+              "correct": 2,
+              "hint": "It met in response to the Intolerable Acts."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-1-3",
+          "title": "The Declaration of Independence",
+          "type": "lesson",
+          "content": {
+            "explanation": "By the summer of 1776, many colonists had shifted from seeking reconciliation with Britain to demanding full independence. Thomas Paine's pamphlet 'Common Sense,' published in January 1776, powerfully argued that monarchy was illegitimate and independence was the only logical course. The Second Continental Congress appointed a Committee of Five \u2014 Thomas Jefferson, Benjamin Franklin, John Adams, Roger Sherman, and Robert Livingston \u2014 to draft a formal declaration. Jefferson, the primary author, drew on Enlightenment philosophy, particularly John Locke's ideas about natural rights. The Declaration of Independence, adopted on July 4, 1776, articulated three key ideas: (1) all people possess unalienable rights including 'life, liberty, and the pursuit of happiness'; (2) governments derive their power from 'the consent of the governed'; and (3) when a government violates these rights, the people have the right to alter or abolish it. The document then listed specific grievances against King George III to justify independence to the world.",
+            "examples": [
+              {
+                "problem": "Who was the primary author of the Declaration of Independence?",
+                "answer": "Thomas Jefferson",
+                "explanation": "Jefferson was chosen partly for his reputation as an eloquent writer. He drew heavily on Enlightenment ideas, particularly those of John Locke."
+              },
+              {
+                "problem": "What are 'unalienable rights'?",
+                "answer": "Rights that cannot be taken away, including life, liberty, and the pursuit of happiness.",
+                "explanation": "Jefferson adapted Locke's 'life, liberty, and property' to 'life, liberty, and the pursuit of happiness,' broadening the concept of fundamental human rights."
+              },
+              {
+                "problem": "How did 'Common Sense' influence independence?",
+                "answer": "Thomas Paine's pamphlet convinced many colonists that independence, not reconciliation, was the right path.",
+                "explanation": "Written in plain, persuasive language, it sold hundreds of thousands of copies and shifted public opinion decisively toward independence."
+              }
+            ],
+            "key_vocabulary": [
+              "Declaration of Independence",
+              "Thomas Jefferson",
+              "unalienable rights",
+              "consent of the governed",
+              "Common Sense",
+              "Thomas Paine",
+              "natural rights",
+              "Enlightenment"
+            ],
+            "real_world": "The Declaration's ideals have inspired freedom movements worldwide, from the French Revolution to anti-colonial movements in Asia and Africa. Its language about equality continues to shape debates about justice in America."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who was the primary author of the Declaration of Independence?",
+              "options": [
+                "Benjamin Franklin",
+                "John Adams",
+                "Thomas Jefferson",
+                "George Washington"
+              ],
+              "correct": 2,
+              "hint": "He was a Virginian and later became the third president."
+            },
+            {
+              "type": "fill_in",
+              "question": "Thomas Paine's pamphlet '___ ___' argued for independence from Britain.",
+              "answer": "Common Sense",
+              "hint": "This widely-read pamphlet was published in January 1776."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Declaration states that all people have unalienable rights including:",
+              "options": [
+                "Life, liberty, and property",
+                "Life, liberty, and the pursuit of happiness",
+                "Freedom, justice, and equality",
+                "Speech, religion, and assembly"
+              ],
+              "correct": 1,
+              "hint": "Jefferson modified Locke's original phrasing."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Declaration of Independence was adopted on July 4, 1776.",
+              "answer": "true",
+              "hint": "This date is celebrated as Independence Day."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Declaration argues that governments get their power from:",
+              "options": [
+                "God",
+                "The military",
+                "The consent of the governed",
+                "The king"
+              ],
+              "correct": 2,
+              "hint": "This reflects Enlightenment ideas about popular sovereignty."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Declaration listed grievances against King ___ III to justify independence.",
+              "answer": "George",
+              "hint": "He was the British monarch during the Revolution."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-1-4",
+          "title": "Key Battles and the Treaty of Paris",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Revolutionary War (1775-1783) saw the outmatched Continental Army, led by General George Washington, ultimately defeat the world's most powerful military. Early in the war, the Americans suffered defeats in New York but Washington's daring crossing of the Delaware River on Christmas night 1776 to attack Hessian forces at Trenton boosted morale. The turning point came at the Battle of Saratoga (1777), where American victory convinced France to enter the war as an ally, providing crucial military and financial support. The brutal winter at Valley Forge (1777-1778) tested the army but forged it into a more disciplined fighting force with help from European officers like Baron von Steuben. The war's decisive battle occurred at Yorktown, Virginia (1781), where Washington, with French troops and naval support, trapped British General Cornwallis, forcing his surrender. The Treaty of Paris (1783) officially ended the war: Britain recognized American independence and ceded all territory east of the Mississippi River to the new nation.",
+            "examples": [
+              {
+                "problem": "Why was the Battle of Saratoga a turning point?",
+                "answer": "The American victory convinced France to formally ally with the United States.",
+                "explanation": "French support provided money, soldiers, a navy, and military supplies that were essential to the eventual American victory."
+              },
+              {
+                "problem": "What happened at Yorktown?",
+                "answer": "Washington's forces, aided by the French, surrounded British General Cornwallis, forcing his surrender in 1781.",
+                "explanation": "The French navy blocked British escape by sea while American and French troops closed in by land, making Cornwallis's position hopeless."
+              },
+              {
+                "problem": "What did the Treaty of Paris (1783) accomplish?",
+                "answer": "Britain recognized American independence and ceded territory east of the Mississippi River.",
+                "explanation": "The treaty established the boundaries of the new nation and secured fishing rights off Canada for American fishermen."
+              }
+            ],
+            "key_vocabulary": [
+              "George Washington",
+              "Battle of Saratoga",
+              "Valley Forge",
+              "Yorktown",
+              "Treaty of Paris",
+              "Continental Army",
+              "Cornwallis",
+              "French alliance"
+            ],
+            "real_world": "The alliance with France during the Revolution established a long friendship between the two nations. France later gave the Statue of Liberty to the United States as a symbol of shared democratic ideals."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which battle was the turning point of the Revolution because it brought France into the war?",
+              "options": [
+                "Bunker Hill",
+                "Saratoga",
+                "Yorktown",
+                "Trenton"
+              ],
+              "correct": 1,
+              "hint": "This 1777 battle in New York convinced France to become an ally."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Treaty of ___ (1783) officially ended the Revolutionary War.",
+              "answer": "Paris",
+              "hint": "This treaty was signed in a European capital."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who was the commander of the Continental Army?",
+              "options": [
+                "Benjamin Franklin",
+                "Thomas Jefferson",
+                "George Washington",
+                "John Adams"
+              ],
+              "correct": 2,
+              "hint": "He later became the first president."
+            },
+            {
+              "type": "fill_in",
+              "question": "The French alliance was crucial to American victory in the Revolution.",
+              "answer": "true",
+              "hint": "France provided soldiers, money, and naval support."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At which battle did British General Cornwallis surrender in 1781?",
+              "options": [
+                "Saratoga",
+                "Valley Forge",
+                "Trenton",
+                "Yorktown"
+              ],
+              "correct": 3,
+              "hint": "This Virginia battle effectively ended the war."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Washington do on Christmas night, 1776?",
+              "options": [
+                "Surrendered at New York",
+                "Crossed the Delaware River to attack Trenton",
+                "Signed the Declaration",
+                "Met with the French"
+              ],
+              "correct": 1,
+              "hint": "This surprise attack boosted American morale."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-1-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many colonies did Britain establish along the eastern seaboard?",
+            "options": [
+              "10",
+              "13",
+              "15",
+              "20"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the rallying cry against British taxation?",
+            "options": [
+              "Give me liberty or give me death",
+              "No taxation without representation",
+              "Don't tread on me",
+              "United we stand"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The primary author of the Declaration of Independence was ___.",
+            "answer": "Thomas Jefferson"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which battle convinced France to ally with America?",
+            "options": [
+              "Yorktown",
+              "Bunker Hill",
+              "Saratoga",
+              "Trenton"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "The Treaty of Paris was signed in 1783.",
+            "answer": "true"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "colonial_revolution_scholar"
+      }
+    },
+    {
+      "id": "11-ss-2",
+      "title": "Building a New Nation",
+      "description": "Examine the creation of the Constitution, the Bill of Rights, the Federalist vs. Anti-Federalist debate, early presidents, and the Louisiana Purchase.",
+      "lessons": [
+        {
+          "id": "11-social_studies-2-1",
+          "title": "The Constitution and Its Creation",
+          "type": "lesson",
+          "content": {
+            "explanation": "After independence, the new nation first governed itself under the Articles of Confederation (1781-1789), which created a deliberately weak central government with no power to tax, regulate trade, or enforce laws. By the mid-1780s, the weaknesses were clear: the national government couldn't pay war debts, states quarreled over trade, and Shays' Rebellion (1786-1787) in Massachusetts \u2014 an armed uprising by indebted farmers \u2014 alarmed leaders into calling a Constitutional Convention. Meeting in Philadelphia in the summer of 1787, delegates including James Madison, Alexander Hamilton, and Benjamin Franklin debated intensely. Key compromises shaped the document: the Great Compromise created a bicameral Congress (Senate with equal representation, House based on population); the Three-Fifths Compromise counted enslaved people as three-fifths of a person for representation purposes (a deeply immoral bargain); and the Commerce Compromise gave Congress power to regulate interstate and foreign trade but barred taxing exports. The Constitution was signed on September 17, 1787, and ratified by the required nine states by June 1788.",
+            "examples": [
+              {
+                "problem": "Why did the Articles of Confederation fail?",
+                "answer": "They created a national government too weak to tax, regulate trade, or enforce laws.",
+                "explanation": "Without the power to tax, Congress couldn't pay debts or fund an army. Without trade regulation, states imposed tariffs on each other, hurting the economy."
+              },
+              {
+                "problem": "What was the Great Compromise?",
+                "answer": "It created a bicameral Congress with the Senate having equal representation and the House based on population.",
+                "explanation": "This resolved the conflict between large states (wanting population-based representation) and small states (wanting equal representation)."
+              },
+              {
+                "problem": "What was the Three-Fifths Compromise?",
+                "answer": "Enslaved people were counted as three-fifths of a person for determining congressional representation and taxation.",
+                "explanation": "This compromise gave Southern states more representation in Congress while treating enslaved people as less than fully human \u2014 a fundamental moral failure embedded in the Constitution."
+              }
+            ],
+            "key_vocabulary": [
+              "Articles of Confederation",
+              "Constitutional Convention",
+              "Great Compromise",
+              "Three-Fifths Compromise",
+              "bicameral",
+              "ratification",
+              "Shays' Rebellion",
+              "James Madison"
+            ],
+            "real_world": "The process of constitutional compromise continues today. Major legislation often requires negotiation between competing interests, just as the original Constitution required compromise between large and small states, North and South."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What document governed the US before the Constitution?",
+              "options": [
+                "Declaration of Independence",
+                "Magna Carta",
+                "Articles of Confederation",
+                "Mayflower Compact"
+              ],
+              "correct": 2,
+              "hint": "It created a weak central government from 1781 to 1789."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ Rebellion alarmed leaders into calling the Constitutional Convention.",
+              "answer": "Shays'",
+              "hint": "This was an armed uprising by indebted farmers in Massachusetts."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Great Compromise created a:",
+              "options": [
+                "unicameral legislature",
+                "bicameral Congress",
+                "supreme court",
+                "presidential system only"
+              ],
+              "correct": 1,
+              "hint": "It had two chambers: Senate and House."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Three-Fifths Compromise counted enslaved people as full persons for representation.",
+              "answer": "false",
+              "hint": "They were counted as three-fifths, a deeply immoral bargain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In what year was the Constitution signed?",
+              "options": [
+                "1776",
+                "1781",
+                "1787",
+                "1791"
+              ],
+              "correct": 2,
+              "hint": "It was signed at the Philadelphia Convention."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ ___ is often called the 'Father of the Constitution' for his central role.",
+              "answer": "James Madison",
+              "hint": "This Virginian later became the fourth president."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-2-2",
+          "title": "The Bill of Rights",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution's ratification was fiercely debated. Anti-Federalists, including Patrick Henry and George Mason, opposed it because it lacked explicit protections for individual rights. They feared that without such protections, the powerful new government could become tyrannical. Federalists like James Madison, Alexander Hamilton, and John Jay defended the Constitution in a series of 85 essays called The Federalist Papers, arguing that the structure of government itself prevented tyranny. To secure ratification, Federalists promised to add a bill of rights. James Madison drafted the amendments, drawing on the Virginia Declaration of Rights and English common law traditions. Congress proposed twelve amendments in 1789; ten were ratified by the states in 1791, becoming the Bill of Rights. These ten amendments protect fundamental freedoms: the First Amendment guarantees freedom of religion, speech, press, assembly, and petition; the Second protects the right to bear arms; the Fourth guards against unreasonable searches; the Fifth and Sixth ensure due process and fair trials; and the Eighth prohibits cruel and unusual punishment. The Ninth and Tenth Amendments reserve unenumerated rights to the people and powers to the states.",
+            "examples": [
+              {
+                "problem": "Who were the Anti-Federalists?",
+                "answer": "Those who opposed the Constitution because it lacked a bill of rights and gave too much power to the central government.",
+                "explanation": "Key Anti-Federalists included Patrick Henry, George Mason, and Samuel Adams. Their insistence on a bill of rights ultimately strengthened the Constitution."
+              },
+              {
+                "problem": "What were The Federalist Papers?",
+                "answer": "A series of 85 essays by Hamilton, Madison, and Jay arguing for ratification of the Constitution.",
+                "explanation": "These essays remain the most important commentary on the Constitution's meaning and intent, still cited by the Supreme Court today."
+              },
+              {
+                "problem": "What does the First Amendment protect?",
+                "answer": "Freedom of religion, speech, press, assembly, and petition.",
+                "explanation": "These five freedoms are considered essential to a functioning democracy, allowing citizens to express ideas, practice faith, and hold government accountable."
+              }
+            ],
+            "key_vocabulary": [
+              "Bill of Rights",
+              "Anti-Federalists",
+              "Federalists",
+              "Federalist Papers",
+              "First Amendment",
+              "due process",
+              "ratification",
+              "amendments"
+            ],
+            "real_world": "The Bill of Rights remains the foundation of American civil liberties. Court cases about free speech on social media, privacy in the digital age, and police conduct all trace back to these ten amendments."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Anti-Federalists opposed the Constitution primarily because it:",
+              "options": [
+                "was too weak",
+                "lacked a bill of rights",
+                "gave too much power to states",
+                "abolished slavery"
+              ],
+              "correct": 1,
+              "hint": "They feared the new government could become tyrannical without protections."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Papers were 85 essays supporting ratification of the Constitution.",
+              "answer": "Federalist",
+              "hint": "Written by Hamilton, Madison, and Jay."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many amendments make up the Bill of Rights?",
+              "options": [
+                "5",
+                "8",
+                "10",
+                "12"
+              ],
+              "correct": 2,
+              "hint": "Congress proposed twelve, but only this many were ratified in 1791."
+            },
+            {
+              "type": "fill_in",
+              "question": "James Madison drafted the Bill of Rights.",
+              "answer": "true",
+              "hint": "He drew on the Virginia Declaration of Rights."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The First Amendment protects all of the following EXCEPT:",
+              "options": [
+                "Freedom of speech",
+                "Right to bear arms",
+                "Freedom of religion",
+                "Freedom of the press"
+              ],
+              "correct": 1,
+              "hint": "The right to bear arms is covered by a different amendment."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Bill of Rights was ratified in ___.",
+              "answer": "1791",
+              "hint": "It was two years after Congress proposed the amendments."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-2-3",
+          "title": "Federalists vs. Anti-Federalists and Early Political Parties",
+          "type": "lesson",
+          "content": {
+            "explanation": "The debate between Federalists and Anti-Federalists didn't end with ratification \u2014 it evolved into America's first party system. Alexander Hamilton, as Secretary of the Treasury under President Washington, championed a strong federal government, a national bank, protective tariffs, and a manufacturing-based economy. His supporters became the Federalist Party. Thomas Jefferson and James Madison opposed Hamilton's vision, favoring a limited federal government, states' rights, an agrarian economy, and strict interpretation of the Constitution. Their supporters formed the Democratic-Republican Party. Washington warned against political parties in his Farewell Address (1796), calling them a 'spirit of faction' that could divide the nation. Despite his warnings, the election of 1796 between John Adams (Federalist) and Thomas Jefferson (Democratic-Republican) cemented the two-party system. The Federalist era saw important precedents: the creation of the cabinet, the Judiciary Act of 1789 establishing federal courts, and the establishment of a national financial system.",
+            "examples": [
+              {
+                "problem": "What did Alexander Hamilton advocate?",
+                "answer": "A strong federal government, national bank, protective tariffs, and a manufacturing economy.",
+                "explanation": "Hamilton believed America needed a strong central government and industrial development to compete with European powers."
+              },
+              {
+                "problem": "How did Jefferson's vision differ from Hamilton's?",
+                "answer": "Jefferson favored limited government, states' rights, agrarian economy, and strict constitutional interpretation.",
+                "explanation": "Jefferson idealized the independent farmer as the backbone of democracy, distrusting concentrated financial and governmental power."
+              },
+              {
+                "problem": "What did Washington warn about in his Farewell Address?",
+                "answer": "He warned against political factions (parties) and 'entangling alliances' with foreign nations.",
+                "explanation": "Washington feared that partisan division would weaken the nation and that foreign alliances could drag America into European conflicts."
+              }
+            ],
+            "key_vocabulary": [
+              "Federalist Party",
+              "Democratic-Republican",
+              "Alexander Hamilton",
+              "Thomas Jefferson",
+              "national bank",
+              "Farewell Address",
+              "strict interpretation",
+              "loose interpretation"
+            ],
+            "real_world": "The Hamilton vs. Jefferson debate \u2014 big government vs. limited government, industry vs. agriculture, federal power vs. states' rights \u2014 remains the central axis of American political disagreement today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who led the Federalist Party?",
+              "options": [
+                "Thomas Jefferson",
+                "Alexander Hamilton",
+                "James Madison",
+                "John Adams"
+              ],
+              "correct": 1,
+              "hint": "He was Washington's Secretary of the Treasury."
+            },
+            {
+              "type": "fill_in",
+              "question": "Jefferson and Madison formed the ___-___ Party.",
+              "answer": "Democratic-Republican",
+              "hint": "This party favored limited government and states' rights."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Hamilton wanted to create a:",
+              "options": [
+                "state militia",
+                "national bank",
+                "public university",
+                "colonial assembly"
+              ],
+              "correct": 1,
+              "hint": "He believed it was necessary for managing national finances."
+            },
+            {
+              "type": "fill_in",
+              "question": "George Washington supported the formation of political parties.",
+              "answer": "false",
+              "hint": "He warned against them in his Farewell Address."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The election of 1796 was between:",
+              "options": [
+                "Washington and Jefferson",
+                "Adams and Jefferson",
+                "Hamilton and Madison",
+                "Jefferson and Madison"
+              ],
+              "correct": 1,
+              "hint": "It was the first contested presidential election."
+            },
+            {
+              "type": "fill_in",
+              "question": "Washington's ___ Address warned against factions and foreign entanglements.",
+              "answer": "Farewell",
+              "hint": "He delivered it as he was leaving the presidency."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-2-4",
+          "title": "Early Presidents and the Louisiana Purchase",
+          "type": "lesson",
+          "content": {
+            "explanation": "The early presidents established critical precedents for the new nation. George Washington (1789-1797) set the standard of a two-term limit, created the cabinet system, and established the dignity of the presidency. John Adams (1797-1801) navigated tensions with France and signed the controversial Alien and Sedition Acts, which restricted immigration and criminalized criticism of the government. Thomas Jefferson (1801-1809) is remembered for the Louisiana Purchase (1803), arguably the greatest land deal in history. When Napoleon offered to sell the entire Louisiana Territory \u2014 828,000 square miles stretching from the Mississippi to the Rockies \u2014 for $15 million (about 4 cents per acre), Jefferson seized the opportunity despite his strict-constructionist belief that the Constitution didn't explicitly authorize such a purchase. The Lewis and Clark Expedition (1804-1806) explored this vast new territory, documenting the land, peoples, plants, and animals of the West. James Madison (1809-1817) led the nation through the War of 1812 against Britain, which confirmed American independence and boosted nationalism.",
+            "examples": [
+              {
+                "problem": "What was the Louisiana Purchase?",
+                "answer": "The 1803 acquisition of 828,000 square miles from France for $15 million, doubling the size of the United States.",
+                "explanation": "Jefferson faced a dilemma: he believed in strict constitutional interpretation, but the Constitution said nothing about buying foreign territory. He decided the opportunity was too important to pass up."
+              },
+              {
+                "problem": "What was the purpose of the Lewis and Clark Expedition?",
+                "answer": "To explore the newly acquired Louisiana Territory, document its geography and resources, and find a route to the Pacific.",
+                "explanation": "Meriwether Lewis and William Clark, with the help of Sacagawea and others, traveled over 8,000 miles in two years, producing detailed maps and scientific observations."
+              },
+              {
+                "problem": "Why were the Alien and Sedition Acts controversial?",
+                "answer": "They restricted immigration and made it a crime to criticize the government, violating First Amendment principles.",
+                "explanation": "Critics argued these laws were designed to silence Jefferson's Democratic-Republicans. The Sedition Act expired in 1801, and Jefferson pardoned those convicted under it."
+              }
+            ],
+            "key_vocabulary": [
+              "Louisiana Purchase",
+              "Lewis and Clark",
+              "Alien and Sedition Acts",
+              "War of 1812",
+              "precedent",
+              "two-term limit",
+              "Napoleon",
+              "Sacagawea"
+            ],
+            "real_world": "The Louisiana Purchase doubled the size of the United States and set the stage for westward expansion. Today, all or part of fifteen states were carved from this territory."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How much did the United States pay for the Louisiana Territory?",
+              "options": [
+                "$5 million",
+                "$10 million",
+                "$15 million",
+                "$50 million"
+              ],
+              "correct": 2,
+              "hint": "It was about 4 cents per acre."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ and ___ Expedition explored the Louisiana Territory from 1804 to 1806.",
+              "answer": "Lewis and Clark",
+              "hint": "These two captains led the Corps of Discovery."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which president made the Louisiana Purchase?",
+              "options": [
+                "Washington",
+                "Adams",
+                "Jefferson",
+                "Madison"
+              ],
+              "correct": 2,
+              "hint": "He was the third president."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Alien and Sedition Acts were popular with all Americans.",
+              "answer": "false",
+              "hint": "They were controversial and criticized as violating the First Amendment."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The War of 1812 was fought against:",
+              "options": [
+                "France",
+                "Spain",
+                "Britain",
+                "Mexico"
+              ],
+              "correct": 2,
+              "hint": "This war confirmed American independence from its former colonial ruler."
+            },
+            {
+              "type": "fill_in",
+              "question": "George Washington established the precedent of serving only ___ terms as president.",
+              "answer": "two",
+              "hint": "This tradition lasted until FDR and was later made law by the 22nd Amendment."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What document governed the US before the Constitution?",
+            "options": [
+              "Articles of Confederation",
+              "Declaration of Independence",
+              "Magna Carta",
+              "Mayflower Compact"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "The Bill of Rights contains ___ amendments.",
+            "answer": "10"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who led the Federalist Party?",
+            "options": [
+              "Jefferson",
+              "Hamilton",
+              "Madison",
+              "Adams"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Louisiana Purchase was made by President:",
+            "options": [
+              "Washington",
+              "Adams",
+              "Jefferson",
+              "Madison"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Washington warned against political parties in his Farewell Address.",
+            "answer": "true"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "new_nation_builder"
+      }
+    },
+    {
+      "id": "11-ss-3",
+      "title": "Expansion and Reform",
+      "description": "Study Manifest Destiny, the Trail of Tears, abolitionism, the women's suffrage movement, and early industrialization.",
+      "lessons": [
+        {
+          "id": "11-social_studies-3-1",
+          "title": "Manifest Destiny and Westward Expansion",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the 1840s, the idea of 'Manifest Destiny' \u2014 the belief that Americans were divinely ordained to expand across the continent \u2014 drove a massive wave of westward migration. Journalist John O'Sullivan coined the term in 1845, arguing that it was America's 'manifest destiny to overspread the continent.' This ideology justified the annexation of Texas (1845), the Oregon Treaty with Britain (1846) securing the Pacific Northwest, and the Mexican-American War (1846-1848). The Treaty of Guadalupe Hidalgo ending that war ceded to the United States the vast Mexican Cession \u2014 present-day California, Nevada, Utah, and parts of Arizona, New Mexico, Wyoming, and Colorado \u2014 for $15 million. The California Gold Rush (1849) drew hundreds of thousands of settlers westward. However, Manifest Destiny had devastating consequences for Native Americans, who were forcibly removed from their lands, and for Mexico, which lost roughly half its territory. It also reignited the slavery debate, as each new territory raised the question: would it be free or slave?",
+            "examples": [
+              {
+                "problem": "What was Manifest Destiny?",
+                "answer": "The belief that American expansion across the continent was inevitable and divinely ordained.",
+                "explanation": "This ideology combined religious conviction, national pride, and racial superiority to justify continental expansion, regardless of the cost to indigenous peoples and neighboring nations."
+              },
+              {
+                "problem": "What territory did the US gain from the Mexican-American War?",
+                "answer": "The Mexican Cession: California, Nevada, Utah, and parts of Arizona, New Mexico, Wyoming, and Colorado.",
+                "explanation": "The Treaty of Guadalupe Hidalgo (1848) transferred this vast territory for $15 million, dramatically expanding the US to the Pacific coast."
+              },
+              {
+                "problem": "How did westward expansion affect the slavery debate?",
+                "answer": "Each new territory raised the question of whether it would permit or ban slavery, intensifying sectional conflict.",
+                "explanation": "The Compromise of 1850, Kansas-Nebraska Act, and 'Bleeding Kansas' all resulted from the explosive question of slavery in new territories."
+              }
+            ],
+            "key_vocabulary": [
+              "Manifest Destiny",
+              "Mexican-American War",
+              "Treaty of Guadalupe Hidalgo",
+              "Mexican Cession",
+              "annexation",
+              "California Gold Rush",
+              "Oregon Treaty",
+              "John O'Sullivan"
+            ],
+            "real_world": "The concept of Manifest Destiny shaped the geographic boundaries of the modern United States. Its legacy includes ongoing debates about indigenous rights, immigration policy along the US-Mexico border, and American attitudes toward expansion."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who coined the term 'Manifest Destiny'?",
+              "options": [
+                "Thomas Jefferson",
+                "James K. Polk",
+                "John O'Sullivan",
+                "Andrew Jackson"
+              ],
+              "correct": 2,
+              "hint": "He was a journalist who wrote about it in 1845."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Treaty of ___ ___ ended the Mexican-American War in 1848.",
+              "answer": "Guadalupe Hidalgo",
+              "hint": "This treaty transferred the Mexican Cession to the United States."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The California Gold Rush began in:",
+              "options": [
+                "1845",
+                "1848",
+                "1849",
+                "1852"
+              ],
+              "correct": 2,
+              "hint": "Prospectors were called 'forty-niners.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "Manifest Destiny had no negative effects on Native Americans.",
+              "answer": "false",
+              "hint": "It led to forced removal and devastation of indigenous peoples."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of these was NOT part of the Mexican Cession?",
+              "options": [
+                "California",
+                "Texas",
+                "Nevada",
+                "Utah"
+              ],
+              "correct": 1,
+              "hint": "Texas was annexed separately in 1845."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Oregon Treaty (1846) secured territory from:",
+              "options": [
+                "France",
+                "Spain",
+                "Britain",
+                "Mexico"
+              ],
+              "correct": 2,
+              "hint": "The US and this country divided the Oregon Country at the 49th parallel."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-3-2",
+          "title": "The Trail of Tears and Indian Removal",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Indian Removal Act of 1830, signed by President Andrew Jackson, authorized the forced relocation of Native American nations from their ancestral homelands in the southeastern United States to 'Indian Territory' west of the Mississippi River (present-day Oklahoma). The Cherokee, Chickasaw, Choctaw, Creek, and Seminole \u2014 known as the 'Five Civilized Tribes' because they had adopted many European-American practices including written constitutions and farming \u2014 were targeted. The Cherokee fought removal through the legal system, and in Worcester v. Georgia (1832), the Supreme Court ruled in their favor, declaring that Georgia had no jurisdiction over Cherokee lands. Jackson reportedly responded, 'John Marshall has made his decision; now let him enforce it,' and proceeded with removal anyway. Between 1831 and 1838, approximately 60,000 Native Americans were forcibly relocated. The Cherokee removal in 1838-1839, known as the Trail of Tears, was particularly devastating: roughly 4,000 of the 15,000 Cherokee who began the 1,200-mile march died from exposure, disease, and starvation along the way.",
+            "examples": [
+              {
+                "problem": "What was the Indian Removal Act?",
+                "answer": "An 1830 law authorizing the forced relocation of Native Americans from southeastern US to Indian Territory (Oklahoma).",
+                "explanation": "President Jackson championed this law despite its devastating human cost, arguing it was necessary for American expansion and would actually 'benefit' Native Americans."
+              },
+              {
+                "problem": "What happened in Worcester v. Georgia?",
+                "answer": "The Supreme Court ruled Georgia had no authority over Cherokee lands, but Jackson ignored the ruling and proceeded with removal.",
+                "explanation": "This case highlighted the limits of judicial power when the executive branch refuses to enforce court decisions, raising profound constitutional questions."
+              },
+              {
+                "problem": "Why was the Cherokee removal called the Trail of Tears?",
+                "answer": "Roughly 4,000 Cherokee died during the forced 1,200-mile march to Oklahoma in 1838-1839.",
+                "explanation": "Freezing temperatures, inadequate supplies, disease, and exhaustion killed approximately one-quarter of the Cherokee people during the journey."
+              }
+            ],
+            "key_vocabulary": [
+              "Indian Removal Act",
+              "Trail of Tears",
+              "Andrew Jackson",
+              "Cherokee",
+              "Worcester v. Georgia",
+              "Five Civilized Tribes",
+              "Indian Territory",
+              "forced relocation"
+            ],
+            "real_world": "The Trail of Tears remains one of the most shameful episodes in American history. Today, the Cherokee Nation is the largest tribal nation in the US, and the Trail of Tears National Historic Trail preserves the memory of this tragedy."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who signed the Indian Removal Act into law?",
+              "options": [
+                "Thomas Jefferson",
+                "Andrew Jackson",
+                "James Monroe",
+                "John Quincy Adams"
+              ],
+              "correct": 1,
+              "hint": "He was the seventh president, known for populism and Indian removal."
+            },
+            {
+              "type": "fill_in",
+              "question": "The forced march of the Cherokee in 1838-1839 is known as the Trail of ___.",
+              "answer": "Tears",
+              "hint": "Approximately 4,000 Cherokee died during this journey."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In Worcester v. Georgia, the Supreme Court ruled that:",
+              "options": [
+                "Georgia could remove the Cherokee",
+                "The Cherokee had no rights",
+                "Georgia had no jurisdiction over Cherokee lands",
+                "Indian removal was constitutional"
+              ],
+              "correct": 2,
+              "hint": "The Court sided with the Cherokee."
+            },
+            {
+              "type": "fill_in",
+              "question": "Andrew Jackson enforced the Supreme Court's ruling in Worcester v. Georgia.",
+              "answer": "false",
+              "hint": "He ignored the ruling and proceeded with removal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where were Native Americans relocated to?",
+              "options": [
+                "California",
+                "Canada",
+                "Indian Territory (Oklahoma)",
+                "Florida"
+              ],
+              "correct": 2,
+              "hint": "This territory was west of the Mississippi River."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Approximately how many Cherokee died on the Trail of Tears?",
+              "options": [
+                "500",
+                "1,000",
+                "4,000",
+                "15,000"
+              ],
+              "correct": 2,
+              "hint": "About one-quarter of the 15,000 who began the march."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-3-3",
+          "title": "Abolitionism and the Women's Suffrage Movement",
+          "type": "lesson",
+          "content": {
+            "explanation": "The antebellum reform movements of the 1830s-1860s sought to address the moral failings of American society, with abolition of slavery and women's rights as the two most transformative causes. The abolitionist movement grew from religious fervor, Enlightenment ideals, and the testimony of formerly enslaved people. William Lloyd Garrison published The Liberator (1831-1865), demanding immediate emancipation. Frederick Douglass, who escaped slavery, became the movement's most powerful voice through his autobiography and speeches. Harriet Tubman led approximately 70 enslaved people to freedom via the Underground Railroad. Harriet Beecher Stowe's novel 'Uncle Tom's Cabin' (1852) turned millions of Northerners against slavery. The women's suffrage movement emerged partly from abolitionism: women like Elizabeth Cady Stanton and Lucretia Mott, excluded from an antislavery convention in London because of their gender, organized the Seneca Falls Convention (1848). Its 'Declaration of Sentiments' modeled on the Declaration of Independence proclaimed that 'all men and women are created equal' and demanded the right to vote. Susan B. Anthony later became the movement's tireless organizer, though women wouldn't win the vote until the 19th Amendment in 1920.",
+            "examples": [
+              {
+                "problem": "Who was Frederick Douglass?",
+                "answer": "A formerly enslaved person who became the most influential abolitionist speaker and writer.",
+                "explanation": "Douglass's autobiography, published in 1845, provided a devastating firsthand account of slavery. He published the abolitionist newspaper The North Star and advised President Lincoln."
+              },
+              {
+                "problem": "What happened at the Seneca Falls Convention?",
+                "answer": "The first women's rights convention in 1848 produced the Declaration of Sentiments demanding equality and voting rights for women.",
+                "explanation": "Organized by Elizabeth Cady Stanton and Lucretia Mott, it launched the organized women's suffrage movement that would take 72 more years to achieve its goal."
+              },
+              {
+                "problem": "What was the Underground Railroad?",
+                "answer": "A network of secret routes and safe houses used by enslaved people to escape to free states and Canada.",
+                "explanation": "Harriet Tubman, known as 'Moses,' made approximately 13 trips back to the South and personally guided about 70 people to freedom."
+              }
+            ],
+            "key_vocabulary": [
+              "abolitionism",
+              "Frederick Douglass",
+              "Harriet Tubman",
+              "Underground Railroad",
+              "Seneca Falls Convention",
+              "Declaration of Sentiments",
+              "Elizabeth Cady Stanton",
+              "Susan B. Anthony"
+            ],
+            "real_world": "The abolitionist and women's suffrage movements established the model for all subsequent American social justice movements, from civil rights to LGBTQ+ rights, demonstrating how grassroots organizing can change the law."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who published the abolitionist newspaper The Liberator?",
+              "options": [
+                "Frederick Douglass",
+                "William Lloyd Garrison",
+                "Harriet Tubman",
+                "John Brown"
+              ],
+              "correct": 1,
+              "hint": "He demanded immediate emancipation from 1831 to 1865."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Seneca Falls Convention of 1848 produced the Declaration of ___.",
+              "answer": "Sentiments",
+              "hint": "It was modeled on the Declaration of Independence."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Harriet Tubman was best known for her role in the:",
+              "options": [
+                "Seneca Falls Convention",
+                "Underground Railroad",
+                "Abolitionist press",
+                "Women's suffrage movement"
+              ],
+              "correct": 1,
+              "hint": "She personally guided about 70 people to freedom."
+            },
+            {
+              "type": "fill_in",
+              "question": "Women won the right to vote with the 19th Amendment in 1920.",
+              "answer": "true",
+              "hint": "It took 72 years after Seneca Falls."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Frederick Douglass was:",
+              "options": [
+                "A white abolitionist publisher",
+                "A formerly enslaved person and powerful abolitionist",
+                "A conductor on the Underground Railroad",
+                "A women's suffrage leader"
+              ],
+              "correct": 1,
+              "hint": "His autobiography provided a firsthand account of slavery."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Uncle Tom's Cabin' was written by Harriet Beecher ___.",
+              "answer": "Stowe",
+              "hint": "This novel turned many Northerners against slavery."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-3-4",
+          "title": "Early Industrialization",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Industrial Revolution transformed the United States from an agrarian society to an industrial power between the 1790s and 1860s. It began in New England when Samuel Slater built the first American textile mill in Rhode Island (1793), using technology smuggled from Britain. The Lowell Mills in Massachusetts became famous for employing young farm women ('Lowell Mill Girls') in large-scale textile factories. Key inventions accelerated industrialization: Eli Whitney's cotton gin (1793) dramatically increased cotton production (and tragically, the demand for enslaved labor); his concept of interchangeable parts revolutionized manufacturing; Robert Fulton's steamboat (1807) transformed river transportation; and the telegraph, developed by Samuel Morse (1844), enabled instant long-distance communication. The transportation revolution \u2014 canals like the Erie Canal (1825), railroads, and improved roads \u2014 connected markets and moved goods across vast distances. By 1860, the North had become heavily industrialized while the South remained largely agricultural, a divergence that would contribute to the Civil War. Industrialization brought economic growth but also harsh working conditions, child labor, and the beginning of labor disputes.",
+            "examples": [
+              {
+                "problem": "How did the cotton gin affect slavery?",
+                "answer": "By making cotton enormously profitable, it increased demand for enslaved labor in the South rather than reducing it.",
+                "explanation": "Whitney intended his invention to reduce the need for labor, but instead cotton production soared, and the enslaved population in the South grew from 700,000 in 1790 to nearly 4 million by 1860."
+              },
+              {
+                "problem": "What was the significance of the Erie Canal?",
+                "answer": "Completed in 1825, it connected the Great Lakes to the Atlantic Ocean via New York, dramatically reducing shipping costs and spurring economic growth.",
+                "explanation": "Shipping costs dropped by 95%, making western agriculture competitive in eastern markets and helping New York City become America's commercial capital."
+              },
+              {
+                "problem": "Who were the Lowell Mill Girls?",
+                "answer": "Young women, mostly from New England farms, who worked in the textile mills of Lowell, Massachusetts.",
+                "explanation": "They were among America's first industrial workers, earning their own wages but working 12-14 hour days in often dangerous conditions. Some organized to demand better conditions."
+              }
+            ],
+            "key_vocabulary": [
+              "Industrial Revolution",
+              "cotton gin",
+              "interchangeable parts",
+              "Lowell Mills",
+              "Erie Canal",
+              "steamboat",
+              "telegraph",
+              "Samuel Slater"
+            ],
+            "real_world": "The early Industrial Revolution laid the foundation for America's rise as an economic superpower. The tensions it created \u2014 between workers and owners, North and South, progress and exploitation \u2014 continue to shape American life."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Eli Whitney invented the:",
+              "options": [
+                "steamboat",
+                "telegraph",
+                "cotton gin",
+                "spinning jenny"
+              ],
+              "correct": 2,
+              "hint": "This invention made cotton production vastly more profitable."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Canal, completed in 1825, connected the Great Lakes to the Atlantic Ocean.",
+              "answer": "Erie",
+              "hint": "It passed through New York state."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Industrial Revolution in America began in which region?",
+              "options": [
+                "The South",
+                "The Midwest",
+                "New England",
+                "The West"
+              ],
+              "correct": 2,
+              "hint": "Samuel Slater built the first textile mill in Rhode Island."
+            },
+            {
+              "type": "fill_in",
+              "question": "The cotton gin reduced the demand for enslaved labor.",
+              "answer": "false",
+              "hint": "It actually increased demand by making cotton enormously profitable."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Samuel Morse is associated with the invention of the:",
+              "options": [
+                "steamboat",
+                "telegraph",
+                "cotton gin",
+                "railroad"
+              ],
+              "correct": 1,
+              "hint": "This invention enabled instant long-distance communication."
+            },
+            {
+              "type": "fill_in",
+              "question": "Robert Fulton developed the ___, transforming river transportation.",
+              "answer": "steamboat",
+              "hint": "His vessel, the Clermont, traveled the Hudson River in 1807."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-3-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Manifest Destiny was the belief that:",
+            "options": [
+              "Slavery should expand",
+              "America should expand across the continent",
+              "States should secede",
+              "Industry should replace farming"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The forced Cherokee march to Oklahoma is known as the Trail of ___.",
+            "answer": "Tears"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Seneca Falls Convention (1848) focused on:",
+            "options": [
+              "Abolition of slavery",
+              "Women's rights",
+              "Temperance",
+              "Labor reform"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The cotton gin reduced the demand for enslaved labor in the South.",
+            "answer": "false"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who was a formerly enslaved abolitionist speaker?",
+            "options": [
+              "Garrison",
+              "Stanton",
+              "Douglass",
+              "Stowe"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "expansion_reform_expert"
+      }
+    },
+    {
+      "id": "11-ss-4",
+      "title": "Civil War and Reconstruction",
+      "description": "Analyze the causes of the Civil War, major battles, the Emancipation Proclamation, Reconstruction amendments, and Jim Crow.",
+      "lessons": [
+        {
+          "id": "11-social_studies-4-1",
+          "title": "Causes of the Civil War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil War (1861-1865) resulted from decades of escalating conflict between North and South over slavery, states' rights, and the future of the nation. The Missouri Compromise (1820) temporarily resolved tension by admitting Missouri as a slave state and Maine as free, drawing a line at 36-30' latitude. But the Compromise of 1850 and the Kansas-Nebraska Act (1854) \u2014 which let territories decide slavery through 'popular sovereignty' \u2014 reopened the wound. 'Bleeding Kansas' saw pro-slavery and anti-slavery settlers engage in violent conflict. The Supreme Court's Dred Scott decision (1857) declared that enslaved people were not citizens and that Congress could not ban slavery in territories, outraging the North. John Brown's raid on Harpers Ferry (1859), an attempt to spark a slave uprising, deepened Southern fears. The election of Abraham Lincoln in 1860 \u2014 who opposed slavery's expansion though not immediate abolition \u2014 prompted eleven Southern states to secede and form the Confederate States of America. The war began when Confederate forces fired on Fort Sumter, South Carolina, on April 12, 1861.",
+            "examples": [
+              {
+                "problem": "What was the Missouri Compromise?",
+                "answer": "An 1820 agreement admitting Missouri as a slave state and Maine as free, with slavery banned north of the 36-30' line.",
+                "explanation": "This compromise preserved the balance between free and slave states in the Senate but only delayed the inevitable conflict over slavery's expansion."
+              },
+              {
+                "problem": "What was the Dred Scott decision?",
+                "answer": "The Supreme Court ruled that enslaved people were not citizens and Congress could not ban slavery in territories.",
+                "explanation": "Chief Justice Taney's decision was intended to settle the slavery question permanently but instead inflamed Northern opinion and moved the nation closer to war."
+              },
+              {
+                "problem": "Why did Southern states secede after Lincoln's election?",
+                "answer": "They feared Lincoln would restrict slavery's expansion, eventually leading to its abolition, threatening their economic and social system.",
+                "explanation": "Although Lincoln promised not to abolish slavery where it existed, Southern leaders believed his election meant the end of slavery's political power in the nation."
+              }
+            ],
+            "key_vocabulary": [
+              "secession",
+              "Missouri Compromise",
+              "Kansas-Nebraska Act",
+              "Dred Scott",
+              "popular sovereignty",
+              "Bleeding Kansas",
+              "Fort Sumter",
+              "Confederate States"
+            ],
+            "real_world": "The causes of the Civil War remind us that unresolved moral and political conflicts can escalate into violence. The war remains the deadliest in American history, killing approximately 620,000 soldiers."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Civil War began when Confederate forces attacked:",
+              "options": [
+                "Washington D.C.",
+                "Gettysburg",
+                "Fort Sumter",
+                "Richmond"
+              ],
+              "correct": 2,
+              "hint": "This fort was in Charleston Harbor, South Carolina."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Compromise of 1820 temporarily resolved the slavery expansion issue.",
+              "answer": "Missouri",
+              "hint": "It drew a line at 36 degrees 30 minutes latitude."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Dred Scott decision declared that:",
+              "options": [
+                "Slavery was unconstitutional",
+                "Enslaved people were citizens",
+                "Congress could not ban slavery in territories",
+                "All states must abolish slavery"
+              ],
+              "correct": 2,
+              "hint": "This 1857 ruling outraged the North."
+            },
+            {
+              "type": "fill_in",
+              "question": "Abraham Lincoln was elected in 1860 on a platform of immediate abolition.",
+              "answer": "false",
+              "hint": "He opposed slavery's expansion but did not call for immediate abolition."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many Southern states seceded to form the Confederacy?",
+              "options": [
+                "7",
+                "9",
+                "11",
+                "13"
+              ],
+              "correct": 2,
+              "hint": "They included Virginia, Texas, and nine other states."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Bleeding Kansas' was caused by:",
+              "options": [
+                "A natural disaster",
+                "Violent conflict between pro-slavery and anti-slavery settlers",
+                "A Native American uprising",
+                "A labor strike"
+              ],
+              "correct": 1,
+              "hint": "Popular sovereignty led to violent competition over whether Kansas would be free or slave."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-4-2",
+          "title": "Major Battles of the Civil War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil War was fought primarily in the South and border states, with both sides expecting a quick victory. The First Battle of Bull Run (1861) shattered the North's illusion of an easy war. General Robert E. Lee proved a brilliant tactician for the Confederacy, winning battles at Fredericksburg and Chancellorsville. The Battle of Antietam (September 1862) was the single bloodiest day in American history \u2014 roughly 23,000 casualties \u2014 and although tactically inconclusive, it gave Lincoln the victory he needed to issue the Emancipation Proclamation. The turning point came at Gettysburg (July 1-3, 1863), where Lee's invasion of Pennsylvania was repulsed with devastating losses, ending Confederate hopes of winning the war through offensive action. The same day, General Ulysses S. Grant captured Vicksburg, giving the Union control of the Mississippi River and splitting the Confederacy in two. Grant's subsequent appointment as overall Union commander led to a relentless campaign of attrition against Lee in Virginia, while General William T. Sherman's March to the Sea (1864) devastated Georgia and the Carolinas, destroying Confederate infrastructure and morale.",
+            "examples": [
+              {
+                "problem": "Why was the Battle of Gettysburg a turning point?",
+                "answer": "Lee's failed invasion of Pennsylvania ended Confederate offensive capability and any realistic hope of winning the war.",
+                "explanation": "Pickett's Charge on the third day \u2014 a frontal assault across open ground \u2014 resulted in catastrophic Confederate losses and is often called the 'high water mark of the Confederacy.'"
+              },
+              {
+                "problem": "What was Sherman's March to the Sea?",
+                "answer": "General Sherman's 1864 campaign across Georgia, destroying railroads, factories, and farms to break Confederate will.",
+                "explanation": "Sherman's 'total war' strategy targeted not just armies but the civilian infrastructure that sustained the Confederate war effort, marching from Atlanta to Savannah."
+              },
+              {
+                "problem": "Why was the Battle of Antietam significant?",
+                "answer": "It was the bloodiest single day in American history and gave Lincoln the political opportunity to issue the Emancipation Proclamation.",
+                "explanation": "With roughly 23,000 casualties, Antietam showed the horrific cost of the war but also prevented European recognition of the Confederacy."
+              }
+            ],
+            "key_vocabulary": [
+              "Bull Run",
+              "Antietam",
+              "Gettysburg",
+              "Vicksburg",
+              "Robert E. Lee",
+              "Ulysses S. Grant",
+              "Sherman's March",
+              "Pickett's Charge"
+            ],
+            "real_world": "Civil War battlefields are preserved as national parks across the eastern United States. Gettysburg alone receives over a million visitors annually, reflecting the war's enduring significance in American memory."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The bloodiest single day in American history was the Battle of:",
+              "options": [
+                "Gettysburg",
+                "Antietam",
+                "Bull Run",
+                "Vicksburg"
+              ],
+              "correct": 1,
+              "hint": "Roughly 23,000 casualties occurred on September 17, 1862."
+            },
+            {
+              "type": "fill_in",
+              "question": "The turning point of the Civil War was the Battle of ___.",
+              "answer": "Gettysburg",
+              "hint": "This three-day battle in Pennsylvania ended Lee's invasion of the North."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who commanded the Confederate Army of Northern Virginia?",
+              "options": [
+                "Ulysses S. Grant",
+                "William T. Sherman",
+                "Robert E. Lee",
+                "Stonewall Jackson"
+              ],
+              "correct": 2,
+              "hint": "He was a brilliant tactician from Virginia."
+            },
+            {
+              "type": "fill_in",
+              "question": "The capture of Vicksburg gave the Union control of the Mississippi River.",
+              "answer": "true",
+              "hint": "This split the Confederacy in two."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sherman's March to the Sea targeted:",
+              "options": [
+                "Union territory",
+                "Confederate civilian infrastructure",
+                "Native American lands",
+                "Border states"
+              ],
+              "correct": 1,
+              "hint": "He destroyed railroads, factories, and farms across Georgia."
+            },
+            {
+              "type": "fill_in",
+              "question": "General ___ S. ___ became the overall Union commander and pursued a strategy of attrition.",
+              "answer": "Ulysses S. Grant",
+              "hint": "He later became the 18th president."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-4-3",
+          "title": "The Emancipation Proclamation and the End of Slavery",
+          "type": "lesson",
+          "content": {
+            "explanation": "Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, declaring 'all persons held as slaves' in Confederate states 'are, and henceforward shall be free.' While it did not immediately free anyone \u2014 it applied only to states in rebellion, where the Union had no enforcement power \u2014 its significance was profound. It transformed the war's purpose from preserving the Union to destroying slavery, discouraged European nations (which had abolished slavery) from supporting the Confederacy, and allowed African Americans to enlist in the Union Army. Approximately 180,000 Black soldiers served in the Union forces, proving their courage at battles like Fort Wagner and the Crater. The legal end of slavery came with the 13th Amendment, ratified in December 1865 after Lee's surrender at Appomattox Court House on April 9, 1865. Lincoln did not live to see peace: he was assassinated by John Wilkes Booth at Ford's Theatre on April 14, 1865, just five days after Lee's surrender, plunging the nation into mourning and leaving the enormous task of Reconstruction to his successors.",
+            "examples": [
+              {
+                "problem": "What did the Emancipation Proclamation do?",
+                "answer": "It declared enslaved people in Confederate states free and allowed Black soldiers to join the Union Army.",
+                "explanation": "While limited in immediate effect \u2014 it didn't apply to slave states that remained in the Union \u2014 it changed the war's moral purpose and enabled 180,000 Black soldiers to fight for their freedom."
+              },
+              {
+                "problem": "How did the 13th Amendment differ from the Emancipation Proclamation?",
+                "answer": "The 13th Amendment permanently abolished slavery throughout the entire United States, not just in Confederate states.",
+                "explanation": "Ratified in December 1865, it ensured that slavery could never be reinstated and applied to all states, including the border states where the Proclamation hadn't applied."
+              },
+              {
+                "problem": "How did Lincoln die?",
+                "answer": "He was assassinated by John Wilkes Booth at Ford's Theatre on April 14, 1865, five days after Lee's surrender.",
+                "explanation": "Booth, a Confederate sympathizer and actor, shot Lincoln during a play. Lincoln died the following morning, and Vice President Andrew Johnson became president."
+              }
+            ],
+            "key_vocabulary": [
+              "Emancipation Proclamation",
+              "13th Amendment",
+              "Appomattox",
+              "Abraham Lincoln",
+              "John Wilkes Booth",
+              "Fort Wagner",
+              "abolition",
+              "Union Army"
+            ],
+            "real_world": "The Emancipation Proclamation and 13th Amendment ended one of the greatest moral crimes in human history. Their legacy continues in ongoing struggles for racial justice and equality."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Emancipation Proclamation was issued on:",
+              "options": [
+                "July 4, 1862",
+                "January 1, 1863",
+                "April 9, 1865",
+                "December 6, 1865"
+              ],
+              "correct": 1,
+              "hint": "It took effect at the start of 1863."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Amendment permanently abolished slavery in the United States.",
+              "answer": "13th",
+              "hint": "It was ratified in December 1865."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Approximately how many Black soldiers served in the Union Army?",
+              "options": [
+                "50,000",
+                "100,000",
+                "180,000",
+                "500,000"
+              ],
+              "correct": 2,
+              "hint": "They proved their courage at battles like Fort Wagner."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Emancipation Proclamation freed all enslaved people in the United States immediately.",
+              "answer": "false",
+              "hint": "It applied only to Confederate states, not border states loyal to the Union."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Lee surrendered to Grant at:",
+              "options": [
+                "Gettysburg",
+                "Richmond",
+                "Appomattox Court House",
+                "Washington D.C."
+              ],
+              "correct": 2,
+              "hint": "This Virginia location marked the effective end of the war."
+            },
+            {
+              "type": "fill_in",
+              "question": "Lincoln was assassinated by ___ ___ Booth on April 14, 1865.",
+              "answer": "John Wilkes",
+              "hint": "He was an actor and Confederate sympathizer."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-4-4",
+          "title": "Reconstruction and Its Aftermath",
+          "type": "lesson",
+          "content": {
+            "explanation": "Reconstruction (1865-1877) was the turbulent period of rebuilding the South and defining the rights of formerly enslaved people. The 13th Amendment (1865) abolished slavery; the 14th Amendment (1868) granted citizenship and equal protection under the law to all persons born in the United States; the 15th Amendment (1870) prohibited denying the vote based on race. During Radical Reconstruction, the federal government stationed troops in the South, and African Americans made remarkable gains: they voted, held political office (including two US senators and numerous congressmen), built schools, and established churches and businesses. However, white supremacist groups like the Ku Klux Klan used violence and terror to suppress Black political participation. When Reconstruction ended with the Compromise of 1877 \u2014 removing federal troops from the South in exchange for Rutherford B. Hayes winning the disputed presidency \u2014 Southern states quickly enacted Jim Crow laws mandating racial segregation in public facilities, schools, and transportation. Poll taxes, literacy tests, and grandfather clauses effectively disenfranchised Black voters. The Supreme Court's Plessy v. Ferguson decision (1896) upheld 'separate but equal' segregation, legalizing the Jim Crow system that would persist until the Civil Rights Movement of the 1950s-1960s.",
+            "examples": [
+              {
+                "problem": "What were the Reconstruction Amendments?",
+                "answer": "The 13th (abolishing slavery), 14th (citizenship and equal protection), and 15th (voting rights regardless of race).",
+                "explanation": "These three amendments fundamentally reshaped the Constitution, establishing the legal basis for civil rights that would be fully realized only a century later."
+              },
+              {
+                "problem": "What was Plessy v. Ferguson?",
+                "answer": "An 1896 Supreme Court case that upheld racial segregation under the doctrine of 'separate but equal.'",
+                "explanation": "Homer Plessy challenged Louisiana's separate railroad cars for Black and white passengers. The Court's ruling legalized Jim Crow segregation for nearly 60 years until Brown v. Board of Education (1954)."
+              },
+              {
+                "problem": "How did Jim Crow laws undermine the Reconstruction Amendments?",
+                "answer": "Through poll taxes, literacy tests, grandfather clauses, and segregation laws that effectively denied Black citizens their constitutional rights.",
+                "explanation": "These laws created a system of racial apartheid in the South that denied Black Americans equal access to education, public facilities, voting, and economic opportunity."
+              }
+            ],
+            "key_vocabulary": [
+              "Reconstruction",
+              "14th Amendment",
+              "15th Amendment",
+              "Jim Crow",
+              "Plessy v. Ferguson",
+              "Ku Klux Klan",
+              "poll tax",
+              "separate but equal"
+            ],
+            "real_world": "The unfinished work of Reconstruction \u2014 securing true equality for all Americans \u2014 became the mission of the Civil Rights Movement a century later and continues to shape debates about racial justice today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The 14th Amendment guaranteed:",
+              "options": [
+                "Abolition of slavery",
+                "Citizenship and equal protection",
+                "Voting rights regardless of race",
+                "Women's suffrage"
+              ],
+              "correct": 1,
+              "hint": "It was ratified in 1868 and applies to all persons born in the US."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Supreme Court upheld 'separate but equal' segregation in ___ v. ___.",
+              "answer": "Plessy v. Ferguson",
+              "hint": "This 1896 case legalized Jim Crow for nearly 60 years."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Reconstruction ended with the Compromise of:",
+              "options": [
+                "1865",
+                "1870",
+                "1877",
+                "1896"
+              ],
+              "correct": 2,
+              "hint": "Federal troops were removed from the South."
+            },
+            {
+              "type": "fill_in",
+              "question": "African Americans held political office during Reconstruction.",
+              "answer": "true",
+              "hint": "They served as senators, congressmen, and state legislators."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following was NOT a method used to disenfranchise Black voters?",
+              "options": [
+                "Poll taxes",
+                "Literacy tests",
+                "Grandfather clauses",
+                "The 15th Amendment"
+              ],
+              "correct": 3,
+              "hint": "The 15th Amendment actually protected voting rights."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ ___ Klan used violence and terror to suppress Black political participation.",
+              "answer": "Ku Klux",
+              "hint": "This white supremacist group was founded in Tennessee after the Civil War."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-4-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The Civil War began in:",
+            "options": [
+              "1860",
+              "1861",
+              "1863",
+              "1865"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The turning point of the Civil War was the Battle of ___.",
+            "answer": "Gettysburg"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The 13th Amendment:",
+            "options": [
+              "Granted citizenship",
+              "Abolished slavery",
+              "Gave voting rights",
+              "Created Jim Crow"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Plessy v. Ferguson upheld racial segregation.",
+            "answer": "true"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Reconstruction ended with the Compromise of:",
+            "options": [
+              "1870",
+              "1877",
+              "1896",
+              "1900"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "civil_war_historian"
+      }
+    },
+    {
+      "id": "11-ss-5",
+      "title": "Industrialization and the Progressive Era",
+      "description": "Investigate the Gilded Age, robber barons, labor unions, muckrakers, Progressive reforms, and immigration.",
+      "lessons": [
+        {
+          "id": "11-social_studies-5-1",
+          "title": "The Gilded Age and Robber Barons",
+          "type": "lesson",
+          "content": {
+            "explanation": "The period from the 1870s to the 1900s, dubbed the 'Gilded Age' by Mark Twain, was an era of explosive economic growth masked by severe inequality and corruption. Industrialists like Andrew Carnegie (steel), John D. Rockefeller (oil), J.P. Morgan (banking), and Cornelius Vanderbilt (railroads) amassed unprecedented fortunes through aggressive business practices, monopolies, and political influence. Critics called them 'robber barons' for exploiting workers and crushing competition; defenders called them 'captains of industry' for building America's economic infrastructure. Rockefeller's Standard Oil Trust controlled over 90% of American oil refining through horizontal integration \u2014 buying up competitors. Carnegie used vertical integration in steel \u2014 controlling every stage from mining to manufacturing. These monopolies and trusts kept prices low for consumers but eliminated competition, exploited workers with low wages and dangerous conditions, and corrupted politics through lobbying and bribery. The gap between rich and poor was staggering: by 1890, the top 1% of Americans owned more wealth than the bottom 99% combined.",
+            "examples": [
+              {
+                "problem": "What was the Gilded Age?",
+                "answer": "A period (1870s-1900s) of great wealth on the surface but inequality, corruption, and exploitation underneath.",
+                "explanation": "Mark Twain coined the term to suggest that the era's prosperity was a thin gilding over deep social problems, like a cheap item coated in gold."
+              },
+              {
+                "problem": "What is the difference between horizontal and vertical integration?",
+                "answer": "Horizontal integration means buying out competitors in the same industry; vertical integration means controlling every stage of production.",
+                "explanation": "Rockefeller used horizontal integration to dominate oil refining. Carnegie used vertical integration to control everything from iron mines to steel mills to railroads."
+              },
+              {
+                "problem": "Why were some industrialists called 'robber barons'?",
+                "answer": "They used ruthless tactics to eliminate competition, exploit workers, and accumulate vast personal wealth.",
+                "explanation": "They bribed politicians, employed spies against unions, forced competitors out of business, and paid workers poverty wages while living in unimaginable luxury."
+              }
+            ],
+            "key_vocabulary": [
+              "Gilded Age",
+              "robber barons",
+              "captains of industry",
+              "monopoly",
+              "trust",
+              "horizontal integration",
+              "vertical integration",
+              "Andrew Carnegie",
+              "John D. Rockefeller"
+            ],
+            "real_world": "Debates about wealth inequality, corporate power, and the proper role of government regulation that began in the Gilded Age continue today, as technology billionaires accumulate fortunes that rival those of Carnegie and Rockefeller."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who coined the term 'Gilded Age'?",
+              "options": [
+                "Andrew Carnegie",
+                "Mark Twain",
+                "John D. Rockefeller",
+                "Theodore Roosevelt"
+              ],
+              "correct": 1,
+              "hint": "This famous author used it to describe the era's superficial prosperity."
+            },
+            {
+              "type": "fill_in",
+              "question": "John D. Rockefeller dominated the ___ industry through Standard Oil.",
+              "answer": "oil",
+              "hint": "His trust controlled over 90% of American oil refining."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Vertical integration means:",
+              "options": [
+                "Buying out competitors",
+                "Controlling every stage of production",
+                "Forming a labor union",
+                "Government regulation of business"
+              ],
+              "correct": 1,
+              "hint": "Carnegie used this strategy in the steel industry."
+            },
+            {
+              "type": "fill_in",
+              "question": "During the Gilded Age, the top 1% owned more wealth than the bottom 99%.",
+              "answer": "true",
+              "hint": "Wealth inequality was staggering during this period."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Andrew Carnegie made his fortune in:",
+              "options": [
+                "Oil",
+                "Banking",
+                "Steel",
+                "Railroads"
+              ],
+              "correct": 2,
+              "hint": "He used vertical integration from mining to manufacturing."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Critics of wealthy industrialists called them:",
+              "options": [
+                "Captains of industry",
+                "Founding fathers",
+                "Robber barons",
+                "Progressive reformers"
+              ],
+              "correct": 2,
+              "hint": "This term emphasized their exploitation and ruthless business practices."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-5-2",
+          "title": "Labor Unions and Worker Struggles",
+          "type": "lesson",
+          "content": {
+            "explanation": "As industrialization concentrated wealth among a few, workers organized to fight for better conditions. Factory workers \u2014 including children as young as five \u2014 labored 12-16 hours a day, six days a week, in dangerous conditions for meager wages. The Knights of Labor (founded 1869) was the first major national union, admitting workers of all races and genders. The American Federation of Labor (AFL), founded by Samuel Gompers in 1886, organized skilled workers by trade and used collective bargaining, strikes, and boycotts to win higher wages and shorter hours. Labor struggles were often violent: the Haymarket Affair in Chicago (1886) began as a peaceful rally for an eight-hour workday but ended with a bomb killing police officers, leading to a backlash against labor. The Homestead Strike (1892) at Carnegie's steel plant saw workers battling Pinkerton detectives, and the Pullman Strike (1894) disrupted national railroad traffic until President Cleveland sent federal troops. Despite setbacks, the labor movement won important gains, establishing the principle that workers had a right to organize and bargain collectively \u2014 rights that would be fully protected in the 1930s.",
+            "examples": [
+              {
+                "problem": "What was the AFL?",
+                "answer": "The American Federation of Labor, founded by Samuel Gompers in 1886, organized skilled workers by trade.",
+                "explanation": "Unlike the Knights of Labor, which accepted all workers, the AFL focused on skilled craftsmen and used pragmatic strategies like collective bargaining and strikes."
+              },
+              {
+                "problem": "What happened at Haymarket?",
+                "answer": "A peaceful labor rally in Chicago turned deadly when a bomb killed police officers, leading to a backlash against the labor movement.",
+                "explanation": "Eight anarchists were convicted despite questionable evidence. Haymarket set back the labor movement and associated unions with radicalism in the public mind."
+              },
+              {
+                "problem": "Why was child labor common in the Gilded Age?",
+                "answer": "Families needed children's income to survive, and no laws prohibited employers from hiring children.",
+                "explanation": "Children as young as five worked in coal mines, textile mills, and factories. Reform efforts to end child labor didn't succeed nationally until the 1930s."
+              }
+            ],
+            "key_vocabulary": [
+              "labor union",
+              "Knights of Labor",
+              "American Federation of Labor",
+              "Samuel Gompers",
+              "collective bargaining",
+              "Haymarket Affair",
+              "Homestead Strike",
+              "Pullman Strike"
+            ],
+            "real_world": "The labor movement's victories \u2014 the eight-hour workday, weekends, workplace safety regulations, minimum wage, and the right to organize \u2014 are benefits that nearly all American workers enjoy today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The American Federation of Labor was founded by:",
+              "options": [
+                "Andrew Carnegie",
+                "Eugene Debs",
+                "Samuel Gompers",
+                "Terence Powderly"
+              ],
+              "correct": 2,
+              "hint": "He led the AFL for nearly 40 years."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Affair of 1886 was a deadly event that set back the labor movement.",
+              "answer": "Haymarket",
+              "hint": "A bomb killed police officers at a Chicago labor rally."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Workers in the Gilded Age typically worked:",
+              "options": [
+                "8 hours a day",
+                "10 hours a day",
+                "12-16 hours a day",
+                "6 hours a day"
+              ],
+              "correct": 2,
+              "hint": "Working conditions were harsh with long hours."
+            },
+            {
+              "type": "fill_in",
+              "question": "Child labor was illegal during the Gilded Age.",
+              "answer": "false",
+              "hint": "Children as young as five worked in factories, mines, and mills."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Homestead Strike occurred at a:",
+              "options": [
+                "Railroad yard",
+                "Oil refinery",
+                "Steel plant",
+                "Coal mine"
+              ],
+              "correct": 2,
+              "hint": "It was at one of Carnegie's facilities in Pennsylvania."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Pullman Strike disrupted:",
+              "options": [
+                "Steel production",
+                "Oil refining",
+                "National railroad traffic",
+                "Coal mining"
+              ],
+              "correct": 2,
+              "hint": "President Cleveland sent federal troops to end it."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-5-3",
+          "title": "Muckrakers and Progressive Reforms",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Progressive Era (1890s-1920s) was a broad reform movement responding to the problems of industrialization, urbanization, and political corruption. Investigative journalists called 'muckrakers' (a term coined by Theodore Roosevelt) exposed these problems to the public. Upton Sinclair's 'The Jungle' (1906) revealed horrific conditions in the meatpacking industry, leading directly to the Pure Food and Drug Act and the Meat Inspection Act. Ida Tarbell's 'History of the Standard Oil Company' exposed Rockefeller's monopolistic practices, contributing to the breakup of Standard Oil under antitrust law. Jacob Riis's 'How the Other Half Lives' (1890) photographed the squalor of immigrant tenements in New York City, spurring housing reform. Lincoln Steffens exposed urban political corruption in 'The Shame of the Cities.' Progressive reforms included: direct election of senators (17th Amendment, 1913), women's suffrage (19th Amendment, 1920), prohibition (18th Amendment, 1919), trust-busting, the creation of the FDA, child labor restrictions, and the establishment of the income tax (16th Amendment, 1913). Three Progressive presidents \u2014 Theodore Roosevelt, William Howard Taft, and Woodrow Wilson \u2014 championed reform at the federal level.",
+            "examples": [
+              {
+                "problem": "Who were the muckrakers?",
+                "answer": "Investigative journalists who exposed corruption, dangerous conditions, and social problems during the Progressive Era.",
+                "explanation": "The term was coined by Theodore Roosevelt, comparing them to a character in 'Pilgrim's Progress' who was so busy raking muck he couldn't see anything else. Despite the criticism, their reporting drove major reforms."
+              },
+              {
+                "problem": "How did 'The Jungle' lead to reform?",
+                "answer": "Sinclair's novel exposed the meatpacking industry's unsanitary practices, leading to the Pure Food and Drug Act and Meat Inspection Act.",
+                "explanation": "Sinclair intended to highlight the exploitation of immigrant workers, but readers were more shocked by the descriptions of contaminated food, leading to consumer protection laws."
+              },
+              {
+                "problem": "What Progressive amendments were added to the Constitution?",
+                "answer": "The 16th (income tax), 17th (direct election of senators), 18th (prohibition), and 19th (women's suffrage).",
+                "explanation": "These four amendments, all ratified between 1913 and 1920, reflect the Progressive Era's belief that democratic reforms could solve social problems."
+              }
+            ],
+            "key_vocabulary": [
+              "Progressive Era",
+              "muckrakers",
+              "Upton Sinclair",
+              "Ida Tarbell",
+              "Theodore Roosevelt",
+              "trust-busting",
+              "Pure Food and Drug Act",
+              "17th Amendment"
+            ],
+            "real_world": "The Progressive Era established the idea that government should regulate business, protect consumers, and address social problems \u2014 a concept that shapes American politics to this day."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Upton Sinclair's 'The Jungle' exposed conditions in the:",
+              "options": [
+                "Steel industry",
+                "Oil industry",
+                "Meatpacking industry",
+                "Railroad industry"
+              ],
+              "correct": 2,
+              "hint": "It led to food safety laws."
+            },
+            {
+              "type": "fill_in",
+              "question": "Ida Tarbell investigated the ___ ___ Company's monopolistic practices.",
+              "answer": "Standard Oil",
+              "hint": "Her work contributed to the company's breakup under antitrust law."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The 19th Amendment (1920) granted:",
+              "options": [
+                "Income tax",
+                "Direct election of senators",
+                "Prohibition",
+                "Women's suffrage"
+              ],
+              "correct": 3,
+              "hint": "Women finally won the right to vote."
+            },
+            {
+              "type": "fill_in",
+              "question": "Theodore Roosevelt coined the term 'muckrakers.'",
+              "answer": "true",
+              "hint": "He compared investigative journalists to a character in Pilgrim's Progress."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Pure Food and Drug Act was passed in response to:",
+              "options": [
+                "Political corruption",
+                "Contaminated food products exposed by Sinclair",
+                "Labor strikes",
+                "Monopolies"
+              ],
+              "correct": 1,
+              "hint": "Sinclair's novel shocked readers with descriptions of unsanitary meatpacking."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which was NOT a Progressive Era president?",
+              "options": [
+                "Theodore Roosevelt",
+                "William Howard Taft",
+                "Woodrow Wilson",
+                "Andrew Jackson"
+              ],
+              "correct": 3,
+              "hint": "Jackson was president in the 1830s, decades before the Progressive Era."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-5-4",
+          "title": "Immigration and Urbanization",
+          "type": "lesson",
+          "content": {
+            "explanation": "Between 1880 and 1920, over 20 million immigrants arrived in the United States, transforming the nation's culture and workforce. Earlier immigrants had come primarily from Northern and Western Europe (Ireland, Germany, Britain). The 'New Immigration' brought people from Southern and Eastern Europe \u2014 Italians, Poles, Russians, Greeks, and Eastern European Jews \u2014 fleeing poverty, persecution, and limited opportunity. Most entered through Ellis Island in New York Harbor, processed under the gaze of the Statue of Liberty. Asian immigrants, primarily Chinese and Japanese, entered through Angel Island in San Francisco Bay, often facing harsher treatment. Immigrants settled in ethnic neighborhoods in rapidly growing cities, working in factories, mines, and sweatshops for low wages. Settlement houses like Jane Addams's Hull House in Chicago provided education, childcare, and social services to immigrant communities. Nativism \u2014 hostility toward immigrants \u2014 led to restrictive laws: the Chinese Exclusion Act (1882) banned Chinese immigration, and the National Origins Act (1924) severely limited immigration from Southern and Eastern Europe. Cities grew explosively: New York's population reached 3.4 million by 1900, creating both vibrant cultural life and serious problems of overcrowding, poverty, disease, and political corruption.",
+            "examples": [
+              {
+                "problem": "What was the 'New Immigration'?",
+                "answer": "The wave of immigrants from Southern and Eastern Europe (Italians, Poles, Russians, Jews) who arrived between 1880 and 1920.",
+                "explanation": "Unlike earlier immigrants from Northern and Western Europe, these new arrivals spoke different languages, practiced different religions (Catholicism, Judaism, Eastern Orthodoxy), and faced intense discrimination."
+              },
+              {
+                "problem": "What was Hull House?",
+                "answer": "A settlement house founded by Jane Addams in Chicago in 1889 to provide social services to immigrant communities.",
+                "explanation": "Hull House offered English classes, childcare, cultural programs, and job training. Addams won the Nobel Peace Prize in 1931. Settlement houses became models for social work nationwide."
+              },
+              {
+                "problem": "What was the Chinese Exclusion Act?",
+                "answer": "An 1882 law that banned Chinese immigration and prohibited Chinese residents from becoming citizens.",
+                "explanation": "It was the first federal law to restrict immigration based on nationality and race. It wasn't repealed until 1943 and reflected the deep anti-Asian prejudice of the era."
+              }
+            ],
+            "key_vocabulary": [
+              "New Immigration",
+              "Ellis Island",
+              "Angel Island",
+              "settlement house",
+              "Jane Addams",
+              "Hull House",
+              "nativism",
+              "Chinese Exclusion Act"
+            ],
+            "real_world": "The United States remains a nation of immigrants. Debates about immigration policy, cultural assimilation, and nativism that began in the Gilded Age continue in remarkably similar terms today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Most European immigrants entered through:",
+              "options": [
+                "Plymouth Rock",
+                "Angel Island",
+                "Ellis Island",
+                "Jamestown"
+              ],
+              "correct": 2,
+              "hint": "This New York Harbor facility processed millions of newcomers."
+            },
+            {
+              "type": "fill_in",
+              "question": "Jane Addams founded ___ House to serve immigrant communities in Chicago.",
+              "answer": "Hull",
+              "hint": "This settlement house became a model for social services."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Chinese Exclusion Act (1882) was significant because it:",
+              "options": [
+                "Welcomed Chinese immigrants",
+                "Was the first law banning immigration by nationality",
+                "Promoted cultural diversity",
+                "Opened Angel Island"
+              ],
+              "correct": 1,
+              "hint": "It wasn't repealed until 1943."
+            },
+            {
+              "type": "fill_in",
+              "question": "Between 1880 and 1920, over 20 million immigrants arrived in the US.",
+              "answer": "true",
+              "hint": "This massive wave transformed American cities and culture."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The 'New Immigration' came primarily from:",
+              "options": [
+                "Britain and Ireland",
+                "Southern and Eastern Europe",
+                "Africa",
+                "South America"
+              ],
+              "correct": 1,
+              "hint": "Italians, Poles, Russians, and Jews made up much of this wave."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Nativism is defined as:",
+              "options": [
+                "Support for immigrant rights",
+                "Hostility toward immigrants",
+                "Belief in manifest destiny",
+                "Support for labor unions"
+              ],
+              "correct": 1,
+              "hint": "It led to restrictive immigration laws."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-5-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The Gilded Age was characterized by:",
+            "options": [
+              "Equality",
+              "Wealth and severe inequality",
+              "Peace and prosperity for all",
+              "Rural expansion"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Samuel Gompers founded the ___ of Labor.",
+            "answer": "American Federation",
+            "hint": "The AFL organized skilled workers by trade."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Upton Sinclair's 'The Jungle' targeted the:",
+            "options": [
+              "Oil industry",
+              "Meatpacking industry",
+              "Steel industry",
+              "Banking industry"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Chinese Exclusion Act banned Chinese immigration.",
+            "answer": "true"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Jane Addams founded:",
+            "options": [
+              "Hull House",
+              "Standard Oil",
+              "The AFL",
+              "The NAACP"
+            ],
+            "correct": 0
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "industrial_progressive_scholar"
+      }
+    },
+    {
+      "id": "11-ss-6",
+      "title": "The World Wars Era",
+      "description": "Examine WWI and US entry, the Roaring Twenties, the Great Depression, the New Deal, and WWII from D-Day to victory.",
+      "lessons": [
+        {
+          "id": "11-social_studies-6-1",
+          "title": "World War I and US Entry",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War I (1914-1918) began in Europe after the assassination of Archduke Franz Ferdinand of Austria-Hungary by a Serbian nationalist in June 1914. A web of alliances pulled the major powers into conflict: the Allied Powers (Britain, France, Russia, and eventually Italy) against the Central Powers (Germany, Austria-Hungary, the Ottoman Empire). The war quickly devolved into brutal trench warfare on the Western Front, with millions dying for minimal territorial gains. The United States initially maintained neutrality under President Woodrow Wilson, who campaigned in 1916 on the slogan 'He kept us out of war.' However, Germany's unrestricted submarine warfare \u2014 sinking ships including the Lusitania (1915, killing 1,198 including 128 Americans) \u2014 and the Zimmermann Telegram (a secret German proposal for Mexico to ally against the US) pushed America toward war. The US entered in April 1917, providing fresh troops, supplies, and financial resources that tipped the balance. Over 2 million American soldiers served in Europe ('doughboys'), and the war ended with the armistice on November 11, 1918. Wilson's Fourteen Points proposed a just peace, including the League of Nations, but the Senate rejected US membership, beginning an era of isolationism.",
+            "examples": [
+              {
+                "problem": "Why did the US enter World War I?",
+                "answer": "Unrestricted German submarine warfare, the sinking of the Lusitania, and the Zimmermann Telegram pushed America into the war.",
+                "explanation": "Germany's decision to sink any ship in British waters \u2014 including neutral American vessels \u2014 combined with its secret proposal for a German-Mexican alliance against the US made neutrality untenable."
+              },
+              {
+                "problem": "What were Wilson's Fourteen Points?",
+                "answer": "President Wilson's 1918 peace plan calling for open diplomacy, free trade, self-determination, and a League of Nations.",
+                "explanation": "Wilson envisioned a new world order based on international cooperation, but the Treaty of Versailles was far harsher than he wanted, and the US Senate refused to join the League of Nations."
+              },
+              {
+                "problem": "What was trench warfare?",
+                "answer": "A brutal form of combat where opposing armies faced each other from entrenched positions, resulting in massive casualties for minimal gains.",
+                "explanation": "The Western Front's trench system stretched over 400 miles from the English Channel to Switzerland. New weapons \u2014 machine guns, poison gas, artillery \u2014 made frontal attacks suicidal."
+              }
+            ],
+            "key_vocabulary": [
+              "World War I",
+              "Allies",
+              "Central Powers",
+              "trench warfare",
+              "Lusitania",
+              "Zimmermann Telegram",
+              "Fourteen Points",
+              "League of Nations"
+            ],
+            "real_world": "The legacy of WWI includes the redrawing of national boundaries, the rise of totalitarian regimes, and the creation of international organizations \u2014 all factors that led directly to World War II."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What event triggered World War I?",
+              "options": [
+                "Sinking of the Lusitania",
+                "Assassination of Archduke Franz Ferdinand",
+                "Zimmermann Telegram",
+                "German invasion of France"
+              ],
+              "correct": 1,
+              "hint": "This 1914 assassination in Sarajevo set off a chain of alliance activations."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Telegram was a secret German proposal for Mexico to ally against the US.",
+              "answer": "Zimmermann",
+              "hint": "Its interception helped push America into the war."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The US entered World War I in:",
+              "options": [
+                "1914",
+                "1915",
+                "1917",
+                "1918"
+              ],
+              "correct": 2,
+              "hint": "America had been neutral for nearly three years."
+            },
+            {
+              "type": "fill_in",
+              "question": "The US Senate approved joining the League of Nations.",
+              "answer": "false",
+              "hint": "The Senate rejected membership, beginning an era of isolationism."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Wilson's peace plan was called the:",
+              "options": [
+                "Treaty of Versailles",
+                "Fourteen Points",
+                "Atlantic Charter",
+                "Monroe Doctrine"
+              ],
+              "correct": 1,
+              "hint": "It called for open diplomacy, self-determination, and a League of Nations."
+            },
+            {
+              "type": "fill_in",
+              "question": "The armistice ending WWI was signed on November 11, ___.",
+              "answer": "1918",
+              "hint": "This date is now celebrated as Veterans Day."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-6-2",
+          "title": "The Roaring Twenties",
+          "type": "lesson",
+          "content": {
+            "explanation": "The 1920s, known as the 'Roaring Twenties,' was a decade of prosperity, cultural change, and social tension. The economy boomed, driven by new industries like automobiles (Henry Ford's Model T and assembly line production), radio broadcasting, electrical appliances, and motion pictures. Consumerism flourished as Americans bought goods on credit for the first time. The Harlem Renaissance brought a flowering of African American art, literature, and music: writers like Langston Hughes and Zora Neale Hurston, musicians like Duke Ellington and Louis Armstrong, and thinkers like W.E.B. Du Bois celebrated Black culture and challenged racial barriers. The Jazz Age saw new musical forms become a national craze. Women gained new freedoms: the 19th Amendment (1920) granted suffrage, and 'flappers' challenged traditional gender norms with shorter skirts, bobbed hair, and greater social independence. However, the decade also saw Prohibition (the 18th Amendment banning alcohol, leading to speakeasies and organized crime), the resurgence of the Ku Klux Klan targeting not just Black Americans but also immigrants, Catholics, and Jews, and the Red Scare fueled by fears of communist revolution.",
+            "examples": [
+              {
+                "problem": "What was the Harlem Renaissance?",
+                "answer": "A flowering of African American art, literature, and music centered in Harlem, New York, during the 1920s.",
+                "explanation": "It was a cultural revolution that celebrated Black identity and creativity, producing enduring works by Langston Hughes, Zora Neale Hurston, Duke Ellington, and many others."
+              },
+              {
+                "problem": "How did the automobile transform American life?",
+                "answer": "Ford's affordable Model T and assembly line production made cars accessible to ordinary Americans, transforming transportation, suburbs, and culture.",
+                "explanation": "The auto industry created millions of jobs in manufacturing, road construction, gas stations, and motels. It enabled suburban growth and changed how Americans lived, worked, and socialized."
+              },
+              {
+                "problem": "What was Prohibition?",
+                "answer": "The 18th Amendment (1920-1933) banned the manufacture, sale, and transportation of alcoholic beverages.",
+                "explanation": "Rather than eliminating drinking, Prohibition drove it underground, creating speakeasies (illegal bars) and empowering organized crime figures like Al Capone. It was repealed by the 21st Amendment in 1933."
+              }
+            ],
+            "key_vocabulary": [
+              "Roaring Twenties",
+              "Harlem Renaissance",
+              "Jazz Age",
+              "flappers",
+              "Prohibition",
+              "assembly line",
+              "consumerism",
+              "Red Scare"
+            ],
+            "real_world": "The cultural innovations of the 1920s \u2014 jazz, the Harlem Renaissance, mass media, consumer culture \u2014 shaped modern American entertainment and popular culture."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Harlem Renaissance was a:",
+              "options": [
+                "Political movement",
+                "Military campaign",
+                "Flowering of African American art and culture",
+                "Economic reform program"
+              ],
+              "correct": 2,
+              "hint": "It celebrated Black creativity in literature, music, and art."
+            },
+            {
+              "type": "fill_in",
+              "question": "Henry Ford revolutionized manufacturing with the ___ line.",
+              "answer": "assembly",
+              "hint": "This made cars affordable for ordinary Americans."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Prohibition was established by the:",
+              "options": [
+                "16th Amendment",
+                "17th Amendment",
+                "18th Amendment",
+                "19th Amendment"
+              ],
+              "correct": 2,
+              "hint": "It banned the manufacture and sale of alcohol."
+            },
+            {
+              "type": "fill_in",
+              "question": "The 1920s economy was characterized by prosperity and consumer spending.",
+              "answer": "true",
+              "hint": "New industries and credit-based purchasing drove economic growth."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Langston Hughes was associated with the:",
+              "options": [
+                "Progressive Era",
+                "Harlem Renaissance",
+                "New Deal",
+                "Civil Rights Movement"
+              ],
+              "correct": 1,
+              "hint": "He was a leading poet and writer of this cultural movement."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Flappers' were:",
+              "options": [
+                "Labor organizers",
+                "Young women challenging traditional gender norms",
+                "Immigrant groups",
+                "Political reformers"
+              ],
+              "correct": 1,
+              "hint": "They wore shorter skirts, bobbed hair, and asserted independence."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-6-3",
+          "title": "The Great Depression and the New Deal",
+          "type": "lesson",
+          "content": {
+            "explanation": "The stock market crash of October 1929 triggered the Great Depression, the worst economic crisis in American history. By 1933, unemployment reached 25%, thousands of banks had failed, industrial production dropped by nearly half, and millions of Americans lost their homes and savings. Farmers were devastated by plummeting crop prices and the Dust Bowl \u2014 a severe drought combined with poor farming practices that turned the Great Plains into a wasteland of dust storms, displacing hundreds of thousands of 'Okies' who migrated to California. President Herbert Hoover's limited response \u2014 believing the economy would self-correct \u2014 made him deeply unpopular. Franklin Delano Roosevelt (FDR) won the 1932 election promising a 'New Deal' for Americans. In his first hundred days, FDR pushed through an unprecedented wave of legislation: the Civilian Conservation Corps (CCC) employed young men in conservation projects; the Works Progress Administration (WPA) created millions of jobs building infrastructure; the Social Security Act (1935) established retirement benefits and unemployment insurance; the Securities and Exchange Commission (SEC) regulated the stock market; and the Federal Deposit Insurance Corporation (FDIC) insured bank deposits. The New Deal didn't end the Depression \u2014 World War II did \u2014 but it fundamentally expanded the role of the federal government in American life.",
+            "examples": [
+              {
+                "problem": "What caused the Great Depression?",
+                "answer": "The stock market crash of 1929 combined with bank failures, overproduction, weak agricultural prices, and structural economic weaknesses.",
+                "explanation": "The crash wiped out millions of investors, triggering a chain reaction of bank failures, business closures, and unemployment that spiraled into the worst economic crisis in US history."
+              },
+              {
+                "problem": "What was the Dust Bowl?",
+                "answer": "Severe drought and poor farming practices in the 1930s turned the Great Plains into a wasteland, displacing hundreds of thousands of people.",
+                "explanation": "Years of deep plowing had destroyed the prairie grass that held the soil in place. When drought struck, massive dust storms swept across the Plains, burying farms and towns."
+              },
+              {
+                "problem": "How did the New Deal change government's role?",
+                "answer": "It established the principle that the federal government had a responsibility to regulate the economy and provide a social safety net.",
+                "explanation": "Programs like Social Security, the FDIC, and the SEC created permanent institutions that continue to shape American life. The New Deal also dramatically expanded federal spending and employment."
+              }
+            ],
+            "key_vocabulary": [
+              "Great Depression",
+              "stock market crash",
+              "Dust Bowl",
+              "New Deal",
+              "FDR",
+              "Social Security",
+              "WPA",
+              "CCC"
+            ],
+            "real_world": "New Deal programs like Social Security, the FDIC, and the SEC remain cornerstones of American economic policy. The debate over government's role in the economy that FDR ignited continues today."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Great Depression began with the stock market crash of:",
+              "options": [
+                "1927",
+                "1929",
+                "1931",
+                "1933"
+              ],
+              "correct": 1,
+              "hint": "October of this year saw 'Black Tuesday.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "FDR's recovery program was called the ___ Deal.",
+              "answer": "New",
+              "hint": "It included programs like the CCC, WPA, and Social Security."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At its peak, unemployment during the Great Depression reached approximately:",
+              "options": [
+                "10%",
+                "15%",
+                "25%",
+                "50%"
+              ],
+              "correct": 2,
+              "hint": "One in four American workers was jobless."
+            },
+            {
+              "type": "fill_in",
+              "question": "The New Deal ended the Great Depression.",
+              "answer": "false",
+              "hint": "World War II ultimately ended the Depression through massive military spending."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Social Security Act (1935) established:",
+              "options": [
+                "Military service requirements",
+                "Retirement benefits and unemployment insurance",
+                "Public education",
+                "Immigration quotas"
+              ],
+              "correct": 1,
+              "hint": "This program continues to provide benefits to retirees today."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Bowl devastated the Great Plains with dust storms during the 1930s.",
+              "answer": "Dust",
+              "hint": "Drought and poor farming practices turned farmland into wasteland."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-6-4",
+          "title": "World War II: From D-Day to Victory",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War II (1939-1945) was the deadliest conflict in human history, killing an estimated 70-85 million people. After Japan attacked Pearl Harbor on December 7, 1941, the United States entered the war against the Axis Powers (Germany, Italy, Japan). The American home front mobilized completely: factories converted to war production ('Arsenal of Democracy'), women entered the workforce in unprecedented numbers (symbolized by 'Rosie the Riveter'), and 16 million Americans served in the military. In Europe, the D-Day invasion of Normandy (June 6, 1944) \u2014 the largest amphibious military operation in history \u2014 established a Western Front that, combined with the Soviet advance from the east, crushed Nazi Germany, which surrendered on May 8, 1945 (V-E Day). In the Pacific, brutal island-hopping campaigns at Midway, Guadalcanal, Iwo Jima, and Okinawa pushed back Japanese forces. President Truman's decision to use atomic bombs on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945) remains the most controversial military decision in history. Japan surrendered on August 15, 1945 (V-J Day). The war revealed the Holocaust \u2014 the Nazi genocide of 6 million Jews and millions of others \u2014 and led to the creation of the United Nations and the beginning of the Cold War.",
+            "examples": [
+              {
+                "problem": "What was D-Day?",
+                "answer": "The Allied invasion of Normandy, France, on June 6, 1944 \u2014 the largest amphibious military operation in history.",
+                "explanation": "Over 156,000 American, British, and Canadian troops stormed five beaches. Despite heavy casualties, especially at Omaha Beach, the invasion established the Western Front that would lead to Germany's defeat."
+              },
+              {
+                "problem": "Why is the atomic bombing of Japan controversial?",
+                "answer": "It killed over 200,000 people (mostly civilians) but may have prevented an invasion that could have cost millions of lives.",
+                "explanation": "Supporters argue it saved lives by ending the war quickly; critics argue it was unnecessary because Japan was already near defeat, and that targeting civilians was morally wrong."
+              },
+              {
+                "problem": "What was the Holocaust?",
+                "answer": "The systematic genocide of 6 million Jews and millions of others by Nazi Germany.",
+                "explanation": "The Nazis murdered Jews, Roma, disabled people, political opponents, and others in concentration and extermination camps. Its revelation after the war led to the Universal Declaration of Human Rights and the 'never again' commitment."
+              }
+            ],
+            "key_vocabulary": [
+              "World War II",
+              "Pearl Harbor",
+              "D-Day",
+              "Normandy",
+              "Holocaust",
+              "atomic bomb",
+              "Hiroshima",
+              "V-E Day",
+              "V-J Day"
+            ],
+            "real_world": "WWII reshaped the entire world order. The United States emerged as a superpower, the United Nations was created to prevent future wars, and the revelation of the Holocaust established human rights as an international priority."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Japan attacked Pearl Harbor on:",
+              "options": [
+                "December 7, 1940",
+                "December 7, 1941",
+                "June 6, 1944",
+                "August 6, 1945"
+              ],
+              "correct": 1,
+              "hint": "FDR called it 'a date which will live in infamy.'"
+            },
+            {
+              "type": "fill_in",
+              "question": "The D-Day invasion occurred at ___, France, on June 6, 1944.",
+              "answer": "Normandy",
+              "hint": "It was the largest amphibious invasion in history."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The atomic bomb was dropped on Hiroshima on:",
+              "options": [
+                "June 6, 1944",
+                "May 8, 1945",
+                "August 6, 1945",
+                "August 15, 1945"
+              ],
+              "correct": 2,
+              "hint": "A second bomb was dropped on Nagasaki three days later."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Holocaust resulted in the death of 6 million Jews.",
+              "answer": "true",
+              "hint": "Millions of others were also murdered by the Nazis."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "V-E Day refers to:",
+              "options": [
+                "Victory in Europe",
+                "Victory in the East",
+                "Victory Everywhere",
+                "Veterans' Day in Europe"
+              ],
+              "correct": 0,
+              "hint": "It was May 8, 1945, when Germany surrendered."
+            },
+            {
+              "type": "fill_in",
+              "question": "'Rosie the ___' symbolized women who worked in factories during WWII.",
+              "answer": "Riveter",
+              "hint": "Women entered the workforce in unprecedented numbers during the war."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-6-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The US entered WWI in:",
+            "options": [
+              "1914",
+              "1917",
+              "1918",
+              "1919"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The stock market crash of ___ triggered the Great Depression.",
+            "answer": "1929"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "FDR's recovery program was called the:",
+            "options": [
+              "Fair Deal",
+              "New Deal",
+              "Square Deal",
+              "Great Society"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "D-Day was the Allied invasion of Normandy on June 6, 1944.",
+            "answer": "true"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Japan attacked Pearl Harbor in:",
+            "options": [
+              "1939",
+              "1940",
+              "1941",
+              "1942"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_wars_expert"
+      }
+    },
+    {
+      "id": "11-ss-7",
+      "title": "Cold War and Civil Rights",
+      "description": "Study containment, the Korean and Vietnam Wars, McCarthyism, the Civil Rights Movement, and landmark legislation.",
+      "lessons": [
+        {
+          "id": "11-social_studies-7-1",
+          "title": "Containment and the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Cold War (1947-1991) was a geopolitical struggle between the United States and the Soviet Union that shaped global politics for nearly half a century. Though the two superpowers never fought directly, they competed through proxy wars, nuclear arms races, espionage, propaganda, and the space race. The United States pursued a policy of 'containment' \u2014 preventing the spread of communism \u2014 first articulated by diplomat George Kennan in 1947 and implemented through the Truman Doctrine (providing military aid to nations resisting communism), the Marshall Plan (providing $13 billion in economic aid to rebuild Western Europe), and the NATO military alliance (1949). The Soviet Union responded with the Warsaw Pact. The nuclear arms race created the terrifying possibility of mutual assured destruction (MAD), where both sides had enough nuclear weapons to destroy civilization. Key crises included the Berlin Blockade (1948-49), where the US airlifted supplies to West Berlin; the Cuban Missile Crisis (1962), the closest the world came to nuclear war; and the space race, won by the US with the Apollo 11 moon landing (1969).",
+            "examples": [
+              {
+                "problem": "What was containment?",
+                "answer": "The US strategy of preventing the spread of communism without directly attacking the Soviet Union.",
+                "explanation": "Kennan argued that communism would eventually collapse under its own internal contradictions if prevented from expanding. This strategy guided US foreign policy for over 40 years."
+              },
+              {
+                "problem": "What was the Marshall Plan?",
+                "answer": "A $13 billion US program to rebuild Western Europe's economy after WWII, preventing communist influence.",
+                "explanation": "By restoring prosperity, the Marshall Plan reduced the appeal of communism in devastated European nations. It was both generous and strategically brilliant."
+              },
+              {
+                "problem": "What was the Cuban Missile Crisis?",
+                "answer": "A 1962 standoff when the US discovered Soviet nuclear missiles in Cuba, bringing the world to the brink of nuclear war.",
+                "explanation": "For 13 days in October, President Kennedy and Soviet Premier Khrushchev negotiated. The Soviets withdrew the missiles in exchange for a US pledge not to invade Cuba and the secret removal of US missiles from Turkey."
+              }
+            ],
+            "key_vocabulary": [
+              "Cold War",
+              "containment",
+              "Truman Doctrine",
+              "Marshall Plan",
+              "NATO",
+              "Warsaw Pact",
+              "Cuban Missile Crisis",
+              "mutual assured destruction"
+            ],
+            "real_world": "The Cold War shaped modern international relations, military spending, intelligence agencies, and the nuclear weapons debate. Its legacy includes NATO, which remains the world's most powerful military alliance."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Cold War was primarily between:",
+              "options": [
+                "US and China",
+                "US and Soviet Union",
+                "US and Britain",
+                "US and Germany"
+              ],
+              "correct": 1,
+              "hint": "These two superpowers competed for global influence from 1947 to 1991."
+            },
+            {
+              "type": "fill_in",
+              "question": "The US policy of preventing the spread of communism was called ___.",
+              "answer": "containment",
+              "hint": "It was articulated by diplomat George Kennan."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Marshall Plan provided:",
+              "options": [
+                "Military troops to Europe",
+                "$13 billion in economic aid to rebuild Europe",
+                "Nuclear weapons to allies",
+                "Immigration assistance"
+              ],
+              "correct": 1,
+              "hint": "It helped rebuild Western European economies after WWII."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Cuban Missile Crisis brought the world to the brink of nuclear war.",
+              "answer": "true",
+              "hint": "It was the closest the superpowers came to direct conflict."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "NATO was established in:",
+              "options": [
+                "1945",
+                "1947",
+                "1949",
+                "1955"
+              ],
+              "correct": 2,
+              "hint": "It was a Western military alliance during the Cold War."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Doctrine pledged US support for nations resisting communism.",
+              "answer": "Truman",
+              "hint": "It was announced by President Truman in 1947."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-7-2",
+          "title": "The Korean and Vietnam Wars",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Korean War (1950-1953) and Vietnam War (1955-1975) were the two major 'hot wars' of the Cold War era. When communist North Korea invaded South Korea in June 1950, the United Nations (led by US forces under General Douglas MacArthur) intervened. After Chinese forces entered the war, the conflict stalemated near the 38th parallel. An armistice in 1953 left Korea divided \u2014 as it remains today. The Vietnam War was far more divisive. The US gradually escalated its involvement to prevent communist North Vietnam from unifying the country under Ho Chi Minh's leadership. The Gulf of Tonkin Resolution (1964) gave President Johnson broad authority to expand military operations. At its peak, over 500,000 US troops served in Vietnam. The war was the first broadcast on television, and graphic images turned public opinion against it. The Tet Offensive (1968) \u2014 a surprise communist assault on cities across South Vietnam \u2014 shattered the government's claims of imminent victory. Massive antiwar protests roiled American society. President Nixon pursued 'Vietnamization' (gradually withdrawing US troops while building up South Vietnamese forces) and eventually negotiated a peace agreement in 1973. Saigon fell to North Vietnam in 1975, unifying Vietnam under communist rule. Over 58,000 Americans and millions of Vietnamese died in the war.",
+            "examples": [
+              {
+                "problem": "How did the Korean War end?",
+                "answer": "An armistice in 1953 established a ceasefire near the 38th parallel, leaving Korea divided into North and South.",
+                "explanation": "No peace treaty was ever signed, so the two Koreas are technically still at war. The 38th parallel remains one of the most heavily militarized borders in the world."
+              },
+              {
+                "problem": "What was the Tet Offensive?",
+                "answer": "A surprise communist attack during the 1968 Tet holiday that struck cities across South Vietnam and turned American public opinion against the war.",
+                "explanation": "Although the US repelled the attack militarily, television coverage of fighting in Saigon and other cities contradicted government claims that the US was winning, leading to a credibility crisis."
+              },
+              {
+                "problem": "What was Vietnamization?",
+                "answer": "Nixon's strategy of gradually withdrawing US troops while transferring combat responsibility to South Vietnamese forces.",
+                "explanation": "It allowed Nixon to reduce politically costly US casualties while continuing the war. Ultimately, South Vietnam fell two years after US withdrawal."
+              }
+            ],
+            "key_vocabulary": [
+              "Korean War",
+              "Vietnam War",
+              "38th parallel",
+              "Gulf of Tonkin",
+              "Tet Offensive",
+              "Vietnamization",
+              "antiwar movement",
+              "Ho Chi Minh"
+            ],
+            "real_world": "The Vietnam War fundamentally changed Americans' trust in government and attitudes toward military intervention. The 'Vietnam syndrome' \u2014 reluctance to commit ground troops abroad \u2014 influenced US foreign policy for decades."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Korean War began when:",
+              "options": [
+                "South Korea invaded the North",
+                "North Korea invaded the South",
+                "China attacked Korea",
+                "The US invaded Korea"
+              ],
+              "correct": 1,
+              "hint": "Communist North Korea crossed the 38th parallel in 1950."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Offensive of 1968 was a turning point in the Vietnam War.",
+              "answer": "Tet",
+              "hint": "This surprise attack during a holiday shattered claims of imminent victory."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "At its peak, approximately how many US troops served in Vietnam?",
+              "options": [
+                "100,000",
+                "250,000",
+                "500,000",
+                "1 million"
+              ],
+              "correct": 2,
+              "hint": "This was the maximum deployment during the war."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Korean War ended with a peace treaty.",
+              "answer": "false",
+              "hint": "It ended with an armistice; no peace treaty was ever signed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Nixon's strategy of withdrawing US troops from Vietnam was called:",
+              "options": [
+                "Containment",
+                "Escalation",
+                "Vietnamization",
+                "Detente"
+              ],
+              "correct": 2,
+              "hint": "It shifted combat responsibility to South Vietnamese forces."
+            },
+            {
+              "type": "fill_in",
+              "question": "Over ___ Americans died in the Vietnam War.",
+              "answer": "58,000",
+              "hint": "Their names are inscribed on the Vietnam Veterans Memorial in Washington, D.C."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-7-3",
+          "title": "McCarthyism and the Red Scare",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Second Red Scare (late 1940s-1950s) was a period of intense anticommunist paranoia that gripped American society. Fear of communist infiltration was fueled by real events \u2014 the Soviet Union's development of an atomic bomb (1949), the communist takeover of China (1949), and the conviction of Julius and Ethel Rosenberg for passing nuclear secrets to the Soviets (executed 1953). Senator Joseph McCarthy of Wisconsin exploited these fears, claiming in 1950 that he had a list of communists working in the State Department. 'McCarthyism' came to mean the practice of making unfounded accusations of disloyalty without evidence. The House Un-American Activities Committee (HUAC) investigated alleged communist influence in Hollywood, leading to the blacklisting of actors, writers, and directors who refused to cooperate. Federal employees faced loyalty oaths and investigations. Teachers, labor leaders, and civil rights activists were targeted. McCarthy's downfall came during the Army-McCarthy hearings (1954), when attorney Joseph Welch famously asked, 'Have you no sense of decency, sir?' The Senate censured McCarthy in December 1954, and his influence waned, though the damage to civil liberties and individual lives was severe.",
+            "examples": [
+              {
+                "problem": "What was McCarthyism?",
+                "answer": "The practice of making unfounded accusations of communism or disloyalty, named after Senator Joseph McCarthy.",
+                "explanation": "McCarthy exploited Cold War fears to gain political power, ruining careers and lives with unsubstantiated allegations. The term now describes any witch-hunt based on fear and accusation without evidence."
+              },
+              {
+                "problem": "What was the Hollywood blacklist?",
+                "answer": "A list of entertainment industry professionals denied employment because they were suspected of communist sympathies.",
+                "explanation": "HUAC investigated Hollywood in 1947, and the 'Hollywood Ten' who refused to testify were jailed for contempt. Hundreds of actors, writers, and directors were blacklisted, unable to work for years."
+              },
+              {
+                "problem": "How did McCarthy fall from power?",
+                "answer": "The Army-McCarthy hearings (1954) exposed his bullying tactics on television, and the Senate censured him.",
+                "explanation": "Attorney Joseph Welch's rebuke \u2014 'Have you no sense of decency?' \u2014 resonated with the public. The televised hearings showed McCarthy as a bully, and the Senate voted to censure him."
+              }
+            ],
+            "key_vocabulary": [
+              "McCarthyism",
+              "Red Scare",
+              "HUAC",
+              "blacklist",
+              "Joseph McCarthy",
+              "loyalty oath",
+              "Army-McCarthy hearings",
+              "censure"
+            ],
+            "real_world": "McCarthyism serves as a cautionary tale about the dangers of sacrificing civil liberties in the name of national security. The era's lessons resonate in contemporary debates about surveillance, free speech, and political persecution."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "McCarthyism is named after Senator Joseph McCarthy of:",
+              "options": [
+                "New York",
+                "California",
+                "Wisconsin",
+                "Massachusetts"
+              ],
+              "correct": 2,
+              "hint": "He claimed to have lists of communists in government."
+            },
+            {
+              "type": "fill_in",
+              "question": "___ investigated alleged communist influence in Hollywood.",
+              "answer": "HUAC",
+              "hint": "This stands for the House Un-American Activities Committee."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Rosenbergs were convicted of:",
+              "options": [
+                "Tax evasion",
+                "Passing nuclear secrets to the Soviet Union",
+                "Antiwar protests",
+                "Espionage for China"
+              ],
+              "correct": 1,
+              "hint": "They were executed in 1953."
+            },
+            {
+              "type": "fill_in",
+              "question": "McCarthy was eventually censured by the Senate.",
+              "answer": "true",
+              "hint": "The Senate censured him in December 1954."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Have you no sense of decency, sir?' was said during the:",
+              "options": [
+                "Watergate hearings",
+                "Army-McCarthy hearings",
+                "Rosenberg trial",
+                "HUAC Hollywood hearings"
+              ],
+              "correct": 1,
+              "hint": "Attorney Joseph Welch confronted McCarthy on live television."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Hollywood blacklist affected:",
+              "options": [
+                "Politicians",
+                "Military officers",
+                "Actors, writers, and directors",
+                "Scientists"
+              ],
+              "correct": 2,
+              "hint": "Those suspected of communist sympathies were denied employment."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-7-4",
+          "title": "The Civil Rights Movement",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil Rights Movement (1950s-1960s) was the struggle to end racial segregation and discrimination against African Americans and to secure legal equality. Brown v. Board of Education (1954) \u2014 in which the Supreme Court unanimously ruled that school segregation was unconstitutional \u2014 overturned Plessy v. Ferguson's 'separate but equal' doctrine. Rosa Parks's refusal to give up her bus seat in Montgomery, Alabama (1955) sparked a 381-day bus boycott led by a young pastor, Dr. Martin Luther King Jr. King emerged as the movement's most eloquent leader, advocating nonviolent civil disobedience inspired by Gandhi. The movement used sit-ins (Greensboro, 1960), Freedom Rides challenging segregated interstate buses (1961), and massive demonstrations like the March on Washington (1963), where King delivered his 'I Have a Dream' speech to 250,000 people. The movement faced brutal violence: the bombing of the 16th Street Baptist Church in Birmingham (killing four girls), the murder of civil rights workers in Mississippi, and the violent attacks on marchers in Selma. These sacrifices produced landmark legislation: the Civil Rights Act of 1964 (banning discrimination in public accommodations and employment) and the Voting Rights Act of 1965 (eliminating barriers to Black voting). King was assassinated on April 4, 1968, in Memphis, Tennessee.",
+            "examples": [
+              {
+                "problem": "What did Brown v. Board of Education decide?",
+                "answer": "The Supreme Court unanimously ruled that racial segregation in public schools was unconstitutional.",
+                "explanation": "Chief Justice Earl Warren wrote that 'separate educational facilities are inherently unequal,' overturning the 1896 Plessy v. Ferguson ruling and striking at the legal foundation of Jim Crow."
+              },
+              {
+                "problem": "What was the significance of the March on Washington?",
+                "answer": "250,000 people gathered in Washington, D.C. in 1963, where MLK delivered his 'I Have a Dream' speech, building pressure for civil rights legislation.",
+                "explanation": "The peaceful demonstration showed the movement's broad support and moral power. King's speech became one of the most famous in American history, articulating a vision of racial harmony."
+              },
+              {
+                "problem": "What did the Civil Rights Act of 1964 accomplish?",
+                "answer": "It banned discrimination based on race, color, religion, sex, or national origin in public accommodations and employment.",
+                "explanation": "This landmark law prohibited segregation in restaurants, hotels, theaters, and other public places, and created the Equal Employment Opportunity Commission to enforce workplace equality."
+              }
+            ],
+            "key_vocabulary": [
+              "Civil Rights Movement",
+              "Brown v. Board of Education",
+              "Martin Luther King Jr.",
+              "Rosa Parks",
+              "nonviolent resistance",
+              "Civil Rights Act of 1964",
+              "Voting Rights Act of 1965",
+              "March on Washington"
+            ],
+            "real_world": "The Civil Rights Movement transformed American law and society, establishing the principle of legal equality. Its strategies of nonviolent protest have been adopted by social movements worldwide."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Brown v. Board of Education (1954) ruled that:",
+              "options": [
+                "Segregation was constitutional",
+                "School segregation was unconstitutional",
+                "Only federal schools must integrate",
+                "States could choose to segregate"
+              ],
+              "correct": 1,
+              "hint": "It overturned Plessy v. Ferguson."
+            },
+            {
+              "type": "fill_in",
+              "question": "Martin Luther King Jr. delivered his 'I Have a ___' speech at the March on Washington.",
+              "answer": "Dream",
+              "hint": "He spoke to 250,000 people in 1963."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Civil Rights Act of 1964 banned:",
+              "options": [
+                "Only school segregation",
+                "Discrimination in public accommodations and employment",
+                "Only voting discrimination",
+                "Only housing discrimination"
+              ],
+              "correct": 1,
+              "hint": "It was comprehensive civil rights legislation."
+            },
+            {
+              "type": "fill_in",
+              "question": "Rosa Parks's bus boycott in Montgomery lasted 381 days.",
+              "answer": "true",
+              "hint": "It was led by Dr. Martin Luther King Jr."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Voting Rights Act was passed in:",
+              "options": [
+                "1960",
+                "1963",
+                "1964",
+                "1965"
+              ],
+              "correct": 3,
+              "hint": "It eliminated barriers to Black voting, especially in the South."
+            },
+            {
+              "type": "fill_in",
+              "question": "MLK was assassinated on April 4, ___, in Memphis, Tennessee.",
+              "answer": "1968",
+              "hint": "His death sparked riots in cities across America."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "The US policy of preventing communism's spread was called ___.",
+            "answer": "containment"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Vietnam War's turning point was the:",
+            "options": [
+              "Battle of Saigon",
+              "Tet Offensive",
+              "Gulf of Tonkin incident",
+              "Fall of Saigon"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Senator McCarthy was eventually censured by the Senate.",
+            "answer": "true"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Brown v. Board of Education dealt with:",
+            "options": [
+              "Voting rights",
+              "School segregation",
+              "Bus boycotts",
+              "Employment discrimination"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The Civil Rights Act was passed in ___.",
+            "answer": "1964"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cold_war_civil_rights_scholar"
+      }
+    },
+    {
+      "id": "11-ss-8",
+      "title": "Modern America",
+      "description": "Explore Watergate, the Reagan era, the end of the Cold War, September 11, the technology revolution, and contemporary issues.",
+      "lessons": [
+        {
+          "id": "11-social_studies-8-1",
+          "title": "Watergate and the Crisis of Confidence",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Watergate scandal (1972-1974) was the gravest constitutional crisis since the Civil War and fundamentally changed Americans' trust in government. On June 17, 1972, five men were arrested for breaking into the Democratic National Committee headquarters at the Watergate complex in Washington, D.C. Investigation revealed they were connected to President Richard Nixon's reelection campaign. Nixon and his aides attempted to cover up White House involvement, obstructing justice and abusing presidential power. The Senate Watergate Committee hearings, broadcast on television, revealed a web of illegal activities: wiretapping, political sabotage, secret campaign funds, and the existence of secret White House tape recordings. When the Supreme Court unanimously ordered Nixon to release the tapes (United States v. Nixon, 1974), they revealed Nixon's direct involvement in the cover-up. Facing certain impeachment and removal, Nixon resigned on August 9, 1974 \u2014 the only president ever to do so. Vice President Gerald Ford became president and controversially pardoned Nixon. Watergate's legacy includes the War Powers Act, campaign finance reforms, and a lasting skepticism of presidential power and government honesty.",
+            "examples": [
+              {
+                "problem": "What was the Watergate break-in?",
+                "answer": "Five men connected to Nixon's campaign were arrested for burglarizing the Democratic National Committee headquarters.",
+                "explanation": "The break-in itself was a minor crime, but the cover-up \u2014 involving the President of the United States obstructing justice \u2014 became one of the greatest political scandals in American history."
+              },
+              {
+                "problem": "Why did Nixon resign?",
+                "answer": "The Supreme Court ordered him to release White House tapes that proved his involvement in the Watergate cover-up, making impeachment certain.",
+                "explanation": "The 'smoking gun' tape from June 23, 1972 \u2014 just days after the break-in \u2014 showed Nixon ordering the CIA to block the FBI's investigation. Even his Republican supporters abandoned him."
+              },
+              {
+                "problem": "What was the impact of Watergate?",
+                "answer": "It shattered public trust in government, led to reforms limiting presidential power, and established the principle that no one is above the law.",
+                "explanation": "Post-Watergate reforms included the War Powers Act (limiting presidential military authority), campaign finance laws, and the Ethics in Government Act establishing independent counsels."
+              }
+            ],
+            "key_vocabulary": [
+              "Watergate",
+              "Richard Nixon",
+              "cover-up",
+              "impeachment",
+              "resignation",
+              "executive privilege",
+              "War Powers Act",
+              "Gerald Ford"
+            ],
+            "real_world": "Watergate established that even the president is subject to the law. The suffix '-gate' is now attached to any major political scandal, showing how deeply the event embedded itself in American culture."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Watergate break-in occurred at the:",
+              "options": [
+                "White House",
+                "Capitol Building",
+                "Democratic National Committee headquarters",
+                "Republican Party offices"
+              ],
+              "correct": 2,
+              "hint": "It was in the Watergate complex in Washington, D.C."
+            },
+            {
+              "type": "fill_in",
+              "question": "Nixon is the only president to have ___.",
+              "answer": "resigned",
+              "hint": "He left office on August 9, 1974."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did the White House tapes reveal?",
+              "options": [
+                "Nixon's innocence",
+                "Nixon's involvement in the cover-up",
+                "A foreign conspiracy",
+                "Congressional corruption"
+              ],
+              "correct": 1,
+              "hint": "The 'smoking gun' tape proved his obstruction of justice."
+            },
+            {
+              "type": "fill_in",
+              "question": "Gerald Ford pardoned Nixon after becoming president.",
+              "answer": "true",
+              "hint": "This controversial decision cost Ford politically."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "United States v. Nixon established that:",
+              "options": [
+                "Presidents have absolute executive privilege",
+                "Presidents must comply with judicial subpoenas",
+                "Congress cannot investigate the president",
+                "Presidents cannot be impeached"
+              ],
+              "correct": 1,
+              "hint": "The Supreme Court ruled unanimously against Nixon."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Watergate led to all of the following EXCEPT:",
+              "options": [
+                "War Powers Act",
+                "Campaign finance reform",
+                "Expansion of presidential power",
+                "Greater public skepticism of government"
+              ],
+              "correct": 2,
+              "hint": "Watergate actually limited presidential power."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-8-2",
+          "title": "The Reagan Era and the End of the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "Ronald Reagan's presidency (1981-1989) marked a conservative revolution in American politics. Reagan championed supply-side economics ('Reaganomics') \u2014 cutting taxes for corporations and wealthy individuals, believing the benefits would 'trickle down' to all Americans. He also dramatically increased military spending, reduced government regulation, and cut domestic social programs. The economy recovered from the early 1980s recession but the national debt tripled. In foreign policy, Reagan took a hard line against the Soviet Union, calling it an 'evil empire' and launching the Strategic Defense Initiative ('Star Wars') missile defense program. However, he also engaged in diplomacy with Soviet leader Mikhail Gorbachev, who was pursuing reforms (glasnost \u2014 openness; perestroika \u2014 restructuring). Their summits produced the INF Treaty (1987), eliminating an entire class of nuclear weapons. The Cold War ended dramatically in 1989 when the Berlin Wall fell, followed by the collapse of communist governments across Eastern Europe. The Soviet Union itself dissolved in December 1991 under President George H.W. Bush, leaving the United States as the world's sole superpower.",
+            "examples": [
+              {
+                "problem": "What was Reaganomics?",
+                "answer": "Supply-side economic policy featuring tax cuts, deregulation, reduced social spending, and increased military spending.",
+                "explanation": "Supporters argued tax cuts would stimulate growth benefiting everyone. Critics argued it primarily benefited the wealthy while cutting programs for the poor and tripling the national debt."
+              },
+              {
+                "problem": "Why did the Berlin Wall fall?",
+                "answer": "Gorbachev's reforms weakened Soviet control over Eastern Europe, and popular revolutions toppled communist governments across the region in 1989.",
+                "explanation": "On November 9, 1989, East Germany opened the Berlin Wall, and jubilant crowds tore it down. It was the most powerful symbol of the Cold War's end."
+              },
+              {
+                "problem": "How did the Cold War end?",
+                "answer": "Gorbachev's reforms, diplomatic engagement with Reagan, and the collapse of communist governments led to the Soviet Union's dissolution in 1991.",
+                "explanation": "The combination of internal economic failures, the costs of the arms race, and Gorbachev's liberalization unleashed forces that the Soviet system could not survive."
+              }
+            ],
+            "key_vocabulary": [
+              "Ronald Reagan",
+              "Reaganomics",
+              "supply-side economics",
+              "Berlin Wall",
+              "Mikhail Gorbachev",
+              "glasnost",
+              "perestroika",
+              "INF Treaty"
+            ],
+            "real_world": "The end of the Cold War reshaped the world. The debate over Reaganomics \u2014 whether tax cuts for the wealthy benefit everyone or primarily increase inequality \u2014 remains central to American economic policy discussions."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Reaganomics featured:",
+              "options": [
+                "Higher taxes and more regulation",
+                "Tax cuts and deregulation",
+                "Nationalization of industries",
+                "Isolationist trade policy"
+              ],
+              "correct": 1,
+              "hint": "Reagan believed cutting taxes would stimulate economic growth."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Wall fell in November 1989, symbolizing the end of the Cold War.",
+              "answer": "Berlin",
+              "hint": "Its fall was the most dramatic moment of the Cold War's end."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Gorbachev's policy of openness was called:",
+              "options": [
+                "Perestroika",
+                "Glasnost",
+                "Detente",
+                "Containment"
+              ],
+              "correct": 1,
+              "hint": "It meant greater transparency in Soviet government."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Soviet Union dissolved in 1991.",
+              "answer": "true",
+              "hint": "This left the United States as the world's sole superpower."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Reagan called the Soviet Union the:",
+              "options": [
+                "Second World",
+                "Eastern Bloc",
+                "Evil Empire",
+                "Red Menace"
+              ],
+              "correct": 2,
+              "hint": "This phrase reflected his confrontational stance."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The INF Treaty (1987) eliminated:",
+              "options": [
+                "All nuclear weapons",
+                "An entire class of nuclear missiles",
+                "Conventional forces in Europe",
+                "Chemical weapons"
+              ],
+              "correct": 1,
+              "hint": "It was signed by Reagan and Gorbachev."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-8-3",
+          "title": "September 11 and the War on Terror",
+          "type": "lesson",
+          "content": {
+            "explanation": "On September 11, 2001, terrorists from the al-Qaeda network hijacked four commercial airliners. Two were flown into the World Trade Center towers in New York City, one into the Pentagon in Virginia, and one \u2014 United Flight 93 \u2014 crashed in Pennsylvania after passengers fought the hijackers. Nearly 3,000 people were killed in the deadliest terrorist attack in American history. The attacks, orchestrated by Osama bin Laden from Afghanistan, transformed American foreign and domestic policy. President George W. Bush declared a 'War on Terror' and launched the invasion of Afghanistan in October 2001 to destroy al-Qaeda and topple the Taliban government that harbored them. In 2003, the US invaded Iraq based on claims \u2014 later proven false \u2014 that Saddam Hussein possessed weapons of mass destruction and had links to al-Qaeda. Both wars proved far longer and costlier than anticipated: the Afghanistan War lasted 20 years (ending in 2021), and the Iraq War lasted nearly nine years. Domestically, the PATRIOT Act expanded government surveillance powers, the Department of Homeland Security was created, and the TSA transformed air travel. Debates about the balance between security and civil liberties, the use of military force, and the treatment of Muslim Americans continue.",
+            "examples": [
+              {
+                "problem": "What happened on September 11, 2001?",
+                "answer": "Al-Qaeda terrorists hijacked four planes, crashing them into the World Trade Center, the Pentagon, and a Pennsylvania field, killing nearly 3,000 people.",
+                "explanation": "The attacks were the deadliest terrorist strike in history and fundamentally changed American foreign policy, domestic security, and national psychology."
+              },
+              {
+                "problem": "What was the PATRIOT Act?",
+                "answer": "A law passed after 9/11 that expanded government surveillance powers, including the ability to monitor phone calls, emails, and financial records.",
+                "explanation": "Supporters argued it was necessary to prevent future attacks; critics argued it violated Fourth Amendment protections against unreasonable searches and enabled government overreach."
+              },
+              {
+                "problem": "Why was the Iraq War controversial?",
+                "answer": "The stated justification \u2014 weapons of mass destruction \u2014 was proven false, and the war lasted nearly a decade with thousands of American and hundreds of thousands of Iraqi casualties.",
+                "explanation": "No WMDs were found in Iraq, and the claimed links to al-Qaeda were disproven. The war cost over $2 trillion and destabilized the region, contributing to the rise of ISIS."
+              }
+            ],
+            "key_vocabulary": [
+              "September 11",
+              "al-Qaeda",
+              "War on Terror",
+              "Afghanistan War",
+              "Iraq War",
+              "PATRIOT Act",
+              "Department of Homeland Security",
+              "Osama bin Laden"
+            ],
+            "real_world": "The effects of 9/11 continue to shape American life: airport security, surveillance debates, military commitments in the Middle East, and questions about the balance between safety and freedom."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many people were killed on September 11, 2001?",
+              "options": [
+                "About 1,000",
+                "About 3,000",
+                "About 5,000",
+                "About 10,000"
+              ],
+              "correct": 1,
+              "hint": "It was the deadliest terrorist attack in American history."
+            },
+            {
+              "type": "fill_in",
+              "question": "The US invaded ___ in October 2001 to destroy al-Qaeda.",
+              "answer": "Afghanistan",
+              "hint": "The Taliban government had harbored Osama bin Laden."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Iraq War was launched based on claims of:",
+              "options": [
+                "Nuclear attacks on the US",
+                "Weapons of mass destruction",
+                "Direct involvement in 9/11",
+                "Invasion of Kuwait"
+              ],
+              "correct": 1,
+              "hint": "These claims were later proven false."
+            },
+            {
+              "type": "fill_in",
+              "question": "The PATRIOT Act expanded government surveillance powers.",
+              "answer": "true",
+              "hint": "It was passed in response to the 9/11 attacks."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "United Flight 93 crashed in:",
+              "options": [
+                "New York",
+                "Virginia",
+                "Pennsylvania",
+                "Washington D.C."
+              ],
+              "correct": 2,
+              "hint": "Passengers fought the hijackers, preventing the plane from reaching its intended target."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ of Homeland Security was created after 9/11.",
+              "answer": "Department",
+              "hint": "It consolidated multiple agencies focused on domestic security."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-social_studies-8-4",
+          "title": "Technology Revolution and Contemporary Issues",
+          "type": "lesson",
+          "content": {
+            "explanation": "The late 20th and early 21st centuries saw a technology revolution that transformed every aspect of American life. The personal computer revolution (1980s), the rise of the internet (1990s), and the smartphone era (2010s) changed how Americans work, communicate, shop, learn, and interact. Silicon Valley became the global center of technological innovation, producing companies like Apple, Google, Facebook, and Amazon that reshaped entire industries. The 2008 financial crisis \u2014 triggered by reckless lending in the housing market \u2014 caused the worst recession since the Great Depression, leading to massive government bailouts and the election of Barack Obama, the first African American president. Obama's Affordable Care Act (2010) expanded health insurance coverage to millions, though it remained politically controversial. Contemporary America faces deep political polarization, debates over immigration, gun violence, climate change, racial justice (highlighted by movements like Black Lives Matter), income inequality, and the impact of social media on democracy. The COVID-19 pandemic (2020-2021) killed over one million Americans and exposed deep divisions in the nation's response to public health crises.",
+            "examples": [
+              {
+                "problem": "How did the internet transform American society?",
+                "answer": "It revolutionized communication, commerce, media, education, and social interaction, creating a connected but also polarized society.",
+                "explanation": "The internet enabled e-commerce, social media, remote work, and instant access to information. But it also facilitated misinformation, political polarization, privacy concerns, and new forms of inequality."
+              },
+              {
+                "problem": "What was the 2008 financial crisis?",
+                "answer": "Reckless lending in the housing market led to a financial collapse that caused the worst recession since the Great Depression.",
+                "explanation": "Banks had given mortgages to people who couldn't afford them, then packaged these risky loans as investments. When housing prices fell, the entire financial system nearly collapsed, requiring massive government bailouts."
+              },
+              {
+                "problem": "Why was Obama's election historically significant?",
+                "answer": "Barack Obama became the first African American president in 2008, representing a milestone in a nation built on slavery and segregation.",
+                "explanation": "His election demonstrated profound changes in American racial attitudes, though it also exposed persistent racial tensions. Obama served two terms (2009-2017) and passed major legislation including the Affordable Care Act."
+              }
+            ],
+            "key_vocabulary": [
+              "internet",
+              "Silicon Valley",
+              "2008 financial crisis",
+              "Barack Obama",
+              "Affordable Care Act",
+              "political polarization",
+              "social media",
+              "COVID-19"
+            ],
+            "real_world": "The challenges facing contemporary America \u2014 political division, technological disruption, inequality, and public health \u2014 require the same kind of democratic engagement and compromise that have defined American history at its best."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The 2008 financial crisis was triggered by:",
+              "options": [
+                "Stock market speculation",
+                "Reckless lending in the housing market",
+                "Foreign trade imbalances",
+                "Government overspending"
+              ],
+              "correct": 1,
+              "hint": "Banks had given mortgages to people who couldn't afford them."
+            },
+            {
+              "type": "fill_in",
+              "question": "Barack Obama was the first ___ ___ president of the United States.",
+              "answer": "African American",
+              "hint": "He was elected in 2008 and served two terms."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Affordable Care Act was passed in:",
+              "options": [
+                "2008",
+                "2010",
+                "2012",
+                "2014"
+              ],
+              "correct": 1,
+              "hint": "It expanded health insurance coverage to millions of Americans."
+            },
+            {
+              "type": "fill_in",
+              "question": "The COVID-19 pandemic killed over one million Americans.",
+              "answer": "true",
+              "hint": "It was the deadliest pandemic in American history since 1918."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Silicon Valley is known as the center of:",
+              "options": [
+                "Financial services",
+                "Automobile manufacturing",
+                "Technological innovation",
+                "Agricultural production"
+              ],
+              "correct": 2,
+              "hint": "Companies like Apple, Google, and Facebook are based there."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a major contemporary issue in America?",
+              "options": [
+                "The Cold War",
+                "Manifest Destiny",
+                "Political polarization",
+                "Prohibition"
+              ],
+              "correct": 2,
+              "hint": "Deep divisions between political parties characterize modern American politics."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-social_studies-8-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Nixon resigned because of:",
+            "options": [
+              "The Vietnam War",
+              "The Watergate scandal",
+              "The oil crisis",
+              "Economic recession"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "The ___ Wall fell in 1989, symbolizing the Cold War's end.",
+            "answer": "Berlin"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The September 11 attacks killed approximately:",
+            "options": [
+              "1,000",
+              "3,000",
+              "5,000",
+              "10,000"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Barack Obama was the first African American president.",
+            "answer": "true"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The 2008 financial crisis was triggered by:",
+            "options": [
+              "The tech bubble",
+              "Housing market collapse",
+              "Oil prices",
+              "Trade wars"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "modern_america_expert"
+      }
+    }
+  ]
+}

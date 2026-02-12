@@ -1,0 +1,803 @@
+{
+  "grade": 7,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "7-ss-1",
+      "title": "Reconstruction to the Progressive Era",
+      "description": "Explore how the United States rebuilt after the Civil War, the challenges of Reconstruction, the rise of industrialization, and the reform movements of the Progressive Era.",
+      "lessons": [
+        {
+          "id": "7-ss-1-1",
+          "title": "Reconstruction After the Civil War",
+          "type": "lesson",
+          "content": {
+            "explanation": "After the Civil War ended in 1865, the nation faced the enormous challenge of rebuilding the South and integrating nearly four million formerly enslaved people into American society. This period, known as Reconstruction (1865-1877), began under President Andrew Johnson and continued under Congressional leadership. The 13th Amendment abolished slavery, the 14th Amendment granted citizenship and equal protection under the law, and the 15th Amendment guaranteed voting rights regardless of race. During Reconstruction, African Americans made significant gains: they held political office, built schools and churches, and established communities. However, Reconstruction also faced fierce resistance from groups like the Ku Klux Klan, and many Southern states passed Black Codes to restrict the freedoms of formerly enslaved people.",
+            "examples": [
+              {"problem": "What were the Reconstruction Amendments?", "answer": "The 13th, 14th, and 15th Amendments", "explanation": "The 13th abolished slavery, the 14th granted citizenship and equal protection, and the 15th protected voting rights regardless of race."},
+              {"problem": "Why did Reconstruction end in 1877?", "answer": "The Compromise of 1877 resolved the disputed 1876 presidential election by withdrawing federal troops from the South.", "explanation": "In exchange for accepting Rutherford B. Hayes as president, Southern Democrats received the removal of federal troops, effectively ending Reconstruction."}
+            ],
+            "key_vocabulary": ["Reconstruction", "Freedmen's Bureau", "Black Codes", "Ku Klux Klan", "Compromise of 1877", "carpetbagger", "scalawag", "impeachment"],
+            "real_world": "The struggles and achievements of Reconstruction continue to shape debates about racial equality, voting rights, and civil rights in America today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which amendment abolished slavery in the United States?", "options": ["13th Amendment", "14th Amendment", "15th Amendment", "19th Amendment"], "correct": 0, "hint": "Think about which amendment came first after the Civil War."},
+            {"type": "multiple_choice", "question": "What was the purpose of the Freedmen's Bureau?", "options": ["To punish former Confederate soldiers", "To help formerly enslaved people transition to freedom", "To rebuild Southern factories", "To create new states in the West"], "correct": 1, "hint": "Think about who the 'freedmen' were and what they needed."},
+            {"type": "true_false", "question": "Black Codes were laws designed to protect the rights of African Americans after the Civil War.", "answer": false, "hint": "Consider who passed these laws and why Southern states might want to restrict freedoms."},
+            {"type": "fill_in", "question": "The ___ was a secret white supremacist group that used violence and intimidation against African Americans during Reconstruction.", "answer": "Ku Klux Klan", "hint": "This group wore white hoods and robes."},
+            {"type": "multiple_choice", "question": "Which amendment granted citizenship to all persons born in the United States?", "options": ["13th Amendment", "14th Amendment", "15th Amendment", "1st Amendment"], "correct": 1, "hint": "This amendment also guaranteed 'equal protection under the law.'"},
+            {"type": "true_false", "question": "During Reconstruction, African Americans served in the U.S. Congress for the first time.", "answer": true, "hint": "Think about the political gains African Americans made during this period."},
+            {"type": "multiple_choice", "question": "Reconstruction officially ended with the Compromise of what year?", "options": ["1865", "1870", "1877", "1900"], "correct": 2, "hint": "It was related to a disputed presidential election."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-1-2",
+          "title": "The Gilded Age and Industrialization",
+          "type": "lesson",
+          "content": {
+            "explanation": "The period from the 1870s to about 1900 is known as the Gilded Age, a term coined by Mark Twain to suggest that society looked golden on the surface but had serious problems underneath. During this era, the United States transformed from a largely agricultural nation into a major industrial power. Innovations like the railroad, steel production, and electricity drove massive economic growth. Powerful businessmen like Andrew Carnegie (steel), John D. Rockefeller (oil), and J.P. Morgan (banking) built enormous fortunes and controlled entire industries. While these 'captains of industry' created jobs and built infrastructure, critics called them 'robber barons' because they often exploited workers, used unfair business practices, and accumulated extreme wealth while many Americans lived in poverty. Millions of immigrants arrived during this period, providing labor for factories and reshaping American culture.",
+            "examples": [
+              {"problem": "Why was this period called the 'Gilded Age'?", "answer": "Because it appeared prosperous on the outside but had deep social problems underneath", "explanation": "Mark Twain coined the term to describe how the era's wealth and progress masked corruption, inequality, and exploitation."},
+              {"problem": "What is a monopoly?", "answer": "When one company controls an entire industry", "explanation": "Rockefeller's Standard Oil controlled about 90% of oil refining in the U.S., giving him the power to set prices and eliminate competitors."}
+            ],
+            "key_vocabulary": ["Gilded Age", "industrialization", "monopoly", "trust", "robber baron", "captain of industry", "laissez-faire", "urbanization", "immigration"],
+            "real_world": "Debates about wealth inequality, the power of large corporations, and workers' rights that began in the Gilded Age continue in discussions about technology companies and economic policy today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who coined the term 'Gilded Age'?", "options": ["Andrew Carnegie", "Mark Twain", "Theodore Roosevelt", "John D. Rockefeller"], "correct": 1, "hint": "He was a famous American author known for 'The Adventures of Tom Sawyer.'"},
+            {"type": "fill_in", "question": "Andrew Carnegie made his fortune in the ___ industry.", "answer": "steel", "hint": "This metal was essential for building railroads, bridges, and skyscrapers."},
+            {"type": "multiple_choice", "question": "What is a monopoly?", "options": ["A type of government", "When one company controls an entire industry", "A board game invented in the Gilded Age", "A type of labor union"], "correct": 1, "hint": "Think about what happens when there is no competition."},
+            {"type": "true_false", "question": "During the Gilded Age, the gap between rich and poor was very small.", "answer": false, "hint": "Consider why critics called wealthy businessmen 'robber barons.'"},
+            {"type": "multiple_choice", "question": "Which of the following was NOT a major industry leader of the Gilded Age?", "options": ["Andrew Carnegie", "John D. Rockefeller", "Abraham Lincoln", "J.P. Morgan"], "correct": 2, "hint": "One of these people was a president, not an industrialist."},
+            {"type": "fill_in", "question": "John D. Rockefeller controlled about 90% of the oil refining industry through his company called ___.", "answer": "Standard Oil", "hint": "The company name suggested it set the 'standard' for the industry."},
+            {"type": "true_false", "question": "Millions of immigrants came to the United States during the Gilded Age to work in factories.", "answer": true, "hint": "Think about who provided the labor for the booming factories."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-1-3",
+          "title": "Labor Movements and Workers' Rights",
+          "type": "lesson",
+          "content": {
+            "explanation": "As industry boomed during the Gilded Age, factory workers faced harsh conditions: long hours (often 12-16 hours per day), low wages, dangerous workplaces, and no job security. Children as young as five worked in mines, mills, and factories. Workers began organizing into labor unions to fight for better conditions. The Knights of Labor, founded in 1869, was one of the first major unions and welcomed workers of all skill levels, races, and genders. The American Federation of Labor (AFL), led by Samuel Gompers, focused on skilled workers and used collective bargaining and strikes to win better wages and hours. Major strikes like the Haymarket Affair (1886), the Homestead Strike (1892), and the Pullman Strike (1894) drew national attention to workers' struggles, though they were often met with violent suppression by employers and government forces.",
+            "examples": [
+              {"problem": "What is a labor union?", "answer": "An organized group of workers who band together to negotiate for better wages, hours, and working conditions.", "explanation": "Individually, workers had little power against large companies. By organizing together, they could use collective bargaining and strikes to push for change."},
+              {"problem": "What happened at the Haymarket Affair?", "answer": "A labor rally in Chicago turned violent when a bomb was thrown, leading to deaths and a backlash against the labor movement.", "explanation": "On May 4, 1886, a bomb exploded during a peaceful rally at Haymarket Square in Chicago. Police and civilians were killed, and eight labor activists were arrested. The event damaged the reputation of labor unions for years."}
+            ],
+            "key_vocabulary": ["labor union", "strike", "collective bargaining", "child labor", "Knights of Labor", "American Federation of Labor", "Haymarket Affair", "sweatshop"],
+            "real_world": "The labor movement led to many protections we take for granted today: the 8-hour workday, minimum wage, workplace safety rules, and laws against child labor."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is collective bargaining?", "options": ["Workers competing against each other for jobs", "Workers negotiating together with employers for better conditions", "Companies forming monopolies", "Government setting wages for all workers"], "correct": 1, "hint": "Think about what 'collective' means — working together as a group."},
+            {"type": "true_false", "question": "During the Gilded Age, children were protected by strict labor laws and could not work in factories.", "answer": false, "hint": "Child labor laws came later. Think about the conditions described in this lesson."},
+            {"type": "fill_in", "question": "The ___ was led by Samuel Gompers and focused on organizing skilled workers.", "answer": "American Federation of Labor", "hint": "Its abbreviation is AFL."},
+            {"type": "multiple_choice", "question": "Which of these was a major labor strike of the 1890s?", "options": ["Boston Tea Party", "Pullman Strike", "March on Washington", "Stonewall Riots"], "correct": 1, "hint": "It involved railroad workers and the Pullman Palace Car Company."},
+            {"type": "multiple_choice", "question": "How many hours per day did many factory workers work during the Gilded Age?", "options": ["6-8 hours", "8-10 hours", "12-16 hours", "4-6 hours"], "correct": 2, "hint": "Working conditions were extremely harsh compared to today."},
+            {"type": "true_false", "question": "The Knights of Labor only accepted white male workers.", "answer": false, "hint": "This union was notable for being more inclusive than many organizations of its time."},
+            {"type": "fill_in", "question": "The ___ Affair of 1886 was a labor rally in Chicago that turned violent when a bomb was thrown.", "answer": "Haymarket", "hint": "It took place at a public square in Chicago."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-1-4",
+          "title": "The Progressive Era",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Progressive Era (roughly 1890-1920) was a period of widespread social and political reform in the United States. Progressives sought to address the problems created by industrialization, urbanization, and political corruption. Muckrakers — investigative journalists — exposed corruption and poor conditions: Upton Sinclair's 'The Jungle' revealed the horrifying conditions in meatpacking plants, leading to the Pure Food and Drug Act. Ida Tarbell exposed Standard Oil's monopolistic practices, and Jacob Riis documented the terrible living conditions of the urban poor. President Theodore Roosevelt became a leading progressive, breaking up trusts, protecting consumers, and conserving natural resources. The era also saw important constitutional amendments: the 16th (income tax), 17th (direct election of senators), 18th (Prohibition), and 19th (women's suffrage).",
+            "examples": [
+              {"problem": "What were muckrakers?", "answer": "Investigative journalists who exposed corruption and social problems", "explanation": "The term was coined by Theodore Roosevelt, comparing them to a character who raked muck (filth). Despite the negative-sounding name, muckrakers played a vital role in bringing about reform."},
+              {"problem": "How did 'The Jungle' by Upton Sinclair lead to change?", "answer": "It exposed unsanitary conditions in meatpacking plants, leading Congress to pass the Pure Food and Drug Act and the Meat Inspection Act.", "explanation": "Sinclair intended to highlight the suffering of workers, but the public was most shocked by descriptions of contaminated food, leading to food safety laws."}
+            ],
+            "key_vocabulary": ["Progressive Era", "muckraker", "trust-busting", "suffrage", "Prohibition", "conservation", "initiative", "referendum", "recall"],
+            "real_world": "Many institutions and laws from the Progressive Era still shape American life, including the FDA (food safety), the National Park Service (conservation), and the direct election of senators."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was a 'muckraker'?", "options": ["A factory worker", "An investigative journalist who exposed social problems", "A political leader", "A labor union organizer"], "correct": 1, "hint": "Think about who used writing and research to bring problems to public attention."},
+            {"type": "fill_in", "question": "Upton Sinclair's novel '___ ___' exposed terrible conditions in the meatpacking industry.", "answer": "The Jungle", "hint": "The title suggests a wild, dangerous place."},
+            {"type": "multiple_choice", "question": "Which president was known as a 'trust-buster' during the Progressive Era?", "options": ["William McKinley", "Theodore Roosevelt", "Woodrow Wilson", "Warren Harding"], "correct": 1, "hint": "This president was also famous for his 'Rough Riders' and love of the outdoors."},
+            {"type": "true_false", "question": "The 19th Amendment gave women the right to vote.", "answer": true, "hint": "Suffrage means the right to vote. Think about which group was fighting for suffrage during this era."},
+            {"type": "multiple_choice", "question": "What did the 18th Amendment establish?", "options": ["Income tax", "Women's suffrage", "Prohibition of alcohol", "Direct election of senators"], "correct": 2, "hint": "This amendment banned something and was later repealed by the 21st Amendment."},
+            {"type": "fill_in", "question": "___ Tarbell was a muckraker who exposed the unfair practices of Standard Oil.", "answer": "Ida", "hint": "She was one of the most famous female journalists of the Progressive Era."},
+            {"type": "true_false", "question": "The Progressive Era resulted in no significant changes to the U.S. Constitution.", "answer": false, "hint": "Think about the four constitutional amendments passed during this period."},
+            {"type": "multiple_choice", "question": "Which of the following was NOT a Progressive Era reform?", "options": ["Food safety laws", "Child labor restrictions", "The abolition of slavery", "Conservation of natural resources"], "correct": 2, "hint": "Slavery was abolished before the Progressive Era, during a different period."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-1-5",
+          "title": "Women's Suffrage Movement",
+          "type": "lesson",
+          "content": {
+            "explanation": "The fight for women's right to vote — known as the suffrage movement — spanned decades of activism and sacrifice. The movement formally began at the Seneca Falls Convention in 1848, organized by Elizabeth Cady Stanton and Lucretia Mott, where the Declaration of Sentiments proclaimed that 'all men and women are created equal.' After the Civil War, leaders like Susan B. Anthony and Stanton founded the National Woman Suffrage Association. The movement used multiple strategies: petitions, marches, speeches, and civil disobedience. Some states, especially in the West, granted women voting rights before the national amendment. Wyoming became the first territory to grant women suffrage in 1869. By the early 1900s, activists like Alice Paul organized massive parades and pickets at the White House. After decades of persistent effort, the 19th Amendment was ratified on August 18, 1920, granting women the right to vote nationwide.",
+            "examples": [
+              {"problem": "What was the Seneca Falls Convention?", "answer": "The first women's rights convention in the U.S., held in 1848 in Seneca Falls, New York.", "explanation": "About 300 people attended, and the convention produced the Declaration of Sentiments, modeled after the Declaration of Independence, demanding equal rights for women."},
+              {"problem": "Why was Wyoming significant in the suffrage movement?", "answer": "Wyoming was the first territory to grant women the right to vote in 1869.", "explanation": "Western states and territories were generally more progressive on women's suffrage, partly because they wanted to attract more settlers."}
+            ],
+            "key_vocabulary": ["suffrage", "Seneca Falls Convention", "Declaration of Sentiments", "19th Amendment", "National Woman Suffrage Association", "picket", "ratification"],
+            "real_world": "The suffrage movement paved the way for women's participation in all levels of government. Today women serve as senators, representatives, governors, Supreme Court justices, and vice president."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where was the first major women's rights convention held in 1848?", "options": ["Philadelphia, Pennsylvania", "Washington, D.C.", "Seneca Falls, New York", "Boston, Massachusetts"], "correct": 2, "hint": "The convention is named after the town where it was held."},
+            {"type": "fill_in", "question": "The ___ Amendment, ratified in 1920, granted women the right to vote.", "answer": "19th", "hint": "This was one of the Progressive Era amendments to the Constitution."},
+            {"type": "true_false", "question": "Susan B. Anthony lived to see the 19th Amendment ratified.", "answer": false, "hint": "Anthony died in 1906, and the amendment was ratified in 1920."},
+            {"type": "multiple_choice", "question": "Which document, modeled after the Declaration of Independence, demanded equal rights for women?", "options": ["The Bill of Rights", "The Emancipation Proclamation", "The Declaration of Sentiments", "The Gettysburg Address"], "correct": 2, "hint": "It was written at the Seneca Falls Convention."},
+            {"type": "multiple_choice", "question": "Which territory was the first to grant women the right to vote?", "options": ["California", "New York", "Wyoming", "Massachusetts"], "correct": 2, "hint": "This Western territory granted women suffrage in 1869."},
+            {"type": "true_false", "question": "All states granted women the right to vote at the same time when the 19th Amendment was ratified.", "answer": false, "hint": "Some states, especially in the West, granted women voting rights before the national amendment."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which amendment abolished slavery?", "options": ["13th", "14th", "15th", "19th"], "correct": 0},
+          {"type": "true_false", "question": "The Gilded Age was a period of great equality between the rich and poor.", "answer": false},
+          {"type": "multiple_choice", "question": "Who led the American Federation of Labor?", "options": ["Andrew Carnegie", "Samuel Gompers", "Theodore Roosevelt", "Upton Sinclair"], "correct": 1},
+          {"type": "multiple_choice", "question": "What did muckrakers do?", "options": ["Built factories", "Exposed corruption and social problems through journalism", "Led labor strikes", "Served in Congress"], "correct": 1},
+          {"type": "true_false", "question": "The 19th Amendment gave women the right to vote.", "answer": true},
+          {"type": "multiple_choice", "question": "Reconstruction ended with the Compromise of what year?", "options": ["1865", "1870", "1877", "1890"], "correct": 2},
+          {"type": "multiple_choice", "question": "John D. Rockefeller made his fortune in which industry?", "options": ["Steel", "Oil", "Banking", "Railroads"], "correct": 1},
+          {"type": "true_false", "question": "Theodore Roosevelt was known as a 'trust-buster.'", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "reconstruction_to_progressive_scholar"
+      }
+    },
+    {
+      "id": "7-ss-2",
+      "title": "World War I",
+      "description": "Understand the causes, major events, and consequences of World War I, including America's role in the conflict and the lasting impact on the world order.",
+      "lessons": [
+        {
+          "id": "7-ss-2-1",
+          "title": "Causes of World War I",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War I (1914-1918) was triggered by a combination of long-building tensions in Europe. Historians use the acronym MAIN to describe the four major causes: Militarism (nations building up powerful armies and navies), Alliances (complex agreements that meant one conflict could drag in many nations), Imperialism (European nations competing for colonies and resources worldwide), and Nationalism (intense pride in one's nation or ethnic group, sometimes at the expense of others). Europe was divided into two major alliance systems: the Triple Alliance (Germany, Austria-Hungary, Italy) and the Triple Entente (France, Russia, Britain). The spark that ignited the war was the assassination of Archduke Franz Ferdinand of Austria-Hungary by a Serbian nationalist named Gavrilo Princip on June 28, 1914. Because of the alliance system, what began as a conflict between Austria-Hungary and Serbia quickly escalated into a continental and then global war.",
+            "examples": [
+              {"problem": "What does the acronym MAIN stand for in the context of WWI causes?", "answer": "Militarism, Alliances, Imperialism, Nationalism", "explanation": "These four factors created a tense, unstable situation in Europe where any small incident could trigger a massive war."},
+              {"problem": "How did the alliance system contribute to the war?", "answer": "When one country was attacked, its allies were obligated to join the fight, turning a small conflict into a world war.", "explanation": "Austria-Hungary declared war on Serbia, Russia mobilized to defend Serbia, Germany supported Austria-Hungary, and France and Britain entered to support Russia — all because of alliance obligations."}
+            ],
+            "key_vocabulary": ["militarism", "alliance", "imperialism", "nationalism", "Triple Alliance", "Triple Entente", "Archduke Franz Ferdinand", "assassination"],
+            "real_world": "The alliance systems of WWI are a reminder of how international agreements and treaties can have unintended consequences, similar to how NATO and other modern alliances work today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does the 'M' in MAIN stand for?", "options": ["Monarchy", "Militarism", "Migration", "Mercantilism"], "correct": 1, "hint": "It refers to nations building up powerful armies and navies."},
+            {"type": "fill_in", "question": "Archduke ___ ___ of Austria-Hungary was assassinated in 1914, sparking WWI.", "answer": "Franz Ferdinand", "hint": "He was the heir to the Austro-Hungarian throne."},
+            {"type": "multiple_choice", "question": "Which of these was NOT part of the Triple Entente?", "options": ["France", "Russia", "Britain", "Germany"], "correct": 3, "hint": "Germany was part of the opposing alliance."},
+            {"type": "true_false", "question": "The assassination of Archduke Franz Ferdinand was the only cause of World War I.", "answer": false, "hint": "The assassination was the immediate trigger, but there were deeper long-term causes."},
+            {"type": "multiple_choice", "question": "Who assassinated Archduke Franz Ferdinand?", "options": ["A German spy", "A Russian soldier", "A Serbian nationalist named Gavrilo Princip", "An Italian diplomat"], "correct": 2, "hint": "He was motivated by nationalism."},
+            {"type": "true_false", "question": "Imperialism meant that European nations were competing for colonies around the world.", "answer": true, "hint": "This competition for territories and resources was one of the MAIN causes."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-2-2",
+          "title": "The War in Europe: Trench Warfare",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War I introduced a devastating new style of combat: trench warfare. On the Western Front, stretching from Belgium to Switzerland, opposing armies dug elaborate networks of trenches facing each other, separated by a deadly area called 'no man's land.' Soldiers lived in muddy, rat-infested trenches for weeks at a time, enduring constant shelling, disease, and the threat of poison gas attacks. New technologies made WWI uniquely deadly: machine guns could mow down advancing soldiers, artillery shells caused massive casualties, poison gas (chlorine, mustard gas) caused horrific injuries, and barbed wire made advancing nearly impossible. Tanks and airplanes were introduced during the war but were still in early stages. The Battle of the Somme (1916) exemplified the horror of trench warfare: on the first day alone, the British suffered nearly 60,000 casualties, and the battle lasted over four months with minimal territorial gains.",
+            "examples": [
+              {"problem": "What was 'no man's land'?", "answer": "The dangerous area between opposing trenches", "explanation": "This area was covered with barbed wire, shell craters, and was swept by machine gun fire, making it extremely dangerous for soldiers trying to advance."},
+              {"problem": "Why did trench warfare lead to a stalemate?", "answer": "New defensive weapons like machine guns and barbed wire made it nearly impossible for either side to advance.", "explanation": "Attackers had to cross open ground under machine gun fire, while defenders were protected in trenches. This meant neither side could gain significant territory."}
+            ],
+            "key_vocabulary": ["trench warfare", "no man's land", "Western Front", "stalemate", "artillery", "machine gun", "poison gas", "Battle of the Somme"],
+            "real_world": "Trench warfare showed how technology can make wars far more destructive than anyone anticipated. Today, international agreements like the Geneva Protocol ban the use of chemical weapons in warfare."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was the area between opposing trenches called?", "options": ["The front line", "No man's land", "The demilitarized zone", "The buffer zone"], "correct": 1, "hint": "It was called this because it was too dangerous for anyone to occupy."},
+            {"type": "true_false", "question": "Trench warfare allowed armies to make rapid advances across enemy territory.", "answer": false, "hint": "Think about why the war became a stalemate."},
+            {"type": "fill_in", "question": "The Battle of the ___ in 1916 saw nearly 60,000 British casualties on its first day.", "answer": "Somme", "hint": "This battle is named after a river in France."},
+            {"type": "multiple_choice", "question": "Which of these was a new weapon introduced in WWI?", "options": ["Nuclear bombs", "Poison gas", "Cruise missiles", "Drones"], "correct": 1, "hint": "Types included chlorine and mustard gas."},
+            {"type": "multiple_choice", "question": "Where was the Western Front located?", "options": ["From Russia to Turkey", "From Belgium to Switzerland", "From Spain to Italy", "From Britain to Norway"], "correct": 1, "hint": "It stretched across parts of France and Belgium."},
+            {"type": "true_false", "question": "Machine guns made it easier for attacking soldiers to advance across open ground.", "answer": false, "hint": "Machine guns were defensive weapons that could fire hundreds of rounds per minute."},
+            {"type": "fill_in", "question": "___ warfare was the defining military strategy of World War I's Western Front.", "answer": "Trench", "hint": "Soldiers dug long, narrow ditches to fight from."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-2-3",
+          "title": "America Enters the War",
+          "type": "lesson",
+          "content": {
+            "explanation": "When World War I began in 1914, the United States remained neutral under President Woodrow Wilson, who won re-election in 1916 partly on the slogan 'He kept us out of war.' However, several events pushed America toward joining the conflict. Germany's policy of unrestricted submarine warfare threatened American shipping and lives — most notably the sinking of the British passenger liner Lusitania in 1915, which killed 1,198 people including 128 Americans. In January 1917, British intelligence intercepted the Zimmermann Telegram, a secret message from Germany to Mexico proposing a military alliance against the United States. These events, combined with strong economic ties to Britain and France, led Congress to declare war on Germany on April 6, 1917. American troops, called the American Expeditionary Forces (AEF) under General John J. Pershing, began arriving in France in mid-1917 and played a crucial role in turning the tide of the war.",
+            "examples": [
+              {"problem": "What was the Zimmermann Telegram?", "answer": "A secret German message to Mexico proposing a military alliance against the United States", "explanation": "Germany promised to help Mexico recover territory it had lost to the U.S. (Texas, New Mexico, Arizona) if Mexico would ally with Germany. When this was made public, it outraged Americans and helped push the U.S. into the war."},
+              {"problem": "Why was the sinking of the Lusitania significant?", "answer": "It killed 128 Americans and turned public opinion against Germany.", "explanation": "Although the U.S. didn't enter the war immediately, the Lusitania's sinking in 1915 showed Americans that the war could affect them directly and made many people angry at Germany."}
+            ],
+            "key_vocabulary": ["neutrality", "unrestricted submarine warfare", "Lusitania", "Zimmermann Telegram", "American Expeditionary Forces", "General Pershing", "U-boat"],
+            "real_world": "America's entry into WWI marked a turning point in U.S. foreign policy, moving from isolationism toward a greater role in world affairs — a debate that continues whenever the U.S. considers military involvement abroad."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was President Wilson's initial position on WWI?", "options": ["He wanted to join immediately", "He wanted to remain neutral", "He supported Germany", "He wanted to invade Mexico"], "correct": 1, "hint": "His 1916 campaign slogan was 'He kept us out of war.'"},
+            {"type": "fill_in", "question": "The ___ Telegram was a secret message from Germany to Mexico proposing an alliance against the U.S.", "answer": "Zimmermann", "hint": "It was named after the German Foreign Secretary who sent it."},
+            {"type": "true_false", "question": "The Lusitania was an American military ship.", "answer": false, "hint": "It was a British passenger liner."},
+            {"type": "multiple_choice", "question": "When did the United States declare war on Germany?", "options": ["1914", "1915", "1917", "1918"], "correct": 2, "hint": "The U.S. stayed neutral for the first few years of the war."},
+            {"type": "multiple_choice", "question": "Who led the American Expeditionary Forces in Europe?", "options": ["Woodrow Wilson", "Theodore Roosevelt", "John J. Pershing", "Ulysses S. Grant"], "correct": 2, "hint": "He was a U.S. Army general, not a president."},
+            {"type": "fill_in", "question": "Germany's ___ submarine warfare policy meant attacking all ships, including neutral and passenger vessels.", "answer": "unrestricted", "hint": "This policy meant there were no limits on which ships could be targeted."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-2-4",
+          "title": "The End of WWI and the Treaty of Versailles",
+          "type": "lesson",
+          "content": {
+            "explanation": "The arrival of fresh American troops helped turn the tide against Germany and its allies. By the fall of 1918, Germany was exhausted — its economy was collapsing, its people were starving due to a British naval blockade, and revolution was breaking out at home. On November 11, 1918, at 11:00 AM, an armistice (ceasefire agreement) took effect, ending the fighting. The war had killed approximately 17 million people and wounded 20 million more. President Wilson proposed his Fourteen Points as a framework for peace, emphasizing self-determination for nations, free trade, open diplomacy, and the creation of a League of Nations to prevent future wars. However, the Treaty of Versailles (1919) was much harsher than Wilson had hoped. It forced Germany to accept sole blame for the war (the 'war guilt clause'), pay enormous reparations, give up territory, and drastically reduce its military. Many historians believe the harsh terms of the treaty contributed to the economic hardship and resentment that eventually led to World War II.",
+            "examples": [
+              {"problem": "When did World War I end?", "answer": "November 11, 1918", "explanation": "The armistice took effect at 11:00 AM on the 11th day of the 11th month — today commemorated as Veterans Day in the United States."},
+              {"problem": "What was the League of Nations?", "answer": "An international organization proposed by Wilson to prevent future wars through diplomacy.", "explanation": "Ironically, although Wilson championed the League of Nations, the U.S. Senate refused to ratify the Treaty of Versailles, and America never joined the League."}
+            ],
+            "key_vocabulary": ["armistice", "Fourteen Points", "Treaty of Versailles", "League of Nations", "reparations", "war guilt clause", "self-determination", "Veterans Day"],
+            "real_world": "November 11 is still observed as Veterans Day (or Remembrance Day in other countries). The League of Nations was the predecessor to today's United Nations."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "On what date did the armistice ending WWI take effect?", "options": ["July 4, 1918", "November 11, 1918", "January 1, 1919", "June 28, 1919"], "correct": 1, "hint": "This date is now commemorated as Veterans Day."},
+            {"type": "fill_in", "question": "President Wilson's peace plan was called the ___ Points.", "answer": "Fourteen", "hint": "It was a specific number of proposals for a just and lasting peace."},
+            {"type": "true_false", "question": "The United States joined the League of Nations.", "answer": false, "hint": "The U.S. Senate refused to ratify the Treaty of Versailles."},
+            {"type": "multiple_choice", "question": "What did the 'war guilt clause' in the Treaty of Versailles do?", "options": ["Blamed all countries equally for the war", "Forced Germany to accept sole blame for starting the war", "Forgave Germany for its role in the war", "Punished France for starting the war"], "correct": 1, "hint": "This clause was deeply resented by Germany."},
+            {"type": "multiple_choice", "question": "Approximately how many people were killed in World War I?", "options": ["1 million", "5 million", "17 million", "50 million"], "correct": 2, "hint": "It was one of the deadliest conflicts in history up to that point."},
+            {"type": "true_false", "question": "Many historians believe the Treaty of Versailles contributed to the conditions that led to World War II.", "answer": true, "hint": "The harsh terms caused economic hardship and resentment in Germany."},
+            {"type": "fill_in", "question": "The Treaty of ___ officially ended World War I in 1919.", "answer": "Versailles", "hint": "It was signed at a famous palace near Paris, France."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What does the acronym MAIN stand for regarding the causes of WWI?", "options": ["Money, Arms, Intelligence, Navy", "Militarism, Alliances, Imperialism, Nationalism", "Monarchy, Agriculture, Industry, Navigation", "Maps, Armies, Islands, Nations"], "correct": 1},
+          {"type": "true_false", "question": "The assassination of Archduke Franz Ferdinand directly triggered World War I.", "answer": true},
+          {"type": "multiple_choice", "question": "What was the Zimmermann Telegram?", "options": ["A peace proposal from Germany", "A secret German message to Mexico proposing an alliance against the U.S.", "A British declaration of war", "An American spy message"], "correct": 1},
+          {"type": "multiple_choice", "question": "What type of warfare defined the Western Front?", "options": ["Naval warfare", "Guerrilla warfare", "Trench warfare", "Nuclear warfare"], "correct": 2},
+          {"type": "true_false", "question": "The United States entered World War I in 1914.", "answer": false},
+          {"type": "multiple_choice", "question": "What international organization did Wilson propose to prevent future wars?", "options": ["United Nations", "NATO", "League of Nations", "World Trade Organization"], "correct": 2},
+          {"type": "multiple_choice", "question": "What did the Treaty of Versailles require Germany to do?", "options": ["Join the League of Nations", "Accept war guilt, pay reparations, and reduce its military", "Divide into smaller nations", "Become a democracy immediately"], "correct": 1},
+          {"type": "true_false", "question": "World War I ended on November 11, 1918.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_war_one_historian"
+      }
+    },
+    {
+      "id": "7-ss-3",
+      "title": "The Roaring Twenties and the Great Depression",
+      "description": "Discover the cultural boom and economic prosperity of the 1920s, and understand how the stock market crash of 1929 led to the Great Depression and the New Deal.",
+      "lessons": [
+        {
+          "id": "7-ss-3-1",
+          "title": "The Roaring Twenties: Culture and Change",
+          "type": "lesson",
+          "content": {
+            "explanation": "The 1920s, often called the 'Roaring Twenties,' was a decade of dramatic social and cultural change in America. After the hardships of World War I, Americans embraced new forms of entertainment, technology, and freedom. Jazz music, born from African American communities in New Orleans, became wildly popular, giving the era its other nickname: the Jazz Age. The Harlem Renaissance was a flourishing of African American art, literature, and music centered in Harlem, New York, featuring figures like Langston Hughes, Zora Neale Hurston, and Duke Ellington. New technologies transformed daily life: radios brought entertainment and news into homes, automobiles (especially Henry Ford's affordable Model T) gave people new freedom to travel, and movies became a major form of entertainment. Women called 'flappers' challenged traditional norms with shorter hair, shorter skirts, and more independent lifestyles.",
+            "examples": [
+              {"problem": "What was the Harlem Renaissance?", "answer": "A flourishing of African American culture, art, literature, and music centered in Harlem, New York during the 1920s.", "explanation": "It celebrated African American identity and creativity, producing influential works that continue to be studied and admired today."},
+              {"problem": "How did the automobile change American life?", "answer": "It gave people the freedom to travel farther, led to the growth of suburbs and highway systems, and created new industries.", "explanation": "Henry Ford's assembly line made cars affordable for ordinary Americans, and by 1929, there was nearly one car for every five Americans."}
+            ],
+            "key_vocabulary": ["Roaring Twenties", "Jazz Age", "Harlem Renaissance", "flapper", "Prohibition", "Model T", "assembly line", "consumer culture"],
+            "real_world": "The cultural innovations of the 1920s — jazz, modern literature, film — continue to influence American culture. The Harlem Renaissance laid groundwork for the Civil Rights movement."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What music genre gave the 1920s the nickname 'the Jazz Age'?", "options": ["Rock and roll", "Jazz", "Country", "Classical"], "correct": 1, "hint": "This genre originated in African American communities in New Orleans."},
+            {"type": "fill_in", "question": "The ___ Renaissance was a celebration of African American art, literature, and music in New York City.", "answer": "Harlem", "hint": "It was named after a neighborhood in upper Manhattan."},
+            {"type": "true_false", "question": "Henry Ford's Model T was too expensive for most Americans to afford.", "answer": false, "hint": "Ford's assembly line innovations made cars affordable for ordinary people."},
+            {"type": "multiple_choice", "question": "What were 'flappers'?", "options": ["A type of car", "Young women who challenged traditional social norms", "Jazz musicians", "Silent film actors"], "correct": 1, "hint": "They were known for shorter hair, shorter skirts, and more independent lifestyles."},
+            {"type": "multiple_choice", "question": "Which of these was a famous figure of the Harlem Renaissance?", "options": ["Thomas Edison", "Langston Hughes", "Henry Ford", "Charles Lindbergh"], "correct": 1, "hint": "He was a famous African American poet and writer."},
+            {"type": "true_false", "question": "Radio was a major new technology that brought entertainment into American homes in the 1920s.", "answer": true, "hint": "Think about what new technologies were transforming daily life during this period."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-3-2",
+          "title": "Prohibition and Social Tensions",
+          "type": "lesson",
+          "content": {
+            "explanation": "The 18th Amendment, ratified in 1919, banned the manufacture, sale, and transportation of alcoholic beverages in the United States — a period known as Prohibition. Supporters believed that banning alcohol would reduce crime, poverty, and social problems. However, Prohibition had many unintended consequences. Illegal bars called 'speakeasies' sprang up across the country, and organized crime figures like Al Capone built criminal empires by smuggling and selling illegal alcohol (bootlegging). The government struggled to enforce the ban, and many Americans openly defied it. Prohibition was finally repealed by the 21st Amendment in 1933. The 1920s also saw significant social tensions: the Ku Klux Klan experienced a resurgence, targeting not only African Americans but also immigrants, Catholics, and Jewish people. Nativism — hostility toward immigrants — led to restrictive immigration laws like the Immigration Act of 1924, which severely limited immigration from Southern and Eastern Europe and banned immigration from Asia.",
+            "examples": [
+              {"problem": "What were speakeasies?", "answer": "Illegal bars that operated secretly during Prohibition", "explanation": "They were called 'speakeasies' because patrons had to speak quietly or use passwords to avoid detection by police."},
+              {"problem": "Why did Prohibition fail?", "answer": "It was nearly impossible to enforce, led to increased organized crime, and many Americans simply refused to stop drinking.", "explanation": "Instead of reducing crime, Prohibition created a massive black market that funded criminal organizations."}
+            ],
+            "key_vocabulary": ["Prohibition", "18th Amendment", "21st Amendment", "speakeasy", "bootlegging", "organized crime", "nativism", "Immigration Act of 1924"],
+            "real_world": "Prohibition is often cited as an example of how banning something can create unintended consequences, a lesson applied to modern debates about drug policy and regulation."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which amendment established Prohibition?", "options": ["16th", "17th", "18th", "19th"], "correct": 2, "hint": "It was ratified in 1919, just before the start of the Roaring Twenties."},
+            {"type": "fill_in", "question": "Illegal bars during Prohibition were called ___.", "answer": "speakeasies", "hint": "The name suggests people had to speak quietly to avoid being caught."},
+            {"type": "true_false", "question": "Prohibition successfully eliminated alcohol consumption and crime in the United States.", "answer": false, "hint": "Think about the rise of organized crime and bootlegging."},
+            {"type": "multiple_choice", "question": "Which famous gangster built a criminal empire during Prohibition?", "options": ["Jesse James", "Al Capone", "Bonnie Parker", "John Dillinger"], "correct": 1, "hint": "He was based in Chicago and made millions from illegal alcohol."},
+            {"type": "multiple_choice", "question": "Which amendment repealed Prohibition?", "options": ["19th", "20th", "21st", "22nd"], "correct": 2, "hint": "It was ratified in 1933, ending the nationwide ban on alcohol."},
+            {"type": "true_false", "question": "The Immigration Act of 1924 welcomed immigrants from all countries equally.", "answer": false, "hint": "The act severely restricted immigration from certain regions."},
+            {"type": "fill_in", "question": "___ is the term for hostility toward immigrants and foreign influence.", "answer": "Nativism", "hint": "It comes from the idea of favoring 'native-born' Americans over newcomers."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-3-3",
+          "title": "The Stock Market Crash of 1929",
+          "type": "lesson",
+          "content": {
+            "explanation": "Throughout the 1920s, the American economy seemed to be booming. The stock market rose steadily, and many people invested their savings — or borrowed money (buying 'on margin') — to buy stocks, expecting prices to keep rising. However, this prosperity was built on an unstable foundation. Farmers were struggling with low crop prices, wealth was concentrated among the very rich, and much of the economic growth was fueled by speculation and credit. On October 24, 1929, known as 'Black Thursday,' stock prices began to plummet. The crash continued on October 29, 'Black Tuesday,' when the market lost billions of dollars in value in a single day. Banks that had invested in the stock market failed, wiping out people's life savings. The crash didn't directly cause the Great Depression, but it triggered a chain reaction of bank failures, business closures, and unemployment that plunged the nation into the worst economic crisis in its history.",
+            "examples": [
+              {"problem": "What does 'buying on margin' mean?", "answer": "Borrowing money to buy stocks, hoping to repay the loan when stock prices rose.", "explanation": "This was risky because if stock prices fell, investors still owed the borrowed money but their stocks were now worth less than what they paid."},
+              {"problem": "What was 'Black Tuesday'?", "answer": "October 29, 1929, when the stock market crashed dramatically.", "explanation": "On this single day, the market lost about $14 billion in value (equivalent to hundreds of billions today), devastating investors and shaking confidence in the economy."}
+            ],
+            "key_vocabulary": ["stock market", "speculation", "buying on margin", "Black Thursday", "Black Tuesday", "crash", "bank failure", "overproduction"],
+            "real_world": "The stock market crash of 1929 led to important financial regulations, including the creation of the Securities and Exchange Commission (SEC) to prevent the risky practices that contributed to the crash."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What day is known as 'Black Tuesday'?", "options": ["October 24, 1929", "October 29, 1929", "November 11, 1929", "January 1, 1930"], "correct": 1, "hint": "It was a specific date in late October 1929."},
+            {"type": "true_false", "question": "Buying stocks 'on margin' means paying the full price upfront with your own money.", "answer": false, "hint": "Think about what 'margin' means in terms of borrowing."},
+            {"type": "fill_in", "question": "The stock market crash of 1929 helped trigger the ___.", "answer": "Great Depression", "hint": "This was the worst economic downturn in American history."},
+            {"type": "multiple_choice", "question": "Which of these was NOT a cause of the economic instability of the 1920s?", "options": ["Speculation in the stock market", "Buying on margin", "Low unemployment", "Overproduction of goods"], "correct": 2, "hint": "Low unemployment would actually be a sign of economic health."},
+            {"type": "true_false", "question": "The stock market crash directly and immediately caused the Great Depression all by itself.", "answer": false, "hint": "The crash triggered a chain reaction, but many other factors contributed to the Depression."},
+            {"type": "multiple_choice", "question": "What happened to many banks after the stock market crash?", "options": ["They became more profitable", "They failed, wiping out people's savings", "They were taken over by the government immediately", "They moved to Europe"], "correct": 1, "hint": "Banks had invested depositors' money in the stock market."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-3-4",
+          "title": "The Great Depression",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Great Depression (1929-1939) was the worst economic downturn in American history. At its lowest point in 1933, about 25% of American workers were unemployed — one out of every four people who wanted to work could not find a job. Families lost their homes and savings. 'Hoovervilles' — shantytowns named mockingly after President Herbert Hoover — sprang up across the country as homeless people built shelters from scrap materials. Farmers were hit especially hard: a devastating drought combined with poor farming practices created the 'Dust Bowl' in the Great Plains, turning farmland into desert and forcing hundreds of thousands of families to migrate west. Breadlines and soup kitchens provided meals for the hungry. The Depression affected people of all races and classes, though minorities and the poor suffered the most. President Hoover believed the economy would recover on its own and was reluctant to provide direct government aid, which made him deeply unpopular.",
+            "examples": [
+              {"problem": "What were Hoovervilles?", "answer": "Shantytowns built by homeless people during the Great Depression, sarcastically named after President Hoover.", "explanation": "People blamed President Hoover for failing to address the economic crisis, so they named their makeshift shelters after him as a form of protest."},
+              {"problem": "What was the Dust Bowl?", "answer": "A severe drought and dust storms in the Great Plains during the 1930s that destroyed farmland and displaced hundreds of thousands of people.", "explanation": "Years of over-farming had stripped the topsoil, and when drought hit, massive dust storms turned the land into desert. Families known as 'Okies' migrated to California seeking work."}
+            ],
+            "key_vocabulary": ["Great Depression", "unemployment", "Hooverville", "Dust Bowl", "breadline", "soup kitchen", "migration", "shantytown"],
+            "real_world": "The Great Depression led to major changes in how the government manages the economy and helps citizens during hard times, including Social Security, unemployment insurance, and bank deposit insurance (FDIC)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "At its worst, approximately what percentage of Americans were unemployed during the Great Depression?", "options": ["5%", "10%", "25%", "50%"], "correct": 2, "hint": "It was about one in four workers."},
+            {"type": "fill_in", "question": "Shantytowns built by homeless people during the Depression were sarcastically called ___.", "answer": "Hoovervilles", "hint": "They were named after the president blamed for the crisis."},
+            {"type": "true_false", "question": "The Dust Bowl affected farmers in the Great Plains region.", "answer": true, "hint": "Think about where the major drought and dust storms occurred."},
+            {"type": "multiple_choice", "question": "What caused the Dust Bowl?", "options": ["Flooding from heavy rains", "Volcanic eruptions", "Drought combined with poor farming practices", "Industrial pollution"], "correct": 2, "hint": "Over-farming stripped the topsoil, and drought turned the land to dust."},
+            {"type": "multiple_choice", "question": "Who was president when the Great Depression began?", "options": ["Franklin D. Roosevelt", "Herbert Hoover", "Calvin Coolidge", "Woodrow Wilson"], "correct": 1, "hint": "The shantytowns were named after this president."},
+            {"type": "true_false", "question": "President Hoover immediately provided large-scale government aid to help those suffering during the Depression.", "answer": false, "hint": "Hoover was reluctant to provide direct government aid, believing the economy would correct itself."},
+            {"type": "fill_in", "question": "The ___ ___ lasted from 1929 to 1939 and was the worst economic crisis in American history.", "answer": "Great Depression", "hint": "Its name describes both its severity and its nature as an economic downturn."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-3-5",
+          "title": "FDR and the New Deal",
+          "type": "lesson",
+          "content": {
+            "explanation": "Franklin D. Roosevelt (FDR) was elected president in 1932, promising Americans a 'New Deal.' Taking office in March 1933 during the worst of the Depression, FDR immediately began an ambitious program of government action. During his first 'Hundred Days' in office, he pushed through an unprecedented number of new laws and programs. The New Deal had three goals, sometimes called the 'Three Rs': Relief (immediate help for the suffering), Recovery (getting the economy moving again), and Reform (changing the system to prevent future depressions). Key programs included the Civilian Conservation Corps (CCC), which employed young men in conservation projects; the Works Progress Administration (WPA), which created jobs building roads, bridges, schools, and public art; Social Security, which provided retirement income for the elderly; and the FDIC, which insured bank deposits. While the New Deal did not end the Depression entirely — that would require the economic mobilization of World War II — it provided vital relief, restored hope, and fundamentally changed the role of the federal government in American life.",
+            "examples": [
+              {"problem": "What were the 'Three Rs' of the New Deal?", "answer": "Relief, Recovery, and Reform", "explanation": "Relief meant immediate help (food, jobs); Recovery meant restarting the economy; Reform meant changing the financial system to prevent another depression."},
+              {"problem": "What was the CCC?", "answer": "The Civilian Conservation Corps, a New Deal program that employed young men in environmental conservation projects.", "explanation": "The CCC put about 3 million young men to work planting trees, building trails, and improving national parks. It provided jobs and income during the Depression while also benefiting the environment."}
+            ],
+            "key_vocabulary": ["New Deal", "Franklin D. Roosevelt", "Hundred Days", "CCC", "WPA", "Social Security", "FDIC", "relief", "recovery", "reform"],
+            "real_world": "Many New Deal programs still exist today. Social Security provides retirement income to millions of Americans, and the FDIC insures bank deposits up to $250,000, protecting people's savings."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What were the 'Three Rs' of the New Deal?", "options": ["Reading, Writing, Arithmetic", "Relief, Recovery, Reform", "Rebuild, Restore, Renew", "Rights, Responsibilities, Respect"], "correct": 1, "hint": "These three goals described FDR's approach to fighting the Depression."},
+            {"type": "fill_in", "question": "The ___ Conservation Corps (CCC) employed young men in environmental conservation projects.", "answer": "Civilian", "hint": "This program put about 3 million young men to work in national parks and forests."},
+            {"type": "true_false", "question": "The New Deal completely ended the Great Depression.", "answer": false, "hint": "The Depression didn't fully end until the economic mobilization for a major war."},
+            {"type": "multiple_choice", "question": "Which New Deal program provides retirement income that still exists today?", "options": ["CCC", "WPA", "Social Security", "TVA"], "correct": 2, "hint": "This program provides monthly payments to retired Americans."},
+            {"type": "multiple_choice", "question": "What does the FDIC do?", "options": ["Provides jobs for young people", "Insures bank deposits to protect people's savings", "Builds roads and bridges", "Generates electricity"], "correct": 1, "hint": "Think about what happened to people's savings when banks failed during the Depression."},
+            {"type": "true_false", "question": "FDR was elected president in 1932 during the Great Depression.", "answer": true, "hint": "He promised Americans a 'New Deal' to address the crisis."},
+            {"type": "fill_in", "question": "The Works Progress Administration (___) created millions of jobs building public infrastructure and art.", "answer": "WPA", "hint": "This abbreviation stands for Works Progress Administration."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What was the Harlem Renaissance?", "options": ["A political movement", "A flourishing of African American culture and art in the 1920s", "A new type of architecture", "A scientific discovery"], "correct": 1},
+          {"type": "true_false", "question": "Prohibition successfully reduced crime in the United States.", "answer": false},
+          {"type": "multiple_choice", "question": "What event is known as 'Black Tuesday'?", "options": ["The start of WWI", "The stock market crash on October 29, 1929", "The beginning of Prohibition", "The election of FDR"], "correct": 1},
+          {"type": "multiple_choice", "question": "What was the Dust Bowl?", "options": ["A football championship", "A drought and dust storms that devastated the Great Plains", "A type of pottery from the 1920s", "A new farming technique"], "correct": 1},
+          {"type": "true_false", "question": "FDR's New Deal programs included Social Security, which still exists today.", "answer": true},
+          {"type": "multiple_choice", "question": "At its worst, approximately what percentage of Americans were unemployed during the Great Depression?", "options": ["5%", "15%", "25%", "50%"], "correct": 2},
+          {"type": "multiple_choice", "question": "What were the 'Three Rs' of the New Deal?", "options": ["Reading, Writing, Arithmetic", "Relief, Recovery, Reform", "Rights, Rules, Regulations", "Ration, Rebuild, Restart"], "correct": 1},
+          {"type": "true_false", "question": "The New Deal completely ended the Great Depression.", "answer": false},
+          {"type": "multiple_choice", "question": "Which amendment repealed Prohibition?", "options": ["19th", "20th", "21st", "22nd"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "roaring_twenties_expert"
+      }
+    },
+    {
+      "id": "7-ss-4",
+      "title": "World War II",
+      "description": "Study the causes, major events, and global impact of World War II, including the rise of totalitarianism, the Holocaust, the home front, and the use of atomic weapons.",
+      "lessons": [
+        {
+          "id": "7-ss-4-1",
+          "title": "Rise of Totalitarianism and Causes of WWII",
+          "type": "lesson",
+          "content": {
+            "explanation": "The conditions that led to World War II were rooted in the aftermath of World War I. The harsh Treaty of Versailles left Germany humiliated and economically devastated. In this climate of resentment and hardship, Adolf Hitler and the Nazi Party rose to power in Germany, promising to restore national pride, rebuild the economy, and overturn the treaty. Hitler established a totalitarian dictatorship — a government with absolute control over every aspect of life. Meanwhile, Benito Mussolini had established a fascist dictatorship in Italy, and militarists took control of Japan, seeking to expand its empire in Asia. These three nations — Germany, Italy, and Japan — formed the Axis Powers. Hitler's aggressive expansion began with the annexation of Austria and Czechoslovakia. When Germany invaded Poland on September 1, 1939, Britain and France declared war, beginning World War II in Europe.",
+            "examples": [
+              {"problem": "What is totalitarianism?", "answer": "A form of government in which the state has absolute control over nearly every aspect of public and private life.", "explanation": "Under totalitarian regimes like Nazi Germany, the government controlled the media, education, economy, and even what people could say or believe. Opposition was crushed."},
+              {"problem": "How did the Treaty of Versailles contribute to WWII?", "answer": "Its harsh terms created economic hardship and resentment in Germany, allowing Hitler to rise to power by promising to undo the treaty.", "explanation": "Germans felt humiliated by the war guilt clause and crippled by reparations. Hitler exploited these feelings to gain support."}
+            ],
+            "key_vocabulary": ["totalitarianism", "fascism", "Nazi Party", "Adolf Hitler", "Benito Mussolini", "Axis Powers", "appeasement", "annexation", "dictatorship"],
+            "real_world": "The rise of totalitarianism in the 1930s serves as a warning about how economic hardship, national humiliation, and fear can be exploited by leaders who promise simple solutions."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which countries formed the Axis Powers?", "options": ["Britain, France, Russia", "Germany, Italy, Japan", "United States, Britain, France", "China, India, Australia"], "correct": 1, "hint": "These three countries shared aggressive expansionist goals."},
+            {"type": "fill_in", "question": "___ ___ was the leader of Nazi Germany.", "answer": "Adolf Hitler", "hint": "He became chancellor of Germany in 1933."},
+            {"type": "true_false", "question": "Germany's invasion of Poland in 1939 triggered the start of World War II in Europe.", "answer": true, "hint": "Britain and France had guaranteed Poland's independence."},
+            {"type": "multiple_choice", "question": "What is fascism?", "options": ["A democratic system of government", "A type of communism", "An authoritarian, nationalistic form of government", "A system based on free trade"], "correct": 2, "hint": "It emphasized national identity, military power, and strong authoritarian leadership."},
+            {"type": "multiple_choice", "question": "What policy did Britain and France initially follow toward Hitler's expansion?", "options": ["Immediate war", "Appeasement — giving in to demands to avoid war", "Economic sanctions", "Military alliance with Germany"], "correct": 1, "hint": "They hoped that giving Hitler what he wanted would prevent a larger war."},
+            {"type": "true_false", "question": "The harsh terms of the Treaty of Versailles had no connection to the rise of Hitler.", "answer": false, "hint": "Think about how economic hardship and national humiliation can be exploited by leaders."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-4-2",
+          "title": "America Enters World War II",
+          "type": "lesson",
+          "content": {
+            "explanation": "When war broke out in Europe in 1939, most Americans wanted to stay out of the conflict — memories of World War I were still fresh. President Franklin D. Roosevelt supported the Allies (Britain, France, and later the Soviet Union) through programs like Lend-Lease, which provided military supplies without directly entering the war. Everything changed on December 7, 1941, when Japan launched a surprise attack on the U.S. naval base at Pearl Harbor, Hawaii. The attack killed over 2,400 Americans, destroyed or damaged eight battleships and hundreds of aircraft, and shocked the nation. President Roosevelt called it 'a date which will live in infamy,' and the next day Congress declared war on Japan. Germany and Italy then declared war on the United States, bringing America fully into the global conflict. The U.S. had to fight a two-front war: against Japan in the Pacific and against Germany and Italy in Europe and North Africa.",
+            "examples": [
+              {"problem": "What was Lend-Lease?", "answer": "A program that allowed the U.S. to provide military supplies to Allied nations before officially entering the war.", "explanation": "FDR compared it to lending a garden hose to a neighbor whose house was on fire — you'd want it back, but you wouldn't haggle over the price while the fire was burning."},
+              {"problem": "Why was the attack on Pearl Harbor so significant?", "answer": "It brought the United States into World War II and united the American public behind the war effort.", "explanation": "Before Pearl Harbor, Americans were divided about entering the war. After the attack, almost the entire nation supported the war effort."}
+            ],
+            "key_vocabulary": ["Pearl Harbor", "Lend-Lease", "isolationism", "Allies", "two-front war", "infamy", "declaration of war"],
+            "real_world": "Pearl Harbor is remembered every December 7 as a reminder of the importance of military preparedness and the sacrifices of those who served."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When was the attack on Pearl Harbor?", "options": ["September 1, 1939", "June 6, 1944", "December 7, 1941", "August 6, 1945"], "correct": 2, "hint": "FDR called it 'a date which will live in infamy.'"},
+            {"type": "fill_in", "question": "Pearl Harbor is located in ___.", "answer": "Hawaii", "hint": "It was a major U.S. naval base in the Pacific Ocean."},
+            {"type": "true_false", "question": "Before Pearl Harbor, most Americans wanted to enter World War II.", "answer": false, "hint": "Most Americans preferred to stay out of European conflicts."},
+            {"type": "multiple_choice", "question": "What was the Lend-Lease program?", "options": ["A program to lend money to Germany", "A program to provide military supplies to Allied nations", "A housing program for veterans", "A program to lease farmland"], "correct": 1, "hint": "It allowed the U.S. to support the Allies without officially entering the war."},
+            {"type": "multiple_choice", "question": "After Pearl Harbor, the U.S. fought a war on how many fronts?", "options": ["One", "Two", "Three", "Four"], "correct": 1, "hint": "The U.S. fought in the Pacific against Japan and in Europe/North Africa against Germany and Italy."},
+            {"type": "true_false", "question": "Over 2,400 Americans were killed in the attack on Pearl Harbor.", "answer": true, "hint": "The attack was devastating to the U.S. Pacific Fleet."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-4-3",
+          "title": "The Holocaust",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Holocaust was the systematic, state-sponsored persecution and murder of six million Jewish people by the Nazi regime and its collaborators between 1933 and 1945. Hitler and the Nazis promoted a racist ideology that blamed Jewish people for Germany's problems and declared them an inferior race. Persecution began with boycotts of Jewish businesses, progressed to laws stripping Jews of their rights (the Nuremberg Laws of 1935), and escalated to violent attacks like Kristallnacht ('Night of Broken Glass') in 1938. After the war began, the Nazis implemented the 'Final Solution' — a plan to systematically murder all European Jews. Millions were transported to concentration camps and death camps like Auschwitz, where they were killed in gas chambers or died from starvation, disease, and forced labor. In addition to six million Jews, the Nazis also murdered millions of others, including Roma people, disabled individuals, political opponents, and LGBTQ+ individuals. The Holocaust remains one of the most horrific events in human history.",
+            "examples": [
+              {"problem": "What were the Nuremberg Laws?", "answer": "Laws passed in 1935 that stripped Jewish people of their German citizenship and basic rights.", "explanation": "These laws defined who was considered Jewish, banned marriages between Jews and non-Jews, and progressively excluded Jews from all areas of public life."},
+              {"problem": "What was the 'Final Solution'?", "answer": "The Nazi plan to systematically murder all European Jews.", "explanation": "Decided upon at the Wannsee Conference in 1942, the Final Solution led to the creation of death camps designed specifically for mass murder."}
+            ],
+            "key_vocabulary": ["Holocaust", "genocide", "concentration camp", "Nuremberg Laws", "Kristallnacht", "Final Solution", "Auschwitz", "anti-Semitism"],
+            "real_world": "The Holocaust led to the creation of the United Nations, the Universal Declaration of Human Rights, and the concept of 'crimes against humanity.' It serves as a powerful reminder of the dangers of hatred, prejudice, and indifference."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Approximately how many Jewish people were murdered during the Holocaust?", "options": ["1 million", "3 million", "6 million", "10 million"], "correct": 2, "hint": "This number represents about two-thirds of the Jewish population of Europe."},
+            {"type": "fill_in", "question": "___ was the largest Nazi death camp, located in occupied Poland.", "answer": "Auschwitz", "hint": "It is now a memorial and museum."},
+            {"type": "true_false", "question": "The Holocaust only targeted Jewish people.", "answer": false, "hint": "The Nazis also persecuted Roma people, disabled individuals, political opponents, and others."},
+            {"type": "multiple_choice", "question": "What was Kristallnacht?", "options": ["A Nazi military campaign", "A night of violent attacks on Jewish businesses and synagogues in 1938", "A peace agreement", "A type of concentration camp"], "correct": 1, "hint": "Its name means 'Night of Broken Glass.'"},
+            {"type": "multiple_choice", "question": "What were the Nuremberg Laws?", "options": ["Laws protecting Jewish rights", "International war crime laws", "Nazi laws stripping Jews of their rights and citizenship", "American immigration laws"], "correct": 2, "hint": "These laws were passed in 1935 as part of the Nazis' persecution of Jewish people."},
+            {"type": "true_false", "question": "The term 'genocide' refers to the deliberate destruction of a racial, ethnic, or religious group.", "answer": true, "hint": "The Holocaust is one of the most well-known examples of this crime."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-4-4",
+          "title": "Major Battles and the End of WWII",
+          "type": "lesson",
+          "content": {
+            "explanation": "Several key battles and events shaped the outcome of World War II. On the European front, D-Day (June 6, 1944) was the massive Allied invasion of Normandy, France — the largest amphibious military operation in history. Over 156,000 Allied troops stormed the beaches, establishing a foothold that would lead to the liberation of Western Europe. Meanwhile, the Soviet Union defeated Germany at the Battle of Stalingrad (1942-1943), a turning point on the Eastern Front where the Soviets lost over a million soldiers. Germany surrendered on May 8, 1945 (V-E Day — Victory in Europe Day). In the Pacific, the U.S. fought island-hopping campaigns at battles like Midway, Iwo Jima, and Okinawa. Facing the prospect of a costly invasion of Japan, President Harry Truman authorized the use of atomic bombs on Hiroshima (August 6, 1945) and Nagasaki (August 9, 1945). Japan surrendered on August 15, 1945 (V-J Day), ending the war. World War II was the deadliest conflict in human history, killing an estimated 70-85 million people.",
+            "examples": [
+              {"problem": "What was D-Day?", "answer": "The Allied invasion of Normandy, France on June 6, 1944 — the largest seaborne invasion in history.", "explanation": "Allied forces crossed the English Channel and stormed five beaches in Normandy, beginning the liberation of Western Europe from Nazi occupation."},
+              {"problem": "Why did President Truman decide to use atomic bombs?", "answer": "To force Japan's surrender without a costly land invasion that could have killed hundreds of thousands more soldiers and civilians.", "explanation": "This remains one of the most debated decisions in history. Supporters argue it saved lives by ending the war quickly; critics argue it was unnecessary and caused horrific civilian casualties."}
+            ],
+            "key_vocabulary": ["D-Day", "Normandy", "Battle of Stalingrad", "V-E Day", "V-J Day", "island-hopping", "atomic bomb", "Hiroshima", "Nagasaki"],
+            "real_world": "The use of atomic weapons at the end of WWII launched the nuclear age and led to decades of arms races and international efforts to prevent nuclear war, including treaties that exist today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was D-Day?", "options": ["The day Japan attacked Pearl Harbor", "The Allied invasion of Normandy on June 6, 1944", "The day Germany surrendered", "The day the atomic bomb was dropped"], "correct": 1, "hint": "It involved Allied troops storming beaches in France."},
+            {"type": "fill_in", "question": "The first atomic bomb used in warfare was dropped on ___, Japan.", "answer": "Hiroshima", "hint": "It was dropped on August 6, 1945."},
+            {"type": "true_false", "question": "V-E Day stands for 'Victory in Europe Day.'", "answer": true, "hint": "It celebrated Germany's surrender."},
+            {"type": "multiple_choice", "question": "Approximately how many people were killed in World War II?", "options": ["10 million", "30 million", "50 million", "70-85 million"], "correct": 3, "hint": "WWII was the deadliest conflict in human history."},
+            {"type": "multiple_choice", "question": "Which battle was a major turning point on the Eastern Front?", "options": ["Battle of Midway", "D-Day", "Battle of Stalingrad", "Battle of the Bulge"], "correct": 2, "hint": "This battle in the Soviet Union resulted in a devastating defeat for Germany."},
+            {"type": "fill_in", "question": "Japan surrendered on August 15, 1945, known as ___-___ Day.", "answer": "V-J", "hint": "It stands for Victory in Japan."},
+            {"type": "true_false", "question": "The decision to use atomic bombs on Japan is still debated by historians today.", "answer": true, "hint": "There are strong arguments on both sides of this historical debate."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-4-5",
+          "title": "The Home Front During WWII",
+          "type": "lesson",
+          "content": {
+            "explanation": "World War II transformed life on the American home front. With millions of men serving overseas, women stepped into factory and industrial jobs that had previously been closed to them — symbolized by the iconic figure 'Rosie the Riveter.' By 1944, nearly 20 million women were working outside the home. The government rationed essential goods like sugar, meat, gasoline, and rubber to ensure supplies for the military. Americans grew 'Victory Gardens' to supplement their food supply. War bonds were sold to fund the military effort. However, the home front also had a dark side: following Pearl Harbor, over 120,000 Japanese Americans — most of them U.S. citizens — were forcibly relocated to internment camps based solely on their ethnicity. This violated their constitutional rights and is now recognized as one of the greatest injustices in American history. African Americans served in segregated military units like the Tuskegee Airmen and Double V campaign, fighting for victory abroad and victory against racism at home.",
+            "examples": [
+              {"problem": "Who was 'Rosie the Riveter'?", "answer": "An iconic cultural figure representing the millions of women who worked in factories and industry during WWII.", "explanation": "Rosie symbolized women's contributions to the war effort. The famous poster showed a woman flexing her arm with the slogan 'We Can Do It!'"},
+              {"problem": "What was Japanese American internment?", "answer": "The forced relocation of over 120,000 Japanese Americans to internment camps during WWII.", "explanation": "Driven by wartime fear and racism, the U.S. government imprisoned Japanese Americans — two-thirds of whom were U.S. citizens — in remote camps. In 1988, the government formally apologized and provided reparations."}
+            ],
+            "key_vocabulary": ["home front", "Rosie the Riveter", "rationing", "Victory Garden", "war bonds", "Japanese American internment", "Tuskegee Airmen", "Double V campaign"],
+            "real_world": "In 1988, the U.S. government formally apologized for Japanese American internment with the Civil Liberties Act, which provided $20,000 in reparations to each surviving internee. This reminds us of the importance of protecting civil liberties even during wartime."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did 'Rosie the Riveter' symbolize?", "options": ["Women's right to vote", "Women working in factories during WWII", "The women's suffrage movement", "Female soldiers in combat"], "correct": 1, "hint": "She represented the millions of women who took on industrial jobs while men were fighting overseas."},
+            {"type": "fill_in", "question": "Over ___ Japanese Americans were forcibly relocated to internment camps during WWII.", "answer": "120,000", "hint": "The number is in the hundreds of thousands."},
+            {"type": "true_false", "question": "Most Japanese Americans who were interned during WWII were U.S. citizens.", "answer": true, "hint": "About two-thirds of those interned were American citizens."},
+            {"type": "multiple_choice", "question": "What were Victory Gardens?", "options": ["Military camps", "Gardens that Americans grew to supplement food supplies during the war", "Parks built to celebrate victory", "Flower gardens at the White House"], "correct": 1, "hint": "With food being rationed, people grew their own to help the war effort."},
+            {"type": "multiple_choice", "question": "Who were the Tuskegee Airmen?", "options": ["German pilots", "A group of African American military pilots", "Japanese American soldiers", "British bomber crews"], "correct": 1, "hint": "They were trained at Tuskegee, Alabama and served with distinction."},
+            {"type": "true_false", "question": "Rationing during WWII meant that Americans could buy unlimited supplies of sugar, meat, and gasoline.", "answer": false, "hint": "Rationing means limiting purchases to ensure supplies for the military."},
+            {"type": "fill_in", "question": "Americans purchased war ___ to help fund the military effort during WWII.", "answer": "bonds", "hint": "These were financial instruments that people bought as an investment in the war effort."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which countries formed the Axis Powers?", "options": ["Britain, France, Soviet Union", "Germany, Italy, Japan", "United States, Britain, Soviet Union", "Germany, Soviet Union, Japan"], "correct": 1},
+          {"type": "true_false", "question": "The attack on Pearl Harbor brought the United States into World War II.", "answer": true},
+          {"type": "multiple_choice", "question": "How many Jewish people were murdered in the Holocaust?", "options": ["About 1 million", "About 3 million", "About 6 million", "About 10 million"], "correct": 2},
+          {"type": "multiple_choice", "question": "What was D-Day?", "options": ["The bombing of Pearl Harbor", "The Allied invasion of Normandy", "Germany's surrender", "Japan's surrender"], "correct": 1},
+          {"type": "true_false", "question": "Japanese American internment is now recognized as a great injustice.", "answer": true},
+          {"type": "multiple_choice", "question": "What did 'Rosie the Riveter' represent?", "options": ["A female soldier", "Women working in wartime factories", "A nurse in the military", "A spy"], "correct": 1},
+          {"type": "multiple_choice", "question": "Where was the first atomic bomb dropped in warfare?", "options": ["Tokyo", "Hiroshima", "Nagasaki", "Berlin"], "correct": 1},
+          {"type": "true_false", "question": "World War II killed an estimated 70-85 million people.", "answer": true},
+          {"type": "multiple_choice", "question": "What does V-E Day celebrate?", "options": ["Victory in the East", "Victory in Europe", "Veterans in Education", "Victory over the Economy"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "world_war_two_historian"
+      }
+    },
+    {
+      "id": "7-ss-5",
+      "title": "The Cold War Era",
+      "description": "Understand the ideological rivalry between the United States and the Soviet Union, the nuclear arms race, key conflicts, and the eventual end of the Cold War.",
+      "lessons": [
+        {
+          "id": "7-ss-5-1",
+          "title": "Origins of the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "After World War II, the wartime alliance between the United States and the Soviet Union quickly dissolved into a tense rivalry known as the Cold War (roughly 1947-1991). The two superpowers represented opposing ideologies: the United States championed democracy and capitalism, while the Soviet Union promoted communism and a state-controlled economy. Former British Prime Minister Winston Churchill described the divide in a famous 1946 speech, saying an 'iron curtain' had descended across Europe, separating the democratic West from the communist East. The Truman Doctrine (1947) pledged that the U.S. would support free peoples resisting communist takeover, and the Marshall Plan provided billions of dollars in aid to rebuild Western European economies and prevent the spread of communism. The Cold War was called 'cold' because the two superpowers never fought each other directly, but they competed through proxy wars, espionage, propaganda, and an arms race.",
+            "examples": [
+              {"problem": "What was the 'iron curtain'?", "answer": "A term used by Winston Churchill to describe the ideological and physical divide between communist Eastern Europe and democratic Western Europe.", "explanation": "The 'iron curtain' wasn't a literal curtain but a metaphor for the tight control the Soviet Union exerted over Eastern European nations, cutting them off from the West."},
+              {"problem": "What was the Marshall Plan?", "answer": "A U.S. program that provided billions of dollars in aid to rebuild war-torn Western Europe.", "explanation": "Named after Secretary of State George Marshall, the plan helped rebuild European economies and prevent communism from spreading to countries weakened by war."}
+            ],
+            "key_vocabulary": ["Cold War", "communism", "capitalism", "iron curtain", "Truman Doctrine", "Marshall Plan", "superpower", "containment", "proxy war"],
+            "real_world": "The Cold War shaped the modern world order, including the creation of NATO, the United Nations Security Council structure, and ongoing tensions between democratic and authoritarian governments."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who coined the term 'iron curtain'?", "options": ["Harry Truman", "Joseph Stalin", "Winston Churchill", "Dwight Eisenhower"], "correct": 2, "hint": "He was a former British Prime Minister."},
+            {"type": "fill_in", "question": "The ___ Plan provided billions of dollars in aid to rebuild Western Europe after WWII.", "answer": "Marshall", "hint": "It was named after the U.S. Secretary of State."},
+            {"type": "true_false", "question": "The Cold War was called 'cold' because the U.S. and Soviet Union fought directly in major battles.", "answer": false, "hint": "They competed in many ways, but they never fought each other directly."},
+            {"type": "multiple_choice", "question": "What was the U.S. policy of 'containment'?", "options": ["Allowing communism to spread freely", "Preventing the spread of communism to new countries", "Invading the Soviet Union", "Trading with communist nations"], "correct": 1, "hint": "The goal was to keep communism from expanding beyond where it already existed."},
+            {"type": "multiple_choice", "question": "Which two ideologies were in conflict during the Cold War?", "options": ["Monarchy and democracy", "Capitalism/democracy and communism", "Fascism and socialism", "Feudalism and mercantilism"], "correct": 1, "hint": "The U.S. and Soviet Union represented fundamentally different systems."},
+            {"type": "true_false", "question": "The Truman Doctrine pledged U.S. support for countries resisting communist takeover.", "answer": true, "hint": "President Truman outlined this policy in a 1947 speech to Congress."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-5-2",
+          "title": "The Nuclear Arms Race and the Space Race",
+          "type": "lesson",
+          "content": {
+            "explanation": "One of the most terrifying aspects of the Cold War was the nuclear arms race. After the U.S. used atomic bombs to end WWII, the Soviet Union tested its first nuclear weapon in 1949, shocking the West. Both nations then raced to build larger and more destructive weapons, including hydrogen bombs hundreds of times more powerful than the Hiroshima bomb. By the 1960s, both sides had enough nuclear weapons to destroy each other many times over — a concept called Mutually Assured Destruction (MAD), which paradoxically helped prevent nuclear war because both sides knew it would mean total annihilation. The Cold War also extended into space. In 1957, the Soviet Union launched Sputnik, the first artificial satellite, alarming Americans. The U.S. responded by creating NASA and investing heavily in science education. The Space Race culminated on July 20, 1969, when American astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the moon, fulfilling President Kennedy's ambitious goal.",
+            "examples": [
+              {"problem": "What was Mutually Assured Destruction (MAD)?", "answer": "The concept that if either the U.S. or Soviet Union launched nuclear weapons, both sides would be completely destroyed.", "explanation": "MAD was actually a form of deterrence — neither side would start a nuclear war because they knew it would result in their own destruction as well."},
+              {"problem": "Why was the launch of Sputnik so significant?", "answer": "It showed that the Soviet Union had advanced rocket technology, alarming Americans and sparking the Space Race.", "explanation": "If the Soviets could launch a satellite into space, they could potentially launch nuclear missiles at the U.S. This fear drove massive American investment in science and space technology."}
+            ],
+            "key_vocabulary": ["arms race", "nuclear weapons", "hydrogen bomb", "Mutually Assured Destruction", "Sputnik", "Space Race", "NASA", "moon landing", "deterrence"],
+            "real_world": "The Space Race produced technology we use every day, including satellite communications, weather forecasting, GPS, and advances in computer science."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was Sputnik?", "options": ["A Soviet nuclear weapon", "The first artificial satellite launched into space", "An American spy plane", "A peace treaty"], "correct": 1, "hint": "It was launched by the Soviet Union in 1957 and orbited Earth."},
+            {"type": "fill_in", "question": "___ ___ was the first person to walk on the moon in 1969.", "answer": "Neil Armstrong", "hint": "He famously said, 'That's one small step for man, one giant leap for mankind.'"},
+            {"type": "true_false", "question": "Mutually Assured Destruction (MAD) actually helped prevent nuclear war.", "answer": true, "hint": "Neither side would start a war they knew would destroy them too."},
+            {"type": "multiple_choice", "question": "Which agency was created in response to Sputnik?", "options": ["CIA", "FBI", "NASA", "NSA"], "correct": 2, "hint": "This agency is responsible for America's space program."},
+            {"type": "multiple_choice", "question": "When did the Soviet Union test its first nuclear weapon?", "options": ["1945", "1949", "1957", "1969"], "correct": 1, "hint": "It happened just a few years after the U.S. used atomic weapons in WWII."},
+            {"type": "true_false", "question": "The United States was the first country to launch a satellite into space.", "answer": false, "hint": "The Soviet Union launched Sputnik before the U.S. launched its first satellite."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-5-3",
+          "title": "The Korean and Vietnam Wars",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Cold War led to two major military conflicts in Asia. The Korean War (1950-1953) began when communist North Korea invaded South Korea. The United Nations, led primarily by the United States, intervened to defend South Korea, while China entered on the side of North Korea. After three years of brutal fighting, an armistice was signed that divided Korea along roughly the same line as before — the 38th parallel. No peace treaty was ever signed, meaning the two Koreas are technically still at war. The Vietnam War (1955-1975) was a far more controversial conflict. The U.S. gradually escalated its involvement in South Vietnam to prevent a communist takeover by North Vietnam and the Viet Cong. At its peak, over 500,000 American troops were deployed. The war was deeply unpopular at home, sparking massive anti-war protests. The U.S. withdrew in 1973, and South Vietnam fell to the communists in 1975. Over 58,000 Americans and millions of Vietnamese died in the conflict.",
+            "examples": [
+              {"problem": "How is Korea divided today?", "answer": "Into North Korea (communist) and South Korea (democratic), divided along the 38th parallel.", "explanation": "The Korean War ended with an armistice (ceasefire) but not a peace treaty. The two Koreas remain separated by a heavily fortified Demilitarized Zone (DMZ)."},
+              {"problem": "Why was the Vietnam War controversial?", "answer": "Many Americans opposed the war because they questioned its purpose, the growing death toll, and the draft.", "explanation": "The Vietnam War divided American society. Anti-war protests grew as casualties mounted and the draft forced young men to serve in a conflict many considered unjust."}
+            ],
+            "key_vocabulary": ["Korean War", "38th parallel", "armistice", "Vietnam War", "Viet Cong", "draft", "anti-war protest", "domino theory", "escalation"],
+            "real_world": "North and South Korea remain divided today. The Vietnam War profoundly affected American attitudes toward military intervention, and the Vietnam Veterans Memorial in Washington, D.C. honors the more than 58,000 Americans who died."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What line divides North and South Korea?", "options": ["The equator", "The 38th parallel", "The Maginot Line", "The Mason-Dixon Line"], "correct": 1, "hint": "It's a line of latitude that runs through the Korean peninsula."},
+            {"type": "true_false", "question": "A formal peace treaty ended the Korean War.", "answer": false, "hint": "The fighting stopped with an armistice (ceasefire), but no peace treaty was ever signed."},
+            {"type": "fill_in", "question": "Over ___ Americans died in the Vietnam War.", "answer": "58,000", "hint": "This number is memorialized on the Vietnam Veterans Memorial wall in Washington, D.C."},
+            {"type": "multiple_choice", "question": "What was the 'domino theory'?", "options": ["A game theory used in espionage", "The idea that if one country fell to communism, neighboring countries would follow", "A strategy for winning wars", "An economic principle"], "correct": 1, "hint": "It compared countries to dominoes — if one falls, others topple too."},
+            {"type": "multiple_choice", "question": "At its peak, approximately how many American troops were in Vietnam?", "options": ["50,000", "100,000", "500,000", "1 million"], "correct": 2, "hint": "The U.S. gradually escalated its involvement over several years."},
+            {"type": "true_false", "question": "The Vietnam War was widely supported by all Americans.", "answer": false, "hint": "The war sparked massive anti-war protests across the country."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-5-4",
+          "title": "The End of the Cold War",
+          "type": "lesson",
+          "content": {
+            "explanation": "By the 1980s, the Soviet Union was struggling under the weight of its massive military spending, a stagnant economy, and growing demands for freedom from its citizens and satellite states. Soviet leader Mikhail Gorbachev introduced two key reforms: 'glasnost' (openness) — allowing more freedom of speech and press — and 'perestroika' (restructuring) — reforming the economic system. These reforms, while intended to save the Soviet system, actually accelerated its collapse. In 1989, a wave of peaceful revolutions swept across Eastern Europe. The most symbolic moment came on November 9, 1989, when the Berlin Wall — which had divided communist East Berlin from democratic West Berlin since 1961 — was torn down by jubilant crowds. Germany was reunified in 1990. On December 25, 1991, the Soviet Union officially dissolved, ending the Cold War. The United States emerged as the world's sole superpower.",
+            "examples": [
+              {"problem": "What was the Berlin Wall?", "answer": "A wall built by East Germany in 1961 that physically divided communist East Berlin from democratic West Berlin.", "explanation": "The Berlin Wall was a powerful symbol of the Cold War division. Families were separated, and people who tried to escape from East to West were shot. Its fall in 1989 symbolized the end of the Cold War."},
+              {"problem": "What were glasnost and perestroika?", "answer": "Reforms introduced by Soviet leader Gorbachev: glasnost meant more openness and freedom, and perestroika meant economic restructuring.", "explanation": "Gorbachev hoped these reforms would save the Soviet system, but they actually gave people the freedom to demand even more change, leading to the system's collapse."}
+            ],
+            "key_vocabulary": ["glasnost", "perestroika", "Mikhail Gorbachev", "Berlin Wall", "reunification", "dissolution", "satellite states", "peaceful revolution"],
+            "real_world": "The fall of the Berlin Wall and the end of the Cold War reshaped the world map. Former Soviet republics became independent nations, and many Eastern European countries eventually joined the European Union and NATO."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When did the Berlin Wall fall?", "options": ["1961", "1975", "1989", "1991"], "correct": 2, "hint": "It was a dramatic moment that symbolized the end of the Cold War."},
+            {"type": "fill_in", "question": "___ was the Soviet leader who introduced glasnost and perestroika.", "answer": "Gorbachev", "hint": "His first name was Mikhail."},
+            {"type": "true_false", "question": "The Soviet Union dissolved in 1991.", "answer": true, "hint": "It officially ended on December 25 of that year."},
+            {"type": "multiple_choice", "question": "What did 'glasnost' mean?", "options": ["Military buildup", "Openness and transparency", "Economic planning", "Nuclear disarmament"], "correct": 1, "hint": "It allowed more freedom of speech and press in the Soviet Union."},
+            {"type": "multiple_choice", "question": "What happened to Germany after the Berlin Wall fell?", "options": ["It remained divided", "It was reunified into one country", "It became part of the Soviet Union", "It split into three countries"], "correct": 1, "hint": "East and West Germany became one nation again in 1990."},
+            {"type": "true_false", "question": "Gorbachev's reforms strengthened and preserved the Soviet Union.", "answer": false, "hint": "His reforms actually accelerated the system's collapse."},
+            {"type": "fill_in", "question": "The ___ ___ was built in 1961 to divide East and West Berlin.", "answer": "Berlin Wall", "hint": "Its fall in 1989 was one of the most iconic moments of the 20th century."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What was the Cold War?", "options": ["A war fought in cold climates", "An ideological rivalry between the U.S. and Soviet Union", "A war between European nations", "A conflict in Antarctica"], "correct": 1},
+          {"type": "true_false", "question": "The Marshall Plan provided aid to rebuild Western Europe.", "answer": true},
+          {"type": "multiple_choice", "question": "What was Sputnik?", "options": ["A nuclear weapon", "The first satellite launched into space", "A Soviet leader", "A spy agency"], "correct": 1},
+          {"type": "multiple_choice", "question": "What line divides North and South Korea?", "options": ["The 38th parallel", "The equator", "The Prime Meridian", "The Tropic of Cancer"], "correct": 0},
+          {"type": "true_false", "question": "The Vietnam War was widely popular in the United States.", "answer": false},
+          {"type": "multiple_choice", "question": "When did the Berlin Wall fall?", "options": ["1961", "1975", "1989", "2001"], "correct": 2},
+          {"type": "multiple_choice", "question": "Who introduced glasnost and perestroika?", "options": ["Joseph Stalin", "Nikita Khrushchev", "Mikhail Gorbachev", "Vladimir Lenin"], "correct": 2},
+          {"type": "true_false", "question": "Neil Armstrong was the first person to walk on the moon.", "answer": true},
+          {"type": "multiple_choice", "question": "When did the Soviet Union officially dissolve?", "options": ["1985", "1989", "1991", "2000"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cold_war_expert"
+      }
+    },
+    {
+      "id": "7-ss-6",
+      "title": "The Civil Rights Movement",
+      "description": "Learn about the struggle for racial equality in America, the key leaders and events of the Civil Rights movement, and the landmark legislation that changed the nation.",
+      "lessons": [
+        {
+          "id": "7-ss-6-1",
+          "title": "Segregation and Jim Crow Laws",
+          "type": "lesson",
+          "content": {
+            "explanation": "After Reconstruction ended in 1877, Southern states passed a series of laws known as 'Jim Crow' laws that enforced racial segregation — the separation of Black and white Americans in public spaces. These laws mandated separate schools, restaurants, drinking fountains, restrooms, bus sections, and more. The facilities provided for Black Americans were almost always inferior. In 1896, the Supreme Court's Plessy v. Ferguson decision upheld segregation, ruling that 'separate but equal' facilities were constitutional. In reality, conditions were never equal. Beyond legal segregation, African Americans faced widespread discrimination, voter suppression through poll taxes, literacy tests, and grandfather clauses, and the constant threat of violence, including lynching. Despite these oppressive conditions, African American communities built strong institutions — churches, schools, businesses, and organizations like the NAACP (founded 1909) — that would become the foundation of the Civil Rights movement.",
+            "examples": [
+              {"problem": "What was the Plessy v. Ferguson ruling?", "answer": "A Supreme Court decision in 1896 that upheld racial segregation under the 'separate but equal' doctrine.", "explanation": "The case began when Homer Plessy, a man of mixed race, was arrested for sitting in a 'whites only' railroad car in Louisiana. The Supreme Court ruled that segregation was legal as long as the separate facilities were equal — but they never were."},
+              {"problem": "What were Jim Crow laws?", "answer": "State and local laws in the South that enforced racial segregation from the 1870s to the 1960s.", "explanation": "Named after a racist caricature, Jim Crow laws touched every aspect of life — where you could eat, sit, drink water, go to school, and even be buried."}
+            ],
+            "key_vocabulary": ["Jim Crow laws", "segregation", "Plessy v. Ferguson", "separate but equal", "NAACP", "poll tax", "literacy test", "lynching", "discrimination"],
+            "real_world": "While Jim Crow laws were struck down in the 1950s and 1960s, their legacy continues to affect American society through systemic inequalities in education, housing, and criminal justice."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did Jim Crow laws enforce?", "options": ["Voting rights for all citizens", "Racial segregation in public spaces", "Equal education for all races", "Freedom of speech"], "correct": 1, "hint": "These laws kept Black and white Americans separated in public life."},
+            {"type": "fill_in", "question": "The Supreme Court's ___ v. ___ decision upheld the 'separate but equal' doctrine in 1896.", "answer": "Plessy v. Ferguson", "hint": "This case involved segregation on a railroad car in Louisiana."},
+            {"type": "true_false", "question": "Under Jim Crow, the facilities for Black Americans were truly equal to those for white Americans.", "answer": false, "hint": "The 'equal' part of 'separate but equal' was never actually enforced."},
+            {"type": "multiple_choice", "question": "What was the NAACP?", "options": ["A government agency", "A civil rights organization founded in 1909", "A segregationist group", "A political party"], "correct": 1, "hint": "It stands for the National Association for the Advancement of Colored People."},
+            {"type": "multiple_choice", "question": "Which of these was used to prevent African Americans from voting?", "options": ["The Bill of Rights", "Poll taxes and literacy tests", "The 15th Amendment", "The Freedmen's Bureau"], "correct": 1, "hint": "These barriers were designed to keep Black citizens from exercising their voting rights."},
+            {"type": "true_false", "question": "Jim Crow laws existed only in the Southern states.", "answer": false, "hint": "While most Jim Crow laws were in the South, racial discrimination and segregation existed throughout the country in various forms."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-6-2",
+          "title": "Brown v. Board of Education and the Montgomery Bus Boycott",
+          "type": "lesson",
+          "content": {
+            "explanation": "Two landmark events in the 1950s helped launch the modern Civil Rights movement. In 1954, the Supreme Court's Brown v. Board of Education decision unanimously ruled that segregation in public schools was unconstitutional, overturning Plessy v. Ferguson's 'separate but equal' doctrine. Chief Justice Earl Warren wrote that separate schools were 'inherently unequal' and harmed Black children. Despite the ruling, many Southern schools resisted desegregation — in Little Rock, Arkansas, in 1957, nine Black students (the 'Little Rock Nine') needed federal troops to escort them into Central High School. In 1955, Rosa Parks refused to give up her seat to a white passenger on a bus in Montgomery, Alabama, and was arrested. Her arrest sparked the Montgomery Bus Boycott, a 381-day protest led by a young minister named Dr. Martin Luther King Jr. The boycott ended when the Supreme Court ruled that bus segregation was unconstitutional. These events showed that organized, nonviolent resistance could achieve real change.",
+            "examples": [
+              {"problem": "What did Brown v. Board of Education decide?", "answer": "That racial segregation in public schools was unconstitutional.", "explanation": "This landmark 1954 decision overturned the 'separate but equal' doctrine of Plessy v. Ferguson and declared that separating children by race in schools was inherently harmful and unequal."},
+              {"problem": "How long did the Montgomery Bus Boycott last?", "answer": "381 days", "explanation": "African Americans in Montgomery refused to ride city buses for over a year, walking, carpooling, and finding other transportation. The economic impact on the bus company and the city helped force change."}
+            ],
+            "key_vocabulary": ["Brown v. Board of Education", "desegregation", "Little Rock Nine", "Rosa Parks", "Montgomery Bus Boycott", "Martin Luther King Jr.", "nonviolent resistance", "civil disobedience"],
+            "real_world": "Brown v. Board of Education established the principle that 'separate is not equal,' which has been applied to many other areas of civil rights law beyond education."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did the Brown v. Board of Education ruling declare?", "options": ["That segregation in schools was constitutional", "That segregation in schools was unconstitutional", "That only colleges must desegregate", "That states could choose whether to segregate"], "correct": 1, "hint": "This decision overturned the 'separate but equal' doctrine."},
+            {"type": "fill_in", "question": "___ ___ refused to give up her bus seat in Montgomery, Alabama, in 1955.", "answer": "Rosa Parks", "hint": "Her arrest sparked a famous boycott."},
+            {"type": "true_false", "question": "The Montgomery Bus Boycott lasted less than one month.", "answer": false, "hint": "The boycott lasted much longer — over a year."},
+            {"type": "multiple_choice", "question": "Who led the Montgomery Bus Boycott?", "options": ["Malcolm X", "Thurgood Marshall", "Martin Luther King Jr.", "Rosa Parks"], "correct": 2, "hint": "He was a young minister at the time who would become the most famous civil rights leader."},
+            {"type": "multiple_choice", "question": "Who were the Little Rock Nine?", "options": ["Nine Supreme Court justices", "Nine Black students who desegregated a high school in Arkansas", "Nine civil rights leaders", "Nine members of Congress"], "correct": 1, "hint": "They needed federal troops to protect them as they entered the school."},
+            {"type": "fill_in", "question": "Brown v. Board of Education overturned the 'separate but ___' doctrine.", "answer": "equal", "hint": "This was the legal principle from Plessy v. Ferguson."},
+            {"type": "true_false", "question": "All Southern schools immediately desegregated after the Brown decision.", "answer": false, "hint": "Many schools resisted desegregation for years, and some required federal intervention."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-6-3",
+          "title": "Dr. Martin Luther King Jr. and Nonviolent Protest",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dr. Martin Luther King Jr. became the most prominent leader of the Civil Rights movement, advocating for change through nonviolent protest and civil disobedience — inspired by the teachings of Mahatma Gandhi and his Christian faith. King and other activists organized sit-ins at segregated lunch counters, freedom rides to challenge segregated bus travel, and marches to demand voting rights. In August 1963, King delivered his famous 'I Have a Dream' speech before over 250,000 people at the March on Washington, calling for an end to racism and envisioning a future where people would be judged 'not by the color of their skin but by the content of their character.' King's leadership helped pressure Congress to pass the Civil Rights Act of 1964, which outlawed discrimination based on race, color, religion, sex, or national origin, and the Voting Rights Act of 1965, which protected the voting rights of minorities. King was awarded the Nobel Peace Prize in 1964. Tragically, he was assassinated on April 4, 1968, in Memphis, Tennessee.",
+            "examples": [
+              {"problem": "What was the strategy of nonviolent protest?", "answer": "Using peaceful methods like marches, sit-ins, boycotts, and civil disobedience to challenge unjust laws and draw attention to inequality.", "explanation": "By remaining peaceful even when attacked, civil rights protesters exposed the injustice of segregation and won public sympathy. Television coverage of peaceful protesters being attacked by police dogs and fire hoses shocked the nation."},
+              {"problem": "What did the Civil Rights Act of 1964 do?", "answer": "It outlawed discrimination based on race, color, religion, sex, or national origin in employment, public facilities, and government programs.", "explanation": "This landmark law made it illegal to discriminate in hiring, to segregate public facilities, or to deny someone service based on their identity."}
+            ],
+            "key_vocabulary": ["nonviolent protest", "civil disobedience", "sit-in", "freedom ride", "March on Washington", "I Have a Dream", "Civil Rights Act of 1964", "Voting Rights Act of 1965", "Nobel Peace Prize"],
+            "real_world": "Dr. King's legacy is honored with a federal holiday on the third Monday of January. His strategies of nonviolent protest continue to inspire social justice movements around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was Dr. King's approach to fighting for civil rights?", "options": ["Armed resistance", "Nonviolent protest and civil disobedience", "Legal battles only", "Political campaigns"], "correct": 1, "hint": "He was inspired by Mahatma Gandhi's peaceful resistance movement."},
+            {"type": "fill_in", "question": "Dr. King delivered his 'I Have a ___' speech at the March on Washington in 1963.", "answer": "Dream", "hint": "This is one of the most famous speeches in American history."},
+            {"type": "true_false", "question": "The Civil Rights Act of 1964 only protected African Americans from discrimination.", "answer": false, "hint": "The act protected people from discrimination based on race, color, religion, sex, AND national origin."},
+            {"type": "multiple_choice", "question": "What did the Voting Rights Act of 1965 do?", "options": ["Gave women the right to vote", "Protected minority voting rights and banned discriminatory voting practices", "Lowered the voting age to 18", "Created the Electoral College"], "correct": 1, "hint": "It targeted practices like poll taxes and literacy tests that were used to prevent Black citizens from voting."},
+            {"type": "multiple_choice", "question": "What award did Dr. King receive in 1964?", "options": ["Presidential Medal of Freedom", "Nobel Peace Prize", "Congressional Gold Medal", "Pulitzer Prize"], "correct": 1, "hint": "This is the world's most prestigious peace award."},
+            {"type": "true_false", "question": "Dr. King was assassinated in 1968.", "answer": true, "hint": "He was killed in Memphis, Tennessee on April 4, 1968."},
+            {"type": "fill_in", "question": "At sit-in protests, civil rights activists would peacefully sit at segregated ___ counters and refuse to leave.", "answer": "lunch", "hint": "These were common in restaurants that refused to serve Black customers."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-6-4",
+          "title": "Other Voices in the Movement",
+          "type": "lesson",
+          "content": {
+            "explanation": "While Dr. King is the most well-known civil rights leader, the movement was powered by thousands of activists with diverse strategies and perspectives. Malcolm X, a minister in the Nation of Islam, advocated for Black self-defense, self-reliance, and Black pride. He argued that African Americans should defend themselves 'by any means necessary' and was critical of the nonviolent approach, though he later moderated some of his views after a pilgrimage to Mecca. The Student Nonviolent Coordinating Committee (SNCC) organized young people for sit-ins and voter registration drives in the dangerous Deep South. The Black Panther Party, founded in 1966 by Huey Newton and Bobby Seale, combined community programs (like free breakfast for children) with calls for armed self-defense. Activists like Fannie Lou Hamer fought for voting rights in Mississippi, Medgar Evers organized boycotts before his assassination in 1963, and Ella Baker helped build grassroots organizing that empowered local communities. The Civil Rights movement was not a single movement but a diverse coalition united by the goal of equality.",
+            "examples": [
+              {"problem": "How did Malcolm X's approach differ from Dr. King's?", "answer": "Malcolm X advocated for Black self-defense and self-reliance, while Dr. King advocated for nonviolent integration.", "explanation": "Both leaders wanted justice and equality for African Americans but disagreed on the methods. Malcolm X believed in defending oneself and building independent Black institutions, while King believed in nonviolent protest and integration."},
+              {"problem": "What was the Black Panther Party known for?", "answer": "Community programs like free breakfasts for children, as well as armed self-defense and confronting police brutality.", "explanation": "The Black Panthers combined practical community service — feeding children, providing health clinics — with a more militant stance against racism and police violence."}
+            ],
+            "key_vocabulary": ["Malcolm X", "Nation of Islam", "Black Panther Party", "SNCC", "Black Power", "self-defense", "grassroots organizing", "Fannie Lou Hamer", "Medgar Evers"],
+            "real_world": "The diverse strategies of the Civil Rights movement — from nonviolent protest to community organizing to legal challenges — continue to inform modern social justice movements."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What phrase did Malcolm X use to describe how African Americans should fight for their rights?", "options": ["Turn the other cheek", "By any means necessary", "We shall overcome", "Peace at all costs"], "correct": 1, "hint": "He believed in more assertive methods than nonviolent protest alone."},
+            {"type": "fill_in", "question": "The ___ ___ Party was founded by Huey Newton and Bobby Seale in 1966.", "answer": "Black Panther", "hint": "They combined community programs with calls for armed self-defense."},
+            {"type": "true_false", "question": "The Civil Rights movement was led entirely by one person.", "answer": false, "hint": "Think about the many diverse leaders and organizations discussed in this lesson."},
+            {"type": "multiple_choice", "question": "What did SNCC organize?", "options": ["Armed resistance", "Sit-ins and voter registration drives", "International trade agreements", "Military operations"], "correct": 1, "hint": "This student organization focused on nonviolent direct action and empowering voters."},
+            {"type": "multiple_choice", "question": "Who fought for voting rights in Mississippi and was known for saying 'I'm sick and tired of being sick and tired'?", "options": ["Rosa Parks", "Fannie Lou Hamer", "Ella Baker", "Coretta Scott King"], "correct": 1, "hint": "She was a sharecropper who became a powerful civil rights activist."},
+            {"type": "true_false", "question": "The Black Panther Party provided free breakfast programs for children in their communities.", "answer": true, "hint": "They combined community service with their political activism."},
+            {"type": "fill_in", "question": "___ ___ was a civil rights leader in Mississippi who was assassinated in 1963.", "answer": "Medgar Evers", "hint": "He was the NAACP's field secretary in Mississippi."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "7-ss-6-5",
+          "title": "Legacy of the Civil Rights Movement",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil Rights movement achieved landmark legal victories that transformed American society. The Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Fair Housing Act of 1968 dismantled the legal framework of segregation and discrimination. These laws opened doors in education, employment, housing, and voting that had been closed for generations. The movement also inspired other groups to fight for equality: the women's rights movement, the disability rights movement, the LGBTQ+ rights movement, and the American Indian Movement all drew inspiration from civil rights strategies and ideals. However, the movement's leaders recognized that legal equality alone would not solve deeper issues of economic inequality, segregated housing, and systemic racism. Dr. King was working on a Poor People's Campaign to address poverty across all races when he was assassinated. Today, debates about racial justice, police reform, voting rights, and economic equality show that the work of the Civil Rights movement continues.",
+            "examples": [
+              {"problem": "What was the Fair Housing Act of 1968?", "answer": "A law that banned discrimination in the sale and rental of housing based on race, religion, national origin, and sex.", "explanation": "Before this act, it was common for Black Americans to be denied housing in certain neighborhoods through practices like redlining and restrictive covenants."},
+              {"problem": "How did the Civil Rights movement inspire other movements?", "answer": "Other groups fighting for equality adopted similar strategies of protest, legal challenges, and public awareness campaigns.", "explanation": "The women's movement, disability rights movement, and LGBTQ+ rights movement all used tactics like marches, sit-ins, and legal challenges that were pioneered during the Civil Rights movement."}
+            ],
+            "key_vocabulary": ["Fair Housing Act", "systemic racism", "economic inequality", "legacy", "equal opportunity", "affirmative action", "Poor People's Campaign", "social justice"],
+            "real_world": "The Civil Rights movement's legacy is visible in today's diverse workplaces, integrated schools, and ongoing social justice activism. Martin Luther King Jr. Day is a national holiday that encourages Americans to serve their communities."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which law banned discrimination in housing?", "options": ["Civil Rights Act of 1964", "Voting Rights Act of 1965", "Fair Housing Act of 1968", "Equal Pay Act of 1963"], "correct": 2, "hint": "It was passed in 1968, shortly after Dr. King's assassination."},
+            {"type": "true_false", "question": "The Civil Rights movement inspired other groups, including the women's rights and disability rights movements.", "answer": true, "hint": "Many other movements adopted similar strategies and drew from civil rights ideals."},
+            {"type": "fill_in", "question": "Dr. King was working on a ___ People's Campaign to address poverty when he was assassinated.", "answer": "Poor", "hint": "He was expanding his focus from racial equality to economic justice for all."},
+            {"type": "multiple_choice", "question": "Which three landmark laws are considered the major legislative achievements of the Civil Rights movement?", "options": ["13th, 14th, and 15th Amendments", "Civil Rights Act, Voting Rights Act, and Fair Housing Act", "Social Security, Medicare, and Medicaid", "The New Deal programs"], "correct": 1, "hint": "These laws were passed in 1964, 1965, and 1968."},
+            {"type": "true_false", "question": "After the passage of civil rights laws, all racial inequality in America was immediately eliminated.", "answer": false, "hint": "Legal equality was an important step, but deeper systemic issues continued."},
+            {"type": "multiple_choice", "question": "What campaign was Dr. King planning before his death?", "options": ["A presidential campaign", "A Poor People's Campaign addressing poverty", "A campaign to end the Vietnam War", "A campaign to become a senator"], "correct": 1, "hint": "He was expanding the movement to address economic justice across all races."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What did the Plessy v. Ferguson ruling establish?", "options": ["That segregation was unconstitutional", "The 'separate but equal' doctrine", "Women's right to vote", "Freedom of speech"], "correct": 1},
+          {"type": "true_false", "question": "Brown v. Board of Education declared school segregation unconstitutional.", "answer": true},
+          {"type": "multiple_choice", "question": "Who led the Montgomery Bus Boycott?", "options": ["Malcolm X", "Rosa Parks", "Martin Luther King Jr.", "Thurgood Marshall"], "correct": 2},
+          {"type": "multiple_choice", "question": "What strategy did Dr. King advocate?", "options": ["Armed resistance", "Nonviolent protest", "Political isolation", "Economic sanctions"], "correct": 1},
+          {"type": "true_false", "question": "The Civil Rights Act of 1964 only outlawed racial discrimination.", "answer": false},
+          {"type": "multiple_choice", "question": "When was Dr. King's 'I Have a Dream' speech delivered?", "options": ["1955", "1960", "1963", "1968"], "correct": 2},
+          {"type": "multiple_choice", "question": "Who advocated for Black self-defense and self-reliance?", "options": ["Rosa Parks", "Malcolm X", "Thurgood Marshall", "John Lewis"], "correct": 1},
+          {"type": "true_false", "question": "The Voting Rights Act of 1965 helped protect minority voting rights.", "answer": true},
+          {"type": "multiple_choice", "question": "What did the Fair Housing Act of 1968 address?", "options": ["School segregation", "Voting rights", "Discrimination in housing", "Employment discrimination"], "correct": 2},
+          {"type": "true_false", "question": "The Civil Rights movement inspired other social justice movements.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "civil_rights_champion"
+      }
+    }
+  ]
+}

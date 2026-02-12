@@ -1,0 +1,791 @@
+{
+  "grade": 4,
+  "subject": "science",
+  "units": [
+    {
+      "id": "4-sci-1",
+      "title": "Ecosystems & Food Chains",
+      "description": "Explore how energy flows through ecosystems, from producers to top predators, and learn about food webs and the balance of nature.",
+      "lessons": [
+        {
+          "id": "4-sci-1-1",
+          "title": "Energy in Ecosystems",
+          "type": "lesson",
+          "content": {
+            "explanation": "All living things need energy to survive, grow, and reproduce. In every ecosystem, energy flows from one organism to another. The original source of energy for almost all ecosystems on Earth is the sun. Plants and algae capture the sun's energy through photosynthesis — the process of using sunlight, water, and carbon dioxide to make glucose (sugar) for food, while releasing oxygen. Because plants make their own food, they are called producers. Animals cannot make their own food, so they must eat other organisms to get energy. Animals are called consumers. When animals eat food, they use most of the energy for moving, growing, and staying warm. Only about 10% of the energy is passed on to the next animal in the food chain. This means that energy decreases as it moves through the ecosystem, which is why there are always more producers than top predators.",
+            "examples": [
+              {"problem": "Why are there more mice than eagles in a grassland ecosystem?", "answer": "Energy decreases at each level of the food chain. It takes many plants to feed the mice, and many mice to feed just one eagle. There must be more organisms at the bottom than at the top.", "explanation": "Only about 10% of energy passes from one level to the next. So it takes a LOT of producers to support just a few top predators."},
+              {"problem": "What is photosynthesis?", "answer": "Photosynthesis is the process plants use to convert sunlight, water, and carbon dioxide into glucose (food energy) and oxygen.", "explanation": "The word 'photosynthesis' comes from 'photo' (light) and 'synthesis' (putting together). Plants put together food using light energy."}
+            ],
+            "key_vocabulary": ["energy", "photosynthesis", "producer", "consumer", "glucose", "oxygen", "carbon dioxide", "ecosystem"],
+            "real_world": "Farmers depend on photosynthesis! Crops use sunlight to grow, and then we eat the crops or feed them to livestock. All the food energy on your plate originally came from the sun."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the original source of energy for most ecosystems?", "options": ["Water", "Soil", "The sun", "Wind"], "correct": 2, "hint": "What do plants need to perform photosynthesis and create food energy?"},
+            {"type": "fill_in", "question": "The process plants use to make food from sunlight is called ___.", "answer": "photosynthesis", "hint": "'Photo' means light, 'synthesis' means putting together."},
+            {"type": "true_false", "question": "Energy increases as it moves through a food chain.", "answer": false, "hint": "At each level, organisms use most of the energy they consume. Only about 10% passes to the next level."},
+            {"type": "multiple_choice", "question": "During photosynthesis, plants take in carbon dioxide and water and release:", "options": ["More carbon dioxide", "Oxygen", "Nitrogen", "Soil"], "correct": 1, "hint": "This is the gas that animals (including humans) need to breathe."},
+            {"type": "multiple_choice", "question": "Why are there always more producers than top predators in an ecosystem?", "options": ["Producers reproduce faster", "Energy decreases at each level, so many producers are needed to support fewer predators", "Top predators eat producers", "Producers live longer"], "correct": 1, "hint": "Think about the 10% rule — only a small fraction of energy passes from one level to the next."},
+            {"type": "true_false", "question": "Animals are called producers because they produce energy from sunlight.", "answer": false, "hint": "Animals eat other organisms to get energy. What are organisms that eat others called?"},
+            {"type": "fill_in", "question": "About ___% of energy passes from one level of a food chain to the next.", "answer": "10", "hint": "Only a small fraction of energy is transferred. Most is used for the organism's own life processes."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-1-2",
+          "title": "Food Chains and Energy Pyramids",
+          "type": "lesson",
+          "content": {
+            "explanation": "A food chain shows a single path of energy from one organism to the next. Every food chain starts with a producer (a plant or algae), followed by a primary consumer (herbivore that eats plants), then a secondary consumer (carnivore that eats the herbivore), and sometimes a tertiary consumer (a carnivore that eats other carnivores). Decomposers break down dead organisms at every level and return nutrients to the soil. An energy pyramid is a diagram that shows how energy flows through a food chain. The bottom level (producers) has the most energy and the most organisms. Each higher level has less energy and fewer organisms. The pyramid shape shows us why ecosystems need many producers to support fewer herbivores, and even fewer carnivores at the top. Organisms at the top of the food chain, like eagles, wolves, and sharks, are called apex predators because no other animal hunts them.",
+            "examples": [
+              {"problem": "Build a food chain for a forest ecosystem.", "answer": "Acorns (producer) → Squirrel (primary consumer) → Fox (secondary consumer) → Eagle (tertiary consumer)", "explanation": "Energy flows from the acorn tree to the squirrel to the fox to the eagle. At each step, energy decreases."},
+              {"problem": "Why is the energy pyramid shaped like a pyramid?", "answer": "The base is wide because there is the most energy and the most producers. Each level above has less energy and fewer organisms, making the pyramid narrower at the top.", "explanation": "The pyramid shape visually shows that energy decreases at each level."}
+            ],
+            "key_vocabulary": ["food chain", "energy pyramid", "primary consumer", "secondary consumer", "tertiary consumer", "apex predator", "decomposer", "herbivore", "carnivore"],
+            "real_world": "In the ocean, tiny phytoplankton (microscopic plants) are the producers. There are trillions of them! They support small fish, which support bigger fish, which support sharks and whales at the top."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In the food chain: grass → rabbit → snake → hawk, what is the secondary consumer?", "options": ["Grass", "Rabbit", "Snake", "Hawk"], "correct": 2, "hint": "The primary consumer eats the producer. The secondary consumer eats the primary consumer."},
+            {"type": "fill_in", "question": "An animal at the top of the food chain with no natural predators is called an ___ predator.", "answer": "apex", "hint": "This word means 'the highest point' or 'the top.'"},
+            {"type": "true_false", "question": "An energy pyramid has the most energy at the top.", "answer": false, "hint": "Energy decreases as you go up. Where do food chains always start — with producers at the bottom."},
+            {"type": "multiple_choice", "question": "What role do decomposers play in a food chain?", "options": ["They hunt other animals", "They make food from sunlight", "They break down dead organisms and return nutrients to the soil", "They are at the top of the food chain"], "correct": 2, "hint": "Decomposers like mushrooms and bacteria recycle nutrients from dead organisms."},
+            {"type": "multiple_choice", "question": "Which level of the energy pyramid has the most organisms?", "options": ["Top predators", "Secondary consumers", "Primary consumers", "Producers"], "correct": 3, "hint": "The base of the pyramid is the widest and has the most organisms."},
+            {"type": "true_false", "question": "A rabbit is a primary consumer because it eats plants.", "answer": true, "hint": "Primary consumers are herbivores that eat producers (plants)."},
+            {"type": "fill_in", "question": "An animal that eats the primary consumer is called a ___ consumer.", "answer": "secondary", "hint": "Primary is first, and the next level up is..."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-1-3",
+          "title": "Food Webs",
+          "type": "lesson",
+          "content": {
+            "explanation": "In real ecosystems, animals do not eat just one type of food. A rabbit eats many kinds of plants, and a fox eats rabbits, mice, birds, and berries. When we connect all the food chains in an ecosystem together, we get a food web. A food web shows the complex feeding relationships between all the organisms in an ecosystem. Food webs are like many food chains woven together. They give us a more complete and realistic picture of how energy flows through an ecosystem. In a food web, most animals are part of multiple food chains. For example, a mouse might be eaten by a snake, a hawk, an owl, or a fox. This interconnection makes ecosystems more stable — if one food source disappears, animals can often switch to other food sources. However, if a key species disappears, it can still cause problems throughout the entire food web.",
+            "examples": [
+              {"problem": "How is a food web different from a food chain?", "answer": "A food chain shows a single path of energy. A food web shows all the interconnected food chains in an ecosystem, revealing the complex feeding relationships between many organisms.", "explanation": "A food web is a more realistic picture because animals eat many different foods, not just one."},
+              {"problem": "Why are food webs more stable than a single food chain?", "answer": "In a food web, if one food source disappears, animals can eat other things. In a single food chain, if one organism disappears, everything above it is affected.", "explanation": "The many connections in a food web provide alternative food sources, making the ecosystem more resilient."}
+            ],
+            "key_vocabulary": ["food web", "interconnected", "complex", "feeding relationships", "stable", "resilient", "alternative"],
+            "real_world": "Think about your own diet — you are part of a food web! You eat many different foods: vegetables (producers), chicken (primary consumer), and fish (consumer). You are connected to many food chains."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a food web?", "options": ["A single path of energy transfer", "A web made by spiders for catching food", "All the interconnected food chains in an ecosystem", "A list of foods animals eat"], "correct": 2, "hint": "A food web is more complex than a single food chain. It shows many feeding connections."},
+            {"type": "true_false", "question": "In a food web, most animals are part of only one food chain.", "answer": false, "hint": "Most animals eat more than one type of food and are eaten by more than one predator."},
+            {"type": "fill_in", "question": "A food web is more ___ than a food chain because it shows all feeding relationships in an ecosystem.", "answer": "complex", "hint": "A food web has many more connections and organisms than a single food chain."},
+            {"type": "multiple_choice", "question": "Why are ecosystems with food webs more stable than those with a single food chain?", "options": ["They have more sunlight", "Animals can switch to other food sources if one disappears", "They have fewer organisms", "They do not need producers"], "correct": 1, "hint": "If one food source is gone, what can animals do in a food web that they cannot do in a single chain?"},
+            {"type": "true_false", "question": "A food web shows the complex feeding relationships between many organisms.", "answer": true, "hint": "Food webs connect many organisms and show who eats whom."},
+            {"type": "multiple_choice", "question": "If mice disappeared from a food web, which statement is most accurate?", "options": ["Nothing would change", "Only one predator would be affected", "Multiple predators that eat mice would need to find other food sources", "All animals in the ecosystem would die"], "correct": 2, "hint": "In a food web, mice are likely eaten by several different predators."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-1-4",
+          "title": "Producers, Consumers, and Decomposers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every organism in an ecosystem plays one of three roles: producer, consumer, or decomposer. Producers make their own food using energy from the sun. On land, producers include trees, grass, flowers, and bushes. In water, producers include algae and phytoplankton. Consumers must eat other organisms to get energy. There are three types: herbivores eat only plants (like deer, rabbits, and caterpillars), carnivores eat only animals (like lions, hawks, and sharks), and omnivores eat both plants and animals (like bears, humans, and raccoons). Decomposers break down dead plants and animals into simpler substances, returning nutrients to the soil so producers can use them again. Bacteria, fungi (like mushrooms and mold), and some insects (like beetles) are decomposers. Without decomposers, dead organisms would pile up and nutrients would be trapped, eventually causing producers to run out of the nutrients they need to grow.",
+            "examples": [
+              {"problem": "Is a bear a herbivore, carnivore, or omnivore?", "answer": "A bear is an omnivore. Bears eat berries, nuts, roots (plants) and fish, insects, and small mammals (animals).", "explanation": "Omnivores eat from multiple levels of the food chain, making them versatile survivors."},
+              {"problem": "What would happen if all decomposers disappeared?", "answer": "Dead organisms would pile up and not be broken down. Nutrients would be locked in the dead material and could not return to the soil. Eventually, plants would run out of nutrients and the ecosystem would collapse.", "explanation": "Decomposers are essential for recycling nutrients. They complete the cycle by returning nutrients to the soil for producers to use."}
+            ],
+            "key_vocabulary": ["producer", "consumer", "decomposer", "herbivore", "carnivore", "omnivore", "nutrient", "fungi", "bacteria", "recycle"],
+            "real_world": "Composting is decomposition in action! When you put food scraps and yard waste in a compost bin, decomposers (bacteria and fungi) break it down into rich soil that helps plants grow."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What type of consumer eats both plants and animals?", "options": ["Herbivore", "Carnivore", "Omnivore", "Decomposer"], "correct": 2, "hint": "The prefix 'omni-' means 'all.' This type of consumer eats all kinds of food."},
+            {"type": "fill_in", "question": "Organisms that break down dead plants and animals are called ___.", "answer": "decomposers", "hint": "They 'decompose' or break down dead material into simpler substances."},
+            {"type": "true_false", "question": "Mushrooms are decomposers.", "answer": true, "hint": "Mushrooms are fungi that grow on dead logs and leaves, breaking them down."},
+            {"type": "multiple_choice", "question": "Which of these is a producer?", "options": ["Eagle", "Oak tree", "Mushroom", "Rabbit"], "correct": 1, "hint": "Which of these makes its own food using sunlight?"},
+            {"type": "multiple_choice", "question": "A deer that eats only grass and leaves is classified as a:", "options": ["Carnivore", "Omnivore", "Decomposer", "Herbivore"], "correct": 3, "hint": "An animal that eats only plants is called a..."},
+            {"type": "true_false", "question": "Without decomposers, nutrients would remain locked in dead organisms.", "answer": true, "hint": "Decomposers recycle nutrients. Without them, the nutrient cycle would stop."},
+            {"type": "fill_in", "question": "An animal that eats only other animals is called a ___.", "answer": "carnivore", "hint": "The prefix 'carni-' comes from the Latin word for meat."},
+            {"type": "multiple_choice", "question": "Which of these is an omnivore?", "options": ["Cow", "Lion", "Human", "Hawk"], "correct": 2, "hint": "Which animal eats both plants and meat?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-1-5",
+          "title": "Ecosystem Balance and Disruption",
+          "type": "lesson",
+          "content": {
+            "explanation": "Healthy ecosystems are balanced — the populations of producers, consumers, and decomposers stay relatively stable over time. When something disrupts this balance, it can affect the entire ecosystem. Natural disruptions include wildfires, droughts, floods, and disease outbreaks. Human-caused disruptions include pollution, habitat destruction, introduction of invasive species, and overhunting. An invasive species is an organism introduced to an area where it does not naturally belong. Without natural predators to control its population, an invasive species can multiply rapidly and outcompete native species for food and habitat. For example, when rabbits were introduced to Australia, they had no natural predators and their population exploded, destroying crops and native vegetation. Ecosystems can sometimes recover from disruptions if the damage is not too severe and if they have enough biodiversity (variety of species).",
+            "examples": [
+              {"problem": "What happened when wolves were removed from Yellowstone National Park?", "answer": "Without wolves, the elk population grew too large. The elk overgrazed the vegetation near rivers. Without plants, riverbanks eroded and the rivers changed course. Many species were affected.", "explanation": "This shows how removing one species can cause a cascade of effects throughout an ecosystem. When wolves were reintroduced in 1995, the ecosystem began to recover."},
+              {"problem": "What is an invasive species?", "answer": "An invasive species is an organism introduced to an area where it does not naturally live. Without natural predators or controls, it can spread rapidly and harm the native ecosystem.", "explanation": "Examples include kudzu vine in the southeastern US, zebra mussels in the Great Lakes, and cane toads in Australia."}
+            ],
+            "key_vocabulary": ["balance", "disruption", "invasive species", "native species", "biodiversity", "habitat destruction", "overhunting", "pollution", "cascade effect"],
+            "real_world": "Biodiversity makes ecosystems stronger! A forest with many types of trees, plants, and animals can better survive a disease than a forest with only one type of tree."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is an invasive species?", "options": ["A species that has always lived in an area", "A species introduced to an area where it does not naturally belong", "A species that is very large", "A species that is endangered"], "correct": 1, "hint": "The word 'invasive' means to enter a place where you do not belong."},
+            {"type": "true_false", "question": "Removing one species from an ecosystem can affect many other species.", "answer": true, "hint": "Think about the wolf example in Yellowstone — removing wolves affected elk, plants, rivers, and many other species."},
+            {"type": "fill_in", "question": "The variety of different species in an ecosystem is called ___.", "answer": "biodiversity", "hint": "'Bio' means life, 'diversity' means variety."},
+            {"type": "multiple_choice", "question": "Which of these is a human-caused disruption to ecosystems?", "options": ["A volcanic eruption", "A drought", "Pollution", "An earthquake"], "correct": 2, "hint": "Which of these is caused by human activity, not natural processes?"},
+            {"type": "true_false", "question": "Invasive species usually have many natural predators in their new environment.", "answer": false, "hint": "That is exactly why invasive species become a problem — nothing controls their population."},
+            {"type": "multiple_choice", "question": "What helps an ecosystem recover from a disruption?", "options": ["Having only one type of organism", "Having high biodiversity (many different species)", "Removing all the predators", "Adding more pollution"], "correct": 1, "hint": "More variety in an ecosystem means more chances for recovery."},
+            {"type": "fill_in", "question": "When removing one species causes a chain reaction affecting many other species, it is called a ___ effect.", "answer": "cascade", "hint": "Like a waterfall of dominoes falling, one change triggers many others."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the original source of energy for most ecosystems?", "options": ["Soil", "Water", "The sun", "Wind"], "correct": 2},
+          {"type": "true_false", "question": "Only about 10% of energy passes from one level of a food chain to the next.", "answer": true},
+          {"type": "fill_in", "question": "All the interconnected food chains in an ecosystem form a food ___.", "answer": "web"},
+          {"type": "multiple_choice", "question": "Which organism is a decomposer?", "options": ["Eagle", "Grass", "Mushroom", "Deer"], "correct": 2},
+          {"type": "multiple_choice", "question": "What type of consumer eats only plants?", "options": ["Carnivore", "Omnivore", "Decomposer", "Herbivore"], "correct": 3},
+          {"type": "true_false", "question": "An invasive species is an organism that naturally belongs in an ecosystem.", "answer": false},
+          {"type": "multiple_choice", "question": "The bottom level of an energy pyramid contains:", "options": ["Top predators", "Secondary consumers", "Decomposers", "Producers"], "correct": 3},
+          {"type": "fill_in", "question": "The variety of species in an ecosystem is called ___.", "answer": "biodiversity"},
+          {"type": "true_false", "question": "A food web is more realistic than a single food chain.", "answer": true},
+          {"type": "multiple_choice", "question": "What would happen if all decomposers disappeared?", "options": ["Nothing", "Dead organisms would pile up and nutrients would not be recycled", "Plants would grow faster", "Animals would get more energy"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "food_chain_champion"
+      }
+    },
+    {
+      "id": "4-sci-2",
+      "title": "Rocks & Minerals",
+      "description": "Discover the three types of rocks, learn how they form and change over time through the rock cycle, and explore the amazing world of minerals.",
+      "lessons": [
+        {
+          "id": "4-sci-2-1",
+          "title": "What Are Minerals?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Minerals are naturally occurring, non-living solid substances with a specific chemical composition and crystal structure. There are over 4,000 known minerals on Earth! Each mineral has specific properties that help scientists identify it. These properties include color (what it looks like), luster (how it reflects light — shiny, dull, glassy, metallic), hardness (how easily it can be scratched), streak (the color of powder it leaves when rubbed on a white tile), and crystal shape. The Mohs Hardness Scale ranks minerals from 1 (softest — talc) to 10 (hardest — diamond). Minerals are the building blocks of rocks. Most rocks are made of two or more minerals mixed together. Some common minerals include quartz (found in sand and many rocks), feldspar (the most common mineral in Earth's crust), mica (thin, shiny flakes), and calcite (found in limestone and marble).",
+            "examples": [
+              {"problem": "How can you tell two minerals apart?", "answer": "You can test their properties: color, luster, hardness, streak, and crystal shape. Each mineral has a unique combination of these properties.", "explanation": "Color alone is not reliable because many minerals come in different colors. Scientists use multiple properties to identify minerals accurately."},
+              {"problem": "What is the hardest mineral on the Mohs Scale?", "answer": "Diamond, which has a hardness of 10. It can scratch every other mineral but cannot be scratched by any of them.", "explanation": "Diamonds are so hard they are used in cutting tools and drill bits, not just jewelry!"}
+            ],
+            "key_vocabulary": ["mineral", "crystal", "hardness", "luster", "streak", "Mohs Hardness Scale", "quartz", "feldspar", "properties"],
+            "real_world": "You use minerals every day! The graphite in your pencil is a mineral. Table salt is the mineral halite. The screen of a smartphone uses quartz. Toothpaste contains minerals like fluorite."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a mineral?", "options": ["A living organism", "A type of rock", "A naturally occurring, non-living solid with specific properties", "A type of soil"], "correct": 2, "hint": "Minerals are non-living, natural solids found in Earth's crust."},
+            {"type": "fill_in", "question": "The scale used to measure a mineral's hardness is called the ___ Hardness Scale.", "answer": "Mohs", "hint": "This scale was created by Friedrich Mohs and goes from 1 (softest) to 10 (hardest)."},
+            {"type": "true_false", "question": "Diamond is the hardest mineral on the Mohs Scale.", "answer": true, "hint": "Diamond has a hardness of 10, the highest on the scale."},
+            {"type": "multiple_choice", "question": "Which mineral property describes how light reflects off its surface?", "options": ["Hardness", "Streak", "Luster", "Color"], "correct": 2, "hint": "This property describes whether a mineral looks shiny, dull, glassy, or metallic."},
+            {"type": "true_false", "question": "Color alone is a reliable way to identify minerals.", "answer": false, "hint": "Many different minerals can be the same color, so scientists need to test multiple properties."},
+            {"type": "multiple_choice", "question": "What is streak?", "options": ["The shape of a mineral", "The color of powder a mineral leaves on a white tile", "How hard a mineral is", "How heavy a mineral is"], "correct": 1, "hint": "When you rub a mineral on a special white tile, it leaves a colored line."},
+            {"type": "fill_in", "question": "Rocks are made of two or more ___ mixed together.", "answer": "minerals", "hint": "These natural solid substances are the building blocks of rocks."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-2-2",
+          "title": "Igneous Rocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Igneous rocks form when hot, melted rock material cools and hardens. Deep inside the Earth, temperatures are so hot that rock melts into a liquid called magma. When magma reaches Earth's surface through a volcano, it is called lava. As the melted rock cools, the minerals inside it form crystals and harden into igneous rock. There are two types of igneous rocks. Intrusive igneous rocks form when magma cools slowly underground. Because they cool slowly, the mineral crystals have time to grow large, making the rock look grainy or speckled. Granite is a common intrusive igneous rock with visible crystals. Extrusive igneous rocks form when lava cools quickly on Earth's surface. Because they cool fast, the crystals do not have time to grow large, so the rock looks smooth or glassy. Basalt and obsidian are common extrusive igneous rocks.",
+            "examples": [
+              {"problem": "What is the difference between magma and lava?", "answer": "Magma is melted rock below Earth's surface. When magma reaches the surface (through a volcano), it is called lava.", "explanation": "It is the same material — the name changes based on whether it is underground (magma) or above ground (lava)."},
+              {"problem": "Why does granite have large visible crystals?", "answer": "Granite is an intrusive igneous rock that cooled slowly underground. The slow cooling gave the mineral crystals time to grow large.", "explanation": "Slow cooling = large crystals (intrusive). Fast cooling = small or no visible crystals (extrusive)."}
+            ],
+            "key_vocabulary": ["igneous", "magma", "lava", "intrusive", "extrusive", "crystal", "granite", "basalt", "obsidian", "volcano"],
+            "real_world": "The Hawaiian Islands were formed entirely from igneous rock! They were built by underwater volcanoes erupting lava that cooled and hardened, eventually rising above the ocean surface."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How do igneous rocks form?", "options": ["From layers of sediment", "When melted rock cools and hardens", "When existing rocks change under heat and pressure", "From dead organisms"], "correct": 1, "hint": "The word 'igneous' comes from the Latin word for fire. These rocks form from melted rock."},
+            {"type": "fill_in", "question": "Melted rock below Earth's surface is called ___.", "answer": "magma", "hint": "When this material reaches the surface through a volcano, its name changes to lava."},
+            {"type": "true_false", "question": "Extrusive igneous rocks have large crystals because they cool slowly.", "answer": false, "hint": "Extrusive rocks cool quickly on the surface. Fast cooling means small crystals."},
+            {"type": "multiple_choice", "question": "Which rock is an intrusive igneous rock with visible crystals?", "options": ["Obsidian", "Sandstone", "Granite", "Limestone"], "correct": 2, "hint": "This common rock cooled slowly underground and has a speckled appearance."},
+            {"type": "true_false", "question": "Lava is melted rock on Earth's surface.", "answer": true, "hint": "When magma erupts from a volcano, it reaches the surface and is called lava."},
+            {"type": "multiple_choice", "question": "Why does obsidian look smooth and glassy?", "options": ["It formed underground very slowly", "It formed when lava cooled very quickly on the surface", "It is made of sand", "It contains large crystals"], "correct": 1, "hint": "Obsidian is an extrusive rock. Fast cooling means no time for crystals to grow."},
+            {"type": "fill_in", "question": "Igneous rocks that form underground when magma cools slowly are called ___ igneous rocks.", "answer": "intrusive", "hint": "The magma 'intrudes' or pushes into the rock underground."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-2-3",
+          "title": "Sedimentary Rocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sedimentary rocks form from layers of sediment — small pieces of rock, sand, mud, shells, and other materials — that pile up over time. Here is how it works: wind, water, and ice break existing rocks into smaller pieces through a process called weathering. These small pieces, called sediments, are carried by wind, water, or ice to new locations — this is erosion. The sediments settle in layers, often at the bottom of lakes, rivers, or oceans — this is deposition. Over thousands to millions of years, the weight of the layers above presses down on the lower layers (compaction), and minerals dissolved in water cement the particles together (cementation). This is how sedimentary rock forms. Sedimentary rocks often have visible layers and may contain fossils — the preserved remains of ancient living things. Common sedimentary rocks include sandstone (made of sand grains), limestone (often made of shells and sea creature remains), and shale (made of clay and mud).",
+            "examples": [
+              {"problem": "Why do sedimentary rocks often contain fossils?", "answer": "When organisms die, their remains can get buried in layers of sediment. Over time, as the sediment turns to rock, the remains are preserved as fossils.", "explanation": "Sedimentary rocks form in layers, which is perfect for trapping and preserving dead organisms."},
+              {"problem": "What are the steps that form sedimentary rock?", "answer": "Weathering (rock breaks into pieces) → Erosion (pieces are carried away) → Deposition (pieces settle in layers) → Compaction & Cementation (layers are pressed together and cemented into rock).", "explanation": "This process takes thousands to millions of years."}
+            ],
+            "key_vocabulary": ["sedimentary", "sediment", "weathering", "erosion", "deposition", "compaction", "cementation", "fossil", "layers", "sandstone", "limestone"],
+            "real_world": "The Grand Canyon reveals millions of years of sedimentary rock layers. Each layer tells a story about what the environment was like when it formed — some layers contain ocean fossils, showing that the area was once underwater!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How do sedimentary rocks form?", "options": ["From melted rock cooling", "From layers of sediment being compressed and cemented over time", "From existing rocks being heated and squeezed", "From volcanic eruptions"], "correct": 1, "hint": "These rocks form from layers of small pieces piling up and being pressed together."},
+            {"type": "fill_in", "question": "The process of rock breaking into smaller pieces is called ___.", "answer": "weathering", "hint": "Wind, water, ice, and temperature changes wear away at rock over time."},
+            {"type": "true_false", "question": "Sedimentary rocks often contain fossils.", "answer": true, "hint": "Organisms can be buried in sediment layers and preserved over time."},
+            {"type": "multiple_choice", "question": "What is the correct order of sedimentary rock formation?", "options": ["Deposition → Weathering → Erosion → Compaction", "Weathering → Erosion → Deposition → Compaction and Cementation", "Compaction → Deposition → Weathering → Erosion", "Erosion → Compaction → Weathering → Deposition"], "correct": 1, "hint": "First rock breaks apart, then the pieces move, settle, and get pressed together."},
+            {"type": "fill_in", "question": "Sandstone is a sedimentary rock made of ___ grains.", "answer": "sand", "hint": "The name of this rock tells you what it is made of."},
+            {"type": "true_false", "question": "Sedimentary rocks form in a few days.", "answer": false, "hint": "The process of turning sediment into solid rock takes thousands to millions of years."},
+            {"type": "multiple_choice", "question": "Which of these is a sedimentary rock?", "options": ["Granite", "Obsidian", "Limestone", "Marble"], "correct": 2, "hint": "This rock is often made from shells and remains of sea creatures that settled in layers."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-2-4",
+          "title": "Metamorphic Rocks",
+          "type": "lesson",
+          "content": {
+            "explanation": "Metamorphic rocks form when existing rocks are changed by extreme heat, pressure, or both — without melting. The word 'metamorphic' means 'changed form.' Deep inside Earth, rocks can be subjected to intense heat from nearby magma and enormous pressure from the weight of rock above them. These conditions cause the minerals in the rock to rearrange and form new crystals, changing the rock's texture and sometimes its mineral composition. Any type of rock — igneous, sedimentary, or even another metamorphic rock — can be transformed into a metamorphic rock. For example, limestone (a sedimentary rock) becomes marble when subjected to heat and pressure. Shale (sedimentary) becomes slate. Granite (igneous) becomes gneiss. Metamorphic rocks are often harder and denser than the original rock, and many have a banded or layered appearance from the minerals being squeezed into alignment.",
+            "examples": [
+              {"problem": "How does limestone become marble?", "answer": "When limestone is subjected to intense heat and pressure deep inside Earth, its mineral crystals rearrange and recrystallize, forming marble.", "explanation": "The calcite minerals in limestone recrystallize into larger, interlocking crystals, creating the smooth, hard rock we know as marble."},
+              {"problem": "Can a metamorphic rock be changed into another metamorphic rock?", "answer": "Yes! If a metamorphic rock is subjected to even more heat and pressure, it can be transformed again into a different metamorphic rock.", "explanation": "For example, shale first becomes slate, then with more heat and pressure, slate can become phyllite, then schist, then gneiss."}
+            ],
+            "key_vocabulary": ["metamorphic", "heat", "pressure", "transform", "recrystallize", "marble", "slate", "gneiss", "texture"],
+            "real_world": "Marble has been used for sculptures and buildings for thousands of years. The ancient Greek Parthenon and Michelangelo's famous statue of David are made of marble — a metamorphic rock formed from limestone."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How do metamorphic rocks form?", "options": ["From melted rock cooling", "From layers of sediment", "When existing rocks are changed by heat and pressure", "From volcanic lava"], "correct": 2, "hint": "'Metamorphic' means 'changed form.' These rocks are existing rocks that have been changed."},
+            {"type": "fill_in", "question": "Limestone transforms into ___ when subjected to heat and pressure.", "answer": "marble", "hint": "This beautiful stone is used in sculptures and buildings."},
+            {"type": "true_false", "question": "Metamorphic rocks form when rock melts completely.", "answer": false, "hint": "If rock melts, it becomes magma and then forms igneous rock. Metamorphic rocks change WITHOUT melting."},
+            {"type": "multiple_choice", "question": "What two forces cause metamorphic rocks to form?", "options": ["Wind and rain", "Heat and pressure", "Water and ice", "Sunlight and wind"], "correct": 1, "hint": "Deep inside Earth, rocks experience extreme temperatures and the enormous weight of rock above."},
+            {"type": "true_false", "question": "Only sedimentary rocks can become metamorphic rocks.", "answer": false, "hint": "Any type of rock — igneous, sedimentary, or even another metamorphic rock — can be transformed."},
+            {"type": "multiple_choice", "question": "What does shale become when it is subjected to heat and pressure?", "options": ["Granite", "Marble", "Slate", "Obsidian"], "correct": 2, "hint": "This metamorphic rock is sometimes used as roofing tiles because it splits into flat sheets."},
+            {"type": "fill_in", "question": "The word 'metamorphic' means 'changed ___.'", "answer": "form", "hint": "The rock changes from one form to another."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-2-5",
+          "title": "The Rock Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The rock cycle is the continuous process by which rocks change from one type to another over millions of years. No rock stays the same forever — all rocks are slowly being changed by natural processes. Here is how it works: igneous rocks on the surface are broken down by weathering and erosion into sediments. These sediments are deposited in layers and eventually become sedimentary rocks through compaction and cementation. When sedimentary rocks are pushed deep underground by plate movements, heat and pressure transform them into metamorphic rocks. If metamorphic rocks are pushed even deeper where temperatures are extreme, they can melt into magma. When magma cools, it forms new igneous rocks, and the cycle continues. However, the cycle does not always follow this exact order. Any rock type can be transformed into any other rock type. For example, igneous rock can be pushed underground and become metamorphic without first becoming sedimentary.",
+            "examples": [
+              {"problem": "Can an igneous rock become a sedimentary rock?", "answer": "Yes! Weathering and erosion break the igneous rock into sediments. These sediments are deposited, compacted, and cemented into sedimentary rock.", "explanation": "This is one path through the rock cycle, but remember — rocks can skip steps and take different paths."},
+              {"problem": "Why is it called a 'cycle'?", "answer": "Because the process repeats endlessly. Rocks are constantly being created, destroyed, and transformed into other types of rock.", "explanation": "Like the water cycle, the rock cycle has no beginning or end. It is a continuous, ongoing process."}
+            ],
+            "key_vocabulary": ["rock cycle", "igneous", "sedimentary", "metamorphic", "weathering", "erosion", "compaction", "cementation", "magma", "transform"],
+            "real_world": "The rock cycle is incredibly slow — it takes millions of years for rocks to complete the cycle. The pebbles on a beach were once part of much larger rocks that were slowly worn down by water and weather."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the rock cycle?", "options": ["A type of bicycle made of rocks", "The continuous process by which rocks change from one type to another", "Rocks rolling down a hill", "How rocks are arranged in a garden"], "correct": 1, "hint": "The rock cycle describes the ongoing transformation of rocks over millions of years."},
+            {"type": "fill_in", "question": "The three types of rocks are igneous, sedimentary, and ___.", "answer": "metamorphic", "hint": "This type forms when existing rocks are changed by heat and pressure."},
+            {"type": "true_false", "question": "Rocks must always follow the same path through the rock cycle.", "answer": false, "hint": "Any rock type can be changed into any other type. The cycle has many possible paths."},
+            {"type": "multiple_choice", "question": "What process breaks rocks into sediments?", "options": ["Melting", "Weathering and erosion", "Compaction", "Cementation"], "correct": 1, "hint": "Wind, water, and ice wear rocks down into smaller pieces."},
+            {"type": "true_false", "question": "The rock cycle takes millions of years.", "answer": true, "hint": "The processes of weathering, erosion, compaction, and metamorphism happen very slowly."},
+            {"type": "multiple_choice", "question": "What happens to metamorphic rock if it melts?", "options": ["It becomes sedimentary rock", "It becomes magma, which can cool into igneous rock", "It disappears", "It becomes soil"], "correct": 1, "hint": "When any rock melts, it becomes magma. What forms when magma cools?"},
+            {"type": "fill_in", "question": "The rock cycle is ___, meaning it never stops and has no beginning or end.", "answer": "continuous", "hint": "Like a circle, the rock cycle keeps going and repeating."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What are the three types of rocks?", "options": ["Big, medium, and small", "Igneous, sedimentary, and metamorphic", "Hard, soft, and medium", "Light, dark, and colorful"], "correct": 1},
+          {"type": "fill_in", "question": "Igneous rocks form when ___ cools and hardens.", "answer": "magma"},
+          {"type": "true_false", "question": "Sedimentary rocks can contain fossils.", "answer": true},
+          {"type": "multiple_choice", "question": "What scale measures a mineral's hardness?", "options": ["Richter Scale", "Mohs Scale", "Fahrenheit Scale", "pH Scale"], "correct": 1},
+          {"type": "multiple_choice", "question": "What causes metamorphic rocks to form?", "options": ["Cooling lava", "Layers of sediment", "Heat and pressure", "Wind and rain"], "correct": 2},
+          {"type": "true_false", "question": "The rock cycle follows one specific order.", "answer": false},
+          {"type": "fill_in", "question": "Limestone changes into ___ through heat and pressure.", "answer": "marble"},
+          {"type": "multiple_choice", "question": "Which property describes how a mineral reflects light?", "options": ["Hardness", "Streak", "Luster", "Density"], "correct": 2},
+          {"type": "true_false", "question": "Granite is an intrusive igneous rock.", "answer": true},
+          {"type": "multiple_choice", "question": "What breaks rocks into smaller pieces over time?", "options": ["Cementation", "Compaction", "Weathering and erosion", "Pressure"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "rock_collector"
+      }
+    },
+    {
+      "id": "4-sci-3",
+      "title": "Earth's Surface Changes",
+      "description": "Learn about the powerful forces that shape Earth's surface, from slow weathering and erosion to sudden earthquakes and volcanic eruptions.",
+      "lessons": [
+        {
+          "id": "4-sci-3-1",
+          "title": "Weathering",
+          "type": "lesson",
+          "content": {
+            "explanation": "Weathering is the process that breaks rocks into smaller pieces over time. There are two main types: physical weathering and chemical weathering. Physical weathering breaks rocks without changing their chemical makeup. It includes freeze-thaw weathering (water seeps into cracks, freezes, expands, and splits the rock), abrasion (rocks bump into each other and wear down), plant root growth (roots grow into cracks and push rocks apart), and temperature changes (heating and cooling causes rocks to expand and contract, creating cracks). Chemical weathering changes the chemical composition of rocks. It includes acid rain dissolving minerals in rock, water reacting with minerals to form clay, and oxygen reacting with iron in rocks to form rust. Both types of weathering work together to slowly break down even the hardest rocks over time.",
+            "examples": [
+              {"problem": "How does freeze-thaw weathering work?", "answer": "Water seeps into cracks in rock. When it freezes, it expands (gets bigger) and pushes the crack wider. This happens over and over, eventually splitting the rock apart.", "explanation": "Water expands about 9% when it freezes. This may seem small, but repeated over thousands of cycles, it can break even large boulders."},
+              {"problem": "How does acid rain cause chemical weathering?", "answer": "Acid rain contains chemicals that react with minerals in rocks, dissolving them and weakening the rock structure over time.", "explanation": "This is why old statues and buildings made of limestone or marble often look worn and faded — acid rain slowly dissolves the stone."}
+            ],
+            "key_vocabulary": ["weathering", "physical weathering", "chemical weathering", "freeze-thaw", "abrasion", "acid rain", "dissolve", "erosion"],
+            "real_world": "If you have ever seen an old gravestone with words that are hard to read, that is because weathering has slowly worn away the stone over many decades."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is weathering?", "options": ["The weather forecast", "The process of rocks breaking into smaller pieces", "Rocks getting wet in the rain", "Rocks moving to a new location"], "correct": 1, "hint": "Weathering breaks rocks DOWN. It does not move them somewhere else."},
+            {"type": "fill_in", "question": "Water seeping into cracks and freezing causes ___-thaw weathering.", "answer": "freeze", "hint": "Water freezes and expands, pushing the rock apart."},
+            {"type": "true_false", "question": "Chemical weathering changes the chemical composition of rocks.", "answer": true, "hint": "Chemical weathering uses chemicals like acid to change the minerals in the rock."},
+            {"type": "multiple_choice", "question": "Which is an example of physical weathering?", "options": ["Acid rain dissolving rock", "Rust forming on rock", "Tree roots growing into cracks", "Oxygen reacting with iron"], "correct": 2, "hint": "Physical weathering breaks rock without changing its chemistry. Which option involves physical force?"},
+            {"type": "true_false", "question": "Plant roots can break rocks apart.", "answer": true, "hint": "As roots grow, they push into cracks and slowly widen them, eventually splitting the rock."},
+            {"type": "multiple_choice", "question": "What causes rust on rocks?", "options": ["Water freezing", "Oxygen reacting with iron minerals in the rock", "Wind blowing sand", "Roots growing into cracks"], "correct": 1, "hint": "Rust is a chemical reaction between oxygen and iron. This is chemical weathering."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-3-2",
+          "title": "Erosion and Deposition",
+          "type": "lesson",
+          "content": {
+            "explanation": "After weathering breaks rocks into smaller pieces, erosion carries those pieces to new locations. Erosion is the movement of weathered rock, soil, and sediment from one place to another by water, wind, ice, or gravity. Water is the most powerful agent of erosion — rivers carve valleys, ocean waves shape coastlines, and rainfall washes soil downhill. Wind picks up sand and dust and carries it across deserts, forming sand dunes. Glaciers (massive sheets of ice) slowly move across the land, scraping up rock and soil and carrying it along. Gravity causes rockslides and landslides, pulling loose material downhill. When the eroding agent (water, wind, ice, or gravity) loses energy, it drops the sediment it was carrying. This process is called deposition. Rivers deposit sediment at their mouths, forming deltas. Wind deposits sand in dunes. Glaciers deposit piles of rock and soil called moraines.",
+            "examples": [
+              {"problem": "How did the Grand Canyon form?", "answer": "The Colorado River has been eroding rock for millions of years, cutting deeper and deeper to create the massive canyon we see today.", "explanation": "Water erosion is incredibly powerful over long time periods. The Grand Canyon is about one mile deep and was carved primarily by the river."},
+              {"problem": "What is a delta?", "answer": "A delta is a landform created when a river deposits sediment at its mouth (where it meets the ocean or a lake). The river slows down and drops the sediment it has been carrying.", "explanation": "The Mississippi River Delta in Louisiana was formed by millions of years of the river depositing sediment."}
+            ],
+            "key_vocabulary": ["erosion", "deposition", "sediment", "glacier", "delta", "dune", "valley", "canyon", "moraine"],
+            "real_world": "Beach erosion is a real problem for coastal communities. Ocean waves constantly wear away the shoreline, and storms can erode large amounts of beach in a short time."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is erosion?", "options": ["Breaking rock into pieces", "The movement of weathered material from one place to another", "Rock melting underground", "New rock forming"], "correct": 1, "hint": "Erosion MOVES material. Weathering BREAKS material."},
+            {"type": "fill_in", "question": "The most powerful agent of erosion is ___.", "answer": "water", "hint": "Rivers, ocean waves, and rainfall all shape the land. Think about the Grand Canyon."},
+            {"type": "true_false", "question": "Glaciers can erode land by scraping up rock and soil as they move.", "answer": true, "hint": "Glaciers are massive sheets of ice that slowly flow across the land, grinding rock underneath them."},
+            {"type": "multiple_choice", "question": "When does deposition occur?", "options": ["When rocks break apart", "When the agent of erosion loses energy and drops sediment", "When rocks melt", "When earthquakes happen"], "correct": 1, "hint": "When water slows down or wind dies down, it cannot carry sediment anymore and drops it."},
+            {"type": "multiple_choice", "question": "What landform is created when a river deposits sediment at its mouth?", "options": ["Canyon", "Mountain", "Delta", "Valley"], "correct": 2, "hint": "This triangle-shaped landform forms where rivers meet oceans or lakes."},
+            {"type": "true_false", "question": "Wind erosion can form sand dunes.", "answer": true, "hint": "Wind picks up sand and deposits it in piles called dunes."},
+            {"type": "fill_in", "question": "Massive, slow-moving sheets of ice that erode the land are called ___.", "answer": "glaciers", "hint": "These ice formations carve valleys and carry enormous amounts of rock and soil."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-3-3",
+          "title": "Earthquakes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth's outer layer (the crust) is not one solid piece — it is broken into large sections called tectonic plates that float on the semi-liquid layer beneath them. These plates are constantly moving, but very slowly (only a few centimeters per year). When plates push against each other, pull apart, or slide past each other, stress builds up along the boundaries. When the stress becomes too great, the rock suddenly breaks or shifts, releasing energy in the form of seismic waves. This sudden release of energy is an earthquake. The point underground where the earthquake starts is called the focus, and the point on the surface directly above it is called the epicenter. The strength of an earthquake is measured using the Richter scale. Earthquakes can cause serious damage to buildings and roads, trigger landslides, and if they occur under the ocean, they can cause huge waves called tsunamis.",
+            "examples": [
+              {"problem": "What causes earthquakes?", "answer": "Earthquakes are caused by the sudden release of energy when tectonic plates shift along their boundaries. Stress builds up as plates push, pull, or slide against each other, and when the rock breaks or shifts, the energy is released as seismic waves.", "explanation": "Most earthquakes happen along plate boundaries, but they can also occur within plates."},
+              {"problem": "What is the difference between the focus and the epicenter?", "answer": "The focus is the point underground where the earthquake actually occurs. The epicenter is the point on Earth's surface directly above the focus.", "explanation": "The epicenter is where the earthquake is felt most strongly on the surface."}
+            ],
+            "key_vocabulary": ["earthquake", "tectonic plates", "crust", "seismic waves", "focus", "epicenter", "Richter scale", "fault", "tsunami"],
+            "real_world": "The 'Ring of Fire' around the Pacific Ocean is an area where many tectonic plates meet. About 90% of the world's earthquakes happen along this ring."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What causes earthquakes?", "options": ["Heavy rainfall", "Strong winds", "Tectonic plates shifting and releasing energy", "The moon's gravity"], "correct": 2, "hint": "Earthquakes happen when the large sections of Earth's crust move suddenly."},
+            {"type": "fill_in", "question": "Earth's outer layer is broken into large sections called tectonic ___.", "answer": "plates", "hint": "These large sections float on the layer beneath them and move very slowly."},
+            {"type": "true_false", "question": "The epicenter is the point underground where an earthquake starts.", "answer": false, "hint": "The epicenter is on the SURFACE. The underground starting point has a different name — the focus."},
+            {"type": "multiple_choice", "question": "What scale measures the strength of earthquakes?", "options": ["Mohs Scale", "Fahrenheit Scale", "Richter Scale", "Celsius Scale"], "correct": 2, "hint": "This scale was developed by Charles Richter and measures earthquake magnitude."},
+            {"type": "true_false", "question": "Tectonic plates move very quickly — about one meter per day.", "answer": false, "hint": "Tectonic plates move very slowly, only a few centimeters per YEAR."},
+            {"type": "multiple_choice", "question": "What can an underwater earthquake cause?", "options": ["A tornado", "A blizzard", "A tsunami", "A drought"], "correct": 2, "hint": "An earthquake under the ocean can create a huge ocean wave."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-3-4",
+          "title": "Volcanoes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A volcano is an opening in Earth's crust where magma (melted rock), ash, and gases escape from deep underground. When magma reaches the surface, it is called lava. Volcanic eruptions can be gentle, with lava flowing slowly, or explosive, with ash and rock shooting high into the sky. Volcanoes form at tectonic plate boundaries where plates are pulling apart or pushing together, and also at 'hot spots' where magma pushes up through the middle of a plate (like Hawaii). There are three types of volcanoes: active (have erupted recently and could erupt again), dormant (have not erupted in a long time but could), and extinct (will never erupt again). While volcanic eruptions can be destructive, they also create new land, produce fertile soil rich in minerals, and form islands. Over millions of years, volcanic activity has shaped much of Earth's surface.",
+            "examples": [
+              {"problem": "What is the difference between magma and lava?", "answer": "They are the same material (melted rock), but magma is underground and lava is on Earth's surface.", "explanation": "Once magma flows out of a volcano, it is called lava. When lava cools, it forms igneous rock."},
+              {"problem": "Are all volcanic eruptions explosive?", "answer": "No. Some volcanoes erupt gently with lava flowing slowly (like in Hawaii). Others erupt explosively with ash clouds and pyroclastic flows (like Mount St. Helens).", "explanation": "The type of eruption depends on the thickness of the magma and how much gas is trapped in it."}
+            ],
+            "key_vocabulary": ["volcano", "eruption", "magma", "lava", "ash", "active", "dormant", "extinct", "crater", "tectonic plates"],
+            "real_world": "Mount Vesuvius erupted in 79 AD and buried the Roman city of Pompeii in ash. The ash preserved the city so well that archaeologists have been able to learn exactly what daily life was like 2,000 years ago."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a volcano?", "options": ["A type of rock", "An opening in Earth's crust where magma escapes", "A large mountain with snow", "A crack in the ocean floor"], "correct": 1, "hint": "Volcanoes allow material from deep inside Earth to reach the surface."},
+            {"type": "fill_in", "question": "A volcano that has not erupted in a long time but could erupt again is called ___.", "answer": "dormant", "hint": "This word means 'sleeping.' The volcano is not active now but is not completely dead."},
+            {"type": "true_false", "question": "Volcanic eruptions can create new land.", "answer": true, "hint": "The Hawaiian Islands were formed entirely by volcanic eruptions building up rock from the ocean floor."},
+            {"type": "multiple_choice", "question": "Where do most volcanoes form?", "options": ["In the middle of continents", "At tectonic plate boundaries", "In the ocean only", "Near the North Pole"], "correct": 1, "hint": "Most volcanoes form where Earth's tectonic plates meet or separate."},
+            {"type": "true_false", "question": "An extinct volcano will never erupt again.", "answer": true, "hint": "Extinct means the volcano has no more magma supply and will not erupt in the future."},
+            {"type": "multiple_choice", "question": "What benefit do volcanic eruptions provide?", "options": ["They create new land and produce fertile soil", "They make the weather warmer", "They create oceans", "They stop earthquakes"], "correct": 0, "hint": "Volcanic soil is very rich in minerals, which is great for growing crops."},
+            {"type": "fill_in", "question": "The bowl-shaped opening at the top of a volcano is called a ___.", "answer": "crater", "hint": "This is the opening where lava, ash, and gases escape during an eruption."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which type of weathering changes the chemical composition of rocks?", "options": ["Physical weathering", "Chemical weathering", "Biological weathering", "Mechanical weathering"], "correct": 1},
+          {"type": "true_false", "question": "Water is the most powerful agent of erosion.", "answer": true},
+          {"type": "fill_in", "question": "A landform created when a river deposits sediment at its mouth is called a ___.", "answer": "delta"},
+          {"type": "multiple_choice", "question": "What are tectonic plates?", "options": ["Types of volcanoes", "Large sections of Earth's crust that move slowly", "Layers of sediment", "Types of minerals"], "correct": 1},
+          {"type": "true_false", "question": "The Richter Scale measures the strength of volcanoes.", "answer": false},
+          {"type": "multiple_choice", "question": "What is the difference between a focus and an epicenter?", "options": ["There is no difference", "Focus is underground, epicenter is on the surface above it", "Focus is on the surface, epicenter is underground", "They are in different earthquakes"], "correct": 1},
+          {"type": "fill_in", "question": "A volcano that is 'sleeping' and could erupt again is called ___.", "answer": "dormant"},
+          {"type": "multiple_choice", "question": "Freeze-thaw weathering is caused by:", "options": ["Wind", "Water expanding as it freezes in rock cracks", "Plant roots", "Acid rain"], "correct": 1},
+          {"type": "true_false", "question": "Volcanic eruptions only cause destruction and have no benefits.", "answer": false},
+          {"type": "multiple_choice", "question": "When a river slows down and drops the sediment it was carrying, this is called:", "options": ["Erosion", "Weathering", "Deposition", "Compaction"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "earth_shaper"
+      }
+    },
+    {
+      "id": "4-sci-4",
+      "title": "Energy: Heat, Light, and Sound",
+      "description": "Explore the different forms of energy, how heat moves, how light behaves, and how sound travels through different materials.",
+      "lessons": [
+        {
+          "id": "4-sci-4-1",
+          "title": "What Is Energy?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy is the ability to do work or cause change. Energy is everywhere and comes in many forms. Kinetic energy is the energy of motion — anything that moves has kinetic energy. A rolling ball, a flying bird, and running water all have kinetic energy. Potential energy is stored energy that has the potential to do something. A ball sitting at the top of a hill has gravitational potential energy — it could roll down at any moment. A stretched rubber band has elastic potential energy. Food has chemical potential energy that your body converts to kinetic energy when you move. Energy cannot be created or destroyed — it can only change from one form to another. This is called the law of conservation of energy. When you eat food, chemical energy is converted to kinetic energy (movement) and thermal energy (body heat).",
+            "examples": [
+              {"problem": "What type of energy does a ball at the top of a hill have?", "answer": "Potential energy (specifically gravitational potential energy). It has stored energy because of its position. When it rolls down, the potential energy converts to kinetic energy.", "explanation": "The higher the hill, the more potential energy the ball has."},
+              {"problem": "When you clap your hands, what energy conversion occurs?", "answer": "Kinetic energy (hand movement) is converted into sound energy (the clap) and thermal energy (your hands feel slightly warmer).", "explanation": "Energy changes form but is never lost. The kinetic energy does not disappear — it becomes sound and heat."}
+            ],
+            "key_vocabulary": ["energy", "kinetic energy", "potential energy", "conservation of energy", "chemical energy", "thermal energy", "convert", "work"],
+            "real_world": "A roller coaster is a great example of energy conversion! At the top of the first hill, the coaster has maximum potential energy. As it drops, potential energy converts to kinetic energy (speed). At the bottom, it has maximum kinetic energy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is energy?", "options": ["A type of matter", "The ability to do work or cause change", "Something only found in electricity", "A kind of force"], "correct": 1, "hint": "Energy is what makes things happen — it causes motion, heat, light, sound, and change."},
+            {"type": "fill_in", "question": "Energy of motion is called ___ energy.", "answer": "kinetic", "hint": "A moving car, a running person, and a flying ball all have this type of energy."},
+            {"type": "true_false", "question": "Energy can be created from nothing.", "answer": false, "hint": "The law of conservation of energy says energy cannot be created or destroyed, only changed."},
+            {"type": "multiple_choice", "question": "A stretched rubber band has what type of energy?", "options": ["Kinetic energy", "Sound energy", "Potential energy", "Light energy"], "correct": 2, "hint": "The rubber band has stored energy that could be released. This is energy waiting to be used."},
+            {"type": "true_false", "question": "Food contains chemical energy.", "answer": true, "hint": "Your body converts the chemical energy in food into kinetic energy and heat."},
+            {"type": "multiple_choice", "question": "On a roller coaster, where is kinetic energy the greatest?", "options": ["At the top of the highest hill", "At the bottom of the lowest dip", "When the coaster is stopped", "In the middle of a flat section"], "correct": 1, "hint": "Kinetic energy is greatest when speed is greatest. Where is the coaster moving fastest?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-4-2",
+          "title": "Heat Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Heat (thermal energy) is the energy of moving particles in matter. The faster the particles move, the more thermal energy the matter has, and the warmer it feels. Heat always moves from warmer objects to cooler objects until they reach the same temperature. There are three ways heat moves: conduction, convection, and radiation. Conduction is heat moving through direct contact. When you touch a hot pan, heat moves from the pan to your hand through conduction. Metals are good conductors of heat. Convection is heat moving through liquids and gases in a circular pattern. Warm air or water rises (because it is less dense), cool air or water sinks, creating a circulation pattern. This is how a room heater warms an entire room. Radiation is heat moving through electromagnetic waves, like the heat you feel from the sun. Radiation can travel through empty space — that is how the sun's heat reaches Earth.",
+            "examples": [
+              {"problem": "Why does a metal spoon get hot when left in a pot of hot soup?", "answer": "Heat moves from the hot soup through the metal spoon by conduction. Metal is a good conductor, so heat travels through it quickly.", "explanation": "The fast-moving particles in the hot soup bump into the metal spoon particles, transferring energy up the spoon to your hand."},
+              {"problem": "How does the sun warm Earth?", "answer": "The sun's heat reaches Earth through radiation — electromagnetic waves that can travel through empty space.", "explanation": "There is no air in space for conduction or convection, so the sun's energy must travel as radiation."}
+            ],
+            "key_vocabulary": ["heat", "thermal energy", "conduction", "convection", "radiation", "conductor", "insulator", "temperature", "particles"],
+            "real_world": "Insulation in your house walls slows down heat transfer. In winter, it keeps heat IN. In summer, it keeps heat OUT. Good insulators like fiberglass, foam, and even air help save energy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Heat always flows from:", "options": ["Cold objects to warm objects", "Warm objects to cold objects", "Left to right", "Big objects to small objects"], "correct": 1, "hint": "Think about what happens when you put an ice cube in warm water. Where does the heat go?"},
+            {"type": "fill_in", "question": "Heat transfer through direct contact is called ___.", "answer": "conduction", "hint": "When you touch a hot stove, heat moves directly from the stove to your skin."},
+            {"type": "true_false", "question": "Radiation can travel through empty space.", "answer": true, "hint": "The sun's heat reaches Earth through the vacuum of space. This is radiation."},
+            {"type": "multiple_choice", "question": "Which type of heat transfer involves warm air rising and cool air sinking?", "options": ["Conduction", "Convection", "Radiation", "Insulation"], "correct": 1, "hint": "This circular pattern of warm air rising and cool air sinking is how a heater warms a room."},
+            {"type": "multiple_choice", "question": "Which material is a good conductor of heat?", "options": ["Wood", "Plastic", "Metal", "Rubber"], "correct": 2, "hint": "This is why pots and pans are made of this material — it transfers heat well."},
+            {"type": "true_false", "question": "An insulator slows down the transfer of heat.", "answer": true, "hint": "Materials like wool, foam, and fiberglass are insulators that keep heat from moving easily."},
+            {"type": "fill_in", "question": "Heat moving through liquids and gases in a circular pattern is called ___.", "answer": "convection", "hint": "Warm fluid rises, cool fluid sinks, creating a circular flow."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-4-3",
+          "title": "Light Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Light is a form of energy that we can see. Light travels in straight lines at an incredible speed — about 186,000 miles per second! The sun is our main source of natural light, but we also get light from fires, light bulbs, and glowing screens. When light hits an object, three things can happen: it can be reflected (bounced off), absorbed (taken in), or transmitted (passed through). Mirrors reflect most light. Dark-colored objects absorb most light and convert it to heat (which is why dark clothes feel warmer in the sun). Clear glass transmits most light, which is why you can see through windows. Opaque objects do not let light through at all and cast shadows. Translucent objects let some light through but scatter it (like frosted glass). Transparent objects let light pass through clearly (like clear glass). Light can also be refracted (bent) when it passes from one material to another, like from air into water.",
+            "examples": [
+              {"problem": "Why do dark-colored cars get hotter in the sun than white cars?", "answer": "Dark colors absorb more light energy and convert it to heat. Light colors reflect more light, so they absorb less heat.", "explanation": "This is why people often wear light-colored clothing in summer — it reflects sunlight and keeps them cooler."},
+              {"problem": "Why does a pencil look bent when placed in a glass of water?", "answer": "Light bends (refracts) when it passes from water to air. This bending makes the pencil appear to be bent at the water's surface.", "explanation": "Light travels at different speeds through different materials. When it changes speed, it changes direction (bends)."}
+            ],
+            "key_vocabulary": ["light", "reflect", "absorb", "transmit", "opaque", "translucent", "transparent", "refraction", "shadow"],
+            "real_world": "Rainbows form when sunlight is refracted (bent) as it passes through raindrops. The water separates white light into its component colors: red, orange, yellow, green, blue, indigo, and violet."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What happens when light hits a mirror?", "options": ["It is absorbed", "It is reflected", "It passes through", "It disappears"], "correct": 1, "hint": "Mirrors bounce light back, which is how you see your reflection."},
+            {"type": "fill_in", "question": "An object that does not let any light through is called ___.", "answer": "opaque", "hint": "A wall, a book, and a person are all examples. Light cannot pass through them."},
+            {"type": "true_false", "question": "Light travels in curved lines.", "answer": false, "hint": "Light travels in straight lines. This is why shadows have sharp edges."},
+            {"type": "multiple_choice", "question": "Why do dark objects feel warmer in sunlight?", "options": ["They reflect more light", "They absorb more light energy and convert it to heat", "They produce their own heat", "They are heavier"], "correct": 1, "hint": "Dark colors absorb light, and absorbed light energy becomes heat."},
+            {"type": "multiple_choice", "question": "What is refraction?", "options": ["Light bouncing off a surface", "Light being absorbed", "Light bending when it passes from one material to another", "Light being blocked"], "correct": 2, "hint": "This is why a pencil looks bent in a glass of water."},
+            {"type": "true_false", "question": "Clear glass is an example of a transparent material.", "answer": true, "hint": "Transparent means light can pass through clearly. You can see through clear glass."},
+            {"type": "fill_in", "question": "When light bounces off an object, it is called ___.", "answer": "reflection", "hint": "Mirrors do this very well. You see your image because light bounces back to your eyes."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-4-4",
+          "title": "Sound Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sound is a form of energy produced by vibrations. When an object vibrates (moves back and forth quickly), it creates sound waves that travel through the air to your ears. You can feel vibrations — pluck a guitar string and touch it, and you will feel it shaking. Sound waves need a medium (material) to travel through. Sound travels through solids, liquids, and gases, but it cannot travel through empty space (a vacuum) because there are no particles to vibrate. Sound travels fastest through solids (particles are closest together), slower through liquids, and slowest through gases. The pitch of a sound depends on how fast the object vibrates — fast vibrations make high-pitched sounds (like a whistle), and slow vibrations make low-pitched sounds (like a drum). The volume (loudness) depends on how much energy the vibrations have — bigger vibrations make louder sounds.",
+            "examples": [
+              {"problem": "Why can you not hear sounds in outer space?", "answer": "Space is a vacuum — there are no air molecules or other particles for sound waves to travel through.", "explanation": "Sound needs a medium (solid, liquid, or gas) to travel through. Without particles, sound cannot travel."},
+              {"problem": "Why does a thick guitar string make a lower sound than a thin one?", "answer": "A thick string vibrates more slowly than a thin string. Slower vibrations produce lower-pitched sounds.", "explanation": "Pitch is determined by vibration speed (frequency). Fast vibrations = high pitch. Slow vibrations = low pitch."}
+            ],
+            "key_vocabulary": ["sound", "vibration", "sound waves", "pitch", "volume", "frequency", "medium", "vacuum"],
+            "real_world": "Have you ever put your ear against a table and heard someone tapping on the other end? The sound is louder and clearer through the solid table because sound travels faster and better through solids than through air."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What produces sound?", "options": ["Light waves", "Vibrations", "Gravity", "Magnetism"], "correct": 1, "hint": "When an object moves back and forth quickly, it creates sound waves."},
+            {"type": "fill_in", "question": "Sound cannot travel through a ___ because there are no particles.", "answer": "vacuum", "hint": "Outer space is a place with no air or particles. Sound cannot travel there."},
+            {"type": "true_false", "question": "Sound travels fastest through solids.", "answer": true, "hint": "Particles in solids are packed closest together, allowing sound waves to travel most quickly."},
+            {"type": "multiple_choice", "question": "What determines the pitch of a sound?", "options": ["The size of the object", "How fast the object vibrates", "The color of the object", "The weight of the object"], "correct": 1, "hint": "Fast vibrations = high pitch. Slow vibrations = low pitch."},
+            {"type": "true_false", "question": "Louder sounds are produced by bigger vibrations.", "answer": true, "hint": "Volume depends on the energy of the vibrations. More energy means bigger vibrations and louder sounds."},
+            {"type": "multiple_choice", "question": "Through which medium does sound travel slowest?", "options": ["Solid (like steel)", "Liquid (like water)", "Gas (like air)", "Sound travels at the same speed through everything"], "correct": 2, "hint": "Gas particles are spread far apart, so sound waves travel slowest through gases."},
+            {"type": "fill_in", "question": "How fast an object vibrates determines the ___ of the sound.", "answer": "pitch", "hint": "High-pitched sounds come from fast vibrations, low-pitched sounds from slow vibrations."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is kinetic energy?", "options": ["Stored energy", "Energy of motion", "Heat energy", "Sound energy"], "correct": 1},
+          {"type": "true_false", "question": "Energy can be created from nothing.", "answer": false},
+          {"type": "fill_in", "question": "Heat transfer through direct contact is called ___.", "answer": "conduction"},
+          {"type": "multiple_choice", "question": "What happens when light hits a dark-colored object?", "options": ["Most light is reflected", "Most light is absorbed and converted to heat", "The light passes through", "The light disappears"], "correct": 1},
+          {"type": "true_false", "question": "Sound can travel through empty space.", "answer": false},
+          {"type": "multiple_choice", "question": "Which type of heat transfer warms a room through circular air patterns?", "options": ["Conduction", "Convection", "Radiation", "Reflection"], "correct": 1},
+          {"type": "fill_in", "question": "Light bending when it passes from one material to another is called ___.", "answer": "refraction"},
+          {"type": "multiple_choice", "question": "Sound travels fastest through:", "options": ["Gases", "Liquids", "Solids", "A vacuum"], "correct": 2},
+          {"type": "true_false", "question": "Fast vibrations produce high-pitched sounds.", "answer": true},
+          {"type": "multiple_choice", "question": "An object that lets some light through but scatters it is called:", "options": ["Transparent", "Opaque", "Translucent", "Reflective"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "energy_expert"
+      }
+    },
+    {
+      "id": "4-sci-5",
+      "title": "Electricity & Circuits",
+      "description": "Learn about electricity, how circuits work, the difference between conductors and insulators, and how we use electrical energy every day.",
+      "lessons": [
+        {
+          "id": "4-sci-5-1",
+          "title": "What Is Electricity?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Electricity is a form of energy caused by the movement of tiny particles called electrons. Everything is made of atoms, and atoms contain even smaller particles: protons (positive charge), neutrons (no charge), and electrons (negative charge). Electrons orbit the outer part of atoms and can sometimes move from one atom to another. When electrons flow through a material, that flow is called electric current — and that is electricity! There are two types of electricity: static electricity and current electricity. Static electricity is a buildup of electric charge on a surface (like when you rub a balloon on your hair and it sticks). Current electricity is a continuous flow of electrons through a conductor (like electricity flowing through wires in your house). Current electricity is what powers our lights, computers, and appliances. It flows through wires from a power source (like a battery or power plant) to the device that uses it.",
+            "examples": [
+              {"problem": "What causes static electricity when you rub a balloon on your hair?", "answer": "Rubbing the balloon on your hair transfers electrons from your hair to the balloon. The balloon becomes negatively charged and your hair becomes positively charged. Opposite charges attract, so your hair sticks to the balloon.", "explanation": "Static electricity is a buildup of charge that stays in one place, unlike current electricity which flows."},
+              {"problem": "What is electric current?", "answer": "Electric current is the continuous flow of electrons through a conductor, like wire. It is the type of electricity that powers our homes and devices.", "explanation": "Think of it like water flowing through a pipe — electrons flow through wires to deliver energy."}
+            ],
+            "key_vocabulary": ["electricity", "electron", "atom", "static electricity", "current electricity", "charge", "conductor", "proton", "neutron"],
+            "real_world": "Lightning is a dramatic example of static electricity! During a thunderstorm, charges build up in clouds. When the charge becomes strong enough, electrons jump between the cloud and the ground (or another cloud) as a lightning bolt."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is electricity?", "options": ["A type of matter", "Energy caused by the flow of electrons", "A type of light", "A kind of gas"], "correct": 1, "hint": "Electricity involves tiny charged particles moving through materials."},
+            {"type": "fill_in", "question": "The tiny particles that flow to create electric current are called ___.", "answer": "electrons", "hint": "These negatively charged particles orbit the outside of atoms."},
+            {"type": "true_false", "question": "Static electricity involves a continuous flow of electrons.", "answer": false, "hint": "Static means 'staying in place.' Static electricity is a buildup of charge, not a flow."},
+            {"type": "multiple_choice", "question": "What happens when you rub a balloon on your hair?", "options": ["Heat is created", "Electrons transfer from your hair to the balloon, creating static electricity", "Magnetism is created", "Sound is produced"], "correct": 1, "hint": "Rubbing moves electrons from one surface to another, creating a charge difference."},
+            {"type": "true_false", "question": "Current electricity is the type that powers our homes.", "answer": true, "hint": "Current electricity flows continuously through wires to deliver energy to our devices."},
+            {"type": "multiple_choice", "question": "Which is an example of static electricity?", "options": ["A light bulb turning on", "A phone charging", "Getting a small shock after walking on carpet", "A fan spinning"], "correct": 2, "hint": "Walking on carpet can build up a charge on your body. When you touch something metal, the charge jumps — zap!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-5-2",
+          "title": "Electric Circuits",
+          "type": "lesson",
+          "content": {
+            "explanation": "An electric circuit is a complete path that electricity flows through. Every circuit needs three things: a power source (like a battery), a conductor to carry the electricity (like a wire), and a load that uses the electricity (like a light bulb). For electricity to flow, the circuit must be complete — there cannot be any gaps. If there is a break anywhere in the circuit, electricity stops flowing and the device stops working. This is why we have switches! A switch works by opening or closing a gap in the circuit. When you flip a light switch ON, you close the circuit and electricity flows to the light. When you flip it OFF, you open the circuit and electricity stops. There are two types of circuits: series circuits (all components are connected in one loop) and parallel circuits (components are connected on separate branches). Most homes use parallel circuits because if one device breaks, the others keep working.",
+            "examples": [
+              {"problem": "Why does a light bulb go out when you flip the switch off?", "answer": "Flipping the switch OFF opens a gap in the circuit. Electricity cannot flow across the gap, so it stops reaching the light bulb.", "explanation": "A switch is just a device that opens or closes a gap in the circuit."},
+              {"problem": "What is the difference between series and parallel circuits?", "answer": "In a series circuit, all components are in one loop — if one breaks, they all stop. In a parallel circuit, components are on separate branches — if one breaks, the others keep working.", "explanation": "That is why if one light on a string of old Christmas lights goes out, they all go out (series), but in your house, one light burning out does not affect the others (parallel)."}
+            ],
+            "key_vocabulary": ["circuit", "power source", "conductor", "load", "switch", "series circuit", "parallel circuit", "complete circuit", "battery"],
+            "real_world": "Old-fashioned Christmas tree lights were wired in a series circuit — if one bulb burned out, the whole string went dark because the circuit was broken. Modern lights use parallel circuits so one burned-out bulb does not affect the rest."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What three things does every circuit need?", "options": ["Switch, wire, and tape", "Power source, conductor, and load", "Battery, light, and air", "Magnet, wire, and bulb"], "correct": 1, "hint": "A circuit needs something to provide energy, something to carry it, and something to use it."},
+            {"type": "fill_in", "question": "For electricity to flow, the circuit must be ___ with no gaps.", "answer": "complete", "hint": "If there is a break in the circuit, electricity cannot flow."},
+            {"type": "true_false", "question": "A switch works by opening or closing a gap in a circuit.", "answer": true, "hint": "When you flip a switch on, you close the gap and electricity flows."},
+            {"type": "multiple_choice", "question": "In a series circuit, what happens if one light bulb burns out?", "options": ["Nothing changes", "All the other lights go out too", "The other lights get brighter", "Only that one light goes out"], "correct": 1, "hint": "In a series circuit, everything is in one loop. A break anywhere stops the whole circuit."},
+            {"type": "true_false", "question": "Most homes use series circuits.", "answer": false, "hint": "If homes used series circuits, turning off one light would turn off all the lights!"},
+            {"type": "multiple_choice", "question": "What is the power source in a flashlight circuit?", "options": ["The light bulb", "The switch", "The battery", "The wire"], "correct": 2, "hint": "The power source provides the energy. What provides energy in a flashlight?"},
+            {"type": "fill_in", "question": "A circuit where components are on separate branches is called a ___ circuit.", "answer": "parallel", "hint": "In this type, if one component breaks, the others keep working."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-5-3",
+          "title": "Conductors and Insulators",
+          "type": "lesson",
+          "content": {
+            "explanation": "Materials are classified as either conductors or insulators based on how well they allow electricity to flow through them. Conductors are materials that allow electrons to flow easily. Most metals are excellent conductors — copper, aluminum, silver, and gold all conduct electricity very well. This is why electrical wires are made of copper. Water (especially with salt or minerals in it) is also a conductor, which is why you should never touch electrical devices with wet hands. Insulators are materials that do NOT allow electricity to flow easily. Rubber, plastic, glass, wood, and air are all insulators. Electrical wires are covered in plastic or rubber insulation to prevent electricity from escaping and to protect people from shock. The rubber soles on your shoes act as insulators, protecting you from electric shocks from the ground.",
+            "examples": [
+              {"problem": "Why are electrical wires made of copper covered in plastic?", "answer": "Copper is a conductor — it allows electricity to flow easily through it. Plastic is an insulator — it prevents the electricity from escaping and protects people from shock.", "explanation": "Conductors and insulators work together to make electricity safe and useful."},
+              {"problem": "Why should you never swim during a lightning storm?", "answer": "Water is a conductor. If lightning strikes the water, electricity can travel through the water to your body.", "explanation": "This is also why you should not touch electrical devices with wet hands — water helps electricity flow to your body."}
+            ],
+            "key_vocabulary": ["conductor", "insulator", "copper", "metal", "rubber", "plastic", "electric shock", "safety"],
+            "real_world": "Electricians wear rubber gloves and use tools with insulated handles to protect themselves from electric shock while working on electrical systems."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a conductor?", "options": ["A material that blocks electricity", "A material that allows electricity to flow easily", "A type of circuit", "A person who drives a train"], "correct": 1, "hint": "Conductors let electrons pass through them easily."},
+            {"type": "fill_in", "question": "Electrical wires are often made of ___ because it is an excellent conductor.", "answer": "copper", "hint": "This reddish-brown metal conducts electricity very well."},
+            {"type": "true_false", "question": "Rubber is a good conductor of electricity.", "answer": false, "hint": "Rubber does not let electricity flow through it easily. It is used to INSULATE wires."},
+            {"type": "multiple_choice", "question": "Why are electrical wires covered in plastic?", "options": ["To make them colorful", "To make them stronger", "To insulate them and prevent electric shock", "To make them waterproof"], "correct": 2, "hint": "Plastic is an insulator that prevents electricity from escaping the wire."},
+            {"type": "true_false", "question": "Water can conduct electricity.", "answer": true, "hint": "This is why you should never use electrical devices near water or with wet hands."},
+            {"type": "multiple_choice", "question": "Which of these is an insulator?", "options": ["Silver", "Copper", "Aluminum", "Glass"], "correct": 3, "hint": "Three of these are metals (conductors). Which one is NOT a metal?"},
+            {"type": "fill_in", "question": "Materials that do NOT allow electricity to flow easily are called ___.", "answer": "insulators", "hint": "Rubber, plastic, and glass are all examples of these protective materials."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-5-4",
+          "title": "Using Electricity Safely",
+          "type": "lesson",
+          "content": {
+            "explanation": "Electricity is incredibly useful, but it can also be dangerous if not used safely. Electrical safety rules help protect us from shock, burns, and fires. Never stick objects into electrical outlets — outlets carry powerful current that can seriously hurt you. Never use electrical devices near water, because water conducts electricity and could create a path for electricity to flow through your body. Do not overload outlets by plugging in too many devices — this can cause wires to overheat and start a fire. Stay away from downed power lines after storms — they can carry enough electricity to be fatal. Never touch the inside of electrical devices unless they are unplugged. If you see a frayed or damaged electrical cord, do not touch it — tell an adult. During lightning storms, stay indoors and away from windows, tall trees, and metal objects. These safety practices help keep everyone safe around electricity.",
+            "examples": [
+              {"problem": "Why should you never use a hair dryer near a bathtub?", "answer": "Water is a conductor. If the hair dryer fell into the water, electricity could flow through the water and cause a serious or even fatal electric shock.", "explanation": "The combination of water and electricity is extremely dangerous. Always keep electrical devices away from water."},
+              {"problem": "Why can overloading an outlet be dangerous?", "answer": "Plugging in too many devices forces too much current through the wires. This can cause the wires to overheat, melt their insulation, and potentially start a fire.", "explanation": "Wires are designed to carry a certain amount of electricity. Exceeding this can be very dangerous."}
+            ],
+            "key_vocabulary": ["electrical safety", "electric shock", "overload", "power line", "outlet", "fuse", "circuit breaker", "grounding"],
+            "real_world": "Circuit breakers in your house automatically shut off electricity if too much current flows through a circuit. They are safety devices that prevent overheating and fires. When a circuit breaker 'trips,' it means it has detected a dangerous situation and cut the power."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why should you never stick objects into electrical outlets?", "options": ["The objects might break", "The outlets carry powerful electricity that can shock you", "The outlet will fall off the wall", "The object will melt"], "correct": 1, "hint": "Outlets deliver electricity to devices. Putting objects in them creates a path for electricity to flow through you."},
+            {"type": "true_false", "question": "It is safe to use a phone charger in the bathtub.", "answer": false, "hint": "Water conducts electricity. Mixing water and electrical devices is extremely dangerous."},
+            {"type": "fill_in", "question": "A device in your home that automatically shuts off electricity when too much current flows is called a circuit ___.", "answer": "breaker", "hint": "This safety device 'breaks' the circuit to prevent overheating and fires."},
+            {"type": "multiple_choice", "question": "What should you do if you see a downed power line?", "options": ["Touch it to see if it is working", "Pick it up and move it", "Stay far away and tell an adult", "Walk over it carefully"], "correct": 2, "hint": "Downed power lines can carry extremely dangerous levels of electricity."},
+            {"type": "true_false", "question": "Plugging too many devices into one outlet can cause a fire.", "answer": true, "hint": "Too many devices force too much electricity through the wires, which can overheat them."},
+            {"type": "multiple_choice", "question": "During a lightning storm, the safest place to be is:", "options": ["Under a tall tree", "In an open field", "Inside a building", "In a swimming pool"], "correct": 2, "hint": "Lightning strikes tall objects and is attracted to water. Where would you be safest?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What causes electricity?", "options": ["The flow of protons", "The flow of electrons", "The flow of neutrons", "The flow of atoms"], "correct": 1},
+          {"type": "true_false", "question": "A complete circuit is needed for electricity to flow.", "answer": true},
+          {"type": "fill_in", "question": "Materials that allow electricity to flow easily are called ___.", "answer": "conductors"},
+          {"type": "multiple_choice", "question": "Which is an example of an insulator?", "options": ["Copper wire", "Aluminum foil", "Rubber", "Gold"], "correct": 2},
+          {"type": "true_false", "question": "In a parallel circuit, if one light goes out, all lights go out.", "answer": false},
+          {"type": "multiple_choice", "question": "A switch works by:", "options": ["Changing the voltage", "Opening or closing a gap in the circuit", "Storing electricity", "Making the battery stronger"], "correct": 1},
+          {"type": "fill_in", "question": "Rubbing a balloon on your hair creates ___ electricity.", "answer": "static"},
+          {"type": "multiple_choice", "question": "Why should you stay away from electrical devices when your hands are wet?", "options": ["They might rust", "Water conducts electricity and you could get shocked", "The device might get dirty", "Your hands might get wrinkly"], "correct": 1},
+          {"type": "true_false", "question": "Most metals are good conductors of electricity.", "answer": true},
+          {"type": "multiple_choice", "question": "What type of circuit do most homes use?", "options": ["Series", "Parallel", "Simple", "Complex"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "circuit_builder"
+      }
+    },
+    {
+      "id": "4-sci-6",
+      "title": "The Solar System",
+      "description": "Journey through our solar system to learn about the sun, the eight planets, moons, asteroids, and other objects that orbit our star.",
+      "lessons": [
+        {
+          "id": "4-sci-6-1",
+          "title": "Our Star: The Sun",
+          "type": "lesson",
+          "content": {
+            "explanation": "The sun is the center of our solar system and the most important object in it. It is a star — a massive ball of super-hot gases (mostly hydrogen and helium) that produces enormous amounts of energy through nuclear fusion (hydrogen atoms smashing together to form helium, releasing energy). The sun is HUGE — about 1.3 million Earths could fit inside it! Its surface temperature is about 10,000°F (5,500°C), and its core is about 27 million°F (15 million°C). The sun provides the light and heat that make life on Earth possible. It drives our weather, our water cycle, and photosynthesis in plants. The sun's gravity holds all the planets, moons, asteroids, and comets in orbit around it. Without the sun, Earth would be a frozen, dark, lifeless rock. The sun is about 93 million miles from Earth — light from the sun takes about 8 minutes to reach us.",
+            "examples": [
+              {"problem": "How does the sun produce energy?", "answer": "Through nuclear fusion — hydrogen atoms in the sun's core smash together at incredibly high temperatures and pressures, forming helium and releasing enormous amounts of energy.", "explanation": "This process is different from burning. The sun is not on fire — it is powered by nuclear reactions."},
+              {"problem": "How far is the sun from Earth?", "answer": "About 93 million miles (150 million km). Light from the sun takes about 8 minutes to reach Earth.", "explanation": "Even though light travels incredibly fast (186,000 miles per second), the sun is so far away that it takes 8 minutes for sunlight to reach us."}
+            ],
+            "key_vocabulary": ["sun", "star", "nuclear fusion", "hydrogen", "helium", "gravity", "orbit", "solar system", "energy"],
+            "real_world": "Never look directly at the sun — it is so bright it can permanently damage your eyes. Scientists use special telescopes with filters to safely study the sun."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the sun?", "options": ["A planet", "A moon", "A star made of hot gases", "A comet"], "correct": 2, "hint": "The sun is the only star in our solar system."},
+            {"type": "fill_in", "question": "The sun produces energy through a process called nuclear ___.", "answer": "fusion", "hint": "Hydrogen atoms fuse (join together) to form helium, releasing energy."},
+            {"type": "true_false", "question": "About 1.3 million Earths could fit inside the sun.", "answer": true, "hint": "The sun is enormous compared to Earth!"},
+            {"type": "multiple_choice", "question": "What force keeps the planets orbiting the sun?", "options": ["Magnetism", "Wind", "Gravity", "Electricity"], "correct": 2, "hint": "The sun's mass creates a force that pulls objects toward it."},
+            {"type": "true_false", "question": "Light from the sun reaches Earth instantly.", "answer": false, "hint": "Even though light is very fast, the sun is 93 million miles away. It takes about 8 minutes."},
+            {"type": "multiple_choice", "question": "The sun is mostly made of:", "options": ["Rock and metal", "Water and ice", "Hydrogen and helium", "Oxygen and nitrogen"], "correct": 2, "hint": "These two light gases make up most of the sun's mass."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-6-2",
+          "title": "The Inner Planets",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four inner planets — Mercury, Venus, Earth, and Mars — are also called the rocky planets or terrestrial planets because they have solid, rocky surfaces. Mercury is the closest planet to the sun and the smallest planet. It has no atmosphere, extreme temperatures (very hot on the sunny side, very cold on the dark side), and is covered in craters. Venus is the second planet and is often called Earth's twin because it is a similar size, but it is very different! Venus has a thick atmosphere of carbon dioxide that traps heat, making it the hottest planet (about 900°F). Earth is the third planet and the only one known to support life. It has liquid water, a breathable atmosphere, and the right temperature range. Mars is the fourth planet, called the Red Planet because of iron oxide (rust) on its surface. Mars has thin atmosphere, ice caps at its poles, and the largest volcano and canyon in the solar system (Olympus Mons and Valles Marineris).",
+            "examples": [
+              {"problem": "Why is Venus hotter than Mercury even though Mercury is closer to the sun?", "answer": "Venus has a thick atmosphere of carbon dioxide that traps heat (the greenhouse effect). Mercury has no atmosphere, so heat escapes easily.", "explanation": "Venus's atmosphere acts like a blanket, keeping heat in. This is called the greenhouse effect."},
+              {"problem": "Why is Mars called the Red Planet?", "answer": "Mars has a lot of iron oxide (rust) on its surface, which gives it a reddish color.", "explanation": "The same chemical that makes rusty metal look red-orange gives Mars its distinctive color."}
+            ],
+            "key_vocabulary": ["inner planets", "terrestrial", "Mercury", "Venus", "Earth", "Mars", "atmosphere", "greenhouse effect", "crater"],
+            "real_world": "NASA has sent rovers (robotic vehicles) to explore Mars. Rovers like Curiosity and Perseverance are studying Mars's soil, rocks, and atmosphere to determine if Mars ever had conditions that could support life."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which planet is closest to the sun?", "options": ["Venus", "Earth", "Mercury", "Mars"], "correct": 2, "hint": "This is the smallest planet and the first one from the sun."},
+            {"type": "fill_in", "question": "The four inner planets are also called ___ planets because they have rocky surfaces.", "answer": "terrestrial", "hint": "This word comes from 'terra,' meaning Earth or land."},
+            {"type": "true_false", "question": "Venus is the hottest planet in our solar system.", "answer": true, "hint": "Venus's thick atmosphere traps heat through the greenhouse effect."},
+            {"type": "multiple_choice", "question": "Which planet is the only one known to support life?", "options": ["Mars", "Venus", "Mercury", "Earth"], "correct": 3, "hint": "We live on this planet! It has water, air, and the right temperature."},
+            {"type": "true_false", "question": "Mars is called the Red Planet because of iron oxide on its surface.", "answer": true, "hint": "Iron oxide is the same thing as rust, which is red-orange in color."},
+            {"type": "multiple_choice", "question": "What is the correct order of the inner planets from the sun?", "options": ["Venus, Mercury, Earth, Mars", "Mercury, Venus, Earth, Mars", "Earth, Mars, Venus, Mercury", "Mars, Earth, Venus, Mercury"], "correct": 1, "hint": "Think: My Very Excellent Mother — the first letter of each word matches the first letter of each planet."},
+            {"type": "fill_in", "question": "Venus's thick atmosphere traps heat through the ___ effect.", "answer": "greenhouse", "hint": "Like a greenhouse that traps heat for plants, Venus's atmosphere traps heat from the sun."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-6-3",
+          "title": "The Outer Planets",
+          "type": "lesson",
+          "content": {
+            "explanation": "The four outer planets — Jupiter, Saturn, Uranus, and Neptune — are called gas giants (or ice giants for Uranus and Neptune) because they are made mostly of gases and liquids, with no solid surface to stand on. Jupiter is the largest planet in our solar system — more than 1,300 Earths could fit inside it! Jupiter has a famous Great Red Spot, which is a storm bigger than Earth that has been raging for hundreds of years. Jupiter also has at least 95 known moons. Saturn is famous for its spectacular ring system made of billions of pieces of ice, rock, and dust. Saturn is the least dense planet — it could actually float in water if there were a pool big enough! Uranus is tilted on its side and rolls around the sun like a ball. It appears blue-green because of methane gas in its atmosphere. Neptune is the farthest planet from the sun. It is a deep blue color and has the strongest winds in the solar system (up to 1,200 mph).",
+            "examples": [
+              {"problem": "What are Saturn's rings made of?", "answer": "Saturn's rings are made of billions of pieces of ice, rock, and dust, ranging in size from tiny grains to house-sized chunks.", "explanation": "The rings look solid from far away but are actually made of countless individual particles orbiting Saturn."},
+              {"problem": "Why is Jupiter's Great Red Spot special?", "answer": "It is a massive storm larger than Earth that has been continuously active for at least 350 years.", "explanation": "The Great Red Spot is so big you could fit two or three Earths inside it!"}
+            ],
+            "key_vocabulary": ["outer planets", "gas giant", "ice giant", "Jupiter", "Saturn", "Uranus", "Neptune", "rings", "Great Red Spot"],
+            "real_world": "In 2019, scientists discovered that Saturn's rings are slowly disappearing — they are raining ice particles onto Saturn. The rings may be completely gone in about 100 million years."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is the largest planet in our solar system?", "options": ["Saturn", "Neptune", "Jupiter", "Uranus"], "correct": 2, "hint": "More than 1,300 Earths could fit inside this planet."},
+            {"type": "fill_in", "question": "Saturn is famous for its spectacular ___.", "answer": "rings", "hint": "These structures around Saturn are made of billions of pieces of ice and rock."},
+            {"type": "true_false", "question": "You could stand on the surface of Jupiter.", "answer": false, "hint": "Jupiter is a gas giant with no solid surface."},
+            {"type": "multiple_choice", "question": "Which planet is tilted on its side?", "options": ["Jupiter", "Saturn", "Uranus", "Neptune"], "correct": 2, "hint": "This ice giant appears to roll around the sun because of its extreme tilt."},
+            {"type": "true_false", "question": "Neptune has the strongest winds in the solar system.", "answer": true, "hint": "Neptune's winds can reach up to 1,200 miles per hour."},
+            {"type": "multiple_choice", "question": "What is the correct order of the outer planets from the sun?", "options": ["Saturn, Jupiter, Neptune, Uranus", "Jupiter, Saturn, Uranus, Neptune", "Neptune, Uranus, Saturn, Jupiter", "Jupiter, Uranus, Saturn, Neptune"], "correct": 1, "hint": "Think: Just Sit Up Now — the first letter of each word matches the first letter of each outer planet."},
+            {"type": "fill_in", "question": "Jupiter's ___ Red Spot is a storm that has lasted for hundreds of years.", "answer": "Great", "hint": "This storm is so large that two or three Earths could fit inside it."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-6-4",
+          "title": "Moons, Asteroids, and Comets",
+          "type": "lesson",
+          "content": {
+            "explanation": "Our solar system is not just planets and the sun — it is also home to moons, asteroids, comets, and dwarf planets. Moons are natural satellites that orbit planets. Earth has one moon, but other planets have many more — Jupiter has at least 95! Earth's Moon is about one-quarter the size of Earth and affects our tides through its gravity. Asteroids are rocky objects that orbit the sun, mostly found in the asteroid belt between Mars and Jupiter. They range from small boulders to objects hundreds of miles wide. Comets are icy objects that orbit the sun in long, stretched-out paths. When a comet gets close to the sun, the ice heats up and creates a glowing tail that can be millions of miles long. Dwarf planets, like Pluto, are objects that orbit the sun and are round but have not cleared their orbital path of other debris. Pluto was reclassified from a planet to a dwarf planet in 2006.",
+            "examples": [
+              {"problem": "Why does a comet have a tail?", "answer": "When a comet gets close to the sun, the sun's heat causes the ice and dust on the comet to vaporize, creating a glowing tail that points away from the sun.", "explanation": "The tail always points away from the sun because the solar wind (particles streaming from the sun) pushes it in that direction."},
+              {"problem": "Where is the asteroid belt?", "answer": "The asteroid belt is between Mars and Jupiter. It contains millions of rocky objects orbiting the sun.", "explanation": "Despite what movies show, the asteroids are spread out over a huge area. Spacecraft have flown through the asteroid belt without hitting anything!"}
+            ],
+            "key_vocabulary": ["moon", "satellite", "asteroid", "asteroid belt", "comet", "tail", "dwarf planet", "orbit", "Pluto", "tides"],
+            "real_world": "Scientists track asteroids that come near Earth. NASA's DART mission in 2022 successfully changed the orbit of an asteroid by crashing a spacecraft into it — proving we could potentially deflect a dangerous asteroid in the future."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where is the asteroid belt located?", "options": ["Between Mercury and Venus", "Between Earth and Mars", "Between Mars and Jupiter", "Between Saturn and Uranus"], "correct": 2, "hint": "The asteroid belt is between the inner and outer planets."},
+            {"type": "fill_in", "question": "When a comet gets close to the sun, it develops a glowing ___.", "answer": "tail", "hint": "This glowing feature can be millions of miles long and always points away from the sun."},
+            {"type": "true_false", "question": "Pluto is currently classified as a planet.", "answer": false, "hint": "In 2006, Pluto was reclassified. It is now called a dwarf planet."},
+            {"type": "multiple_choice", "question": "How many moons does Earth have?", "options": ["0", "1", "2", "3"], "correct": 1, "hint": "We call it 'the Moon' — Earth has just one natural satellite."},
+            {"type": "true_false", "question": "Jupiter has more moons than Earth.", "answer": true, "hint": "Jupiter has at least 95 known moons, while Earth has just one."},
+            {"type": "multiple_choice", "question": "What are asteroids mostly made of?", "options": ["Ice and gas", "Rock and metal", "Water and sand", "Clouds and dust"], "correct": 1, "hint": "Asteroids are rocky objects, unlike comets which are icy."},
+            {"type": "fill_in", "question": "A natural object that orbits a planet is called a ___.", "answer": "moon", "hint": "Earth has one, Jupiter has dozens."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-sci-6-5",
+          "title": "Earth's Place in the Solar System",
+          "type": "lesson",
+          "content": {
+            "explanation": "Earth is uniquely positioned in our solar system in what scientists call the 'habitable zone' or 'Goldilocks zone' — not too close to the sun (too hot) and not too far (too cold), but just right for liquid water to exist. Liquid water is essential for life as we know it. Earth's position, along with its atmosphere, magnetic field, and tilt, creates the perfect conditions for life. Earth orbits the sun once every 365.25 days (one year) and rotates on its axis once every 24 hours (one day). The tilt of Earth's axis (about 23.5 degrees) causes the seasons. Earth's atmosphere protects us from harmful solar radiation, keeps temperatures moderate, and provides the air we breathe. Our Moon stabilizes Earth's tilt and creates ocean tides. All eight planets orbit the sun in the same direction and roughly the same plane, like a flat disk. The farther a planet is from the sun, the longer it takes to complete one orbit.",
+            "examples": [
+              {"problem": "Why is Earth's distance from the sun so important?", "answer": "Earth is in the habitable zone — the right distance for liquid water to exist on the surface. Closer planets are too hot (water boils) and farther planets are too cold (water freezes).", "explanation": "Scientists call this the 'Goldilocks zone' because the conditions are 'just right' for life."},
+              {"problem": "Why does a year on Neptune take so much longer than a year on Earth?", "answer": "Neptune is much farther from the sun, so it has a much longer orbit. It takes Neptune about 165 Earth years to orbit the sun once.", "explanation": "The farther a planet is from the sun, the longer its orbital path, and the longer one year takes."}
+            ],
+            "key_vocabulary": ["habitable zone", "Goldilocks zone", "orbit", "rotation", "axis", "tilt", "atmosphere", "magnetic field", "year"],
+            "real_world": "Scientists searching for life on other planets look for exoplanets (planets orbiting other stars) in the habitable zone. The James Webb Space Telescope is helping scientists study the atmospheres of these distant worlds."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the habitable zone?", "options": ["The area closest to the sun", "The distance from a star where liquid water can exist", "The space between planets", "The dark side of a planet"], "correct": 1, "hint": "This zone is sometimes called the 'Goldilocks zone' — not too hot, not too cold, just right."},
+            {"type": "fill_in", "question": "Earth takes ___ days to orbit the sun once (approximately).", "answer": "365", "hint": "This is the length of one year on Earth."},
+            {"type": "true_false", "question": "Earth rotates on its axis once every 24 hours.", "answer": true, "hint": "One complete rotation equals one day (24 hours of day and night)."},
+            {"type": "multiple_choice", "question": "What causes the seasons on Earth?", "options": ["Earth's distance from the sun changing", "Earth's tilt on its axis", "The moon's gravity", "Clouds blocking the sun"], "correct": 1, "hint": "Earth is tilted about 23.5 degrees. This tilt means different parts get different amounts of sunlight throughout the year."},
+            {"type": "true_false", "question": "Planets farther from the sun take longer to complete one orbit.", "answer": true, "hint": "Farther planets have longer paths and move slower, so their 'year' is much longer."},
+            {"type": "multiple_choice", "question": "What essential substance does Earth have that makes it suitable for life?", "options": ["Gold", "Liquid water", "Diamonds", "Volcanoes"], "correct": 1, "hint": "All known life requires this liquid to survive."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the sun?", "options": ["A planet", "A star", "A moon", "An asteroid"], "correct": 1},
+          {"type": "fill_in", "question": "The correct order of planets from the sun is Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and ___.", "answer": "Neptune"},
+          {"type": "true_false", "question": "The inner planets are gas giants.", "answer": false},
+          {"type": "multiple_choice", "question": "Which planet is famous for its rings?", "options": ["Jupiter", "Mars", "Saturn", "Neptune"], "correct": 2},
+          {"type": "multiple_choice", "question": "Where is the asteroid belt?", "options": ["Between Earth and Mars", "Between Mars and Jupiter", "Between Jupiter and Saturn", "Between Neptune and Pluto"], "correct": 1},
+          {"type": "true_false", "question": "A comet's tail always points away from the sun.", "answer": true},
+          {"type": "fill_in", "question": "Earth is in the ___ zone, which is the right distance from the sun for liquid water.", "answer": "habitable"},
+          {"type": "multiple_choice", "question": "Which planet is the largest?", "options": ["Saturn", "Neptune", "Earth", "Jupiter"], "correct": 3},
+          {"type": "true_false", "question": "Pluto is classified as a dwarf planet.", "answer": true},
+          {"type": "multiple_choice", "question": "What causes seasons on Earth?", "options": ["Earth's distance from the sun", "Earth's tilt on its axis", "The moon", "Solar flares"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "space_explorer"
+      }
+    }
+  ]
+}

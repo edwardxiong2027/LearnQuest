@@ -1,0 +1,1689 @@
+{
+  "grade": 3,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "3-social-1",
+      "title": "Native Americans",
+      "description": "Learn about the first people of North America — their regions, tribes, daily life, culture, and lasting contributions.",
+      "lessons": [
+        {
+          "id": "3-social-1-1",
+          "title": "The First Americans",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native Americans are the first people who lived in North America. They lived here for thousands of years before European explorers arrived. Scientists believe their ancestors crossed a land bridge from Asia to North America during the Ice Age. Native Americans lived in many different regions across the continent — from the frozen Arctic to the hot deserts. Each group adapted to their environment, developing unique ways of life based on the land, climate, and resources around them.",
+            "examples": [
+              {
+                "problem": "Who were the first people to live in North America?",
+                "answer": "Native Americans.",
+                "explanation": "Native Americans lived in North America for thousands of years before Europeans arrived."
+              },
+              {
+                "problem": "How did the first people get to North America?",
+                "answer": "Scientists believe they crossed a land bridge from Asia.",
+                "explanation": "During the Ice Age, a land bridge connected Asia and North America where the ocean is now."
+              }
+            ],
+            "key_vocabulary": ["Native American", "ancestor", "land bridge", "Ice Age", "region", "adapt"],
+            "real_world": "Many places in America have names that come from Native American languages, like Connecticut, Massachusetts, and Mississippi."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who were the first people to live in North America?",
+              "options": ["Europeans", "Africans", "Native Americans", "Australians"],
+              "correct": 2,
+              "hint": "These people lived here for thousands of years before anyone else arrived."
+            },
+            {
+              "type": "true_false",
+              "question": "Scientists believe the first people came to North America by crossing a land bridge from Asia.",
+              "answer": "true",
+              "hint": "During the Ice Age, the ocean was lower and a bridge of land appeared."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Native Americans adapted to their ___.",
+              "options": ["Computers", "Environment", "Schools", "Cars"],
+              "correct": 1,
+              "hint": "They adjusted their way of life based on the land and climate."
+            },
+            {
+              "type": "true_false",
+              "question": "All Native Americans lived the same way.",
+              "answer": "false",
+              "hint": "Different regions had different climates and resources."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How long had Native Americans lived in North America before Europeans arrived?",
+              "options": ["A few years", "About 100 years", "Thousands of years", "One year"],
+              "correct": 2,
+              "hint": "They had been here for a very, very long time."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-1-2",
+          "title": "Native American Regions and Tribes",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native Americans lived in different regions across North America, and each region shaped how they lived. In the Eastern Woodlands, tribes like the Iroquois and Cherokee lived in forests and hunted deer. In the Plains, tribes like the Lakota and Comanche followed buffalo herds. In the Southwest, the Navajo and Pueblo lived in deserts and built homes from clay called adobe. In the Northwest Coast, tribes like the Kwakiutl lived near the ocean and fished for salmon. In the Arctic, the Inuit hunted seals and built igloos from snow.",
+            "examples": [
+              {
+                "problem": "Where did the Lakota live?",
+                "answer": "On the Great Plains.",
+                "explanation": "The Lakota were Plains Indians who followed buffalo herds across the grasslands."
+              },
+              {
+                "problem": "What material did the Pueblo use to build homes?",
+                "answer": "Adobe (clay).",
+                "explanation": "In the dry Southwest, the Pueblo built homes from adobe — a type of sun-dried clay brick."
+              }
+            ],
+            "key_vocabulary": ["tribe", "Eastern Woodlands", "Plains", "Southwest", "Northwest Coast", "Arctic", "adobe"],
+            "real_world": "The Iroquois Confederacy was a group of tribes that worked together peacefully — their system even inspired parts of the U.S. government!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Plains Indians like the Lakota hunted ___.",
+              "options": ["Fish", "Seals", "Buffalo", "Bears"],
+              "correct": 2,
+              "hint": "This large animal roamed the grasslands in huge herds."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which tribe lived in the Southwest and built adobe homes?",
+              "options": ["Inuit", "Iroquois", "Pueblo", "Kwakiutl"],
+              "correct": 2,
+              "hint": "Adobe is made from clay, which is found in the desert."
+            },
+            {
+              "type": "true_false",
+              "question": "The Inuit lived in the Arctic region.",
+              "answer": "true",
+              "hint": "The Arctic is the coldest region in North America."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Northwest Coast tribes like the Kwakiutl mainly ___.",
+              "options": ["Hunted buffalo", "Fished for salmon", "Farmed corn", "Built igloos"],
+              "correct": 1,
+              "hint": "They lived near the Pacific Ocean."
+            },
+            {
+              "type": "fill_in",
+              "question": "The Iroquois and Cherokee lived in the ___ Woodlands region.",
+              "answer": "Eastern",
+              "hint": "This region was on the east side of North America, full of forests."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-1-3",
+          "title": "Daily Life of Native Americans",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native American daily life depended on their environment. Woodland tribes farmed corn, beans, and squash — called the 'Three Sisters' because they helped each other grow. Plains tribes were nomadic, following buffalo for food, clothing, and shelter. They lived in tepees that could be packed up and moved. Southwest tribes farmed using irrigation in the dry land and wove beautiful baskets and blankets. All tribes had roles for men, women, and children. Children learned skills by watching and helping adults.",
+            "examples": [
+              {
+                "problem": "What are the 'Three Sisters'?",
+                "answer": "Corn, beans, and squash.",
+                "explanation": "These three crops were grown together by Woodland tribes. They helped each other grow — corn grew tall, beans climbed the corn, and squash covered the ground."
+              },
+              {
+                "problem": "Why did Plains Indians live in tepees?",
+                "answer": "Because they moved often to follow buffalo herds.",
+                "explanation": "Tepees were easy to put up and take down, making them perfect for nomadic life."
+              }
+            ],
+            "key_vocabulary": ["Three Sisters", "nomadic", "tepee", "irrigation", "crops", "harvest"],
+            "real_world": "Corn, beans, and squash are still popular foods today. Next time you eat corn, remember the 'Three Sisters'!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What are the 'Three Sisters'?",
+              "options": ["Three rivers", "Corn, beans, and squash", "Three mountains", "Three tribes"],
+              "correct": 1,
+              "hint": "These three crops were grown together."
+            },
+            {
+              "type": "true_false",
+              "question": "Plains Indians lived in tepees because they moved often.",
+              "answer": "true",
+              "hint": "Tepees were portable and easy to move."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does 'nomadic' mean?",
+              "options": ["Staying in one place", "Moving from place to place", "Living underground", "Farming crops"],
+              "correct": 1,
+              "hint": "Nomadic people travel to different locations."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Southwest tribes used ___ to farm in dry land.",
+              "options": ["Snow", "Irrigation", "Machines", "Fish"],
+              "correct": 1,
+              "hint": "This is a way of bringing water to dry land."
+            },
+            {
+              "type": "true_false",
+              "question": "Native American children learned by watching and helping adults.",
+              "answer": "true",
+              "hint": "Children learned important skills from their families."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-1-4",
+          "title": "Native American Culture and Contributions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Native Americans had rich cultures with art, music, storytelling, and ceremonies. They passed down their history through oral tradition — telling stories from generation to generation. Many tribes created beautiful pottery, woven baskets, and beadwork. Native Americans gave the world many important contributions. They taught Europeans how to grow corn, squash, and potatoes. They developed canoes for water travel and snowshoes for walking on snow. Many English words come from Native American languages, like 'moccasin,' 'canoe,' and 'skunk.'",
+            "examples": [
+              {
+                "problem": "How did Native Americans pass down their history?",
+                "answer": "Through oral tradition — telling stories from generation to generation.",
+                "explanation": "Instead of writing books, many tribes told stories to preserve their history and lessons."
+              },
+              {
+                "problem": "Name two contributions of Native Americans.",
+                "answer": "Teaching Europeans to grow corn and developing canoes.",
+                "explanation": "Native Americans shared farming knowledge and invented practical tools that people still use today."
+              }
+            ],
+            "key_vocabulary": ["oral tradition", "ceremony", "pottery", "contribution", "canoe", "moccasin"],
+            "real_world": "Corn is one of the most important crops in the world today — and it all started with Native American farmers!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How did many Native Americans pass down their history?",
+              "options": ["Newspapers", "Television", "Oral tradition (storytelling)", "Computers"],
+              "correct": 2,
+              "hint": "They told stories from one generation to the next."
+            },
+            {
+              "type": "true_false",
+              "question": "Native Americans taught Europeans how to grow corn.",
+              "answer": "true",
+              "hint": "Europeans learned about corn farming from Native Americans."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which of these words comes from a Native American language?",
+              "options": ["Television", "Canoe", "Computer", "Airplane"],
+              "correct": 1,
+              "hint": "This is a type of small boat."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did Native Americans develop for traveling on water?",
+              "options": ["Submarines", "Sailboats", "Canoes", "Steamships"],
+              "correct": 2,
+              "hint": "This small boat is paddled by hand."
+            },
+            {
+              "type": "true_false",
+              "question": "Native Americans made pottery, baskets, and beadwork.",
+              "answer": "true",
+              "hint": "These were important forms of art and practical items."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Who were the first people to live in North America?",
+            "options": ["Europeans", "Africans", "Native Americans", "Asians"],
+            "correct": 2,
+            "hint": "They lived here for thousands of years."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Plains Indians like the Lakota hunted ___.",
+            "options": ["Fish", "Buffalo", "Seals", "Rabbits"],
+            "correct": 1,
+            "hint": "These large animals roamed the grasslands."
+          },
+          {
+            "type": "true_false",
+            "question": "The 'Three Sisters' are corn, beans, and squash.",
+            "answer": "true",
+            "hint": "These three crops grew together."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How did Native Americans pass down their history?",
+            "options": ["Books", "TV", "Oral tradition", "Email"],
+            "correct": 2,
+            "hint": "They told stories from generation to generation."
+          },
+          {
+            "type": "true_false",
+            "question": "The word 'canoe' comes from a Native American language.",
+            "answer": "true",
+            "hint": "Native Americans invented this type of boat."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Pueblo homes in the Southwest were made of ___.",
+            "options": ["Wood", "Ice", "Adobe (clay)", "Metal"],
+            "correct": 2,
+            "hint": "This material is made from sun-dried clay."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "native_nations_scholar"
+      }
+    },
+    {
+      "id": "3-social-2",
+      "title": "Explorers",
+      "description": "Learn about early explorers like Columbus, why Europeans explored, and the effects exploration had on native peoples.",
+      "lessons": [
+        {
+          "id": "3-social-2-1",
+          "title": "Why Europeans Explored",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the 1400s and 1500s, European countries sent explorers across the ocean for several reasons. They wanted to find new trade routes to Asia to buy spices, silk, and gold. They also wanted to claim new land for their country and spread their religion. Some explorers wanted fame and adventure. European kings and queens paid for these voyages, hoping to become richer and more powerful. Spain, Portugal, England, and France all sent explorers to the Americas.",
+            "examples": [
+              {
+                "problem": "Why did Europeans want new trade routes?",
+                "answer": "To find faster ways to get spices, silk, and gold from Asia.",
+                "explanation": "The old trade routes over land were long and dangerous. Europeans hoped to find quicker ways by sea."
+              },
+              {
+                "problem": "Who paid for the exploration voyages?",
+                "answer": "Kings and queens of European countries.",
+                "explanation": "Rulers funded the voyages because they hoped to gain wealth and land for their country."
+              }
+            ],
+            "key_vocabulary": ["explorer", "trade route", "voyage", "spices", "claim", "colony"],
+            "real_world": "Spices like pepper, cinnamon, and cloves were worth a lot of money — explorers traveled across oceans just to find them!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why did Europeans explore?",
+              "options": ["For vacation", "To find trade routes, land, and wealth", "To find animals", "To build schools"],
+              "correct": 1,
+              "hint": "Europeans wanted spices, gold, and new land."
+            },
+            {
+              "type": "true_false",
+              "question": "European kings and queens paid for exploration voyages.",
+              "answer": "true",
+              "hint": "Rulers funded these expensive trips."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which countries sent explorers to the Americas?",
+              "options": ["China and Japan", "Spain, Portugal, England, and France", "Australia and New Zealand", "Brazil and Argentina"],
+              "correct": 1,
+              "hint": "These European countries competed to explore and claim land."
+            },
+            {
+              "type": "true_false",
+              "question": "Explorers were looking for trade routes to Asia.",
+              "answer": "true",
+              "hint": "They wanted faster ways to get valuable goods from Asia."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What valuable goods did Europeans want from Asia?",
+              "options": ["Computers", "Cars", "Spices, silk, and gold", "Plastic toys"],
+              "correct": 2,
+              "hint": "These goods were very expensive and hard to get."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-2-2",
+          "title": "Christopher Columbus",
+          "type": "lesson",
+          "content": {
+            "explanation": "Christopher Columbus was an Italian explorer who sailed for Spain. In 1492, he set out to find a westward route to Asia. He sailed across the Atlantic Ocean with three ships: the Niña, the Pinta, and the Santa María. Instead of reaching Asia, he landed in the Caribbean islands near North America. Columbus thought he had reached India, so he called the native people 'Indians.' He made four voyages to the Americas. While Columbus is famous for connecting Europe and the Americas, his arrival also began a difficult time for Native Americans.",
+            "examples": [
+              {
+                "problem": "When did Columbus sail to the Americas?",
+                "answer": "1492.",
+                "explanation": "Columbus sailed across the Atlantic Ocean in 1492, a date that is easy to remember."
+              },
+              {
+                "problem": "What were Columbus's three ships called?",
+                "answer": "The Niña, the Pinta, and the Santa María.",
+                "explanation": "These three ships carried Columbus and his crew across the Atlantic Ocean."
+              }
+            ],
+            "key_vocabulary": ["Christopher Columbus", "1492", "Niña", "Pinta", "Santa María", "Caribbean"],
+            "real_world": "Columbus Day is a holiday in October that remembers Columbus's voyage in 1492."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In what year did Columbus sail to the Americas?",
+              "options": ["1776", "1620", "1492", "1800"],
+              "correct": 2,
+              "hint": "This famous year is easy to remember — 'In 1492, Columbus sailed the ocean blue.'"
+            },
+            {
+              "type": "true_false",
+              "question": "Columbus sailed for Spain.",
+              "answer": "true",
+              "hint": "Even though Columbus was Italian, the Spanish king and queen paid for his voyage."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many ships did Columbus have?",
+              "options": ["1", "2", "3", "5"],
+              "correct": 2,
+              "hint": "The Niña, the Pinta, and the Santa María."
+            },
+            {
+              "type": "true_false",
+              "question": "Columbus was trying to reach Asia.",
+              "answer": "true",
+              "hint": "He wanted a westward route to Asia but found the Americas instead."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where did Columbus actually land?",
+              "options": ["Asia", "Africa", "Caribbean islands", "Australia"],
+              "correct": 2,
+              "hint": "He thought he was in India but was actually in the Americas."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-2-3",
+          "title": "Other Famous Explorers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many explorers came after Columbus. Hernán Cortés was a Spanish explorer who conquered the Aztec Empire in Mexico in 1519. Francisco Pizarro conquered the Inca Empire in South America. John Cabot sailed for England and explored the coast of North America. Jacques Cartier explored Canada for France. Ferdinand Magellan's crew was the first to sail all the way around the world, though Magellan himself died during the voyage. Each explorer changed the map of the world.",
+            "examples": [
+              {
+                "problem": "Who conquered the Aztec Empire?",
+                "answer": "Hernán Cortés.",
+                "explanation": "Cortés led Spanish soldiers to conquer the Aztec Empire in what is now Mexico."
+              },
+              {
+                "problem": "Whose crew was the first to sail around the world?",
+                "answer": "Ferdinand Magellan's crew.",
+                "explanation": "Magellan started the voyage but died along the way. His crew finished the trip around the world."
+              }
+            ],
+            "key_vocabulary": ["Hernán Cortés", "Aztec", "Inca", "John Cabot", "Jacques Cartier", "Ferdinand Magellan"],
+            "real_world": "The Strait of Magellan at the tip of South America is named after Ferdinand Magellan!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Who conquered the Aztec Empire in Mexico?",
+              "options": ["Columbus", "Magellan", "Cortés", "Cabot"],
+              "correct": 2,
+              "hint": "This Spanish explorer arrived in Mexico in 1519."
+            },
+            {
+              "type": "true_false",
+              "question": "Magellan's crew was the first to sail around the world.",
+              "answer": "true",
+              "hint": "Though Magellan died during the trip, his crew completed it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Jacques Cartier explored ___ for France.",
+              "options": ["Mexico", "Africa", "Canada", "India"],
+              "correct": 2,
+              "hint": "This country is north of the United States."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "John Cabot sailed for which country?",
+              "options": ["Spain", "France", "Portugal", "England"],
+              "correct": 3,
+              "hint": "Cabot explored the coast of North America for this country."
+            },
+            {
+              "type": "true_false",
+              "question": "Francisco Pizarro conquered the Inca Empire.",
+              "answer": "true",
+              "hint": "Pizarro was a Spanish explorer in South America."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-2-4",
+          "title": "Effects of Exploration on Native Peoples",
+          "type": "lesson",
+          "content": {
+            "explanation": "European exploration had huge effects on Native Americans. Europeans brought diseases like smallpox that Native Americans had never been exposed to. These diseases killed millions of native people. Europeans also took Native American land and forced many into slavery. However, there was also an exchange of goods and ideas between the two groups. Europeans brought horses, cattle, and wheat to the Americas. Native Americans introduced Europeans to corn, potatoes, and tomatoes. This exchange of goods is called the Columbian Exchange.",
+            "examples": [
+              {
+                "problem": "What is the Columbian Exchange?",
+                "answer": "The exchange of goods, ideas, and diseases between Europe and the Americas.",
+                "explanation": "After Columbus arrived, goods like crops and animals were traded between the two continents."
+              },
+              {
+                "problem": "What did Europeans bring to the Americas?",
+                "answer": "Horses, cattle, wheat, and unfortunately, diseases.",
+                "explanation": "Some exchanges were helpful (like horses), but diseases were devastating to Native Americans."
+              }
+            ],
+            "key_vocabulary": ["Columbian Exchange", "disease", "smallpox", "exchange", "impact", "consequences"],
+            "real_world": "Potatoes originally came from the Americas! Before the Columbian Exchange, people in Europe had never eaten a potato."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the Columbian Exchange?",
+              "options": ["A type of money", "The exchange of goods between Europe and the Americas", "A school", "A type of boat"],
+              "correct": 1,
+              "hint": "Goods and ideas were traded between two continents."
+            },
+            {
+              "type": "true_false",
+              "question": "Europeans brought diseases that harmed Native Americans.",
+              "answer": "true",
+              "hint": "Native Americans had never been exposed to these diseases before."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which animal did Europeans bring to the Americas?",
+              "options": ["Buffalo", "Horse", "Eagle", "Turkey"],
+              "correct": 1,
+              "hint": "This animal was new to the Americas and changed how Plains Indians traveled."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which food did Native Americans introduce to Europeans?",
+              "options": ["Wheat", "Rice", "Corn", "Beef"],
+              "correct": 2,
+              "hint": "This crop was grown by Native Americans as one of the Three Sisters."
+            },
+            {
+              "type": "true_false",
+              "question": "The Columbian Exchange only had positive effects.",
+              "answer": "false",
+              "hint": "Diseases and loss of land were very negative effects."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "In what year did Columbus sail to the Americas?",
+            "options": ["1620", "1776", "1492", "1865"],
+            "correct": 2,
+            "hint": "'In 1492, Columbus sailed the ocean blue.'"
+          },
+          {
+            "type": "true_false",
+            "question": "Europeans explored to find trade routes, land, and wealth.",
+            "answer": "true",
+            "hint": "These were the main reasons for exploration."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Columbian Exchange was ___.",
+            "options": ["A stock market", "An exchange of goods between Europe and the Americas", "A ship", "A holiday"],
+            "correct": 1,
+            "hint": "Goods like corn and horses were exchanged between continents."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who conquered the Aztec Empire?",
+            "options": ["Magellan", "Columbus", "Cortés", "Cabot"],
+            "correct": 2,
+            "hint": "This Spanish explorer went to Mexico."
+          },
+          {
+            "type": "true_false",
+            "question": "European diseases harmed many Native Americans.",
+            "answer": "true",
+            "hint": "Native Americans had no immunity to European diseases."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "explorer_expert"
+      }
+    },
+    {
+      "id": "3-social-3",
+      "title": "Colonial America",
+      "description": "Learn about the 13 colonies, daily life in colonial times, and why people came to America.",
+      "lessons": [
+        {
+          "id": "3-social-3-1",
+          "title": "The 13 Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Between the 1600s and 1700s, England established 13 colonies along the east coast of North America. The colonies were divided into three groups: New England Colonies (Massachusetts, Connecticut, Rhode Island, New Hampshire), Middle Colonies (New York, New Jersey, Pennsylvania, Delaware), and Southern Colonies (Maryland, Virginia, North Carolina, South Carolina, Georgia). Each region had different geography, climate, and ways of making a living. These 13 colonies later became the first 13 states of the United States.",
+            "examples": [
+              {
+                "problem": "How many English colonies were there?",
+                "answer": "13 colonies.",
+                "explanation": "England established 13 colonies that later became the first states."
+              },
+              {
+                "problem": "What were the three regions of colonies?",
+                "answer": "New England, Middle, and Southern colonies.",
+                "explanation": "The 13 colonies were grouped by their location along the east coast."
+              }
+            ],
+            "key_vocabulary": ["colony", "colonist", "New England", "Middle Colonies", "Southern Colonies", "established"],
+            "real_world": "The 13 stripes on the American flag represent these original 13 colonies!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many English colonies were there in North America?",
+              "options": ["7", "10", "13", "50"],
+              "correct": 2,
+              "hint": "This number matches the number of stripes on the flag."
+            },
+            {
+              "type": "true_false",
+              "question": "The 13 colonies later became the first 13 states.",
+              "answer": "true",
+              "hint": "The colonies became states when America gained independence."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which was a New England colony?",
+              "options": ["Virginia", "Georgia", "Massachusetts", "New York"],
+              "correct": 2,
+              "hint": "The Pilgrims landed in this colony."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The colonies were on the ___ coast of North America.",
+              "options": ["West", "East", "North", "South"],
+              "correct": 1,
+              "hint": "The colonies faced the Atlantic Ocean."
+            },
+            {
+              "type": "true_false",
+              "question": "All 13 colonies had the same climate and geography.",
+              "answer": "false",
+              "hint": "New England was cold; the South was warm."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-3-2",
+          "title": "Why People Came to the Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "People came to the American colonies for many reasons. Some came for religious freedom — they wanted to worship in their own way without punishment. The Pilgrims came to Plymouth, Massachusetts in 1620 on the Mayflower for this reason. Some came for economic opportunity — they wanted to own land and make money. Others came as indentured servants, working for several years to pay for their voyage. Sadly, many African people were brought against their will as enslaved workers. The colonies offered hope for some, but suffering for others.",
+            "examples": [
+              {
+                "problem": "Why did the Pilgrims come to America?",
+                "answer": "For religious freedom.",
+                "explanation": "The Pilgrims wanted to worship God in their own way, which they could not do in England."
+              },
+              {
+                "problem": "What is an indentured servant?",
+                "answer": "Someone who worked for years to pay off the cost of their voyage to America.",
+                "explanation": "Indentured servants agreed to work for a set number of years in exchange for their ship passage."
+              }
+            ],
+            "key_vocabulary": ["religious freedom", "Pilgrims", "Mayflower", "indentured servant", "enslaved", "economic opportunity"],
+            "real_world": "America is still a place where people come from all over the world seeking freedom and opportunity."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Why did the Pilgrims come to America?",
+              "options": ["For gold", "For religious freedom", "To explore", "To find spices"],
+              "correct": 1,
+              "hint": "They wanted to worship in their own way."
+            },
+            {
+              "type": "true_false",
+              "question": "The Pilgrims sailed on the Mayflower in 1620.",
+              "answer": "true",
+              "hint": "This famous ship carried the Pilgrims to Plymouth."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Some people came to the colonies for economic opportunity. That means they wanted ___.",
+              "options": ["Adventure", "To own land and make money", "To find animals", "To build ships"],
+              "correct": 1,
+              "hint": "Economic opportunity means chances to earn money and prosper."
+            },
+            {
+              "type": "true_false",
+              "question": "Everyone who came to the colonies came by choice.",
+              "answer": "false",
+              "hint": "Many African people were brought against their will."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is an indentured servant?",
+              "options": ["A type of colonial leader", "Someone who worked to pay for their voyage", "A farmer", "A teacher"],
+              "correct": 1,
+              "hint": "They worked for several years in exchange for their trip to America."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-3-3",
+          "title": "Daily Life in the Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Life in the colonies was hard work! Most colonists were farmers. Families grew their own food and made their own clothes. Children helped with chores like feeding animals, gathering firewood, and churning butter. Some children went to small one-room schoolhouses, but many learned at home. Colonial homes did not have electricity or running water. People cooked over fireplaces and used candles for light. Towns had a blacksmith (who made tools from metal), a cobbler (who made shoes), and a miller (who ground grain into flour).",
+            "examples": [
+              {
+                "problem": "What was a one-room schoolhouse?",
+                "answer": "A small school where children of all ages learned in one room.",
+                "explanation": "Colonial schools were very different from today — one teacher taught all grades in a single room."
+              },
+              {
+                "problem": "What did a blacksmith do?",
+                "answer": "Made tools and other items from metal.",
+                "explanation": "The blacksmith was an important person in colonial towns because everyone needed metal tools."
+              }
+            ],
+            "key_vocabulary": ["colonial", "chores", "one-room schoolhouse", "blacksmith", "cobbler", "miller"],
+            "real_world": "Imagine waking up before sunrise to feed chickens and churn butter — that was a normal morning for colonial children!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What did most colonists do for a living?",
+              "options": ["Worked in offices", "Farmed", "Drove buses", "Used computers"],
+              "correct": 1,
+              "hint": "Most families grew their own food."
+            },
+            {
+              "type": "true_false",
+              "question": "Colonial homes had electricity.",
+              "answer": "false",
+              "hint": "Electricity had not been invented for homes yet."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is a blacksmith?",
+              "options": ["A person who makes clothes", "A person who makes tools from metal", "A person who sells food", "A person who drives a carriage"],
+              "correct": 1,
+              "hint": "This person works with metal."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How did colonists light their homes?",
+              "options": ["With light bulbs", "With flashlights", "With candles", "With neon lights"],
+              "correct": 2,
+              "hint": "They used fire for light."
+            },
+            {
+              "type": "true_false",
+              "question": "Children in the colonies helped with chores.",
+              "answer": "true",
+              "hint": "Everyone in the family had to help."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-3-4",
+          "title": "Colonial Regions Compared",
+          "type": "lesson",
+          "content": {
+            "explanation": "The three colonial regions were quite different. New England colonies had cold winters, rocky soil, and forests. People there fished, built ships, and traded. The Middle Colonies had milder weather and fertile soil, making them great for farming. They were called the 'breadbasket colonies' because they grew so much wheat and grain. The Southern Colonies had warm weather and rich soil, perfect for growing cash crops like tobacco, rice, and cotton on large farms called plantations. Sadly, plantations relied heavily on enslaved workers.",
+            "examples": [
+              {
+                "problem": "Why were the Middle Colonies called the 'breadbasket colonies'?",
+                "answer": "Because they grew so much wheat and grain.",
+                "explanation": "The fertile soil and mild weather of the Middle Colonies made them excellent for growing grain crops."
+              },
+              {
+                "problem": "What crops were grown in the Southern Colonies?",
+                "answer": "Tobacco, rice, and cotton.",
+                "explanation": "These cash crops grew well in the warm Southern climate and were sold for money."
+              }
+            ],
+            "key_vocabulary": ["breadbasket", "plantation", "cash crop", "tobacco", "fertile", "trade"],
+            "real_world": "Different parts of the United States still have different strengths today — some areas are better for farming, fishing, or manufacturing."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which colonies were called the 'breadbasket colonies'?",
+              "options": ["New England", "Middle Colonies", "Southern Colonies", "Western Colonies"],
+              "correct": 1,
+              "hint": "They grew lots of wheat and grain."
+            },
+            {
+              "type": "true_false",
+              "question": "Southern Colonies grew cash crops like tobacco and rice.",
+              "answer": "true",
+              "hint": "The warm climate was perfect for these crops."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What did New England colonists often do for a living?",
+              "options": ["Grew cotton", "Fished and built ships", "Grew tobacco", "Mined gold"],
+              "correct": 1,
+              "hint": "New England was near the ocean with rocky soil."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Large Southern farms were called ___.",
+              "options": ["Ranches", "Plantations", "Gardens", "Orchards"],
+              "correct": 1,
+              "hint": "These large farms grew cash crops using enslaved workers."
+            },
+            {
+              "type": "true_false",
+              "question": "All three colonial regions had the same climate.",
+              "answer": "false",
+              "hint": "New England was cold; the South was warm."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many English colonies were there?",
+            "options": ["10", "13", "15", "50"],
+            "correct": 1,
+            "hint": "Same as the stripes on the flag."
+          },
+          {
+            "type": "true_false",
+            "question": "The Pilgrims came for religious freedom.",
+            "answer": "true",
+            "hint": "They wanted to worship freely."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which colonies were called the 'breadbasket'?",
+            "options": ["New England", "Middle Colonies", "Southern Colonies", "All of them"],
+            "correct": 1,
+            "hint": "They grew lots of grain."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What did a blacksmith make?",
+            "options": ["Clothes", "Metal tools", "Bread", "Shoes"],
+            "correct": 1,
+            "hint": "They worked with metal."
+          },
+          {
+            "type": "true_false",
+            "question": "Southern plantations used enslaved workers.",
+            "answer": "true",
+            "hint": "This was a tragic part of colonial history."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "colonial_scholar"
+      }
+    },
+    {
+      "id": "3-social-4",
+      "title": "Geography of the United States",
+      "description": "Learn about the major regions, important physical features, states, and capitals of the United States.",
+      "lessons": [
+        {
+          "id": "3-social-4-1",
+          "title": "Regions of the United States",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States is divided into five main regions: the Northeast, Southeast, Midwest, Southwest, and West. The Northeast has big cities like New York and Boston. The Southeast is warm and includes states like Florida and Georgia. The Midwest is flat with lots of farmland — states like Iowa and Kansas. The Southwest is hot and dry with deserts — states like Arizona and New Mexico. The West includes the Rocky Mountains and the Pacific coast — states like California and Oregon.",
+            "examples": [
+              {
+                "problem": "What region is Florida in?",
+                "answer": "The Southeast.",
+                "explanation": "Florida is in the southeastern part of the country, known for warm weather."
+              },
+              {
+                "problem": "What is the Midwest known for?",
+                "answer": "Flat land and lots of farming.",
+                "explanation": "The Midwest has fertile soil and grows much of the country's food."
+              }
+            ],
+            "key_vocabulary": ["region", "Northeast", "Southeast", "Midwest", "Southwest", "West"],
+            "real_world": "What region do you live in? Think about the weather and landscape where you live."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many main regions does the US have?",
+              "options": ["3", "4", "5", "10"],
+              "correct": 2,
+              "hint": "Northeast, Southeast, Midwest, Southwest, West."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which region has lots of flat farmland?",
+              "options": ["Northeast", "Southeast", "Midwest", "West"],
+              "correct": 2,
+              "hint": "This region is in the middle of the country."
+            },
+            {
+              "type": "true_false",
+              "question": "The Southwest is hot and dry with deserts.",
+              "answer": "true",
+              "hint": "Arizona and New Mexico are in this region."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which region includes the Rocky Mountains?",
+              "options": ["Northeast", "Southeast", "Midwest", "West"],
+              "correct": 3,
+              "hint": "The Rocky Mountains are in the western part of the country."
+            },
+            {
+              "type": "fill_in",
+              "question": "New York and Boston are cities in the ___ region.",
+              "answer": "Northeast",
+              "hint": "These cities are in the upper right part of the US map."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-4-2",
+          "title": "Physical Features of the US",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has amazing physical features. The Rocky Mountains run through the western part of the country. The Appalachian Mountains are in the east. The Great Plains are a huge flat area in the middle. The Mississippi River is one of the longest rivers and flows from Minnesota to the Gulf of Mexico. The Great Lakes are five huge lakes on the border with Canada. The Grand Canyon is a deep gorge in Arizona carved by the Colorado River. Each feature makes America's landscape unique.",
+            "examples": [
+              {
+                "problem": "What are the Rocky Mountains?",
+                "answer": "A mountain range in the western United States.",
+                "explanation": "The Rocky Mountains stretch from Canada down through the western US. They are tall and rugged."
+              },
+              {
+                "problem": "Where does the Mississippi River flow?",
+                "answer": "From Minnesota south to the Gulf of Mexico.",
+                "explanation": "The Mississippi is one of North America's longest rivers and was important for transportation and trade."
+              }
+            ],
+            "key_vocabulary": ["Rocky Mountains", "Appalachian Mountains", "Great Plains", "Mississippi River", "Great Lakes", "Grand Canyon"],
+            "real_world": "The Grand Canyon is so big you can see it from space! It took millions of years for the river to carve it."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which mountains are in the western US?",
+              "options": ["Appalachian Mountains", "Rocky Mountains", "Alps", "Himalayas"],
+              "correct": 1,
+              "hint": "These 'rocky' mountains are in the west."
+            },
+            {
+              "type": "true_false",
+              "question": "The Mississippi River is one of the longest rivers in North America.",
+              "answer": "true",
+              "hint": "It flows all the way from Minnesota to the Gulf of Mexico."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many Great Lakes are there?",
+              "options": ["3", "4", "5", "7"],
+              "correct": 2,
+              "hint": "Lake Superior, Michigan, Huron, Erie, and Ontario."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Grand Canyon is in which state?",
+              "options": ["California", "Texas", "Arizona", "Florida"],
+              "correct": 2,
+              "hint": "This southwestern state has a famous deep canyon."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ Plains are a huge flat area in the middle of the country.",
+              "answer": "Great",
+              "hint": "These plains are known for their vast size."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-4-3",
+          "title": "States and Capitals",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has 50 states, each with its own capital city. The national capital is Washington, D.C. Some state capitals are large, well-known cities — like Sacramento (California), Austin (Texas), and Tallahassee (Florida). But many state capitals are smaller cities that might surprise you. New York City is not the capital of New York state — Albany is! The capital of Illinois is not Chicago — it is Springfield. Every state capital has a state capitol building where the state government works.",
+            "examples": [
+              {
+                "problem": "What is the national capital of the United States?",
+                "answer": "Washington, D.C.",
+                "explanation": "Washington, D.C. is where the President lives and the national government works."
+              },
+              {
+                "problem": "What is the capital of California?",
+                "answer": "Sacramento.",
+                "explanation": "Many people guess Los Angeles, but Sacramento is the state capital."
+              }
+            ],
+            "key_vocabulary": ["state", "capital", "capitol building", "Washington D.C.", "governor"],
+            "real_world": "Do you know the capital of your state? It might not be the biggest city!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the national capital?",
+              "options": ["New York City", "Los Angeles", "Washington, D.C.", "Chicago"],
+              "correct": 2,
+              "hint": "The President lives here."
+            },
+            {
+              "type": "true_false",
+              "question": "Every state has a capital city.",
+              "answer": "true",
+              "hint": "All 50 states have their own capital."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many states are in the United States?",
+              "options": ["13", "25", "50", "100"],
+              "correct": 2,
+              "hint": "Same as the number of stars on the flag."
+            },
+            {
+              "type": "true_false",
+              "question": "New York City is the capital of New York state.",
+              "answer": "false",
+              "hint": "The capital of New York is actually Albany."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The capital of Texas is ___.",
+              "options": ["Houston", "Dallas", "Austin", "San Antonio"],
+              "correct": 2,
+              "hint": "This Texas city starts with the letter A."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-4-4",
+          "title": "Climate and Weather Across the US",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has many different climates. The Northeast and Midwest have four seasons with cold, snowy winters and warm summers. The Southeast is generally warm and humid, with mild winters. Florida can be tropical. The Southwest is hot and dry — a desert climate with very little rain. The West Coast (California, Oregon, Washington) has mild temperatures year-round. Alaska is very cold, and Hawaii is tropical and warm. The climate of a region affects what people do, what they grow, and how they live.",
+            "examples": [
+              {
+                "problem": "What is the climate like in the Southwest?",
+                "answer": "Hot and dry — a desert climate.",
+                "explanation": "States like Arizona and Nevada get very little rain and can be extremely hot."
+              },
+              {
+                "problem": "What climate does Hawaii have?",
+                "answer": "Tropical and warm.",
+                "explanation": "Hawaii is an island state in the Pacific Ocean with warm weather all year."
+              }
+            ],
+            "key_vocabulary": ["climate", "tropical", "humid", "desert", "seasons", "temperature"],
+            "real_world": "The climate where you live affects everything — what clothes you wear, what food grows nearby, and what activities you do outside."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The Southwest has a ___ climate.",
+              "options": ["Tropical", "Cold and snowy", "Hot and dry", "Rainy"],
+              "correct": 2,
+              "hint": "The Southwest has deserts with very little rain."
+            },
+            {
+              "type": "true_false",
+              "question": "The Northeast has four distinct seasons.",
+              "answer": "true",
+              "hint": "Spring, summer, fall, and winter are all very different there."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which state has a tropical climate?",
+              "options": ["Alaska", "Montana", "Hawaii", "Minnesota"],
+              "correct": 2,
+              "hint": "This island state is warm all year."
+            },
+            {
+              "type": "true_false",
+              "question": "Alaska is warm and sunny all year.",
+              "answer": "false",
+              "hint": "Alaska is the northernmost state — it is very cold."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Climate affects ___.",
+              "options": ["Nothing", "What people grow and how they live", "Only what they wear", "Only the animals"],
+              "correct": 1,
+              "hint": "Climate impacts many parts of daily life."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "How many regions does the US have?",
+            "options": ["3", "5", "7", "10"],
+            "correct": 1,
+            "hint": "Northeast, Southeast, Midwest, Southwest, West."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which mountains are in the eastern US?",
+            "options": ["Rocky Mountains", "Appalachian Mountains", "Alps", "Andes"],
+            "correct": 1,
+            "hint": "These mountains run along the east side of the country."
+          },
+          {
+            "type": "true_false",
+            "question": "The United States has 50 states.",
+            "answer": "true",
+            "hint": "One star on the flag for each state."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the national capital?",
+            "options": ["New York", "Los Angeles", "Washington, D.C.", "Chicago"],
+            "correct": 2,
+            "hint": "The President lives here."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Southwest has a ___ climate.",
+            "options": ["Cold", "Rainy", "Hot and dry", "Tropical"],
+            "correct": 2,
+            "hint": "This region has deserts."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "us_geography_ace"
+      }
+    },
+    {
+      "id": "3-social-5",
+      "title": "Government",
+      "description": "Learn about the three branches of the US government, the Constitution, and the Bill of Rights.",
+      "lessons": [
+        {
+          "id": "3-social-5-1",
+          "title": "The Constitution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution is the most important document in the United States. It was written in 1787 in Philadelphia. The Constitution is like a rule book for the country — it explains how the government works and what rights people have. The men who wrote it are called the Founding Fathers. They included George Washington, Benjamin Franklin, and James Madison (who is called the 'Father of the Constitution'). The Constitution begins with 'We the People,' showing that the government's power comes from the citizens.",
+            "examples": [
+              {
+                "problem": "What is the Constitution?",
+                "answer": "The most important document that explains how the US government works.",
+                "explanation": "The Constitution is like the rule book for the entire country."
+              },
+              {
+                "problem": "When was the Constitution written?",
+                "answer": "1787.",
+                "explanation": "The Founding Fathers met in Philadelphia in 1787 to write the Constitution."
+              }
+            ],
+            "key_vocabulary": ["Constitution", "Founding Fathers", "James Madison", "We the People", "document"],
+            "real_world": "The original Constitution is kept in the National Archives in Washington, D.C. You can visit and see it!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the Constitution?",
+              "options": ["A story book", "The rule book for the US government", "A map", "A recipe"],
+              "correct": 1,
+              "hint": "It explains how the government works."
+            },
+            {
+              "type": "true_false",
+              "question": "The Constitution was written in 1787.",
+              "answer": "true",
+              "hint": "The Founding Fathers met in Philadelphia that year."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Constitution begins with the words ___.",
+              "options": ["Once upon a time", "We the People", "Dear America", "In the beginning"],
+              "correct": 1,
+              "hint": "These words show that government power comes from the citizens."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who is called the 'Father of the Constitution'?",
+              "options": ["George Washington", "Benjamin Franklin", "James Madison", "Abraham Lincoln"],
+              "correct": 2,
+              "hint": "He wrote much of the Constitution."
+            },
+            {
+              "type": "true_false",
+              "question": "The people who wrote the Constitution are called the Founding Fathers.",
+              "answer": "true",
+              "hint": "They founded (started) the United States government."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-5-2",
+          "title": "Three Branches of Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution created three branches (parts) of the US government. The Legislative Branch (Congress) makes the laws. Congress has two parts: the Senate and the House of Representatives. The Executive Branch carries out the laws. The President leads this branch. The Judicial Branch interprets the laws (decides what they mean). The Supreme Court is the highest court in this branch. Three branches were created so that no one branch would have too much power. This system is called checks and balances.",
+            "examples": [
+              {
+                "problem": "Which branch makes the laws?",
+                "answer": "The Legislative Branch (Congress).",
+                "explanation": "Congress includes the Senate and the House of Representatives. They write and vote on new laws."
+              },
+              {
+                "problem": "Which branch carries out the laws?",
+                "answer": "The Executive Branch (led by the President).",
+                "explanation": "The President's job is to enforce the laws that Congress makes."
+              }
+            ],
+            "key_vocabulary": ["Legislative Branch", "Executive Branch", "Judicial Branch", "Congress", "Supreme Court", "checks and balances"],
+            "real_world": "Think of the three branches like a three-legged stool. If you remove one leg, the stool falls. Each branch is needed!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which branch makes the laws?",
+              "options": ["Executive", "Judicial", "Legislative", "Military"],
+              "correct": 2,
+              "hint": "Congress is part of this branch."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who leads the Executive Branch?",
+              "options": ["The Supreme Court", "Congress", "The President", "The Governor"],
+              "correct": 2,
+              "hint": "This is the leader of the country."
+            },
+            {
+              "type": "true_false",
+              "question": "The Judicial Branch includes the Supreme Court.",
+              "answer": "true",
+              "hint": "The Supreme Court is the highest court in the country."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why are there three branches of government?",
+              "options": ["So the government has more people", "So no one branch has too much power", "Because three is a lucky number", "There is no reason"],
+              "correct": 1,
+              "hint": "This system is called checks and balances."
+            },
+            {
+              "type": "fill_in",
+              "question": "The system that keeps any one branch from being too powerful is called checks and ___.",
+              "answer": "balances",
+              "hint": "The branches check and ___ each other's power."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-5-3",
+          "title": "The Bill of Rights",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Bill of Rights is the first ten amendments (changes) to the Constitution. It was added in 1791 to protect the rights of citizens. The First Amendment protects freedom of speech, religion, and the press — meaning you can say what you think, worship how you choose, and newspapers can report the news freely. Other amendments protect the right to a fair trial and the right to privacy. The Bill of Rights makes sure the government does not become too powerful over individual citizens.",
+            "examples": [
+              {
+                "problem": "What is the Bill of Rights?",
+                "answer": "The first ten amendments to the Constitution.",
+                "explanation": "These amendments protect the basic rights and freedoms of American citizens."
+              },
+              {
+                "problem": "What does the First Amendment protect?",
+                "answer": "Freedom of speech, religion, and the press.",
+                "explanation": "The First Amendment says you have the right to speak freely, practice your religion, and the press can report news."
+              }
+            ],
+            "key_vocabulary": ["Bill of Rights", "amendment", "freedom of speech", "freedom of religion", "rights", "liberty"],
+            "real_world": "Freedom of speech means you can share your opinion, like saying you think a law should change. That is a right protected by the First Amendment!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many amendments are in the Bill of Rights?",
+              "options": ["5", "10", "13", "50"],
+              "correct": 1,
+              "hint": "The Bill of Rights is the first ___ amendments."
+            },
+            {
+              "type": "true_false",
+              "question": "The First Amendment protects freedom of speech.",
+              "answer": "true",
+              "hint": "You have the right to say what you think."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is an amendment?",
+              "options": ["A type of law", "A change or addition to the Constitution", "A government building", "A type of election"],
+              "correct": 1,
+              "hint": "Amendments change or add to the Constitution."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Bill of Rights protects ___.",
+              "options": ["Animals", "Buildings", "Citizens' rights and freedoms", "Trees"],
+              "correct": 2,
+              "hint": "It makes sure the government does not take away people's freedoms."
+            },
+            {
+              "type": "true_false",
+              "question": "The Bill of Rights was added to the Constitution in 1791.",
+              "answer": "true",
+              "hint": "It was added a few years after the Constitution was written."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-5-4",
+          "title": "Levels of Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has three levels of government: local, state, and national (federal). Local government includes mayors, city councils, and county officials. They manage things like local roads, police, and fire departments. State government is led by the governor and includes the state legislature. They make state laws and manage state parks, highways, and schools. The national (federal) government is led by the President and includes Congress and the Supreme Court. They handle things like the military, national parks, and money.",
+            "examples": [
+              {
+                "problem": "Who leads the state government?",
+                "answer": "The governor.",
+                "explanation": "Each state has a governor who leads the state government, similar to how the President leads the national government."
+              },
+              {
+                "problem": "What does local government manage?",
+                "answer": "Local roads, police, fire departments, and community services.",
+                "explanation": "Local government handles the day-to-day needs of a city or town."
+              }
+            ],
+            "key_vocabulary": ["local government", "state government", "federal government", "governor", "national", "legislature"],
+            "real_world": "Your school's rules come from local and state government. The President deals with national issues. All three levels work together!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many levels of government are there?",
+              "options": ["1", "2", "3", "5"],
+              "correct": 2,
+              "hint": "Local, state, and national."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Who leads the state government?",
+              "options": ["The President", "The Mayor", "The Governor", "A Judge"],
+              "correct": 2,
+              "hint": "This leader runs the state."
+            },
+            {
+              "type": "true_false",
+              "question": "Local government manages local roads and police.",
+              "answer": "true",
+              "hint": "These are local community services."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The national government handles ___.",
+              "options": ["Local streets", "School lunch menus", "The military and national parks", "Neighborhood playgrounds"],
+              "correct": 2,
+              "hint": "These are things that affect the whole country."
+            },
+            {
+              "type": "true_false",
+              "question": "The President leads the national government.",
+              "answer": "true",
+              "hint": "The President is the leader of the whole country."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The Constitution is ___.",
+            "options": ["A poem", "The rule book for the US government", "A recipe", "A map"],
+            "correct": 1,
+            "hint": "It explains how the government works."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "How many branches of government are there?",
+            "options": ["1", "2", "3", "4"],
+            "correct": 2,
+            "hint": "Legislative, Executive, and Judicial."
+          },
+          {
+            "type": "true_false",
+            "question": "The Bill of Rights protects citizens' freedoms.",
+            "answer": "true",
+            "hint": "It includes rights like freedom of speech."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Who leads the state government?",
+            "options": ["Mayor", "Governor", "President", "Judge"],
+            "correct": 1,
+            "hint": "This person leads one of the 50 states."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which branch makes the laws?",
+            "options": ["Executive", "Legislative", "Judicial", "Local"],
+            "correct": 1,
+            "hint": "Congress is part of this branch."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "government_genius"
+      }
+    },
+    {
+      "id": "3-social-6",
+      "title": "Economics",
+      "description": "Learn about supply and demand, saving, spending, and making a budget.",
+      "lessons": [
+        {
+          "id": "3-social-6-1",
+          "title": "Supply and Demand",
+          "type": "lesson",
+          "content": {
+            "explanation": "Supply is how much of something is available to buy. Demand is how much people want to buy something. When demand is high (many people want it) and supply is low (there is not much available), the price goes up. When demand is low and supply is high, the price goes down. Think about a popular new toy: if everyone wants it but the store only has a few, the price will be high. If nobody wants it and the store has many, the price will go down. This is called the law of supply and demand.",
+            "examples": [
+              {
+                "problem": "What happens when demand is high and supply is low?",
+                "answer": "The price goes up.",
+                "explanation": "When many people want something but there is not much of it, sellers can charge more."
+              },
+              {
+                "problem": "What is supply?",
+                "answer": "How much of something is available to buy.",
+                "explanation": "Supply is the amount of a product that sellers have ready for consumers."
+              }
+            ],
+            "key_vocabulary": ["supply", "demand", "price", "scarce", "available", "market"],
+            "real_world": "Concert tickets are a good example. When a popular band plays, demand is high and tickets sell out quickly. If there were fewer seats (low supply), ticket prices would be even higher!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Supply is ___.",
+              "options": ["How much people want something", "How much of something is available", "The cost of an item", "A type of store"],
+              "correct": 1,
+              "hint": "Supply is about how much of a product exists."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Demand is ___.",
+              "options": ["How much is available", "How heavy something is", "How much people want something", "A type of money"],
+              "correct": 2,
+              "hint": "Demand is about how much people want to buy."
+            },
+            {
+              "type": "true_false",
+              "question": "When demand is high and supply is low, prices go up.",
+              "answer": "true",
+              "hint": "Many people wanting something rare makes it cost more."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a store has 1000 fidget spinners but nobody wants them, the price will ___.",
+              "options": ["Go way up", "Stay the same", "Go down", "Disappear"],
+              "correct": 2,
+              "hint": "High supply + low demand = lower prices."
+            },
+            {
+              "type": "true_false",
+              "question": "When supply is high and demand is low, prices go up.",
+              "answer": "false",
+              "hint": "If there is a lot of something but few people want it, the price drops."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-6-2",
+          "title": "Saving Money",
+          "type": "lesson",
+          "content": {
+            "explanation": "Saving money means keeping some of your money instead of spending it all right away. You can save money in a piggy bank at home or in a savings account at a bank. Banks are safe places to keep money, and they even pay you a small amount extra called interest for keeping your money there. People save for many reasons: to buy something expensive, for emergencies, or for the future. Saving takes patience, but it helps you reach bigger goals!",
+            "examples": [
+              {
+                "problem": "Why do people save money?",
+                "answer": "To buy something expensive, for emergencies, or for the future.",
+                "explanation": "Saving helps you afford things that cost more than what you have right now."
+              },
+              {
+                "problem": "What is interest?",
+                "answer": "Extra money the bank pays you for keeping your money there.",
+                "explanation": "When you save money in a bank, the bank uses it and pays you a little extra as a thank you."
+              }
+            ],
+            "key_vocabulary": ["save", "bank", "savings account", "interest", "goal", "patience"],
+            "real_world": "If you want to buy a $20 toy and you save $5 a week, how many weeks will it take? (4 weeks!) Setting a savings goal helps you plan."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does saving money mean?",
+              "options": ["Spending everything right away", "Keeping money to use later", "Throwing money away", "Giving all money to friends"],
+              "correct": 1,
+              "hint": "Saving is the opposite of spending everything."
+            },
+            {
+              "type": "true_false",
+              "question": "A bank is a safe place to keep money.",
+              "answer": "true",
+              "hint": "Banks protect your money and keep it safe."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is interest?",
+              "options": ["A tax you pay", "Extra money the bank gives you for saving", "A fee for spending", "A type of money"],
+              "correct": 1,
+              "hint": "The bank pays you a little extra for keeping your money there."
+            },
+            {
+              "type": "true_false",
+              "question": "Saving money helps you reach bigger goals.",
+              "answer": "true",
+              "hint": "By saving, you can afford things that cost more."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a reason to save money?",
+              "options": ["To waste it", "To buy something expensive later", "To never use it", "To impress people"],
+              "correct": 1,
+              "hint": "Saving helps you afford things you want in the future."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-6-3",
+          "title": "Spending Wisely",
+          "type": "lesson",
+          "content": {
+            "explanation": "Spending wisely means thinking carefully before buying something. Ask yourself: Do I need this or just want it? Can I find it cheaper somewhere else? Is it worth the price? Smart shoppers compare prices before buying. They also think about the difference between needs and wants. Needs (like food, clothing, and shelter) should come first. After taking care of needs, you can spend on wants (like toys and treats). Spending wisely means you will have enough money for what is important!",
+            "examples": [
+              {
+                "problem": "What does it mean to spend wisely?",
+                "answer": "Thinking carefully before you buy something.",
+                "explanation": "Wise spenders ask themselves if they really need something and if it is worth the price."
+              },
+              {
+                "problem": "What should you buy first — needs or wants?",
+                "answer": "Needs.",
+                "explanation": "Take care of needs like food and clothing before buying wants like toys and games."
+              }
+            ],
+            "key_vocabulary": ["spend wisely", "compare", "price", "value", "needs", "wants"],
+            "real_world": "Before buying something online, check if another store sells it for less. That is comparison shopping!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What should you ask before buying something?",
+              "options": ["What color is it?", "Do I need this or just want it?", "Is it shiny?", "Is it new?"],
+              "correct": 1,
+              "hint": "Smart shoppers think about whether they really need something."
+            },
+            {
+              "type": "true_false",
+              "question": "You should buy wants before needs.",
+              "answer": "false",
+              "hint": "Needs like food and shelter should come first."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What do smart shoppers do?",
+              "options": ["Buy the first thing they see", "Compare prices", "Always buy the most expensive item", "Buy everything"],
+              "correct": 1,
+              "hint": "Looking at prices in different stores helps you find the best deal."
+            },
+            {
+              "type": "true_false",
+              "question": "Spending wisely means thinking carefully before buying.",
+              "answer": "true",
+              "hint": "Wise spenders do not make hasty decisions."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a need?",
+              "options": ["A video game", "A fancy watch", "Food", "A new phone"],
+              "correct": 2,
+              "hint": "You must have this to survive."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-social-6-4",
+          "title": "Making a Budget",
+          "type": "lesson",
+          "content": {
+            "explanation": "A budget is a plan for your money. It tells you how much money you have, how much you will spend, and how much you will save. To make a budget, first figure out how much money you have. Then, list what you need to spend money on (needs). Next, decide how much to save. Finally, see what is left for wants. A good budget makes sure you do not spend more than you have. Families, businesses, and even governments all use budgets to manage their money.",
+            "examples": [
+              {
+                "problem": "What is a budget?",
+                "answer": "A plan for how to spend and save money.",
+                "explanation": "A budget helps you organize your money so you do not run out."
+              },
+              {
+                "problem": "If you have $10, spend $4 on needs, and save $3, how much is left for wants?",
+                "answer": "$3.",
+                "explanation": "$10 - $4 (needs) - $3 (savings) = $3 left for wants."
+              }
+            ],
+            "key_vocabulary": ["budget", "income", "expenses", "savings", "plan", "manage"],
+            "real_world": "Try making a budget with your allowance! Plan how much to spend and how much to save each week."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is a budget?",
+              "options": ["A type of bank", "A plan for spending and saving money", "A piggy bank", "A wallet"],
+              "correct": 1,
+              "hint": "A budget helps you plan how to use your money."
+            },
+            {
+              "type": "true_false",
+              "question": "A budget helps you not spend more than you have.",
+              "answer": "true",
+              "hint": "The whole point of a budget is to stay within your money limits."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the first step in making a budget?",
+              "options": ["Spend everything", "Figure out how much money you have", "Buy toys", "Go to the store"],
+              "correct": 1,
+              "hint": "You need to know how much money is available first."
+            },
+            {
+              "type": "true_false",
+              "question": "Only families use budgets.",
+              "answer": "false",
+              "hint": "Businesses and governments also make budgets."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a budget, what should come before wants?",
+              "options": ["More wants", "Needs and savings", "Games", "Nothing"],
+              "correct": 1,
+              "hint": "Take care of needs and saving before spending on wants."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "When demand is high and supply is low, prices ___.",
+            "options": ["Go down", "Stay the same", "Go up", "Disappear"],
+            "correct": 2,
+            "hint": "Many people wanting something rare makes it cost more."
+          },
+          {
+            "type": "true_false",
+            "question": "A bank pays you interest for saving money.",
+            "answer": "true",
+            "hint": "Interest is a bonus for keeping money in the bank."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Smart shoppers ___ prices before buying.",
+            "options": ["Ignore", "Compare", "Raise", "Hide"],
+            "correct": 1,
+            "hint": "Looking at different prices helps you find the best deal."
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A budget is ___.",
+            "options": ["A type of money", "A plan for spending and saving", "A wallet", "A credit card"],
+            "correct": 1,
+            "hint": "Budgets help you manage your money."
+          },
+          {
+            "type": "true_false",
+            "question": "You should buy needs before wants.",
+            "answer": "true",
+            "hint": "Take care of necessities first."
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "economics_expert"
+      }
+    }
+  ]
+}

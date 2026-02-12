@@ -1,0 +1,807 @@
+{
+  "grade": 5,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "5-ela-1",
+      "title": "Literary Elements: Theme, Plot, and Character Development",
+      "description": "Dive deeper into literature by analyzing theme, understanding plot structure, and examining how characters change and grow throughout a story.",
+      "lessons": [
+        {
+          "id": "5-ela-1-1",
+          "title": "Understanding Theme",
+          "type": "lesson",
+          "content": {
+            "explanation": "The theme is the underlying message or lesson that the author wants the reader to take away from a story. Theme is different from the topic. The topic is what the story is about (like 'friendship'), while the theme is the message about that topic (like 'true friends stand by you during difficult times'). A theme is usually a universal truth that applies to many people, not just the characters in the story. Authors rarely state the theme directly. Instead, you figure it out by thinking about what the characters learn, how the story ends, and how the events connect. Common themes include the importance of courage, kindness, honesty, perseverance, and accepting differences.",
+            "examples": [
+              {"problem": "A story is about a girl who is afraid of public speaking but practices every day and eventually gives a great speech. What is the theme?", "answer": "Hard work and practice can help you overcome your fears.", "explanation": "The character learns that by practicing, she can conquer her fear. This message applies to anyone, not just the character."},
+              {"problem": "What is the difference between topic and theme?", "answer": "Topic: one or two words (courage). Theme: a complete message (Having courage means doing what is right even when you are afraid).", "explanation": "The topic is the subject; the theme is the lesson or message."},
+              {"problem": "Can a story have more than one theme?", "answer": "Yes! Many stories have multiple themes.", "explanation": "A story about friendship might also have themes about loyalty, forgiveness, and growing up."}
+            ],
+            "key_vocabulary": ["theme", "message", "lesson", "universal truth", "topic", "moral"],
+            "real_world": "Movies and TV shows have themes too. The theme of many superhero movies is that with great power comes great responsibility."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a theme?", "options": ["The topic of the story", "The main character", "The underlying message or lesson of a story", "The setting"], "correct": 2, "hint": "Theme is the big message the author wants you to take away."},
+            {"type": "true_false", "question": "The theme and the topic of a story are the same thing.", "answer": false, "hint": "Is the topic a word or a message?"},
+            {"type": "multiple_choice", "question": "A story is about a boy who cheats on a test and gets caught. He learns that dishonesty leads to bigger problems. What is the theme?", "options": ["Tests are hard", "Honesty is important because dishonesty leads to consequences", "The boy should have studied harder", "School is boring"], "correct": 1, "hint": "What lesson does the character learn?"},
+            {"type": "fill_in", "question": "A theme is usually a ___ truth that applies to many people.", "answer": "universal", "hint": "It is not just about the characters; it applies to everyone."},
+            {"type": "multiple_choice", "question": "How do you figure out the theme of a story?", "options": ["Read only the title", "Think about what the characters learn and how the story ends", "Count the number of pages", "Read only the first paragraph"], "correct": 1, "hint": "The theme is revealed through the whole story, especially the lessons learned."},
+            {"type": "true_false", "question": "Authors usually state the theme directly in the first sentence.", "answer": false, "hint": "Do most authors tell you the theme or do you have to figure it out?"},
+            {"type": "multiple_choice", "question": "Which is a THEME, not a topic?", "options": ["Friendship", "True friends accept you for who you are", "Dogs", "School"], "correct": 1, "hint": "A theme is a complete message, not just a word."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-1-2",
+          "title": "Plot Structure: Beginning, Middle, and End",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every story follows a structure called the plot. The plot has five main parts. The exposition introduces the characters, setting, and situation. The rising action is where the conflict or problem develops and tension builds through a series of events. The climax is the most exciting or turning point of the story where the main conflict reaches its peak. The falling action shows what happens after the climax as the conflict begins to be resolved. The resolution (or denouement) is the ending where the problem is solved and loose ends are tied up. Understanding plot structure helps you follow stories and write your own.",
+            "examples": [
+              {"problem": "In 'The Three Little Pigs,' what is the climax?", "answer": "When the wolf tries to blow down the brick house but cannot.", "explanation": "This is the most intense moment and the turning point where the pigs finally defeat the wolf."},
+              {"problem": "What is the difference between rising action and falling action?", "answer": "Rising action builds tension before the climax. Falling action resolves tension after the climax.", "explanation": "Rising action goes up to the peak (climax), and falling action comes down from it."}
+            ],
+            "key_vocabulary": ["plot", "exposition", "rising action", "climax", "falling action", "resolution"],
+            "real_world": "Your favorite video games follow plot structure too! You start with a setup, face harder challenges (rising action), defeat the final boss (climax), and see the ending (resolution)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are the five parts of plot structure?", "options": ["Title, author, setting, characters, ending", "Exposition, rising action, climax, falling action, resolution", "Beginning, second part, middle, fourth part, ending", "Introduction, body 1, body 2, body 3, conclusion"], "correct": 1, "hint": "Think about the structure of a story's events."},
+            {"type": "fill_in", "question": "The ___ is the most exciting or turning point of the story.", "answer": "climax", "hint": "This is the peak of the story where everything changes."},
+            {"type": "multiple_choice", "question": "What happens during the exposition?", "options": ["The problem is solved", "The characters and setting are introduced", "The most exciting event happens", "The story ends"], "correct": 1, "hint": "The exposition is the setup at the beginning."},
+            {"type": "true_false", "question": "The rising action comes after the climax.", "answer": false, "hint": "Does the tension build before or after the most exciting moment?"},
+            {"type": "multiple_choice", "question": "What is the resolution?", "options": ["The beginning of the story", "Where the problem develops", "The most exciting part", "The ending where the problem is solved"], "correct": 3, "hint": "Resolution means things are resolved or finished."},
+            {"type": "multiple_choice", "question": "During which part of the plot does tension build?", "options": ["Exposition", "Rising action", "Resolution", "Falling action"], "correct": 1, "hint": "The tension is 'rising' during this part."},
+            {"type": "fill_in", "question": "The ___ action shows what happens after the climax as the conflict starts to be resolved.", "answer": "falling", "hint": "After the peak, things start to settle down."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-1-3",
+          "title": "Character Development and Traits",
+          "type": "lesson",
+          "content": {
+            "explanation": "Character development is how a character changes or grows throughout a story. At the beginning, a character might be shy, selfish, or afraid. By the end, they might be brave, generous, or confident. This change is called a character arc. Authors show character traits through what characters say (dialogue), what they do (actions), what they think (thoughts), and what others say about them. A character who changes is called a dynamic character. A character who stays the same is a static character. Understanding character development helps you connect with characters and understand why they make certain decisions.",
+            "examples": [
+              {"problem": "A character starts out being afraid of everything and ends up standing up to a bully. Is this character dynamic or static?", "answer": "Dynamic.", "explanation": "The character changed significantly from fearful to brave, making them a dynamic character."},
+              {"problem": "How can you identify a character's traits?", "answer": "By looking at their dialogue, actions, thoughts, and what other characters say about them.", "explanation": "Authors reveal character traits through multiple methods, not just one."},
+              {"problem": "What is a character arc?", "answer": "The journey of change a character goes through from the beginning to the end of a story.", "explanation": "A character arc shows how experiences in the story transform the character."}
+            ],
+            "key_vocabulary": ["character development", "character traits", "dynamic character", "static character", "character arc", "dialogue"],
+            "real_world": "Think about how you have changed since kindergarten. You have probably become braver, smarter, and more independent. That is your real-life character development!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is character development?", "options": ["How tall a character is", "How a character changes or grows throughout a story", "The character's name", "What a character looks like"], "correct": 1, "hint": "Development means change and growth."},
+            {"type": "fill_in", "question": "A character who changes during the story is called a ___ character.", "answer": "dynamic", "hint": "'Dynamic' means active and changing."},
+            {"type": "multiple_choice", "question": "Which is a way authors reveal character traits?", "options": ["Through the page numbers", "Through the character's dialogue, actions, and thoughts", "Through the chapter titles", "Through the font size"], "correct": 1, "hint": "What a character says, does, and thinks reveals who they are."},
+            {"type": "true_false", "question": "A static character changes a lot during the story.", "answer": false, "hint": "'Static' means staying the same."},
+            {"type": "multiple_choice", "question": "A character arc is ___.", "options": ["The shape of a character's face", "The journey of change a character goes through", "A rainbow in the story", "The character's favorite activity"], "correct": 1, "hint": "An 'arc' is a curved path from one point to another."},
+            {"type": "multiple_choice", "question": "A character is kind at the beginning and kind at the end. This character is ___.", "options": ["Dynamic", "Static", "Flat", "Missing"], "correct": 1, "hint": "The character did not change."},
+            {"type": "true_false", "question": "Understanding character development helps you connect with characters in a story.", "answer": true, "hint": "Does knowing why characters change make the story more meaningful?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-1-4",
+          "title": "Conflict in Stories",
+          "type": "lesson",
+          "content": {
+            "explanation": "Conflict is the central problem or struggle in a story. Without conflict, there would be no story because there would be nothing for characters to overcome. There are several types of conflict. Character vs. character is when two characters oppose each other, like a hero fighting a villain. Character vs. nature is when a character struggles against natural forces like a storm or wild animal. Character vs. self is when a character struggles with their own feelings, fears, or decisions. Character vs. society is when a character fights against rules, laws, or expectations of the community. Most stories have one main conflict and possibly smaller conflicts within it.",
+            "examples": [
+              {"problem": "A girl is lost in a snowstorm and must find her way home. What type of conflict is this?", "answer": "Character vs. nature.", "explanation": "The girl is struggling against a natural force (the snowstorm)."},
+              {"problem": "A boy wants to try out for the school play but is afraid of what his friends will think. What type of conflict is this?", "answer": "Character vs. self.", "explanation": "The boy is struggling with his own fear and worry about others' opinions."},
+              {"problem": "Two friends both want to be class president. What type of conflict is this?", "answer": "Character vs. character.", "explanation": "Two characters are in direct competition with each other."}
+            ],
+            "key_vocabulary": ["conflict", "struggle", "character vs. character", "character vs. nature", "character vs. self", "character vs. society"],
+            "real_world": "You experience conflict every day. Deciding between two fun activities is a conflict with yourself. Disagreeing with a friend is a character vs. character conflict."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is conflict in a story?", "options": ["The setting", "The central problem or struggle", "The resolution", "The characters"], "correct": 1, "hint": "Conflict drives the story forward."},
+            {"type": "multiple_choice", "question": "A character is trapped on an island after a shipwreck. What type of conflict is this?", "options": ["Character vs. character", "Character vs. self", "Character vs. nature", "Character vs. society"], "correct": 2, "hint": "The character is struggling against the natural environment."},
+            {"type": "fill_in", "question": "Character vs. ___ is when a character struggles with their own feelings or decisions.", "answer": "self", "hint": "The struggle is inside the character's own mind."},
+            {"type": "true_false", "question": "A story can have more than one conflict.", "answer": true, "hint": "Can there be a main conflict and smaller ones?"},
+            {"type": "multiple_choice", "question": "A teenager rebels against an unfair school rule. What type of conflict is this?", "options": ["Character vs. self", "Character vs. nature", "Character vs. character", "Character vs. society"], "correct": 3, "hint": "The character is fighting against a community rule or expectation."},
+            {"type": "multiple_choice", "question": "Why is conflict important in a story?", "options": ["It makes the story boring", "Without it, there would be nothing to overcome and no story", "It makes the story confusing", "It is not important"], "correct": 1, "hint": "Conflict gives characters something to face and solve."},
+            {"type": "multiple_choice", "question": "A detective tries to catch a criminal. What type of conflict is this?", "options": ["Character vs. self", "Character vs. nature", "Character vs. character", "Character vs. society"], "correct": 2, "hint": "Two characters are opposing each other."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-1-5",
+          "title": "Point of View in Literature",
+          "type": "lesson",
+          "content": {
+            "explanation": "Point of view is who is telling the story. In first-person point of view, a character in the story tells it using 'I' and 'me.' You only know what this character thinks and feels. In third-person limited point of view, a narrator outside the story tells it using 'he,' 'she,' and 'they,' but only shows the thoughts of one character. In third-person omniscient point of view, the narrator knows the thoughts and feelings of ALL characters. The point of view affects how much information the reader gets and how they experience the story. Different points of view create different reading experiences.",
+            "examples": [
+              {"problem": "'I walked into the classroom and felt my heart pound. Everyone was staring at me.' What point of view is this?", "answer": "First person.", "explanation": "The narrator uses 'I' and 'me,' telling the story from their own perspective."},
+              {"problem": "'Sarah walked into the classroom and felt her heart pound. She noticed everyone was staring.' What point of view is this?", "answer": "Third-person limited.", "explanation": "The narrator uses 'she' and only shows Sarah's thoughts and feelings."},
+              {"problem": "'Sarah felt nervous while Tom felt excited. Everyone in the room had their own reaction.' What point of view is this?", "answer": "Third-person omniscient.", "explanation": "The narrator knows what multiple characters are thinking and feeling."}
+            ],
+            "key_vocabulary": ["point of view", "first person", "third-person limited", "third-person omniscient", "narrator", "perspective"],
+            "real_world": "When two people describe the same event, they tell it differently because they have different points of view. In court, witnesses describe the same event from their own perspectives."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is point of view?", "options": ["The setting of a story", "Who is telling the story", "The main conflict", "The theme"], "correct": 1, "hint": "Point of view is about the storyteller's perspective."},
+            {"type": "multiple_choice", "question": "Which words signal first-person point of view?", "options": ["He, she, they", "I, me, my", "It, the, a", "You, your, yours"], "correct": 1, "hint": "First person means the narrator is talking about themselves."},
+            {"type": "fill_in", "question": "In third-person ___ point of view, the narrator knows what ALL characters think and feel.", "answer": "omniscient", "hint": "'Omni' means 'all.' This narrator knows everything."},
+            {"type": "true_false", "question": "In first-person point of view, you know the thoughts of every character.", "answer": false, "hint": "Does the 'I' narrator know what everyone else is thinking?"},
+            {"type": "multiple_choice", "question": "'He grabbed his coat and rushed out the door, worried he would be late.' What point of view is this?", "options": ["First person", "Second person", "Third-person limited", "Third-person omniscient"], "correct": 2, "hint": "The narrator uses 'he' and shows one character's worry."},
+            {"type": "multiple_choice", "question": "Why does point of view matter?", "options": ["It does not matter", "It affects how much information the reader gets", "It changes the setting", "It determines the number of pages"], "correct": 1, "hint": "Different perspectives give different amounts of information."},
+            {"type": "true_false", "question": "Third-person omniscient means the narrator knows everything about all characters.", "answer": true, "hint": "'Omniscient' means 'all-knowing.'"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a theme?", "options": ["The topic of a story", "The underlying message or lesson", "The main character", "The setting"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is the climax of a story?", "options": ["The beginning", "The most exciting or turning point", "The ending", "The introduction of characters"], "correct": 1},
+          {"type": "true_false", "question": "A dynamic character changes during the story.", "answer": true},
+          {"type": "multiple_choice", "question": "Character vs. nature is when ___.", "options": ["Two characters fight", "A character struggles against natural forces", "A character fights rules", "A character battles their own feelings"], "correct": 1},
+          {"type": "fill_in", "question": "First-person point of view uses the words 'I' and '___.'", "answer": "me", "hint": "The narrator talks about themselves."},
+          {"type": "multiple_choice", "question": "What is a character arc?", "options": ["A bridge in the story", "How a character changes from beginning to end", "The shape of a character", "A type of conflict"], "correct": 1},
+          {"type": "true_false", "question": "The exposition is the last part of the plot.", "answer": false},
+          {"type": "multiple_choice", "question": "What is the resolution?", "options": ["Where the problem develops", "Where the conflict is at its peak", "Where the problem is solved and the story ends", "Where characters are introduced"], "correct": 2},
+          {"type": "multiple_choice", "question": "A narrator who knows ALL characters' thoughts uses which point of view?", "options": ["First person", "Third-person limited", "Third-person omniscient", "Second person"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "literary_analyst_5"
+      }
+    },
+    {
+      "id": "5-ela-2",
+      "title": "Advanced Grammar: Complex Sentences and Clauses",
+      "description": "Level up your grammar skills by learning about independent and dependent clauses, complex sentences, relative pronouns, and sentence variety.",
+      "lessons": [
+        {
+          "id": "5-ela-2-1",
+          "title": "Independent and Dependent Clauses",
+          "type": "lesson",
+          "content": {
+            "explanation": "A clause is a group of words that has a subject and a verb. An independent clause can stand alone as a complete sentence because it expresses a complete thought. For example, 'The dog barked' is an independent clause. A dependent clause (also called a subordinate clause) has a subject and verb but cannot stand alone because it does not express a complete thought. It depends on an independent clause to make sense. For example, 'when the doorbell rang' is a dependent clause. It starts with a subordinating conjunction ('when') that makes it incomplete. Dependent clauses often begin with words like 'when,' 'because,' 'although,' 'if,' 'since,' 'while,' 'after,' and 'before.'",
+            "examples": [
+              {"problem": "Is 'because it was raining' an independent or dependent clause?", "answer": "Dependent clause.", "explanation": "It starts with 'because' and does not express a complete thought by itself. You want to ask, 'What happened because it was raining?'"},
+              {"problem": "Is 'She finished her homework' an independent or dependent clause?", "answer": "Independent clause.", "explanation": "It has a subject (she), a verb (finished), and expresses a complete thought. It can stand alone as a sentence."},
+              {"problem": "Combine these: 'I stayed inside.' + 'because it was raining'", "answer": "I stayed inside because it was raining.", "explanation": "The independent clause 'I stayed inside' is combined with the dependent clause 'because it was raining.'"}
+            ],
+            "key_vocabulary": ["clause", "independent clause", "dependent clause", "subordinate clause", "subordinating conjunction", "complete thought"],
+            "real_world": "Dependent clauses are like sidekicks. They add important information but cannot do the job alone. They need the hero (independent clause) to make the story complete!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a clause?", "options": ["A type of punctuation", "A group of words with a subject and a verb", "A single word", "A paragraph"], "correct": 1, "hint": "Clauses have two essential parts: a subject and a verb."},
+            {"type": "multiple_choice", "question": "Which is an independent clause?", "options": ["When the bell rings", "Because I was tired", "The students studied for the test", "Although she tried hard"], "correct": 2, "hint": "Which one can stand alone as a complete sentence?"},
+            {"type": "fill_in", "question": "A ___ clause cannot stand alone because it does not express a complete thought.", "answer": "dependent", "hint": "It depends on another clause to make sense."},
+            {"type": "true_false", "question": "'After the game ended' is an independent clause.", "answer": false, "hint": "Can this stand alone? What happened after the game ended?"},
+            {"type": "multiple_choice", "question": "Which word is a subordinating conjunction?", "options": ["And", "Because", "Or", "So"], "correct": 1, "hint": "Subordinating conjunctions start dependent clauses."},
+            {"type": "multiple_choice", "question": "Which is a dependent clause?", "options": ["She ran to the store.", "If it snows tomorrow.", "The cat slept.", "I like pizza."], "correct": 1, "hint": "Which one feels incomplete on its own?"},
+            {"type": "true_false", "question": "Dependent clauses often begin with words like 'when,' 'because,' 'although,' and 'if.'", "answer": true, "hint": "These words signal that a dependent clause is coming."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-2-2",
+          "title": "Building Complex Sentences",
+          "type": "lesson",
+          "content": {
+            "explanation": "A complex sentence is formed by combining an independent clause with one or more dependent clauses. Complex sentences are important because they show the relationship between ideas and make your writing more sophisticated. When the dependent clause comes FIRST, use a comma after it: 'Although it was cold, we went outside.' When the dependent clause comes SECOND, you usually do not need a comma: 'We went outside although it was cold.' Complex sentences help you show cause and effect, time relationships, and conditions. They are different from compound sentences, which join two independent clauses with a coordinating conjunction.",
+            "examples": [
+              {"problem": "Make a complex sentence using 'because': 'She got an A.' + 'She studied hard.'", "answer": "She got an A because she studied hard.", "explanation": "'Because she studied hard' is the dependent clause showing the reason."},
+              {"problem": "Where does the comma go? 'Before the movie started we bought popcorn.'", "answer": "Before the movie started, we bought popcorn.", "explanation": "When the dependent clause comes first, put a comma after it."},
+              {"problem": "Is this a complex or compound sentence? 'I will go to the park if it stops raining.'", "answer": "Complex sentence.", "explanation": "'If it stops raining' is a dependent clause joined to the independent clause 'I will go to the park.'"}
+            ],
+            "key_vocabulary": ["complex sentence", "dependent clause", "independent clause", "subordinating conjunction", "comma", "relationship"],
+            "real_world": "Good speakers use complex sentences naturally: 'If you finish your vegetables, you can have dessert.' That is a complex sentence with a condition!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a complex sentence?", "options": ["Two independent clauses joined by 'and'", "An independent clause combined with a dependent clause", "A very long sentence", "A sentence with many adjectives"], "correct": 1, "hint": "Complex sentences mix independent and dependent clauses."},
+            {"type": "true_false", "question": "When a dependent clause comes first, you should put a comma after it.", "answer": true, "hint": "Think about the rule for dependent clauses at the beginning."},
+            {"type": "multiple_choice", "question": "Which is a complex sentence?", "options": ["The dog ran and the cat hid.", "Because it was raining, we stayed inside.", "She is tall.", "We ate pizza, and we drank lemonade."], "correct": 1, "hint": "Look for a dependent clause with a subordinating conjunction."},
+            {"type": "fill_in", "question": "A complex sentence combines an independent clause with a ___ clause.", "answer": "dependent", "hint": "This clause cannot stand alone."},
+            {"type": "multiple_choice", "question": "Which sentence needs a comma?", "options": ["I left because I was tired.", "Although she was young she was very talented.", "We played until dark.", "He smiled when he heard the news."], "correct": 1, "hint": "When does the dependent clause come first?"},
+            {"type": "multiple_choice", "question": "What is the difference between a complex and compound sentence?", "options": ["They are the same", "Complex uses dependent clauses; compound uses two independent clauses", "Complex is longer", "Compound uses dependent clauses"], "correct": 1, "hint": "Think about what types of clauses each one uses."},
+            {"type": "true_false", "question": "Complex sentences help show relationships between ideas.", "answer": true, "hint": "Do they show cause/effect, time, and conditions?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-2-3",
+          "title": "Relative Pronouns and Relative Clauses",
+          "type": "lesson",
+          "content": {
+            "explanation": "Relative pronouns are words like 'who,' 'whom,' 'whose,' 'which,' and 'that.' They introduce relative clauses, which give extra information about a noun in the sentence. For example, in 'The girl who won the race is my friend,' the relative clause 'who won the race' gives more information about 'the girl.' Use 'who' for people, 'which' for things, and 'that' for either people or things. Relative clauses can be essential (necessary to understand the sentence) or non-essential (extra information that can be removed). Non-essential clauses are set off with commas.",
+            "examples": [
+              {"problem": "Identify the relative clause: 'The book that I borrowed from the library was excellent.'", "answer": "'that I borrowed from the library'", "explanation": "This relative clause tells us which book is being discussed. It is introduced by the relative pronoun 'that.'"},
+              {"problem": "Which relative pronoun fits? 'The teacher ___ teaches science is Mrs. Park.'", "answer": "who", "explanation": "'Who' is used for people."},
+              {"problem": "Add a relative clause: 'The dog is friendly.'", "answer": "'The dog that lives next door is friendly.'", "explanation": "'That lives next door' is a relative clause giving more information about which dog."}
+            ],
+            "key_vocabulary": ["relative pronoun", "relative clause", "who", "which", "that", "essential clause", "non-essential clause"],
+            "real_world": "You use relative clauses in conversation all the time: 'The kid who sits next to me is really funny.' 'That is the restaurant that has amazing tacos.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is a relative pronoun?", "options": ["Because", "Who", "And", "Very"], "correct": 1, "hint": "Relative pronouns introduce relative clauses."},
+            {"type": "fill_in", "question": "Use ___ for people and 'which' for things.", "answer": "who", "hint": "This relative pronoun refers to people."},
+            {"type": "multiple_choice", "question": "Find the relative clause: 'The movie that we watched last night was scary.'", "options": ["The movie", "was scary", "that we watched last night", "last night"], "correct": 2, "hint": "The relative clause starts with a relative pronoun and adds information about the noun."},
+            {"type": "true_false", "question": "'Which' is typically used to refer to people.", "answer": false, "hint": "Is 'which' for people or things?"},
+            {"type": "multiple_choice", "question": "Choose the correct relative pronoun: 'The woman ___ car is parked outside is my aunt.'", "options": ["who", "which", "whose", "that"], "correct": 2, "hint": "You need a pronoun showing possession (the car belongs to the woman)."},
+            {"type": "multiple_choice", "question": "Which sentence contains a relative clause?", "options": ["She ran quickly.", "The cake that Mom baked was delicious.", "We went to the park.", "It was a sunny day."], "correct": 1, "hint": "Look for a clause starting with who, which, or that."},
+            {"type": "true_false", "question": "Non-essential relative clauses are set off with commas.", "answer": true, "hint": "Extra information that can be removed is separated by commas."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-2-4",
+          "title": "Sentence Variety",
+          "type": "lesson",
+          "content": {
+            "explanation": "Good writers use a variety of sentence types and lengths to keep their writing interesting. If every sentence is short and simple, the writing sounds choppy and boring. If every sentence is long and complex, the writing is hard to follow. Mix short sentences with longer ones. Use simple sentences for emphasis and impact: 'She won.' Use compound sentences to connect related ideas: 'She trained hard, and she won.' Use complex sentences to show relationships: 'Because she trained hard, she won.' You can also vary how sentences begin. Instead of always starting with the subject, try starting with an adverb ('Quickly, she ran'), a prepositional phrase ('In the morning, she practiced'), or a dependent clause ('Although she was nervous, she performed well').",
+            "examples": [
+              {"problem": "Improve this choppy writing: 'The dog ran. The dog was fast. The dog caught the ball.'", "answer": "The fast dog ran and caught the ball.", "explanation": "Combining the short sentences creates a smoother, more interesting sentence."},
+              {"problem": "Vary the sentence beginning: 'She walked to school every day.'", "answer": "'Every day, she walked to school.' or 'Without fail, she walked to school.'", "explanation": "Starting with a different word or phrase adds variety."}
+            ],
+            "key_vocabulary": ["sentence variety", "simple sentence", "compound sentence", "complex sentence", "choppy", "fluency"],
+            "real_world": "Your favorite authors use sentence variety to create rhythm in their writing. Short sentences build tension. Longer sentences provide detail and flow."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why is sentence variety important?", "options": ["It makes writing longer", "It makes writing more interesting and easier to read", "It is a rule you must follow", "It makes writing harder to understand"], "correct": 1, "hint": "Variety keeps the reader engaged."},
+            {"type": "true_false", "question": "Using only short, simple sentences makes writing sound exciting.", "answer": false, "hint": "Does repetitive sentence structure sound exciting or choppy?"},
+            {"type": "multiple_choice", "question": "Which group of sentences shows the best variety?", "options": ["I ran. I jumped. I fell.", "Although I was tired, I kept running. Then I jumped over the hurdle. I fell.", "I ran because I wanted to. I jumped because I had to. I fell because I was clumsy.", "Running jumping falling."], "correct": 1, "hint": "Look for a mix of sentence types and lengths."},
+            {"type": "fill_in", "question": "Short sentences can be used for ___ and impact.", "answer": "emphasis", "hint": "A short sentence after longer ones stands out and grabs attention."},
+            {"type": "multiple_choice", "question": "How can you vary sentence beginnings?", "options": ["Always start with 'The'", "Start with adverbs, prepositional phrases, or dependent clauses", "Always start with a noun", "Never change the beginning"], "correct": 1, "hint": "Different beginnings add variety."},
+            {"type": "multiple_choice", "question": "Which is a good way to fix choppy writing?", "options": ["Make every sentence longer", "Combine some short sentences into compound or complex sentences", "Remove all short sentences", "Add more periods"], "correct": 1, "hint": "Combining sentences creates flow."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is an independent clause?", "options": ["A clause that cannot stand alone", "A clause that expresses a complete thought and can stand alone", "A single word", "A question"], "correct": 1},
+          {"type": "true_false", "question": "A dependent clause can stand alone as a sentence.", "answer": false},
+          {"type": "multiple_choice", "question": "What is a complex sentence?", "options": ["Two independent clauses joined by 'and'", "An independent clause combined with a dependent clause", "A very short sentence", "A sentence with no verb"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which is a subordinating conjunction?", "options": ["And", "But", "Although", "Or"], "correct": 2},
+          {"type": "fill_in", "question": "Use the relative pronoun ___ for people.", "answer": "who", "hint": "This word asks about a person's identity."},
+          {"type": "multiple_choice", "question": "When a dependent clause starts a sentence, what goes after it?", "options": ["A period", "An exclamation point", "A comma", "Nothing"], "correct": 2},
+          {"type": "true_false", "question": "Good writers mix simple, compound, and complex sentences.", "answer": true},
+          {"type": "multiple_choice", "question": "Which is a relative pronoun?", "options": ["Because", "Although", "Which", "Since"], "correct": 2},
+          {"type": "multiple_choice", "question": "Choppy writing uses too many ___.", "options": ["Commas", "Short, simple sentences in a row", "Long sentences", "Adjectives"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "sentence_master_5"
+      }
+    },
+    {
+      "id": "5-ela-3",
+      "title": "Essay Writing: Introduction, Body, and Conclusion",
+      "description": "Learn the complete essay-writing process from planning to publishing, including writing strong introductions, detailed body paragraphs, and memorable conclusions.",
+      "lessons": [
+        {
+          "id": "5-ela-3-1",
+          "title": "The Five-Paragraph Essay Structure",
+          "type": "lesson",
+          "content": {
+            "explanation": "The five-paragraph essay is a foundational writing structure used in schools. It has five parts: one introduction paragraph, three body paragraphs, and one conclusion paragraph. The introduction starts with a hook to grab attention, provides background information, and ends with a thesis statement that presents your main idea and three supporting points. Each body paragraph covers one supporting point with evidence and examples. The conclusion restates the thesis, summarizes the three points, and ends with a final thought. This structure works for many types of essays including informational, persuasive, and opinion essays.",
+            "examples": [
+              {"problem": "What goes in each of the five paragraphs?", "answer": "Paragraph 1: Introduction with hook and thesis. Paragraphs 2-4: Body paragraphs each covering one point. Paragraph 5: Conclusion with restated thesis and final thought.", "explanation": "The structure keeps your writing organized and clear."},
+              {"problem": "Write a thesis statement for an essay about why exercise is important.", "answer": "'Exercise is essential for students because it improves physical health, boosts mental focus, and reduces stress.'", "explanation": "This thesis states the main idea and previews the three points that will be covered in the body paragraphs."}
+            ],
+            "key_vocabulary": ["five-paragraph essay", "thesis statement", "introduction", "body paragraph", "conclusion", "structure"],
+            "real_world": "The five-paragraph structure is like a building blueprint. Just as builders need a plan, writers need structure to create something strong and organized."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many paragraphs are in a five-paragraph essay?", "options": ["Three", "Four", "Five", "Six"], "correct": 2, "hint": "The name tells you!"},
+            {"type": "multiple_choice", "question": "What are the three parts of a five-paragraph essay?", "options": ["Title, author, date", "Introduction, three body paragraphs, conclusion", "Beginning, middle, end", "Hook, thesis, details"], "correct": 1, "hint": "Think about the structure."},
+            {"type": "fill_in", "question": "The ___ statement presents the main idea and previews the supporting points.", "answer": "thesis", "hint": "This is the most important sentence in the introduction."},
+            {"type": "true_false", "question": "Each body paragraph should cover multiple supporting points.", "answer": false, "hint": "How many points should each body paragraph focus on?"},
+            {"type": "multiple_choice", "question": "Where does the thesis statement usually go?", "options": ["At the beginning of the conclusion", "At the end of the introduction", "In the middle of a body paragraph", "In the title"], "correct": 1, "hint": "The thesis comes after the hook and background information."},
+            {"type": "multiple_choice", "question": "A good thesis statement for a five-paragraph essay mentions how many supporting points?", "options": ["One", "Two", "Three", "Five"], "correct": 2, "hint": "How many body paragraphs are there to support?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-3-2",
+          "title": "Writing Engaging Introductions",
+          "type": "lesson",
+          "content": {
+            "explanation": "An engaging introduction makes the reader want to continue reading. There are several types of hooks you can use. A surprising fact or statistic grabs attention: 'The average American throws away four pounds of trash every day.' A question makes the reader think: 'What if you could travel anywhere in the world?' An anecdote (a short story) draws the reader in: 'Last summer, I discovered something that changed how I see the world.' A vivid description creates a scene: 'The hallway was silent, the lockers stood like soldiers, and the clock ticked louder than thunder.' After your hook, provide two to three sentences of background information that lead into your thesis statement.",
+            "examples": [
+              {"problem": "Write a hook using a surprising fact for an essay about ocean pollution.", "answer": "'Every year, over eight million tons of plastic end up in our oceans, harming marine life and ecosystems.'", "explanation": "A startling statistic immediately makes the reader understand the seriousness of the problem."},
+              {"problem": "Write a hook using a question for an essay about technology in schools.", "answer": "'Can a tablet replace a textbook and actually help students learn better?'", "explanation": "A question engages the reader's curiosity and makes them want to find out the answer."}
+            ],
+            "key_vocabulary": ["hook", "anecdote", "statistic", "vivid description", "background information", "engage"],
+            "real_world": "TV show openings use hooks too. A show might start with a mystery or exciting scene to grab your attention before the opening credits."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the purpose of a hook?", "options": ["To end the essay", "To grab the reader's attention", "To list vocabulary words", "To introduce the conclusion"], "correct": 1, "hint": "A hook is like bait that draws the reader in."},
+            {"type": "multiple_choice", "question": "Which is a hook using a question?", "options": ["Dogs are mammals.", "This essay is about dogs.", "Have you ever wondered why dogs are called man's best friend?", "Dogs have four legs."], "correct": 2, "hint": "Which sentence asks something that makes you curious?"},
+            {"type": "fill_in", "question": "An ___ is a short story used as a hook.", "answer": "anecdote", "hint": "This word means a brief personal story."},
+            {"type": "true_false", "question": "The thesis statement should come right after the hook with no background information.", "answer": false, "hint": "Should you go straight from the hook to the thesis?"},
+            {"type": "multiple_choice", "question": "Which is the best hook for an essay about saving water?", "options": ["Water is important.", "This paper will discuss water.", "Imagine turning on your faucet and nothing coming out.", "Water is H2O."], "correct": 2, "hint": "Which one makes you feel something and want to keep reading?"},
+            {"type": "multiple_choice", "question": "What comes between the hook and the thesis statement?", "options": ["The conclusion", "Body paragraphs", "Background information", "A bibliography"], "correct": 2, "hint": "You need context before presenting your main argument."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-3-3",
+          "title": "Developing Strong Body Paragraphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Strong body paragraphs follow a clear pattern. Start with a topic sentence that states the main point of the paragraph and connects to the thesis. Then provide evidence to support your point, such as facts, examples, statistics, or quotes. After presenting evidence, add your own explanation of why that evidence matters and how it supports your point. This explanation is called commentary or analysis. Finally, end with a closing sentence that wraps up the paragraph and transitions to the next one. A helpful formula is: Topic sentence, Evidence, Explanation, Closing. You can include multiple pieces of evidence in one body paragraph.",
+            "examples": [
+              {"problem": "Thesis: 'Homework should be limited.' Write a topic sentence for a body paragraph.", "answer": "'First, excessive homework causes stress and takes away from family time.'", "explanation": "The topic sentence states one specific reason and connects to the thesis."},
+              {"problem": "What is commentary or analysis in a body paragraph?", "answer": "Your own explanation of why the evidence matters and how it supports your point.", "explanation": "You do not just present evidence. You explain what it means and why it is important."}
+            ],
+            "key_vocabulary": ["topic sentence", "evidence", "commentary", "analysis", "transition", "closing sentence"],
+            "real_world": "Lawyers in court follow this same pattern: they state a claim, present evidence, explain why the evidence proves their claim, and then summarize."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the first sentence of a body paragraph?", "options": ["The thesis statement", "A topic sentence", "A hook", "A closing sentence"], "correct": 1, "hint": "The topic sentence introduces the main point of the paragraph."},
+            {"type": "fill_in", "question": "After presenting evidence, you should add your own ___ explaining why it matters.", "answer": "commentary", "hint": "This is your analysis or explanation."},
+            {"type": "multiple_choice", "question": "What types of evidence can you include in a body paragraph?", "options": ["Only opinions", "Facts, examples, statistics, or quotes", "Only guesses", "Only questions"], "correct": 1, "hint": "Evidence comes in many forms."},
+            {"type": "true_false", "question": "You should just present evidence without explaining why it matters.", "answer": false, "hint": "Is the evidence enough on its own, or does it need explanation?"},
+            {"type": "multiple_choice", "question": "What is the formula for a strong body paragraph?", "options": ["Hook, thesis, conclusion", "Topic sentence, evidence, explanation, closing", "Question, answer, question", "Introduction, middle, end"], "correct": 1, "hint": "Start with a point, support it, explain it, and wrap it up."},
+            {"type": "multiple_choice", "question": "What should the closing sentence of a body paragraph do?", "options": ["Introduce a new topic", "Wrap up the point and transition to the next paragraph", "Restate the thesis", "Ask a question"], "correct": 1, "hint": "The closing sentence connects this paragraph to the next."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-3-4",
+          "title": "Writing Memorable Conclusions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A memorable conclusion does more than just restate the thesis. It leaves the reader with something to think about. Start by restating your thesis in different words (do not copy it exactly). Then briefly summarize your three main points in one or two sentences. Finally, end with a memorable closing strategy. You might use a call to action ('Join the fight against pollution by recycling today'), a thought-provoking question ('What kind of world do we want to leave for future generations?'), a prediction ('If we act now, we can save our oceans'), or connect back to your hook. Never introduce new evidence or arguments in the conclusion.",
+            "examples": [
+              {"problem": "Thesis: 'Reading is important for three reasons: it improves vocabulary, builds empathy, and strengthens imagination.' How would you restate this in the conclusion?", "answer": "'Reading is one of the most valuable habits a person can develop, enriching their language skills, emotional understanding, and creative thinking.'", "explanation": "The same ideas are expressed with different words and phrasing."},
+              {"problem": "Write a closing thought for an essay about protecting forests.", "answer": "'The future of our planet depends on the choices we make today. Every tree we save is a breath of fresh air for generations to come.'", "explanation": "This ending is powerful and gives the reader something meaningful to remember."}
+            ],
+            "key_vocabulary": ["restate", "summarize", "call to action", "prediction", "thought-provoking", "memorable"],
+            "real_world": "Great speeches always have memorable endings. Martin Luther King Jr.'s 'I Have a Dream' speech ended with a powerful call to action that people still remember today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should a conclusion NOT do?", "options": ["Restate the thesis", "Summarize the main points", "Introduce new evidence or arguments", "End with a final thought"], "correct": 2, "hint": "The conclusion wraps up, it does not add new information."},
+            {"type": "true_false", "question": "The conclusion should restate the thesis in the exact same words.", "answer": false, "hint": "Should you copy the thesis or rephrase it?"},
+            {"type": "fill_in", "question": "A ___ to action tells the reader to do something.", "answer": "call", "hint": "You are 'calling' the reader to take action."},
+            {"type": "multiple_choice", "question": "Which is a good closing strategy?", "options": ["Introducing a new topic", "Ending with 'The End'", "Asking a thought-provoking question", "Listing more evidence"], "correct": 2, "hint": "The best endings leave the reader thinking."},
+            {"type": "multiple_choice", "question": "What should come first in a conclusion?", "options": ["A call to action", "New evidence", "A restated thesis", "A hook"], "correct": 2, "hint": "Start by reminding the reader of your main point."},
+            {"type": "true_false", "question": "Connecting your conclusion back to your hook creates a satisfying sense of closure.", "answer": true, "hint": "Does tying the ending to the beginning feel complete?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-3-5",
+          "title": "Using Transitions Between Paragraphs",
+          "type": "lesson",
+          "content": {
+            "explanation": "Transitions are words and phrases that connect your paragraphs and help your essay flow smoothly. Without transitions, your essay would feel like a list of separate paragraphs. Transitions show the relationship between ideas. To add information: 'Furthermore,' 'In addition,' 'Also,' 'Moreover.' To show contrast: 'However,' 'On the other hand,' 'Although,' 'In contrast.' To show cause and effect: 'Therefore,' 'As a result,' 'Consequently.' To show time order: 'First,' 'Next,' 'Then,' 'Finally.' To conclude: 'In conclusion,' 'To summarize,' 'Overall.' Use transitions at the beginning of body paragraphs and within paragraphs to guide the reader through your ideas.",
+            "examples": [
+              {"problem": "Connect these sentences with a transition: 'Exercise improves physical health.' 'It also boosts mental well-being.'", "answer": "'Exercise improves physical health. Furthermore, it also boosts mental well-being.'", "explanation": "'Furthermore' shows that you are adding another point."},
+              {"problem": "Which transition shows contrast? 'I studied hard. ___, I did not get an A.'", "answer": "'However' or 'Nevertheless.'", "explanation": "These words show that the second idea contrasts with what you would expect."}
+            ],
+            "key_vocabulary": ["transition", "furthermore", "however", "therefore", "in addition", "in contrast", "flow"],
+            "real_world": "When giving directions, you use transitions naturally: 'First, go straight. Then, turn left. Finally, the building is on your right.' Without transitions, the directions would be confusing."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What do transitions do in an essay?", "options": ["End the essay", "Connect paragraphs and help ideas flow", "Replace the thesis statement", "Add more evidence"], "correct": 1, "hint": "Transitions are like bridges between ideas."},
+            {"type": "multiple_choice", "question": "Which transition adds information?", "options": ["However", "Furthermore", "In contrast", "But"], "correct": 1, "hint": "You are adding another point."},
+            {"type": "fill_in", "question": "To show contrast between ideas, you can use the transition word '___.'", "answer": "However", "hint": "This word signals that something different or unexpected is coming."},
+            {"type": "true_false", "question": "Transitions are only used at the beginning of an essay.", "answer": false, "hint": "Where else in an essay can transitions be useful?"},
+            {"type": "multiple_choice", "question": "Which transition shows cause and effect?", "options": ["First", "In addition", "Therefore", "For example"], "correct": 2, "hint": "This word means 'for that reason.'"},
+            {"type": "multiple_choice", "question": "Which transition is best for a conclusion?", "options": ["First of all", "For example", "In conclusion", "Next"], "correct": 2, "hint": "Which phrase signals that you are wrapping up?"},
+            {"type": "multiple_choice", "question": "What happens without transitions?", "options": ["The essay is better", "The essay feels disconnected and choppy", "The essay is shorter", "Nothing changes"], "correct": 1, "hint": "Without bridges, the paragraphs feel separate."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "How many paragraphs are in a five-paragraph essay?", "options": ["Three", "Five", "Seven", "Four"], "correct": 1},
+          {"type": "true_false", "question": "The thesis statement goes at the end of the introduction.", "answer": true},
+          {"type": "multiple_choice", "question": "What is the purpose of a hook?", "options": ["To end the essay", "To grab the reader's attention", "To list the main points", "To introduce vocabulary"], "correct": 1},
+          {"type": "multiple_choice", "question": "What should each body paragraph start with?", "options": ["A hook", "A thesis", "A topic sentence", "A conclusion"], "correct": 2},
+          {"type": "fill_in", "question": "After presenting evidence, add your own ___ to explain why it matters.", "answer": "commentary", "hint": "Your analysis or explanation of the evidence."},
+          {"type": "true_false", "question": "The conclusion should introduce new arguments.", "answer": false},
+          {"type": "multiple_choice", "question": "Which transition shows contrast?", "options": ["Furthermore", "However", "Therefore", "First"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which is NOT a good way to end an essay?", "options": ["A call to action", "A thought-provoking question", "Introducing new evidence", "A prediction"], "correct": 2},
+          {"type": "multiple_choice", "question": "What formula helps write strong body paragraphs?", "options": ["Hook, thesis, conclusion", "Topic sentence, evidence, explanation, closing", "Introduction, body, summary", "Question, answer, detail"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "essay_expert_5"
+      }
+    },
+    {
+      "id": "5-ela-4",
+      "title": "Narrative Writing",
+      "description": "Learn to write compelling narratives with vivid characters, interesting settings, engaging plots, and descriptive language that brings your stories to life.",
+      "lessons": [
+        {
+          "id": "5-ela-4-1",
+          "title": "Elements of a Good Narrative",
+          "type": "lesson",
+          "content": {
+            "explanation": "A narrative is a story, and a good narrative has several essential elements. First, it has well-developed characters the reader cares about. Second, it has a clear setting that the reader can visualize. Third, it has a plot with a beginning, middle, and end, including a conflict that creates tension. Fourth, it has a theme or message that gives the story meaning. Fifth, it uses descriptive language and dialogue to bring the story to life. A narrative can be real (a personal narrative about something that happened to you) or fictional (a made-up story). Either way, the goal is to take the reader on a journey that keeps them engaged from start to finish.",
+            "examples": [
+              {"problem": "What makes a reader care about a character?", "answer": "Giving the character realistic feelings, strengths, flaws, and motivations.", "explanation": "Readers connect with characters who feel real and relatable, not perfect."},
+              {"problem": "Name the five essential elements of a good narrative.", "answer": "Characters, setting, plot (with conflict), theme, and descriptive language/dialogue.", "explanation": "All five work together to create a complete, engaging story."}
+            ],
+            "key_vocabulary": ["narrative", "personal narrative", "fiction", "characters", "setting", "plot", "dialogue", "descriptive"],
+            "real_world": "Every time you tell a friend what happened to you over the weekend, you are telling a narrative! The best storytellers include details that make their stories come alive."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a narrative?", "options": ["A persuasive essay", "A story", "A research report", "A list of facts"], "correct": 1, "hint": "A narrative tells what happened."},
+            {"type": "fill_in", "question": "A personal ___ is a true story about something that happened to you.", "answer": "narrative", "hint": "It is your own real-life story."},
+            {"type": "multiple_choice", "question": "What makes a reader care about a character?", "options": ["Making the character perfect", "Giving the character realistic feelings and flaws", "Making the character invisible", "Not describing the character at all"], "correct": 1, "hint": "Relatable characters are the most interesting."},
+            {"type": "true_false", "question": "A good narrative needs a conflict or problem.", "answer": true, "hint": "Without conflict, what keeps the reader interested?"},
+            {"type": "multiple_choice", "question": "Which is NOT an essential element of a narrative?", "options": ["Characters", "Plot", "A bibliography", "Setting"], "correct": 2, "hint": "Which one belongs in a research report, not a story?"},
+            {"type": "multiple_choice", "question": "What is the goal of narrative writing?", "options": ["To convince the reader of something", "To take the reader on an engaging journey", "To list facts", "To explain a process"], "correct": 1, "hint": "Narratives aim to engage and entertain."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-4-2",
+          "title": "Show, Don't Tell",
+          "type": "lesson",
+          "content": {
+            "explanation": "One of the most powerful narrative writing techniques is 'Show, don't tell.' Instead of telling the reader how a character feels, show it through their actions, dialogue, and physical reactions. 'Telling' looks like: 'Sarah was scared.' 'Showing' looks like: 'Sarah's hands trembled as she peered around the corner, her heart hammering so loud she was sure everyone could hear it.' Showing creates a vivid experience that draws the reader into the story. Use sensory details (what characters see, hear, smell, taste, and feel) to paint pictures with your words. Showing takes more words, but it makes your writing come alive.",
+            "examples": [
+              {"problem": "Turn this 'telling' into 'showing': 'The boy was happy.'", "answer": "'A huge grin spread across the boy's face as he pumped his fist in the air and shouted, Yes!'", "explanation": "Instead of saying 'happy,' the actions and dialogue show happiness."},
+              {"problem": "Turn this 'telling' into 'showing': 'It was cold outside.'", "answer": "'Frost clung to the windowpane, and my breath came out in white puffs as I stepped onto the frozen sidewalk.'", "explanation": "Sensory details about frost, breath, and the frozen sidewalk show the cold without saying 'cold.'"}
+            ],
+            "key_vocabulary": ["show don't tell", "sensory details", "vivid", "actions", "dialogue", "physical reactions"],
+            "real_world": "Movies are great at 'showing.' They do not flash the word 'sad' on the screen. Instead, you see tears, slumped shoulders, and hear sad music."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'show, don't tell' mean?", "options": ["Use pictures instead of words", "Describe feelings through actions and details instead of just naming them", "Tell the reader exactly how everyone feels", "Write shorter sentences"], "correct": 1, "hint": "Instead of saying 'she was angry,' describe what anger looks like."},
+            {"type": "multiple_choice", "question": "Which sentence 'shows' instead of 'tells'?", "options": ["She was tired.", "Her eyelids drooped and she stifled a yawn as her head sank toward her desk.", "He was a nice person.", "The food was good."], "correct": 1, "hint": "Which sentence uses physical actions and details?"},
+            {"type": "fill_in", "question": "Using details that appeal to sight, sound, smell, taste, and touch are called ___ details.", "answer": "sensory", "hint": "These details come from your five senses."},
+            {"type": "true_false", "question": "'The pizza was delicious' is an example of showing.", "answer": false, "hint": "Does this show what makes the pizza delicious, or just tell you it is?"},
+            {"type": "multiple_choice", "question": "Which 'shows' that a character is nervous?", "options": ["Jake was nervous.", "Jake's palms were sweaty and he kept glancing at the clock, tapping his foot against the floor.", "Jake felt bad.", "Jake was a nervous person."], "correct": 1, "hint": "Look for physical actions that reveal nervousness."},
+            {"type": "multiple_choice", "question": "Why is 'showing' better than 'telling' in narrative writing?", "options": ["It uses fewer words", "It creates vivid experiences that draw the reader in", "It is easier to write", "It follows grammar rules"], "correct": 1, "hint": "Showing makes the reader feel like they are in the story."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-4-3",
+          "title": "Writing Dialogue That Sounds Real",
+          "type": "lesson",
+          "content": {
+            "explanation": "Dialogue is when characters speak in a story. Good dialogue sounds like real people talking and reveals character personality, advances the plot, or provides important information. Each character should have their own voice that matches their age and personality. When writing dialogue, use dialogue tags like 'said,' 'asked,' 'whispered,' and 'shouted' to show how the character is speaking. Start a new paragraph every time a different character speaks. Use proper punctuation: commas before or after dialogue tags, and put periods, question marks, and exclamation marks inside the quotation marks. Avoid having characters say things they would not naturally say just to give the reader information.",
+            "examples": [
+              {"problem": "Write dialogue showing a character is excited.", "answer": "'I can't believe it!' Maya shrieked, jumping up and down. 'We actually won!'", "explanation": "The words, the tag 'shrieked,' and the action 'jumping up and down' all show excitement."},
+              {"problem": "What is wrong with this dialogue? 'Hello Tom I am going to the store that is on Main Street to buy milk because we are out of it said Sarah'", "answer": "It is missing quotation marks, punctuation, and a comma before the dialogue tag.", "explanation": "Correct version: 'Hello, Tom. I'm going to the store to buy milk,' said Sarah."}
+            ],
+            "key_vocabulary": ["dialogue", "dialogue tag", "quotation marks", "voice", "paragraph", "punctuation"],
+            "real_world": "Listen to conversations around you. People use contractions, short sentences, and informal language. Good dialogue in stories should sound just as natural."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is dialogue in a story?", "options": ["The narrator's thoughts", "When characters speak", "The setting description", "The title"], "correct": 1, "hint": "Dialogue is conversation between characters."},
+            {"type": "true_false", "question": "You should start a new paragraph every time a different character speaks.", "answer": true, "hint": "New speaker, new paragraph."},
+            {"type": "fill_in", "question": "Words like 'said,' 'asked,' and 'whispered' are called dialogue ___.", "answer": "tags", "hint": "They 'tag' or identify who is speaking and how."},
+            {"type": "multiple_choice", "question": "Which dialogue sounds most natural?", "options": ["'I am going to the location where we purchase food items,' said Mom.", "'I'm heading to the grocery store,' said Mom.", "'I, your mother, will now go buy food for the family,' said Mom.", "'Going store now,' said Mom."], "correct": 1, "hint": "Which sounds like something a real person would say?"},
+            {"type": "multiple_choice", "question": "Where does the comma go? '___Let's go___said Jake.'", "options": ["Before 'Let's'", "After 'go' and inside the quotation marks", "After 'said'", "After 'Jake'"], "correct": 1, "hint": "The comma separates the dialogue from the tag."},
+            {"type": "multiple_choice", "question": "What should dialogue do in a story?", "options": ["Take up space", "Reveal character, advance the plot, or provide information", "Confuse the reader", "Replace all description"], "correct": 1, "hint": "Good dialogue serves a purpose."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-4-4",
+          "title": "Creating Vivid Settings",
+          "type": "lesson",
+          "content": {
+            "explanation": "The setting is where and when your story takes place. A vivid setting makes the reader feel like they are there. Describe what the characters see, hear, smell, and feel in the environment. Instead of writing 'It was a forest,' try 'Towering pines blocked the sunlight, their needles carpeting the ground in a soft, fragrant layer while birds called to each other high above.' The setting can also affect the mood of the story. A dark, stormy night creates a sense of danger or mystery. A sunny meadow creates a feeling of peace and happiness. Your setting should be relevant to the story and influence how characters feel and act.",
+            "examples": [
+              {"problem": "Make this setting more vivid: 'The beach was nice.'", "answer": "'Warm sand squished between her toes as gentle waves lapped at the shore. The salty breeze carried the distant sound of seagulls, and the sun painted the sky in shades of orange and pink.'", "explanation": "Sensory details about touch (warm sand), sound (waves, seagulls), smell (salty breeze), and sight (orange and pink sky) make the reader feel present."},
+              {"problem": "How does setting affect mood?", "answer": "A dark, foggy street creates tension and mystery. A bright, colorful garden creates happiness and peace.", "explanation": "The environment directly influences how the reader feels."}
+            ],
+            "key_vocabulary": ["setting", "vivid", "mood", "atmosphere", "sensory details", "environment"],
+            "real_world": "Think about your favorite place. Now think about WHY it is your favorite. The sights, sounds, smells, and feelings of a place are what make it memorable, just like in a story."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the setting of a story?", "options": ["Who the characters are", "Where and when the story takes place", "What happens in the story", "The lesson of the story"], "correct": 1, "hint": "Setting is about place and time."},
+            {"type": "fill_in", "question": "A ___ setting uses sensory details to make the reader feel like they are there.", "answer": "vivid", "hint": "This word means clear, detailed, and lifelike."},
+            {"type": "multiple_choice", "question": "Which setting description is the most vivid?", "options": ["The room was old.", "The old room had peeling wallpaper, a creaky wooden floor, and the faint smell of dust and forgotten memories.", "It was a room.", "The room existed."], "correct": 1, "hint": "Which uses the most sensory details?"},
+            {"type": "true_false", "question": "The setting can affect the mood of a story.", "answer": true, "hint": "Does a dark, stormy night feel different from a sunny park?"},
+            {"type": "multiple_choice", "question": "Which setting creates a mood of mystery or danger?", "options": ["A bright, colorful playground", "A dark, fog-covered alley with flickering streetlights", "A sunny beach with gentle waves", "A cozy kitchen with cookies baking"], "correct": 1, "hint": "Which setting feels most mysterious?"},
+            {"type": "multiple_choice", "question": "What senses should you include when describing a setting?", "options": ["Only sight", "Only sound", "Sight, sound, smell, touch, and sometimes taste", "None"], "correct": 2, "hint": "The more senses you include, the more vivid the setting."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-4-5",
+          "title": "Writing a Strong Narrative Ending",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong narrative ending resolves the conflict and leaves the reader feeling satisfied. There are several ways to end a story. You can resolve the conflict completely, showing how the character solved the problem and what life looks like afterward. You can reveal a lesson the character learned, connecting to the theme. You can end with a twist that surprises the reader. You can also use a circular ending, where the story ends in a similar way to how it began, creating a sense of completeness. Avoid ending with 'and then I woke up' or 'the end.' Give your reader a real conclusion that feels earned and meaningful.",
+            "examples": [
+              {"problem": "What is a circular ending?", "answer": "When the story ends in a way that mirrors the beginning, creating a sense of completeness.", "explanation": "If a story begins with a character sitting alone on a bench, it might end with the character sitting on the same bench but now surrounded by friends."},
+              {"problem": "Why is 'and then I woke up' a bad ending?", "answer": "Because it makes the whole story pointless. Nothing that happened mattered because it was just a dream.", "explanation": "Readers feel cheated when the events are dismissed as a dream."}
+            ],
+            "key_vocabulary": ["resolution", "circular ending", "twist", "satisfying", "closure", "theme"],
+            "real_world": "Think about your favorite book or movie ending. The best endings make you feel something, whether it is happiness, surprise, or thoughtfulness."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should a strong narrative ending do?", "options": ["Leave the conflict unresolved", "Resolve the conflict and satisfy the reader", "Introduce new characters", "Start a new story"], "correct": 1, "hint": "Good endings bring the story to a meaningful close."},
+            {"type": "true_false", "question": "'And then I woke up. It was all a dream.' is a strong narrative ending.", "answer": false, "hint": "Does this ending feel satisfying and earned?"},
+            {"type": "fill_in", "question": "A ___ ending is when the story ends in a similar way to how it began.", "answer": "circular", "hint": "Think of a circle that comes back to where it started."},
+            {"type": "multiple_choice", "question": "Which is a good way to end a narrative?", "options": ["The end.", "Revealing a lesson the character learned", "Stopping in the middle of the action", "Starting a new conflict"], "correct": 1, "hint": "The best endings connect to the theme."},
+            {"type": "multiple_choice", "question": "What is a twist ending?", "options": ["An ending where nothing happens", "A surprising ending the reader did not expect", "An ending that repeats the beginning", "An ending with many characters"], "correct": 1, "hint": "A twist catches the reader off guard."},
+            {"type": "true_false", "question": "A good ending should feel earned and meaningful based on the events of the story.", "answer": true, "hint": "Should the ending connect logically to the rest of the story?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a narrative?", "options": ["A persuasive essay", "A story", "A research paper", "A poem"], "correct": 1},
+          {"type": "true_false", "question": "'Show, don't tell' means using actions and details instead of just naming emotions.", "answer": true},
+          {"type": "multiple_choice", "question": "What should good dialogue do?", "options": ["Sound like a textbook", "Reveal character and advance the plot", "Use the longest words possible", "Avoid punctuation"], "correct": 1},
+          {"type": "fill_in", "question": "A ___ setting uses sensory details to make the reader feel present.", "answer": "vivid", "hint": "Clear, detailed, and lifelike."},
+          {"type": "multiple_choice", "question": "Which is NOT a good narrative ending?", "options": ["Resolving the conflict", "Revealing a lesson learned", "And then I woke up", "A surprising twist"], "correct": 2},
+          {"type": "true_false", "question": "You should start a new paragraph each time a different character speaks.", "answer": true},
+          {"type": "multiple_choice", "question": "Which 'shows' instead of 'tells'?", "options": ["She was angry.", "Her jaw clenched and she slammed her notebook shut.", "He was a good person.", "The weather was nice."], "correct": 1},
+          {"type": "multiple_choice", "question": "A circular ending ___.", "options": ["Ends in the middle of the action", "Mirrors the beginning of the story", "Introduces new characters", "Has no resolution"], "correct": 1},
+          {"type": "multiple_choice", "question": "What is the goal of narrative writing?", "options": ["To convince the reader", "To present data", "To take the reader on an engaging journey", "To list vocabulary words"], "correct": 2}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "narrative_novelist_5"
+      }
+    },
+    {
+      "id": "5-ela-5",
+      "title": "Summarizing and Paraphrasing",
+      "description": "Master the essential skills of summarizing and paraphrasing to show your understanding of texts and use information responsibly in your own writing.",
+      "lessons": [
+        {
+          "id": "5-ela-5-1",
+          "title": "What Is Summarizing?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Summarizing means condensing a longer text into a shorter version that captures the most important ideas. A good summary includes the main idea and key supporting details but leaves out minor details, examples, and the author's exact words. A summary should be significantly shorter than the original text, usually about one-quarter the length or less. When summarizing fiction, include the main character, the setting, the central conflict, and the resolution. When summarizing nonfiction, state the main topic and the most important points the author makes. Always write summaries in your own words.",
+            "examples": [
+              {"problem": "Summarize this passage: 'The Amazon Rainforest is the largest tropical rainforest in the world, covering over 5.5 million square kilometers. It is home to an estimated 10% of all species on Earth, including jaguars, pink river dolphins, and thousands of bird species. The rainforest produces about 20% of the world's oxygen and plays a vital role in regulating the global climate. However, deforestation threatens this important ecosystem.'", "answer": "The Amazon Rainforest is the world's largest tropical rainforest and is critical for biodiversity and climate regulation, but deforestation threatens its existence.", "explanation": "The summary captures the main points: size, importance for species and climate, and the threat of deforestation."},
+              {"problem": "What should you NOT include in a summary?", "answer": "Minor details, specific examples, your personal opinions, and exact quotations.", "explanation": "A summary focuses only on the big picture."}
+            ],
+            "key_vocabulary": ["summarize", "condense", "main idea", "key details", "minor details", "concise"],
+            "real_world": "Movie trailers are like summaries. They give you the main idea of the movie without revealing every detail or the ending."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is summarizing?", "options": ["Copying the text word-for-word", "Condensing a text to its most important ideas", "Adding more details to a text", "Writing your opinion about a text"], "correct": 1, "hint": "Summarizing makes something shorter while keeping the key points."},
+            {"type": "true_false", "question": "A good summary includes minor details and examples.", "answer": false, "hint": "Should a summary focus on small details or big ideas?"},
+            {"type": "fill_in", "question": "A summary should be written in your own ___.", "answer": "words", "hint": "You should not copy the exact language of the original."},
+            {"type": "multiple_choice", "question": "When summarizing fiction, what should you include?", "options": ["Every dialogue in the story", "Main character, conflict, and resolution", "The author's biography", "Every scene"], "correct": 1, "hint": "Focus on the big picture of the story."},
+            {"type": "multiple_choice", "question": "How long should a summary be compared to the original text?", "options": ["The same length", "Longer", "Much shorter, about one-quarter or less", "Exactly half"], "correct": 2, "hint": "Summaries condense the information significantly."},
+            {"type": "true_false", "question": "You should include your personal opinions in a summary.", "answer": false, "hint": "Is a summary about what the author said or what you think?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-5-2",
+          "title": "Summarizing Fiction and Nonfiction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Summarizing fiction and nonfiction requires different approaches. For fiction, use the story elements: identify the main character, describe the setting briefly, explain the central conflict, describe the key events (rising action and climax), and state the resolution. A helpful framework is: Somebody (character) Wanted (goal) But (conflict) So (action) Then (resolution). For nonfiction, identify the main topic, find the author's main idea or argument, and list the key supporting points. Leave out specific data, quotes, and minor examples. Both types of summaries should be objective (no personal opinions) and written in your own words.",
+            "examples": [
+              {"problem": "Use the Somebody-Wanted-But-So-Then framework for 'Cinderella.'", "answer": "Cinderella (Somebody) wanted to go to the ball (Wanted), but her stepmother would not let her (But), so her fairy godmother helped her (So), and then she met the prince and they lived happily ever after (Then).", "explanation": "This framework captures the whole story in one sentence."},
+              {"problem": "Summarize a nonfiction article about recycling that discusses reducing waste, saving energy, and protecting wildlife.", "answer": "The article explains that recycling is important because it reduces the amount of trash in landfills, saves energy used to make new products, and helps protect wildlife from pollution.", "explanation": "The summary states the main topic and the three key points."}
+            ],
+            "key_vocabulary": ["Somebody-Wanted-But-So-Then", "fiction summary", "nonfiction summary", "objective", "framework"],
+            "real_world": "Book reviews often start with a summary so readers can decide if they want to read the book. A good summary gives enough information without spoiling the entire story."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What framework helps summarize fiction?", "options": ["Who, What, When, Where, Why", "Somebody, Wanted, But, So, Then", "Introduction, Body, Conclusion", "First, Next, Last"], "correct": 1, "hint": "This framework follows a character through the conflict and resolution."},
+            {"type": "fill_in", "question": "In the SWBST framework, 'But' represents the ___ in the story.", "answer": "conflict", "hint": "What stands in the way of what the character wants?"},
+            {"type": "true_false", "question": "When summarizing nonfiction, you should include your personal opinions.", "answer": false, "hint": "Should a summary be objective or subjective?"},
+            {"type": "multiple_choice", "question": "When summarizing nonfiction, what should you include?", "options": ["Every specific statistic", "The main topic and key supporting points", "Your favorite part", "Every example the author uses"], "correct": 1, "hint": "Focus on the main ideas, not every detail."},
+            {"type": "multiple_choice", "question": "In the SWBST framework, what does 'So' represent?", "options": ["The setting", "The theme", "What the character does about the conflict", "The ending"], "correct": 2, "hint": "'So' is the action taken to address the problem."},
+            {"type": "true_false", "question": "Summarizing fiction and nonfiction uses exactly the same approach.", "answer": false, "hint": "Do stories and informational texts have the same structure?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-5-3",
+          "title": "What Is Paraphrasing?",
+          "type": "lesson",
+          "content": {
+            "explanation": "Paraphrasing means restating someone else's ideas in your own words while keeping the same meaning. Unlike summarizing, which makes text shorter, paraphrasing is usually about the same length as the original. Paraphrasing shows that you truly understand what you read because you can express it differently. To paraphrase well, read the original carefully, look away from it, and then rewrite the idea in your own words. Check that your version has the same meaning but uses different words and sentence structure. Paraphrasing is essential for research writing because it lets you include information from sources without plagiarizing.",
+            "examples": [
+              {"problem": "Original: 'The cheetah is the fastest land animal, capable of reaching speeds up to 70 miles per hour.' Paraphrase this.", "answer": "Cheetahs can run faster than any other animal on land, with top speeds of nearly 70 mph.", "explanation": "The meaning is the same, but the words and sentence structure are different."},
+              {"problem": "What is the difference between summarizing and paraphrasing?", "answer": "Summarizing shortens a text to its main ideas. Paraphrasing restates specific information in your own words at about the same length.", "explanation": "Summarizing focuses on the big picture, while paraphrasing focuses on specific passages."}
+            ],
+            "key_vocabulary": ["paraphrase", "restate", "own words", "meaning", "sentence structure", "plagiarism"],
+            "real_world": "When you explain a teacher's instructions to a classmate in your own words, you are paraphrasing. You keep the same meaning but use different language."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does paraphrasing mean?", "options": ["Copying text exactly", "Restating ideas in your own words with the same meaning", "Summarizing a whole book", "Deleting information"], "correct": 1, "hint": "Paraphrasing keeps the meaning but changes the words."},
+            {"type": "true_false", "question": "A paraphrase is usually much shorter than the original text.", "answer": false, "hint": "How does paraphrasing compare in length to the original?"},
+            {"type": "fill_in", "question": "Paraphrasing helps you avoid ___ in your writing.", "answer": "plagiarism", "hint": "What is it called when you copy someone's words without credit?"},
+            {"type": "multiple_choice", "question": "Which is the best paraphrase of: 'Benjamin Franklin was one of the Founding Fathers of the United States'?", "options": ["Benjamin Franklin was one of the Founding Fathers of the United States.", "Franklin helped found the United States and is considered one of its key early leaders.", "Ben Franklin was a father.", "Some guy named Ben helped with America."], "correct": 1, "hint": "The best paraphrase keeps the meaning with different words."},
+            {"type": "multiple_choice", "question": "To paraphrase well, you should ___.", "options": ["Copy the sentence and change one word", "Read it, look away, and rewrite it in your own words", "Just use a thesaurus for every word", "Skip the information entirely"], "correct": 1, "hint": "Understanding the idea first helps you express it naturally."},
+            {"type": "true_false", "question": "Paraphrasing and summarizing are the same thing.", "answer": false, "hint": "Do they have the same purpose and length?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-5-4",
+          "title": "When to Summarize, Paraphrase, or Quote",
+          "type": "lesson",
+          "content": {
+            "explanation": "Knowing when to summarize, paraphrase, or use a direct quote is an important skill. Summarize when you need to present the big picture of a long text or section. This is useful for book reports, research overviews, and explaining articles. Paraphrase when you need to include specific information from a source but want to use your own words. This is the most common technique in research writing. Use a direct quote when the exact words are important, such as when an expert says something powerful or when the specific wording matters. Always put direct quotes in quotation marks and cite the source. A good research paper uses a mix of all three techniques.",
+            "examples": [
+              {"problem": "When should you use a direct quote?", "answer": "When the exact words are powerful, memorable, or necessary for accuracy.", "explanation": "For example, quoting a scientist's exact statement about a discovery gives it authority."},
+              {"problem": "When should you paraphrase instead of quote?", "answer": "When you need the information but the exact words are not special or important.", "explanation": "Most of your research writing should be paraphrasing, with direct quotes used sparingly."}
+            ],
+            "key_vocabulary": ["summarize", "paraphrase", "direct quote", "cite", "source", "research writing"],
+            "real_world": "Journalists use all three skills. They summarize events, paraphrase people's statements, and include direct quotes for impact."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When should you summarize?", "options": ["When you need to present the big picture of a long text", "When exact words matter", "When you want to add your opinion", "When you need one specific fact"], "correct": 0, "hint": "Summarizing captures the overall idea of a longer piece."},
+            {"type": "multiple_choice", "question": "When should you use a direct quote?", "options": ["For every sentence in your paper", "When the exact words are important or powerful", "When you cannot understand the text", "Never"], "correct": 1, "hint": "Some words are too important or well-said to paraphrase."},
+            {"type": "fill_in", "question": "Direct quotes must be placed in ___ marks.", "answer": "quotation", "hint": "These marks go around the exact words."},
+            {"type": "true_false", "question": "Most of a research paper should be direct quotes.", "answer": false, "hint": "Should your paper be mostly other people's words or mostly yours?"},
+            {"type": "multiple_choice", "question": "Which technique is used MOST in research writing?", "options": ["Direct quoting", "Paraphrasing", "Summarizing", "Copying"], "correct": 1, "hint": "You usually restate information in your own words."},
+            {"type": "multiple_choice", "question": "What must you always do when using someone else's ideas?", "options": ["Nothing", "Pretend they are your own", "Cite the source", "Change the topic"], "correct": 2, "hint": "Giving credit to sources is essential."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is summarizing?", "options": ["Copying text exactly", "Condensing a text to its most important ideas", "Adding details to a text", "Restating at the same length"], "correct": 1},
+          {"type": "true_false", "question": "Paraphrasing means restating ideas in your own words.", "answer": true},
+          {"type": "multiple_choice", "question": "What framework helps summarize fiction?", "options": ["FANBOYS", "Somebody-Wanted-But-So-Then", "ABCDE", "Five paragraphs"], "correct": 1},
+          {"type": "fill_in", "question": "Direct quotes must be in ___ marks and cited.", "answer": "quotation", "hint": "These marks show the exact words."},
+          {"type": "multiple_choice", "question": "What is the main difference between summarizing and paraphrasing?", "options": ["There is no difference", "Summarizing shortens; paraphrasing restates at about the same length", "Paraphrasing shortens; summarizing restates", "Summarizing uses quotes; paraphrasing does not"], "correct": 1},
+          {"type": "true_false", "question": "You should include personal opinions in a summary.", "answer": false},
+          {"type": "multiple_choice", "question": "When should you use a direct quote?", "options": ["For every fact", "When exact words are important or powerful", "Always", "Never"], "correct": 1},
+          {"type": "multiple_choice", "question": "Most research writing should use ___.", "options": ["Direct quotes", "Paraphrasing", "Copying", "Summaries only"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "summarizing_sage_5"
+      }
+    },
+    {
+      "id": "5-ela-6",
+      "title": "Debate and Argumentation Basics",
+      "description": "Learn how to build strong arguments, evaluate evidence, consider multiple perspectives, and engage in respectful debate and discussion.",
+      "lessons": [
+        {
+          "id": "5-ela-6-1",
+          "title": "What Is an Argument?",
+          "type": "lesson",
+          "content": {
+            "explanation": "In language arts, an argument is not a fight or disagreement. An argument is a well-reasoned position on a topic, supported by evidence. When you make an argument, you state a claim (your position), provide reasons and evidence to support it, and explain why the evidence proves your point. A strong argument is logical, well-organized, and based on facts rather than just emotions. Good arguments acknowledge that other people might think differently and explain why the evidence supports one position over another. Argumentation is a skill used by lawyers, scientists, politicians, and anyone who needs to make a convincing case.",
+            "examples": [
+              {"problem": "What is a claim?", "answer": "A claim is your position or opinion on an issue, stated as a clear sentence.", "explanation": "For example: 'Schools should start later in the morning to help students get enough sleep.'"},
+              {"problem": "What is the difference between an argument and an opinion?", "answer": "An opinion is just what you think. An argument is an opinion supported by reasons and evidence.", "explanation": "'Pizza is the best food' is an opinion. 'Pizza is a good lunch option because it provides protein, carbohydrates, and can include vegetables as toppings' is an argument."}
+            ],
+            "key_vocabulary": ["argument", "claim", "evidence", "reasoning", "logical", "position"],
+            "real_world": "Scientists make arguments all the time. When they discover something new, they present their claim with data and evidence to convince other scientists."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In language arts, what is an argument?", "options": ["A fight between two people", "A well-reasoned position supported by evidence", "A list of opinions", "A type of story"], "correct": 1, "hint": "An argument in writing is logical and evidence-based."},
+            {"type": "fill_in", "question": "A ___ is your position or opinion stated as a clear sentence.", "answer": "claim", "hint": "This is what you are trying to prove."},
+            {"type": "true_false", "question": "A strong argument is based only on emotions, not evidence.", "answer": false, "hint": "What makes an argument strong: feelings or facts?"},
+            {"type": "multiple_choice", "question": "What makes an opinion different from an argument?", "options": ["Nothing, they are the same", "An argument has evidence and reasoning supporting it", "An opinion is always wrong", "An argument is always right"], "correct": 1, "hint": "An argument goes beyond just stating what you think."},
+            {"type": "multiple_choice", "question": "Which is a claim?", "options": ["I like cats.", "Cats make better pets than dogs because they require less maintenance and are more independent.", "Cats are animals.", "Some people have cats."], "correct": 1, "hint": "Which statement takes a clear position and gives reasons?"},
+            {"type": "true_false", "question": "Good arguments acknowledge that other people might think differently.", "answer": true, "hint": "Does considering other perspectives make an argument stronger or weaker?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-6-2",
+          "title": "Building an Argument with Evidence",
+          "type": "lesson",
+          "content": {
+            "explanation": "The strength of an argument depends on the quality of its evidence. There are several types of evidence you can use. Facts are statements that can be proven true. Statistics are numerical data that support your point. Expert opinions come from people who are authorities on the topic. Examples are specific instances that illustrate your point. Anecdotes are brief stories that make your argument relatable. Not all evidence is equally strong. Facts and statistics are usually the strongest because they are verifiable. When presenting evidence, always explain how it connects to your claim. Evidence without explanation is like a puzzle piece without showing where it fits.",
+            "examples": [
+              {"problem": "Claim: 'Students should have more physical education time.' What evidence would support this?", "answer": "Statistics showing that active students perform better academically. Expert opinions from doctors about the health benefits of exercise. Examples of schools that increased PE time and saw positive results.", "explanation": "Multiple types of evidence from different angles make the argument stronger."},
+              {"problem": "Which is stronger evidence: 'My friend thinks homework is bad' or 'A study by Harvard University found that excessive homework can increase student stress levels'?", "answer": "The Harvard study is stronger evidence.", "explanation": "Expert research is more credible than one friend's opinion."}
+            ],
+            "key_vocabulary": ["evidence", "facts", "statistics", "expert opinion", "examples", "credible", "verifiable"],
+            "real_world": "In a courtroom, lawyers must present evidence to prove their case. A lawyer who says 'I think the person is guilty' is not as convincing as one who presents DNA evidence, witnesses, and security camera footage."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which type of evidence is usually the strongest?", "options": ["What your friend thinks", "Your personal feelings", "Verified facts and statistics", "Something you made up"], "correct": 2, "hint": "The most convincing evidence can be proven."},
+            {"type": "fill_in", "question": "Evidence from people who are authorities on a topic is called ___ opinions.", "answer": "expert", "hint": "These people have studied the topic extensively."},
+            {"type": "multiple_choice", "question": "Why should you explain how evidence connects to your claim?", "options": ["To make your paper longer", "Because evidence without explanation does not prove anything", "It is not necessary", "To confuse the reader"], "correct": 1, "hint": "The reader needs to see the connection."},
+            {"type": "true_false", "question": "All evidence is equally strong and convincing.", "answer": false, "hint": "Is a friend's opinion as strong as a research study?"},
+            {"type": "multiple_choice", "question": "Which is the BEST evidence for the claim 'Breakfast improves school performance'?", "options": ["My mom says breakfast is important.", "I feel better when I eat breakfast.", "A study shows that students who eat breakfast score 17% higher on tests.", "Breakfast tastes good."], "correct": 2, "hint": "Which is the most specific and verifiable?"},
+            {"type": "multiple_choice", "question": "What are anecdotes?", "options": ["Numerical data", "Brief stories that illustrate a point", "Expert opinions", "Dictionary definitions"], "correct": 1, "hint": "An anecdote is a short story used as evidence."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-6-3",
+          "title": "Counterarguments and Rebuttals",
+          "type": "lesson",
+          "content": {
+            "explanation": "A strong argument addresses what the other side thinks. A counterargument is a point someone who disagrees with you would make. A rebuttal is your response that shows why your position is still stronger. To address a counterargument, first state it fairly without making it sound silly: 'Some people argue that...' or 'Critics may point out that...' Then respond with your rebuttal, explaining why the counterargument is weak or why your evidence is stronger: 'However, research shows...' or 'While this is a valid concern, the benefits outweigh...' Addressing counterarguments shows that you have thought deeply about the topic and makes your argument more credible.",
+            "examples": [
+              {"problem": "Your claim: 'Cell phones should be allowed in school.' What is a counterargument?", "answer": "'Cell phones are distracting and prevent students from paying attention in class.'", "explanation": "This is a common and reasonable argument against cell phones in school."},
+              {"problem": "How would you rebut that counterargument?", "answer": "'While phones can be distracting, schools can create clear usage policies that allow phones for educational purposes while banning them during instruction time. Studies show that using educational apps on phones can actually improve engagement.'", "explanation": "The rebuttal acknowledges the concern but offers a solution and evidence."}
+            ],
+            "key_vocabulary": ["counterargument", "rebuttal", "opposing view", "credible", "acknowledge", "respond"],
+            "real_world": "In a debate competition, teams must anticipate what the other side will say and prepare responses. The team that addresses counterarguments most effectively usually wins."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a counterargument?", "options": ["Your main claim", "A point the opposing side would make", "A type of evidence", "A closing statement"], "correct": 1, "hint": "It is the argument that goes against yours."},
+            {"type": "fill_in", "question": "A ___ is your response that shows why your position is still stronger.", "answer": "rebuttal", "hint": "You rebut or argue back against the counterargument."},
+            {"type": "true_false", "question": "When stating a counterargument, you should make it sound silly or weak.", "answer": false, "hint": "Should you treat the other side fairly?"},
+            {"type": "multiple_choice", "question": "Which phrase is good for introducing a counterargument?", "options": ["Obviously everyone agrees that...", "Some people argue that...", "My opinion is...", "In conclusion..."], "correct": 1, "hint": "You are presenting what the other side thinks."},
+            {"type": "multiple_choice", "question": "Why does addressing counterarguments make your argument stronger?", "options": ["It makes your paper longer", "It shows you have thought deeply about the topic", "It proves the other side is stupid", "It is not helpful"], "correct": 1, "hint": "Showing you understand all sides makes you more credible."},
+            {"type": "multiple_choice", "question": "Which phrase is good for starting a rebuttal?", "options": ["I do not care what they think.", "However, evidence shows that...", "Whatever.", "They are wrong because I said so."], "correct": 1, "hint": "A good rebuttal is respectful and evidence-based."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-6-4",
+          "title": "Respectful Debate and Discussion",
+          "type": "lesson",
+          "content": {
+            "explanation": "Debating and discussing ideas is an important skill, but it must be done respectfully. In a debate, you present your argument and listen to the other side. Respectful debate means attacking the argument, not the person. This means you should never insult someone who disagrees with you. Instead, focus on the strengths and weaknesses of the ideas. Use polite phrases like 'I respectfully disagree because...' and 'That is a good point, however...' Active listening is also essential. Listen carefully to what the other person says before responding. Ask clarifying questions if you do not understand their point. Sometimes, you might even change your own mind when you hear strong evidence.",
+            "examples": [
+              {"problem": "What is the difference between attacking an argument and attacking a person?", "answer": "Attacking an argument: 'The evidence does not support that claim because...' Attacking a person: 'You are wrong because you are not smart.'", "explanation": "Debates should focus on ideas and evidence, not personal insults."},
+              {"problem": "How should you respond when someone makes a good point against your argument?", "answer": "'That is a valid point. However, I think the evidence still supports my position because...' or even 'That is a strong argument. I had not considered that.'", "explanation": "Acknowledging good points shows maturity and intellectual honesty."}
+            ],
+            "key_vocabulary": ["debate", "respectful", "active listening", "disagree", "polite", "intellectual honesty"],
+            "real_world": "In student council, club meetings, and even family discussions, people debate ideas all the time. The people who are respectful and well-prepared are the most convincing."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'attack the argument, not the person' mean?", "options": ["Physically confront someone", "Focus on the weaknesses of the idea, not insults about the person", "Always agree with everyone", "Never debate"], "correct": 1, "hint": "Debates should be about ideas, not personal attacks."},
+            {"type": "fill_in", "question": "In a respectful debate, you should practice active ___ before responding.", "answer": "listening", "hint": "You need to hear what the other person says."},
+            {"type": "true_false", "question": "It is okay to change your mind during a debate if you hear strong evidence.", "answer": true, "hint": "Is changing your mind based on evidence a sign of strength or weakness?"},
+            {"type": "multiple_choice", "question": "Which is a respectful way to disagree?", "options": ["You are totally wrong!", "That makes no sense.", "I respectfully disagree because the evidence shows...", "Whatever, I do not care."], "correct": 2, "hint": "Which response is polite and focuses on evidence?"},
+            {"type": "multiple_choice", "question": "Why is active listening important in a debate?", "options": ["So you can interrupt the other person", "So you understand the other person's point before responding", "So you can ignore them", "It is not important"], "correct": 1, "hint": "You cannot respond effectively if you do not listen."},
+            {"type": "multiple_choice", "question": "What should you do when someone makes a point you had not considered?", "options": ["Ignore it", "Pretend you already knew about it", "Acknowledge it honestly and respond thoughtfully", "Get angry"], "correct": 2, "hint": "Intellectual honesty strengthens your credibility."},
+            {"type": "true_false", "question": "Insulting someone in a debate makes your argument stronger.", "answer": false, "hint": "Do personal attacks help or hurt your credibility?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ela-6-5",
+          "title": "Evaluating Arguments and Detecting Logical Fallacies",
+          "type": "lesson",
+          "content": {
+            "explanation": "Not all arguments are good arguments. Learning to evaluate arguments means checking if the evidence actually supports the claim and if the reasoning makes sense. A logical fallacy is a mistake in reasoning that makes an argument weak. Some common fallacies include: Ad hominem (attacking the person instead of the argument), Bandwagon ('Everyone is doing it, so it must be right'), Straw man (misrepresenting someone's argument to make it easier to attack), and Hasty generalization (making a broad conclusion from very little evidence). Being able to spot fallacies helps you think critically about what you read and hear, and helps you avoid making the same mistakes in your own arguments.",
+            "examples": [
+              {"problem": "Identify the fallacy: 'You should buy this phone because all the popular kids have one.'", "answer": "Bandwagon fallacy.", "explanation": "Just because something is popular does not mean it is the best choice. Popularity is not evidence of quality."},
+              {"problem": "Identify the fallacy: 'My neighbor's cat is mean, so all cats must be mean.'", "answer": "Hasty generalization.", "explanation": "You cannot make a conclusion about ALL cats based on just one cat. The evidence is too limited."},
+              {"problem": "Identify the fallacy: 'You cannot trust his argument about healthy eating because he is overweight.'", "answer": "Ad hominem.", "explanation": "This attacks the person rather than addressing the evidence and reasoning in their argument."}
+            ],
+            "key_vocabulary": ["logical fallacy", "ad hominem", "bandwagon", "straw man", "hasty generalization", "critical thinking"],
+            "real_world": "Advertisements frequently use logical fallacies. 'Everyone is switching to our product!' (bandwagon) and celebrity endorsements (authority fallacy) are everywhere. Recognizing them makes you a smarter consumer."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a logical fallacy?", "options": ["A strong argument", "A type of evidence", "A mistake in reasoning that weakens an argument", "A type of essay"], "correct": 2, "hint": "Fallacies are errors that make arguments weak."},
+            {"type": "multiple_choice", "question": "Which fallacy attacks the person instead of the argument?", "options": ["Bandwagon", "Ad hominem", "Hasty generalization", "Straw man"], "correct": 1, "hint": "'Ad hominem' means 'to the person' in Latin."},
+            {"type": "fill_in", "question": "The ___ fallacy says 'Everyone is doing it, so you should too.'", "answer": "bandwagon", "hint": "This word refers to jumping on a popular trend."},
+            {"type": "true_false", "question": "'I ate at that restaurant once and it was bad, so it must always be bad' is a hasty generalization.", "answer": true, "hint": "Is one experience enough to make a broad conclusion?"},
+            {"type": "multiple_choice", "question": "Which is a straw man fallacy?", "options": ["Using facts to support your argument", "Misrepresenting someone's argument to make it easier to attack", "Admitting the other side has a point", "Using statistics as evidence"], "correct": 1, "hint": "A straw man is a weak version of the real argument."},
+            {"type": "multiple_choice", "question": "Why is it important to spot logical fallacies?", "options": ["To win every argument", "To think critically about what you read and hear", "To confuse other people", "It is not important"], "correct": 1, "hint": "Critical thinking protects you from weak arguments."},
+            {"type": "true_false", "question": "An argument with a logical fallacy is still a strong argument.", "answer": false, "hint": "Do fallacies strengthen or weaken arguments?"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a claim?", "options": ["A type of evidence", "Your position on an issue", "A summary", "A counterargument"], "correct": 1},
+          {"type": "true_false", "question": "A strong argument is supported by evidence and reasoning.", "answer": true},
+          {"type": "multiple_choice", "question": "What is a counterargument?", "options": ["Your main point", "A point the other side would make", "A type of fallacy", "A closing statement"], "correct": 1},
+          {"type": "fill_in", "question": "A ___ is your response to the opposing side's argument.", "answer": "rebuttal", "hint": "You argue back with evidence."},
+          {"type": "multiple_choice", "question": "Which fallacy involves attacking the person instead of the argument?", "options": ["Bandwagon", "Hasty generalization", "Ad hominem", "Straw man"], "correct": 2},
+          {"type": "true_false", "question": "In respectful debate, you should focus on ideas, not personal attacks.", "answer": true},
+          {"type": "multiple_choice", "question": "Which is the strongest type of evidence?", "options": ["A friend's opinion", "Verified facts and statistics", "What you feel is true", "A guess"], "correct": 1},
+          {"type": "multiple_choice", "question": "'Everyone is buying it, so you should too' is what type of fallacy?", "options": ["Ad hominem", "Straw man", "Bandwagon", "Hasty generalization"], "correct": 2},
+          {"type": "true_false", "question": "It is okay to change your mind during a debate when you hear strong evidence.", "answer": true},
+          {"type": "multiple_choice", "question": "What does 'active listening' mean?", "options": ["Interrupting the other person", "Listening carefully before responding", "Ignoring what others say", "Talking louder"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "debate_champion_5"
+      }
+    }
+  ]
+}

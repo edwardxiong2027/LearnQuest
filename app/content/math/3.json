@@ -1,0 +1,747 @@
+{
+  "grade": 3,
+  "subject": "math",
+  "units": [
+    {
+      "id": "3-math-1",
+      "title": "Multiplication within 100",
+      "description": "Master multiplication concepts, times tables from 2 through 10, and properties of multiplication.",
+      "lessons": [
+        {
+          "id": "3-math-1-1",
+          "title": "Understanding Multiplication",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiplication is a fast way to add equal groups. When you write 4 x 5, it means 4 groups of 5, which is 5 + 5 + 5 + 5 = 20. The numbers you multiply are called factors, and the answer is called the product. You can also think of multiplication as an array: 4 rows of 5 objects gives 20 objects total. Multiplication saves time compared to adding the same number over and over!",
+            "examples": [
+              {"problem": "3 x 6", "answer": "18", "explanation": "3 groups of 6: 6 + 6 + 6 = 18. The factors are 3 and 6, and the product is 18."},
+              {"problem": "5 x 4", "answer": "20", "explanation": "5 groups of 4: 4 + 4 + 4 + 4 + 4 = 20. Think of 5 rows of 4 objects in an array!"},
+              {"problem": "2 x 9", "answer": "18", "explanation": "2 groups of 9: 9 + 9 = 18. Doubles are an easy way to learn the 2s times table!"}
+            ],
+            "key_vocabulary": ["multiply", "times", "factor", "product", "equal groups", "array"],
+            "real_world": "If 6 friends each bring 3 cookies to a party, you need to find 6 x 3 = 18 cookies total!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "4 x 3 = ___", "answer": "12", "hint": "4 groups of 3: 3+3+3+3 = 12."},
+            {"type": "fill_in", "question": "7 x 2 = ___", "answer": "14", "hint": "7 groups of 2: count by 2s seven times."},
+            {"type": "multiple_choice", "question": "What is the product of 5 and 6?", "options": ["11", "25", "30", "35"], "correct": 2, "hint": "Product means the answer when you multiply: 5 x 6."},
+            {"type": "word_problem", "question": "There are 3 shelves with 8 books on each shelf. How many books in all?", "answer": "24", "operation": "3 * 8", "hint": "3 groups of 8."},
+            {"type": "fill_in", "question": "6 x 5 = ___", "answer": "30", "hint": "Count by 5s six times: 5, 10, 15, 20, 25, 30."},
+            {"type": "multiple_choice", "question": "In the expression 4 x 7 = 28, the factors are:", "options": ["4 and 28", "7 and 28", "4 and 7", "28"], "correct": 2, "hint": "Factors are the numbers being multiplied."},
+            {"type": "fill_in", "question": "8 x 3 = ___", "answer": "24", "hint": "8 groups of 3, or 3 groups of 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-1-2",
+          "title": "Times Tables: 2s, 3s, 4s, and 5s",
+          "type": "lesson",
+          "content": {
+            "explanation": "Learning your times tables is one of the most important skills in math! The 2s table is like doubles (2,4,6,8,10...). The 5s table ends in 0 or 5 (5,10,15,20,25...). The 3s table goes 3,6,9,12,15,18,21,24,27,30. The 4s table is double the 2s table! If 2x6=12, then 4x6=24 (double 12). Practice these until they're automatic!",
+            "examples": [
+              {"problem": "2 x 8", "answer": "16", "explanation": "The 2s: double 8 is 16!"},
+              {"problem": "5 x 7", "answer": "35", "explanation": "The 5s: count by 5 seven times: 5,10,15,20,25,30,35!"},
+              {"problem": "3 x 9", "answer": "27", "explanation": "The 3s: 3,6,9,12,15,18,21,24,27. The ninth number is 27!"},
+              {"problem": "4 x 6", "answer": "24", "explanation": "The 4s: double the 2s fact. 2x6=12, so 4x6=24!"}
+            ],
+            "key_vocabulary": ["times table", "multiply", "skip count", "doubles", "product"],
+            "real_world": "Knowing your times tables helps you figure out things fast, like how many legs 7 dogs have (7 x 4 = 28 legs)!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "2 x 7 = ___", "answer": "14", "hint": "Double 7."},
+            {"type": "fill_in", "question": "5 x 9 = ___", "answer": "45", "hint": "Count by 5s nine times."},
+            {"type": "fill_in", "question": "3 x 7 = ___", "answer": "21", "hint": "3,6,9,12,15,18,21."},
+            {"type": "multiple_choice", "question": "4 x 8 = ?", "options": ["24", "28", "32", "36"], "correct": 2, "hint": "Double 2x8=16. So 4x8=32."},
+            {"type": "fill_in", "question": "5 x 5 = ___", "answer": "25", "hint": "5,10,15,20,25."},
+            {"type": "fill_in", "question": "3 x 8 = ___", "answer": "24", "hint": "3,6,9,12,15,18,21,24."},
+            {"type": "word_problem", "question": "A car has 4 wheels. How many wheels do 9 cars have?", "answer": "36", "operation": "9 * 4", "hint": "9 x 4 = ?"},
+            {"type": "multiple_choice", "question": "2 x 9 = ?", "options": ["16", "17", "18", "19"], "correct": 2, "hint": "Double 9."},
+            {"type": "fill_in", "question": "4 x 7 = ___", "answer": "28", "hint": "Double 2x7=14. So 4x7=28."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-1-3",
+          "title": "Times Tables: 6s, 7s, 8s, 9s, and 10s",
+          "type": "lesson",
+          "content": {
+            "explanation": "The higher times tables build on what you already know! The 10s are easy: just add a zero (3x10=30). For 9s, there's a trick: the digits of the answer always add up to 9 (9x3=27, and 2+7=9). The 6s, 7s, and 8s are mostly facts you already know from the lower tables. If you know 3x8=24, then you also know 8x3=24! Most students find these harder, but with practice they become automatic.",
+            "examples": [
+              {"problem": "6 x 7", "answer": "42", "explanation": "6 x 7 = 42. A fun way to remember: 5, 6, 7, 8 -> 56 = 7 x 8!"},
+              {"problem": "9 x 4", "answer": "36", "explanation": "9 x 4 = 36. Check: 3+6=9. The 9s trick works!"},
+              {"problem": "10 x 8", "answer": "80", "explanation": "10 x 8 = 80. Just add a zero to 8!"},
+              {"problem": "8 x 7", "answer": "56", "explanation": "8 x 7 = 56. This is one of the hardest facts to remember!"}
+            ],
+            "key_vocabulary": ["times table", "pattern", "commutative", "product", "memorize"],
+            "real_world": "If tickets cost $8 each and you need 7 tickets, that's 8 x 7 = $56 total!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "6 x 4 = ___", "answer": "24", "hint": "6 groups of 4, or 4 groups of 6."},
+            {"type": "fill_in", "question": "7 x 8 = ___", "answer": "56", "hint": "Remember: 56 = 7 x 8!"},
+            {"type": "fill_in", "question": "9 x 6 = ___", "answer": "54", "hint": "9s trick: tens digit is one less than the other factor (5), ones digit makes 9 (5+4=9)."},
+            {"type": "multiple_choice", "question": "10 x 7 = ?", "options": ["17", "70", "107", "710"], "correct": 1, "hint": "Multiply by 10: add a zero."},
+            {"type": "fill_in", "question": "8 x 8 = ___", "answer": "64", "hint": "8 squared! 8 x 8 = 64."},
+            {"type": "fill_in", "question": "9 x 9 = ___", "answer": "81", "hint": "9 x 9 = 81. Check: 8+1=9."},
+            {"type": "word_problem", "question": "There are 6 rows of desks with 6 desks in each row. How many desks?", "answer": "36", "operation": "6 * 6", "hint": "6 x 6 = ?"},
+            {"type": "multiple_choice", "question": "7 x 9 = ?", "options": ["56", "63", "72", "81"], "correct": 1, "hint": "9s trick: 6+3=9. Or think 7x10=70, minus 7 = 63."},
+            {"type": "fill_in", "question": "10 x 10 = ___", "answer": "100", "hint": "10 x 10 = 100!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-1-4",
+          "title": "Properties of Multiplication",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiplication has special properties that make it easier! The Commutative Property says you can multiply in any order: 3 x 7 = 7 x 3. The Identity Property says any number times 1 equals itself: 8 x 1 = 8. The Zero Property says any number times 0 equals 0: 5 x 0 = 0. The Distributive Property lets you break apart problems: 6 x 7 = 6 x 5 + 6 x 2 = 30 + 12 = 42.",
+            "examples": [
+              {"problem": "Commutative: If 4 x 9 = 36, what is 9 x 4?", "answer": "36", "explanation": "The Commutative Property says order doesn't matter. 4 x 9 = 9 x 4 = 36!"},
+              {"problem": "Zero Property: 12 x 0 = ?", "answer": "0", "explanation": "Any number times zero is zero. 12 x 0 = 0!"},
+              {"problem": "Identity Property: 7 x 1 = ?", "answer": "7", "explanation": "Any number times 1 is itself. 7 x 1 = 7!"}
+            ],
+            "key_vocabulary": ["commutative property", "identity property", "zero property", "distributive property", "order"],
+            "real_world": "If you know 6 x 8 = 48, the commutative property means you automatically know 8 x 6 = 48 too! That's two facts for the price of one!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "If 7 x 5 = 35, then 5 x 7 = ___", "answer": "35", "hint": "Commutative property: order doesn't matter."},
+            {"type": "fill_in", "question": "100 x 0 = ___", "answer": "0", "hint": "Zero property: anything times 0 is 0."},
+            {"type": "fill_in", "question": "9 x 1 = ___", "answer": "9", "hint": "Identity property: anything times 1 is itself."},
+            {"type": "multiple_choice", "question": "Which property says 3 x 8 = 8 x 3?", "options": ["Zero Property", "Identity Property", "Commutative Property", "None"], "correct": 2, "hint": "This property is about order."},
+            {"type": "fill_in", "question": "1 x 47 = ___", "answer": "47", "hint": "Identity property: 1 times any number is that number."},
+            {"type": "multiple_choice", "question": "0 x 999 = ?", "options": ["0", "999", "9990", "1"], "correct": 0, "hint": "Zero property!"},
+            {"type": "fill_in", "question": "If 6 x 3 = 18, then 3 x 6 = ___", "answer": "18", "hint": "Commutative property."},
+            {"type": "word_problem", "question": "Sam says 4 x 5 is not the same as 5 x 4. Is Sam correct?", "answer": "No, they are both 20", "operation": "4 * 5", "hint": "The commutative property says multiplication can be done in any order."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-1-5",
+          "title": "Solving Multiplication Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiplication word problems use phrases like 'each,' 'every,' 'per,' 'groups of,' and 'times as many.' Look for equal groups in the problem. Figure out how many groups and how many in each group, then multiply. Drawing a picture or array can help you see the problem clearly before solving it.",
+            "examples": [
+              {"problem": "Each box contains 8 pencils. There are 5 boxes. How many pencils?", "answer": "40", "explanation": "5 groups of 8: 5 x 8 = 40 pencils!"},
+              {"problem": "A spider has 8 legs. How many legs do 6 spiders have?", "answer": "48", "explanation": "6 groups of 8 legs: 6 x 8 = 48 legs!"},
+              {"problem": "Each row of the garden has 9 plants. There are 7 rows. How many plants?", "answer": "63", "explanation": "7 rows of 9: 7 x 9 = 63 plants!"}
+            ],
+            "key_vocabulary": ["each", "every", "per", "groups of", "times as many", "total"],
+            "real_world": "At a restaurant, if each table seats 4 people and there are 10 tables, the restaurant seats 4 x 10 = 40 people!"
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A class has 5 groups of 6 students. How many students in all?", "answer": "30", "operation": "5 * 6", "hint": "5 groups of 6."},
+            {"type": "word_problem", "question": "Each student brings 3 books. There are 9 students. How many books total?", "answer": "27", "operation": "9 * 3", "hint": "9 groups of 3."},
+            {"type": "word_problem", "question": "A parking lot has 4 rows of cars. Each row has 10 cars. How many cars?", "answer": "40", "operation": "4 * 10", "hint": "4 rows x 10 cars = ?"},
+            {"type": "word_problem", "question": "Muffins come in packages of 6. You buy 7 packages. How many muffins?", "answer": "42", "operation": "7 * 6", "hint": "7 packages of 6."},
+            {"type": "word_problem", "question": "A checkerboard has 8 rows with 8 squares each. How many squares total?", "answer": "64", "operation": "8 * 8", "hint": "8 x 8 = ?"},
+            {"type": "word_problem", "question": "Each tricycle has 3 wheels. There are 9 tricycles. How many wheels?", "answer": "27", "operation": "9 * 3", "hint": "9 groups of 3 wheels."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "7 x 6 = ___", "answer": "42", "hint": "7 groups of 6."},
+          {"type": "fill_in", "question": "9 x 8 = ___", "answer": "72", "hint": "9s trick: 7+2=9."},
+          {"type": "multiple_choice", "question": "If 5 x 9 = 45, then 9 x 5 = ?", "options": ["45", "54", "14", "95"], "correct": 0, "hint": "Commutative property."},
+          {"type": "fill_in", "question": "6 x 0 = ___", "answer": "0", "hint": "Zero property."},
+          {"type": "word_problem", "question": "Each pack has 8 markers. You buy 7 packs. How many markers?", "answer": "56", "operation": "7 * 8", "hint": "7 x 8 = ?"},
+          {"type": "fill_in", "question": "10 x 6 = ___", "answer": "60", "hint": "Add a zero to 6."},
+          {"type": "multiple_choice", "question": "4 x 9 = ?", "options": ["32", "36", "38", "40"], "correct": 1, "hint": "4 groups of 9."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "multiplication_master"
+      }
+    },
+    {
+      "id": "3-math-2",
+      "title": "Division within 100",
+      "description": "Understand division as sharing and grouping, connect it to multiplication, and handle remainders.",
+      "lessons": [
+        {
+          "id": "3-math-2-1",
+          "title": "Understanding Division",
+          "type": "lesson",
+          "content": {
+            "explanation": "Division means splitting a number into equal groups. If you have 12 cookies and want to share them equally among 3 friends, each friend gets 12 / 3 = 4 cookies. The number being divided (12) is the dividend. The number you divide by (3) is the divisor. The answer (4) is the quotient. Division is the opposite of multiplication!",
+            "examples": [
+              {"problem": "15 / 3", "answer": "5", "explanation": "15 divided into 3 equal groups gives 5 in each group. Check: 3 x 5 = 15!"},
+              {"problem": "24 / 6", "answer": "4", "explanation": "24 split into 6 groups gives 4 in each group. Check: 6 x 4 = 24!"},
+              {"problem": "18 / 2", "answer": "9", "explanation": "18 shared between 2 gives 9 each. Check: 2 x 9 = 18!"}
+            ],
+            "key_vocabulary": ["divide", "division", "dividend", "divisor", "quotient", "equal groups", "share"],
+            "real_world": "If you have 20 stickers and 4 friends, you divide: 20 / 4 = 5 stickers each!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "12 / 4 = ___", "answer": "3", "hint": "12 split into 4 groups = 3 in each."},
+            {"type": "fill_in", "question": "20 / 5 = ___", "answer": "4", "hint": "20 split into 5 equal groups."},
+            {"type": "multiple_choice", "question": "30 / 6 = ?", "options": ["4", "5", "6", "7"], "correct": 1, "hint": "6 x ? = 30."},
+            {"type": "fill_in", "question": "16 / 2 = ___", "answer": "8", "hint": "Half of 16 is 8."},
+            {"type": "word_problem", "question": "24 apples are shared equally among 8 children. How many apples does each child get?", "answer": "3", "operation": "24 / 8", "hint": "24 / 8 = ?"},
+            {"type": "fill_in", "question": "45 / 9 = ___", "answer": "5", "hint": "9 x ? = 45."},
+            {"type": "multiple_choice", "question": "35 / 7 = ?", "options": ["4", "5", "6", "7"], "correct": 1, "hint": "7 x ? = 35."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-2-2",
+          "title": "Division as Equal Sharing",
+          "type": "lesson",
+          "content": {
+            "explanation": "One way to think about division is equal sharing. Imagine dealing out cards - you give one to each person, going around and around until they're all gone. If you have 18 cards and 3 players, each gets 6 cards. You can also think: how many are in each group if I make exactly 3 groups from 18? The answer is 6.",
+            "examples": [
+              {"problem": "Share 15 pencils equally among 5 cups. How many in each cup?", "answer": "3", "explanation": "15 / 5 = 3. Each cup gets 3 pencils!"},
+              {"problem": "28 students sit at 4 tables equally. How many at each table?", "answer": "7", "explanation": "28 / 4 = 7 students at each table!"},
+              {"problem": "Divide 40 cards equally among 8 players. How many cards each?", "answer": "5", "explanation": "40 / 8 = 5 cards per player!"}
+            ],
+            "key_vocabulary": ["share equally", "divide", "each", "per", "distribute"],
+            "real_world": "When you split a pizza into 8 slices for 4 people, each person gets 8 / 4 = 2 slices!"
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "You have 21 grapes to share equally among 3 bowls. How many grapes in each bowl?", "answer": "7", "operation": "21 / 3", "hint": "21 / 3 = ?"},
+            {"type": "word_problem", "question": "36 students split into 6 equal teams. How many on each team?", "answer": "6", "operation": "36 / 6", "hint": "36 / 6 = ?"},
+            {"type": "fill_in", "question": "42 / 7 = ___", "answer": "6", "hint": "7 x ? = 42."},
+            {"type": "word_problem", "question": "A baker puts 48 cookies into 8 equal boxes. How many cookies per box?", "answer": "6", "operation": "48 / 8", "hint": "48 / 8 = ?"},
+            {"type": "fill_in", "question": "27 / 3 = ___", "answer": "9", "hint": "3 x ? = 27."},
+            {"type": "word_problem", "question": "You have 32 crayons and 4 kids. If shared equally, how many crayons does each kid get?", "answer": "8", "operation": "32 / 4", "hint": "32 / 4 = ?"},
+            {"type": "fill_in", "question": "56 / 8 = ___", "answer": "7", "hint": "8 x ? = 56."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-2-3",
+          "title": "Relating Multiplication and Division",
+          "type": "lesson",
+          "content": {
+            "explanation": "Multiplication and division are opposite operations, just like addition and subtraction! If 6 x 4 = 24, then 24 / 4 = 6 and 24 / 6 = 4. They form a fact family! Knowing your multiplication facts makes division much easier. When you see 63 / 9, just ask: 9 times what equals 63? 9 x 7 = 63, so 63 / 9 = 7!",
+            "examples": [
+              {"problem": "If 8 x 5 = 40, what is 40 / 8?", "answer": "5", "explanation": "Since 8 x 5 = 40, dividing 40 by 8 gives us 5!"},
+              {"problem": "If 7 x 9 = 63, what is 63 / 7?", "answer": "9", "explanation": "Since 7 x 9 = 63, dividing 63 by 7 gives us 9!"},
+              {"problem": "Write the fact family for 3, 8, and 24", "answer": "3x8=24, 8x3=24, 24/3=8, 24/8=3", "explanation": "These four facts all use the numbers 3, 8, and 24!"}
+            ],
+            "key_vocabulary": ["inverse operations", "fact family", "related facts", "opposite"],
+            "real_world": "If you know 5 x 6 = 30, you can quickly figure out how to split 30 things into 5 groups: 30 / 5 = 6!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "If 9 x 4 = 36, then 36 / 9 = ___", "answer": "4", "hint": "Use the related multiplication fact."},
+            {"type": "fill_in", "question": "If 6 x 7 = 42, then 42 / 6 = ___", "answer": "7", "hint": "The fact family connects them."},
+            {"type": "multiple_choice", "question": "72 / 8 = ? (think: 8 x ? = 72)", "options": ["7", "8", "9", "10"], "correct": 2, "hint": "8 x 9 = 72."},
+            {"type": "fill_in", "question": "If 5 x 5 = 25, then 25 / 5 = ___", "answer": "5", "hint": "Both factors are the same."},
+            {"type": "fill_in", "question": "54 / 6 = ___ (think: 6 x ? = 54)", "answer": "9", "hint": "6 x 9 = 54."},
+            {"type": "fill_in", "question": "If 10 x 8 = 80, then 80 / 10 = ___", "answer": "8", "hint": "Dividing by 10 removes the zero."},
+            {"type": "multiple_choice", "question": "Fact family: 4, 9, 36. Which is NOT in this family?", "options": ["4 x 9 = 36", "36 / 4 = 9", "36 / 9 = 4", "9 + 4 = 13"], "correct": 3, "hint": "Fact families use multiplication and division, not addition."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-2-4",
+          "title": "Division with Remainders",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes numbers don't divide evenly! If you share 14 cookies among 3 friends, each gets 4 cookies (3 x 4 = 12), but there are 2 left over. Those 2 are the remainder. We write 14 / 3 = 4 R2 (4 remainder 2). The remainder must always be less than the divisor. To check: (quotient x divisor) + remainder = dividend. So (4 x 3) + 2 = 14!",
+            "examples": [
+              {"problem": "13 / 4", "answer": "3 R1", "explanation": "4 x 3 = 12, with 1 left over. 13 / 4 = 3 remainder 1!"},
+              {"problem": "17 / 5", "answer": "3 R2", "explanation": "5 x 3 = 15, with 2 left over. 17 / 5 = 3 remainder 2!"},
+              {"problem": "23 / 6", "answer": "3 R5", "explanation": "6 x 3 = 18, with 5 left over. 23 / 6 = 3 remainder 5!"}
+            ],
+            "key_vocabulary": ["remainder", "left over", "divide evenly", "R", "quotient"],
+            "real_world": "If 5 kids share 22 stickers, each gets 4 stickers (5 x 4 = 20) with 2 stickers left over!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "10 / 3 = 3 R___", "answer": "1", "hint": "3 x 3 = 9. 10 - 9 = 1 left over."},
+            {"type": "fill_in", "question": "19 / 4 = ___ R3", "answer": "4", "hint": "4 x 4 = 16. 19 - 16 = 3."},
+            {"type": "multiple_choice", "question": "25 / 7 = ?", "options": ["3 R2", "3 R4", "4 R1", "3 R3"], "correct": 1, "hint": "7 x 3 = 21. 25 - 21 = 4."},
+            {"type": "fill_in", "question": "29 / 5 = 5 R___", "answer": "4", "hint": "5 x 5 = 25. 29 - 25 = 4."},
+            {"type": "word_problem", "question": "You have 26 erasers to put equally into 4 bags. How many in each bag and how many left over?", "answer": "6 R2", "operation": "26 / 4", "hint": "4 x 6 = 24. 26 - 24 = 2 left over."},
+            {"type": "fill_in", "question": "20 / 6 = 3 R___", "answer": "2", "hint": "6 x 3 = 18. 20 - 18 = 2."},
+            {"type": "multiple_choice", "question": "Does 18 / 3 have a remainder?", "options": ["Yes", "No - it divides evenly"], "correct": 1, "hint": "3 x 6 = 18 exactly."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "36 / 6 = ___", "answer": "6", "hint": "6 x 6 = 36."},
+          {"type": "fill_in", "question": "48 / 8 = ___", "answer": "6", "hint": "8 x 6 = 48."},
+          {"type": "word_problem", "question": "27 toys shared among 9 kids. How many does each get?", "answer": "3", "operation": "27 / 9", "hint": "27 / 9 = ?"},
+          {"type": "fill_in", "question": "If 7 x 8 = 56, then 56 / 7 = ___", "answer": "8", "hint": "Related fact."},
+          {"type": "multiple_choice", "question": "22 / 5 = ?", "options": ["4 R1", "4 R2", "3 R7", "5 R2"], "correct": 1, "hint": "5 x 4 = 20. 22 - 20 = 2."},
+          {"type": "fill_in", "question": "63 / 9 = ___", "answer": "7", "hint": "9 x 7 = 63."},
+          {"type": "word_problem", "question": "14 stickers shared among 3 friends. How many each and how many left over?", "answer": "4 R2", "operation": "14 / 3", "hint": "3 x 4 = 12. 14 - 12 = 2."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "division_dynamo"
+      }
+    },
+    {
+      "id": "3-math-3",
+      "title": "Fractions",
+      "description": "Learn what fractions are, place them on a number line, compare fractions, and find equivalent fractions.",
+      "lessons": [
+        {
+          "id": "3-math-3-1",
+          "title": "What is a Fraction?",
+          "type": "lesson",
+          "content": {
+            "explanation": "A fraction represents a part of a whole. It has a top number (numerator) and a bottom number (denominator) separated by a line. The denominator tells how many equal parts the whole is divided into. The numerator tells how many of those parts you have. For example, 3/4 means the whole is divided into 4 equal parts and you have 3 of them. The denominator can NEVER be zero!",
+            "examples": [
+              {"problem": "What fraction is shaded if 2 out of 5 equal parts are shaded?", "answer": "2/5", "explanation": "The whole is divided into 5 equal parts (denominator = 5) and 2 are shaded (numerator = 2). The fraction is 2/5!"},
+              {"problem": "What does 1/3 mean?", "answer": "1 out of 3 equal parts", "explanation": "The whole is divided into 3 equal parts, and you have 1 of them."},
+              {"problem": "A pizza is cut into 8 slices. You eat 3 slices. What fraction did you eat?", "answer": "3/8", "explanation": "8 slices total (denominator = 8), you ate 3 (numerator = 3). You ate 3/8 of the pizza!"}
+            ],
+            "key_vocabulary": ["fraction", "numerator", "denominator", "part", "whole", "equal parts"],
+            "real_world": "When you eat half an apple, you're eating 1/2. The whole apple had 2 equal pieces and you ate 1!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "In the fraction 3/4, what is the numerator?", "options": ["3", "4", "3/4", "7"], "correct": 0, "hint": "The numerator is the top number."},
+            {"type": "multiple_choice", "question": "In the fraction 5/8, what is the denominator?", "options": ["5", "8", "3", "13"], "correct": 1, "hint": "The denominator is the bottom number."},
+            {"type": "fill_in", "question": "A pie is cut into 6 equal slices. You eat 2. What fraction did you eat? Write as _/6.", "answer": "2/6", "hint": "You ate 2 out of 6 slices."},
+            {"type": "multiple_choice", "question": "What does 4/5 mean?", "options": ["4 wholes and 5 parts", "4 parts out of 5 equal parts", "5 parts out of 4", "4 minus 5"], "correct": 1, "hint": "Numerator out of denominator."},
+            {"type": "fill_in", "question": "A chocolate bar has 10 pieces. You eat 7. What fraction did you eat? ___", "answer": "7/10", "hint": "7 out of 10."},
+            {"type": "multiple_choice", "question": "Which fraction shows half?", "options": ["1/3", "1/2", "2/1", "1/4"], "correct": 1, "hint": "Half means 1 out of 2 equal parts."},
+            {"type": "fill_in", "question": "A garden has 4 sections. 3 sections have flowers. What fraction has flowers? ___", "answer": "3/4", "hint": "3 out of 4 sections."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-3-2",
+          "title": "Fractions on a Number Line",
+          "type": "lesson",
+          "content": {
+            "explanation": "Fractions can be shown on a number line! Between 0 and 1, you can divide the distance into equal parts. For thirds, divide into 3 equal sections: the marks are at 1/3 and 2/3. For fourths, divide into 4 equal parts: 1/4, 2/4, 3/4. The fraction 0/4 is at 0, and 4/4 is at 1 (the whole). Fractions greater than 1 go past the 1 on the number line.",
+            "examples": [
+              {"problem": "Where is 1/2 on a number line from 0 to 1?", "answer": "Exactly in the middle", "explanation": "1/2 is halfway between 0 and 1."},
+              {"problem": "Where is 3/4 on a number line from 0 to 1?", "answer": "Three quarters of the way from 0 to 1", "explanation": "Divide the line into 4 parts. 3/4 is at the third mark!"},
+              {"problem": "What fraction is at the second mark when a number line from 0 to 1 is divided into 6 equal parts?", "answer": "2/6", "explanation": "Each mark represents 1/6. The second mark is 2/6 (which equals 1/3)!"}
+            ],
+            "key_vocabulary": ["number line", "fraction", "distance", "equal parts", "between", "mark"],
+            "real_world": "A ruler is like a number line! Between 0 and 1 inch, the halfway mark is at 1/2 inch."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A number line from 0 to 1 is divided into 4 equal parts. Where is the first mark?", "options": ["1/2", "1/3", "1/4", "1/5"], "correct": 2, "hint": "4 equal parts means fourths."},
+            {"type": "fill_in", "question": "On a number line divided into thirds, the second mark is at ___.", "answer": "2/3", "hint": "First mark is 1/3, second mark is 2/3."},
+            {"type": "multiple_choice", "question": "Which fraction is closer to 1: 3/4 or 1/4?", "options": ["3/4", "1/4", "they are equal"], "correct": 0, "hint": "3/4 is further along the number line."},
+            {"type": "multiple_choice", "question": "Where is 0/5 on the number line?", "options": ["at 0", "at 1/5", "at 1", "nowhere"], "correct": 0, "hint": "0 parts out of 5 is zero."},
+            {"type": "fill_in", "question": "On a number line divided into 8 parts, what fraction is at the 5th mark? ___", "answer": "5/8", "hint": "Each mark is 1/8. The 5th mark is 5/8."},
+            {"type": "multiple_choice", "question": "What fraction is at the same spot as 1 on the number line?", "options": ["3/3", "1/3", "2/3", "0/3"], "correct": 0, "hint": "3 out of 3 parts is the whole thing = 1."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-3-3",
+          "title": "Comparing Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "To compare fractions with the same denominator, just compare the numerators. 3/8 > 2/8 because 3 > 2. To compare fractions with the same numerator, the one with the SMALLER denominator is bigger! 1/3 > 1/5 because cutting into 3 pieces gives bigger pieces than cutting into 5. You can also use benchmark fractions like 1/2 to compare: 3/4 > 1/2 and 1/3 < 1/2.",
+            "examples": [
+              {"problem": "Compare 5/8 and 3/8", "answer": "5/8 > 3/8", "explanation": "Same denominator (8), so compare numerators: 5 > 3. Therefore 5/8 is greater!"},
+              {"problem": "Compare 1/4 and 1/6", "answer": "1/4 > 1/6", "explanation": "Same numerator (1). Fewer pieces means bigger pieces: fourths are bigger than sixths!"},
+              {"problem": "Compare 2/5 and 1/2", "answer": "2/5 < 1/2", "explanation": "2/5 = 4/10 and 1/2 = 5/10. Since 4/10 < 5/10, we know 2/5 < 1/2!"}
+            ],
+            "key_vocabulary": ["compare", "greater than", "less than", "equal to", "benchmark", "numerator", "denominator"],
+            "real_world": "Would you rather have 3/4 of a pizza or 1/4? 3/4 is more because more fourths means more pizza!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is greater: 5/6 or 2/6?", "options": ["5/6", "2/6", "they are equal"], "correct": 0, "hint": "Same denominator. Compare numerators: 5 vs 2."},
+            {"type": "multiple_choice", "question": "Which is greater: 1/3 or 1/8?", "options": ["1/3", "1/8", "they are equal"], "correct": 0, "hint": "Same numerator. Smaller denominator = bigger fraction."},
+            {"type": "multiple_choice", "question": "Which is less: 3/4 or 3/10?", "options": ["3/4", "3/10", "they are equal"], "correct": 1, "hint": "Same numerator (3). Bigger denominator = smaller fraction."},
+            {"type": "multiple_choice", "question": "Compare 4/6 and 5/6.", "options": ["4/6 > 5/6", "4/6 < 5/6", "4/6 = 5/6"], "correct": 1, "hint": "Same denominator. 4 < 5."},
+            {"type": "multiple_choice", "question": "Is 3/8 greater than, less than, or equal to 1/2?", "options": ["greater than", "less than", "equal to"], "correct": 1, "hint": "1/2 = 4/8. Is 3/8 more or less than 4/8?"},
+            {"type": "multiple_choice", "question": "Which is greater: 2/3 or 2/5?", "options": ["2/3", "2/5", "they are equal"], "correct": 0, "hint": "Same numerator. Smaller denominator means bigger pieces."},
+            {"type": "multiple_choice", "question": "Order from least to greatest: 1/4, 1/2, 1/8", "options": ["1/8, 1/4, 1/2", "1/2, 1/4, 1/8", "1/4, 1/8, 1/2", "1/4, 1/2, 1/8"], "correct": 0, "hint": "Bigger denominator = smaller fraction (for same numerator)."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-3-4",
+          "title": "Equivalent Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Equivalent fractions are different fractions that represent the same amount. 1/2 = 2/4 = 3/6 = 4/8 - they all show the same part of the whole! To find an equivalent fraction, multiply (or divide) both the numerator and denominator by the same number. For example, 1/3 = 2/6 (multiply both by 2). Think of it as cutting each piece in half - you have more pieces but the same total amount.",
+            "examples": [
+              {"problem": "Find a fraction equivalent to 1/2", "answer": "2/4 (or 3/6, 4/8, etc.)", "explanation": "Multiply both parts by 2: (1x2)/(2x2) = 2/4. So 1/2 = 2/4!"},
+              {"problem": "Find a fraction equivalent to 2/3", "answer": "4/6", "explanation": "Multiply both parts by 2: (2x2)/(3x2) = 4/6. So 2/3 = 4/6!"},
+              {"problem": "Are 3/4 and 6/8 equivalent?", "answer": "Yes", "explanation": "3/4 times 2/2 = 6/8. They represent the same amount!"}
+            ],
+            "key_vocabulary": ["equivalent", "equal", "same amount", "multiply", "simplify"],
+            "real_world": "Half a pizza is the same whether you cut it into 2 slices (1/2) or 4 slices (2/4). Same amount of pizza!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1/2 = ___/4", "answer": "2", "hint": "Multiply numerator and denominator of 1/2 by 2."},
+            {"type": "fill_in", "question": "2/3 = 4/___", "answer": "6", "hint": "The numerator was multiplied by 2 (2 -> 4), so multiply denominator by 2 too (3 -> 6)."},
+            {"type": "multiple_choice", "question": "Which fraction is equivalent to 3/4?", "options": ["3/8", "6/8", "4/3", "3/12"], "correct": 1, "hint": "Multiply both 3 and 4 by 2."},
+            {"type": "fill_in", "question": "1/3 = 3/___", "answer": "9", "hint": "Multiply both by 3: 1x3=3, 3x3=9."},
+            {"type": "multiple_choice", "question": "Are 2/6 and 1/3 equivalent?", "options": ["Yes", "No"], "correct": 0, "hint": "Divide both parts of 2/6 by 2: 2/2=1, 6/2=3. So 2/6 = 1/3."},
+            {"type": "fill_in", "question": "1/4 = ___/8", "answer": "2", "hint": "Multiply both by 2: 1x2=2, 4x2=8."},
+            {"type": "multiple_choice", "question": "Which pair is NOT equivalent?", "options": ["1/2 and 2/4", "2/3 and 4/6", "1/4 and 2/6", "3/5 and 6/10"], "correct": 2, "hint": "1/4 = 2/8, not 2/6. Check each pair."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "In the fraction 5/7, the denominator is ___.", "answer": "7", "hint": "Bottom number."},
+          {"type": "multiple_choice", "question": "Where is 2/4 on a number line from 0 to 1?", "options": ["at 0", "at 1/4", "at 1/2", "at 3/4"], "correct": 2, "hint": "2/4 is the same as 1/2."},
+          {"type": "multiple_choice", "question": "Which is greater: 7/10 or 3/10?", "options": ["7/10", "3/10", "they are equal"], "correct": 0, "hint": "Same denominator. Compare numerators."},
+          {"type": "fill_in", "question": "2/5 = ___/10", "answer": "4", "hint": "Multiply both by 2."},
+          {"type": "multiple_choice", "question": "Which is greater: 1/2 or 1/6?", "options": ["1/2", "1/6", "they are equal"], "correct": 0, "hint": "Smaller denominator = bigger fraction."},
+          {"type": "fill_in", "question": "What fraction of a pizza did you eat if you ate 3 slices out of 8? ___", "answer": "3/8", "hint": "3 out of 8."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_finder"
+      }
+    },
+    {
+      "id": "3-math-4",
+      "title": "Area and Perimeter",
+      "description": "Learn about area using square units, calculate area of rectangles, and understand and calculate perimeter.",
+      "lessons": [
+        {
+          "id": "3-math-4-1",
+          "title": "Understanding Area",
+          "type": "lesson",
+          "content": {
+            "explanation": "Area is the amount of space inside a flat shape. We measure area in square units - imagine filling the shape with little squares. Count how many squares fit inside, and that's the area! One square unit is a square that is 1 unit long on each side. Area tells you how much surface the shape covers.",
+            "examples": [
+              {"problem": "A rectangle is covered by 12 unit squares. What is its area?", "answer": "12 square units", "explanation": "Count the squares: 12. The area is 12 square units!"},
+              {"problem": "A shape has 3 rows of 4 squares. What is the area?", "answer": "12 square units", "explanation": "3 rows x 4 squares = 12 square units!"},
+              {"problem": "Which has more area: a shape with 8 squares or a shape with 15 squares?", "answer": "The shape with 15 squares", "explanation": "15 > 8, so the shape with 15 square units has more area!"}
+            ],
+            "key_vocabulary": ["area", "square unit", "space inside", "cover", "surface"],
+            "real_world": "Area tells you how much carpet you need for a room, or how much paint for a wall!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A rectangle made of 2 rows of 5 unit squares has an area of ___ square units.", "answer": "10", "hint": "2 x 5 = 10."},
+            {"type": "fill_in", "question": "A square made of 3 rows of 3 unit squares has an area of ___ square units.", "answer": "9", "hint": "3 x 3 = 9."},
+            {"type": "multiple_choice", "question": "Which has a larger area: a shape with 20 square units or 14 square units?", "options": ["20 square units", "14 square units", "they are equal"], "correct": 0, "hint": "20 > 14."},
+            {"type": "fill_in", "question": "A rectangle is 4 rows of 6 unit squares. Area = ___ square units.", "answer": "24", "hint": "4 x 6 = 24."},
+            {"type": "word_problem", "question": "A garden plot is covered by 5 rows of 7 square tiles. What is the area?", "answer": "35", "operation": "5 * 7", "hint": "5 x 7 = 35 square units."},
+            {"type": "fill_in", "question": "A rectangle is 1 unit by 8 units. Area = ___ square units.", "answer": "8", "hint": "1 x 8 = 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-4-2",
+          "title": "Finding Area of Rectangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "For a rectangle, there's a shortcut! Instead of counting every square, just multiply the length times the width. Area = length x width. If a rectangle is 6 units long and 4 units wide, the area is 6 x 4 = 24 square units. This works because each row has 'length' squares, and there are 'width' rows. It's the same as counting all the squares!",
+            "examples": [
+              {"problem": "A rectangle is 7 cm long and 3 cm wide. What is the area?", "answer": "21 square cm", "explanation": "Area = length x width = 7 x 3 = 21 square cm!"},
+              {"problem": "A rectangle is 5 m by 5 m. What is the area?", "answer": "25 square m", "explanation": "Area = 5 x 5 = 25 square meters. That's also a square!"},
+              {"problem": "A rectangle is 9 inches by 2 inches. What is the area?", "answer": "18 square inches", "explanation": "Area = 9 x 2 = 18 square inches!"}
+            ],
+            "key_vocabulary": ["area", "length", "width", "multiply", "square units", "formula"],
+            "real_world": "To find how many square tiles you need for a floor, multiply the length by the width of the room!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A rectangle is 8 cm long and 4 cm wide. Area = ___ square cm.", "answer": "32", "hint": "8 x 4 = 32."},
+            {"type": "fill_in", "question": "A rectangle is 6 m by 7 m. Area = ___ square m.", "answer": "42", "hint": "6 x 7 = 42."},
+            {"type": "multiple_choice", "question": "A rectangle is 10 in by 3 in. What is the area?", "options": ["13 sq in", "30 sq in", "33 sq in", "103 sq in"], "correct": 1, "hint": "Area = length x width = 10 x 3."},
+            {"type": "word_problem", "question": "A garden is 9 feet long and 5 feet wide. What is its area?", "answer": "45", "operation": "9 * 5", "hint": "Area = 9 x 5."},
+            {"type": "fill_in", "question": "A rectangle has length 4 units and area 28 square units. What is the width? ___", "answer": "7", "hint": "4 x ? = 28. So width = 28 / 4 = 7."},
+            {"type": "word_problem", "question": "A poster is 3 feet by 2 feet. What is its area?", "answer": "6", "operation": "3 * 2", "hint": "Area = 3 x 2 = 6 square feet."},
+            {"type": "fill_in", "question": "A square has sides of 6 cm. Area = ___ square cm.", "answer": "36", "hint": "6 x 6 = 36."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-4-3",
+          "title": "Understanding Perimeter",
+          "type": "lesson",
+          "content": {
+            "explanation": "Perimeter is the distance around the outside of a shape. Imagine walking along all the edges - the total distance you walk is the perimeter! To find the perimeter, add up the lengths of all the sides. For a rectangle, you can add length + width + length + width, or use the shortcut: Perimeter = 2 x length + 2 x width.",
+            "examples": [
+              {"problem": "A rectangle has sides 5, 3, 5, 3. What is the perimeter?", "answer": "16", "explanation": "Add all sides: 5 + 3 + 5 + 3 = 16 units!"},
+              {"problem": "A square has sides of 4 cm. What is the perimeter?", "answer": "16 cm", "explanation": "All sides are equal: 4 + 4 + 4 + 4 = 16 cm. Or 4 x 4 = 16 cm!"},
+              {"problem": "A triangle has sides 3, 4, and 5. What is the perimeter?", "answer": "12", "explanation": "Add all sides: 3 + 4 + 5 = 12 units!"}
+            ],
+            "key_vocabulary": ["perimeter", "around", "distance", "sides", "edge", "add"],
+            "real_world": "If you want to put a fence around a yard, you need to know the perimeter to figure out how much fencing to buy!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A rectangle is 6 cm by 4 cm. Perimeter = ___ cm.", "answer": "20", "hint": "6 + 4 + 6 + 4 = 20."},
+            {"type": "fill_in", "question": "A square has sides of 5 inches. Perimeter = ___ inches.", "answer": "20", "hint": "5 + 5 + 5 + 5 = 20."},
+            {"type": "multiple_choice", "question": "A rectangle is 8 m by 3 m. What is the perimeter?", "options": ["11 m", "22 m", "24 m", "26 m"], "correct": 1, "hint": "8 + 3 + 8 + 3 = 22."},
+            {"type": "word_problem", "question": "A garden is 10 feet long and 6 feet wide. How many feet of fencing do you need to go around it?", "answer": "32", "operation": "2 * 10 + 2 * 6", "hint": "Perimeter = 10 + 6 + 10 + 6 = 32 feet."},
+            {"type": "fill_in", "question": "A triangle has sides 7, 7, and 10. Perimeter = ___.", "answer": "24", "hint": "7 + 7 + 10 = 24."},
+            {"type": "fill_in", "question": "A rectangle has a perimeter of 18 cm. If the length is 5 cm, what is the width? ___", "answer": "4", "hint": "5 + w + 5 + w = 18. So 10 + 2w = 18. 2w = 8. w = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-4-4",
+          "title": "Area vs. Perimeter",
+          "type": "lesson",
+          "content": {
+            "explanation": "Area and perimeter are different! Area measures the INSIDE of a shape (how much space it covers). Perimeter measures the OUTSIDE (the distance around). Two shapes can have the same perimeter but different areas, or the same area but different perimeters. A 3x5 rectangle has area 15 and perimeter 16. A 1x7 rectangle has area 7 and perimeter 16. Same perimeter, different area!",
+            "examples": [
+              {"problem": "A rectangle is 4 by 6. Find both area and perimeter.", "answer": "Area = 24 square units, Perimeter = 20 units", "explanation": "Area = 4 x 6 = 24. Perimeter = 4 + 6 + 4 + 6 = 20."},
+              {"problem": "A square is 5 by 5. Find both area and perimeter.", "answer": "Area = 25 square units, Perimeter = 20 units", "explanation": "Area = 5 x 5 = 25. Perimeter = 5 + 5 + 5 + 5 = 20."},
+              {"problem": "Two rectangles: 2x6 and 3x4. Compare their areas and perimeters.", "answer": "Both have area 12, but perimeters differ (16 vs 14)", "explanation": "2x6: area=12, perimeter=16. 3x4: area=12, perimeter=14. Same area, different perimeters!"}
+            ],
+            "key_vocabulary": ["area", "perimeter", "inside", "outside", "around", "cover"],
+            "real_world": "Area is like how much paint you need for a wall. Perimeter is like how much trim you need around the edges!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A 3 by 7 rectangle: Area = ___ square units.", "answer": "21", "hint": "3 x 7 = 21."},
+            {"type": "fill_in", "question": "A 3 by 7 rectangle: Perimeter = ___ units.", "answer": "20", "hint": "3 + 7 + 3 + 7 = 20."},
+            {"type": "word_problem", "question": "A room is 8 feet by 5 feet. What is the area for buying carpet?", "answer": "40", "operation": "8 * 5", "hint": "Area = 8 x 5 = 40 square feet."},
+            {"type": "word_problem", "question": "Same room: 8 feet by 5 feet. What is the perimeter for buying baseboard trim?", "answer": "26", "operation": "2 * 8 + 2 * 5", "hint": "Perimeter = 8 + 5 + 8 + 5 = 26 feet."},
+            {"type": "multiple_choice", "question": "A 2x8 rectangle and a 4x4 square. Which has a greater area?", "options": ["2x8 rectangle (area 16)", "4x4 square (area 16)", "They have equal area"], "correct": 2, "hint": "2x8 = 16 and 4x4 = 16."},
+            {"type": "multiple_choice", "question": "A 2x8 rectangle and a 4x4 square. Which has a greater perimeter?", "options": ["2x8 rectangle (perimeter 20)", "4x4 square (perimeter 16)", "They have equal perimeter"], "correct": 0, "hint": "2+8+2+8=20. 4+4+4+4=16."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "A rectangle is 9 by 4. Area = ___ square units.", "answer": "36", "hint": "9 x 4 = 36."},
+          {"type": "fill_in", "question": "A rectangle is 9 by 4. Perimeter = ___ units.", "answer": "26", "hint": "9 + 4 + 9 + 4 = 26."},
+          {"type": "word_problem", "question": "A square garden has sides of 7 meters. What is the perimeter?", "answer": "28", "operation": "4 * 7", "hint": "7 + 7 + 7 + 7 = 28."},
+          {"type": "word_problem", "question": "A rectangular table is 5 feet long and 3 feet wide. What is the area?", "answer": "15", "operation": "5 * 3", "hint": "5 x 3 = 15 square feet."},
+          {"type": "multiple_choice", "question": "Area measures the ___ of a shape.", "options": ["distance around", "space inside", "number of sides", "height"], "correct": 1, "hint": "Area is about the inside surface."},
+          {"type": "fill_in", "question": "A rectangle has area 30 sq units. If the length is 6, the width is ___.", "answer": "5", "hint": "6 x ? = 30."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "area_perimeter_pro"
+      }
+    },
+    {
+      "id": "3-math-5",
+      "title": "Time",
+      "description": "Tell time to the minute, calculate elapsed time, and work with AM/PM.",
+      "lessons": [
+        {
+          "id": "3-math-5-1",
+          "title": "Telling Time to the Minute",
+          "type": "lesson",
+          "content": {
+            "explanation": "Each number on a clock face represents 5 minutes. The 1 means 5 minutes, the 2 means 10 minutes, and so on up to the 12 which means 60 minutes (a full hour). Between each number there are 4 small tick marks, each representing 1 minute. To tell time to the minute, read the hour from the short hand, then count the minutes from the 12 going clockwise to where the long hand points.",
+            "examples": [
+              {"problem": "Hour hand past 3, minute hand at 4. What time?", "answer": "3:20", "explanation": "The 4 on the clock means 4 x 5 = 20 minutes. It's 3:20!"},
+              {"problem": "Hour hand past 7, minute hand at 9. What time?", "answer": "7:45", "explanation": "The 9 on the clock means 9 x 5 = 45 minutes. It's 7:45!"},
+              {"problem": "Hour hand past 10, minute hand between 2 and 3 at the 3rd tick. What time?", "answer": "10:13", "explanation": "The 2 means 10 minutes, plus 3 more tick marks = 13 minutes. It's 10:13!"}
+            ],
+            "key_vocabulary": ["minute hand", "hour hand", "minutes past", "clockwise", "tick marks"],
+            "real_world": "Being able to read a clock to the exact minute helps you be on time for activities and appointments!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "The minute hand is at the 7. How many minutes past the hour? ___", "answer": "35", "hint": "7 x 5 = 35 minutes."},
+            {"type": "fill_in", "question": "Hour hand past 2, minute hand at 6. What time? ___", "answer": "2:30", "hint": "6 x 5 = 30 minutes."},
+            {"type": "multiple_choice", "question": "Hour hand past 11, minute hand at 3. What time?", "options": ["11:03", "11:15", "3:55", "3:11"], "correct": 1, "hint": "3 x 5 = 15 minutes."},
+            {"type": "fill_in", "question": "Hour hand past 5, minute hand at 11. What time? ___", "answer": "5:55", "hint": "11 x 5 = 55 minutes."},
+            {"type": "fill_in", "question": "The minute hand is at the 10. How many minutes? ___", "answer": "50", "hint": "10 x 5 = 50."},
+            {"type": "multiple_choice", "question": "What time does 8:42 look like?", "options": ["Hour hand past 8, minute hand between 8 and 9", "Hour hand at 8, minute hand at 9", "Hour hand past 8, minute hand at 42", "Hour hand between 8 and 9, minute hand at 6"], "correct": 0, "hint": "42 minutes: the 8 on the clock is 40 minutes, plus 2 more ticks."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-5-2",
+          "title": "Elapsed Time",
+          "type": "lesson",
+          "content": {
+            "explanation": "Elapsed time is the amount of time that passes between a start time and an end time. To find elapsed time, count forward from the start time to the end time. You can count by hours first, then by minutes. For example, from 2:15 to 4:45: first count 2 hours (2:15 to 4:15 = 2 hours), then count 30 more minutes (4:15 to 4:45 = 30 minutes). Total: 2 hours and 30 minutes!",
+            "examples": [
+              {"problem": "Movie starts at 3:00 and ends at 5:00. How long is it?", "answer": "2 hours", "explanation": "Count from 3:00 to 5:00: that's 2 hours!"},
+              {"problem": "School starts at 8:30 and lunch is at 11:30. How long until lunch?", "answer": "3 hours", "explanation": "8:30 to 11:30 is 3 hours!"},
+              {"problem": "You start homework at 4:15 and finish at 5:00. How long did it take?", "answer": "45 minutes", "explanation": "4:15 to 5:00: from 4:15, count 45 minutes to reach 5:00!"}
+            ],
+            "key_vocabulary": ["elapsed time", "start time", "end time", "duration", "how long"],
+            "real_world": "If a soccer game starts at 10:00 and ends at 11:30, the elapsed time is 1 hour and 30 minutes!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "From 1:00 to 3:00 is ___ hours.", "answer": "2", "hint": "Count the hours from 1 to 3."},
+            {"type": "fill_in", "question": "From 5:00 to 5:30 is ___ minutes.", "answer": "30", "hint": "Count the minutes."},
+            {"type": "multiple_choice", "question": "A movie starts at 2:00 and ends at 4:30. How long is it?", "options": ["2 hours", "2 hours 30 minutes", "3 hours", "4 hours 30 minutes"], "correct": 1, "hint": "2:00 to 4:00 = 2 hours, plus 30 more minutes."},
+            {"type": "fill_in", "question": "From 9:15 to 10:15 is ___ hour(s).", "answer": "1", "hint": "Same minutes, 1 hour later."},
+            {"type": "word_problem", "question": "Practice starts at 3:30 and ends at 5:00. How long is practice?", "answer": "1 hour 30 minutes", "operation": "5:00 - 3:30", "hint": "3:30 to 4:30 = 1 hour. 4:30 to 5:00 = 30 minutes."},
+            {"type": "fill_in", "question": "From 7:00 AM to 12:00 PM is ___ hours.", "answer": "5", "hint": "Count: 8, 9, 10, 11, 12. That's 5 hours."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-5-3",
+          "title": "AM and PM",
+          "type": "lesson",
+          "content": {
+            "explanation": "AM means the time from midnight (12:00 AM) to just before noon. PM means the time from noon (12:00 PM) to just before midnight. Morning hours are AM (you wake up, go to school). Afternoon and evening hours are PM (lunch, after school, dinner, bedtime). A full day is 24 hours: 12 hours of AM and 12 hours of PM.",
+            "examples": [
+              {"problem": "School starts at 8:00. Is that AM or PM?", "answer": "8:00 AM", "explanation": "School starts in the morning, which is AM!"},
+              {"problem": "Dinner is at 6:00. Is that AM or PM?", "answer": "6:00 PM", "explanation": "Dinner is in the evening, which is PM!"},
+              {"problem": "Midnight is:", "answer": "12:00 AM", "explanation": "Midnight is 12:00 AM. Noon is 12:00 PM."}
+            ],
+            "key_vocabulary": ["AM", "PM", "morning", "afternoon", "evening", "midnight", "noon"],
+            "real_world": "When you set an alarm clock, make sure to pick AM or PM! Setting 7:00 PM instead of 7:00 AM means you'd wake up at night!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "You eat breakfast at 7:30. Is that AM or PM?", "options": ["AM", "PM"], "correct": 0, "hint": "Breakfast is in the morning."},
+            {"type": "multiple_choice", "question": "You go to bed at 9:00. Is that AM or PM?", "options": ["AM", "PM"], "correct": 1, "hint": "Bedtime is in the evening."},
+            {"type": "multiple_choice", "question": "What is noon?", "options": ["12:00 AM", "12:00 PM"], "correct": 1, "hint": "Noon is midday = PM."},
+            {"type": "multiple_choice", "question": "What is midnight?", "options": ["12:00 AM", "12:00 PM"], "correct": 0, "hint": "Midnight is the start of a new day = AM."},
+            {"type": "multiple_choice", "question": "You have soccer practice at 4:00 after school. Is that AM or PM?", "options": ["AM", "PM"], "correct": 1, "hint": "After school is in the afternoon."},
+            {"type": "multiple_choice", "question": "The sun rises at 6:30 in the morning. Is that AM or PM?", "options": ["AM", "PM"], "correct": 0, "hint": "Morning = AM."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-5-4",
+          "title": "Time Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Time word problems ask you to find start times, end times, or elapsed times. To find the end time, add the duration to the start time. To find the start time, subtract the duration from the end time. To find elapsed time, subtract the start from the end. Be careful when crossing the hour (e.g., 45 minutes after 10:30 is 11:15, not 10:75)!",
+            "examples": [
+              {"problem": "A movie starts at 7:15 PM and lasts 2 hours. When does it end?", "answer": "9:15 PM", "explanation": "7:15 + 2 hours = 9:15 PM!"},
+              {"problem": "You finished a test at 10:45 AM. The test took 30 minutes. When did it start?", "answer": "10:15 AM", "explanation": "10:45 - 30 minutes = 10:15 AM!"},
+              {"problem": "A plane left at 9:00 AM and arrived at 11:30 AM. How long was the flight?", "answer": "2 hours 30 minutes", "explanation": "From 9:00 to 11:00 = 2 hours, plus 30 more minutes = 2 hours 30 minutes!"}
+            ],
+            "key_vocabulary": ["start time", "end time", "elapsed time", "duration", "lasts", "takes"],
+            "real_world": "If you need to be somewhere at 3:00 and the drive takes 20 minutes, you should leave by 2:40!"
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A play starts at 7:00 PM and lasts 1 hour 45 minutes. What time does it end?", "answer": "8:45 PM", "operation": "7:00 + 1:45", "hint": "7:00 + 1 hour = 8:00, + 45 minutes = 8:45."},
+            {"type": "word_problem", "question": "Lunch is at 12:00. It is now 10:30 AM. How long until lunch?", "answer": "1 hour 30 minutes", "operation": "12:00 - 10:30", "hint": "10:30 to 11:30 = 1 hour. 11:30 to 12:00 = 30 minutes."},
+            {"type": "word_problem", "question": "You left home at 3:15 PM and arrived at 3:50 PM. How long did the trip take?", "answer": "35 minutes", "operation": "3:50 - 3:15", "hint": "50 - 15 = 35 minutes."},
+            {"type": "word_problem", "question": "A cake needs to bake for 45 minutes. You put it in at 2:20 PM. When should you take it out?", "answer": "3:05 PM", "operation": "2:20 + 0:45", "hint": "2:20 + 40 minutes = 3:00, + 5 more = 3:05."},
+            {"type": "word_problem", "question": "School ends at 3:15 PM. The bus ride home takes 25 minutes. What time do you get home?", "answer": "3:40 PM", "operation": "3:15 + 0:25", "hint": "15 + 25 = 40 minutes past 3."},
+            {"type": "word_problem", "question": "A TV show ends at 8:30 PM. It was 1 hour long. When did it start?", "answer": "7:30 PM", "operation": "8:30 - 1:00", "hint": "8:30 minus 1 hour = 7:30."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "The minute hand at the 8 means ___ minutes past the hour.", "answer": "40", "hint": "8 x 5 = 40."},
+          {"type": "multiple_choice", "question": "From 4:00 to 6:30 is how long?", "options": ["2 hours", "2 hours 30 minutes", "6 hours 30 minutes", "3 hours"], "correct": 1, "hint": "4:00 to 6:00 = 2 hours, plus 30 more minutes."},
+          {"type": "multiple_choice", "question": "Lunch at 12:00 is:", "options": ["12:00 AM", "12:00 PM"], "correct": 1, "hint": "Noon = PM."},
+          {"type": "word_problem", "question": "A game starts at 1:00 PM and lasts 2 hours 15 minutes. When does it end?", "answer": "3:15 PM", "operation": "1:00 + 2:15", "hint": "1:00 + 2 hours = 3:00, + 15 minutes = 3:15."},
+          {"type": "fill_in", "question": "From 8:15 AM to 8:50 AM is ___ minutes.", "answer": "35", "hint": "50 - 15 = 35."},
+          {"type": "multiple_choice", "question": "Is 3:00 in the afternoon AM or PM?", "options": ["AM", "PM"], "correct": 1, "hint": "Afternoon = PM."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "time_keeper"
+      }
+    },
+    {
+      "id": "3-math-6",
+      "title": "Data and Graphs",
+      "description": "Create and read bar graphs, picture graphs, and line plots, and solve problems using data.",
+      "lessons": [
+        {
+          "id": "3-math-6-1",
+          "title": "Bar Graphs with Scales",
+          "type": "lesson",
+          "content": {
+            "explanation": "Bar graphs can have different scales! Instead of each grid line meaning 1, it might mean 2, 5, or 10. Always look at the scale on the axis to know what each line means. If the scale counts by 2 and a bar reaches 3 lines up from 0, the value is 6 (not 3). Reading the scale correctly is very important!",
+            "examples": [
+              {"problem": "A bar reaches the 4th line on a scale that counts by 5. What is the value?", "answer": "20", "explanation": "Each line = 5. Four lines up = 4 x 5 = 20!"},
+              {"problem": "On a scale of 2, a bar reaches between the 3rd and 4th lines. About what value?", "answer": "about 7", "explanation": "3rd line = 6, 4th line = 8. Between them is about 7!"},
+              {"problem": "The scale goes 0, 10, 20, 30. A bar reaches the 20 line. What is the value?", "answer": "20", "explanation": "The bar reaches right to the 20 mark. The value is 20!"}
+            ],
+            "key_vocabulary": ["bar graph", "scale", "axis", "value", "label", "grid line"],
+            "real_world": "Scientists use bar graphs with big scales to show things like population of cities (scales of thousands or millions)!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A bar graph has a scale of 5. A bar reaches the 6th line. Its value is ___.", "answer": "30", "hint": "6 x 5 = 30."},
+            {"type": "fill_in", "question": "A bar graph scale goes 0, 2, 4, 6, 8, 10. A bar reaches the 8 mark. Its value is ___.", "answer": "8", "hint": "Read the scale directly."},
+            {"type": "multiple_choice", "question": "Scale of 10: bars at 20, 40, 30. Which category has the most?", "options": ["First (20)", "Second (40)", "Third (30)"], "correct": 1, "hint": "40 is the biggest."},
+            {"type": "fill_in", "question": "Scale of 2: a bar is halfway between the 4 and 6 lines. Its value is about ___.", "answer": "5", "hint": "Halfway between 4 and 6 is 5."},
+            {"type": "word_problem", "question": "Books read (scale of 5): Jan=15, Feb=25, Mar=20. How many more in Feb than Jan?", "answer": "10", "operation": "25 - 15", "hint": "25 - 15 = 10."},
+            {"type": "fill_in", "question": "Books read (same data): Total books from Jan to Mar? ___", "answer": "60", "hint": "15 + 25 + 20 = 60."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-6-2",
+          "title": "Picture Graphs with Keys",
+          "type": "lesson",
+          "content": {
+            "explanation": "In third-grade picture graphs, each picture can represent more than 1! The key tells you how much each picture stands for. If the key says each star = 2 votes, and there are 5 stars, that means 5 x 2 = 10 votes. Half a picture means half the value. If each picture = 4 and you see half a picture, it means 2.",
+            "examples": [
+              {"problem": "Key: Each smiley = 5. There are 3 smileys. How many total?", "answer": "15", "explanation": "3 pictures x 5 each = 15 total!"},
+              {"problem": "Key: Each star = 2. There are 4 full stars and 1 half star. How many total?", "answer": "9", "explanation": "4 full = 4x2 = 8, plus half = 1. Total: 8+1 = 9!"},
+              {"problem": "Key: Each book = 10. How many books represent 45?", "answer": "4 and a half books", "explanation": "40 = 4 books. 5 more = half a book. So 45 = 4.5 book pictures!"}
+            ],
+            "key_vocabulary": ["picture graph", "key", "symbol", "represents", "half picture", "scale"],
+            "real_world": "A picture graph in a newspaper might show each icon = 1000 people. 5 icons = 5000 people!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Key: Each apple = 3. There are 6 apples shown. Total = ___", "answer": "18", "hint": "6 x 3 = 18."},
+            {"type": "fill_in", "question": "Key: Each face = 2. There are 5 faces and 1 half-face. Total = ___", "answer": "11", "hint": "5 x 2 = 10, plus 1 (half of 2) = 11."},
+            {"type": "multiple_choice", "question": "Key: Each star = 5. Cats: 4 stars, Dogs: 6 stars. How many more dogs?", "options": ["2", "5", "10", "15"], "correct": 2, "hint": "Dogs = 30, Cats = 20. 30-20 = 10 more dogs."},
+            {"type": "fill_in", "question": "Key: Each coin = 10. To show 35, you need ___ full coins and a half coin.", "answer": "3", "hint": "3 full (30) + half (5) = 35."},
+            {"type": "word_problem", "question": "Key: Each trophy = 4 wins. Team A has 3 trophies, Team B has 5 trophies. How many more wins does Team B have?", "answer": "8", "operation": "(5 - 3) * 4", "hint": "Team A: 12, Team B: 20. Difference: 8."},
+            {"type": "fill_in", "question": "Key: Each heart = 2. Red: 7 hearts, Blue: 4 hearts. Total = ___", "answer": "22", "hint": "7x2=14, 4x2=8. 14+8=22."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-6-3",
+          "title": "Line Plots",
+          "type": "lesson",
+          "content": {
+            "explanation": "A line plot is a graph that shows data on a number line using X marks. Each X represents one piece of data. The number line shows the values, and you stack X marks above each value to show how many times that value appears. Line plots are great for showing measurements, like the lengths of items in your collection.",
+            "examples": [
+              {"problem": "A line plot shows shoe sizes: size 5 has 3 Xs, size 6 has 5 Xs, size 7 has 2 Xs. How many students?", "answer": "10", "explanation": "3 + 5 + 2 = 10 students total!"},
+              {"problem": "Same line plot: Which size is most common?", "answer": "Size 6", "explanation": "Size 6 has the most Xs (5), so it's the most common!"},
+              {"problem": "Same line plot: How many more students wear size 6 than size 7?", "answer": "3", "explanation": "5 - 2 = 3 more students!"}
+            ],
+            "key_vocabulary": ["line plot", "X mark", "data", "number line", "frequency", "most common"],
+            "real_world": "You could make a line plot of the number of pets your classmates have!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Heights (inches): 48 has 2 Xs, 49 has 4 Xs, 50 has 3 Xs, 51 has 1 X. How many people measured? ___", "answer": "10", "hint": "2+4+3+1 = 10."},
+            {"type": "fill_in", "question": "Same data: Most common height? ___ inches", "answer": "49", "hint": "49 has the most Xs (4)."},
+            {"type": "fill_in", "question": "Same data: How many more people are 49 inches than 51 inches? ___", "answer": "3", "hint": "4 - 1 = 3."},
+            {"type": "word_problem", "question": "Pencil lengths: 4 in: 3 Xs, 5 in: 6 Xs, 6 in: 4 Xs, 7 in: 2 Xs. How many pencils in all?", "answer": "15", "operation": "3 + 6 + 4 + 2", "hint": "Add all the Xs."},
+            {"type": "fill_in", "question": "Same data: What is the most common pencil length? ___ inches", "answer": "5", "hint": "5 inches has the most Xs (6)."},
+            {"type": "fill_in", "question": "Same data: How many pencils are 6 inches or longer? ___", "answer": "6", "hint": "6-inch: 4 + 7-inch: 2 = 6 pencils."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "3-math-6-4",
+          "title": "Solving Problems with Data",
+          "type": "lesson",
+          "content": {
+            "explanation": "Data helps us answer questions and make decisions! When looking at data, you can find: the total (add everything), the difference between groups (subtract), the most or least common category, and patterns. You can also use data to make predictions. The more data you have, the better your conclusions will be!",
+            "examples": [
+              {"problem": "Favorite lunch: Pizza=18, Tacos=12, Burgers=15. How many students voted?", "answer": "45", "explanation": "18 + 12 + 15 = 45 students voted!"},
+              {"problem": "Same data: What fraction of students chose pizza?", "answer": "18/45 or 2/5", "explanation": "18 out of 45 students chose pizza. 18/45 simplifies to 2/5!"},
+              {"problem": "Same data: If 5 more students vote, what might happen to the results?", "answer": "The totals would change, but pizza would likely still lead", "explanation": "With 5 more votes, the ranking might stay the same since pizza already has the most votes."}
+            ],
+            "key_vocabulary": ["data", "total", "difference", "pattern", "predict", "survey", "conclusion"],
+            "real_world": "Scientists use data to answer big questions, like which medicine works best or how weather patterns are changing!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Class pets voted: Fish=8, Hamster=12, Bird=5, Rabbit=10. Total votes: ___", "answer": "35", "hint": "8+12+5+10 = 35."},
+            {"type": "fill_in", "question": "Same data: How many more votes did hamster get than bird? ___", "answer": "7", "hint": "12 - 5 = 7."},
+            {"type": "multiple_choice", "question": "Same data: Which pet was least popular?", "options": ["Fish", "Hamster", "Bird", "Rabbit"], "correct": 2, "hint": "Which has the fewest votes?"},
+            {"type": "word_problem", "question": "Test scores: 80, 90, 70, 100, 85. What is the highest score?", "answer": "100", "operation": "max(80,90,70,100,85)", "hint": "Which number is biggest?"},
+            {"type": "word_problem", "question": "Same scores: 80, 90, 70, 100, 85. What is the difference between the highest and lowest?", "answer": "30", "operation": "100 - 70", "hint": "100 - 70 = 30."},
+            {"type": "fill_in", "question": "Sports: Soccer=22, Basketball=18, Baseball=14, Tennis=6. How many play soccer or basketball? ___", "answer": "40", "hint": "22 + 18 = 40."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Bar graph scale of 5: a bar reaches the 4th line. Value = ___", "answer": "20", "hint": "4 x 5 = 20."},
+          {"type": "fill_in", "question": "Key: each flower = 3. There are 7 flowers shown. Total = ___", "answer": "21", "hint": "7 x 3 = 21."},
+          {"type": "fill_in", "question": "Line plot: 10 in: 2 Xs, 11 in: 5 Xs, 12 in: 3 Xs. Total items = ___", "answer": "10", "hint": "2+5+3 = 10."},
+          {"type": "multiple_choice", "question": "Same line plot: Most common length?", "options": ["10 inches", "11 inches", "12 inches"], "correct": 1, "hint": "Which has the most Xs?"},
+          {"type": "word_problem", "question": "Fruit sold: Mon=25, Tue=15, Wed=30. How many more on Wed than Tue?", "answer": "15", "operation": "30 - 15", "hint": "30 - 15 = 15."},
+          {"type": "fill_in", "question": "Fruit sold: Mon=25, Tue=15, Wed=30. Total = ___", "answer": "70", "hint": "25+15+30 = 70."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "data_analyst"
+      }
+    }
+  ]
+}

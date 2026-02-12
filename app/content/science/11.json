@@ -1,0 +1,3309 @@
+{
+  "grade": 11,
+  "subject": "science",
+  "units": [
+    {
+      "id": "11-science-1",
+      "title": "Kinematics",
+      "description": "Describe the motion of objects using position, velocity, acceleration, and the kinematic equations. Analyze free-fall motion under gravity.",
+      "lessons": [
+        {
+          "id": "11-science-1-1",
+          "title": "Position, Distance, and Displacement",
+          "type": "lesson",
+          "content": {
+            "explanation": "Kinematics is the branch of physics that describes how objects move without worrying about the forces causing the motion. To describe motion we need a reference point (origin) and a coordinate system. Position is where an object is located relative to the origin, measured in meters (m). Distance is the total length of the path traveled regardless of direction \u2014 it is always positive (a scalar). Displacement is the change in position from start to finish \u2014 it has both magnitude and direction (a vector). Displacement equals final position minus initial position: \u0394x = x_f \u2212 x_i. Two objects can travel the same distance but have very different displacements. For example, if you walk 5 m east and then 5 m west, your distance is 10 m but your displacement is 0 m because you ended where you started.",
+            "examples": [
+              {
+                "problem": "A runner jogs 400 m around a circular track and returns to the starting line. What are the distance and displacement?",
+                "answer": "Distance = 400 m, Displacement = 0 m",
+                "explanation": "Distance is the total path length (400 m). Displacement is the change in position: since the runner returned to the start, displacement is zero."
+              },
+              {
+                "problem": "A car drives 3 km north, then 4 km east. What is the displacement magnitude?",
+                "answer": "5 km",
+                "explanation": "Use the Pythagorean theorem: d = \u221a(3\u00b2 + 4\u00b2) = \u221a(9 + 16) = \u221a25 = 5 km. The distance traveled is 3 + 4 = 7 km, but the straight-line displacement is 5 km."
+              },
+              {
+                "problem": "An ant walks 2 m right, then 5 m left along a line. What is the displacement?",
+                "answer": "3 m to the left",
+                "explanation": "Taking right as positive: \u0394x = +2 + (\u22125) = \u22123 m, meaning 3 m to the left."
+              }
+            ],
+            "key_vocabulary": [
+              "kinematics",
+              "position",
+              "distance",
+              "displacement",
+              "scalar",
+              "vector",
+              "reference point",
+              "origin"
+            ],
+            "real_world": "GPS navigation calculates displacement (straight-line distance to destination) while your odometer measures distance (total road traveled). That is why your odometer reading is always greater than or equal to the GPS distance."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which quantity has both magnitude and direction?",
+              "options": [
+                "Distance",
+                "Displacement",
+                "Speed",
+                "Mass"
+              ],
+              "correct": 1,
+              "hint": "Vectors have direction; scalars do not."
+            },
+            {
+              "type": "fill_in",
+              "question": "If you walk 8 m north and then 6 m south, your displacement is ___ m north.",
+              "answer": "2",
+              "hint": "Subtract: 8 \u2212 6 = 2 m north."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A hiker walks 3 km east and 4 km north. What is the displacement magnitude?",
+              "options": [
+                "7 km",
+                "5 km",
+                "1 km",
+                "12 km"
+              ],
+              "correct": 1,
+              "hint": "Use the Pythagorean theorem."
+            },
+            {
+              "type": "fill_in",
+              "question": "Distance can be negative.",
+              "answer": "false",
+              "hint": "Distance is always zero or positive."
+            },
+            {
+              "type": "fill_in",
+              "question": "The change in position is called ___.",
+              "answer": "displacement"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is always greater or equal to displacement magnitude?",
+              "options": [
+                "Speed",
+                "Distance",
+                "Velocity",
+                "Acceleration"
+              ],
+              "correct": 1,
+              "hint": "The path length is always at least as long as the straight-line change."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-1-2",
+          "title": "Speed and Velocity",
+          "type": "lesson",
+          "content": {
+            "explanation": "Speed tells us how fast an object is moving. Average speed equals total distance divided by total time: v_avg = d / t. Speed is a scalar \u2014 it has no direction. Velocity is the rate of change of displacement with respect to time: v = \u0394x / \u0394t. Because displacement is a vector, velocity is also a vector \u2014 it has magnitude and direction. An object moving at constant velocity covers equal displacements in equal time intervals. Average velocity can be zero even when average speed is not, such as when an object returns to its starting point. Instantaneous speed is the speed at a particular instant and equals the magnitude of instantaneous velocity. The SI unit for both speed and velocity is meters per second (m/s).",
+            "examples": [
+              {
+                "problem": "A car travels 150 km in 2 hours. What is its average speed?",
+                "answer": "75 km/h",
+                "explanation": "Average speed = distance / time = 150 km / 2 h = 75 km/h."
+              },
+              {
+                "problem": "A cyclist rides 10 km east in 0.5 h, then 10 km west in 0.5 h. What are average speed and average velocity?",
+                "answer": "Average speed = 20 km/h, Average velocity = 0 km/h",
+                "explanation": "Speed = total distance / total time = 20 km / 1 h = 20 km/h. Velocity = displacement / time = 0 km / 1 h = 0 km/h."
+              },
+              {
+                "problem": "A train moves at 30 m/s east. How far does it travel in 10 seconds?",
+                "answer": "300 m east",
+                "explanation": "Displacement = velocity \u00d7 time = 30 m/s \u00d7 10 s = 300 m east."
+              }
+            ],
+            "key_vocabulary": [
+              "speed",
+              "velocity",
+              "average speed",
+              "average velocity",
+              "instantaneous speed",
+              "scalar",
+              "vector",
+              "meters per second"
+            ],
+            "real_world": "A car's speedometer shows instantaneous speed. On a road trip, your average speed is almost always less than the maximum speedometer reading because you slow down, stop, and speed up throughout the journey."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is a vector quantity?",
+              "options": [
+                "Speed",
+                "Distance",
+                "Velocity",
+                "Mass"
+              ],
+              "correct": 2,
+              "hint": "Vectors have direction."
+            },
+            {
+              "type": "fill_in",
+              "question": "Average speed = total distance \u00f7 total ___.",
+              "answer": "time"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A runner finishes a 400 m lap in 80 s, returning to start. What is the average velocity?",
+              "options": [
+                "5 m/s",
+                "0 m/s",
+                "400 m/s",
+                "80 m/s"
+              ],
+              "correct": 1,
+              "hint": "Displacement is zero because the runner returned to the start."
+            },
+            {
+              "type": "fill_in",
+              "question": "A jet flies 900 km in 1.5 hours. Its average speed is ___ km/h.",
+              "answer": "600",
+              "hint": "Divide 900 by 1.5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Instantaneous velocity includes:",
+              "options": [
+                "Magnitude only",
+                "Direction only",
+                "Both magnitude and direction",
+                "Neither"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Average velocity can equal zero when average speed is not zero.",
+              "answer": "true",
+              "hint": "If displacement is zero but distance is not."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-1-3",
+          "title": "Acceleration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Acceleration is the rate at which velocity changes with time: a = \u0394v / \u0394t = (v_f \u2212 v_i) / t. The SI unit is meters per second squared (m/s\u00b2). Positive acceleration means velocity is increasing in the positive direction; negative acceleration (sometimes called deceleration when it opposes the motion) means velocity is decreasing or increasing in the negative direction. An object with constant (uniform) acceleration changes its velocity by the same amount every second. For example, if a car accelerates at 3 m/s\u00b2, its velocity increases by 3 m/s each second. Even an object moving at constant speed can be accelerating if its direction changes, because velocity includes direction. Acceleration is a vector quantity.",
+            "examples": [
+              {
+                "problem": "A car goes from 0 to 20 m/s in 5 seconds. What is its acceleration?",
+                "answer": "4 m/s\u00b2",
+                "explanation": "a = (v_f \u2212 v_i) / t = (20 \u2212 0) / 5 = 4 m/s\u00b2."
+              },
+              {
+                "problem": "A bicycle slows from 12 m/s to 4 m/s in 2 seconds. What is the acceleration?",
+                "answer": "-4 m/s\u00b2",
+                "explanation": "a = (4 \u2212 12) / 2 = \u22128 / 2 = \u22124 m/s\u00b2. The negative sign indicates the bicycle is slowing down."
+              },
+              {
+                "problem": "An object accelerates at 2 m/s\u00b2 from rest. What is its velocity after 6 seconds?",
+                "answer": "12 m/s",
+                "explanation": "v_f = v_i + at = 0 + 2 \u00d7 6 = 12 m/s."
+              }
+            ],
+            "key_vocabulary": [
+              "acceleration",
+              "deceleration",
+              "uniform acceleration",
+              "meters per second squared",
+              "rate of change",
+              "velocity"
+            ],
+            "real_world": "When you feel pushed back into your seat during a car's hard acceleration or pushed forward when braking, you are experiencing the effects of acceleration. Roller coasters are designed to create dramatic accelerations that thrill riders."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Acceleration = change in velocity \u00f7 change in ___.",
+              "answer": "time"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A car accelerates from 10 m/s to 30 m/s in 4 s. What is the acceleration?",
+              "options": [
+                "5 m/s\u00b2",
+                "10 m/s\u00b2",
+                "40 m/s\u00b2",
+                "20 m/s\u00b2"
+              ],
+              "correct": 0,
+              "hint": "a = (30 \u2212 10) / 4."
+            },
+            {
+              "type": "fill_in",
+              "question": "An object moving at constant speed in a circle has zero acceleration.",
+              "answer": "false",
+              "hint": "Direction is changing, so there is centripetal acceleration."
+            },
+            {
+              "type": "fill_in",
+              "question": "If a = 3 m/s\u00b2 and the object starts from rest, velocity after 5 s is ___ m/s.",
+              "answer": "15",
+              "hint": "v = 0 + 3 \u00d7 5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does negative acceleration indicate?",
+              "options": [
+                "The object stopped",
+                "Velocity is decreasing or increasing in the negative direction",
+                "Speed is always zero",
+                "The object reversed direction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The SI unit of acceleration is:",
+              "options": [
+                "m/s",
+                "m/s\u00b2",
+                "km/h",
+                "N"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-1-4",
+          "title": "Free Fall and Kinematic Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "Free fall is the motion of an object under the influence of gravity alone, with no air resistance. Near Earth's surface the acceleration due to gravity is g \u2248 9.8 m/s\u00b2 directed downward. All objects in free fall accelerate at the same rate regardless of mass (Galileo's insight). The kinematic equations for constant acceleration are: (1) v_f = v_i + at, (2) \u0394x = v_i\u00b7t + \u00bdat\u00b2, (3) v_f\u00b2 = v_i\u00b2 + 2a\u0394x, (4) \u0394x = \u00bd(v_i + v_f)t. For free fall, replace a with g (taking downward as positive) or \u2212g (taking upward as positive). A ball thrown straight up slows at 9.8 m/s\u00b2 until it stops momentarily at its peak, then falls back accelerating at 9.8 m/s\u00b2.",
+            "examples": [
+              {
+                "problem": "A ball is dropped from rest. How far does it fall in 3 seconds? (g = 9.8 m/s\u00b2)",
+                "answer": "44.1 m",
+                "explanation": "\u0394x = v_i\u00b7t + \u00bdgt\u00b2 = 0 + \u00bd(9.8)(3\u00b2) = 0.5 \u00d7 9.8 \u00d7 9 = 44.1 m."
+              },
+              {
+                "problem": "A stone is thrown upward at 19.6 m/s. How long until it reaches its peak?",
+                "answer": "2 s",
+                "explanation": "At the peak v_f = 0. Using v_f = v_i \u2212 gt: 0 = 19.6 \u2212 9.8t \u2192 t = 19.6 / 9.8 = 2 s."
+              },
+              {
+                "problem": "A car accelerates from 10 m/s at 2 m/s\u00b2 for 100 m. What is the final velocity?",
+                "answer": "22.4 m/s",
+                "explanation": "v_f\u00b2 = v_i\u00b2 + 2a\u0394x = 100 + 400 = 500 \u2192 v_f = \u221a500 \u2248 22.4 m/s."
+              }
+            ],
+            "key_vocabulary": [
+              "free fall",
+              "acceleration due to gravity",
+              "kinematic equations",
+              "g = 9.8 m/s\u00b2",
+              "projectile",
+              "constant acceleration"
+            ],
+            "real_world": "Skydivers experience free fall before opening their parachutes. On the Moon, g is only 1.6 m/s\u00b2, so astronauts can jump much higher and objects fall much more slowly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In free fall near Earth, acceleration is approximately:",
+              "options": [
+                "5 m/s\u00b2",
+                "9.8 m/s\u00b2",
+                "15 m/s\u00b2",
+                "0 m/s\u00b2"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A ball is dropped from rest. Its speed after 2 s is ___ m/s. (Use g = 9.8)",
+              "answer": "19.6",
+              "hint": "v = 0 + 9.8 \u00d7 2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which kinematic equation does NOT include time?",
+              "options": [
+                "v_f = v_i + at",
+                "\u0394x = v_i\u00b7t + \u00bdat\u00b2",
+                "v_f\u00b2 = v_i\u00b2 + 2a\u0394x",
+                "\u0394x = \u00bd(v_i + v_f)t"
+              ],
+              "correct": 2,
+              "hint": "This equation relates velocities, acceleration, and displacement without time."
+            },
+            {
+              "type": "fill_in",
+              "question": "A ball dropped from rest falls ___ m in 1 second. (Use g = 9.8)",
+              "answer": "4.9",
+              "hint": "\u0394x = \u00bd(9.8)(1\u00b2) = 4.9 m."
+            },
+            {
+              "type": "fill_in",
+              "question": "A heavier object falls faster than a lighter object in a vacuum.",
+              "answer": "false",
+              "hint": "In a vacuum (no air resistance), all objects fall at the same rate."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A ball thrown upward at 29.4 m/s reaches its peak in:",
+              "options": [
+                "1 s",
+                "2 s",
+                "3 s",
+                "4 s"
+              ],
+              "correct": 2,
+              "hint": "t = v_i / g = 29.4 / 9.8."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-1-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Displacement is a:",
+            "options": [
+              "Scalar",
+              "Vector",
+              "Unit",
+              "Constant"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A car goes from 0 to 25 m/s in 5 s. Acceleration = ___ m/s\u00b2.",
+            "answer": "5"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In free fall, all objects near Earth accelerate at approximately:",
+            "options": [
+              "5 m/s\u00b2",
+              "9.8 m/s\u00b2",
+              "20 m/s\u00b2",
+              "1 m/s\u00b2"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Using \u0394x = \u00bdgt\u00b2, a dropped object falls ___ m in 2 s. (g = 9.8)",
+            "answer": "19.6"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Average velocity is zero when:",
+            "options": [
+              "Speed is zero",
+              "Displacement is zero",
+              "Distance is zero",
+              "Acceleration is zero"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "kinematics_master"
+      }
+    },
+    {
+      "id": "11-science-2",
+      "title": "Newton's Laws of Motion",
+      "description": "Understand and apply Newton's three laws of motion, draw free body diagrams, and analyze friction.",
+      "lessons": [
+        {
+          "id": "11-science-2-1",
+          "title": "Newton's First Law: Inertia",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's First Law states that an object at rest stays at rest, and an object in motion stays in motion with constant velocity, unless acted upon by a net external force. This tendency of objects to resist changes in their state of motion is called inertia. Mass is the measure of inertia \u2014 the greater an object's mass, the harder it is to change its motion. A net force of zero means the forces on an object are balanced: the object is in equilibrium. An object in equilibrium is either stationary or moving at constant velocity. Newton's First Law is sometimes called the Law of Inertia. It explains why passengers lurch forward when a bus stops suddenly \u2014 your body wants to keep moving forward even though the bus has stopped.",
+            "examples": [
+              {
+                "problem": "A hockey puck slides on frictionless ice. What happens to its motion?",
+                "answer": "It continues at constant velocity forever",
+                "explanation": "With no friction (no net force), Newton's First Law says the puck will keep moving in a straight line at the same speed."
+              },
+              {
+                "problem": "A book sits on a table. What forces act on it and why doesn't it move?",
+                "answer": "Gravity pulls it down; the normal force pushes it up. The net force is zero.",
+                "explanation": "The two forces are equal and opposite, so they are balanced. The book is in equilibrium."
+              },
+              {
+                "problem": "Why do passengers in a car lurch forward when the brakes are applied?",
+                "answer": "Inertia \u2014 their bodies tend to keep moving forward",
+                "explanation": "The car decelerates due to brakes, but passengers' bodies resist the change in motion (inertia) and continue forward."
+              }
+            ],
+            "key_vocabulary": [
+              "inertia",
+              "Newton's First Law",
+              "net force",
+              "equilibrium",
+              "balanced forces",
+              "mass",
+              "Law of Inertia"
+            ],
+            "real_world": "Seatbelts protect you because of inertia. In a crash, the car stops suddenly, but your body keeps moving forward. The seatbelt provides the force to decelerate your body along with the car."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Newton's First Law is also called the Law of:",
+              "options": [
+                "Gravity",
+                "Inertia",
+                "Acceleration",
+                "Action-Reaction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A moving object with no net force acting on it will eventually stop.",
+              "answer": "false",
+              "hint": "It will continue at constant velocity."
+            },
+            {
+              "type": "fill_in",
+              "question": "The measure of an object's inertia is its ___.",
+              "answer": "mass"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An object at rest will remain at rest unless acted on by:",
+              "options": [
+                "Gravity alone",
+                "A net external force",
+                "Friction alone",
+                "Its own weight"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A ball rolling on a frictionless surface will:",
+              "options": [
+                "Speed up",
+                "Slow down",
+                "Continue at constant velocity",
+                "Stop immediately"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "When forces on an object are balanced, the net force is ___.",
+              "answer": "zero",
+              "hint": "Balanced forces cancel out."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-2-2",
+          "title": "Newton's Second Law: F = ma",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Second Law states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass: F_net = ma, or equivalently a = F_net / m. The SI unit of force is the newton (N), where 1 N = 1 kg\u00b7m/s\u00b2. If you double the net force on an object, its acceleration doubles. If you double the mass while keeping force the same, acceleration is halved. The direction of acceleration is always the same as the direction of the net force. This law is the foundation for solving most mechanics problems: identify all forces, find the net force, then compute the acceleration.",
+            "examples": [
+              {
+                "problem": "A 5 kg box is pushed with a net force of 20 N. What is its acceleration?",
+                "answer": "4 m/s\u00b2",
+                "explanation": "a = F / m = 20 N / 5 kg = 4 m/s\u00b2."
+              },
+              {
+                "problem": "What net force is needed to accelerate a 1000 kg car at 3 m/s\u00b2?",
+                "answer": "3000 N",
+                "explanation": "F = ma = 1000 kg \u00d7 3 m/s\u00b2 = 3000 N."
+              },
+              {
+                "problem": "A 2 kg ball and a 4 kg ball experience the same force. Which accelerates more?",
+                "answer": "The 2 kg ball accelerates twice as much",
+                "explanation": "a = F/m. With the same F, smaller m gives larger a. The 2 kg ball has half the mass so double the acceleration."
+              }
+            ],
+            "key_vocabulary": [
+              "Newton's Second Law",
+              "net force",
+              "acceleration",
+              "mass",
+              "newton (N)",
+              "F = ma",
+              "directly proportional",
+              "inversely proportional"
+            ],
+            "real_world": "When you push a shopping cart, a lighter empty cart accelerates easily while a fully loaded heavy cart is much harder to accelerate \u2014 a direct demonstration of F = ma."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "F = m \u00d7 ___.",
+              "answer": "a"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 10 kg object has a net force of 50 N. Its acceleration is:",
+              "options": [
+                "0.2 m/s\u00b2",
+                "5 m/s\u00b2",
+                "500 m/s\u00b2",
+                "60 m/s\u00b2"
+              ],
+              "correct": 1,
+              "hint": "a = F/m = 50/10."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If you triple the net force on an object (mass constant), acceleration:",
+              "options": [
+                "Triples",
+                "Is halved",
+                "Stays the same",
+                "Is reduced to one-third"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "1 newton = 1 kg \u00d7 1 ___.",
+              "answer": "m/s\u00b2",
+              "hint": "The unit definition of a newton."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 3 kg and a 6 kg object feel the same net force. The 3 kg object's acceleration is:",
+              "options": [
+                "Half the 6 kg's",
+                "Twice the 6 kg's",
+                "Same as the 6 kg's",
+                "Three times the 6 kg's"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The net force needed to accelerate a 4 kg mass at 5 m/s\u00b2 is ___ N.",
+              "answer": "20",
+              "hint": "F = 4 \u00d7 5."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-2-3",
+          "title": "Newton's Third Law and Free Body Diagrams",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Third Law states: for every action, there is an equal and opposite reaction. When object A exerts a force on object B, object B simultaneously exerts a force of equal magnitude but opposite direction on object A. These are called action-reaction pairs, and they always act on different objects. A free body diagram (FBD) is a sketch of a single object showing all the forces acting on it as arrows. Common forces include gravity (weight, W = mg, downward), normal force (perpendicular to surface), friction (opposing motion along surface), tension (along a rope or string), and applied forces. Drawing accurate FBDs is essential for applying Newton's Second Law: once you identify all forces, you sum them to find the net force.",
+            "examples": [
+              {
+                "problem": "You push on a wall with 50 N. What force does the wall exert on you?",
+                "answer": "50 N in the opposite direction",
+                "explanation": "By Newton's Third Law, the wall pushes back on you with 50 N. The action-reaction pair: your push on wall, wall's push on you."
+              },
+              {
+                "problem": "Draw a free body diagram for a box sliding on a rough floor. What forces act on it?",
+                "answer": "Weight (down), Normal force (up), Friction (opposing motion), Applied force (direction of push)",
+                "explanation": "Four forces: gravity pulls down, the floor's normal force pushes up, friction opposes the sliding direction, and the applied push acts in the direction of motion."
+              },
+              {
+                "problem": "A 10 kg object rests on a table. What is the normal force?",
+                "answer": "98 N upward",
+                "explanation": "Weight = mg = 10 \u00d7 9.8 = 98 N downward. Since the object is in equilibrium, the normal force equals 98 N upward."
+              }
+            ],
+            "key_vocabulary": [
+              "Newton's Third Law",
+              "action-reaction pair",
+              "free body diagram",
+              "normal force",
+              "weight",
+              "friction",
+              "tension",
+              "applied force"
+            ],
+            "real_world": "When you walk, you push backward on the ground with your foot, and the ground pushes you forward (Newton's Third Law). Without this reaction force \u2014 like on very slippery ice \u2014 you cannot walk."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Newton's Third Law pairs always act on:",
+              "options": [
+                "The same object",
+                "Two different objects",
+                "Only massive objects",
+                "Only touching objects"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "You push a box with 30 N. The box pushes back on you with ___ N.",
+              "answer": "30"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which force acts perpendicular to a surface?",
+              "options": [
+                "Friction",
+                "Tension",
+                "Normal force",
+                "Weight"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "The weight of a 5 kg object is ___ N. (g = 9.8)",
+              "answer": "49",
+              "hint": "W = mg = 5 \u00d7 9.8."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a free body diagram, friction acts:",
+              "options": [
+                "Perpendicular to the surface",
+                "Opposite to the direction of motion",
+                "Upward always",
+                "In the same direction as motion"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Action-reaction forces cancel each other out.",
+              "answer": "false",
+              "hint": "They act on different objects so they cannot cancel."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-2-4",
+          "title": "Friction",
+          "type": "lesson",
+          "content": {
+            "explanation": "Friction is a contact force that opposes the relative motion or tendency of motion between two surfaces. There are two main types: static friction prevents an object from starting to move, and kinetic (sliding) friction acts on an object that is already moving. The magnitude of friction depends on the normal force and the coefficient of friction: f = \u03bcN, where \u03bc is the coefficient of friction (a dimensionless number). Static friction can vary from zero up to a maximum value f_s,max = \u03bc_s \u00d7 N. Once the applied force exceeds f_s,max, the object starts moving and kinetic friction takes over: f_k = \u03bc_k \u00d7 N. Typically \u03bc_s > \u03bc_k, meaning it takes more force to start an object moving than to keep it moving. Friction depends on the nature of the surfaces and the normal force, not on the contact area.",
+            "examples": [
+              {
+                "problem": "A 20 kg crate rests on a floor with \u03bc_s = 0.4. What is the maximum static friction?",
+                "answer": "78.4 N",
+                "explanation": "N = mg = 20 \u00d7 9.8 = 196 N. f_s,max = \u03bc_s \u00d7 N = 0.4 \u00d7 196 = 78.4 N."
+              },
+              {
+                "problem": "A 10 kg box slides on a surface with \u03bc_k = 0.3. What is the kinetic friction force?",
+                "answer": "29.4 N",
+                "explanation": "N = mg = 10 \u00d7 9.8 = 98 N. f_k = \u03bc_k \u00d7 N = 0.3 \u00d7 98 = 29.4 N."
+              },
+              {
+                "problem": "Why is it harder to start pushing a heavy box than to keep it sliding?",
+                "answer": "Static friction is greater than kinetic friction (\u03bc_s > \u03bc_k)",
+                "explanation": "The maximum static friction force exceeds the kinetic friction force, so more force is needed to start the motion."
+              }
+            ],
+            "key_vocabulary": [
+              "friction",
+              "static friction",
+              "kinetic friction",
+              "coefficient of friction",
+              "normal force",
+              "\u03bc_s",
+              "\u03bc_k",
+              "contact force"
+            ],
+            "real_world": "Car brakes use friction between brake pads and rotors to slow down. Anti-lock braking systems (ABS) keep the wheels from locking up to maintain static friction (which is greater than kinetic friction) for better stopping."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The formula for friction is f = \u03bc \u00d7 ___.",
+              "answer": "N",
+              "hint": "N is the normal force."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is typically larger?",
+              "options": [
+                "Static friction coefficient",
+                "Kinetic friction coefficient",
+                "They are always equal",
+                "Depends on mass"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "A 50 kg box on a floor (\u03bc_k = 0.2, g = 9.8). Kinetic friction = ___ N.",
+              "answer": "98",
+              "hint": "N = 50 \u00d7 9.8 = 490. f = 0.2 \u00d7 490 = 98."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Friction depends on:",
+              "options": [
+                "Contact area",
+                "Normal force and surface type",
+                "Color of object",
+                "Object's velocity only"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Kinetic friction acts on objects that are stationary.",
+              "answer": "false",
+              "hint": "Kinetic friction acts on moving objects; static friction acts on stationary ones."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 10 kg block on a surface with \u03bc_s = 0.5. Max static friction is (g=10):",
+              "options": [
+                "5 N",
+                "50 N",
+                "100 N",
+                "500 N"
+              ],
+              "correct": 1,
+              "hint": "f = 0.5 \u00d7 10 \u00d7 10 = 50 N."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-2-quiz",
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Newton's Second Law is expressed as:",
+            "options": [
+              "F = mv",
+              "F = ma",
+              "F = mg",
+              "F = \u03bcN"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A 4 kg object with net force 12 N has acceleration ___ m/s\u00b2.",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Action-reaction forces act on:",
+            "options": [
+              "The same object",
+              "Two different objects",
+              "Only heavy objects",
+              "Surfaces only"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Friction force = \u03bc \u00d7 ___.",
+            "answer": "N"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An object at rest with balanced forces is in:",
+            "options": [
+              "Free fall",
+              "Equilibrium",
+              "Acceleration",
+              "Deceleration"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "newtons_laws_master"
+      }
+    },
+    {
+      "id": "11-science-3",
+      "title": "Work, Energy, and Power",
+      "description": "Calculate work done by forces, analyze kinetic and potential energy, apply conservation of energy, and compute power.",
+      "lessons": [
+        {
+          "id": "11-science-3-1",
+          "title": "Work",
+          "type": "lesson",
+          "content": {
+            "explanation": "In physics, work is done when a force causes a displacement. Work is calculated as W = Fd cos \u03b8, where F is the magnitude of the force, d is the displacement, and \u03b8 is the angle between the force and displacement vectors. Work is a scalar quantity measured in joules (J), where 1 J = 1 N\u00b7m. If the force is in the same direction as the displacement (\u03b8 = 0\u00b0), W = Fd. If the force is perpendicular to displacement (\u03b8 = 90\u00b0), W = 0 (no work done). If the force opposes displacement (\u03b8 = 180\u00b0), work is negative (like friction removing energy). Only the component of force along the direction of motion does work.",
+            "examples": [
+              {
+                "problem": "You push a box with 50 N over 3 m in the same direction. How much work?",
+                "answer": "150 J",
+                "explanation": "W = Fd cos 0\u00b0 = 50 \u00d7 3 \u00d7 1 = 150 J."
+              },
+              {
+                "problem": "You carry a 10 kg box horizontally for 5 m. How much work do you do on the box?",
+                "answer": "0 J",
+                "explanation": "The force you exert (upward, supporting the weight) is perpendicular to the displacement (horizontal). cos 90\u00b0 = 0, so W = 0."
+              },
+              {
+                "problem": "Friction of 20 N acts on a sliding crate that moves 4 m. Work by friction?",
+                "answer": "-80 J",
+                "explanation": "Friction opposes motion, so \u03b8 = 180\u00b0. W = 20 \u00d7 4 \u00d7 cos 180\u00b0 = 20 \u00d7 4 \u00d7 (\u22121) = \u221280 J."
+              }
+            ],
+            "key_vocabulary": [
+              "work",
+              "joule",
+              "force",
+              "displacement",
+              "W = Fd cos \u03b8",
+              "scalar",
+              "perpendicular"
+            ],
+            "real_world": "When you climb stairs, you do work against gravity. A person climbing a 3 m staircase does W = mgh of work \u2014 that energy comes from the food they ate."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Work = Force \u00d7 ___ \u00d7 cos \u03b8.",
+              "answer": "displacement"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A force perpendicular to displacement does ___ work.",
+              "options": [
+                "Positive",
+                "Negative",
+                "Zero",
+                "Maximum"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "50 N force moves an object 4 m in the same direction. Work = ___ J.",
+              "answer": "200",
+              "hint": "W = 50 \u00d7 4 = 200."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The SI unit of work is:",
+              "options": [
+                "Watt",
+                "Newton",
+                "Joule",
+                "Pascal"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Friction does ___ work on a sliding object.",
+              "options": [
+                "Positive",
+                "Zero",
+                "Negative",
+                "Infinite"
+              ],
+              "correct": 2,
+              "hint": "Friction opposes motion, so \u03b8 = 180\u00b0."
+            },
+            {
+              "type": "fill_in",
+              "question": "1 joule = 1 newton \u00d7 1 ___.",
+              "answer": "meter"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-3-2",
+          "title": "Kinetic and Potential Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "Energy is the ability to do work. Kinetic energy (KE) is the energy of motion: KE = \u00bdmv\u00b2, where m is mass and v is speed. Doubling the speed quadruples the kinetic energy. Gravitational potential energy (PE) is stored energy due to an object's height above a reference point: PE = mgh, where m is mass, g is acceleration due to gravity, and h is height. Elastic potential energy is stored in stretched or compressed springs: PE_spring = \u00bdkx\u00b2, where k is the spring constant and x is the displacement from equilibrium. Energy is measured in joules (J). The work-energy theorem states that the net work done on an object equals its change in kinetic energy: W_net = \u0394KE.",
+            "examples": [
+              {
+                "problem": "A 2 kg ball moves at 3 m/s. What is its kinetic energy?",
+                "answer": "9 J",
+                "explanation": "KE = \u00bdmv\u00b2 = \u00bd \u00d7 2 \u00d7 3\u00b2 = \u00bd \u00d7 2 \u00d7 9 = 9 J."
+              },
+              {
+                "problem": "A 5 kg rock is 10 m above the ground. What is its gravitational PE? (g = 9.8)",
+                "answer": "490 J",
+                "explanation": "PE = mgh = 5 \u00d7 9.8 \u00d7 10 = 490 J."
+              },
+              {
+                "problem": "If you double the speed of an object, how does KE change?",
+                "answer": "KE quadruples (increases by a factor of 4)",
+                "explanation": "KE = \u00bdmv\u00b2. If v becomes 2v: KE = \u00bdm(2v)\u00b2 = \u00bdm \u00d7 4v\u00b2 = 4 \u00d7 (\u00bdmv\u00b2)."
+              }
+            ],
+            "key_vocabulary": [
+              "kinetic energy",
+              "potential energy",
+              "gravitational PE",
+              "elastic PE",
+              "KE = \u00bdmv\u00b2",
+              "PE = mgh",
+              "joule",
+              "work-energy theorem"
+            ],
+            "real_world": "A roller coaster at the top of the first hill has maximum potential energy. As it descends, PE converts to KE and the coaster speeds up. Engineers design the first hill to be the tallest so there is enough energy for the whole ride."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "KE = \u00bd \u00d7 m \u00d7 v\u00b2 . A 4 kg object at 5 m/s has KE = ___ J.",
+              "answer": "50",
+              "hint": "\u00bd \u00d7 4 \u00d7 25 = 50."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Doubling an object's speed multiplies its KE by:",
+              "options": [
+                "2",
+                "4",
+                "8",
+                "16"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "PE = mgh. A 3 kg object at 20 m height (g = 10) has PE = ___ J.",
+              "answer": "600",
+              "hint": "3 \u00d7 10 \u00d7 20 = 600."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which type of energy is stored in a compressed spring?",
+              "options": [
+                "Kinetic",
+                "Gravitational PE",
+                "Elastic PE",
+                "Thermal"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "The work-energy theorem says net work equals the change in ___ energy.",
+              "answer": "kinetic"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "As a ball falls, its PE ___ and its KE ___.",
+              "options": [
+                "Increases, decreases",
+                "Decreases, increases",
+                "Increases, increases",
+                "Decreases, decreases"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-3-3",
+          "title": "Conservation of Energy",
+          "type": "lesson",
+          "content": {
+            "explanation": "The law of conservation of energy states that energy cannot be created or destroyed \u2014 it can only be transformed from one form to another. The total energy of an isolated system remains constant. In a mechanical system (ignoring friction), the total mechanical energy E = KE + PE remains constant: KE_1 + PE_1 = KE_2 + PE_2. When a ball is thrown upward, KE converts to PE on the way up, and PE converts back to KE on the way down. At the highest point, all energy is PE (KE = 0). In real systems, friction converts some mechanical energy into thermal energy (heat), so mechanical energy decreases while total energy (including heat) is conserved.",
+            "examples": [
+              {
+                "problem": "A 2 kg ball is dropped from 5 m. What is its speed just before hitting the ground? (g = 9.8)",
+                "answer": "9.9 m/s",
+                "explanation": "PE_top = KE_bottom: mgh = \u00bdmv\u00b2 \u2192 v = \u221a(2gh) = \u221a(2 \u00d7 9.8 \u00d7 5) = \u221a98 \u2248 9.9 m/s."
+              },
+              {
+                "problem": "A pendulum has 10 J of PE at the top of its swing. What is its KE at the bottom?",
+                "answer": "10 J",
+                "explanation": "At the bottom, all PE has converted to KE (assuming no friction): KE = 10 J."
+              },
+              {
+                "problem": "A roller coaster car has 5000 J of total mechanical energy. At a point where PE = 3000 J, what is KE?",
+                "answer": "2000 J",
+                "explanation": "KE = E \u2212 PE = 5000 \u2212 3000 = 2000 J."
+              }
+            ],
+            "key_vocabulary": [
+              "conservation of energy",
+              "mechanical energy",
+              "isolated system",
+              "transformation",
+              "thermal energy",
+              "total energy"
+            ],
+            "real_world": "Hydroelectric dams convert the gravitational potential energy of water stored at height into kinetic energy of flowing water, which turns turbines to generate electrical energy \u2014 a series of energy transformations with total energy conserved."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Energy can be:",
+              "options": [
+                "Created",
+                "Destroyed",
+                "Transformed from one form to another",
+                "Made from nothing"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "At the top of its arc, a thrown ball has maximum ___ energy.",
+              "answer": "potential"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If KE + PE = constant (no friction), this illustrates:",
+              "options": [
+                "Newton's Third Law",
+                "Conservation of energy",
+                "Conservation of momentum",
+                "Work-energy theorem"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A 1 kg ball dropped from 20 m (g = 10). Speed at ground = \u221a(2 \u00d7 10 \u00d7 20) = ___ m/s.",
+              "answer": "20"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Friction converts mechanical energy into:",
+              "options": [
+                "Nuclear energy",
+                "Elastic energy",
+                "Thermal energy",
+                "Chemical energy"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "If a system has 100 J total energy, with KE = 60 J, then PE = ___ J.",
+              "answer": "40"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-3-4",
+          "title": "Power",
+          "type": "lesson",
+          "content": {
+            "explanation": "Power is the rate at which work is done or energy is transferred. Power = Work / time: P = W / t. The SI unit is the watt (W), where 1 W = 1 J/s. A more powerful machine does the same work in less time, or more work in the same time. Power can also be expressed as P = Fv, where F is force and v is velocity (useful for objects moving at constant velocity against a force). One horsepower (hp) \u2248 746 watts. Kilowatts (kW) and megawatts (MW) are common for larger power values. Your household electricity bill measures energy in kilowatt-hours (kWh), which is a unit of energy: 1 kWh = 3.6 \u00d7 10\u2076 J.",
+            "examples": [
+              {
+                "problem": "A motor does 500 J of work in 10 seconds. What is its power output?",
+                "answer": "50 W",
+                "explanation": "P = W / t = 500 / 10 = 50 W."
+              },
+              {
+                "problem": "A car engine exerts 2000 N of force while driving at 20 m/s. What power does it deliver?",
+                "answer": "40,000 W (40 kW)",
+                "explanation": "P = Fv = 2000 \u00d7 20 = 40,000 W = 40 kW."
+              },
+              {
+                "problem": "Two students each carry a 20 kg box up a 5 m staircase. Student A takes 10 s, Student B takes 20 s. Who is more powerful?",
+                "answer": "Student A \u2014 same work, less time",
+                "explanation": "Both do the same work: W = mgh = 20 \u00d7 9.8 \u00d7 5 = 980 J. Student A: P = 980/10 = 98 W. Student B: P = 980/20 = 49 W. Student A is twice as powerful."
+              }
+            ],
+            "key_vocabulary": [
+              "power",
+              "watt",
+              "P = W/t",
+              "P = Fv",
+              "horsepower",
+              "kilowatt",
+              "kilowatt-hour",
+              "rate"
+            ],
+            "real_world": "A 60 W light bulb uses 60 joules of energy every second. If left on for 1 hour, it uses 60 \u00d7 3600 = 216,000 J = 0.06 kWh of energy."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Power = Work \u00f7 ___.",
+              "answer": "time"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The SI unit of power is:",
+              "options": [
+                "Joule",
+                "Newton",
+                "Watt",
+                "Horsepower"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A machine does 1000 J in 5 s. Its power is ___ W.",
+              "answer": "200",
+              "hint": "P = 1000 / 5."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "P = Fv is useful when an object moves at:",
+              "options": [
+                "Constant acceleration",
+                "Constant velocity",
+                "Rest",
+                "Free fall"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "1 horsepower \u2248 ___ watts.",
+              "answer": "746"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Two machines do the same work. Machine A takes half the time. Machine A's power is:",
+              "options": [
+                "Half of B's",
+                "Same as B's",
+                "Twice B's",
+                "Four times B's"
+              ],
+              "correct": 2
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-3-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "W = Fd. A 100 N force over 5 m does ___ J of work.",
+            "answer": "500"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "KE = \u00bdmv\u00b2. Doubling speed multiplies KE by:",
+            "options": [
+              "2",
+              "3",
+              "4",
+              "8"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Conservation of energy states energy cannot be:",
+            "options": [
+              "Transformed",
+              "Transferred",
+              "Created or destroyed",
+              "Measured"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "fill_in",
+            "question": "Power = 600 J / 3 s = ___ W.",
+            "answer": "200"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A force perpendicular to displacement does:",
+            "options": [
+              "Maximum work",
+              "Negative work",
+              "Zero work",
+              "Positive work"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "energy_master"
+      }
+    },
+    {
+      "id": "11-science-4",
+      "title": "Momentum",
+      "description": "Analyze momentum, impulse, conservation of momentum, and collisions in physical systems.",
+      "lessons": [
+        {
+          "id": "11-science-4-1",
+          "title": "Momentum and Impulse",
+          "type": "lesson",
+          "content": {
+            "explanation": "Momentum is the product of an object's mass and velocity: p = mv. It is a vector quantity measured in kg\u00b7m/s. A heavy slow object can have the same momentum as a light fast object. Impulse is the change in momentum and equals force multiplied by the time interval: J = F\u0394t = \u0394p = m(v_f \u2212 v_i). The impulse-momentum theorem connects force and momentum change: the impulse delivered to an object equals its change in momentum. To reduce the force of impact, increase the time of collision. This is why cars have crumple zones, why you bend your knees when landing a jump, and why airbags inflate during crashes.",
+            "examples": [
+              {
+                "problem": "A 0.5 kg ball moves at 10 m/s. What is its momentum?",
+                "answer": "5 kg\u00b7m/s",
+                "explanation": "p = mv = 0.5 \u00d7 10 = 5 kg\u00b7m/s."
+              },
+              {
+                "problem": "A 1000 kg car going 20 m/s stops in 4 s. What average force acts on it?",
+                "answer": "5000 N",
+                "explanation": "\u0394p = m(v_f \u2212 v_i) = 1000(0 \u2212 20) = \u221220,000 kg\u00b7m/s. F = \u0394p/\u0394t = \u221220,000/4 = \u22125,000 N. The magnitude is 5000 N."
+              },
+              {
+                "problem": "Why do airbags reduce injury?",
+                "answer": "They increase the time of collision, reducing the force",
+                "explanation": "J = F\u0394t is constant (same \u0394p). If \u0394t increases, F decreases. Airbags increase collision time, lowering the force on the person."
+              }
+            ],
+            "key_vocabulary": [
+              "momentum",
+              "impulse",
+              "p = mv",
+              "J = F\u0394t",
+              "impulse-momentum theorem",
+              "kg\u00b7m/s",
+              "vector"
+            ],
+            "real_world": "Football players are taught to tackle by extending the contact time (wrapping arms and driving) rather than delivering a short sharp hit, which actually reduces peak force but applies it longer, still changing the ball carrier's momentum."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Momentum = mass \u00d7 ___.",
+              "answer": "velocity"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A 3 kg object at 4 m/s has momentum:",
+              "options": [
+                "7 kg\u00b7m/s",
+                "12 kg\u00b7m/s",
+                "0.75 kg\u00b7m/s",
+                "1.33 kg\u00b7m/s"
+              ],
+              "correct": 1,
+              "hint": "p = 3 \u00d7 4."
+            },
+            {
+              "type": "fill_in",
+              "question": "Impulse = Force \u00d7 ___.",
+              "answer": "time",
+              "hint": "Or equivalently, impulse = change in momentum."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "To reduce impact force, you should:",
+              "options": [
+                "Decrease collision time",
+                "Increase collision time",
+                "Increase mass",
+                "Decrease velocity before impact"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A 2 kg ball changes speed from 5 to 15 m/s. Change in momentum = ___ kg\u00b7m/s.",
+              "answer": "20",
+              "hint": "\u0394p = 2 \u00d7 (15 \u2212 5) = 20."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Momentum is a:",
+              "options": [
+                "Scalar",
+                "Vector",
+                "Dimensionless number",
+                "Unit"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-4-2",
+          "title": "Conservation of Momentum",
+          "type": "lesson",
+          "content": {
+            "explanation": "The law of conservation of momentum states that the total momentum of a closed system remains constant if no external net force acts on it. For two objects: m\u2081v\u2081_i + m\u2082v\u2082_i = m\u2081v\u2081_f + m\u2082v\u2082_f. This applies to all collisions, explosions, and interactions within a closed system. In a collision between two billiard balls, the total momentum before the collision equals the total momentum after the collision. Even if individual objects change speed or direction, the system's total momentum is conserved. This law is one of the most fundamental principles in physics and holds true in every known physical process.",
+            "examples": [
+              {
+                "problem": "A 2 kg cart moving at 3 m/s collides with a stationary 1 kg cart. They stick together. What is the final velocity?",
+                "answer": "2 m/s",
+                "explanation": "m\u2081v\u2081 + m\u2082v\u2082 = (m\u2081 + m\u2082)v_f \u2192 2(3) + 1(0) = 3v_f \u2192 v_f = 6/3 = 2 m/s."
+              },
+              {
+                "problem": "A 5 kg rifle fires a 0.01 kg bullet at 500 m/s. What is the rifle's recoil velocity?",
+                "answer": "-1 m/s",
+                "explanation": "Initial momentum = 0. So: 0 = 5v_rifle + 0.01(500) \u2192 5v_rifle = \u22125 \u2192 v_rifle = \u22121 m/s (backward)."
+              },
+              {
+                "problem": "Two 1 kg balls approach each other at 5 m/s and \u22125 m/s. What is total momentum?",
+                "answer": "0 kg\u00b7m/s",
+                "explanation": "p_total = 1(5) + 1(\u22125) = 0 kg\u00b7m/s. Total momentum is zero and will remain zero after collision."
+              }
+            ],
+            "key_vocabulary": [
+              "conservation of momentum",
+              "closed system",
+              "external force",
+              "total momentum",
+              "collision",
+              "recoil"
+            ],
+            "real_world": "Rocket propulsion works by conservation of momentum: the rocket expels exhaust gases backward at high speed, and the rocket itself moves forward. The total momentum of the rocket-plus-exhaust system stays constant."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Conservation of momentum applies when:",
+              "options": [
+                "Friction is present",
+                "No net external force acts on the system",
+                "Energy is conserved",
+                "Objects are at rest"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Before collision: 4 kg at 3 m/s, 2 kg at 0 m/s. Total momentum = ___ kg\u00b7m/s.",
+              "answer": "12"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Two objects with equal and opposite momenta have a total momentum of:",
+              "options": [
+                "Double",
+                "Half",
+                "Zero",
+                "Infinite"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A 3 kg cart at 4 m/s hits a 1 kg stationary cart and they stick. Final velocity = ___ m/s.",
+              "answer": "3",
+              "hint": "(3\u00d74 + 1\u00d70) / (3+1) = 12/4 = 3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a rocket's launch, what provides the forward force?",
+              "options": [
+                "Gravity",
+                "Air pressure",
+                "Expulsion of exhaust gases",
+                "The launch pad"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Total momentum can change without an external force.",
+              "answer": "false"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-4-3",
+          "title": "Elastic and Inelastic Collisions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Collisions are classified by what happens to kinetic energy. In an elastic collision, both momentum and kinetic energy are conserved. The objects bounce off each other with no energy lost to deformation, heat, or sound. Ideal elastic collisions occur between gas molecules and approximately between billiard balls. In an inelastic collision, momentum is conserved but kinetic energy is not \u2014 some KE is converted to heat, sound, or deformation. Most real-world collisions are inelastic. A perfectly inelastic collision is one where the objects stick together after colliding (maximum KE loss). In all types of collisions, momentum is always conserved (assuming no external forces).",
+            "examples": [
+              {
+                "problem": "Two identical 1 kg balls collide elastically. Ball A moves at 4 m/s, ball B is stationary. What happens?",
+                "answer": "Ball A stops; ball B moves at 4 m/s",
+                "explanation": "In a head-on elastic collision between equal masses where one is stationary, they exchange velocities. Momentum and KE are both conserved."
+              },
+              {
+                "problem": "A 2 kg lump of clay at 6 m/s hits a stationary 4 kg block and sticks. Find the final velocity.",
+                "answer": "2 m/s",
+                "explanation": "Perfectly inelastic: (2)(6) + (4)(0) = (2+4)v_f \u2192 12 = 6v_f \u2192 v_f = 2 m/s."
+              },
+              {
+                "problem": "Is KE conserved in the clay collision above?",
+                "answer": "No \u2014 KE_i = 36 J, KE_f = 12 J, so 24 J was lost to deformation and heat",
+                "explanation": "KE_i = \u00bd(2)(6\u00b2) = 36 J. KE_f = \u00bd(6)(2\u00b2) = 12 J. Lost KE = 24 J."
+              }
+            ],
+            "key_vocabulary": [
+              "elastic collision",
+              "inelastic collision",
+              "perfectly inelastic",
+              "kinetic energy conserved",
+              "deformation",
+              "momentum conserved"
+            ],
+            "real_world": "Car crash engineers design crumple zones to make collisions more inelastic \u2014 the car deforms and absorbs kinetic energy, reducing the energy transferred to passengers."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In an elastic collision, which quantities are conserved?",
+              "options": [
+                "Momentum only",
+                "KE only",
+                "Both momentum and KE",
+                "Neither"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a perfectly inelastic collision, the objects:",
+              "options": [
+                "Bounce apart",
+                "Stick together",
+                "Pass through each other",
+                "Explode"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Momentum is conserved in ___ types of collisions (elastic, inelastic, or both).",
+              "answer": "both",
+              "hint": "Momentum is always conserved in closed systems."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Where does the lost KE go in an inelastic collision?",
+              "options": [
+                "It disappears",
+                "Heat, sound, and deformation",
+                "Momentum",
+                "Potential energy"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A 3 kg object at 10 m/s sticks to a 2 kg stationary object. Final velocity = ___ m/s.",
+              "answer": "6",
+              "hint": "(3\u00d710)/(3+2) = 30/5 = 6."
+            },
+            {
+              "type": "fill_in",
+              "question": "All real-world collisions are perfectly elastic.",
+              "answer": "false",
+              "hint": "Most real collisions are inelastic \u2014 some KE is always lost."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-4-4",
+          "title": "Applications of Momentum",
+          "type": "lesson",
+          "content": {
+            "explanation": "Momentum principles are applied in many real-world scenarios. In explosions, a stationary object breaks apart; the total momentum remains zero, so fragments fly in directions that make the momenta cancel. In two-dimensional collisions (like billiard balls), momentum is conserved in both the x and y directions independently. Center of mass is the average position of all mass in a system; the center of mass of a system moves as if all external forces act on it. For a two-body system, x_cm = (m\u2081x\u2081 + m\u2082x\u2082) / (m\u2081 + m\u2082). The center of mass velocity of a closed system remains constant even as individual parts move.",
+            "examples": [
+              {
+                "problem": "A 10 kg firework at rest explodes into a 3 kg piece at 20 m/s right and a 7 kg piece. Find the 7 kg piece's velocity.",
+                "answer": "\u22128.57 m/s (left)",
+                "explanation": "p_i = 0. So: 0 = 3(20) + 7v \u2192 7v = \u221260 \u2192 v = \u221260/7 \u2248 \u22128.57 m/s."
+              },
+              {
+                "problem": "Find the center of mass of a 2 kg object at x = 0 m and a 4 kg object at x = 6 m.",
+                "answer": "4 m",
+                "explanation": "x_cm = (2\u00d70 + 4\u00d76) / (2+4) = 24/6 = 4 m."
+              },
+              {
+                "problem": "A 1 kg ball at 5 m/s strikes a wall and bounces back at \u22125 m/s. What is the change in momentum?",
+                "answer": "\u221210 kg\u00b7m/s",
+                "explanation": "\u0394p = p_f \u2212 p_i = 1(\u22125) \u2212 1(5) = \u221210 kg\u00b7m/s. The momentum changed by 10 kg\u00b7m/s in the opposite direction."
+              }
+            ],
+            "key_vocabulary": [
+              "explosion",
+              "two-dimensional collision",
+              "center of mass",
+              "x_cm",
+              "system momentum",
+              "fragments"
+            ],
+            "real_world": "Spacecraft use momentum conservation for orbital maneuvers. By expelling a small mass of propellant at high velocity, the spacecraft gains momentum in the opposite direction \u2014 this is how thrusters work in the vacuum of space."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "In an explosion from rest, total momentum remains ___.",
+              "answer": "zero",
+              "hint": "Momentum is conserved; initial momentum was zero."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In 2D collisions, momentum is conserved:",
+              "options": [
+                "In x only",
+                "In y only",
+                "In both x and y independently",
+                "Only if elastic"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "Center of mass of 1 kg at x=0 and 3 kg at x=8: x_cm = ___ m.",
+              "answer": "6",
+              "hint": "(1\u00d70 + 3\u00d78)/(1+3) = 24/4 = 6."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A ball bouncing off a wall has a momentum change of:",
+              "options": [
+                "Zero",
+                "mv",
+                "2mv",
+                "mv\u00b2"
+              ],
+              "correct": 2,
+              "hint": "Direction reverses: \u0394p = mv \u2212 (\u2212mv) = 2mv."
+            },
+            {
+              "type": "fill_in",
+              "question": "A 5 kg shell at rest explodes into 2 kg at 10 m/s and 3 kg at ___ m/s.",
+              "answer": "-6.67",
+              "hint": "3v = \u221220, v = \u221220/3 \u2248 \u22126.67."
+            },
+            {
+              "type": "fill_in",
+              "question": "The center of mass of a closed system can accelerate without external forces.",
+              "answer": "false"
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-4-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "p = mv. A 6 kg object at 5 m/s has momentum = ___ kg\u00b7m/s.",
+            "answer": "30"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Impulse equals:",
+            "options": [
+              "Force \u00d7 distance",
+              "Force \u00d7 time",
+              "Mass \u00d7 acceleration",
+              "Mass \u00d7 distance"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In a perfectly inelastic collision, objects:",
+            "options": [
+              "Bounce apart",
+              "Stick together",
+              "Pass through each other",
+              "Stop"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "A 4 kg cart at 6 m/s sticks to a 2 kg stationary cart. Final velocity = ___ m/s.",
+            "answer": "4"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Momentum is always conserved in a closed system when:",
+            "options": [
+              "Energy is conserved",
+              "No net external force acts",
+              "Friction is absent",
+              "Speed is constant"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "momentum_master"
+      }
+    },
+    {
+      "id": "11-science-5",
+      "title": "Circular Motion and Gravitation",
+      "description": "Analyze uniform circular motion, centripetal force, gravitational force, and orbital mechanics.",
+      "lessons": [
+        {
+          "id": "11-science-5-1",
+          "title": "Uniform Circular Motion",
+          "type": "lesson",
+          "content": {
+            "explanation": "An object moving in a circle at constant speed is undergoing uniform circular motion. Even though the speed is constant, the velocity is continuously changing direction, so the object is accelerating. This acceleration is called centripetal acceleration and it always points toward the center of the circle: a_c = v\u00b2/r, where v is the speed and r is the radius of the circle. The period T is the time for one complete revolution, and the speed can be expressed as v = 2\u03c0r/T. The frequency f is the number of revolutions per second: f = 1/T, measured in hertz (Hz). An object in circular motion constantly changes direction but not speed.",
+            "examples": [
+              {
+                "problem": "A car drives in a circle of radius 50 m at 10 m/s. What is its centripetal acceleration?",
+                "answer": "2 m/s\u00b2",
+                "explanation": "a_c = v\u00b2/r = 10\u00b2/50 = 100/50 = 2 m/s\u00b2."
+              },
+              {
+                "problem": "A satellite orbits Earth with a period of 5400 s at radius 6.8 \u00d7 10\u2076 m. What is its speed?",
+                "answer": "7906 m/s",
+                "explanation": "v = 2\u03c0r/T = 2\u03c0(6.8 \u00d7 10\u2076)/5400 \u2248 7906 m/s."
+              },
+              {
+                "problem": "A wheel spins at 4 Hz. What is its period?",
+                "answer": "0.25 s",
+                "explanation": "T = 1/f = 1/4 = 0.25 s."
+              }
+            ],
+            "key_vocabulary": [
+              "uniform circular motion",
+              "centripetal acceleration",
+              "period",
+              "frequency",
+              "hertz",
+              "a_c = v\u00b2/r",
+              "v = 2\u03c0r/T"
+            ],
+            "real_world": "The spin cycle in a washing machine uses circular motion. Clothes move in a circle, and water is forced outward through holes in the drum, separating water from clothes."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Centripetal acceleration = v\u00b2 / ___.",
+              "answer": "r"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In uniform circular motion, what remains constant?",
+              "options": [
+                "Velocity",
+                "Acceleration",
+                "Speed",
+                "Direction"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "v = 2\u03c0r / T. If r = 10 m and T = 5 s, speed = ___ m/s (use \u03c0 \u2248 3.14).",
+              "answer": "12.56",
+              "hint": "2 \u00d7 3.14 \u00d7 10 / 5 = 12.56."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Centripetal acceleration points:",
+              "options": [
+                "Outward",
+                "Tangent to the circle",
+                "Toward the center",
+                "In the direction of velocity"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "If frequency = 2 Hz, period = ___ s.",
+              "answer": "0.5"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An object in uniform circular motion is accelerating because:",
+              "options": [
+                "Speed changes",
+                "Direction changes",
+                "Mass changes",
+                "Force disappears"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-5-2",
+          "title": "Centripetal Force",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Second Law applied to circular motion gives us centripetal force: F_c = ma_c = mv\u00b2/r. Centripetal force is not a new type of force \u2014 it is the net force directed toward the center of the circle that causes circular motion. The centripetal force can be provided by gravity (orbits), tension (ball on a string), friction (car turning), or normal force (loop-the-loop). Without centripetal force, an object would fly off in a straight line tangent to the circle (Newton's First Law). The common misconception of 'centrifugal force' (outward force) is not a real force \u2014 it is the perceived effect of inertia in a rotating reference frame.",
+            "examples": [
+              {
+                "problem": "A 0.5 kg ball on a string swings in a circle of radius 1 m at 4 m/s. What is the centripetal force?",
+                "answer": "8 N",
+                "explanation": "F_c = mv\u00b2/r = 0.5 \u00d7 16 / 1 = 8 N."
+              },
+              {
+                "problem": "What provides the centripetal force for a car rounding a curve?",
+                "answer": "Friction between the tires and road",
+                "explanation": "Static friction acts inward toward the center of the curve, providing the centripetal force needed for the car to turn."
+              },
+              {
+                "problem": "A 1500 kg car turns in a 30 m radius at 15 m/s. What centripetal force is needed?",
+                "answer": "11,250 N",
+                "explanation": "F_c = mv\u00b2/r = 1500 \u00d7 225 / 30 = 11,250 N."
+              }
+            ],
+            "key_vocabulary": [
+              "centripetal force",
+              "F_c = mv\u00b2/r",
+              "tangent",
+              "centrifugal force",
+              "friction",
+              "tension",
+              "normal force"
+            ],
+            "real_world": "On a banked highway curve, the road is tilted so that a component of the normal force provides centripetal force, reducing the reliance on friction. This is why banked curves are safer, especially when roads are wet."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Centripetal force = mv\u00b2 / ___.",
+              "answer": "r"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Centripetal force is:",
+              "options": [
+                "A new type of force",
+                "The net inward force causing circular motion",
+                "An outward force",
+                "Only caused by gravity"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A 2 kg mass in a 4 m radius circle at 6 m/s. F_c = ___ N.",
+              "answer": "18",
+              "hint": "2 \u00d7 36 / 4 = 18."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Without centripetal force, an object in circular motion would:",
+              "options": [
+                "Stop",
+                "Move inward",
+                "Move outward",
+                "Move in a straight tangent line"
+              ],
+              "correct": 3
+            },
+            {
+              "type": "multiple_choice",
+              "question": "'Centrifugal force' is:",
+              "options": [
+                "A real force",
+                "A fictitious force felt in a rotating frame",
+                "Gravity",
+                "Friction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Centripetal force always points toward the center of the circle.",
+              "answer": "true"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-5-3",
+          "title": "Newton's Law of Universal Gravitation",
+          "type": "lesson",
+          "content": {
+            "explanation": "Newton's Law of Universal Gravitation states that every two objects with mass attract each other with a gravitational force: F = Gm\u2081m\u2082/r\u00b2, where G = 6.674 \u00d7 10\u207b\u00b9\u00b9 N\u00b7m\u00b2/kg\u00b2 is the universal gravitational constant, m\u2081 and m\u2082 are the masses, and r is the distance between their centers. This is an inverse-square law: double the distance and the force drops to one-quarter. Gravity is always attractive and acts along the line connecting the centers of mass. Near Earth's surface, the gravitational field strength g = GM_Earth/R_Earth\u00b2 \u2248 9.8 m/s\u00b2. Weight is the gravitational force on an object: W = mg.",
+            "examples": [
+              {
+                "problem": "Two 100 kg masses are 2 m apart. What is the gravitational force? (G = 6.67 \u00d7 10\u207b\u00b9\u00b9)",
+                "answer": "1.67 \u00d7 10\u207b\u2077 N",
+                "explanation": "F = G(m\u2081m\u2082)/r\u00b2 = 6.67 \u00d7 10\u207b\u00b9\u00b9 \u00d7 (100)(100) / 4 = 6.67 \u00d7 10\u207b\u00b9\u00b9 \u00d7 2500 = 1.67 \u00d7 10\u207b\u2077 N."
+              },
+              {
+                "problem": "If the distance between two objects is tripled, what happens to the gravitational force?",
+                "answer": "It becomes 1/9 of the original",
+                "explanation": "F \u221d 1/r\u00b2. If r \u2192 3r, then F \u2192 F/3\u00b2 = F/9."
+              },
+              {
+                "problem": "What is the weight of a 70 kg person on Earth? (g = 9.8 m/s\u00b2)",
+                "answer": "686 N",
+                "explanation": "W = mg = 70 \u00d7 9.8 = 686 N."
+              }
+            ],
+            "key_vocabulary": [
+              "universal gravitation",
+              "gravitational constant G",
+              "inverse-square law",
+              "weight",
+              "gravitational field",
+              "W = mg"
+            ],
+            "real_world": "The Moon orbits Earth because gravitational force provides the centripetal force. The same gravitational force causes ocean tides \u2014 the Moon's pull is stronger on the near side of Earth than the far side, creating tidal bulges."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "F = Gm\u2081m\u2082 / r\u00b2. If distance doubles, force becomes ___ of the original.",
+              "answer": "1/4",
+              "hint": "Inverse-square law: F \u221d 1/r\u00b2."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "G is called the:",
+              "options": [
+                "Gravitational field",
+                "Universal gravitational constant",
+                "Gravity",
+                "Weight constant"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Weight of a 10 kg mass on Earth (g = 9.8) = ___ N.",
+              "answer": "98"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Gravitational force between two objects is:",
+              "options": [
+                "Always repulsive",
+                "Always attractive",
+                "Sometimes attractive, sometimes repulsive",
+                "Zero in space"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If you move to a planet with twice Earth's g, your weight:",
+              "options": [
+                "Stays the same",
+                "Doubles",
+                "Halves",
+                "Quadruples"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "The value of G is approximately 6.674 \u00d7 10\u207b___ N\u00b7m\u00b2/kg\u00b2.",
+              "answer": "11"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-5-4",
+          "title": "Orbits and Weightlessness",
+          "type": "lesson",
+          "content": {
+            "explanation": "An orbit is the curved path of an object around a larger body due to gravity. For a circular orbit, the gravitational force provides the centripetal force: GMm/r\u00b2 = mv\u00b2/r, which gives the orbital velocity v = \u221a(GM/r). A satellite in a higher orbit moves slower and has a longer period. Kepler's Third Law relates the period and radius of an orbit: T\u00b2 \u221d r\u00b3. Astronauts on the International Space Station (ISS) experience apparent weightlessness \u2014 they are actually in free fall around Earth, continuously falling toward Earth but also moving forward fast enough to miss it. They are NOT outside Earth's gravity; gravity at the ISS altitude is about 90% of surface gravity.",
+            "examples": [
+              {
+                "problem": "What is the orbital speed of a satellite at radius r from Earth's center?",
+                "answer": "v = \u221a(GM/r)",
+                "explanation": "Setting gravitational force equal to centripetal force: GMm/r\u00b2 = mv\u00b2/r \u2192 v\u00b2 = GM/r \u2192 v = \u221a(GM/r)."
+              },
+              {
+                "problem": "If a satellite orbits at twice the radius, how does orbital speed change?",
+                "answer": "It decreases by a factor of \u221a2",
+                "explanation": "v = \u221a(GM/r). If r \u2192 2r, v \u2192 \u221a(GM/2r) = v\u2080/\u221a2 \u2248 0.707 v\u2080. Higher orbits are slower."
+              },
+              {
+                "problem": "Why do astronauts on the ISS float?",
+                "answer": "They are in free fall \u2014 falling around Earth at the same rate as the station",
+                "explanation": "Both the astronaut and the ISS are falling toward Earth due to gravity, but moving fast enough forward that they keep missing. There is no floor pushing up on them, so they feel weightless."
+              }
+            ],
+            "key_vocabulary": [
+              "orbit",
+              "orbital velocity",
+              "Kepler's Third Law",
+              "weightlessness",
+              "free fall",
+              "satellite",
+              "T\u00b2 \u221d r\u00b3"
+            ],
+            "real_world": "GPS satellites orbit Earth at about 20,200 km altitude. Their orbital period is exactly 12 hours. The precise timing of signals from multiple GPS satellites allows your phone to calculate your position on Earth to within a few meters."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Orbital velocity: v = \u221a(GM / ___).",
+              "answer": "r"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Astronauts on the ISS feel weightless because:",
+              "options": [
+                "There is no gravity",
+                "They are too far from Earth",
+                "They are in free fall around Earth",
+                "The ISS shields them from gravity"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A higher orbit has:",
+              "options": [
+                "Greater speed",
+                "Lower speed",
+                "Same speed",
+                "Zero speed"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Kepler's Third Law: T\u00b2 is proportional to r to the power of ___.",
+              "answer": "3"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "For a circular orbit, gravitational force provides:",
+              "options": [
+                "Tension",
+                "Centripetal force",
+                "Friction",
+                "Normal force"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Gravity is zero at the International Space Station.",
+              "answer": "false",
+              "hint": "Gravity at ISS altitude is about 90% of surface gravity."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-5-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "a_c = v\u00b2/r. A 10 m/s object in a 5 m radius circle: a_c = ___ m/s\u00b2.",
+            "answer": "20"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Centripetal force points:",
+            "options": [
+              "Outward",
+              "Tangent",
+              "Toward the center",
+              "Upward"
+            ],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Doubling the distance in F = Gm\u2081m\u2082/r\u00b2 makes force:",
+            "options": [
+              "1/2",
+              "1/4",
+              "Double",
+              "Quadruple"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Orbital velocity = \u221a(GM/___).",
+            "answer": "r"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Weightlessness on ISS is due to:",
+            "options": [
+              "No gravity",
+              "Free fall",
+              "Air resistance",
+              "Magnetism"
+            ],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "circular_gravitation_master"
+      }
+    },
+    {
+      "id": "11-science-6",
+      "title": "Waves and Sound",
+      "description": "Explore wave properties, the wave equation, standing waves, resonance, and the Doppler effect.",
+      "lessons": [
+        {
+          "id": "11-science-6-1",
+          "title": "Wave Properties",
+          "type": "lesson",
+          "content": {
+            "explanation": "A wave is a disturbance that transfers energy through a medium (or through space for electromagnetic waves) without transferring matter. Waves have several key properties: amplitude is the maximum displacement from equilibrium (related to energy and loudness for sound); wavelength (\u03bb) is the distance between consecutive identical points (crest to crest or trough to trough); frequency (f) is the number of complete cycles per second, measured in hertz (Hz); period (T) is the time for one complete cycle: T = 1/f. Transverse waves oscillate perpendicular to the direction of travel (like light waves or waves on a string). Longitudinal waves oscillate parallel to the direction of travel (like sound waves, which are compressions and rarefactions in a medium).",
+            "examples": [
+              {
+                "problem": "A wave has a frequency of 50 Hz. What is its period?",
+                "answer": "0.02 s",
+                "explanation": "T = 1/f = 1/50 = 0.02 s."
+              },
+              {
+                "problem": "Identify a transverse vs. longitudinal wave example.",
+                "answer": "Transverse: wave on a string. Longitudinal: sound wave.",
+                "explanation": "String waves oscillate up-down while traveling horizontally (perpendicular). Sound waves compress and rarefy air parallel to the direction of travel."
+              },
+              {
+                "problem": "A wave has amplitude 3 cm. Another has amplitude 6 cm. Which carries more energy?",
+                "answer": "The 6 cm amplitude wave",
+                "explanation": "Energy is proportional to the square of amplitude. The 6 cm wave carries 4 times more energy than the 3 cm wave."
+              }
+            ],
+            "key_vocabulary": [
+              "wave",
+              "amplitude",
+              "wavelength",
+              "frequency",
+              "period",
+              "transverse",
+              "longitudinal",
+              "hertz",
+              "crest",
+              "trough"
+            ],
+            "real_world": "Ocean waves are visible examples of wave motion. Surfers ride the energy carried by waves \u2014 the water itself mostly moves up and down, not forward. Energy travels across the ocean while the water stays roughly in place."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which wave type has oscillation perpendicular to travel direction?",
+              "options": [
+                "Longitudinal",
+                "Transverse",
+                "Both",
+                "Neither"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Period = 1 / ___.",
+              "answer": "frequency",
+              "hint": "T = 1/f."
+            },
+            {
+              "type": "fill_in",
+              "question": "A wave completes 200 cycles per second. Its frequency is ___ Hz.",
+              "answer": "200"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sound is a ___ wave.",
+              "options": [
+                "Transverse",
+                "Longitudinal",
+                "Electromagnetic",
+                "Surface"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Amplitude relates to:",
+              "options": [
+                "Speed",
+                "Wavelength",
+                "Energy and loudness",
+                "Frequency"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "If f = 100 Hz, T = ___ s.",
+              "answer": "0.01"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-6-2",
+          "title": "Wave Speed, Frequency, and Wavelength",
+          "type": "lesson",
+          "content": {
+            "explanation": "The fundamental wave equation relates speed, frequency, and wavelength: v = f\u03bb, where v is the wave speed (m/s), f is frequency (Hz), and \u03bb is wavelength (m). For a given medium, the wave speed is typically constant. If frequency increases, wavelength must decrease (and vice versa) to keep the product constant. Sound travels at approximately 343 m/s in air at room temperature. Sound travels faster in solids (about 5000 m/s in steel) and liquids (about 1500 m/s in water) because particles are closer together. The speed of sound in air increases with temperature: approximately v = 331 + 0.6T m/s, where T is temperature in degrees Celsius.",
+            "examples": [
+              {
+                "problem": "A sound wave has frequency 440 Hz (concert A). What is its wavelength in air? (v = 343 m/s)",
+                "answer": "0.78 m",
+                "explanation": "\u03bb = v/f = 343/440 \u2248 0.78 m."
+              },
+              {
+                "problem": "A wave has wavelength 2 m and frequency 5 Hz. What is its speed?",
+                "answer": "10 m/s",
+                "explanation": "v = f\u03bb = 5 \u00d7 2 = 10 m/s."
+              },
+              {
+                "problem": "How fast does sound travel in air at 20\u00b0C?",
+                "answer": "343 m/s",
+                "explanation": "v = 331 + 0.6(20) = 331 + 12 = 343 m/s."
+              }
+            ],
+            "key_vocabulary": [
+              "wave equation",
+              "v = f\u03bb",
+              "wave speed",
+              "speed of sound",
+              "medium",
+              "temperature dependence"
+            ],
+            "real_world": "Thunder and lightning happen simultaneously, but you see lightning before hearing thunder because light (3 \u00d7 10\u2078 m/s) travels nearly a million times faster than sound (343 m/s). You can estimate storm distance by counting seconds between flash and boom, then dividing by 3 (km) or 5 (miles)."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "v = f \u00d7 ___.",
+              "answer": "\u03bb",
+              "hint": "The wave equation."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sound in air at room temperature travels at approximately:",
+              "options": [
+                "100 m/s",
+                "343 m/s",
+                "1000 m/s",
+                "3 \u00d7 10\u2078 m/s"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A 500 Hz wave in air (v = 343 m/s) has wavelength = ___ m (round to 2 decimal).",
+              "answer": "0.69",
+              "hint": "\u03bb = 343/500 \u2248 0.686."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Sound travels fastest in:",
+              "options": [
+                "Air",
+                "Water",
+                "Vacuum",
+                "Steel"
+              ],
+              "correct": 3
+            },
+            {
+              "type": "fill_in",
+              "question": "A wave with \u03bb = 4 m and f = 3 Hz has speed = ___ m/s.",
+              "answer": "12"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If frequency doubles and speed stays constant, wavelength:",
+              "options": [
+                "Doubles",
+                "Halves",
+                "Stays same",
+                "Quadruples"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-6-3",
+          "title": "Standing Waves and Resonance",
+          "type": "lesson",
+          "content": {
+            "explanation": "When two identical waves travel in opposite directions in the same medium, they can superpose to form a standing wave. Standing waves appear to vibrate in place rather than travel. They have nodes (points of zero displacement that never move) and antinodes (points of maximum displacement). A string fixed at both ends can vibrate in standing wave patterns called harmonics. The fundamental (first harmonic) has one antinode and wavelength \u03bb\u2081 = 2L (L = string length). The second harmonic has two antinodes and \u03bb\u2082 = L. The nth harmonic has wavelength \u03bb\u2099 = 2L/n and frequency f\u2099 = nf\u2081. Resonance occurs when a system is driven at its natural frequency, causing large amplitude oscillations. Musical instruments produce sound through standing waves and resonance.",
+            "examples": [
+              {
+                "problem": "A guitar string is 0.65 m long. What is the wavelength of its fundamental?",
+                "answer": "1.30 m",
+                "explanation": "For the fundamental on a string fixed at both ends: \u03bb\u2081 = 2L = 2(0.65) = 1.30 m."
+              },
+              {
+                "problem": "The fundamental frequency of a string is 200 Hz. What is the 3rd harmonic frequency?",
+                "answer": "600 Hz",
+                "explanation": "f\u2099 = nf\u2081. f\u2083 = 3 \u00d7 200 = 600 Hz."
+              },
+              {
+                "problem": "What are nodes and antinodes?",
+                "answer": "Nodes: zero displacement. Antinodes: maximum displacement.",
+                "explanation": "Nodes are stationary points on a standing wave. Antinodes are the points that vibrate with the largest amplitude."
+              }
+            ],
+            "key_vocabulary": [
+              "standing wave",
+              "node",
+              "antinode",
+              "harmonic",
+              "fundamental",
+              "resonance",
+              "natural frequency",
+              "superposition"
+            ],
+            "real_world": "When a singer shatters a glass with their voice, they are exploiting resonance. The singer matches the glass's natural frequency, causing it to vibrate with increasing amplitude until it breaks."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "For a string fixed at both ends, the fundamental wavelength \u03bb\u2081 = 2 \u00d7 ___.",
+              "answer": "L"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Points of zero displacement on a standing wave are called:",
+              "options": [
+                "Antinodes",
+                "Nodes",
+                "Crests",
+                "Troughs"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If f\u2081 = 150 Hz, the 4th harmonic frequency is ___ Hz.",
+              "answer": "600",
+              "hint": "f\u2084 = 4 \u00d7 150."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Resonance occurs when driving frequency equals:",
+              "options": [
+                "Zero",
+                "The natural frequency",
+                "Double the natural frequency",
+                "Half the natural frequency"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "\u03bb\u2099 = 2L/n. For L = 1 m, the 2nd harmonic wavelength = ___ m.",
+              "answer": "1",
+              "hint": "\u03bb\u2082 = 2(1)/2 = 1."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Standing waves result from:",
+              "options": [
+                "A single traveling wave",
+                "Two waves in opposite directions",
+                "Reflection only",
+                "Refraction"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-6-4",
+          "title": "The Doppler Effect",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Doppler effect is the change in observed frequency (and wavelength) of a wave when the source and observer are moving relative to each other. When a source approaches, the observer hears a higher pitch (higher frequency, shorter wavelength). When the source recedes, the observer hears a lower pitch (lower frequency, longer wavelength). For sound, the observed frequency is f' = f \u00d7 (v \u00b1 v_observer) / (v \u2213 v_source), where v is the speed of sound. The classic example is a siren changing pitch as an ambulance passes you. The Doppler effect applies to all waves, including light \u2014 astronomers use the redshift (light shifted to lower frequency) of distant galaxies to determine they are moving away from us, providing evidence for the expanding universe.",
+            "examples": [
+              {
+                "problem": "An ambulance siren has frequency 700 Hz. It approaches you at 30 m/s (v_sound = 343 m/s). What frequency do you hear?",
+                "answer": "767 Hz",
+                "explanation": "f' = f \u00d7 v / (v \u2212 v_source) = 700 \u00d7 343 / (343 \u2212 30) = 700 \u00d7 343/313 \u2248 767 Hz."
+              },
+              {
+                "problem": "The same ambulance now moves away from you. What frequency do you hear?",
+                "answer": "644 Hz",
+                "explanation": "f' = f \u00d7 v / (v + v_source) = 700 \u00d7 343 / (343 + 30) = 700 \u00d7 343/373 \u2248 644 Hz."
+              },
+              {
+                "problem": "Light from a distant galaxy is redshifted. What does this tell us?",
+                "answer": "The galaxy is moving away from us",
+                "explanation": "Redshift means the frequency decreased (shifted toward red). This indicates the source is receding \u2014 evidence that the universe is expanding."
+              }
+            ],
+            "key_vocabulary": [
+              "Doppler effect",
+              "frequency shift",
+              "redshift",
+              "blueshift",
+              "approaching",
+              "receding",
+              "relative motion"
+            ],
+            "real_world": "Police radar guns use the Doppler effect. They emit microwaves at a known frequency, which bounce off a moving car. The change in frequency of the reflected waves reveals the car's speed."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "An approaching source sounds:",
+              "options": [
+                "Lower pitch",
+                "Higher pitch",
+                "Same pitch",
+                "Silent"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Redshift means the source is:",
+              "options": [
+                "Approaching",
+                "Stationary",
+                "Receding",
+                "Accelerating upward"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "The Doppler effect occurs when there is ___ motion between source and observer.",
+              "answer": "relative"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The Doppler effect applies to:",
+              "options": [
+                "Sound only",
+                "Light only",
+                "All waves",
+                "Solids only"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "As a source approaches, observed wavelength gets ___ (shorter/longer).",
+              "answer": "shorter"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Astronomers use redshift to conclude that the universe is:",
+              "options": [
+                "Contracting",
+                "Expanding",
+                "Static",
+                "Rotating"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-6-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "v = f\u03bb. If f = 200 Hz and \u03bb = 1.7 m, v = ___ m/s.",
+            "answer": "340"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Sound is a ___ wave.",
+            "options": [
+              "Transverse",
+              "Longitudinal",
+              "Electromagnetic",
+              "Standing"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Nodes on a standing wave have ___ displacement.",
+            "options": [
+              "Maximum",
+              "Zero",
+              "Varying",
+              "Infinite"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "An approaching source produces a ___ observed frequency.",
+            "options": [
+              "Higher",
+              "Lower",
+              "Same",
+              "Zero"
+            ],
+            "correct": 0
+          },
+          {
+            "type": "fill_in",
+            "question": "Fundamental wavelength of a 0.5 m string: \u03bb\u2081 = 2 \u00d7 0.5 = ___ m.",
+            "answer": "1"
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "waves_sound_master"
+      }
+    },
+    {
+      "id": "11-science-7",
+      "title": "Light and Optics",
+      "description": "Study reflection, refraction, Snell's law, lenses, mirrors, and the electromagnetic spectrum.",
+      "lessons": [
+        {
+          "id": "11-science-7-1",
+          "title": "Reflection of Light",
+          "type": "lesson",
+          "content": {
+            "explanation": "Light behaves as both a wave and a particle (wave-particle duality). The law of reflection states that the angle of incidence equals the angle of reflection: \u03b8_i = \u03b8_r. Both angles are measured from the normal (the line perpendicular to the surface). Specular reflection occurs on smooth surfaces (like mirrors) \u2014 parallel light rays reflect as parallel rays, producing clear images. Diffuse reflection occurs on rough surfaces \u2014 parallel rays scatter in many directions, producing no clear image but allowing us to see objects from all angles. Plane mirrors produce virtual, upright, same-size images located as far behind the mirror as the object is in front. The image is laterally inverted (left and right are swapped).",
+            "examples": [
+              {
+                "problem": "A light ray hits a mirror at 30\u00b0 to the normal. What is the reflection angle?",
+                "answer": "30\u00b0",
+                "explanation": "The law of reflection: angle of incidence = angle of reflection. \u03b8_r = \u03b8_i = 30\u00b0."
+              },
+              {
+                "problem": "Why can you see your reflection in a calm lake but not in choppy water?",
+                "answer": "Calm water is smooth (specular reflection). Choppy water is rough (diffuse reflection).",
+                "explanation": "Specular reflection from the smooth surface creates a clear image. The rough surface scatters light in many directions, blurring the image."
+              },
+              {
+                "problem": "How far behind a plane mirror does your image appear if you stand 2 m in front?",
+                "answer": "2 m behind the mirror",
+                "explanation": "In a plane mirror, the image distance equals the object distance. You appear 2 m behind the mirror, 4 m total from yourself."
+              }
+            ],
+            "key_vocabulary": [
+              "reflection",
+              "angle of incidence",
+              "angle of reflection",
+              "normal",
+              "specular reflection",
+              "diffuse reflection",
+              "plane mirror",
+              "virtual image"
+            ],
+            "real_world": "Mirrors in clothing stores are sometimes slightly curved (concave) to make you appear taller and thinner \u2014 this is an application of curved mirror optics to create flattering images."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The law of reflection: \u03b8_i = \u03b8___.",
+              "answer": "r"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Angles of incidence and reflection are measured from:",
+              "options": [
+                "The surface",
+                "The normal",
+                "The horizontal",
+                "Each other"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Specular reflection occurs on:",
+              "options": [
+                "Rough surfaces",
+                "Smooth surfaces",
+                "All surfaces equally",
+                "Transparent surfaces"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A ray strikes a mirror at 45\u00b0 to the normal. The reflected angle is ___\u00b0.",
+              "answer": "45"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Images in plane mirrors are:",
+              "options": [
+                "Real and inverted",
+                "Virtual and upright",
+                "Real and upright",
+                "Virtual and inverted"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Diffuse reflection follows the law of reflection.",
+              "answer": "true",
+              "hint": "Each individual ray obeys the law; they just hit at different angles due to surface roughness."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-7-2",
+          "title": "Refraction and Snell's Law",
+          "type": "lesson",
+          "content": {
+            "explanation": "Refraction is the bending of light as it passes from one medium to another due to a change in speed. Light travels fastest in a vacuum (c = 3 \u00d7 10\u2078 m/s) and slower in denser materials. The index of refraction n of a medium is the ratio of the speed of light in vacuum to the speed in the medium: n = c/v. For example, n_air \u2248 1.00, n_water \u2248 1.33, n_glass \u2248 1.50. Snell's Law relates the angles and indices of refraction: n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082. When light enters a denser medium (higher n), it bends toward the normal (\u03b8\u2082 < \u03b8\u2081). When it enters a less dense medium, it bends away from the normal. Total internal reflection occurs when light tries to go from a denser to less dense medium at an angle greater than the critical angle: sin \u03b8_c = n\u2082/n\u2081.",
+            "examples": [
+              {
+                "problem": "Light passes from air (n=1) into water (n=1.33) at 45\u00b0. What is the refraction angle?",
+                "answer": "32.1\u00b0",
+                "explanation": "n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082 \u2192 1 \u00d7 sin 45\u00b0 = 1.33 \u00d7 sin \u03b8\u2082 \u2192 sin \u03b8\u2082 = 0.707/1.33 = 0.531 \u2192 \u03b8\u2082 \u2248 32.1\u00b0."
+              },
+              {
+                "problem": "What is the speed of light in glass (n=1.5)?",
+                "answer": "2 \u00d7 10\u2078 m/s",
+                "explanation": "n = c/v \u2192 v = c/n = 3 \u00d7 10\u2078 / 1.5 = 2 \u00d7 10\u2078 m/s."
+              },
+              {
+                "problem": "What is the critical angle for water to air (n_water = 1.33, n_air = 1)?",
+                "answer": "48.8\u00b0",
+                "explanation": "sin \u03b8_c = n\u2082/n\u2081 = 1/1.33 = 0.752 \u2192 \u03b8_c \u2248 48.8\u00b0."
+              }
+            ],
+            "key_vocabulary": [
+              "refraction",
+              "index of refraction",
+              "Snell's Law",
+              "n\u2081 sin \u03b8\u2081 = n\u2082 sin \u03b8\u2082",
+              "critical angle",
+              "total internal reflection",
+              "speed of light"
+            ],
+            "real_world": "Fiber optic cables use total internal reflection to transmit light signals over hundreds of kilometers with minimal loss. Light bounces along the inside of the glass fiber, unable to escape because it always hits the boundary at angles greater than the critical angle."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "Snell's Law: n\u2081 sin \u03b8\u2081 = n\u2082 sin ___.",
+              "answer": "\u03b8\u2082"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Light entering a denser medium bends:",
+              "options": [
+                "Away from normal",
+                "Toward the normal",
+                "Parallel to surface",
+                "Not at all"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "n = c / v. If n = 2, and c = 3 \u00d7 10\u2078, then v = ___ \u00d7 10\u2078 m/s.",
+              "answer": "1.5"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Total internal reflection occurs when light:",
+              "options": [
+                "Enters a denser medium",
+                "Goes from denser to less dense medium above critical angle",
+                "Hits a mirror",
+                "Passes through a lens"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Index of refraction of water is approximately ___.",
+              "answer": "1.33"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The speed of light is fastest in:",
+              "options": [
+                "Glass",
+                "Water",
+                "Diamond",
+                "Vacuum"
+              ],
+              "correct": 3
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-7-3",
+          "title": "Lenses and Mirrors",
+          "type": "lesson",
+          "content": {
+            "explanation": "Curved mirrors and lenses form images by converging or diverging light. A concave mirror converges parallel light to a focal point (f positive). A convex mirror diverges light, appearing to come from a virtual focal point behind the mirror (f negative). The mirror/lens equation is 1/f = 1/d_o + 1/d_i, where d_o is the object distance and d_i is the image distance. Magnification m = \u2212d_i/d_o = h_i/h_o. Converging (convex) lenses are thicker in the middle and focus parallel light to a point. Diverging (concave) lenses are thinner in the middle and spread light apart. Sign conventions: real images have positive d_i, virtual images have negative d_i. Magnification |m| > 1 means enlarged, |m| < 1 means reduced.",
+            "examples": [
+              {
+                "problem": "A concave mirror with f = 10 cm has an object at d_o = 30 cm. Find the image distance.",
+                "answer": "15 cm",
+                "explanation": "1/f = 1/d_o + 1/d_i \u2192 1/10 = 1/30 + 1/d_i \u2192 1/d_i = 1/10 \u2212 1/30 = 2/30 = 1/15 \u2192 d_i = 15 cm."
+              },
+              {
+                "problem": "What is the magnification for the above mirror?",
+                "answer": "-0.5 (inverted, half-size)",
+                "explanation": "m = \u2212d_i/d_o = \u221215/30 = \u22120.5. Negative means inverted, magnitude 0.5 means half the size."
+              },
+              {
+                "problem": "A convex lens with f = 20 cm has an object at 60 cm. Where is the image?",
+                "answer": "30 cm on the other side",
+                "explanation": "1/20 = 1/60 + 1/d_i \u2192 1/d_i = 1/20 \u2212 1/60 = 2/60 = 1/30 \u2192 d_i = 30 cm (real image)."
+              }
+            ],
+            "key_vocabulary": [
+              "concave mirror",
+              "convex mirror",
+              "convex lens",
+              "concave lens",
+              "focal point",
+              "mirror equation",
+              "magnification",
+              "real image",
+              "virtual image"
+            ],
+            "real_world": "Eyeglasses correct vision using lenses. Nearsighted people use diverging (concave) lenses to spread light before it enters the eye. Farsighted people use converging (convex) lenses to focus light more before entering the eye."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "The mirror/lens equation: 1/f = 1/d_o + 1/___.",
+              "answer": "d_i"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A converging lens is:",
+              "options": [
+                "Concave",
+                "Convex (thicker in middle)",
+                "Flat",
+                "Cylindrical"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A concave mirror ___ parallel light.",
+              "options": [
+                "Diverges",
+                "Converges",
+                "Blocks",
+                "Absorbs"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Magnification m = \u2212d_i / ___.",
+              "answer": "d_o"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A virtual image has:",
+              "options": [
+                "Positive d_i",
+                "Negative d_i",
+                "Zero d_i",
+                "Infinite d_i"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "If f = 15 cm and d_o = 30 cm, d_i = ___ cm.",
+              "answer": "30",
+              "hint": "1/15 = 1/30 + 1/d_i \u2192 1/d_i = 1/15 \u2212 1/30 = 1/30 \u2192 d_i = 30."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-7-4",
+          "title": "Electromagnetic Spectrum",
+          "type": "lesson",
+          "content": {
+            "explanation": "Light is an electromagnetic (EM) wave \u2014 oscillating electric and magnetic fields that propagate through space at c = 3 \u00d7 10\u2078 m/s. The electromagnetic spectrum includes, from lowest to highest frequency (longest to shortest wavelength): radio waves, microwaves, infrared (IR), visible light, ultraviolet (UV), X-rays, and gamma rays. Visible light spans wavelengths from about 700 nm (red) to 400 nm (violet). All EM waves travel at the same speed in vacuum. The wave equation c = f\u03bb applies: higher frequency means shorter wavelength and higher energy. Energy of a photon is E = hf, where h = 6.63 \u00d7 10\u207b\u00b3\u2074 J\u00b7s is Planck's constant. EM waves do not require a medium to travel \u2014 they can propagate through the vacuum of space.",
+            "examples": [
+              {
+                "problem": "What is the frequency of green light with wavelength 500 nm?",
+                "answer": "6 \u00d7 10\u00b9\u2074 Hz",
+                "explanation": "f = c/\u03bb = 3 \u00d7 10\u2078 / (500 \u00d7 10\u207b\u2079) = 3 \u00d7 10\u2078 / 5 \u00d7 10\u207b\u2077 = 6 \u00d7 10\u00b9\u2074 Hz."
+              },
+              {
+                "problem": "Which has more energy per photon: red light or blue light?",
+                "answer": "Blue light",
+                "explanation": "Blue light has higher frequency than red light. Since E = hf, higher frequency means higher energy."
+              },
+              {
+                "problem": "Order the EM spectrum from longest to shortest wavelength.",
+                "answer": "Radio, microwave, infrared, visible, ultraviolet, X-ray, gamma ray",
+                "explanation": "Radio waves have the longest wavelength (lowest frequency). Gamma rays have the shortest wavelength (highest frequency and energy)."
+              }
+            ],
+            "key_vocabulary": [
+              "electromagnetic spectrum",
+              "electromagnetic wave",
+              "photon",
+              "Planck's constant",
+              "E = hf",
+              "radio waves",
+              "visible light",
+              "ultraviolet",
+              "X-rays",
+              "gamma rays"
+            ],
+            "real_world": "Your microwave oven uses EM radiation at ~2.45 GHz to heat food. Wi-Fi uses similar frequencies. X-rays penetrate soft tissue for medical imaging. Different parts of the EM spectrum have dramatically different applications based on their energy and wavelength."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which EM wave has the highest frequency?",
+              "options": [
+                "Radio",
+                "Microwave",
+                "Visible",
+                "Gamma ray"
+              ],
+              "correct": 3
+            },
+            {
+              "type": "fill_in",
+              "question": "All EM waves travel at ___ \u00d7 10\u2078 m/s in vacuum.",
+              "answer": "3"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Visible light wavelengths range approximately from:",
+              "options": [
+                "400-700 nm",
+                "1-10 nm",
+                "1-10 mm",
+                "100-400 nm"
+              ],
+              "correct": 0
+            },
+            {
+              "type": "fill_in",
+              "question": "E = hf. Higher frequency means ___ (higher/lower) energy.",
+              "answer": "higher"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which does NOT require a medium?",
+              "options": [
+                "Sound",
+                "Water waves",
+                "Electromagnetic waves",
+                "Seismic P-waves"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Infrared radiation is between ___ and visible light on the EM spectrum.",
+              "options": [
+                "Radio and microwave",
+                "Microwave and visible",
+                "UV and X-ray",
+                "X-ray and gamma"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-7-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "Law of reflection: angle of incidence = angle of ___.",
+            "answer": "reflection"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Light entering a denser medium bends:",
+            "options": [
+              "Away from normal",
+              "Toward the normal",
+              "Not at all",
+              "Backwards"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Snell's Law: n\u2081 sin \u03b8\u2081 = ___ sin \u03b8\u2082.",
+            "answer": "n\u2082"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The highest energy EM radiation is:",
+            "options": [
+              "Radio",
+              "Visible",
+              "UV",
+              "Gamma"
+            ],
+            "correct": 3
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A converging lens forms a real image when the object is beyond:",
+            "options": [
+              "The focal point",
+              "The lens",
+              "The center of curvature",
+              "Infinity"
+            ],
+            "correct": 0
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "optics_master"
+      }
+    },
+    {
+      "id": "11-science-8",
+      "title": "Electricity and Magnetism",
+      "description": "Explore electric charge, Coulomb's law, circuits, Ohm's law, series/parallel circuits, and electromagnetism.",
+      "lessons": [
+        {
+          "id": "11-science-8-1",
+          "title": "Electric Charge and Coulomb's Law",
+          "type": "lesson",
+          "content": {
+            "explanation": "Electric charge is a fundamental property of matter. There are two types: positive and negative. Like charges repel; opposite charges attract. The SI unit of charge is the coulomb (C). The elementary charge is e = 1.6 \u00d7 10\u207b\u00b9\u2079 C (the magnitude of charge on a proton or electron). Charge is quantized \u2014 it always comes in integer multiples of e. Charge is conserved \u2014 it cannot be created or destroyed, only transferred. Coulomb's Law gives the electrostatic force between two point charges: F = kq\u2081q\u2082/r\u00b2, where k = 8.99 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2 is Coulomb's constant, q\u2081 and q\u2082 are the charges, and r is the distance between them. Like gravity, this is an inverse-square law.",
+            "examples": [
+              {
+                "problem": "Two charges of +3 \u03bcC and \u22125 \u03bcC are 0.1 m apart. What is the force? (k = 9 \u00d7 10\u2079)",
+                "answer": "13.5 N (attractive)",
+                "explanation": "F = kq\u2081q\u2082/r\u00b2 = 9\u00d710\u2079 \u00d7 3\u00d710\u207b\u2076 \u00d7 5\u00d710\u207b\u2076 / (0.1)\u00b2 = 9\u00d710\u2079 \u00d7 15\u00d710\u207b\u00b9\u00b2 / 0.01 = 135\u00d710\u207b\u00b3 / 0.01 = 13.5 N. Opposite charges, so attractive."
+              },
+              {
+                "problem": "What happens if you double the distance between two charges?",
+                "answer": "The force drops to 1/4",
+                "explanation": "F \u221d 1/r\u00b2. If r \u2192 2r, F \u2192 F/4. The inverse-square law."
+              },
+              {
+                "problem": "A proton has charge +1.6 \u00d7 10\u207b\u00b9\u2079 C. How many protons make 1 coulomb?",
+                "answer": "6.25 \u00d7 10\u00b9\u2078 protons",
+                "explanation": "Number = 1 / (1.6 \u00d7 10\u207b\u00b9\u2079) = 6.25 \u00d7 10\u00b9\u2078."
+              }
+            ],
+            "key_vocabulary": [
+              "electric charge",
+              "coulomb",
+              "Coulomb's Law",
+              "electrostatic force",
+              "inverse-square law",
+              "elementary charge",
+              "quantized",
+              "conserved"
+            ],
+            "real_world": "Static cling in laundry occurs because tumbling transfers electrons between fabrics, giving them opposite charges. Dryer sheets work by coating fabrics with compounds that reduce static buildup."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Like charges:",
+              "options": [
+                "Attract",
+                "Repel",
+                "Have no effect",
+                "Neutralize"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Coulomb's Law: F = kq\u2081q\u2082 / r\u00b2. If distance doubles, force becomes ___ of original.",
+              "answer": "1/4"
+            },
+            {
+              "type": "fill_in",
+              "question": "The elementary charge e = 1.6 \u00d7 10\u207b___ C.",
+              "answer": "19"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Charge is:",
+              "options": [
+                "Continuous",
+                "Quantized (comes in discrete amounts)",
+                "Always positive",
+                "Created by friction"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The SI unit of charge is:",
+              "options": [
+                "Ampere",
+                "Volt",
+                "Coulomb",
+                "Ohm"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "k in Coulomb's Law is approximately 9 \u00d7 10___ N\u00b7m\u00b2/C\u00b2.",
+              "answer": "9"
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-8-2",
+          "title": "Electric Circuits and Ohm's Law",
+          "type": "lesson",
+          "content": {
+            "explanation": "An electric circuit is a closed loop through which electric current flows. Current (I) is the rate of flow of electric charge: I = Q/t, measured in amperes (A), where 1 A = 1 C/s. Conventional current flows from positive to negative terminal (opposite to electron flow). Voltage (V) is the electric potential difference \u2014 the energy per unit charge that drives current through a circuit. Resistance (R) opposes current flow, measured in ohms (\u03a9). Ohm's Law relates these: V = IR. A resistor with higher resistance allows less current for a given voltage. Power dissipated in a circuit element is P = IV = I\u00b2R = V\u00b2/R.",
+            "examples": [
+              {
+                "problem": "A 12 V battery drives current through a 4 \u03a9 resistor. What is the current?",
+                "answer": "3 A",
+                "explanation": "I = V/R = 12/4 = 3 A."
+              },
+              {
+                "problem": "What is the power dissipated by the resistor above?",
+                "answer": "36 W",
+                "explanation": "P = IV = 3 \u00d7 12 = 36 W. Or P = V\u00b2/R = 144/4 = 36 W."
+              },
+              {
+                "problem": "A device draws 2 A from a 120 V outlet. What is its resistance?",
+                "answer": "60 \u03a9",
+                "explanation": "R = V/I = 120/2 = 60 \u03a9."
+              }
+            ],
+            "key_vocabulary": [
+              "current",
+              "voltage",
+              "resistance",
+              "Ohm's Law",
+              "V = IR",
+              "ampere",
+              "volt",
+              "ohm",
+              "power",
+              "P = IV"
+            ],
+            "real_world": "Your household outlets provide about 120 V (in the US). A 60 W light bulb draws I = P/V = 60/120 = 0.5 A of current. A toaster (1200 W) draws 10 A \u2014 that is why high-power appliances can trip circuit breakers."
+          },
+          "practice_problems": [
+            {
+              "type": "fill_in",
+              "question": "V = I \u00d7 ___.",
+              "answer": "R",
+              "hint": "Ohm's Law."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The unit of resistance is:",
+              "options": [
+                "Ampere",
+                "Volt",
+                "Watt",
+                "Ohm"
+              ],
+              "correct": 3
+            },
+            {
+              "type": "fill_in",
+              "question": "A 9 V battery and 3 \u03a9 resistor. Current = ___ A.",
+              "answer": "3",
+              "hint": "I = 9/3."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Power in a circuit: P = I \u00d7 ___.",
+              "options": [
+                "R",
+                "V",
+                "Q",
+                "t"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "A device with R = 10 \u03a9 carries 5 A. Power = I\u00b2R = ___ W.",
+              "answer": "250",
+              "hint": "25 \u00d7 10 = 250."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "1 ampere = 1 coulomb per:",
+              "options": [
+                "Minute",
+                "Second",
+                "Hour",
+                "Meter"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-8-3",
+          "title": "Series and Parallel Circuits",
+          "type": "lesson",
+          "content": {
+            "explanation": "In a series circuit, components are connected end-to-end in a single loop. The same current flows through each component. Total resistance is the sum: R_total = R\u2081 + R\u2082 + R\u2083 + .... The voltage divides among components: V_total = V\u2081 + V\u2082 + V\u2083 + .... If one component fails (opens), the entire circuit stops. In a parallel circuit, components are connected across the same two points, providing multiple paths for current. Each branch has the same voltage. Total resistance is found by: 1/R_total = 1/R\u2081 + 1/R\u2082 + 1/R\u2083 + .... Total resistance is always less than the smallest individual resistance. Current divides among branches: I_total = I\u2081 + I\u2082 + I\u2083 + .... If one branch fails, others continue working.",
+            "examples": [
+              {
+                "problem": "Three resistors of 2 \u03a9, 3 \u03a9, and 5 \u03a9 are in series. What is the total resistance?",
+                "answer": "10 \u03a9",
+                "explanation": "R_total = 2 + 3 + 5 = 10 \u03a9."
+              },
+              {
+                "problem": "Two 6 \u03a9 resistors are in parallel. What is the total resistance?",
+                "answer": "3 \u03a9",
+                "explanation": "1/R = 1/6 + 1/6 = 2/6 = 1/3 \u2192 R = 3 \u03a9. For identical parallel resistors: R_total = R/n = 6/2 = 3."
+              },
+              {
+                "problem": "A 12 V battery is connected to 4 \u03a9 and 8 \u03a9 resistors in series. Find current and voltage across each.",
+                "answer": "I = 1 A; V\u2081 = 4 V, V\u2082 = 8 V",
+                "explanation": "R_total = 4 + 8 = 12 \u03a9. I = V/R = 12/12 = 1 A. V\u2081 = IR\u2081 = 1\u00d74 = 4 V. V\u2082 = IR\u2082 = 1\u00d78 = 8 V."
+              }
+            ],
+            "key_vocabulary": [
+              "series circuit",
+              "parallel circuit",
+              "total resistance",
+              "voltage divider",
+              "current divider",
+              "branch"
+            ],
+            "real_world": "Your home wiring uses parallel circuits \u2014 each outlet and light is on a separate branch. This way, turning off one light does not affect others, and each device gets the full 120 V."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In a series circuit, current is:",
+              "options": [
+                "Different in each component",
+                "The same through each component",
+                "Zero",
+                "Infinite"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Three 10 \u03a9 resistors in series: R_total = ___ \u03a9.",
+              "answer": "30"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In a parallel circuit, voltage across each branch is:",
+              "options": [
+                "Different",
+                "The same",
+                "Zero",
+                "Double"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Two 8 \u03a9 resistors in parallel: R_total = ___ \u03a9.",
+              "answer": "4",
+              "hint": "R = 8/2 = 4 for identical resistors."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If one bulb in a series circuit burns out:",
+              "options": [
+                "Others get brighter",
+                "Others stay the same",
+                "All go out",
+                "Nothing happens"
+              ],
+              "correct": 2
+            },
+            {
+              "type": "fill_in",
+              "question": "A 6 V battery with 2 \u03a9 and 4 \u03a9 in series. Current = ___ A.",
+              "answer": "1",
+              "hint": "R = 6 \u03a9, I = 6/6 = 1."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "11-science-8-4",
+          "title": "Magnetism and Electromagnetism",
+          "type": "lesson",
+          "content": {
+            "explanation": "Magnets have north and south poles. Like poles repel; opposite poles attract. You cannot isolate a single magnetic pole \u2014 cutting a magnet in half produces two smaller magnets, each with both poles. A magnetic field (B) surrounds every magnet, with field lines running from north to south outside the magnet. Moving electric charges create magnetic fields. A current-carrying wire produces a circular magnetic field around it (right-hand rule: thumb in direction of current, fingers curl in direction of magnetic field). An electromagnet is a coil of wire (solenoid) with current flowing through it, producing a strong magnetic field that can be turned on and off. Electromagnetic induction (Faraday's Law) states that a changing magnetic field through a coil induces a voltage (EMF) in the coil. This is the principle behind electric generators and transformers.",
+            "examples": [
+              {
+                "problem": "What happens when you cut a bar magnet in half?",
+                "answer": "You get two smaller magnets, each with north and south poles",
+                "explanation": "Magnetic monopoles do not exist. Every piece of a magnet has both poles. Magnetism arises from aligned atomic magnets, and each atom is itself a tiny dipole."
+              },
+              {
+                "problem": "How can you increase the strength of an electromagnet?",
+                "answer": "More coils, more current, or add an iron core",
+                "explanation": "More turns of wire concentrate the field. More current makes each turn's field stronger. An iron core enhances the field because iron is easily magnetized."
+              },
+              {
+                "problem": "How does an electric generator work?",
+                "answer": "A coil rotates in a magnetic field, inducing a voltage by electromagnetic induction",
+                "explanation": "As the coil rotates, the magnetic flux through it changes, inducing an EMF (Faraday's Law). This converts mechanical energy into electrical energy."
+              }
+            ],
+            "key_vocabulary": [
+              "magnet",
+              "magnetic field",
+              "north pole",
+              "south pole",
+              "electromagnet",
+              "solenoid",
+              "electromagnetic induction",
+              "Faraday's Law",
+              "right-hand rule",
+              "generator"
+            ],
+            "real_world": "MRI machines use powerful superconducting electromagnets (up to 60,000 times Earth's magnetic field) to image the inside of your body. Electric generators at power plants use electromagnetic induction to produce the electricity that powers our society."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Like magnetic poles:",
+              "options": [
+                "Attract",
+                "Repel",
+                "Have no effect",
+                "Neutralize"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Magnetic field lines run from ___ to south outside a magnet.",
+              "answer": "north"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An electromagnet uses:",
+              "options": [
+                "Permanent magnets only",
+                "Current through a coil of wire",
+                "Static charge",
+                "Gravity"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "fill_in",
+              "question": "Faraday's Law: a changing ___ field induces a voltage in a coil.",
+              "answer": "magnetic"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If you cut a magnet in half, you get:",
+              "options": [
+                "A north pole and a south pole",
+                "Two smaller magnets each with both poles",
+                "One demagnetized piece",
+                "A magnetic monopole"
+              ],
+              "correct": 1
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An electric generator converts:",
+              "options": [
+                "Electrical energy to mechanical",
+                "Mechanical energy to electrical",
+                "Heat to light",
+                "Chemical to electrical"
+              ],
+              "correct": 1
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "id": "11-science-8-quiz",
+        "questions": [
+          {
+            "type": "fill_in",
+            "question": "V = IR. If V = 24 V and R = 8 \u03a9, I = ___ A.",
+            "answer": "3"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In a parallel circuit, total resistance is ___ than any single resistor.",
+            "options": [
+              "Greater",
+              "Less",
+              "Equal",
+              "Double"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Coulomb's Law: F = kq\u2081q\u2082/r\u00b2 is an:",
+            "options": [
+              "Inverse law",
+              "Inverse-square law",
+              "Linear law",
+              "Cubic law"
+            ],
+            "correct": 1
+          },
+          {
+            "type": "fill_in",
+            "question": "Series resistors: 5 \u03a9 + 10 \u03a9 + 15 \u03a9 = ___ \u03a9 total.",
+            "answer": "30"
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Electromagnetic induction was discovered by:",
+            "options": [
+              "Newton",
+              "Coulomb",
+              "Faraday",
+              "Ohm"
+            ],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "electricity_magnetism_master"
+      }
+    }
+  ]
+}

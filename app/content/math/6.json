@@ -1,0 +1,801 @@
+{
+  "grade": 6,
+  "subject": "math",
+  "units": [
+    {
+      "id": "6-math-1",
+      "title": "Ratios and Proportions",
+      "description": "Understand ratios, find equivalent ratios, compute unit rates, and solve proportions.",
+      "lessons": [
+        {
+          "id": "6-math-1-1",
+          "title": "Understanding Ratios",
+          "type": "lesson",
+          "content": {
+            "explanation": "A ratio compares two quantities. You can write ratios three ways: using the word 'to' (3 to 4), using a colon (3:4), or as a fraction (3/4). Ratios describe part-to-part or part-to-whole relationships. For example, if there are 3 cats and 4 dogs, the ratio of cats to dogs is 3:4. The ratio of cats to total animals is 3:7. The order in a ratio matters: 3:4 is different from 4:3.",
+            "examples": [
+              {"problem": "A bag has 5 red and 3 blue marbles. What is the ratio of red to blue?", "answer": "5:3", "explanation": "5 red compared to 3 blue = 5:3."},
+              {"problem": "In a class of 20 students, 12 are girls. Ratio of girls to boys?", "answer": "12:8 or 3:2", "explanation": "Boys = 20 - 12 = 8. Ratio = 12:8 = 3:2 when simplified."},
+              {"problem": "A recipe uses 2 cups flour for every 1 cup sugar. Ratio of flour to sugar?", "answer": "2:1", "explanation": "2 cups flour to 1 cup sugar = 2:1."}
+            ],
+            "key_vocabulary": ["ratio", "compare", "part-to-part", "part-to-whole", "simplify"],
+            "real_world": "Ratios appear in recipes, sports statistics, maps, and mixing paints. A lemonade recipe of 3 cups water to 1 cup juice is a 3:1 ratio."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "A bag has 4 green and 6 yellow balls. What is the ratio of green to yellow?", "options": ["6:4", "4:6", "4:10", "2:5"], "correct": 1, "hint": "Green first, yellow second: 4:6."},
+            {"type": "fill_in", "question": "Simplify the ratio 12:8.", "answer": "3:2", "hint": "Divide both by 4: 12÷4=3, 8÷4=2."},
+            {"type": "multiple_choice", "question": "There are 10 boys and 15 girls. Ratio of boys to total students?", "options": ["10:15", "10:25", "2:5", "2:3"], "correct": 1, "hint": "Total = 25. Boys to total = 10:25 = 2:5."},
+            {"type": "fill_in", "question": "A recipe uses 3 eggs for every 2 cups of milk. Ratio of eggs to milk: ___", "answer": "3:2", "hint": "3 eggs compared to 2 cups milk."},
+            {"type": "word_problem", "question": "A garden has 8 rose bushes and 12 tulip plants. Write the ratio of roses to tulips in simplest form.", "answer": "2:3", "operation": "8:12 simplified", "hint": "Divide both by 4: 8÷4=2, 12÷4=3."},
+            {"type": "multiple_choice", "question": "Which is NOT a valid way to write a ratio?", "options": ["3 to 5", "3:5", "3/5", "3 × 5"], "correct": 3, "hint": "Ratios use 'to', colons, or fractions — not multiplication."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-1-2",
+          "title": "Equivalent Ratios",
+          "type": "lesson",
+          "content": {
+            "explanation": "Equivalent ratios have the same relationship between the two quantities, even though the numbers are different. You create equivalent ratios by multiplying or dividing both parts of the ratio by the same number. For example, 2:3 is equivalent to 4:6 (multiply both by 2) and 6:9 (multiply both by 3). A ratio table lists many equivalent ratios in an organized way.",
+            "examples": [
+              {"problem": "Find two ratios equivalent to 3:5.", "answer": "6:10 and 9:15", "explanation": "Multiply both by 2: 6:10. Multiply both by 3: 9:15."},
+              {"problem": "Is 4:6 equivalent to 10:15?", "answer": "Yes", "explanation": "Simplify both: 4:6 = 2:3 and 10:15 = 2:3. They are equal."},
+              {"problem": "Complete the ratio table: 2:7, 4:14, 6:?", "answer": "6:21", "explanation": "Multiply both by 3: 2×3=6, 7×3=21."}
+            ],
+            "key_vocabulary": ["equivalent ratios", "ratio table", "scale factor", "simplify", "proportional"],
+            "real_world": "Scaling a recipe is using equivalent ratios. If the recipe serves 4 (using 2 cups flour) and you want to serve 8, you double everything: 4 cups flour."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which ratio is equivalent to 3:4?", "options": ["6:7", "6:8", "9:16", "4:3"], "correct": 1, "hint": "Multiply both by 2: 6:8."},
+            {"type": "fill_in", "question": "Complete: 5:8 = 15:___", "answer": "24", "hint": "5 × 3 = 15, so 8 × 3 = 24."},
+            {"type": "multiple_choice", "question": "Is 6:9 equivalent to 8:12?", "options": ["Yes", "No"], "correct": 0, "hint": "6:9 = 2:3 and 8:12 = 2:3. Yes, they are equivalent."},
+            {"type": "fill_in", "question": "Complete: 4:10 = ___:5", "answer": "2", "hint": "10 ÷ 2 = 5, so 4 ÷ 2 = 2."},
+            {"type": "word_problem", "question": "A recipe calls for 3 cups of water and 1 cup of rice. If you use 9 cups of water, how many cups of rice do you need?", "answer": "3", "operation": "3:1 = 9:?", "hint": "3 × 3 = 9, so 1 × 3 = 3."},
+            {"type": "fill_in", "question": "Find the missing value: 7:2 = 21:___", "answer": "6", "hint": "7 × 3 = 21, so 2 × 3 = 6."},
+            {"type": "multiple_choice", "question": "Which pair are NOT equivalent ratios?", "options": ["2:5 and 4:10", "3:7 and 6:14", "1:4 and 3:16", "5:6 and 10:12"], "correct": 2, "hint": "1:4 → multiply by 3 → 3:12, not 3:16."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-1-3",
+          "title": "Unit Rates",
+          "type": "lesson",
+          "content": {
+            "explanation": "A unit rate is a ratio where the second quantity is 1. It tells you how much of the first quantity corresponds to one unit of the second. To find a unit rate, divide the first quantity by the second. For example, if you drive 150 miles in 3 hours, the unit rate is 150 ÷ 3 = 50 miles per hour. Unit rates make it easy to compare options.",
+            "examples": [
+              {"problem": "12 apples cost $6. What is the unit price?", "answer": "$0.50 per apple", "explanation": "$6 ÷ 12 = $0.50 per apple."},
+              {"problem": "You type 240 words in 4 minutes. What is your typing rate?", "answer": "60 words per minute", "explanation": "240 ÷ 4 = 60 words per minute."},
+              {"problem": "A car uses 10 gallons of gas to drive 300 miles. Miles per gallon?", "answer": "30 miles per gallon", "explanation": "300 ÷ 10 = 30 mpg."}
+            ],
+            "key_vocabulary": ["unit rate", "per", "rate", "divide", "compare"],
+            "real_world": "Unit rates help you compare prices at the grocery store. Is a 12-oz box for $3.60 (30¢/oz) a better deal than a 16-oz box for $4.00 (25¢/oz)?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "If 8 tickets cost $24, what is the price per ticket?", "options": ["$2", "$3", "$4", "$8"], "correct": 1, "hint": "$24 ÷ 8 = $3 per ticket."},
+            {"type": "fill_in", "question": "A runner covers 20 miles in 5 hours. Unit rate: ___ miles per hour.", "answer": "4", "hint": "20 ÷ 5 = 4."},
+            {"type": "word_problem", "question": "Store A sells 6 pens for $9. Store B sells 4 pens for $5. Which store has the lower unit price?", "answer": "Store B", "operation": "A: 9÷6=1.50, B: 5÷4=1.25", "hint": "Store A: $1.50/pen. Store B: $1.25/pen."},
+            {"type": "fill_in", "question": "A factory produces 450 items in 9 hours. Items per hour: ___", "answer": "50", "hint": "450 ÷ 9 = 50."},
+            {"type": "multiple_choice", "question": "Which is the better deal: 3 lbs for $12 or 5 lbs for $15?", "options": ["3 lbs for $12", "5 lbs for $15", "Same price", "Cannot determine"], "correct": 1, "hint": "3 lbs: $4/lb. 5 lbs: $3/lb. $3/lb is cheaper."},
+            {"type": "fill_in", "question": "You read 180 pages in 6 days. Pages per day: ___", "answer": "30", "hint": "180 ÷ 6 = 30."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-1-4",
+          "title": "Solving Proportions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A proportion states that two ratios are equal, such as 2/3 = 8/12. To solve for a missing value in a proportion, you can use cross-multiplication: multiply the numerator of one fraction by the denominator of the other. If a/b = c/d, then a × d = b × c. Another method is to find the scale factor between the ratios. Proportions are used to solve many real-world scaling problems.",
+            "examples": [
+              {"problem": "Solve: 3/4 = x/20", "answer": "x = 15", "explanation": "Cross multiply: 3 × 20 = 4 × x → 60 = 4x → x = 15."},
+              {"problem": "Solve: 5/8 = 15/y", "answer": "y = 24", "explanation": "Cross multiply: 5y = 8 × 15 = 120 → y = 24."},
+              {"problem": "If 2 inches on a map = 50 miles, how many miles is 7 inches?", "answer": "175 miles", "explanation": "2/50 = 7/x. Cross multiply: 2x = 350, x = 175."}
+            ],
+            "key_vocabulary": ["proportion", "cross-multiply", "scale factor", "equivalent", "solve"],
+            "real_world": "Maps use proportions. If 1 inch = 25 miles and two cities are 4 inches apart on the map, they are 4 × 25 = 100 miles apart in real life."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Solve: 2/5 = x/25", "options": ["5", "10", "12.5", "50"], "correct": 1, "hint": "2 × 25 = 5x → 50 = 5x → x = 10."},
+            {"type": "fill_in", "question": "Solve: 4/7 = 12/x. x = ___", "answer": "21", "hint": "4x = 7 × 12 = 84. x = 21."},
+            {"type": "fill_in", "question": "Solve: x/6 = 10/15. x = ___", "answer": "4", "hint": "15x = 6 × 10 = 60. x = 4."},
+            {"type": "word_problem", "question": "If 3 shirts cost $45, how much do 7 shirts cost?", "answer": "105", "operation": "3/45 = 7/x", "hint": "3/45 = 7/x. 3x = 315. x = $105."},
+            {"type": "multiple_choice", "question": "Solve: 6/x = 3/8", "options": ["16", "4", "12", "14"], "correct": 0, "hint": "3x = 6 × 8 = 48. x = 16."},
+            {"type": "word_problem", "question": "A model car is built at a 1:24 scale. If the model is 7 inches long, how long is the real car in inches?", "answer": "168", "operation": "1/24 = 7/x", "hint": "x = 7 × 24 = 168 inches."},
+            {"type": "fill_in", "question": "Solve: 9/12 = x/4. x = ___", "answer": "3", "hint": "12x = 9 × 4 = 36. x = 3."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Simplify the ratio 18:24.", "answer": "3:4", "hint": "Divide both by 6."},
+          {"type": "multiple_choice", "question": "Which ratio is equivalent to 5:9?", "options": ["10:18", "10:14", "15:18", "9:5"], "correct": 0, "hint": "5×2=10, 9×2=18."},
+          {"type": "fill_in", "question": "A car goes 240 miles on 8 gallons. Miles per gallon: ___", "answer": "30", "hint": "240 ÷ 8 = 30."},
+          {"type": "word_problem", "question": "Solve: 5/8 = 20/x. What is x?", "answer": "32", "operation": "5x = 160", "hint": "5x = 8 × 20 = 160. x = 32."},
+          {"type": "multiple_choice", "question": "If 4 pencils cost $2, how much do 10 pencils cost?", "options": ["$4", "$5", "$6", "$8"], "correct": 1, "hint": "Unit rate: $0.50/pencil. 10 × $0.50 = $5."},
+          {"type": "fill_in", "question": "Complete: 7:3 = 21:___", "answer": "9", "hint": "7 × 3 = 21, so 3 × 3 = 9."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "ratio_master"
+      }
+    },
+    {
+      "id": "6-math-2",
+      "title": "Dividing Fractions",
+      "description": "Learn to divide fractions by whole numbers, fractions by fractions, and mixed numbers.",
+      "lessons": [
+        {
+          "id": "6-math-2-1",
+          "title": "Dividing Fractions by Whole Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To divide a fraction by a whole number, multiply the fraction by the reciprocal of the whole number. The reciprocal of a whole number n is 1/n. So dividing by 3 is the same as multiplying by 1/3. For example, 2/5 ÷ 4 = 2/5 × 1/4 = 2/20 = 1/10. You can think of it as splitting the fraction into equal parts.",
+            "examples": [
+              {"problem": "3/4 ÷ 2", "answer": "3/8", "explanation": "3/4 × 1/2 = 3/8."},
+              {"problem": "5/6 ÷ 5", "answer": "1/6", "explanation": "5/6 × 1/5 = 5/30 = 1/6."},
+              {"problem": "1/2 ÷ 3", "answer": "1/6", "explanation": "1/2 × 1/3 = 1/6."}
+            ],
+            "key_vocabulary": ["divide", "reciprocal", "multiply by reciprocal", "simplify"],
+            "real_world": "If you have 3/4 of a pizza and want to split it equally among 2 people, each person gets 3/4 ÷ 2 = 3/8 of the pizza."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 2/3 ÷ 4?", "options": ["8/3", "2/12", "1/6", "6/4"], "correct": 2, "hint": "2/3 × 1/4 = 2/12 = 1/6."},
+            {"type": "fill_in", "question": "4/5 ÷ 2 = ___", "answer": "2/5", "hint": "4/5 × 1/2 = 4/10 = 2/5."},
+            {"type": "fill_in", "question": "1/3 ÷ 5 = ___", "answer": "1/15", "hint": "1/3 × 1/5 = 1/15."},
+            {"type": "multiple_choice", "question": "What is 7/8 ÷ 7?", "options": ["1/8", "7/56", "1/7", "8/7"], "correct": 0, "hint": "7/8 × 1/7 = 7/56 = 1/8."},
+            {"type": "word_problem", "question": "You have 3/4 of a cake. You split it equally among 3 friends. How much does each friend get?", "answer": "1/4", "operation": "3/4 ÷ 3", "hint": "3/4 × 1/3 = 3/12 = 1/4."},
+            {"type": "fill_in", "question": "6/7 ÷ 3 = ___", "answer": "2/7", "hint": "6/7 × 1/3 = 6/21 = 2/7."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-2-2",
+          "title": "Dividing Fractions by Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "To divide a fraction by a fraction, multiply by the reciprocal of the divisor. The reciprocal of a/b is b/a (flip the fraction). So a/b ÷ c/d = a/b × d/c. For example, 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6. Remember the phrase: 'keep, change, flip' — keep the first fraction, change ÷ to ×, flip the second fraction.",
+            "examples": [
+              {"problem": "1/2 ÷ 1/4", "answer": "2", "explanation": "1/2 × 4/1 = 4/2 = 2. (How many 1/4s fit in 1/2? Answer: 2.)"},
+              {"problem": "3/5 ÷ 2/3", "answer": "9/10", "explanation": "3/5 × 3/2 = 9/10."},
+              {"problem": "4/7 ÷ 2/7", "answer": "2", "explanation": "4/7 × 7/2 = 28/14 = 2."}
+            ],
+            "key_vocabulary": ["reciprocal", "keep-change-flip", "invert", "divisor", "quotient"],
+            "real_world": "If you have 3/4 of a yard of fabric and each doll dress needs 1/4 yard, how many dresses can you make? 3/4 ÷ 1/4 = 3 dresses."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 3/4 ÷ 1/2?", "options": ["3/8", "3/2", "6/4", "1 1/2"], "correct": 3, "hint": "3/4 × 2/1 = 6/4 = 3/2 = 1 1/2."},
+            {"type": "fill_in", "question": "2/3 ÷ 1/6 = ___", "answer": "4", "hint": "2/3 × 6/1 = 12/3 = 4."},
+            {"type": "fill_in", "question": "5/8 ÷ 3/4 = ___", "answer": "5/6", "hint": "5/8 × 4/3 = 20/24 = 5/6."},
+            {"type": "multiple_choice", "question": "What is 1/3 ÷ 2/5?", "options": ["2/15", "5/6", "6/5", "15/2"], "correct": 1, "hint": "1/3 × 5/2 = 5/6."},
+            {"type": "word_problem", "question": "A rope is 5/6 yard long. It is cut into pieces that are each 1/3 yard. How many pieces?", "answer": "2 1/2", "operation": "5/6 ÷ 1/3", "hint": "5/6 × 3/1 = 15/6 = 5/2 = 2 1/2."},
+            {"type": "fill_in", "question": "7/10 ÷ 7/20 = ___", "answer": "2", "hint": "7/10 × 20/7 = 140/70 = 2."},
+            {"type": "multiple_choice", "question": "What is 4/9 ÷ 2/3?", "options": ["8/27", "2/3", "6/9", "12/18"], "correct": 1, "hint": "4/9 × 3/2 = 12/18 = 2/3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-2-3",
+          "title": "Dividing Mixed Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To divide mixed numbers, first convert them to improper fractions. Then use the 'keep, change, flip' method: keep the first fraction, change division to multiplication, and flip the second fraction. Multiply and simplify. Convert the result back to a mixed number if needed. For example, 2 1/2 ÷ 1 1/4 = 5/2 ÷ 5/4 = 5/2 × 4/5 = 20/10 = 2.",
+            "examples": [
+              {"problem": "3 1/3 ÷ 1 2/3", "answer": "2", "explanation": "Convert: 10/3 ÷ 5/3 = 10/3 × 3/5 = 30/15 = 2."},
+              {"problem": "2 1/2 ÷ 1 1/4", "answer": "2", "explanation": "Convert: 5/2 ÷ 5/4 = 5/2 × 4/5 = 20/10 = 2."},
+              {"problem": "4 1/2 ÷ 3", "answer": "1 1/2", "explanation": "Convert: 9/2 ÷ 3 = 9/2 × 1/3 = 9/6 = 3/2 = 1 1/2."}
+            ],
+            "key_vocabulary": ["improper fraction", "convert", "mixed number", "reciprocal", "quotient"],
+            "real_world": "If you have 4 1/2 pounds of trail mix and want to put 1 1/2 pounds in each bag, you divide: 4 1/2 ÷ 1 1/2 = 3 bags."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is 2 1/2 ÷ 1/2?", "options": ["1 1/4", "5", "2", "3"], "correct": 1, "hint": "5/2 ÷ 1/2 = 5/2 × 2/1 = 10/2 = 5."},
+            {"type": "fill_in", "question": "3 1/3 ÷ 2/3 = ___", "answer": "5", "hint": "10/3 × 3/2 = 30/6 = 5."},
+            {"type": "fill_in", "question": "1 3/4 ÷ 1 1/2 = ___", "answer": "1 1/6", "hint": "7/4 ÷ 3/2 = 7/4 × 2/3 = 14/12 = 7/6 = 1 1/6."},
+            {"type": "multiple_choice", "question": "What is 5 ÷ 2 1/2?", "options": ["2", "2 1/2", "12 1/2", "10"], "correct": 0, "hint": "5/1 ÷ 5/2 = 5/1 × 2/5 = 10/5 = 2."},
+            {"type": "word_problem", "question": "A board is 6 1/4 feet long. You cut it into pieces that are 1 1/4 feet each. How many pieces?", "answer": "5", "operation": "6 1/4 ÷ 1 1/4", "hint": "25/4 ÷ 5/4 = 25/4 × 4/5 = 100/20 = 5."},
+            {"type": "fill_in", "question": "4 1/2 ÷ 1 1/2 = ___", "answer": "3", "hint": "9/2 ÷ 3/2 = 9/2 × 2/3 = 18/6 = 3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-2-4",
+          "title": "Fraction Division Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Division with fractions appears in many real-world situations. Key phrases that signal division include 'how many groups,' 'split into equal parts,' 'how many fit,' and 'what fraction of.' When solving word problems, identify the total amount and what it is being divided by. Set up the fraction division, use keep-change-flip, and interpret the answer in context.",
+            "examples": [
+              {"problem": "You have 3/4 gallon of paint. Each wall needs 1/8 gallon. How many walls can you paint?", "answer": "6", "explanation": "3/4 ÷ 1/8 = 3/4 × 8/1 = 24/4 = 6 walls."},
+              {"problem": "A trail is 2 1/2 miles. You hike 5/8 mile per hour. How many hours to finish?", "answer": "4", "explanation": "2 1/2 ÷ 5/8 = 5/2 × 8/5 = 40/10 = 4 hours."},
+              {"problem": "Share 2/3 of a pie equally among 4 people.", "answer": "1/6 per person", "explanation": "2/3 ÷ 4 = 2/3 × 1/4 = 2/12 = 1/6."}
+            ],
+            "key_vocabulary": ["divide", "how many groups", "split equally", "quotient", "interpret"],
+            "real_world": "Cooks divide fractions when splitting recipes, builders divide when measuring cuts, and nurses divide when calculating dosages."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A piece of ribbon is 5/6 yard. Each bow needs 1/6 yard. How many bows can be made?", "answer": "5", "operation": "5/6 ÷ 1/6", "hint": "5/6 × 6/1 = 30/6 = 5."},
+            {"type": "word_problem", "question": "You have 2 1/4 cups of flour. A cookie recipe needs 3/4 cup. How many batches can you make?", "answer": "3", "operation": "2 1/4 ÷ 3/4", "hint": "9/4 ÷ 3/4 = 9/4 × 4/3 = 36/12 = 3."},
+            {"type": "multiple_choice", "question": "A tank holds 3/5 gallon. A cup holds 1/10 gallon. How many cups fill the tank?", "options": ["3", "5", "6", "10"], "correct": 2, "hint": "3/5 ÷ 1/10 = 3/5 × 10/1 = 30/5 = 6."},
+            {"type": "word_problem", "question": "A roll of tape is 4 1/2 meters. Each project needs 3/4 meter. How many projects can use tape?", "answer": "6", "operation": "4 1/2 ÷ 3/4", "hint": "9/2 ÷ 3/4 = 9/2 × 4/3 = 36/6 = 6."},
+            {"type": "fill_in", "question": "7/8 ÷ 1/4 = ___", "answer": "3 1/2", "hint": "7/8 × 4/1 = 28/8 = 7/2 = 3 1/2."},
+            {"type": "word_problem", "question": "Three friends share 1/2 of a cake equally. How much does each friend get?", "answer": "1/6", "operation": "1/2 ÷ 3", "hint": "1/2 × 1/3 = 1/6."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "3/5 ÷ 6 = ___", "answer": "1/10", "hint": "3/5 × 1/6 = 3/30 = 1/10."},
+          {"type": "multiple_choice", "question": "What is 2/3 ÷ 4/5?", "options": ["8/15", "5/6", "10/12", "6/20"], "correct": 1, "hint": "2/3 × 5/4 = 10/12 = 5/6."},
+          {"type": "fill_in", "question": "3 1/2 ÷ 1 3/4 = ___", "answer": "2", "hint": "7/2 ÷ 7/4 = 7/2 × 4/7 = 28/14 = 2."},
+          {"type": "word_problem", "question": "You have 5/8 of a pizza. You give each person 1/8. How many people can eat?", "answer": "5", "operation": "5/8 ÷ 1/8", "hint": "5/8 × 8/1 = 40/8 = 5."},
+          {"type": "multiple_choice", "question": "What is 4 ÷ 2/3?", "options": ["8/3", "2 2/3", "6", "3/8"], "correct": 2, "hint": "4/1 × 3/2 = 12/2 = 6."},
+          {"type": "fill_in", "question": "1 1/3 ÷ 2/3 = ___", "answer": "2", "hint": "4/3 × 3/2 = 12/6 = 2."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_division_ace"
+      }
+    },
+    {
+      "id": "6-math-3",
+      "title": "Integers and Rational Numbers",
+      "description": "Explore positive and negative numbers, the number line, comparing integers, and absolute value.",
+      "lessons": [
+        {
+          "id": "6-math-3-1",
+          "title": "Positive and Negative Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "Positive numbers are greater than zero, and negative numbers are less than zero. We write negative numbers with a minus sign, like -5. Together with zero, positive and negative numbers are called integers. Negative numbers represent things like debt, temperatures below zero, and elevations below sea level. On a number line, negative numbers are to the left of zero and positive numbers are to the right.",
+            "examples": [
+              {"problem": "A temperature of 10 degrees below zero", "answer": "-10°", "explanation": "Below zero means negative: -10."},
+              {"problem": "A bank balance after depositing $50", "answer": "+50 or 50", "explanation": "Deposits are positive."},
+              {"problem": "An elevator going 3 floors down from the lobby", "answer": "-3", "explanation": "Going down is negative: -3 floors."}
+            ],
+            "key_vocabulary": ["integer", "positive", "negative", "zero", "opposite"],
+            "real_world": "Negative numbers describe temperatures below zero, debts, below-sea-level elevations, and losses in games."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which number represents a debt of $20?", "options": ["20", "-20", "0", "+20"], "correct": 1, "hint": "Debt is negative: -20."},
+            {"type": "fill_in", "question": "The opposite of 7 is ___.", "answer": "-7", "hint": "The opposite of a positive is negative."},
+            {"type": "multiple_choice", "question": "Which is a negative integer?", "options": ["5", "0", "-3", "1/2"], "correct": 2, "hint": "-3 is less than zero, making it negative."},
+            {"type": "fill_in", "question": "The opposite of -12 is ___.", "answer": "12", "hint": "The opposite of negative is positive."},
+            {"type": "word_problem", "question": "A submarine is 200 feet below sea level. Express this as an integer.", "answer": "-200", "operation": "below sea level = negative", "hint": "Below sea level is negative."},
+            {"type": "multiple_choice", "question": "What integer represents a gain of 15 points?", "options": ["-15", "0", "15", "-150"], "correct": 2, "hint": "A gain is positive: +15."},
+            {"type": "fill_in", "question": "The temperature dropped from 5°F to 8 degrees below zero. The new temperature is ___ °F.", "answer": "-8", "hint": "8 below zero = -8°F."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-3-2",
+          "title": "The Number Line with Integers",
+          "type": "lesson",
+          "content": {
+            "explanation": "On a number line, zero is in the center. Positive numbers go to the right, and negative numbers go to the left. Each integer has a specific position. Numbers increase as you move right and decrease as you move left. To plot -4, start at 0 and move 4 units to the left. Understanding the number line helps with comparing, ordering, and computing with integers.",
+            "examples": [
+              {"problem": "Plot -3 on the number line.", "answer": "3 units left of 0", "explanation": "Start at 0, count 3 spaces to the left."},
+              {"problem": "What number is 5 units to the right of -2?", "answer": "3", "explanation": "-2 + 5 = 3."},
+              {"problem": "What number is halfway between -4 and 2?", "answer": "-1", "explanation": "(-4 + 2) ÷ 2 = -2 ÷ 2 = -1."}
+            ],
+            "key_vocabulary": ["number line", "plot", "left", "right", "position", "integer"],
+            "real_world": "Thermometers are essentially vertical number lines. Temperatures above zero are up (positive) and below zero are down (negative)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where is -5 on a number line?", "options": ["5 units right of 0", "5 units left of 0", "At 0", "Between 0 and 5"], "correct": 1, "hint": "Negative numbers are to the left of zero."},
+            {"type": "fill_in", "question": "What number is 3 units to the right of -7?", "answer": "-4", "hint": "-7 + 3 = -4."},
+            {"type": "fill_in", "question": "What number is 4 units to the left of 1?", "answer": "-3", "hint": "1 - 4 = -3."},
+            {"type": "multiple_choice", "question": "Which number is farther from zero: -8 or 5?", "options": ["-8", "5", "Same distance", "Cannot tell"], "correct": 0, "hint": "-8 is 8 units from 0; 5 is 5 units from 0."},
+            {"type": "fill_in", "question": "What number is halfway between -6 and 0?", "answer": "-3", "hint": "(-6 + 0) ÷ 2 = -3."},
+            {"type": "word_problem", "question": "The temperature is -2°F. It rises 9 degrees. What is the new temperature?", "answer": "7", "operation": "-2 + 9", "hint": "-2 + 9 = 7°F."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-3-3",
+          "title": "Comparing and Ordering Integers",
+          "type": "lesson",
+          "content": {
+            "explanation": "When comparing integers, remember that on a number line, numbers increase from left to right. Every positive number is greater than every negative number. Among negative numbers, the one closer to zero is greater: -2 > -5 because -2 is to the right of -5. Use < (less than), > (greater than), or = (equal to) to compare. To order integers, arrange them from least to greatest (left to right on the number line).",
+            "examples": [
+              {"problem": "Compare: -3 and -7", "answer": "-3 > -7", "explanation": "-3 is to the right of -7 on the number line, so -3 is greater."},
+              {"problem": "Order from least to greatest: 4, -1, -6, 2, 0", "answer": "-6, -1, 0, 2, 4", "explanation": "On a number line, left to right: -6, -1, 0, 2, 4."},
+              {"problem": "Compare: -10 and 3", "answer": "-10 < 3", "explanation": "All negative numbers are less than all positive numbers."}
+            ],
+            "key_vocabulary": ["compare", "order", "greater than", "less than", "least to greatest"],
+            "real_world": "Comparing integers helps decide which is colder (-15°F or -5°F), which account balance is lower, or which floor is higher in a building with underground levels."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is greater: -4 or -9?", "options": ["-4", "-9", "They are equal", "Cannot tell"], "correct": 0, "hint": "-4 is closer to 0, so it is greater."},
+            {"type": "fill_in", "question": "Use < or >: -5 ___ 2", "answer": "<", "hint": "Negative numbers are less than positive numbers."},
+            {"type": "fill_in", "question": "Order from least to greatest: 3, -8, 0, -2, 5", "answer": "-8, -2, 0, 3, 5", "hint": "Leftmost on the number line comes first."},
+            {"type": "multiple_choice", "question": "Which is the coldest temperature?", "options": ["-1°F", "-15°F", "0°F", "5°F"], "correct": 1, "hint": "-15 is the farthest left on the number line."},
+            {"type": "fill_in", "question": "Use < or >: -3 ___ -1", "answer": "<", "hint": "-3 is farther from 0 (more negative), so -3 < -1."},
+            {"type": "word_problem", "question": "Three divers are at depths -12 ft, -5 ft, and -20 ft. Who is deepest?", "answer": "-20 ft", "operation": "compare -12, -5, -20", "hint": "-20 is the most negative, meaning the deepest."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-3-4",
+          "title": "Absolute Value",
+          "type": "lesson",
+          "content": {
+            "explanation": "The absolute value of a number is its distance from zero on the number line. It is always positive or zero, never negative. We write it with vertical bars: |−5| = 5 and |5| = 5. Both -5 and 5 are 5 units from zero. Absolute value answers the question 'how far from zero?' without caring about direction. This is useful for measuring distances and magnitudes.",
+            "examples": [
+              {"problem": "|−8|", "answer": "8", "explanation": "-8 is 8 units from zero, so |−8| = 8."},
+              {"problem": "|3|", "answer": "3", "explanation": "3 is 3 units from zero, so |3| = 3."},
+              {"problem": "|0|", "answer": "0", "explanation": "0 is 0 units from itself."}
+            ],
+            "key_vocabulary": ["absolute value", "distance from zero", "magnitude", "positive"],
+            "real_world": "If you are 5 miles west or 5 miles east of home, you are the same distance from home — absolute value ignores direction."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is |−12|?", "options": ["-12", "12", "0", "-24"], "correct": 1, "hint": "Distance from 0: 12 units."},
+            {"type": "fill_in", "question": "|−7| = ___", "answer": "7", "hint": "The distance of -7 from 0 is 7."},
+            {"type": "fill_in", "question": "|15| = ___", "answer": "15", "hint": "15 is already positive; its distance from 0 is 15."},
+            {"type": "multiple_choice", "question": "Which has a greater absolute value: -6 or 4?", "options": ["-6", "4", "Same", "Cannot determine"], "correct": 0, "hint": "|-6| = 6, |4| = 4. 6 > 4."},
+            {"type": "fill_in", "question": "|−20| + |5| = ___", "answer": "25", "hint": "20 + 5 = 25."},
+            {"type": "word_problem", "question": "City A is at elevation -50 feet and City B is at elevation 30 feet. Which city is farther from sea level (0 feet)?", "answer": "City A", "operation": "|-50| = 50 vs |30| = 30", "hint": "|-50| = 50 > |30| = 30. City A is farther from sea level."},
+            {"type": "fill_in", "question": "If |x| = 9, what are the two possible values of x?", "answer": "9 and -9", "hint": "Both 9 and -9 are 9 units from zero."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "The opposite of -15 is ___.", "answer": "15", "hint": "Flip the sign."},
+          {"type": "multiple_choice", "question": "Which is greater: -7 or -3?", "options": ["-7", "-3", "Equal", "Cannot tell"], "correct": 1, "hint": "-3 is closer to 0."},
+          {"type": "fill_in", "question": "|−25| = ___", "answer": "25", "hint": "Distance from 0."},
+          {"type": "fill_in", "question": "Order from least to greatest: 6, -4, 0, -9, 3", "answer": "-9, -4, 0, 3, 6", "hint": "Number line left to right."},
+          {"type": "word_problem", "question": "A diver is at -30 feet. She ascends 18 feet. What is her new depth?", "answer": "-12", "operation": "-30 + 18", "hint": "-30 + 18 = -12 feet."},
+          {"type": "multiple_choice", "question": "If |a| = |b| but a ≠ b, what must be true?", "options": ["a = b", "a = -b", "a = 0", "b = 0"], "correct": 1, "hint": "Same distance from 0 but different: a and -a."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "integer_explorer"
+      }
+    },
+    {
+      "id": "6-math-4",
+      "title": "Expressions and Equations",
+      "description": "Work with variables, evaluate expressions, write equations, and solve one-step equations.",
+      "lessons": [
+        {
+          "id": "6-math-4-1",
+          "title": "Variables and Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A variable is a letter that stands for an unknown number, like x or n. An algebraic expression combines variables, numbers, and operations. For example, 3x + 5 means '3 times some number, plus 5.' The number in front of a variable is called the coefficient. A term is a part of an expression separated by + or - signs. In 3x + 5, there are two terms: 3x and 5.",
+            "examples": [
+              {"problem": "Write an expression: 'a number increased by 7'", "answer": "x + 7", "explanation": "'Increased by' means addition."},
+              {"problem": "Write: 'twice a number minus 3'", "answer": "2x - 3", "explanation": "'Twice' means multiply by 2."},
+              {"problem": "In the expression 4n + 9, identify the coefficient, variable, and constant.", "answer": "Coefficient: 4, Variable: n, Constant: 9", "explanation": "4 is in front of n, n is the variable, 9 is the constant term."}
+            ],
+            "key_vocabulary": ["variable", "expression", "coefficient", "constant", "term", "algebraic"],
+            "real_world": "If a gym charges $10 per month plus a $25 sign-up fee, the total cost for m months is 10m + 25."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which expression means 'a number divided by 4'?", "options": ["4x", "x + 4", "x/4", "x - 4"], "correct": 2, "hint": "'Divided by 4' means ÷ 4 or /4."},
+            {"type": "fill_in", "question": "Write an expression for '5 more than a number n': ___", "answer": "n + 5", "hint": "'More than' means addition."},
+            {"type": "multiple_choice", "question": "In the expression 7y - 2, what is the coefficient of y?", "options": ["2", "7", "y", "-2"], "correct": 1, "hint": "The coefficient is the number in front of the variable."},
+            {"type": "fill_in", "question": "Write: 'the product of 6 and a number, decreased by 1'", "answer": "6x - 1", "hint": "Product means multiply: 6x. Decreased by 1: - 1."},
+            {"type": "word_problem", "question": "Tickets cost $8 each. Write an expression for the cost of t tickets.", "answer": "8t", "operation": "8 × t", "hint": "8 dollars per ticket times t tickets."},
+            {"type": "fill_in", "question": "How many terms are in the expression 3x + 2y - 5?", "answer": "3", "hint": "Terms are separated by + or -: 3x, 2y, and 5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-4-2",
+          "title": "Evaluating Expressions",
+          "type": "lesson",
+          "content": {
+            "explanation": "To evaluate an expression, replace each variable with its given value and then compute using the order of operations. For example, if x = 4, then 3x + 2 = 3(4) + 2 = 12 + 2 = 14. If there are multiple variables, replace each one. Be careful with negative numbers and remember PEMDAS.",
+            "examples": [
+              {"problem": "Evaluate 2x + 5 when x = 3", "answer": "11", "explanation": "2(3) + 5 = 6 + 5 = 11."},
+              {"problem": "Evaluate y² - 4 when y = 5", "answer": "21", "explanation": "5² - 4 = 25 - 4 = 21."},
+              {"problem": "Evaluate 3a + 2b when a = 4 and b = 3", "answer": "18", "explanation": "3(4) + 2(3) = 12 + 6 = 18."}
+            ],
+            "key_vocabulary": ["evaluate", "substitute", "replace", "compute", "value"],
+            "real_world": "If your phone plan is $30 + $5 per GB of data, and you use 3 GB, your bill is 30 + 5(3) = $45."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Evaluate 4x - 1 when x = 5.", "options": ["19", "15", "20", "9"], "correct": 0, "hint": "4(5) - 1 = 20 - 1 = 19."},
+            {"type": "fill_in", "question": "Evaluate x/3 + 7 when x = 12.", "answer": "11", "hint": "12/3 + 7 = 4 + 7 = 11."},
+            {"type": "fill_in", "question": "Evaluate 2(n + 4) when n = 6.", "answer": "20", "hint": "2(6 + 4) = 2(10) = 20."},
+            {"type": "multiple_choice", "question": "Evaluate a² + b when a = 3, b = 7.", "options": ["13", "16", "10", "49"], "correct": 1, "hint": "3² + 7 = 9 + 7 = 16."},
+            {"type": "fill_in", "question": "Evaluate 5m - 2m when m = 8.", "answer": "24", "hint": "5(8) - 2(8) = 40 - 16 = 24. Or: 3m = 3(8) = 24."},
+            {"type": "word_problem", "question": "A taxi costs $3 plus $2 per mile. You ride m = 7 miles. Total cost = 3 + 2m. Evaluate.", "answer": "17", "operation": "3 + 2(7)", "hint": "3 + 14 = 17 dollars."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-4-3",
+          "title": "Writing Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "An equation uses an equals sign to show that two expressions have the same value. To write an equation from a word problem, identify the unknown (use a variable), figure out the operations, and set it equal to the known result. For example, 'a number plus 5 equals 12' becomes x + 5 = 12. Being able to translate words to equations is a key algebra skill.",
+            "examples": [
+              {"problem": "A number plus 8 equals 15.", "answer": "x + 8 = 15", "explanation": "The unknown number is x. Adding 8 gives 15."},
+              {"problem": "Three times a number equals 24.", "answer": "3x = 24", "explanation": "'Three times' means multiply by 3."},
+              {"problem": "A number divided by 5 equals 9.", "answer": "x/5 = 9", "explanation": "'Divided by 5' gives x/5."}
+            ],
+            "key_vocabulary": ["equation", "equals", "solve", "unknown", "variable"],
+            "real_world": "Equations model real situations: 'I spent some money (m) and have $20 left from my $50' becomes 50 - m = 20."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which equation means 'a number decreased by 7 is 10'?", "options": ["x + 7 = 10", "x - 7 = 10", "7 - x = 10", "7x = 10"], "correct": 1, "hint": "'Decreased by 7' means subtract 7."},
+            {"type": "fill_in", "question": "Write an equation: 'twice a number is 18'. ___", "answer": "2x = 18", "hint": "Twice means 2 times."},
+            {"type": "fill_in", "question": "Write: 'a number divided by 3 is 7'. ___", "answer": "x/3 = 7", "hint": "Divided by 3 = 7."},
+            {"type": "multiple_choice", "question": "'The sum of a number and 11 is 20' translates to:", "options": ["x - 11 = 20", "x + 11 = 20", "11x = 20", "x/11 = 20"], "correct": 1, "hint": "Sum means addition."},
+            {"type": "word_problem", "question": "Apples cost $2 each. You spend $14. Write an equation for the number of apples (a) you bought.", "answer": "2a = 14", "operation": "cost per apple × number = total", "hint": "$2 per apple times a apples equals $14."},
+            {"type": "fill_in", "question": "'A number increased by 4 equals 19.' Write and solve the equation.", "answer": "x + 4 = 19, x = 15", "hint": "x + 4 = 19 → x = 19 - 4 = 15."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-4-4",
+          "title": "Solving One-Step Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "To solve a one-step equation, use the inverse (opposite) operation to isolate the variable. If the equation adds a number, subtract it from both sides. If it subtracts, add. If it multiplies, divide. If it divides, multiply. Whatever you do to one side, you must do to the other side to keep the equation balanced. Always check your answer by substituting back.",
+            "examples": [
+              {"problem": "x + 9 = 14", "answer": "x = 5", "explanation": "Subtract 9 from both sides: x = 14 - 9 = 5. Check: 5 + 9 = 14. ✓"},
+              {"problem": "3x = 21", "answer": "x = 7", "explanation": "Divide both sides by 3: x = 21 ÷ 3 = 7. Check: 3(7) = 21. ✓"},
+              {"problem": "x/4 = 6", "answer": "x = 24", "explanation": "Multiply both sides by 4: x = 6 × 4 = 24. Check: 24/4 = 6. ✓"},
+              {"problem": "x - 8 = 3", "answer": "x = 11", "explanation": "Add 8 to both sides: x = 3 + 8 = 11. Check: 11 - 8 = 3. ✓"}
+            ],
+            "key_vocabulary": ["solve", "inverse operation", "isolate", "balance", "check"],
+            "real_world": "Solving equations is like unwrapping a package. The variable is the gift inside, and each operation is a layer of wrapping you remove."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Solve: x + 12 = 20", "options": ["x = 32", "x = 8", "x = 12", "x = 240"], "correct": 1, "hint": "Subtract 12: x = 20 - 12 = 8."},
+            {"type": "fill_in", "question": "Solve: 5x = 45. x = ___", "answer": "9", "hint": "Divide by 5: x = 45 ÷ 5 = 9."},
+            {"type": "fill_in", "question": "Solve: x - 7 = 15. x = ___", "answer": "22", "hint": "Add 7: x = 15 + 7 = 22."},
+            {"type": "multiple_choice", "question": "Solve: x/6 = 5", "options": ["x = 11", "x = 30", "x = 1", "x = 36"], "correct": 1, "hint": "Multiply by 6: x = 5 × 6 = 30."},
+            {"type": "word_problem", "question": "You have saved some money (m). After spending $13, you have $27. Solve: m - 13 = 27.", "answer": "40", "operation": "m = 27 + 13", "hint": "Add 13 to both sides: m = 40."},
+            {"type": "fill_in", "question": "Solve: 8x = 56. x = ___", "answer": "7", "hint": "56 ÷ 8 = 7."},
+            {"type": "fill_in", "question": "Solve: x + 25 = 41. x = ___", "answer": "16", "hint": "41 - 25 = 16."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Evaluate 3x + 4 when x = 5.", "answer": "19", "hint": "3(5) + 4 = 19."},
+          {"type": "multiple_choice", "question": "Which expression means 'a number multiplied by 7, then decreased by 2'?", "options": ["7 + x - 2", "7x - 2", "7(x - 2)", "2 - 7x"], "correct": 1, "hint": "Multiply by 7: 7x. Decrease by 2: - 2."},
+          {"type": "fill_in", "question": "Solve: x - 9 = 16. x = ___", "answer": "25", "hint": "Add 9: x = 25."},
+          {"type": "fill_in", "question": "Solve: 4x = 36. x = ___", "answer": "9", "hint": "36 ÷ 4 = 9."},
+          {"type": "word_problem", "question": "Pens cost $3 each. You spend $21 total. How many pens did you buy? Set up and solve an equation.", "answer": "7", "operation": "3p = 21, p = 7", "hint": "3p = 21 → p = 7."},
+          {"type": "multiple_choice", "question": "Solve: x/5 = 8", "options": ["x = 3", "x = 13", "x = 40", "x = 1.6"], "correct": 2, "hint": "x = 8 × 5 = 40."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "equation_solver"
+      }
+    },
+    {
+      "id": "6-math-5",
+      "title": "Area and Surface Area",
+      "description": "Calculate areas of triangles and trapezoids, and surface areas of rectangular prisms using nets.",
+      "lessons": [
+        {
+          "id": "6-math-5-1",
+          "title": "Area of Triangles",
+          "type": "lesson",
+          "content": {
+            "explanation": "The area of a triangle is half the area of a rectangle with the same base and height. The formula is A = 1/2 × base × height, or A = bh/2. The base is any side of the triangle, and the height is the perpendicular distance from the base to the opposite vertex. The height may be inside or outside the triangle depending on its shape.",
+            "examples": [
+              {"problem": "A triangle with base 8 cm and height 5 cm.", "answer": "20 cm²", "explanation": "A = 1/2 × 8 × 5 = 40/2 = 20 cm²."},
+              {"problem": "A triangle with base 12 in and height 7 in.", "answer": "42 in²", "explanation": "A = 1/2 × 12 × 7 = 84/2 = 42 in²."},
+              {"problem": "A triangle with base 6 m and height 10 m.", "answer": "30 m²", "explanation": "A = 1/2 × 6 × 10 = 60/2 = 30 m²."}
+            ],
+            "key_vocabulary": ["area", "triangle", "base", "height", "perpendicular"],
+            "real_world": "Triangular shapes appear in architecture, flags, and road signs. Knowing the area helps when painting, tiling, or covering surfaces."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Area of a triangle with b = 10, h = 6?", "options": ["60", "30", "16", "20"], "correct": 1, "hint": "A = 1/2 × 10 × 6 = 30."},
+            {"type": "fill_in", "question": "Triangle: base = 14 cm, height = 8 cm. Area = ___ cm²", "answer": "56", "hint": "1/2 × 14 × 8 = 56."},
+            {"type": "fill_in", "question": "Triangle: base = 9 in, height = 4 in. Area = ___ in²", "answer": "18", "hint": "1/2 × 9 × 4 = 18."},
+            {"type": "multiple_choice", "question": "A triangle has an area of 24 m² and a base of 8 m. What is the height?", "options": ["3 m", "6 m", "16 m", "12 m"], "correct": 1, "hint": "24 = 1/2 × 8 × h → 24 = 4h → h = 6."},
+            {"type": "word_problem", "question": "A triangular garden has a base of 15 feet and a height of 12 feet. What is its area?", "answer": "90", "operation": "1/2 × 15 × 12", "hint": "A = 1/2 × 15 × 12 = 90 ft²."},
+            {"type": "fill_in", "question": "Triangle: b = 20, h = 3. Area = ___", "answer": "30", "hint": "1/2 × 20 × 3 = 30."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-5-2",
+          "title": "Area of Trapezoids",
+          "type": "lesson",
+          "content": {
+            "explanation": "A trapezoid is a four-sided shape with exactly one pair of parallel sides, called the bases (b₁ and b₂). The height is the perpendicular distance between the bases. The area formula is A = 1/2 × (b₁ + b₂) × h. This works because a trapezoid is like the average of two rectangles. Add the bases, multiply by the height, and take half.",
+            "examples": [
+              {"problem": "Trapezoid with bases 6 and 10, height 4.", "answer": "32", "explanation": "A = 1/2 × (6 + 10) × 4 = 1/2 × 16 × 4 = 32."},
+              {"problem": "Trapezoid with bases 5 and 9, height 6.", "answer": "42", "explanation": "A = 1/2 × (5 + 9) × 6 = 1/2 × 14 × 6 = 42."},
+              {"problem": "Trapezoid with bases 8 and 12, height 5.", "answer": "50", "explanation": "A = 1/2 × (8 + 12) × 5 = 1/2 × 20 × 5 = 50."}
+            ],
+            "key_vocabulary": ["trapezoid", "bases", "height", "parallel", "area formula"],
+            "real_world": "The cross-section of many bridges and dams is a trapezoid shape. Knowing the area helps engineers plan materials."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Trapezoid: b₁ = 4, b₂ = 8, h = 5. Area?", "options": ["20", "30", "40", "60"], "correct": 1, "hint": "1/2 × (4+8) × 5 = 1/2 × 12 × 5 = 30."},
+            {"type": "fill_in", "question": "Trapezoid: b₁ = 7, b₂ = 11, h = 6. Area = ___", "answer": "54", "hint": "1/2 × (7+11) × 6 = 1/2 × 18 × 6 = 54."},
+            {"type": "fill_in", "question": "Trapezoid: b₁ = 3, b₂ = 9, h = 8. Area = ___", "answer": "48", "hint": "1/2 × (3+9) × 8 = 1/2 × 12 × 8 = 48."},
+            {"type": "multiple_choice", "question": "A trapezoid has area 40, b₁ = 6, b₂ = 10. What is h?", "options": ["5", "10", "4", "8"], "correct": 0, "hint": "40 = 1/2 × 16 × h → 40 = 8h → h = 5."},
+            {"type": "word_problem", "question": "A flower bed is shaped like a trapezoid with bases 10 ft and 14 ft, and height 8 ft. What is the area?", "answer": "96", "operation": "1/2 × (10+14) × 8", "hint": "1/2 × 24 × 8 = 96 ft²."},
+            {"type": "fill_in", "question": "Trapezoid: b₁ = 5, b₂ = 5, h = 10. Area = ___", "answer": "50", "hint": "Equal bases = rectangle. 1/2 × 10 × 10 = 50. (Also 5 × 10 = 50.)"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-5-3",
+          "title": "Surface Area of Rectangular Prisms",
+          "type": "lesson",
+          "content": {
+            "explanation": "The surface area of a 3D shape is the total area of all its faces. A rectangular prism has 6 faces: 3 pairs of identical rectangles. The formula is SA = 2lw + 2lh + 2wh, where l = length, w = width, and h = height. Calculate the area of each pair of faces and add them together. Surface area tells you how much material is needed to wrap or cover the outside.",
+            "examples": [
+              {"problem": "Rectangular prism: l=5, w=3, h=4", "answer": "94", "explanation": "SA = 2(5×3) + 2(5×4) + 2(3×4) = 30 + 40 + 24 = 94."},
+              {"problem": "Cube with side 6", "answer": "216", "explanation": "SA = 6 × 6² = 6 × 36 = 216."},
+              {"problem": "Box: l=10, w=2, h=3", "answer": "112", "explanation": "SA = 2(10×2) + 2(10×3) + 2(2×3) = 40 + 60 + 12 = 112."}
+            ],
+            "key_vocabulary": ["surface area", "face", "rectangular prism", "net", "total area"],
+            "real_world": "Surface area tells you how much wrapping paper you need for a gift box or how much paint to buy for a room."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "SA of a box: l=4, w=3, h=2?", "options": ["52", "24", "26", "48"], "correct": 0, "hint": "2(4×3) + 2(4×2) + 2(3×2) = 24 + 16 + 12 = 52."},
+            {"type": "fill_in", "question": "Cube side = 5. Surface area = ___", "answer": "150", "hint": "6 × 5² = 6 × 25 = 150."},
+            {"type": "fill_in", "question": "Box: l=8, w=6, h=3. SA = ___", "answer": "180", "hint": "2(48) + 2(24) + 2(18) = 96 + 48 + 36 = 180."},
+            {"type": "multiple_choice", "question": "A box is 10×5×4. SA?", "options": ["200", "220", "180", "160"], "correct": 1, "hint": "2(50) + 2(40) + 2(20) = 100 + 80 + 40 = 220."},
+            {"type": "word_problem", "question": "A gift box is 12 in long, 8 in wide, and 5 in tall. How much wrapping paper is needed (surface area)?", "answer": "392", "operation": "2(12×8) + 2(12×5) + 2(8×5)", "hint": "2(96) + 2(60) + 2(40) = 192 + 120 + 80 = 392 in²."},
+            {"type": "fill_in", "question": "Box: l=7, w=7, h=7. SA = ___", "answer": "294", "hint": "This is a cube: 6 × 49 = 294."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-5-4",
+          "title": "Nets of 3D Shapes",
+          "type": "lesson",
+          "content": {
+            "explanation": "A net is a 2D pattern that folds into a 3D shape. When you unfold a rectangular prism, you get a net with 6 rectangles. You can find the surface area by calculating the area of each rectangle in the net and adding them up. Nets help visualize which faces make up a 3D shape and are useful for understanding how 3D shapes are constructed.",
+            "examples": [
+              {"problem": "A box net shows faces: two 4×3, two 4×2, two 3×2. Total SA?", "answer": "52", "explanation": "2(12) + 2(8) + 2(6) = 24 + 16 + 12 = 52."},
+              {"problem": "A cube net has 6 identical squares with side 3. SA?", "answer": "54", "explanation": "6 × (3×3) = 6 × 9 = 54."},
+              {"problem": "Identify which nets fold into a cube.", "answer": "A cross-shaped net with 6 squares folds into a cube.", "explanation": "11 different nets can form a cube. The most common is a cross shape."}
+            ],
+            "key_vocabulary": ["net", "unfold", "face", "3D shape", "fold"],
+            "real_world": "Cardboard boxes start as flat nets that are folded and glued into 3D containers. Package designers use nets every day."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many rectangles are in the net of a rectangular prism?", "options": ["4", "5", "6", "8"], "correct": 2, "hint": "A rectangular prism has 6 faces."},
+            {"type": "fill_in", "question": "A cube net has 6 squares, each with area 16 cm². Total SA = ___ cm².", "answer": "96", "hint": "6 × 16 = 96."},
+            {"type": "multiple_choice", "question": "A net has two 5×3 faces, two 5×4 faces, and two 3×4 faces. What prism does it form?", "options": ["5×4×4", "5×3×4", "3×3×4", "5×5×3"], "correct": 1, "hint": "The three dimensions appear in the face pairs: 5×3, 5×4, 3×4 → prism is 5×4×3."},
+            {"type": "fill_in", "question": "A net has faces: two 6×2, two 6×3, two 2×3. SA = ___", "answer": "72", "hint": "2(12) + 2(18) + 2(6) = 24 + 36 + 12 = 72."},
+            {"type": "word_problem", "question": "You unfold a box and find 6 squares, each 4 cm on a side. What is the total surface area?", "answer": "96", "operation": "6 × 16", "hint": "Each square: 4×4 = 16. Total: 6 × 16 = 96 cm²."},
+            {"type": "multiple_choice", "question": "Can a shape with 5 squares in an L-shape fold into a cube?", "options": ["Yes", "No — needs 6 squares"], "correct": 1, "hint": "A cube needs exactly 6 faces."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Triangle: b = 16, h = 9. Area = ___", "answer": "72", "hint": "1/2 × 16 × 9 = 72."},
+          {"type": "multiple_choice", "question": "Trapezoid: b₁=5, b₂=11, h=4. Area?", "options": ["32", "44", "22", "64"], "correct": 0, "hint": "1/2 × (5+11) × 4 = 1/2 × 16 × 4 = 32."},
+          {"type": "fill_in", "question": "SA of a box: l=6, w=4, h=3 = ___", "answer": "108", "hint": "2(24)+2(18)+2(12) = 48+36+24 = 108."},
+          {"type": "word_problem", "question": "A triangular pennant has base 12 in and height 18 in. What is its area?", "answer": "108", "operation": "1/2 × 12 × 18", "hint": "1/2 × 12 × 18 = 108 in²."},
+          {"type": "fill_in", "question": "Cube side = 8. SA = ___", "answer": "384", "hint": "6 × 64 = 384."},
+          {"type": "multiple_choice", "question": "How many faces does a rectangular prism net have?", "options": ["4", "5", "6", "8"], "correct": 2, "hint": "6 rectangular faces."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "area_architect"
+      }
+    },
+    {
+      "id": "6-math-6",
+      "title": "Statistics",
+      "description": "Learn about mean, median, mode, range, and basic data displays.",
+      "lessons": [
+        {
+          "id": "6-math-6-1",
+          "title": "Mean (Average)",
+          "type": "lesson",
+          "content": {
+            "explanation": "The mean is the average of a data set. To find it, add all the values together and divide by the number of values. The mean gives you a single number that represents the 'center' of the data. It is sensitive to very large or very small values (outliers), which can pull the mean up or down.",
+            "examples": [
+              {"problem": "Find the mean of 4, 8, 6, 10, 2.", "answer": "6", "explanation": "Sum = 4+8+6+10+2 = 30. Count = 5. Mean = 30/5 = 6."},
+              {"problem": "Test scores: 85, 90, 78, 92, 95. Mean?", "answer": "88", "explanation": "Sum = 440. Mean = 440/5 = 88."},
+              {"problem": "Ages: 12, 14, 11, 13. Mean?", "answer": "12.5", "explanation": "Sum = 50. Mean = 50/4 = 12.5."}
+            ],
+            "key_vocabulary": ["mean", "average", "sum", "divide", "data set"],
+            "real_world": "Your GPA is a mean of your grades. Batting averages in baseball are means too."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Mean of 10, 20, 30?", "options": ["15", "20", "30", "60"], "correct": 1, "hint": "Sum = 60. 60/3 = 20."},
+            {"type": "fill_in", "question": "Mean of 5, 7, 9, 11, 3 = ___", "answer": "7", "hint": "Sum = 35. 35/5 = 7."},
+            {"type": "fill_in", "question": "Scores: 82, 94, 76, 88. Mean = ___", "answer": "85", "hint": "Sum = 340. 340/4 = 85."},
+            {"type": "word_problem", "question": "A student scored 70, 85, 90, and 95 on four tests. What is the mean score?", "answer": "85", "operation": "(70+85+90+95)/4", "hint": "Sum = 340. 340/4 = 85."},
+            {"type": "multiple_choice", "question": "Mean of 100, 200, 300, 400, 500?", "options": ["200", "250", "300", "350"], "correct": 2, "hint": "Sum = 1500. 1500/5 = 300."},
+            {"type": "fill_in", "question": "Five friends have 3, 5, 7, 2, and 8 pets. Mean = ___", "answer": "5", "hint": "Sum = 25. 25/5 = 5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-6-2",
+          "title": "Median and Mode",
+          "type": "lesson",
+          "content": {
+            "explanation": "The median is the middle value when data is arranged in order. If there is an even number of values, the median is the average of the two middle values. The mode is the value that appears most often. A data set can have no mode, one mode, or multiple modes. The median is less affected by outliers than the mean, making it useful for skewed data.",
+            "examples": [
+              {"problem": "Find median of 3, 7, 1, 9, 5.", "answer": "5", "explanation": "Ordered: 1, 3, 5, 7, 9. Middle value: 5."},
+              {"problem": "Find median of 2, 4, 6, 8.", "answer": "5", "explanation": "Ordered: 2, 4, 6, 8. Two middle values: 4 and 6. Average: (4+6)/2 = 5."},
+              {"problem": "Find mode of 3, 5, 3, 7, 5, 3.", "answer": "3", "explanation": "3 appears 3 times, 5 appears 2 times, 7 once. Mode = 3."}
+            ],
+            "key_vocabulary": ["median", "mode", "middle value", "order", "frequency"],
+            "real_world": "Real estate uses median home prices because a few very expensive homes would skew the mean. The mode tells which shoe size a store should stock the most."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Median of 2, 8, 4, 6, 10?", "options": ["4", "6", "8", "5"], "correct": 1, "hint": "Ordered: 2,4,6,8,10. Middle: 6."},
+            {"type": "fill_in", "question": "Median of 12, 5, 9, 3, 7, 15 = ___", "answer": "8", "hint": "Ordered: 3,5,7,9,12,15. Middle two: 7 and 9. Average: 8."},
+            {"type": "fill_in", "question": "Mode of 4, 7, 4, 9, 7, 4, 2 = ___", "answer": "4", "hint": "4 appears 3 times — the most."},
+            {"type": "multiple_choice", "question": "What is the mode of 5, 8, 3, 5, 8, 1?", "options": ["5 only", "8 only", "5 and 8", "1"], "correct": 2, "hint": "Both 5 and 8 appear twice. Two modes."},
+            {"type": "word_problem", "question": "Temperatures this week: 68, 72, 65, 70, 72, 74, 72. What is the mode?", "answer": "72", "operation": "72 appears 3 times", "hint": "72 appears most often (3 times)."},
+            {"type": "fill_in", "question": "Median of 100, 200, 300, 400 = ___", "answer": "250", "hint": "Middle two: 200 and 300. Average: 250."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-6-3",
+          "title": "Range",
+          "type": "lesson",
+          "content": {
+            "explanation": "The range measures how spread out a data set is. It is calculated by subtracting the smallest value from the largest value: Range = maximum - minimum. A larger range means the data is more spread out, while a smaller range means the data is more clustered together. The range is simple to calculate but only uses two values from the entire set.",
+            "examples": [
+              {"problem": "Range of 3, 7, 1, 9, 5.", "answer": "8", "explanation": "Max = 9, Min = 1. Range = 9 - 1 = 8."},
+              {"problem": "Range of 45, 67, 52, 89, 71.", "answer": "44", "explanation": "Max = 89, Min = 45. Range = 89 - 45 = 44."},
+              {"problem": "Range of 10, 10, 10, 10.", "answer": "0", "explanation": "Max = 10, Min = 10. Range = 0. All values are the same."}
+            ],
+            "key_vocabulary": ["range", "spread", "maximum", "minimum", "variability"],
+            "real_world": "The range of temperatures in a desert (very hot days, cold nights) is much larger than a tropical island's range."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Range of 12, 5, 8, 20, 3?", "options": ["8", "17", "15", "12"], "correct": 1, "hint": "20 - 3 = 17."},
+            {"type": "fill_in", "question": "Range of 50, 75, 60, 90, 80 = ___", "answer": "40", "hint": "90 - 50 = 40."},
+            {"type": "fill_in", "question": "Range of -5, 3, -2, 7, 0 = ___", "answer": "12", "hint": "Max = 7, Min = -5. Range = 7 - (-5) = 12."},
+            {"type": "multiple_choice", "question": "Which data set has the largest range?", "options": ["2,4,6,8", "10,11,12,13", "1,5,20,25", "7,7,7,7"], "correct": 2, "hint": "Set C: 25-1=24. That is the largest."},
+            {"type": "word_problem", "question": "Daily high temperatures: 85, 72, 91, 68, 77. What is the range?", "answer": "23", "operation": "91 - 68", "hint": "Max 91, Min 68. 91 - 68 = 23."},
+            {"type": "fill_in", "question": "Test scores: 78, 92, 85, 100, 88. Range = ___", "answer": "22", "hint": "100 - 78 = 22."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-6-4",
+          "title": "Dot Plots and Histograms",
+          "type": "lesson",
+          "content": {
+            "explanation": "A dot plot displays data using dots above a number line. Each dot represents one data point. Dot plots are great for small data sets and make it easy to see the mode, clusters, and gaps. A histogram groups data into ranges (called bins) and uses bars to show the frequency of each range. Histograms are better for larger data sets and show the overall shape of the distribution.",
+            "examples": [
+              {"problem": "Data: 2, 3, 3, 4, 4, 4, 5, 5, 6. Describe the dot plot.", "answer": "Dots above 2(1), 3(2), 4(3), 5(2), 6(1)", "explanation": "Place 1 dot above 2, 2 dots above 3, 3 dots above 4, 2 dots above 5, 1 dot above 6. Peaked at 4."},
+              {"problem": "Ages of club members: 10-14(5), 15-19(8), 20-24(3). Describe the histogram.", "answer": "Three bars: heights 5, 8, 3", "explanation": "The tallest bar is 15-19, showing that is the most common age range."},
+              {"problem": "What can you tell from a histogram with a tall bar in the middle?", "answer": "Most data falls in the middle range.", "explanation": "The tallest bar shows the most frequent range of values."}
+            ],
+            "key_vocabulary": ["dot plot", "histogram", "frequency", "bin", "distribution", "cluster"],
+            "real_world": "Doctors use histograms to see the distribution of patient ages. Teachers use dot plots to see how test scores are spread."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "On a dot plot, each dot represents:", "options": ["A category", "One data point", "The mean", "A range"], "correct": 1, "hint": "Each dot = one piece of data."},
+            {"type": "fill_in", "question": "Data: 5, 5, 6, 6, 6, 7, 8. How many dots go above 6 in a dot plot?", "answer": "3", "hint": "6 appears 3 times."},
+            {"type": "multiple_choice", "question": "A histogram groups data into:", "options": ["Individual dots", "Bins or ranges", "Pie slices", "Scatter points"], "correct": 1, "hint": "Histograms use bins (ranges) for their bars."},
+            {"type": "fill_in", "question": "In a histogram, the bin 10-19 has a frequency of 7 and 20-29 has 12. Which bin has more data?", "answer": "20-29", "hint": "12 > 7."},
+            {"type": "word_problem", "question": "Shoe sizes: 6, 6, 7, 7, 7, 8, 8, 9. What is the mode from the dot plot?", "answer": "7", "operation": "7 appears 3 times", "hint": "7 has the most dots (3)."},
+            {"type": "multiple_choice", "question": "Which display is better for 200 data points?", "options": ["Dot plot", "Histogram", "Both work equally well", "Neither"], "correct": 1, "hint": "Histograms handle large data sets better by grouping into bins."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Mean of 8, 12, 10, 6, 14 = ___", "answer": "10", "hint": "Sum = 50. 50/5 = 10."},
+          {"type": "multiple_choice", "question": "Median of 3, 9, 1, 7, 5?", "options": ["3", "5", "7", "9"], "correct": 1, "hint": "Ordered: 1,3,5,7,9. Middle = 5."},
+          {"type": "fill_in", "question": "Mode of 2, 4, 6, 4, 2, 4 = ___", "answer": "4", "hint": "4 appears 3 times."},
+          {"type": "fill_in", "question": "Range of 15, 28, 42, 7, 33 = ___", "answer": "35", "hint": "42 - 7 = 35."},
+          {"type": "word_problem", "question": "Scores: 70, 80, 90, 80, 100. Find the mean and mode.", "answer": "Mean = 84, Mode = 80", "operation": "Mean: 420/5; Mode: 80 appears twice", "hint": "Sum = 420, mean = 84. 80 appears twice (mode)."},
+          {"type": "multiple_choice", "question": "Which measure is most affected by an outlier?", "options": ["Mean", "Median", "Mode", "Range"], "correct": 0, "hint": "An outlier pulls the mean toward it more than the median or mode."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "statistics_scholar"
+      }
+    },
+    {
+      "id": "6-math-7",
+      "title": "Volume",
+      "description": "Extend volume concepts to rectangular prisms with fractional dimensions and solve volume word problems.",
+      "lessons": [
+        {
+          "id": "6-math-7-1",
+          "title": "Volume of Rectangular Prisms with Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "The volume formula V = l × w × h works with fractional and decimal dimensions. When edge lengths are fractions, multiply them carefully. Convert mixed numbers to improper fractions first if needed. The result is in cubic units. For example, a box 2 1/2 ft × 3 ft × 1 1/3 ft has volume = 5/2 × 3 × 4/3 = 60/6 = 10 ft³.",
+            "examples": [
+              {"problem": "Box: 1/2 × 3/4 × 2", "answer": "3/4 cubic units", "explanation": "1/2 × 3/4 = 3/8. Then 3/8 × 2 = 6/8 = 3/4."},
+              {"problem": "Box: 2 1/2 × 4 × 1 1/5", "answer": "12 cubic units", "explanation": "5/2 × 4 = 20/2 = 10. Then 10 × 6/5 = 60/5 = 12."},
+              {"problem": "Box: 3.5 × 2 × 4", "answer": "28 cubic units", "explanation": "3.5 × 2 = 7. Then 7 × 4 = 28."}
+            ],
+            "key_vocabulary": ["volume", "fraction dimensions", "cubic units", "rectangular prism"],
+            "real_world": "Real containers often have fractional measurements. A shipping box might be 12 1/2 inches × 8 3/4 inches × 6 inches."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Box: 1 1/2 × 2 × 3. Volume = ___", "answer": "9", "hint": "3/2 × 2 = 3. Then 3 × 3 = 9."},
+            {"type": "multiple_choice", "question": "Box: 1/3 × 1/2 × 6. Volume?", "options": ["1", "2", "1/6", "6"], "correct": 0, "hint": "1/3 × 1/2 = 1/6. Then 1/6 × 6 = 1."},
+            {"type": "fill_in", "question": "Box: 2.5 × 4 × 1.5 = ___", "answer": "15", "hint": "2.5 × 4 = 10. Then 10 × 1.5 = 15."},
+            {"type": "fill_in", "question": "Box: 3 1/3 × 2 1/4 × 1. Volume = ___", "answer": "7 1/2", "hint": "10/3 × 9/4 = 90/12 = 15/2 = 7 1/2."},
+            {"type": "word_problem", "question": "A planter box is 4 1/2 ft long, 2 ft wide, and 1 1/3 ft deep. What is its volume?", "answer": "12", "operation": "9/2 × 2 × 4/3", "hint": "9/2 × 2 = 9. Then 9 × 4/3 = 36/3 = 12 ft³."},
+            {"type": "multiple_choice", "question": "Box: 2/3 × 3/4 × 8. Volume?", "options": ["4", "3", "2", "16"], "correct": 0, "hint": "2/3 × 3/4 = 6/12 = 1/2. Then 1/2 × 8 = 4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-7-2",
+          "title": "Volume Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "Volume word problems require you to identify the dimensions and apply V = l × w × h. Sometimes you need to find a missing dimension given the volume and other dimensions. To find a missing dimension, divide the volume by the product of the known dimensions. Always include the correct units (cubic inches, cubic feet, etc.) in your answer.",
+            "examples": [
+              {"problem": "An aquarium is 24 in × 12 in × 16 in. How many cubic inches of water can it hold?", "answer": "4608 in³", "explanation": "V = 24 × 12 × 16 = 4608 in³."},
+              {"problem": "A box has V = 120 cm³, l = 10, w = 4. Height?", "answer": "3 cm", "explanation": "h = 120 ÷ (10 × 4) = 120 ÷ 40 = 3."},
+              {"problem": "A pool is 25 m × 10 m × 2 m. Volume of water?", "answer": "500 m³", "explanation": "V = 25 × 10 × 2 = 500 m³."}
+            ],
+            "key_vocabulary": ["volume", "capacity", "dimensions", "missing dimension", "cubic"],
+            "real_world": "Volume calculations help decide how much soil for a raised garden, how much concrete for a foundation, or how much water a pool holds."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A storage unit is 10 ft × 8 ft × 9 ft. Volume = ___ ft³", "answer": "720", "hint": "10 × 8 × 9 = 720."},
+            {"type": "multiple_choice", "question": "A box has V = 180, l = 9, w = 5. Height?", "options": ["3", "4", "6", "20"], "correct": 1, "hint": "180 ÷ (9×5) = 180 ÷ 45 = 4."},
+            {"type": "fill_in", "question": "A fish tank is 30 in × 12 in × 18 in. Volume = ___ in³", "answer": "6480", "hint": "30 × 12 = 360. 360 × 18 = 6480."},
+            {"type": "word_problem", "question": "A shipping container is 20 ft × 8 ft × 8 ft. Another is 40 ft × 8 ft × 8 ft. How much more volume does the larger one have?", "answer": "2560", "operation": "(40×8×8) - (20×8×8)", "hint": "Large: 2560. Small: 1280. Difference: 1280. Wait: 40×8×8=2560, 20×8×8=1280. 2560-1280=1280."},
+            {"type": "fill_in", "question": "V = 200 cm³, l = 10 cm, h = 5 cm. Width = ___ cm", "answer": "4", "hint": "200 ÷ (10×5) = 200 ÷ 50 = 4."},
+            {"type": "word_problem", "question": "You need to fill a box 2 ft × 3 ft × 1.5 ft with sand. How many cubic feet of sand do you need?", "answer": "9", "operation": "2 × 3 × 1.5", "hint": "2 × 3 = 6. 6 × 1.5 = 9 ft³."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "6-math-7-3",
+          "title": "Comparing Volumes",
+          "type": "lesson",
+          "content": {
+            "explanation": "When comparing the volumes of different shapes, calculate each volume separately and then compare. You might need to determine which container holds more, or how many times one volume fits into another. Doubling one dimension doubles the volume; doubling all dimensions multiplies the volume by 8 (2³). Understanding how changes in dimensions affect volume is important for real-world applications.",
+            "examples": [
+              {"problem": "Box A: 4×3×2. Box B: 4×6×2. How do their volumes compare?", "answer": "Box B is twice as large", "explanation": "A: 24. B: 48. 48/24 = 2."},
+              {"problem": "A cube has side 3. Double the side length. How does volume change?", "answer": "Volume becomes 8 times as large", "explanation": "Original: 27. New side 6: 216. 216/27 = 8."},
+              {"problem": "Container A: 10×5×4 = 200. Container B: 8×8×3 = 192. Which is larger?", "answer": "Container A", "explanation": "200 > 192."}
+            ],
+            "key_vocabulary": ["compare", "ratio", "scale", "double", "triple"],
+            "real_world": "When choosing storage containers, comparing volumes helps you pick the right size."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Box A: 5×4×3. Box B: 5×4×6. B's volume is ___ times A's.", "options": ["2", "3", "4", "6"], "correct": 0, "hint": "A: 60. B: 120. 120/60 = 2."},
+            {"type": "fill_in", "question": "Cube side = 2: V = 8. Cube side = 4: V = 64. How many times bigger?", "answer": "8", "hint": "64 ÷ 8 = 8 times."},
+            {"type": "word_problem", "question": "Pool A: 20×10×5 = 1000 ft³. Pool B: 30×10×4 = 1200 ft³. Which holds more water and by how much?", "answer": "Pool B, by 200 ft³", "operation": "1200 - 1000", "hint": "1200 - 1000 = 200 ft³ more."},
+            {"type": "fill_in", "question": "If you triple every dimension of a box, the volume becomes ___ times as large.", "answer": "27", "hint": "3 × 3 × 3 = 27."},
+            {"type": "multiple_choice", "question": "Box: 6×4×5 = 120. A new box has double the length: 12×4×5. New volume?", "options": ["120", "240", "480", "960"], "correct": 1, "hint": "12 × 4 × 5 = 240."},
+            {"type": "fill_in", "question": "Box A: 3×3×3 = 27. Box B: 2×4×5 = 40. Which has more volume?", "answer": "Box B", "hint": "40 > 27."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Box: 1 1/2 × 4 × 2 1/3. Volume = ___", "answer": "14", "hint": "3/2 × 4 = 6. 6 × 7/3 = 42/3 = 14."},
+          {"type": "multiple_choice", "question": "V = 360, l = 12, w = 6. Height?", "options": ["3", "5", "10", "30"], "correct": 1, "hint": "360 ÷ 72 = 5."},
+          {"type": "word_problem", "question": "A sandbox is 6 ft × 4 ft × 1.5 ft. How many cubic feet of sand does it need?", "answer": "36", "operation": "6 × 4 × 1.5", "hint": "6 × 4 = 24. 24 × 1.5 = 36."},
+          {"type": "fill_in", "question": "If you double every dimension of a 2×3×4 box, the new volume is ___.", "answer": "192", "hint": "4×6×8 = 192. (Original: 24. 24×8=192.)"},
+          {"type": "multiple_choice", "question": "Box A: 10×5×4. Box B: 8×6×5. Which is larger?", "options": ["Box A (200)", "Box B (240)", "Same", "Cannot tell"], "correct": 1, "hint": "A: 200. B: 240."},
+          {"type": "fill_in", "question": "Box: 2/3 × 3 × 5. Volume = ___", "answer": "10", "hint": "2/3 × 3 = 2. Then 2 × 5 = 10."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "volume_veteran"
+      }
+    }
+  ]
+}

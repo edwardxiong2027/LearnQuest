@@ -1,0 +1,728 @@
+{
+  "grade": 5,
+  "subject": "social_studies",
+  "units": [
+    {
+      "id": "5-ss-1",
+      "title": "The American Revolution",
+      "description": "Discover the causes, key events, and important people of the American Revolution, and understand how the thirteen colonies won their independence from Britain.",
+      "lessons": [
+        {
+          "id": "5-ss-1-1",
+          "title": "Tensions Between Britain and the Colonies",
+          "type": "lesson",
+          "content": {
+            "explanation": "After the French and Indian War (1754-1763), Britain had spent a great deal of money defending the colonies and decided the colonists should help pay for it. Britain began passing new taxes on the colonies, including the Sugar Act (1764), which taxed sugar and molasses, and the Stamp Act (1765), which required colonists to pay a tax on printed materials like newspapers, legal documents, and playing cards. The colonists were outraged because they had no representatives in the British Parliament — the government body that passed these taxes. They protested with the rallying cry 'No taxation without representation!' In 1767, the Townshend Acts placed taxes on glass, lead, paint, paper, and tea. Colonists organized boycotts, refusing to buy British goods. Groups like the Sons of Liberty, led by Samuel Adams, organized protests. Tensions continued to build between the colonists who wanted more freedom and the British government that wanted to maintain control over its colonies.",
+            "examples": [
+              {"problem": "What did 'No taxation without representation' mean?", "answer": "Colonists believed it was unfair to be taxed by a government in which they had no elected representatives.", "explanation": "The colonists had no one speaking for them in the British Parliament, so they argued that Parliament had no right to tax them."},
+              {"problem": "What is a boycott?", "answer": "A boycott is when people refuse to buy certain products as a form of protest.", "explanation": "Colonial boycotts of British goods put economic pressure on Britain to change its policies."}
+            ],
+            "key_vocabulary": ["taxation", "representation", "Parliament", "boycott", "Stamp Act", "Sons of Liberty", "protest"],
+            "real_world": "The idea of 'no taxation without representation' is still important today. American citizens vote for the leaders who decide how tax money is spent."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why did Britain start taxing the colonies after 1763?", "options": ["To punish the colonists", "To pay for the French and Indian War debts", "To build new colonies", "To pay the king's personal expenses"], "correct": 1, "hint": "Britain had spent a lot of money on a recent war."},
+            {"type": "fill_in", "question": "The colonists' rallying cry was 'No taxation without ___!'", "answer": "representation", "hint": "The colonists wanted a voice in the government that taxed them."},
+            {"type": "true_false", "question": "The Stamp Act taxed sugar and molasses.", "answer": false, "hint": "The Stamp Act taxed printed materials. A different act taxed sugar."},
+            {"type": "multiple_choice", "question": "What is a boycott?", "options": ["A type of tax", "Refusing to buy certain products as a protest", "A military attack", "A government law"], "correct": 1, "hint": "Colonists used this strategy against British goods."},
+            {"type": "true_false", "question": "The colonists had representatives in the British Parliament.", "answer": false, "hint": "This was the main reason colonists were upset about being taxed."},
+            {"type": "multiple_choice", "question": "Who led the Sons of Liberty?", "options": ["George Washington", "Benjamin Franklin", "Samuel Adams", "Thomas Jefferson"], "correct": 2, "hint": "This patriot from Massachusetts organized many protests."},
+            {"type": "fill_in", "question": "The ___ Acts of 1767 taxed glass, lead, paint, paper, and tea.", "answer": "Townshend", "hint": "These acts were named after the British official who proposed them."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-1-2",
+          "title": "The Road to Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "Several major events pushed the colonies closer to revolution. On March 5, 1770, British soldiers in Boston fired into an angry crowd, killing five colonists. This event became known as the Boston Massacre and was used as propaganda to turn colonists against Britain. In 1773, Parliament passed the Tea Act, which gave a British company a monopoly on tea sales in the colonies. On December 16, 1773, colonists disguised as Mohawk Indians boarded British ships and dumped 342 chests of tea into Boston Harbor. This famous act of protest became known as the Boston Tea Party. In response, Britain passed the Intolerable Acts in 1774, which closed Boston Harbor, banned town meetings, and forced colonists to house British soldiers. These harsh punishments angered colonists across all thirteen colonies, not just Massachusetts. In September 1774, delegates from twelve colonies met at the First Continental Congress in Philadelphia to discuss how to respond to Britain's actions. They agreed to continue boycotts and to meet again if the situation did not improve.",
+            "examples": [
+              {"problem": "What happened at the Boston Tea Party?", "answer": "Colonists disguised as Mohawk Indians dumped 342 chests of tea into Boston Harbor to protest the Tea Act.", "explanation": "This dramatic protest showed Britain that the colonists were serious about resisting unfair taxes."},
+              {"problem": "What were the Intolerable Acts?", "answer": "Harsh British laws that closed Boston Harbor, banned town meetings, and forced colonists to house British soldiers.", "explanation": "These punishments were meant to make an example of Massachusetts, but they united the other colonies against Britain."}
+            ],
+            "key_vocabulary": ["Boston Massacre", "Boston Tea Party", "Intolerable Acts", "monopoly", "propaganda", "Continental Congress", "delegate"],
+            "real_world": "The right to peaceful protest is protected in the First Amendment of the US Constitution. The colonists' protests helped establish this important American value."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What happened at the Boston Massacre?", "options": ["Colonists dumped tea into the harbor", "British soldiers fired on colonists, killing five", "The first battle of the Revolution", "A meeting of colonial leaders"], "correct": 1, "hint": "This event happened on March 5, 1770 in Boston."},
+            {"type": "fill_in", "question": "At the Boston Tea Party, colonists dumped ___ chests of tea into the harbor.", "answer": "342", "hint": "This was a large number of chests, worth a fortune."},
+            {"type": "true_false", "question": "The Intolerable Acts were designed to reward the colonists for their loyalty.", "answer": false, "hint": "These acts were harsh punishments for the Boston Tea Party."},
+            {"type": "multiple_choice", "question": "What did the First Continental Congress decide to do?", "options": ["Declare war on Britain", "Continue boycotts and meet again if needed", "Surrender to Britain", "Move to a different country"], "correct": 1, "hint": "The delegates were not yet ready for war but wanted to show unity."},
+            {"type": "true_false", "question": "The Boston Tea Party happened in 1773.", "answer": true, "hint": "December 16, 1773 is the exact date."},
+            {"type": "multiple_choice", "question": "Which act gave a British company a monopoly on tea sales?", "options": ["The Stamp Act", "The Sugar Act", "The Tea Act", "The Intolerable Acts"], "correct": 2, "hint": "This act directly led to the Boston Tea Party."},
+            {"type": "fill_in", "question": "Delegates from twelve colonies met at the First ___ Congress in Philadelphia.", "answer": "Continental", "hint": "This congress represented the colonies as a whole continent."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-1-3",
+          "title": "The War Begins",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American Revolution began on April 19, 1775, when British soldiers marched from Boston to Lexington and Concord, Massachusetts to seize colonial weapons. At Lexington, they were met by about 70 colonial militia called minutemen — ordinary citizens trained to be ready to fight at a minute's notice. Someone fired the 'shot heard round the world,' and eight minutemen were killed. The British continued to Concord, but more minutemen had gathered, and they forced the British to retreat back to Boston, firing at them from behind trees and stone walls the entire way. In June 1775, the Battle of Bunker Hill (actually fought on Breed's Hill) showed that the colonists could stand up to the professional British army, even though the British eventually captured the hill. The Second Continental Congress met in May 1775 and chose George Washington to lead the new Continental Army. Washington, a Virginia planter and experienced military leader, would face the enormous challenge of turning inexperienced farmers and shopkeepers into an army that could defeat the most powerful military in the world.",
+            "examples": [
+              {"problem": "Who were the minutemen?", "answer": "Colonial militia — ordinary citizens who were trained to be ready to fight at a minute's notice.", "explanation": "Minutemen were farmers, shopkeepers, and tradesmen who dropped everything to defend their communities when called upon."},
+              {"problem": "Why was the Battle of Bunker Hill important?", "answer": "It showed that the colonists could fight effectively against the professional British army.", "explanation": "Even though the British won the battle, they suffered heavy casualties, which boosted colonial confidence."}
+            ],
+            "key_vocabulary": ["militia", "minutemen", "Lexington and Concord", "Continental Army", "Battle of Bunker Hill", "retreat", "revolution"],
+            "real_world": "The phrase 'shot heard round the world' reminds us that the American Revolution inspired people in other countries to fight for their own freedom and rights."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did the first battles of the American Revolution take place?", "options": ["Philadelphia and New York", "Lexington and Concord", "Yorktown and Savannah", "Boston and Charleston"], "correct": 1, "hint": "These two Massachusetts towns saw fighting on April 19, 1775."},
+            {"type": "fill_in", "question": "Colonial militia who were ready to fight at a minute's notice were called ___.", "answer": "minutemen", "hint": "Their name refers to how quickly they could be ready for battle."},
+            {"type": "true_false", "question": "George Washington was chosen to lead the Continental Army.", "answer": true, "hint": "He was selected by the Second Continental Congress."},
+            {"type": "multiple_choice", "question": "When did the American Revolution begin?", "options": ["1770", "1773", "1775", "1776"], "correct": 2, "hint": "The first shots were fired at Lexington and Concord in April of this year."},
+            {"type": "true_false", "question": "The colonists won the Battle of Bunker Hill.", "answer": false, "hint": "The British captured the hill, but suffered heavy losses."},
+            {"type": "multiple_choice", "question": "Who were the minutemen?", "options": ["British soldiers", "Professional military officers", "Ordinary citizens trained as militia", "French allies"], "correct": 2, "hint": "These were farmers and shopkeepers who were ready to fight quickly."},
+            {"type": "fill_in", "question": "The first shot of the Revolution is often called the 'shot heard round the ___.'", "answer": "world", "hint": "This phrase suggests the Revolution's impact was felt globally."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-1-4",
+          "title": "The Declaration of Independence",
+          "type": "lesson",
+          "content": {
+            "explanation": "By early 1776, many colonists were ready to break away from Britain completely. Thomas Paine's pamphlet 'Common Sense,' published in January 1776, argued powerfully that the colonies should declare independence. It was read by hundreds of thousands of people and helped turn public opinion in favor of independence. In June 1776, the Second Continental Congress asked Thomas Jefferson to write a document explaining why the colonies should be free. Jefferson, with help from Benjamin Franklin and John Adams, wrote the Declaration of Independence. The document declared that 'all men are created equal' and that people have 'unalienable rights' to 'life, liberty, and the pursuit of happiness.' It listed the colonists' grievances against King George III and declared the thirteen colonies to be free and independent states. On July 4, 1776, the Continental Congress officially adopted the Declaration. Signing it was an act of courage — if the Revolution failed, the signers could be executed for treason. July 4th is now celebrated as Independence Day.",
+            "examples": [
+              {"problem": "Who wrote the Declaration of Independence?", "answer": "Thomas Jefferson, with help from Benjamin Franklin and John Adams.", "explanation": "Jefferson was chosen because he was known as an excellent writer. The committee revised his draft before it was adopted."},
+              {"problem": "What are 'unalienable rights'?", "answer": "Rights that cannot be taken away — life, liberty, and the pursuit of happiness.", "explanation": "The Declaration argued that these rights come from nature, not from the government, and that governments exist to protect them."}
+            ],
+            "key_vocabulary": ["Declaration of Independence", "Thomas Jefferson", "unalienable rights", "independence", "Common Sense", "grievance", "treason"],
+            "real_world": "Every July 4th, Americans celebrate Independence Day with fireworks, parades, and picnics to remember the day the Declaration of Independence was adopted."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who was the main author of the Declaration of Independence?", "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"], "correct": 2, "hint": "This Virginian was known as an excellent writer."},
+            {"type": "fill_in", "question": "The Declaration states that all men are created ___ and have unalienable rights.", "answer": "equal", "hint": "This word means the same, with no one being better than another."},
+            {"type": "true_false", "question": "The Declaration of Independence was adopted on July 4, 1776.", "answer": true, "hint": "This date is now celebrated as Independence Day."},
+            {"type": "multiple_choice", "question": "What pamphlet by Thomas Paine helped convince colonists to support independence?", "options": ["The Federalist Papers", "Common Sense", "Poor Richard's Almanack", "The Rights of Man"], "correct": 1, "hint": "The title suggests the argument for independence was obvious."},
+            {"type": "true_false", "question": "Signing the Declaration of Independence was completely safe for the signers.", "answer": false, "hint": "If the Revolution failed, the signers could be executed for treason."},
+            {"type": "multiple_choice", "question": "What are the three unalienable rights listed in the Declaration?", "options": ["Freedom, justice, equality", "Life, liberty, and the pursuit of happiness", "Speech, religion, and press", "Land, money, and power"], "correct": 1, "hint": "These rights include the right to live, be free, and seek happiness."},
+            {"type": "fill_in", "question": "Thomas Paine's pamphlet '___ Sense' argued for independence from Britain.", "answer": "Common", "hint": "The title suggests the argument should be obvious to everyone."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-1-5",
+          "title": "Winning the War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The American Revolution was a long, difficult war that lasted from 1775 to 1783. The Continental Army faced many challenges: soldiers lacked training, supplies, warm clothing, and food. The winter of 1777-1778 at Valley Forge, Pennsylvania was especially brutal — soldiers endured freezing cold, hunger, and disease. But Washington held the army together, and a Prussian officer named Baron von Steuben trained the soldiers into a more effective fighting force. A turning point came in October 1777 when the Americans won the Battle of Saratoga in New York. This victory convinced France to enter the war as an ally of the Americans, providing soldiers, money, and naval support. Other individuals also made important contributions: Marquis de Lafayette, a young French nobleman, fought alongside Washington; Deborah Sampson disguised herself as a man to fight; and thousands of African Americans served in the Continental Army. The final major battle took place at Yorktown, Virginia in October 1781, where Washington's army and French forces trapped the British army under General Cornwallis, who surrendered. The Treaty of Paris in 1783 officially ended the war and recognized American independence.",
+            "examples": [
+              {"problem": "Why was the Battle of Saratoga a turning point?", "answer": "The American victory at Saratoga convinced France to enter the war as an ally, providing crucial support.", "explanation": "French soldiers, money, and especially their navy were essential in helping America win the war."},
+              {"problem": "What happened at Yorktown?", "answer": "Washington's army and French forces surrounded the British under Cornwallis, who surrendered, effectively ending the war.", "explanation": "The French navy blocked British escape by sea while American and French troops blocked escape by land."}
+            ],
+            "key_vocabulary": ["Valley Forge", "Battle of Saratoga", "ally", "Lafayette", "Yorktown", "surrender", "Treaty of Paris"],
+            "real_world": "The alliance between the United States and France that began during the Revolution continues today. France even gave the US the Statue of Liberty as a gift of friendship in 1886."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did the Continental Army endure a brutal winter in 1777-1778?", "options": ["Boston", "Valley Forge", "Yorktown", "Saratoga"], "correct": 1, "hint": "This Pennsylvania location became a symbol of American endurance."},
+            {"type": "fill_in", "question": "The Battle of ___ convinced France to ally with the Americans.", "answer": "Saratoga", "hint": "This 1777 battle in New York was a turning point in the war."},
+            {"type": "true_false", "question": "France became an ally of the Americans during the Revolution.", "answer": true, "hint": "French support was crucial to the American victory."},
+            {"type": "multiple_choice", "question": "Who surrendered at Yorktown?", "options": ["George Washington", "General Cornwallis", "King George III", "Baron von Steuben"], "correct": 1, "hint": "This British general was trapped by American and French forces."},
+            {"type": "true_false", "question": "The Treaty of Paris in 1783 officially ended the American Revolution.", "answer": true, "hint": "This treaty recognized American independence."},
+            {"type": "multiple_choice", "question": "Who trained the Continental Army at Valley Forge?", "options": ["Lafayette", "Baron von Steuben", "Benjamin Franklin", "Paul Revere"], "correct": 1, "hint": "This Prussian officer turned the army into a more effective force."},
+            {"type": "fill_in", "question": "The final major battle of the Revolution was at ___, Virginia.", "answer": "Yorktown", "hint": "The British were trapped here by land and sea."},
+            {"type": "true_false", "question": "Only white men fought in the Continental Army.", "answer": false, "hint": "Thousands of African Americans and some women (in disguise) also served."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What was the colonists' main complaint about British taxes?", "options": ["Taxes were too low", "They had no representation in Parliament", "They did not like tea", "Taxes only applied to farmers"], "correct": 1},
+          {"type": "true_false", "question": "The Boston Tea Party occurred in 1773.", "answer": true},
+          {"type": "multiple_choice", "question": "Who wrote the Declaration of Independence?", "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "Samuel Adams"], "correct": 2},
+          {"type": "fill_in", "question": "The first battles of the Revolution were at Lexington and ___.", "answer": "Concord", "hint": ""},
+          {"type": "multiple_choice", "question": "Which battle convinced France to help the Americans?", "options": ["Bunker Hill", "Yorktown", "Saratoga", "Lexington"], "correct": 2},
+          {"type": "true_false", "question": "The war ended with the British surrender at Yorktown in 1781.", "answer": true},
+          {"type": "multiple_choice", "question": "What was adopted on July 4, 1776?", "options": ["The Constitution", "The Bill of Rights", "The Declaration of Independence", "The Treaty of Paris"], "correct": 2},
+          {"type": "true_false", "question": "The Continental Army had plenty of supplies and warm clothing throughout the war.", "answer": false},
+          {"type": "multiple_choice", "question": "What treaty officially ended the American Revolution?", "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of London", "Treaty of Philadelphia"], "correct": 1}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "revolution_patriot"
+      }
+    },
+    {
+      "id": "5-ss-2",
+      "title": "Formation of the US Government",
+      "description": "Learn how the United States created its government after winning independence, from the Articles of Confederation to the Constitutional Convention and the creation of the Constitution.",
+      "lessons": [
+        {
+          "id": "5-ss-2-1",
+          "title": "The Articles of Confederation",
+          "type": "lesson",
+          "content": {
+            "explanation": "After declaring independence, the new nation needed a plan for government. In 1781, the states adopted the Articles of Confederation, America's first constitution. Under the Articles, the national government was intentionally kept weak because the states feared a powerful central government like the one they had just fought against. Congress could declare war and make treaties, but it could not collect taxes, regulate trade between states, or enforce its laws. There was no president and no national court system. Each state acted almost like an independent country, printing its own money and making its own trade rules. The problems became clear quickly: the national government had no money because it could not tax, it could not pay soldiers or debts from the Revolution, and states argued over trade and borders. Shays' Rebellion in 1786-1787, when Massachusetts farmers rose up against high taxes and debt, showed that the government was too weak to maintain order. It became clear that a stronger national government was needed.",
+            "examples": [
+              {"problem": "Why were the Articles of Confederation weak?", "answer": "The states feared a strong central government, so they gave Congress very little power — no taxing, no trade regulation, and no way to enforce laws.", "explanation": "Having just fought a war against a powerful king, the states did not want their new government to be too strong."},
+              {"problem": "What was Shays' Rebellion?", "answer": "An uprising by Massachusetts farmers in 1786-1787 protesting high taxes and debt, showing the weakness of the national government.", "explanation": "The national government could not raise an army to stop the rebellion, proving it was too weak to govern effectively."}
+            ],
+            "key_vocabulary": ["Articles of Confederation", "constitution", "Congress", "regulate", "rebellion", "central government", "enforce"],
+            "real_world": "The failure of the Articles of Confederation taught Americans an important lesson: a government needs to be strong enough to solve national problems, but not so strong that it takes away people's rights."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was America's first constitution?", "options": ["The Declaration of Independence", "The Articles of Confederation", "The US Constitution", "The Mayflower Compact"], "correct": 1, "hint": "This document was adopted in 1781 and created a weak national government."},
+            {"type": "true_false", "question": "Under the Articles of Confederation, Congress could collect taxes.", "answer": false, "hint": "The inability to tax was one of the biggest weaknesses of the Articles."},
+            {"type": "fill_in", "question": "Shays' ___ showed that the government under the Articles was too weak.", "answer": "Rebellion", "hint": "Massachusetts farmers rose up in this protest."},
+            {"type": "multiple_choice", "question": "Why did the states create a weak national government?", "options": ["They forgot to make it strong", "They feared a powerful central government like Britain's", "They did not understand government", "They planned to fix it later"], "correct": 1, "hint": "Remember what the colonists had just fought against."},
+            {"type": "true_false", "question": "Under the Articles, there was a president of the United States.", "answer": false, "hint": "The Articles did not create an executive branch."},
+            {"type": "multiple_choice", "question": "What problem did the lack of taxing power cause?", "options": ["States became too rich", "The national government had no money", "Trade increased", "People were happier"], "correct": 1, "hint": "Without tax revenue, the government could not pay for anything."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-2-2",
+          "title": "The Constitutional Convention",
+          "type": "lesson",
+          "content": {
+            "explanation": "In May 1787, delegates from twelve states (Rhode Island did not attend) gathered in Philadelphia for the Constitutional Convention. Originally, they were supposed to revise the Articles of Confederation, but they quickly decided to write an entirely new constitution. The delegates included some of the most brilliant minds in American history: George Washington (who served as president of the Convention), Benjamin Franklin (the oldest delegate at 81), James Madison (who became known as the 'Father of the Constitution'), and Alexander Hamilton. They debated for four hot summer months behind closed doors. One of the biggest disagreements was about representation in Congress. Large states wanted representation based on population (the Virginia Plan), while small states wanted equal representation for all states (the New Jersey Plan). Roger Sherman proposed the Great Compromise: Congress would have two houses — the Senate with equal representation (two senators per state) and the House of Representatives with representation based on population. Another compromise dealt with how to count enslaved people for representation, resulting in the shameful Three-Fifths Compromise.",
+            "examples": [
+              {"problem": "What was the Great Compromise?", "answer": "A plan creating two houses in Congress — the Senate (equal representation) and the House of Representatives (based on population).", "explanation": "This compromise satisfied both large and small states by giving each what they wanted in different parts of Congress."},
+              {"problem": "Why is James Madison called the 'Father of the Constitution'?", "answer": "He came to the Convention well-prepared with ideas, took detailed notes, and his Virginia Plan formed the basis of the Constitution.", "explanation": "Madison studied history and government extensively before the Convention and was one of the most influential delegates."}
+            ],
+            "key_vocabulary": ["Constitutional Convention", "delegate", "compromise", "Virginia Plan", "New Jersey Plan", "Great Compromise", "representation"],
+            "real_world": "The Great Compromise is still in effect today. Your state has two senators in the Senate, and your state's number of representatives in the House depends on its population."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where was the Constitutional Convention held?", "options": ["New York", "Boston", "Philadelphia", "Washington, D.C."], "correct": 2, "hint": "This city was also where the Declaration of Independence was signed."},
+            {"type": "fill_in", "question": "James Madison is known as the '___ of the Constitution.'", "answer": "Father", "hint": "His ideas and preparation were central to creating the Constitution."},
+            {"type": "true_false", "question": "All thirteen states sent delegates to the Constitutional Convention.", "answer": false, "hint": "One small New England state refused to participate."},
+            {"type": "multiple_choice", "question": "What did the Great Compromise create?", "options": ["A single legislature", "Two houses of Congress", "A monarchy", "A direct democracy"], "correct": 1, "hint": "This compromise created both the Senate and the House of Representatives."},
+            {"type": "true_false", "question": "Large states wanted representation based on population.", "answer": true, "hint": "Larger populations meant more representatives under this plan."},
+            {"type": "multiple_choice", "question": "Who served as president of the Constitutional Convention?", "options": ["Benjamin Franklin", "James Madison", "George Washington", "Alexander Hamilton"], "correct": 2, "hint": "This man would later become the first President of the United States."},
+            {"type": "fill_in", "question": "The Senate gives each state ___ senators, regardless of population.", "answer": "two", "hint": "This number is the same for every state, large or small."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-2-3",
+          "title": "The Three Branches of Government",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution created a federal government with three separate branches, each with its own powers and responsibilities. The legislative branch is Congress, which makes the laws. Congress has two parts: the Senate (100 members, two per state) and the House of Representatives (435 members, divided based on population). The executive branch is led by the President, who carries out and enforces the laws. The President also serves as commander-in-chief of the military, makes treaties with other countries (with Senate approval), and appoints judges and other officials. The judicial branch is the court system, headed by the Supreme Court. Federal judges interpret the laws and decide if laws follow the Constitution. The framers built in a system of checks and balances so that each branch can limit the others. For example, the President can veto laws passed by Congress, Congress can override a veto with a two-thirds vote, and the Supreme Court can declare laws unconstitutional. This prevents any one branch from becoming too powerful.",
+            "examples": [
+              {"problem": "What are the three branches of the federal government?", "answer": "Legislative (Congress), Executive (President), and Judicial (Supreme Court and other courts).", "explanation": "Each branch has different powers and can check the other branches to prevent abuse of power."},
+              {"problem": "How can the President check Congress?", "answer": "By vetoing (rejecting) laws passed by Congress.", "explanation": "If the President disagrees with a law, the veto sends it back to Congress, which needs a two-thirds vote to override it."}
+            ],
+            "key_vocabulary": ["legislative", "executive", "judicial", "Congress", "President", "Supreme Court", "checks and balances", "unconstitutional"],
+            "real_world": "When you see a news story about the President signing or vetoing a bill, or the Supreme Court ruling on a law, you are seeing checks and balances in action."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which branch makes the laws?", "options": ["Executive", "Judicial", "Legislative", "Military"], "correct": 2, "hint": "This branch is Congress."},
+            {"type": "fill_in", "question": "The ___ Court is the highest court in the judicial branch.", "answer": "Supreme", "hint": "This court has the final say on whether laws are constitutional."},
+            {"type": "true_false", "question": "The President is part of the legislative branch.", "answer": false, "hint": "The President leads a different branch."},
+            {"type": "multiple_choice", "question": "How many members does the Senate have?", "options": ["50", "100", "435", "535"], "correct": 1, "hint": "Each state has two senators, and there are 50 states."},
+            {"type": "true_false", "question": "The Supreme Court can declare laws unconstitutional.", "answer": true, "hint": "This is an important check on the legislative and executive branches."},
+            {"type": "multiple_choice", "question": "What is needed to override a presidential veto?", "options": ["A simple majority", "A two-thirds vote", "A three-fourths vote", "Unanimous agreement"], "correct": 1, "hint": "This is more than half but less than three-quarters."},
+            {"type": "fill_in", "question": "The system that prevents any one branch from becoming too powerful is called checks and ___.", "answer": "balances", "hint": "Each branch can limit the others through this system."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-2-4",
+          "title": "Ratifying the Constitution",
+          "type": "lesson",
+          "content": {
+            "explanation": "After the Constitution was written, it needed to be ratified (approved) by at least nine of the thirteen states before it could take effect. This sparked a fierce debate between two groups. The Federalists, including Alexander Hamilton, James Madison, and John Jay, supported the Constitution. They argued that a strong national government was necessary to hold the country together and solve national problems. They wrote a series of essays called The Federalist Papers to persuade people to ratify the Constitution. The Anti-Federalists, including Patrick Henry and George Mason, opposed the Constitution because they feared it gave too much power to the national government and did not protect individual rights. They demanded that a bill of rights be added to protect freedoms like speech, religion, and fair trials. After much debate, the Constitution was ratified in 1788, with the understanding that a bill of rights would be added. George Washington was unanimously elected as the first President of the United States in 1789.",
+            "examples": [
+              {"problem": "What was the difference between Federalists and Anti-Federalists?", "answer": "Federalists supported the Constitution and a strong national government. Anti-Federalists feared it gave too much power to the government and wanted a bill of rights.", "explanation": "Both sides had valid concerns, and the compromise — ratifying the Constitution with a promise to add a bill of rights — addressed both."},
+              {"problem": "What were The Federalist Papers?", "answer": "Essays written by Hamilton, Madison, and Jay to persuade people to support the Constitution.", "explanation": "These 85 essays explained how the government would work and why it was the best system for the new nation."}
+            ],
+            "key_vocabulary": ["ratify", "Federalist", "Anti-Federalist", "Federalist Papers", "bill of rights", "individual rights", "unanimously"],
+            "real_world": "The debate between Federalists and Anti-Federalists continues today. People still debate how much power the federal government should have versus the states and individuals."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many states needed to ratify the Constitution for it to take effect?", "options": ["Seven", "Nine", "All thirteen", "A simple majority"], "correct": 1, "hint": "This is more than half but not all of the thirteen states."},
+            {"type": "fill_in", "question": "The ___ were essays written to persuade people to support the Constitution.", "answer": "Federalist Papers", "hint": "Hamilton, Madison, and Jay wrote these."},
+            {"type": "true_false", "question": "Anti-Federalists wanted a bill of rights added to the Constitution.", "answer": true, "hint": "They feared the government would not protect individual freedoms without one."},
+            {"type": "multiple_choice", "question": "Who was elected as the first President of the United States?", "options": ["Benjamin Franklin", "Thomas Jefferson", "George Washington", "John Adams"], "correct": 2, "hint": "He had led the Continental Army during the Revolution."},
+            {"type": "true_false", "question": "The Federalists opposed the Constitution.", "answer": false, "hint": "Think about what 'Federalist' means — supporting a strong federal government."},
+            {"type": "multiple_choice", "question": "What did Anti-Federalists fear about the Constitution?", "options": ["It was too weak", "It gave too much power to the national government", "It was too long", "It was written in the wrong language"], "correct": 1, "hint": "They worried about the government taking away people's rights."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What was the main problem with the Articles of Confederation?", "options": ["Too many taxes", "The government was too weak", "Too many states", "Too many presidents"], "correct": 1},
+          {"type": "true_false", "question": "The Great Compromise created two houses of Congress.", "answer": true},
+          {"type": "multiple_choice", "question": "Who is called the 'Father of the Constitution'?", "options": ["Washington", "Hamilton", "Madison", "Franklin"], "correct": 2},
+          {"type": "fill_in", "question": "The three branches are legislative, executive, and ___.", "answer": "judicial", "hint": ""},
+          {"type": "true_false", "question": "Anti-Federalists wanted a bill of rights.", "answer": true},
+          {"type": "multiple_choice", "question": "What system prevents one branch from having too much power?", "options": ["The Electoral College", "Checks and balances", "The Bill of Rights", "The Federalist Papers"], "correct": 1},
+          {"type": "multiple_choice", "question": "Where was the Constitutional Convention held?", "options": ["New York", "Philadelphia", "Boston", "Washington D.C."], "correct": 1},
+          {"type": "true_false", "question": "George Washington was the first President of the United States.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "government_architect"
+      }
+    },
+    {
+      "id": "5-ss-3",
+      "title": "The Constitution & Bill of Rights",
+      "description": "Explore the US Constitution in depth, including its key principles, the Bill of Rights, and how these founding documents protect the rights of all Americans.",
+      "lessons": [
+        {
+          "id": "5-ss-3-1",
+          "title": "Key Principles of the Constitution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The US Constitution is built on several key principles that guide how our government works. Popular sovereignty means the government gets its power from the people. The Constitution begins with 'We the People,' showing that the government serves the citizens. Limited government means the government can only do what the Constitution allows. This protects people from government overreach. Separation of powers divides the government into three branches so no single group has all the power. Checks and balances gives each branch the ability to limit the others. Federalism divides power between the national (federal) government and state governments. Some powers belong only to the federal government (like printing money and declaring war), some belong only to states (like setting up schools and issuing driver's licenses), and some are shared (like collecting taxes and building roads). These principles work together to create a government that is strong enough to lead but limited enough to protect people's freedom.",
+            "examples": [
+              {"problem": "What does 'We the People' mean?", "answer": "It means the government's power comes from the people — the citizens are in charge.", "explanation": "This is the principle of popular sovereignty: the people are the ultimate authority in a democracy."},
+              {"problem": "What is federalism?", "answer": "The division of power between the national government and state governments.", "explanation": "Some things are handled at the national level and others at the state level, with some powers shared."}
+            ],
+            "key_vocabulary": ["popular sovereignty", "limited government", "separation of powers", "federalism", "checks and balances", "federal", "authority"],
+            "real_world": "Federalism affects your daily life. Your driver's license comes from the state, but your passport comes from the federal government. Both levels of government collect taxes and build roads."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does popular sovereignty mean?", "options": ["The king has all power", "The government gets power from the people", "Only popular people can vote", "The military controls the government"], "correct": 1, "hint": "'Sovereignty' means supreme power, and 'popular' means of the people."},
+            {"type": "fill_in", "question": "The Constitution begins with the words 'We the ___.'", "answer": "People", "hint": "This shows that the government serves the citizens."},
+            {"type": "true_false", "question": "Under limited government, the government can do anything it wants.", "answer": false, "hint": "The government can only do what the Constitution allows."},
+            {"type": "multiple_choice", "question": "What is federalism?", "options": ["One branch controlling everything", "All power going to the states", "Dividing power between federal and state governments", "Giving all power to the President"], "correct": 2, "hint": "This principle divides power between two levels of government."},
+            {"type": "true_false", "question": "Only the federal government can print money.", "answer": true, "hint": "This is a power that belongs exclusively to the national government."},
+            {"type": "multiple_choice", "question": "Which is a power shared by both federal and state governments?", "options": ["Declaring war", "Printing money", "Collecting taxes", "Issuing passports"], "correct": 2, "hint": "Both levels of government need money to provide services."},
+            {"type": "fill_in", "question": "___ of powers divides the government into three branches.", "answer": "Separation", "hint": "This principle keeps power divided so no one group controls everything."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-3-2",
+          "title": "The Bill of Rights",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Bill of Rights is the name for the first ten amendments (changes or additions) to the Constitution. They were ratified in 1791, fulfilling the promise made to Anti-Federalists during the ratification debate. James Madison wrote them to protect individual freedoms from government interference. The First Amendment protects five fundamental freedoms: religion, speech, press, assembly, and the right to petition the government. The Second Amendment protects the right to bear arms. The Third Amendment prevents the government from forcing people to house soldiers. The Fourth Amendment protects against unreasonable searches and seizures. The Fifth Amendment protects the right to due process and protects against self-incrimination. The Sixth Amendment guarantees the right to a fair and speedy trial. The Seventh Amendment protects the right to a jury trial in civil cases. The Eighth Amendment prohibits cruel and unusual punishment. The Ninth Amendment says people have rights beyond those listed in the Constitution. The Tenth Amendment says powers not given to the federal government belong to the states or the people.",
+            "examples": [
+              {"problem": "What five freedoms does the First Amendment protect?", "answer": "Freedom of religion, speech, press, assembly, and the right to petition the government.", "explanation": "These freedoms allow Americans to believe what they want, say what they think, publish their opinions, gather in groups, and ask the government for change."},
+              {"problem": "What does the Fourth Amendment protect?", "answer": "Protection against unreasonable searches and seizures by the government.", "explanation": "This means the police generally need a warrant (permission from a judge) before searching your home or belongings."}
+            ],
+            "key_vocabulary": ["Bill of Rights", "amendment", "First Amendment", "freedom of speech", "due process", "rights", "self-incrimination"],
+            "real_world": "You use your First Amendment rights every day — when you express your opinion, attend a place of worship, or read a newspaper. These freedoms are so important that they were the very first amendments to the Constitution."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many amendments make up the Bill of Rights?", "options": ["5", "10", "13", "27"], "correct": 1, "hint": "The Bill of Rights is the first group of amendments to the Constitution."},
+            {"type": "fill_in", "question": "The ___ Amendment protects freedom of speech, religion, and the press.", "answer": "First", "hint": "This is the very first amendment in the Bill of Rights."},
+            {"type": "true_false", "question": "The Bill of Rights was ratified in 1776.", "answer": false, "hint": "The Declaration of Independence was in 1776. The Bill of Rights came later."},
+            {"type": "multiple_choice", "question": "Which amendment protects against cruel and unusual punishment?", "options": ["Fourth", "Sixth", "Eighth", "Tenth"], "correct": 2, "hint": "This amendment sets limits on how the government can punish people."},
+            {"type": "true_false", "question": "James Madison wrote the Bill of Rights.", "answer": true, "hint": "He had also been a key figure at the Constitutional Convention."},
+            {"type": "multiple_choice", "question": "What does the Sixth Amendment guarantee?", "options": ["Freedom of speech", "Right to bear arms", "Right to a fair and speedy trial", "Freedom of religion"], "correct": 2, "hint": "This amendment protects people who are accused of crimes."},
+            {"type": "fill_in", "question": "The Tenth Amendment says powers not given to the federal government belong to the ___ or the people.", "answer": "states", "hint": "This amendment protects the balance of power in federalism."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-3-3",
+          "title": "How the Constitution Can Be Changed",
+          "type": "lesson",
+          "content": {
+            "explanation": "The framers of the Constitution knew that the world would change over time, so they included a way to amend (change) the Constitution. However, they made the process difficult so that the Constitution would only be changed for important reasons. There are two steps: proposal and ratification. An amendment can be proposed by a two-thirds vote in both houses of Congress, or by a national convention called by two-thirds of state legislatures (though this method has never been used). Once proposed, the amendment must be ratified by three-fourths of the states (38 out of 50). Since 1791, only 17 additional amendments have been added, bringing the total to 27. Important amendments include the Thirteenth (abolished slavery in 1865), the Fourteenth (gave citizenship and equal protection to all people born in the US), the Fifteenth (gave Black men the right to vote), the Nineteenth (gave women the right to vote in 1920), and the Twenty-Sixth (lowered the voting age to 18 in 1971). Each amendment reflects a moment when the nation decided to expand rights or fix a problem.",
+            "examples": [
+              {"problem": "Why did the framers make the Constitution hard to change?", "answer": "They wanted amendments to reflect careful thought and broad agreement, not quick decisions.", "explanation": "Requiring supermajorities (two-thirds and three-fourths) ensures that only widely supported changes are made."},
+              {"problem": "Which amendment gave women the right to vote?", "answer": "The Nineteenth Amendment, ratified in 1920.", "explanation": "Women fought for decades through the suffrage movement before finally winning the right to vote."}
+            ],
+            "key_vocabulary": ["amend", "amendment", "ratify", "proposal", "suffrage", "abolish", "supermajority"],
+            "real_world": "The Constitution has been amended 27 times in over 230 years. Many proposed amendments have failed to get enough support, showing how high the bar is set."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "How many total amendments does the Constitution have?", "options": ["10", "17", "27", "50"], "correct": 2, "hint": "The first 10 are the Bill of Rights, plus 17 more have been added since."},
+            {"type": "fill_in", "question": "The ___ Amendment abolished slavery in 1865.", "answer": "Thirteenth", "hint": "This amendment was ratified after the Civil War."},
+            {"type": "true_false", "question": "Any simple majority in Congress can change the Constitution.", "answer": false, "hint": "The process requires much more than a simple majority."},
+            {"type": "multiple_choice", "question": "Which amendment gave women the right to vote?", "options": ["Fifteenth", "Eighteenth", "Nineteenth", "Twenty-Sixth"], "correct": 2, "hint": "This amendment was ratified in 1920."},
+            {"type": "true_false", "question": "Three-fourths of the states must ratify an amendment for it to become part of the Constitution.", "answer": true, "hint": "This is 38 out of the current 50 states."},
+            {"type": "multiple_choice", "question": "What fraction of Congress must vote to propose an amendment?", "options": ["One-half", "Two-thirds", "Three-fourths", "All members"], "correct": 1, "hint": "This is a supermajority — more than half but less than three-fourths."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-3-4",
+          "title": "Rights and Responsibilities of Citizens",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Constitution gives Americans many important rights, but with rights come responsibilities. Citizens have the right to vote, which is also a responsibility — voting is how people participate in democracy and choose their leaders. Citizens have the right to a fair trial, but they also have the responsibility to serve on juries when called, because trials need fair jurors. Citizens have the right to free speech, but they have the responsibility to use that right respectfully and truthfully. Other civic responsibilities include obeying laws, paying taxes (which fund schools, roads, and other public services), staying informed about issues in the community and country, and respecting the rights of others. Young people also have important roles to play as future citizens. They can volunteer in their communities, learn about how government works, and practice good citizenship at school by following rules, treating others fairly, and participating in class discussions. A strong democracy depends on citizens who take both their rights and responsibilities seriously.",
+            "examples": [
+              {"problem": "Why is voting both a right and a responsibility?", "answer": "It is a right because citizens are free to choose their leaders. It is a responsibility because democracy only works when people participate.", "explanation": "If no one voted, democracy would not function. Every vote represents a citizen's voice in government."},
+              {"problem": "Why should citizens serve on juries?", "answer": "Because the right to a fair trial depends on having fair jurors. Serving on a jury is how citizens help ensure justice.", "explanation": "If you were accused of a crime, you would want fair, thoughtful people on your jury."}
+            ],
+            "key_vocabulary": ["rights", "responsibilities", "citizenship", "civic duty", "jury", "democracy", "volunteer"],
+            "real_world": "Even though you cannot vote yet, you can practice good citizenship right now by volunteering, staying informed, being kind to others, and following rules at school."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is both a right and a responsibility of citizenship?", "options": ["Watching television", "Playing sports", "Voting", "Going on vacation"], "correct": 2, "hint": "This is how citizens participate in democracy."},
+            {"type": "true_false", "question": "Citizens have the responsibility to serve on juries when called.", "answer": true, "hint": "Fair trials depend on fair jurors from the community."},
+            {"type": "fill_in", "question": "Citizens have the responsibility to obey laws and pay ___.", "answer": "taxes", "hint": "This money funds schools, roads, and other public services."},
+            {"type": "multiple_choice", "question": "What is one way young people can practice citizenship?", "options": ["Only thinking about themselves", "Volunteering in their communities", "Ignoring the news", "Breaking school rules"], "correct": 1, "hint": "Good citizens help their communities."},
+            {"type": "true_false", "question": "Freedom of speech means you can say anything without any responsibility.", "answer": false, "hint": "With the right to speak freely comes the responsibility to be respectful and truthful."},
+            {"type": "multiple_choice", "question": "Why is it important for citizens to stay informed?", "options": ["So they can win arguments", "So they can make good decisions about voting and community issues", "It is not important", "So they can impress their friends"], "correct": 1, "hint": "Informed citizens make better choices at the ballot box."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What does popular sovereignty mean?", "options": ["The king rules", "Government power comes from the people", "The military governs", "Only the wealthy can vote"], "correct": 1},
+          {"type": "true_false", "question": "The First Amendment protects freedom of speech.", "answer": true},
+          {"type": "multiple_choice", "question": "How many amendments are in the Bill of Rights?", "options": ["5", "10", "15", "27"], "correct": 1},
+          {"type": "fill_in", "question": "The ___ Amendment gave women the right to vote.", "answer": "Nineteenth", "hint": ""},
+          {"type": "true_false", "question": "The Constitution has been amended 27 times.", "answer": true},
+          {"type": "multiple_choice", "question": "What is federalism?", "options": ["All power to the President", "Dividing power between federal and state governments", "No government at all", "Power to the military"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which is a responsibility of citizenship?", "options": ["Watching TV", "Voting and jury duty", "Going on vacation", "Playing video games"], "correct": 1},
+          {"type": "true_false", "question": "The Thirteenth Amendment abolished slavery.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "constitution_champion"
+      }
+    },
+    {
+      "id": "5-ss-4",
+      "title": "Westward Expansion",
+      "description": "Learn about America's expansion from the Atlantic coast to the Pacific Ocean, including the Louisiana Purchase, trails west, Manifest Destiny, and the impact on Native Americans.",
+      "lessons": [
+        {
+          "id": "5-ss-4-1",
+          "title": "The Louisiana Purchase",
+          "type": "lesson",
+          "content": {
+            "explanation": "In 1803, President Thomas Jefferson made one of the biggest land deals in history when he purchased the Louisiana Territory from France for $15 million — about 4 cents per acre. This massive territory stretched from the Mississippi River to the Rocky Mountains and from the Gulf of Mexico to the Canadian border, doubling the size of the United States overnight. Napoleon Bonaparte, the French leader, sold the territory because he needed money for his wars in Europe and had given up his plans for a French empire in North America. Jefferson then sent Meriwether Lewis and William Clark on an expedition to explore the new territory. From 1804 to 1806, the Lewis and Clark Expedition traveled from St. Louis to the Pacific Ocean and back. They were helped greatly by Sacagawea, a Shoshone woman who served as an interpreter and guide. The expedition mapped the territory, studied plants and animals, and established contact with many Native American nations. The Louisiana Purchase opened the door for American expansion westward.",
+            "examples": [
+              {"problem": "How much did the United States pay for the Louisiana Territory?", "answer": "$15 million, which worked out to about 4 cents per acre.", "explanation": "This is considered one of the greatest bargains in history. The territory included all or part of 15 future states."},
+              {"problem": "Who was Sacagawea?", "answer": "A Shoshone woman who served as an interpreter and guide for the Lewis and Clark Expedition.", "explanation": "Sacagawea's knowledge of languages, geography, and survival skills was essential to the success of the expedition."}
+            ],
+            "key_vocabulary": ["Louisiana Purchase", "territory", "expedition", "Lewis and Clark", "Sacagawea", "Napoleon", "frontier"],
+            "real_world": "The Louisiana Purchase included land that would eventually become the states of Louisiana, Arkansas, Missouri, Iowa, Oklahoma, Kansas, Nebraska, South Dakota, North Dakota, Montana, Wyoming, Colorado, and Minnesota."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who sold the Louisiana Territory to the United States?", "options": ["England", "Spain", "France", "Mexico"], "correct": 2, "hint": "Napoleon Bonaparte led this country."},
+            {"type": "fill_in", "question": "The Louisiana Purchase cost $__ million.", "answer": "15", "hint": "This was about 4 cents per acre."},
+            {"type": "true_false", "question": "The Louisiana Purchase doubled the size of the United States.", "answer": true, "hint": "It was a massive amount of land stretching from the Mississippi to the Rockies."},
+            {"type": "multiple_choice", "question": "Who explored the Louisiana Territory?", "options": ["Washington and Adams", "Lewis and Clark", "Hamilton and Jefferson", "Franklin and Madison"], "correct": 1, "hint": "These two explorers traveled from St. Louis to the Pacific Ocean."},
+            {"type": "true_false", "question": "Sacagawea was an English translator who helped Lewis and Clark.", "answer": false, "hint": "She was a Shoshone woman, not English."},
+            {"type": "multiple_choice", "question": "Which president authorized the Louisiana Purchase?", "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"], "correct": 2, "hint": "This president was also the author of the Declaration of Independence."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-4-2",
+          "title": "Manifest Destiny and Trails West",
+          "type": "lesson",
+          "content": {
+            "explanation": "In the 1840s, many Americans believed in an idea called Manifest Destiny — the belief that the United States was destined by God to expand across the entire North American continent from the Atlantic to the Pacific Ocean. Thousands of families packed their belongings into covered wagons and headed west along trails like the Oregon Trail (to Oregon and Washington), the California Trail (to California), and the Santa Fe Trail (to the Southwest). The journey was incredibly difficult and dangerous. Families faced harsh weather, river crossings, disease (especially cholera), food shortages, and rugged mountain passes. The trip along the Oregon Trail was about 2,000 miles and took four to six months. People went west for many reasons: free or cheap land for farming, gold (especially after the California Gold Rush of 1849), religious freedom (the Mormons settled in Utah), and the hope for a better life. The Gold Rush alone brought over 300,000 people to California. Western expansion also led to new territories and eventually new states joining the Union.",
+            "examples": [
+              {"problem": "What was Manifest Destiny?", "answer": "The belief that the United States was destined to expand across the entire continent, from the Atlantic to the Pacific.", "explanation": "This idea inspired and justified American expansion westward, though it also led to the displacement of Native Americans."},
+              {"problem": "Why did people travel the Oregon Trail?", "answer": "To reach the Oregon Territory where they could claim free land for farming.", "explanation": "The US government offered free land to settlers willing to make the long, dangerous journey west."}
+            ],
+            "key_vocabulary": ["Manifest Destiny", "Oregon Trail", "covered wagon", "Gold Rush", "pioneer", "frontier", "expansion"],
+            "real_world": "Many modern highways and railroads follow the same routes that pioneers used on the Oregon Trail and other western trails. Cities like Portland, Sacramento, and Salt Lake City grew from these westward journeys."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was Manifest Destiny?", "options": ["A famous ship", "The belief that the US should expand coast to coast", "A law passed by Congress", "A Native American tradition"], "correct": 1, "hint": "This idea drove American expansion westward."},
+            {"type": "fill_in", "question": "The Oregon Trail was about ___ miles long.", "answer": "2,000", "hint": "This is two thousand miles across the continent."},
+            {"type": "true_false", "question": "The California Gold Rush of 1849 brought over 300,000 people to California.", "answer": true, "hint": "The promise of gold attracted enormous numbers of people."},
+            {"type": "multiple_choice", "question": "What type of vehicle did pioneers use to travel west?", "options": ["Trains", "Automobiles", "Covered wagons", "Ships"], "correct": 2, "hint": "These were pulled by oxen or horses."},
+            {"type": "true_false", "question": "The journey along the Oregon Trail was quick and easy.", "answer": false, "hint": "Pioneers faced disease, harsh weather, and dangerous terrain."},
+            {"type": "multiple_choice", "question": "Which group settled in Utah for religious freedom?", "options": ["Puritans", "Quakers", "Mormons", "Pilgrims"], "correct": 2, "hint": "This religious group traveled west to find a place where they could practice their faith freely."},
+            {"type": "fill_in", "question": "The California ___ Rush of 1849 drew hundreds of thousands of people west.", "answer": "Gold", "hint": "A precious metal was discovered at Sutter's Mill in California."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-4-3",
+          "title": "Impact on Native Americans",
+          "type": "lesson",
+          "content": {
+            "explanation": "Westward expansion had devastating consequences for Native Americans. As settlers moved west, they took over land that Native Americans had lived on for thousands of years. The Indian Removal Act of 1830, signed by President Andrew Jackson, forced Native American nations in the Southeast to relocate to Indian Territory (present-day Oklahoma). The Cherokee, Creek, Seminole, Chickasaw, and Choctaw were forced to walk hundreds of miles in what became known as the Trail of Tears. During the Cherokee removal in 1838-1839, an estimated 4,000 Cherokee died from cold, hunger, and disease. As settlers continued moving west, similar patterns of displacement, broken treaties, and violence repeated across the Great Plains. Buffalo herds — essential to the survival of Plains peoples — were deliberately destroyed by hunters, with herds declining from tens of millions to near extinction. Native Americans fought to defend their lands, but they were outnumbered and outgunned. By the late 1800s, most Native Americans had been forced onto reservations — small areas of land set aside by the government — far from their ancestral homelands.",
+            "examples": [
+              {"problem": "What was the Trail of Tears?", "answer": "The forced relocation of Native Americans from the Southeast to Indian Territory, during which thousands died.", "explanation": "The Cherokee march in 1838-1839 is the most well-known, but other nations suffered similar forced removals."},
+              {"problem": "Why were buffalo herds destroyed?", "answer": "Settlers and hunters deliberately killed millions of buffalo, which were essential to Plains peoples' survival.", "explanation": "Destroying the buffalo was a way to force Plains peoples off their land and onto reservations."}
+            ],
+            "key_vocabulary": ["Indian Removal Act", "Trail of Tears", "reservation", "displacement", "treaty", "ancestral homeland", "extinction"],
+            "real_world": "Today, there are 574 federally recognized Native American tribes. Many continue to fight for their rights, preserve their cultures, and address the lasting effects of historical injustices."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was the Indian Removal Act of 1830?", "options": ["A law protecting Native American lands", "A law forcing Native Americans to relocate west", "A treaty of peace", "A law giving Native Americans citizenship"], "correct": 1, "hint": "President Andrew Jackson signed this law."},
+            {"type": "fill_in", "question": "The forced march of the Cherokee is known as the Trail of ___.", "answer": "Tears", "hint": "This name reflects the immense suffering of the Cherokee people."},
+            {"type": "true_false", "question": "About 4,000 Cherokee died during their forced march to Indian Territory.", "answer": true, "hint": "Cold, hunger, and disease killed many people on the journey."},
+            {"type": "multiple_choice", "question": "What happened to the buffalo herds on the Great Plains?", "options": ["They multiplied", "They were protected by settlers", "They were deliberately destroyed by hunters", "They moved to Canada"], "correct": 2, "hint": "Killing buffalo was a strategy to force Plains peoples off their land."},
+            {"type": "true_false", "question": "Native Americans willingly gave up their land to settlers.", "answer": false, "hint": "Many Native Americans fought to protect their lands, and treaties were often broken."},
+            {"type": "multiple_choice", "question": "What is a reservation?", "options": ["A hotel booking", "An area of land set aside for Native Americans by the government", "A type of treaty", "A Native American ceremony"], "correct": 1, "hint": "Native Americans were forced to live on these often small, remote areas of land."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-4-4",
+          "title": "New States and Territories",
+          "type": "lesson",
+          "content": {
+            "explanation": "As America expanded west, new territories became new states. Texas was an independent republic after winning its independence from Mexico in 1836. It was annexed (added) to the United States in 1845. The Mexican-American War (1846-1848) resulted in Mexico ceding a huge amount of territory to the US, including present-day California, Nevada, Utah, Arizona, New Mexico, and parts of Colorado and Wyoming. This was called the Mexican Cession. In 1846, the US and Britain agreed to divide the Oregon Country, giving the US the land that would become Oregon, Washington, and Idaho. With the Gadsden Purchase of 1853 (a strip of land in present-day Arizona and New Mexico bought from Mexico), the continental United States reached its current borders. California became a state in 1850 after the Gold Rush brought a huge population boom. Oregon became a state in 1859. By 1860, the nation stretched from the Atlantic to the Pacific Ocean, fulfilling the vision of Manifest Destiny — though at great cost to Native Americans and Mexican communities in the conquered territories.",
+            "examples": [
+              {"problem": "How did the US acquire California?", "answer": "Through the Mexican Cession after winning the Mexican-American War (1846-1848).", "explanation": "Mexico was forced to give up a massive amount of territory, including California, Nevada, Utah, Arizona, and New Mexico."},
+              {"problem": "When did Texas join the United States?", "answer": "In 1845, nine years after becoming an independent republic.", "explanation": "Texas won its independence from Mexico in 1836 and was its own country before becoming a US state."}
+            ],
+            "key_vocabulary": ["annex", "Mexican-American War", "Mexican Cession", "Oregon Country", "Gadsden Purchase", "republic", "continental"],
+            "real_world": "The borders of the continental United States that we see on maps today were essentially set by 1853, through a combination of purchases, treaties, and wars."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "When was Texas annexed to the United States?", "options": ["1836", "1845", "1848", "1850"], "correct": 1, "hint": "Texas was an independent republic for about nine years before joining the US."},
+            {"type": "fill_in", "question": "The Mexican-___ War resulted in the US gaining California and other territories.", "answer": "American", "hint": "This war was between two neighboring countries in North America."},
+            {"type": "true_false", "question": "California became a state because of the Gold Rush population boom.", "answer": true, "hint": "The Gold Rush brought so many people that California qualified for statehood quickly."},
+            {"type": "multiple_choice", "question": "What was the Mexican Cession?", "options": ["Mexico buying land from the US", "The US gaining territory from Mexico after the war", "A trade agreement", "A peace treaty only"], "correct": 1, "hint": "Mexico was forced to give up (cede) a huge amount of territory."},
+            {"type": "true_false", "question": "The Gadsden Purchase was the last addition to the continental US borders.", "answer": true, "hint": "This 1853 purchase completed the continental US borders we know today."},
+            {"type": "multiple_choice", "question": "How did the US and Britain divide the Oregon Country?", "options": ["Through a war", "Through an agreement in 1846", "Britain gave it away", "The US bought it"], "correct": 1, "hint": "The two countries peacefully agreed on a boundary."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What did the Louisiana Purchase do?", "options": ["Freed enslaved people", "Doubled the size of the US", "Declared independence", "Created the Constitution"], "correct": 1},
+          {"type": "true_false", "question": "Manifest Destiny was the belief that the US should expand coast to coast.", "answer": true},
+          {"type": "fill_in", "question": "The forced march of the Cherokee is called the Trail of ___.", "answer": "Tears", "hint": ""},
+          {"type": "multiple_choice", "question": "Who guided Lewis and Clark?", "options": ["Pocahontas", "Sacagawea", "Sitting Bull", "Geronimo"], "correct": 1},
+          {"type": "true_false", "question": "The California Gold Rush began in 1849.", "answer": true},
+          {"type": "multiple_choice", "question": "How did the US acquire California?", "options": ["Bought it from France", "Won it in the Mexican-American War", "It was a gift from Spain", "Through the Oregon Treaty"], "correct": 1},
+          {"type": "multiple_choice", "question": "What did the Indian Removal Act do?", "options": ["Protected Native lands", "Forced Native Americans to relocate west", "Gave Native Americans voting rights", "Created reservations in the East"], "correct": 1},
+          {"type": "true_false", "question": "Texas was an independent republic before joining the US.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "westward_pioneer"
+      }
+    },
+    {
+      "id": "5-ss-5",
+      "title": "The Civil War Era",
+      "description": "Understand the causes of the Civil War, the key people and events, and how the war transformed the nation and ended slavery.",
+      "lessons": [
+        {
+          "id": "5-ss-5-1",
+          "title": "Causes of the Civil War",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil War did not happen suddenly — tensions between the Northern and Southern states had been building for decades. The central issue was slavery. The Southern economy depended on enslaved labor to grow cash crops like cotton, tobacco, and sugar on large plantations. The Northern economy was based more on manufacturing, trade, and small farms that generally did not use enslaved labor. As the nation expanded west, the question of whether new states would allow slavery became explosive. Northerners argued slavery was morally wrong and should not spread. Southerners argued it was their right and essential to their economy. Compromises like the Missouri Compromise (1820) and the Compromise of 1850 temporarily eased tensions, but each compromise satisfied no one fully. The Kansas-Nebraska Act of 1854 led to violent clashes between pro-slavery and anti-slavery settlers in Kansas, known as 'Bleeding Kansas.' The Dred Scott Supreme Court decision of 1857 ruled that enslaved people were not citizens and had no rights, outraging many Northerners. These events, along with growing abolitionist sentiment, pushed the nation toward war.",
+            "examples": [
+              {"problem": "What was the main cause of the Civil War?", "answer": "Slavery — specifically, whether slavery should expand into new western territories and states.", "explanation": "While states' rights and economic differences also played roles, slavery was the central issue that divided the nation."},
+              {"problem": "What was the Missouri Compromise?", "answer": "An 1820 agreement that admitted Missouri as a slave state and Maine as a free state, maintaining the balance in the Senate.", "explanation": "It also drew a line across the Louisiana Territory: slavery was banned north of the line and allowed south of it."}
+            ],
+            "key_vocabulary": ["slavery", "abolitionist", "compromise", "plantation", "secession", "free state", "slave state", "Dred Scott"],
+            "real_world": "The debate over slavery and states' rights in the 1800s reminds us that democratic nations sometimes face deeply divisive issues that cannot be resolved through compromise alone."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What was the central issue that caused the Civil War?", "options": ["Taxes", "Slavery", "Foreign trade", "Immigration"], "correct": 1, "hint": "This issue divided the North and South for decades."},
+            {"type": "fill_in", "question": "People who wanted to end slavery were called ___.", "answer": "abolitionists", "hint": "'Abolish' means to end or eliminate something."},
+            {"type": "true_false", "question": "The Southern economy depended on enslaved labor for its plantations.", "answer": true, "hint": "Cotton, tobacco, and sugar required many workers to produce."},
+            {"type": "multiple_choice", "question": "What did the Missouri Compromise do?", "options": ["Ended slavery everywhere", "Admitted Missouri as a free state", "Tried to balance slave and free states", "Started the Civil War"], "correct": 2, "hint": "This compromise tried to keep an equal number of slave and free states."},
+            {"type": "true_false", "question": "The Dred Scott decision said enslaved people were citizens.", "answer": false, "hint": "The Supreme Court ruled the opposite, outraging many Northerners."},
+            {"type": "multiple_choice", "question": "What was 'Bleeding Kansas'?", "options": ["A natural disaster", "Violent clashes between pro- and anti-slavery settlers", "A Civil War battle", "A disease outbreak"], "correct": 1, "hint": "The Kansas-Nebraska Act led to violence over slavery in Kansas."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-5-2",
+          "title": "Key People of the Civil War",
+          "type": "lesson",
+          "content": {
+            "explanation": "Many important people shaped the Civil War era. Abraham Lincoln, elected president in 1860, believed slavery was wrong and that the Union must be preserved. His election caused Southern states to secede (leave the Union), leading to war. Jefferson Davis served as president of the Confederate States of America — the new nation formed by the seceding states. Frederick Douglass, a formerly enslaved man who had escaped to freedom, became a powerful abolitionist speaker and writer who advised Lincoln. Harriet Tubman escaped slavery and then risked her life again and again to lead hundreds of enslaved people to freedom through the Underground Railroad — a secret network of safe houses and routes. During the war, she served as a spy and scout for the Union army. Ulysses S. Grant led the Union armies to victory, while Robert E. Lee commanded the Confederate forces. Clara Barton cared for wounded soldiers on the battlefield and later founded the American Red Cross. Sojourner Truth, born into slavery, became a famous abolitionist and women's rights activist.",
+            "examples": [
+              {"problem": "Who was Harriet Tubman?", "answer": "An escaped enslaved woman who led hundreds of people to freedom through the Underground Railroad.", "explanation": "Tubman made about 13 trips back to the South, risking capture and death each time, to free enslaved people. She was called 'Moses' for leading her people to freedom."},
+              {"problem": "Who was Frederick Douglass?", "answer": "A formerly enslaved man who became a powerful abolitionist speaker, writer, and advisor to President Lincoln.", "explanation": "Douglass's autobiographies and speeches showed the horrors of slavery and convinced many people to support abolition."}
+            ],
+            "key_vocabulary": ["Abraham Lincoln", "Jefferson Davis", "Frederick Douglass", "Harriet Tubman", "Underground Railroad", "Confederate", "Union", "abolitionist"],
+            "real_world": "Harriet Tubman's face is planned to appear on the US $20 bill. Frederick Douglass, Clara Barton, and other Civil War figures are honored with monuments, schools, and holidays across the country."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Who was the president of the United States during the Civil War?", "options": ["Thomas Jefferson", "Andrew Jackson", "Abraham Lincoln", "Ulysses S. Grant"], "correct": 2, "hint": "He is known as one of America's greatest presidents."},
+            {"type": "fill_in", "question": "Harriet Tubman helped enslaved people escape through the ___ Railroad.", "answer": "Underground", "hint": "This was not an actual railroad but a secret network of safe houses."},
+            {"type": "true_false", "question": "Frederick Douglass was born free.", "answer": false, "hint": "He escaped slavery and then fought to end it."},
+            {"type": "multiple_choice", "question": "Who was the president of the Confederate States?", "options": ["Robert E. Lee", "Jefferson Davis", "Ulysses S. Grant", "Abraham Lincoln"], "correct": 1, "hint": "This person led the Southern states that seceded."},
+            {"type": "true_false", "question": "Clara Barton founded the American Red Cross.", "answer": true, "hint": "She first cared for soldiers during the Civil War."},
+            {"type": "multiple_choice", "question": "Who commanded the Union armies to victory?", "options": ["Robert E. Lee", "Jefferson Davis", "Ulysses S. Grant", "Stonewall Jackson"], "correct": 2, "hint": "He later became the 18th President of the United States."},
+            {"type": "fill_in", "question": "___ Truth was a famous abolitionist and women's rights activist born into slavery.", "answer": "Sojourner", "hint": "Her first name means 'traveler' or 'one who journeys.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-5-3",
+          "title": "The War and Emancipation",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil War began on April 12, 1861, when Confederate forces attacked Fort Sumter in South Carolina. Eleven Southern states seceded and formed the Confederate States of America. The Union (the North) had more people, more factories, more railroads, and a stronger navy. The Confederacy (the South) had skilled military leaders, soldiers fighting to defend their homeland, and the advantage of fighting on familiar territory. The war was far longer and bloodier than anyone expected. On January 1, 1863, President Lincoln issued the Emancipation Proclamation, declaring enslaved people in Confederate states to be free. While it did not immediately free everyone (it only applied to states in rebellion), it changed the purpose of the war — the Union was now fighting not just to preserve the country, but to end slavery. About 180,000 African Americans served in the Union army and navy, fighting bravely for their own freedom and the freedom of others. The Gettysburg Address, Lincoln's famous speech in November 1863, honored the fallen soldiers and rededicated the nation to equality and democracy.",
+            "examples": [
+              {"problem": "What was the Emancipation Proclamation?", "answer": "An executive order by President Lincoln in 1863 that declared enslaved people in Confederate states to be free.", "explanation": "It changed the war's purpose from just preserving the Union to also ending slavery."},
+              {"problem": "What advantages did the Union have?", "answer": "More people, factories, railroads, and a stronger navy.", "explanation": "These advantages helped the Union produce weapons, transport troops, and blockade Southern ports."}
+            ],
+            "key_vocabulary": ["Fort Sumter", "secede", "Emancipation Proclamation", "Confederacy", "Union", "Gettysburg Address", "blockade"],
+            "real_world": "The Gettysburg Address is one of the most famous speeches in American history. Lincoln's words about 'government of the people, by the people, for the people' still inspire people around the world."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did the Civil War begin?", "options": ["Gettysburg", "Fort Sumter", "Washington D.C.", "Richmond"], "correct": 1, "hint": "Confederate forces attacked this fort in South Carolina in April 1861."},
+            {"type": "fill_in", "question": "The ___ Proclamation declared enslaved people in Confederate states to be free.", "answer": "Emancipation", "hint": "'Emancipation' means setting someone free."},
+            {"type": "true_false", "question": "About 180,000 African Americans served in the Union army.", "answer": true, "hint": "After the Emancipation Proclamation, African Americans fought for their own freedom."},
+            {"type": "multiple_choice", "question": "What advantages did the Confederacy have?", "options": ["More factories", "More railroads", "Skilled military leaders and fighting on familiar territory", "A stronger navy"], "correct": 2, "hint": "Southern soldiers were fighting to defend their homeland."},
+            {"type": "true_false", "question": "The Emancipation Proclamation immediately freed all enslaved people in the United States.", "answer": false, "hint": "It only applied to Confederate states, not border states or areas already under Union control."},
+            {"type": "multiple_choice", "question": "When was the Gettysburg Address given?", "options": ["1861", "1862", "1863", "1865"], "correct": 2, "hint": "Lincoln gave this speech in November, the same year as the Emancipation Proclamation."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-5-4",
+          "title": "End of the War and Reconstruction",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Civil War ended on April 9, 1865, when General Robert E. Lee surrendered to General Ulysses S. Grant at Appomattox Court House in Virginia. The war had lasted four years and killed over 620,000 soldiers — more Americans than any other war in history. Just days after the surrender, on April 14, 1865, President Lincoln was assassinated by John Wilkes Booth at Ford's Theatre in Washington, D.C. The nation was devastated. The period after the war, called Reconstruction (1865-1877), focused on rebuilding the South and integrating formerly enslaved people into society as free citizens. Three important amendments were added to the Constitution: the Thirteenth abolished slavery, the Fourteenth gave citizenship and equal protection to all people born in the US, and the Fifteenth gave Black men the right to vote. During Reconstruction, Black Americans built schools, churches, and communities, and some were elected to political office. However, Reconstruction was cut short, and many of these gains were reversed by racist laws called Jim Crow laws that enforced segregation and denied Black citizens their rights for nearly a century.",
+            "examples": [
+              {"problem": "Where did the Civil War end?", "answer": "At Appomattox Court House in Virginia, where Lee surrendered to Grant on April 9, 1865.", "explanation": "The surrender of Lee's army effectively ended the war, though some fighting continued briefly elsewhere."},
+              {"problem": "What were the Reconstruction Amendments?", "answer": "The 13th (ended slavery), 14th (citizenship and equal protection), and 15th (voting rights for Black men).", "explanation": "These amendments transformed the Constitution and expanded rights, though their promises were not fully realized for many decades."}
+            ],
+            "key_vocabulary": ["surrender", "Reconstruction", "assassination", "Thirteenth Amendment", "Fourteenth Amendment", "Fifteenth Amendment", "Jim Crow", "segregation"],
+            "real_world": "The Civil War ended slavery, but the fight for equal rights continued through the Civil Rights Movement of the 1950s and 1960s and continues today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where did Lee surrender to Grant?", "options": ["Gettysburg", "Fort Sumter", "Appomattox Court House", "Washington D.C."], "correct": 2, "hint": "This courthouse in Virginia was where the war effectively ended."},
+            {"type": "fill_in", "question": "The ___ Amendment abolished slavery.", "answer": "Thirteenth", "hint": "This was the first of the three Reconstruction Amendments."},
+            {"type": "true_false", "question": "President Lincoln was assassinated shortly after the war ended.", "answer": true, "hint": "John Wilkes Booth shot Lincoln at Ford's Theatre on April 14, 1865."},
+            {"type": "multiple_choice", "question": "What did the Fifteenth Amendment do?", "options": ["Abolished slavery", "Gave citizenship to all born in the US", "Gave Black men the right to vote", "Ended the war"], "correct": 2, "hint": "This amendment expanded who could participate in elections."},
+            {"type": "true_false", "question": "Jim Crow laws protected the rights of Black citizens.", "answer": false, "hint": "These laws actually did the opposite."},
+            {"type": "multiple_choice", "question": "How many American soldiers died in the Civil War?", "options": ["About 50,000", "About 200,000", "About 620,000", "About 1 million"], "correct": 2, "hint": "More Americans died in this war than in any other."},
+            {"type": "fill_in", "question": "The period of rebuilding after the Civil War is called ___.", "answer": "Reconstruction", "hint": "This word means building something again."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What was the main cause of the Civil War?", "options": ["Taxes", "Territory disputes", "Slavery", "Foreign invasion"], "correct": 2},
+          {"type": "true_false", "question": "Harriet Tubman led people to freedom through the Underground Railroad.", "answer": true},
+          {"type": "multiple_choice", "question": "What did the Emancipation Proclamation do?", "options": ["Ended the war", "Declared enslaved people in Confederate states free", "Created the Confederacy", "Established Reconstruction"], "correct": 1},
+          {"type": "fill_in", "question": "The Civil War ended at ___ Court House in Virginia.", "answer": "Appomattox", "hint": ""},
+          {"type": "true_false", "question": "The Thirteenth Amendment abolished slavery.", "answer": true},
+          {"type": "multiple_choice", "question": "Who assassinated President Lincoln?", "options": ["Jefferson Davis", "John Wilkes Booth", "Robert E. Lee", "Andrew Johnson"], "correct": 1},
+          {"type": "multiple_choice", "question": "Who was a famous abolitionist speaker and formerly enslaved person?", "options": ["Clara Barton", "Sojourner Truth", "Frederick Douglass", "Both B and C"], "correct": 3},
+          {"type": "true_false", "question": "Jim Crow laws enforced segregation after Reconstruction.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "civil_war_historian"
+      }
+    },
+    {
+      "id": "5-ss-6",
+      "title": "Immigration & Growth",
+      "description": "Learn about the waves of immigration that shaped America, the growth of cities and industry, and how diverse groups of people contributed to building the nation.",
+      "lessons": [
+        {
+          "id": "5-ss-6-1",
+          "title": "Waves of Immigration",
+          "type": "lesson",
+          "content": {
+            "explanation": "The United States has always been a nation of immigrants. Throughout the 1800s and early 1900s, millions of people came to America from all over the world. The first major wave (1820s-1860s) brought millions of Irish immigrants fleeing famine and German immigrants seeking political freedom and economic opportunity. The second wave (1880s-1920s) brought millions from Southern and Eastern Europe — Italians, Poles, Russians, and many Jewish people escaping religious persecution. Chinese immigrants came to the West Coast, many working on the transcontinental railroad. Immigrants came for many reasons: to escape poverty, war, religious persecution, or famine, and to find freedom and opportunity in America. Between 1892 and 1954, over 12 million immigrants passed through Ellis Island in New York Harbor. On the West Coast, Angel Island in San Francisco processed immigrants from Asia. Immigrants faced many challenges including learning a new language, finding jobs, and dealing with discrimination from people who already lived here.",
+            "examples": [
+              {"problem": "Why did so many Irish people come to America in the 1840s?", "answer": "A devastating potato famine in Ireland caused widespread starvation and forced millions to emigrate.", "explanation": "Ireland's main food source — potatoes — was destroyed by disease, causing a famine that killed about one million people and drove another million to America."},
+              {"problem": "What was Ellis Island?", "answer": "An immigration processing station in New York Harbor where over 12 million immigrants entered the US between 1892 and 1954.", "explanation": "For millions of immigrants, Ellis Island was their first glimpse of America and the gateway to their new lives."}
+            ],
+            "key_vocabulary": ["immigration", "immigrant", "famine", "persecution", "Ellis Island", "Angel Island", "emigrate", "discrimination"],
+            "real_world": "About 40 percent of Americans today can trace their ancestry to someone who passed through Ellis Island. Immigration continues to shape America's culture, food, music, and economy."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What drove many Irish immigrants to America in the 1840s?", "options": ["Gold Rush", "Potato famine", "Religious freedom", "Free land"], "correct": 1, "hint": "A devastating food crisis forced millions to leave Ireland."},
+            {"type": "fill_in", "question": "Over 12 million immigrants entered the US through ___ Island.", "answer": "Ellis", "hint": "This immigration station was in New York Harbor."},
+            {"type": "true_false", "question": "Chinese immigrants helped build the transcontinental railroad.", "answer": true, "hint": "Thousands of Chinese workers did dangerous work laying railroad tracks."},
+            {"type": "multiple_choice", "question": "Where were Asian immigrants processed on the West Coast?", "options": ["Ellis Island", "Liberty Island", "Angel Island", "Manhattan Island"], "correct": 2, "hint": "This island is in San Francisco Bay."},
+            {"type": "true_false", "question": "Immigrants always found it easy to adjust to life in America.", "answer": false, "hint": "They faced challenges like language barriers, finding jobs, and discrimination."},
+            {"type": "multiple_choice", "question": "Why did people immigrate to America?", "options": ["Only for gold", "To escape poverty, war, persecution, and find opportunity", "Because they were forced to", "Only for free land"], "correct": 1, "hint": "People came for many different reasons."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-6-2",
+          "title": "The Industrial Revolution",
+          "type": "lesson",
+          "content": {
+            "explanation": "The Industrial Revolution transformed America from a farming nation into a manufacturing powerhouse in the late 1800s. New inventions and technologies changed how people lived and worked. Factories powered by steam engines and later electricity produced goods faster and cheaper than ever before. The transcontinental railroad, completed in 1869, connected the East and West coasts, making it possible to ship goods and people across the country in days instead of months. Thomas Edison invented the electric light bulb and built the first power station. Alexander Graham Bell invented the telephone. Andrew Carnegie built a steel empire, and John D. Rockefeller dominated the oil industry. While these industrialists created jobs and built the modern economy, workers — including many children — often labored in dangerous conditions for very low wages. Factory workers might work 12-16 hours a day, six or seven days a week. Workers began forming labor unions to fight for better pay, shorter hours, and safer conditions.",
+            "examples": [
+              {"problem": "What was the Industrial Revolution?", "answer": "A period when America shifted from farming to manufacturing, using new inventions and factories to produce goods.", "explanation": "This transformation changed every aspect of American life — where people lived, how they worked, and what they could buy."},
+              {"problem": "Why was the transcontinental railroad important?", "answer": "It connected the East and West coasts, allowing goods and people to travel across the country in days instead of months.", "explanation": "The railroad united the nation physically and economically, making trade much faster and cheaper."}
+            ],
+            "key_vocabulary": ["Industrial Revolution", "factory", "transcontinental railroad", "invention", "labor union", "manufacturing", "industrialist"],
+            "real_world": "Many things we take for granted — electric lights, telephones, manufactured goods — came from the Industrial Revolution. The labor unions that formed then still fight for workers' rights today."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What did the Industrial Revolution change?", "options": ["Nothing significant", "America shifted from farming to manufacturing", "People stopped working", "Only transportation changed"], "correct": 1, "hint": "This was a fundamental transformation of how people lived and worked."},
+            {"type": "fill_in", "question": "The transcontinental railroad was completed in ___.", "answer": "1869", "hint": "This happened shortly after the Civil War ended."},
+            {"type": "true_false", "question": "Thomas Edison invented the telephone.", "answer": false, "hint": "Edison invented the light bulb. A different inventor created the telephone."},
+            {"type": "multiple_choice", "question": "Why did workers form labor unions?", "options": ["To play sports together", "To fight for better pay, hours, and safety", "To start their own companies", "To join the military"], "correct": 1, "hint": "Factory conditions were often dangerous and wages were very low."},
+            {"type": "true_false", "question": "Children worked in factories during the Industrial Revolution.", "answer": true, "hint": "Child labor was a serious problem during this era."},
+            {"type": "multiple_choice", "question": "Who invented the telephone?", "options": ["Thomas Edison", "Alexander Graham Bell", "Andrew Carnegie", "John D. Rockefeller"], "correct": 1, "hint": "His last name is associated with a famous telephone company."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-6-3",
+          "title": "The Growth of Cities",
+          "type": "lesson",
+          "content": {
+            "explanation": "As factories grew, so did cities. Millions of people — both immigrants and Americans from rural areas — moved to cities for factory jobs. This movement from the countryside to cities is called urbanization. Cities like New York, Chicago, and Philadelphia grew explosively. New York City's population went from about 500,000 in 1850 to over 3.4 million by 1900. New technologies made larger cities possible: steel-frame construction allowed skyscrapers to be built, electric streetcars and later subways helped people get around, and indoor plumbing and sewage systems improved sanitation. However, rapid growth also brought problems. Many immigrants and workers lived in overcrowded apartments called tenements, which often lacked fresh air, clean water, and proper sanitation. Poverty, disease, and crime were serious issues. Reformers called Progressives worked to improve conditions, pushing for building codes, child labor laws, public health measures, and better schools. Journalists called 'muckrakers' wrote articles and books exposing the terrible conditions in factories and tenements.",
+            "examples": [
+              {"problem": "What is urbanization?", "answer": "The movement of people from rural areas to cities.", "explanation": "Factory jobs attracted millions of people to cities, causing rapid growth that brought both opportunities and challenges."},
+              {"problem": "What were tenements?", "answer": "Overcrowded apartment buildings where many immigrants and workers lived in poor conditions.", "explanation": "Tenements were often dark, dirty, and cramped, with many families sharing small spaces."}
+            ],
+            "key_vocabulary": ["urbanization", "tenement", "skyscraper", "Progressive", "muckraker", "sanitation", "reform"],
+            "real_world": "Many of the building codes, health regulations, and labor laws we have today were created because of the problems caused by rapid urbanization in the late 1800s and early 1900s."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is urbanization?", "options": ["People moving to farms", "People moving from rural areas to cities", "Building new roads", "Creating new states"], "correct": 1, "hint": "This movement was driven by factory jobs in cities."},
+            {"type": "fill_in", "question": "Overcrowded apartment buildings where immigrants lived were called ___.", "answer": "tenements", "hint": "These buildings had poor conditions and were often dark and cramped."},
+            {"type": "true_false", "question": "New York City's population grew from 500,000 to over 3.4 million between 1850 and 1900.", "answer": true, "hint": "Cities grew explosively during this period."},
+            {"type": "multiple_choice", "question": "What were muckrakers?", "options": ["Factory owners", "Journalists who exposed bad conditions", "City planners", "Railroad workers"], "correct": 1, "hint": "These writers used their pens to fight for reform."},
+            {"type": "true_false", "question": "Rapid city growth caused no problems at all.", "answer": false, "hint": "Overcrowding, poverty, disease, and crime were serious issues."},
+            {"type": "multiple_choice", "question": "What technology allowed taller buildings to be constructed?", "options": ["Wooden beams", "Steel-frame construction", "Brick walls", "Stone arches"], "correct": 1, "hint": "This strong material made skyscrapers possible."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "5-ss-6-4",
+          "title": "Cultural Contributions of Immigrants",
+          "type": "lesson",
+          "content": {
+            "explanation": "Immigrants from around the world brought their cultures, traditions, languages, and skills to America, enriching the nation in countless ways. Italian immigrants brought pizza, pasta, and a love of music and art. Chinese immigrants introduced their cuisine and cultural traditions, building vibrant Chinatowns in cities across the country. Irish immigrants contributed to music, literature, and built much of America's infrastructure. Jewish immigrants from Eastern Europe enriched entertainment, business, education, and cultural life. German immigrants brought brewing traditions, Christmas customs like decorating trees, and contributions to science and engineering. Mexican Americans in the Southwest contributed ranching traditions, architecture, food, and music. African Americans, despite facing severe discrimination, created jazz and blues music, which became uniquely American art forms. All of these diverse contributions came together to create the unique American culture we know today — a blend of traditions from around the world. This is why America is sometimes called a 'melting pot' or 'salad bowl' — many different cultures mixing together while also maintaining their distinct identities.",
+            "examples": [
+              {"problem": "How did immigrants contribute to American culture?", "answer": "They brought their food, music, art, traditions, and skills, creating the diverse American culture we have today.", "explanation": "From pizza to jazz to Christmas trees, many things we consider 'American' actually came from immigrant cultures."},
+              {"problem": "What does it mean to call America a 'melting pot'?", "answer": "It means many different cultures have blended together to create a unique American identity.", "explanation": "Some people prefer the term 'salad bowl,' which suggests that different cultures mix together while keeping their distinct flavors."}
+            ],
+            "key_vocabulary": ["culture", "tradition", "diversity", "melting pot", "heritage", "contribute", "community"],
+            "real_world": "Look around your community. The restaurants you eat at, the holidays you celebrate, and the music you listen to all reflect the diverse cultural contributions of immigrants throughout American history."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Why is America sometimes called a 'melting pot'?", "options": ["It has many volcanoes", "Many cultures have blended together", "It is very hot", "People melt metal there"], "correct": 1, "hint": "This phrase describes how diverse cultures come together."},
+            {"type": "true_false", "question": "Italian immigrants brought pizza and pasta to America.", "answer": true, "hint": "These foods are now considered American favorites."},
+            {"type": "fill_in", "question": "African Americans created ___ and blues, uniquely American music styles.", "answer": "jazz", "hint": "This music style originated in New Orleans."},
+            {"type": "multiple_choice", "question": "Which immigrant group built vibrant communities known as 'Chinatowns'?", "options": ["Italian immigrants", "Irish immigrants", "Chinese immigrants", "German immigrants"], "correct": 2, "hint": "These neighborhoods are named after the country of origin."},
+            {"type": "true_false", "question": "The tradition of decorating Christmas trees was brought to America by German immigrants.", "answer": true, "hint": "This holiday tradition came from Germany."},
+            {"type": "multiple_choice", "question": "What does diversity mean?", "options": ["Everyone being the same", "A variety of different cultures, backgrounds, and perspectives", "Living in a big city", "Speaking only English"], "correct": 1, "hint": "This word describes having many different types of people and cultures."},
+            {"type": "fill_in", "question": "America is sometimes called a melting ___ because many cultures have blended together.", "answer": "pot", "hint": "This cooking-related metaphor describes cultural blending."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What drove many Irish immigrants to America in the 1840s?", "options": ["Gold Rush", "Potato famine", "Religious persecution", "War"], "correct": 1},
+          {"type": "true_false", "question": "Over 12 million immigrants passed through Ellis Island.", "answer": true},
+          {"type": "multiple_choice", "question": "What was the Industrial Revolution?", "options": ["A war", "A shift from farming to manufacturing", "A type of government", "A religious movement"], "correct": 1},
+          {"type": "fill_in", "question": "Overcrowded apartments where immigrants lived were called ___.", "answer": "tenements", "hint": ""},
+          {"type": "true_false", "question": "The transcontinental railroad was completed in 1869.", "answer": true},
+          {"type": "multiple_choice", "question": "What did labor unions fight for?", "options": ["Higher taxes", "Better pay, hours, and safety", "More factories", "Less immigration"], "correct": 1},
+          {"type": "multiple_choice", "question": "Which musical art form was created by African Americans?", "options": ["Classical symphony", "Jazz", "Country music", "Opera"], "correct": 1},
+          {"type": "true_false", "question": "America is called a 'melting pot' because of its cultural diversity.", "answer": true}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "immigration_scholar"
+      }
+    }
+  ]
+}

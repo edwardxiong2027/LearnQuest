@@ -1,0 +1,726 @@
+{
+  "grade": 0,
+  "subject": "ela",
+  "units": [
+    {
+      "id": "k-ela-1",
+      "title": "Letters and Sounds",
+      "description": "Learn to recognize and name uppercase and lowercase letters, and discover the sounds they make.",
+      "lessons": [
+        {
+          "id": "k-ela-1-1",
+          "title": "Uppercase Letters A-M",
+          "type": "lesson",
+          "content": {
+            "explanation": "The alphabet has 26 letters. Each letter has a big form called an uppercase letter. We use uppercase letters at the start of sentences and names. Let's learn the first 13 uppercase letters: A, B, C, D, E, F, G, H, I, J, K, L, M. Each letter has its own shape. A looks like a tent. B has two bumps on the right. C is like a curve or a moon. Practice writing each one in the air with your finger!",
+            "examples": [
+              {"problem": "What letter looks like a tent?", "answer": "A", "explanation": "The letter A has two lines that meet at a point on top, like a tent."},
+              {"problem": "What letter has two bumps?", "answer": "B", "explanation": "The letter B has a straight line on the left and two bumps on the right."},
+              {"problem": "Which letter comes after D?", "answer": "E", "explanation": "The alphabet goes A, B, C, D, E. So E comes right after D."}
+            ],
+            "key_vocabulary": ["uppercase", "letter", "alphabet"],
+            "real_world": "You see uppercase letters on stop signs, book covers, and at the start of your name!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is an uppercase letter A?", "options": ["a", "A", "b", "B"], "correct": 1, "hint": "Uppercase means the big version of the letter."},
+            {"type": "multiple_choice", "question": "What letter comes after B in the alphabet?", "options": ["A", "D", "C", "E"], "correct": 2, "hint": "Sing the ABC song: A, B, ..."},
+            {"type": "true_false", "question": "The letter D comes before the letter C in the alphabet.", "answer": "false", "hint": "Think about the ABC song. Which do you sing first?"},
+            {"type": "multiple_choice", "question": "Which letter looks like a circle with a line?", "options": ["C", "O", "D", "G"], "correct": 2, "hint": "This letter is like a circle with a straight line on the left side."},
+            {"type": "multiple_choice", "question": "How many letters are in the alphabet?", "options": ["10", "20", "26", "30"], "correct": 2, "hint": "Sing the whole ABC song and count!"},
+            {"type": "true_false", "question": "M is one of the first 13 letters of the alphabet.", "answer": "true", "hint": "Count from A to M. Is it within the first 13?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-1-2",
+          "title": "Uppercase Letters N-Z",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now let's learn the rest of the uppercase letters: N, O, P, Q, R, S, T, U, V, W, X, Y, Z. O is a big circle. S looks like a snake. T looks like a cross at the top. W looks like mountains. X is two lines that cross. Can you draw each letter in the air?",
+            "examples": [
+              {"problem": "What letter looks like a snake?", "answer": "S", "explanation": "The letter S curves back and forth like a slithering snake."},
+              {"problem": "What letter looks like two mountains?", "answer": "W", "explanation": "The letter W goes down, up, down, up — like two mountain peaks."},
+              {"problem": "What is the very last letter of the alphabet?", "answer": "Z", "explanation": "Z is the 26th and last letter of the alphabet."}
+            ],
+            "key_vocabulary": ["uppercase", "alphabet", "letter name"],
+            "real_world": "You can find these letters on road signs, cereal boxes, and your favorite books!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which letter comes right after O?", "options": ["N", "P", "Q", "M"], "correct": 1, "hint": "Think of the ABC song: ...N, O, ..."},
+            {"type": "multiple_choice", "question": "Which letter looks like a big circle?", "options": ["Q", "C", "O", "D"], "correct": 2, "hint": "This letter is a full round shape with no tail or opening."},
+            {"type": "true_false", "question": "Z is the last letter of the alphabet.", "answer": "true", "hint": "Sing the ABC song all the way to the end."},
+            {"type": "multiple_choice", "question": "What letter looks like two lines crossing?", "options": ["T", "X", "Y", "V"], "correct": 1, "hint": "This letter has two diagonal lines that meet in the middle."},
+            {"type": "multiple_choice", "question": "Which letter comes before Z?", "options": ["X", "W", "Y", "V"], "correct": 2, "hint": "The alphabet ends with ...X, Y, Z."},
+            {"type": "true_false", "question": "The letter T looks like a plus sign at the top of a line.", "answer": "true", "hint": "T has a horizontal line on top of a vertical line."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-1-3",
+          "title": "Lowercase Letters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every letter has two forms: uppercase (big) and lowercase (small). We use lowercase letters most of the time when we write. Some lowercase letters look like their uppercase partners, just smaller, like o and s. But some look very different! The uppercase A looks like a tent, but lowercase a looks like a circle with a stick. Let's practice matching uppercase and lowercase letters.",
+            "examples": [
+              {"problem": "What is the lowercase of B?", "answer": "b", "explanation": "Lowercase b has one bump on the right instead of two, with a tall line on the left."},
+              {"problem": "What is the lowercase of E?", "answer": "e", "explanation": "Lowercase e looks like a small curve, very different from the uppercase E with its three arms."},
+              {"problem": "Do S and s look similar?", "answer": "Yes", "explanation": "Lowercase s looks just like uppercase S, only smaller!"}
+            ],
+            "key_vocabulary": ["lowercase", "uppercase", "match", "partner"],
+            "real_world": "When you read a book, most of the letters you see are lowercase letters."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is the lowercase letter a?", "options": ["A", "a", "B", "b"], "correct": 1, "hint": "Lowercase means the small version of the letter."},
+            {"type": "multiple_choice", "question": "What is the lowercase partner of D?", "options": ["b", "p", "d", "q"], "correct": 2, "hint": "Lowercase d has a circle on the left and a tall line on the right."},
+            {"type": "true_false", "question": "The lowercase letter s looks like a small version of uppercase S.", "answer": "true", "hint": "Some letters look the same in big and small form."},
+            {"type": "multiple_choice", "question": "Which lowercase letter matches uppercase G?", "options": ["g", "q", "p", "j"], "correct": 0, "hint": "This letter has a circle and a tail that goes down."},
+            {"type": "true_false", "question": "Uppercase R and lowercase r look exactly the same.", "answer": "false", "hint": "Lowercase r is much simpler — just a short line with a tiny bump."},
+            {"type": "multiple_choice", "question": "When do we mostly use lowercase letters?", "options": ["At the start of names", "In the middle and end of words", "Never", "Only on signs"], "correct": 1, "hint": "Most letters in a sentence are lowercase."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-1-4",
+          "title": "Letter Sounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every letter makes a sound. When we read, we use these sounds to figure out words. The letter B makes the /b/ sound, like in 'ball' and 'bat.' The letter M makes the /m/ sound, like in 'mom' and 'map.' Some letters make more than one sound, but let's start with the main sounds. Knowing letter sounds is the first step to reading!",
+            "examples": [
+              {"problem": "What sound does the letter S make?", "answer": "/s/", "explanation": "S makes the /s/ sound, like in 'sun,' 'sit,' and 'snake.'"},
+              {"problem": "What sound does the letter T make?", "answer": "/t/", "explanation": "T makes the /t/ sound, like in 'top,' 'ten,' and 'turtle.'"},
+              {"problem": "What sound does the letter D make?", "answer": "/d/", "explanation": "D makes the /d/ sound, like in 'dog,' 'dig,' and 'door.'"}
+            ],
+            "key_vocabulary": ["sound", "letter sound", "beginning sound"],
+            "real_world": "When you see a new word, you can sound it out letter by letter to read it!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What sound does the letter B make?", "options": ["/b/ as in ball", "/d/ as in dog", "/p/ as in pig", "/m/ as in mom"], "correct": 0, "hint": "Think of the word 'ball.' What sound do you hear at the start?"},
+            {"type": "multiple_choice", "question": "Which letter makes the /k/ sound at the start of 'cat'?", "options": ["K", "S", "C", "T"], "correct": 2, "hint": "Say 'cat' slowly. What letter does it start with?"},
+            {"type": "true_false", "question": "The letter M makes the /m/ sound like in 'moon.'", "answer": "true", "hint": "Say 'moon' slowly. What sound do you hear first?"},
+            {"type": "multiple_choice", "question": "What word starts with the /f/ sound?", "options": ["Pig", "Van", "Fish", "Ship"], "correct": 2, "hint": "Say each word and listen to the first sound."},
+            {"type": "multiple_choice", "question": "Which letter makes the /r/ sound?", "options": ["W", "R", "L", "N"], "correct": 1, "hint": "Think of words like 'run' and 'red.'"},
+            {"type": "true_false", "question": "The letter G always makes the /j/ sound.", "answer": "false", "hint": "Think about the word 'go.' Does G sound like /j/ there?"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-1-5",
+          "title": "Beginning Sounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "The beginning sound is the very first sound you hear in a word. When you say 'dog,' the beginning sound is /d/. When you say 'fish,' the beginning sound is /f/. Listening for beginning sounds helps you figure out how to spell and read words. Say a word slowly and pay attention to the very first sound that comes out of your mouth!",
+            "examples": [
+              {"problem": "What is the beginning sound in 'hat'?", "answer": "/h/", "explanation": "When you say 'hat,' the very first sound is /h/. The word starts with the letter H."},
+              {"problem": "What is the beginning sound in 'sun'?", "answer": "/s/", "explanation": "When you say 'sun,' the very first sound is /s/. The word starts with the letter S."},
+              {"problem": "Do 'bat' and 'ball' start with the same sound?", "answer": "Yes", "explanation": "Both words start with the /b/ sound. They both begin with the letter B."}
+            ],
+            "key_vocabulary": ["beginning sound", "first sound", "starts with"],
+            "real_world": "When you learn a new friend's name, listen to the beginning sound. Does it start the same as your name?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the beginning sound in the word 'map'?", "options": ["/p/", "/a/", "/m/", "/t/"], "correct": 2, "hint": "Say 'map' slowly. What is the very first sound?"},
+            {"type": "multiple_choice", "question": "Which word starts with the same sound as 'tiger'?", "options": ["Lion", "Top", "Bear", "Goat"], "correct": 1, "hint": "Tiger starts with /t/. Which other word starts with /t/?"},
+            {"type": "true_false", "question": "'Cat' and 'kite' start with the same sound.", "answer": "true", "hint": "Say both words. Do they both start with a /k/ sound?"},
+            {"type": "multiple_choice", "question": "Which word does NOT start with the /s/ sound?", "options": ["Sun", "Sit", "Fun", "Sand"], "correct": 2, "hint": "Say each word and listen for the /s/ sound at the beginning."},
+            {"type": "multiple_choice", "question": "What letter makes the beginning sound in 'jump'?", "options": ["G", "J", "D", "Y"], "correct": 1, "hint": "Say 'jump' slowly. The first sound is /j/."},
+            {"type": "true_false", "question": "'Dog' and 'duck' start with the same beginning sound.", "answer": "true", "hint": "Both words begin with the /d/ sound."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is an uppercase letter?", "options": ["a", "b", "C", "d"], "correct": 2, "hint": "Uppercase letters are the big versions."},
+          {"type": "multiple_choice", "question": "What is the lowercase partner of the letter F?", "options": ["f", "t", "p", "e"], "correct": 0, "hint": "The small version of F."},
+          {"type": "true_false", "question": "There are 26 letters in the alphabet.", "answer": "true", "hint": "Sing the ABC song and count."},
+          {"type": "multiple_choice", "question": "What sound does the letter N make?", "options": ["/m/", "/n/", "/l/", "/r/"], "correct": 1, "hint": "Think of the word 'nose.'"},
+          {"type": "multiple_choice", "question": "What is the beginning sound in 'lake'?", "options": ["/k/", "/a/", "/l/", "/t/"], "correct": 2, "hint": "Say 'lake' slowly and listen to the first sound."},
+          {"type": "true_false", "question": "The letter Z comes before the letter A in the alphabet.", "answer": "false", "hint": "The alphabet starts with A and ends with Z."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "letter_explorer"
+      }
+    },
+    {
+      "id": "k-ela-2",
+      "title": "Phonics Basics",
+      "description": "Learn consonant sounds, short vowel sounds, CVC words, and rhyming to start reading!",
+      "lessons": [
+        {
+          "id": "k-ela-2-1",
+          "title": "Consonant Sounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Consonants are all the letters that are NOT vowels. The vowels are A, E, I, O, U. All the other letters — like B, C, D, F, G — are consonants. Each consonant makes its own special sound. B says /b/, C says /k/ or /s/, D says /d/. When you put consonants together with vowels, you can make words!",
+            "examples": [
+              {"problem": "Is the letter T a consonant or a vowel?", "answer": "Consonant", "explanation": "T is a consonant because it is not A, E, I, O, or U."},
+              {"problem": "What sound does the consonant P make?", "answer": "/p/", "explanation": "P makes the /p/ sound, like in 'pig,' 'pot,' and 'pan.'"},
+              {"problem": "Name a word that starts with the consonant L.", "answer": "Lion", "explanation": "Lion starts with L, which makes the /l/ sound."}
+            ],
+            "key_vocabulary": ["consonant", "vowel", "sound"],
+            "real_world": "Most of the sounds in your name are probably consonant sounds! What consonants are in your name?"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a consonant?", "options": ["A", "E", "T", "I"], "correct": 2, "hint": "Vowels are A, E, I, O, U. Everything else is a consonant."},
+            {"type": "true_false", "question": "The letter O is a consonant.", "answer": "false", "hint": "O is one of the five vowels: A, E, I, O, U."},
+            {"type": "multiple_choice", "question": "What sound does the consonant H make?", "options": ["/h/ as in hat", "/a/ as in apple", "/s/ as in sun", "/e/ as in egg"], "correct": 0, "hint": "Think of the word 'hat' or 'happy.'"},
+            {"type": "multiple_choice", "question": "How many vowels are there?", "options": ["3", "5", "7", "10"], "correct": 1, "hint": "The vowels are A, E, I, O, U. Count them!"},
+            {"type": "multiple_choice", "question": "Which word starts with a consonant sound?", "options": ["Apple", "Egg", "Dog", "Orange"], "correct": 2, "hint": "D is a consonant."},
+            {"type": "true_false", "question": "The letter B is a consonant.", "answer": "true", "hint": "B is not A, E, I, O, or U, so it must be a consonant."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-2-2",
+          "title": "Short Vowel Sounds",
+          "type": "lesson",
+          "content": {
+            "explanation": "Vowels are the special letters A, E, I, O, U. Each vowel can make a short sound. Short A says /a/ like in 'cat.' Short E says /e/ like in 'bed.' Short I says /i/ like in 'sit.' Short O says /o/ like in 'hot.' Short U says /u/ like in 'cup.' These short vowel sounds are in many words you already know!",
+            "examples": [
+              {"problem": "What is the short vowel sound in 'pig'?", "answer": "Short I (/i/)", "explanation": "The letter I in 'pig' makes the short /i/ sound."},
+              {"problem": "What is the short vowel sound in 'bus'?", "answer": "Short U (/u/)", "explanation": "The letter U in 'bus' makes the short /u/ sound."},
+              {"problem": "What is the short vowel sound in 'dog'?", "answer": "Short O (/o/)", "explanation": "The letter O in 'dog' makes the short /o/ sound."}
+            ],
+            "key_vocabulary": ["vowel", "short vowel", "sound"],
+            "real_world": "Listen for short vowel sounds in words around you, like 'bag,' 'pen,' 'sit,' 'mop,' and 'bug.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What short vowel sound do you hear in 'cat'?", "options": ["Short E", "Short A", "Short I", "Short O"], "correct": 1, "hint": "Say 'cat' slowly. The middle sound is the vowel."},
+            {"type": "multiple_choice", "question": "Which word has a short E sound?", "options": ["Bed", "Bee", "Boat", "Bike"], "correct": 0, "hint": "Short E sounds like /e/ as in 'bed.'"},
+            {"type": "true_false", "question": "The word 'cup' has a short U sound.", "answer": "true", "hint": "Say 'cup.' The middle sound /u/ is a short U."},
+            {"type": "multiple_choice", "question": "What short vowel sound is in 'fox'?", "options": ["Short A", "Short E", "Short I", "Short O"], "correct": 3, "hint": "Say 'fox' slowly. What vowel sound do you hear in the middle?"},
+            {"type": "multiple_choice", "question": "Which word has a short I sound?", "options": ["Kite", "Fin", "Feet", "Cone"], "correct": 1, "hint": "Short I sounds like the middle of 'sit.'"},
+            {"type": "true_false", "question": "The word 'cake' has a short A sound.", "answer": "false", "hint": "In 'cake,' the A says its name — that is a long A, not a short A."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-2-3",
+          "title": "CVC Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "CVC stands for Consonant-Vowel-Consonant. These are simple three-letter words like 'cat,' 'dog,' 'run,' and 'big.' To read a CVC word, sound out each letter: /k/ - /a/ - /t/ = cat! CVC words are some of the first words you can read all by yourself. The vowel in the middle always makes its short sound.",
+            "examples": [
+              {"problem": "Sound out the word: h-o-t", "answer": "hot", "explanation": "/h/ + /o/ + /t/ = 'hot.' The short O is in the middle."},
+              {"problem": "Sound out the word: p-i-g", "answer": "pig", "explanation": "/p/ + /i/ + /g/ = 'pig.' The short I is in the middle."},
+              {"problem": "What are the three sounds in 'map'?", "answer": "/m/ - /a/ - /p/", "explanation": "M says /m/, A says /a/ (short), P says /p/. Put them together: map!"}
+            ],
+            "key_vocabulary": ["CVC", "sound out", "blend"],
+            "real_world": "CVC words are everywhere! Look for them in books: the, cat, dog, run, big, red, hat, cup."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which of these is a CVC word?", "options": ["Tree", "Cat", "Play", "She"], "correct": 1, "hint": "A CVC word has 3 letters: consonant, vowel, consonant."},
+            {"type": "fill_in", "question": "Sound out: b-a-t = ___", "answer": "bat", "hint": "Put the three sounds together: /b/ + /a/ + /t/."},
+            {"type": "multiple_choice", "question": "What is the vowel in the CVC word 'dog'?", "options": ["D", "O", "G", "A"], "correct": 1, "hint": "The vowel is the letter in the middle of a CVC word."},
+            {"type": "fill_in", "question": "Sound out: s-u-n = ___", "answer": "sun", "hint": "Put the sounds together: /s/ + /u/ + /n/."},
+            {"type": "true_false", "question": "The word 'ship' is a CVC word.", "answer": "false", "hint": "Count the letters. CVC words have exactly 3 letters."},
+            {"type": "multiple_choice", "question": "Which word can you make with the sounds /r/ + /e/ + /d/?", "options": ["Rod", "Rid", "Red", "Rad"], "correct": 2, "hint": "The middle sound is short E, like in 'bed.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-2-4",
+          "title": "Rhyming Words",
+          "type": "lesson",
+          "content": {
+            "explanation": "Rhyming words are words that sound the same at the end. 'Cat' and 'hat' rhyme because they both end with '-at.' 'Dog' and 'log' rhyme because they both end with '-og.' Rhyming is fun! It helps you learn new words and makes songs and poems sound great. To find a rhyme, listen to the ending of a word and think of another word that ends the same way.",
+            "examples": [
+              {"problem": "Does 'man' rhyme with 'can'?", "answer": "Yes", "explanation": "Both words end with '-an,' so they rhyme!"},
+              {"problem": "What rhymes with 'mop'?", "answer": "Top, hop, pop", "explanation": "Words that end in '-op' rhyme with 'mop.'"},
+              {"problem": "Does 'fish' rhyme with 'tree'?", "answer": "No", "explanation": "'Fish' ends with '-ish' and 'tree' ends with '-ee.' They sound different at the end."}
+            ],
+            "key_vocabulary": ["rhyme", "ending sound", "word family"],
+            "real_world": "Songs and nursery rhymes use rhyming words. 'Twinkle, twinkle, little star, how I wonder what you are' — 'star' and 'are' rhyme!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which word rhymes with 'cat'?", "options": ["Dog", "Cup", "Hat", "Pig"], "correct": 2, "hint": "Look for a word that ends with the same sound as 'cat.'"},
+            {"type": "true_false", "question": "'Sun' and 'fun' rhyme.", "answer": "true", "hint": "Do both words end with the same sound?"},
+            {"type": "multiple_choice", "question": "Which word rhymes with 'hop'?", "options": ["Hit", "Top", "Hot", "Hug"], "correct": 1, "hint": "Rhyming words end with the same sound. 'Hop' ends with '-op.'"},
+            {"type": "multiple_choice", "question": "Which word does NOT rhyme with 'bed'?", "options": ["Red", "Led", "Bad", "Fed"], "correct": 2, "hint": "One of these ends with a different sound than '-ed.'"},
+            {"type": "true_false", "question": "'Fish' and 'dish' rhyme.", "answer": "true", "hint": "Both words end with '-ish.'"},
+            {"type": "multiple_choice", "question": "Which word rhymes with 'bug'?", "options": ["Big", "Bag", "Rug", "Beg"], "correct": 2, "hint": "Find the word that ends with '-ug.'"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which of these letters is a vowel?", "options": ["B", "T", "E", "D"], "correct": 2, "hint": "Vowels are A, E, I, O, U."},
+          {"type": "multiple_choice", "question": "What is the short vowel sound in 'hat'?", "options": ["Short E", "Short O", "Short A", "Short U"], "correct": 2, "hint": "Say 'hat' slowly. What sound is in the middle?"},
+          {"type": "multiple_choice", "question": "Which is a CVC word?", "options": ["The", "Run", "Play", "She"], "correct": 1, "hint": "CVC = consonant-vowel-consonant, 3 letters."},
+          {"type": "true_false", "question": "'Pig' and 'big' rhyme.", "answer": "true", "hint": "Do they end with the same sound?"},
+          {"type": "multiple_choice", "question": "Which word does NOT rhyme with 'can'?", "options": ["Man", "Fan", "Cup", "Pan"], "correct": 2, "hint": "One of these does not end with '-an.'"},
+          {"type": "fill_in", "question": "Sound out: d-o-g = ___", "answer": "dog", "hint": "Blend the three sounds together."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "phonics_star"
+      }
+    },
+    {
+      "id": "k-ela-3",
+      "title": "Sight Words",
+      "description": "Learn to read common sight words that appear in almost every book and sentence.",
+      "lessons": [
+        {
+          "id": "k-ela-3-1",
+          "title": "Sight Words: the, and, is",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sight words are words you should know by looking at them, without needing to sound them out. They appear in almost everything you read. Let's learn three important sight words: 'the,' 'and,' and 'is.' 'The' is the most common word in English! 'And' connects things together. 'Is' tells about something. Practice reading them quickly!",
+            "examples": [
+              {"problem": "Read this sentence: The cat is big.", "answer": "The cat is big.", "explanation": "'The' tells us which cat. 'Is' tells about the cat. Two sight words in one sentence!"},
+              {"problem": "Read this sentence: Mom and Dad.", "answer": "Mom and Dad.", "explanation": "'And' connects Mom and Dad together."},
+              {"problem": "Find the sight word: The dog is happy.", "answer": "the, is", "explanation": "'The' and 'is' are both sight words in this sentence."}
+            ],
+            "key_vocabulary": ["sight word", "read", "recognize"],
+            "real_world": "You will see 'the,' 'and,' and 'is' in every book you read, on signs, and even in text messages!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is the sight word 'the'?", "options": ["teh", "the", "hte", "eth"], "correct": 1, "hint": "Look carefully at how each word is spelled."},
+            {"type": "multiple_choice", "question": "Which sight word connects two things together?", "options": ["is", "the", "and", "it"], "correct": 2, "hint": "This word is used in 'cats AND dogs.'"},
+            {"type": "true_false", "question": "'The' is the most common word in English.", "answer": "true", "hint": "You see 'the' in almost every sentence!"},
+            {"type": "fill_in", "question": "The cat ___ big. (is / and)", "answer": "is", "hint": "We need a word that tells about the cat."},
+            {"type": "fill_in", "question": "Mom ___ Dad love me. (is / and)", "answer": "and", "hint": "We need a word that connects Mom and Dad."},
+            {"type": "multiple_choice", "question": "How many sight words are in this sentence: 'The ball is red and big.'?", "options": ["1", "2", "3", "4"], "correct": 2, "hint": "Look for 'the,' 'and,' and 'is.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-3-2",
+          "title": "Sight Words: a, to, I",
+          "type": "lesson",
+          "content": {
+            "explanation": "Let's learn three more sight words: 'a,' 'to,' and 'I.' The word 'a' means one of something, like 'a dog.' The word 'to' shows direction or purpose, like 'go to school.' The word 'I' means yourself — and it is always a capital letter! Remember: always write 'I' with a big letter, even in the middle of a sentence.",
+            "examples": [
+              {"problem": "Read this sentence: I see a cat.", "answer": "I see a cat.", "explanation": "'I' means me. 'A' means one cat."},
+              {"problem": "Read this: I go to school.", "answer": "I go to school.", "explanation": "'I' is the person speaking. 'To' shows where they are going."},
+              {"problem": "Which is correct: 'i like pizza' or 'I like pizza'?", "answer": "I like pizza", "explanation": "The word 'I' is always capitalized — always a big letter!"}
+            ],
+            "key_vocabulary": ["sight word", "capitalize", "capital letter"],
+            "real_world": "When you write about yourself, you use 'I.' When you talk about one thing, you say 'a dog' or 'a book.'"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which sight word means 'one of something'?", "options": ["I", "to", "a", "is"], "correct": 2, "hint": "We say '___ dog' when we mean one dog."},
+            {"type": "true_false", "question": "The word 'I' should always be a capital letter.", "answer": "true", "hint": "We always write 'I' with a big letter, never a small one."},
+            {"type": "fill_in", "question": "I want ___ go to the park. (to / a)", "answer": "to", "hint": "We need a word that shows where we want to go."},
+            {"type": "multiple_choice", "question": "Which sentence is correct?", "options": ["i like dogs.", "I like dogs.", "i Like dogs.", "I like Dogs."], "correct": 1, "hint": "'I' is always capitalized. Regular words in the middle of a sentence are not."},
+            {"type": "fill_in", "question": "I see ___ bird in the tree. (a / to)", "answer": "a", "hint": "We need a word that means 'one.'"},
+            {"type": "multiple_choice", "question": "Which word means yourself?", "options": ["a", "to", "the", "I"], "correct": 3, "hint": "When you talk about yourself, you say '___.'"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-3-3",
+          "title": "Sight Words: it, in, my",
+          "type": "lesson",
+          "content": {
+            "explanation": "Here are three more sight words to learn: 'it,' 'in,' and 'my.' The word 'it' takes the place of a thing, like 'the ball is red — it is red.' The word 'in' tells where something is, like 'in the box.' The word 'my' shows that something belongs to you, like 'my toy.' You will use these words every single day!",
+            "examples": [
+              {"problem": "Read: It is my hat.", "answer": "It is my hat.", "explanation": "'It' refers to the hat. 'My' shows the hat belongs to you."},
+              {"problem": "Read: The toy is in the box.", "answer": "The toy is in the box.", "explanation": "'In' tells us where the toy is — inside the box."},
+              {"problem": "Read: My cat is in my room.", "answer": "My cat is in my room.", "explanation": "'My' shows the cat and room belong to you. 'In' tells where the cat is."}
+            ],
+            "key_vocabulary": ["sight word", "belongs to", "location"],
+            "real_world": "You use 'my' when talking about your things: my backpack, my lunch, my friend. You use 'in' to tell where things are."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which sight word shows where something is?", "options": ["it", "my", "in", "can"], "correct": 2, "hint": "Think about: the ball is ___ the box."},
+            {"type": "fill_in", "question": "___ is a red ball. (It / In)", "answer": "It", "hint": "We need a word that refers to the ball."},
+            {"type": "true_false", "question": "'My' means something belongs to you.", "answer": "true", "hint": "'My book' means the book belongs to you."},
+            {"type": "fill_in", "question": "The fish is ___ the water. (in / it)", "answer": "in", "hint": "We need a word that tells where the fish is."},
+            {"type": "multiple_choice", "question": "Which word completes the sentence: '___ dog is big.'?", "options": ["In", "It", "My", "Is"], "correct": 2, "hint": "We need a word that shows the dog belongs to you."},
+            {"type": "multiple_choice", "question": "How many sight words are in 'It is in my bag'?", "options": ["2", "3", "4", "5"], "correct": 2, "hint": "Find 'it,' 'is,' 'in,' and 'my.' But 'bag' is not a sight word we learned."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-3-4",
+          "title": "Sight Words: can, see, we",
+          "type": "lesson",
+          "content": {
+            "explanation": "Let's learn three more sight words: 'can,' 'see,' and 'we.' The word 'can' means you are able to do something, like 'I can run.' The word 'see' means to look at something, like 'I see a bird.' The word 'we' means you and other people together, like 'we play.' Now you know a lot of sight words!",
+            "examples": [
+              {"problem": "Read: I can see the moon.", "answer": "I can see the moon.", "explanation": "'Can' means able to. 'See' means look at. You are able to look at the moon!"},
+              {"problem": "Read: We can run fast.", "answer": "We can run fast.", "explanation": "'We' means the group. 'Can' means able to. The group is able to run fast!"},
+              {"problem": "Read: Can we see it?", "answer": "Can we see it?", "explanation": "This is a question. It asks if the group is able to look at something."}
+            ],
+            "key_vocabulary": ["sight word", "able to", "together"],
+            "real_world": "You use 'can' to tell what you are able to do: I can read! I can write! I can count!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which sight word means 'able to do something'?", "options": ["see", "we", "can", "my"], "correct": 2, "hint": "I ___ run fast!"},
+            {"type": "fill_in", "question": "I ___ a big dog. (can / see)", "answer": "see", "hint": "We need the word that means 'to look at.'"},
+            {"type": "true_false", "question": "'We' means just one person.", "answer": "false", "hint": "'We' means you and at least one other person."},
+            {"type": "fill_in", "question": "___ can play together. (We / See)", "answer": "We", "hint": "We need a word that means 'you and me.'"},
+            {"type": "multiple_choice", "question": "Which sentence uses 'can' correctly?", "options": ["I can the ball.", "I can see the ball.", "Can ball I see.", "The can see ball."], "correct": 1, "hint": "'Can' means able to do something. What can you do? See the ball."},
+            {"type": "multiple_choice", "question": "How many sight words do you know now?", "options": ["5", "8", "10", "12"], "correct": 3, "hint": "Count: the, and, is, a, to, I, it, in, my, can, see, we."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "Which is a sight word?", "options": ["elephant", "the", "dinosaur", "rainbow"], "correct": 1, "hint": "Sight words are short, common words."},
+          {"type": "fill_in", "question": "I ___ see a bird in the tree. (can / is)", "answer": "can", "hint": "We need a word that means 'am able to.'"},
+          {"type": "true_false", "question": "The word 'I' should always be written with a capital letter.", "answer": "true", "hint": "'I' is always uppercase."},
+          {"type": "multiple_choice", "question": "Which sight word tells WHERE something is?", "options": ["my", "in", "it", "we"], "correct": 1, "hint": "The ball is ___ the box."},
+          {"type": "multiple_choice", "question": "Which word means 'belongs to me'?", "options": ["in", "it", "my", "a"], "correct": 2, "hint": "___ book, ___ toy, ___ cat."},
+          {"type": "fill_in", "question": "___ is my dog. It is big. (It / In)", "answer": "It", "hint": "We need a word that refers to the dog."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "sight_word_champ"
+      }
+    },
+    {
+      "id": "k-ela-4",
+      "title": "Reading Comprehension",
+      "description": "Learn to understand stories by finding characters, events, and the main idea.",
+      "lessons": [
+        {
+          "id": "k-ela-4-1",
+          "title": "Listening to Stories",
+          "type": "lesson",
+          "content": {
+            "explanation": "When someone reads you a story, it is important to listen carefully. Good listeners sit quietly, look at the pictures, and think about what is happening. After the story, you should be able to tell what happened. Listening is a superpower — it helps you learn new words, understand new ideas, and enjoy fun adventures!",
+            "examples": [
+              {"problem": "What should you do while listening to a story?", "answer": "Pay attention, look at pictures, think about what is happening", "explanation": "Good listeners focus on the words and pictures to understand the story."},
+              {"problem": "Why is listening to stories important?", "answer": "It helps you learn new words and understand new ideas", "explanation": "Stories teach us about the world and help us build our reading skills."},
+              {"problem": "What can you do after hearing a story?", "answer": "Tell what happened in the story", "explanation": "If you listened well, you can retell the story in your own words."}
+            ],
+            "key_vocabulary": ["listen", "story", "pay attention"],
+            "real_world": "You listen to stories at school, at bedtime, and even when friends tell you about their day!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What should a good listener do?", "options": ["Talk during the story", "Pay attention", "Look away", "Fall asleep"], "correct": 1, "hint": "Good listeners focus on the story."},
+            {"type": "true_false", "question": "Looking at the pictures helps you understand a story.", "answer": "true", "hint": "Pictures show what is happening in the story."},
+            {"type": "multiple_choice", "question": "After hearing a story, you should be able to:", "options": ["Forget it", "Tell what happened", "Ignore it", "Talk over it"], "correct": 1, "hint": "Good listeners can retell the story."},
+            {"type": "true_false", "question": "It is okay to talk while someone is reading a story to you.", "answer": "false", "hint": "Good listeners wait their turn to speak."},
+            {"type": "multiple_choice", "question": "Listening to stories helps you:", "options": ["Stay awake", "Learn new words", "Forget things", "Be noisy"], "correct": 1, "hint": "Stories are full of new words and ideas."},
+            {"type": "multiple_choice", "question": "What is the best way to show you are listening?", "options": ["Playing with toys", "Looking at the reader", "Covering your ears", "Running around"], "correct": 1, "hint": "Use your eyes and ears to pay attention."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-4-2",
+          "title": "Story Elements: Characters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Characters are the people or animals in a story. They are who the story is about. A character can be a boy, a girl, a dog, a rabbit, or even a talking tree! When you read or hear a story, ask yourself: Who is in this story? What do they do? How do they feel? Characters are the most important part of many stories.",
+            "examples": [
+              {"problem": "In 'The Three Little Pigs,' who are the characters?", "answer": "Three pigs and a wolf", "explanation": "The three pigs and the big bad wolf are the main characters."},
+              {"problem": "In 'Goldilocks and the Three Bears,' who is the main character?", "answer": "Goldilocks", "explanation": "Goldilocks is the main character because the story is mostly about her."},
+              {"problem": "Can animals be characters?", "answer": "Yes!", "explanation": "In many stories, animals are characters. They can talk and have feelings just like people."}
+            ],
+            "key_vocabulary": ["character", "main character", "story"],
+            "real_world": "You are the main character of your own life story! Your family and friends are characters too."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is a character in a story?", "options": ["A letter", "A person or animal in the story", "A picture", "A page number"], "correct": 1, "hint": "Characters are WHO the story is about."},
+            {"type": "true_false", "question": "A character can be an animal.", "answer": "true", "hint": "Many stories have animal characters, like cats, dogs, and bears."},
+            {"type": "multiple_choice", "question": "A story about a girl named Ruby and her dog Max has how many main characters?", "options": ["0", "1", "2", "3"], "correct": 2, "hint": "Count the people and animals the story is about."},
+            {"type": "true_false", "question": "The main character is the one the story is mostly about.", "answer": "true", "hint": "The main character is the most important person or animal."},
+            {"type": "multiple_choice", "question": "In a story about a brave little mouse, who is the main character?", "options": ["The cheese", "The house", "The mouse", "The trap"], "correct": 2, "hint": "The story is ABOUT the mouse."},
+            {"type": "multiple_choice", "question": "Which question helps you find the characters?", "options": ["Where does it happen?", "Who is in the story?", "When did it happen?", "How long is the story?"], "correct": 1, "hint": "Characters are WHO is in the story."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-4-3",
+          "title": "Story Elements: What Happens",
+          "type": "lesson",
+          "content": {
+            "explanation": "Every story has things that happen. We call these events. Stories have a beginning, a middle, and an end. In the beginning, we meet the characters. In the middle, something happens — maybe a problem! At the end, the problem is solved. When you hear a story, think about: What happened first? What happened next? What happened last?",
+            "examples": [
+              {"problem": "What are the three parts of a story?", "answer": "Beginning, middle, end", "explanation": "Stories start with a beginning, have a middle with events, and finish with an end."},
+              {"problem": "In the beginning of a story, what usually happens?", "answer": "We meet the characters", "explanation": "The beginning introduces who the story is about and where it takes place."},
+              {"problem": "What usually happens in the middle of a story?", "answer": "A problem or exciting event", "explanation": "The middle is where things get interesting — characters face a challenge!"}
+            ],
+            "key_vocabulary": ["beginning", "middle", "end", "events"],
+            "real_world": "Your day has a beginning (morning), middle (afternoon), and end (evening) — just like a story!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What are the three parts of a story?", "options": ["Top, side, bottom", "Beginning, middle, end", "Fast, slow, stop", "Big, bigger, biggest"], "correct": 1, "hint": "Stories have three main parts in order."},
+            {"type": "true_false", "question": "In the beginning of a story, we usually meet the characters.", "answer": "true", "hint": "The beginning introduces who the story is about."},
+            {"type": "multiple_choice", "question": "Where does the problem usually happen in a story?", "options": ["The beginning", "The middle", "The end", "The cover"], "correct": 1, "hint": "The exciting stuff usually happens in the middle."},
+            {"type": "multiple_choice", "question": "What usually happens at the end of a story?", "options": ["We meet new characters", "A new problem starts", "The problem is solved", "Nothing happens"], "correct": 2, "hint": "By the end, things usually work out."},
+            {"type": "true_false", "question": "A story can have just a beginning and no end.", "answer": "false", "hint": "Every story needs all three parts."},
+            {"type": "multiple_choice", "question": "If a duck lost its mom, then looked everywhere, and finally found her — what part is finding her?", "options": ["The beginning", "The middle", "The end", "The title"], "correct": 2, "hint": "Finding mom solves the problem, so it is at the end."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-4-4",
+          "title": "Main Idea",
+          "type": "lesson",
+          "content": {
+            "explanation": "The main idea is what a story is mostly about. It is the big message. If someone asks you 'What was that story about?' your answer is the main idea! For example, if a story tells about a dog who learns to share his toys, the main idea is 'sharing.' The main idea is not about small details — it is about the big picture of the whole story.",
+            "examples": [
+              {"problem": "A story tells about a boy who is scared of the dark but learns to be brave. What is the main idea?", "answer": "Being brave", "explanation": "The whole story is about the boy learning to overcome his fear and be brave."},
+              {"problem": "A story tells about animals helping each other build a house. What is the main idea?", "answer": "Working together", "explanation": "The big message is that animals (or people) can do great things when they help each other."},
+              {"problem": "A story tells about a girl who practices running every day and wins a race. What is the main idea?", "answer": "Practice helps you get better", "explanation": "The big message is that practicing helps you improve and succeed."}
+            ],
+            "key_vocabulary": ["main idea", "mostly about", "big message"],
+            "real_world": "When you tell a friend about a movie, you share the main idea — what the movie was mostly about!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What is the main idea of a story?", "options": ["The first sentence", "What the story is mostly about", "The last word", "The pictures"], "correct": 1, "hint": "The main idea is the BIG message of the whole story."},
+            {"type": "multiple_choice", "question": "A story about a cat who gets lost and finds its way home is mostly about:", "options": ["A cat eating food", "A cat finding its way home", "A cat sleeping", "A cat playing with yarn"], "correct": 1, "hint": "What is the biggest thing that happens in the story?"},
+            {"type": "true_false", "question": "The main idea is about small details in the story.", "answer": "false", "hint": "The main idea is about the BIG picture, not small details."},
+            {"type": "multiple_choice", "question": "A story about friends sharing their snacks is mostly about:", "options": ["Types of snacks", "Sharing", "Lunch time", "School buses"], "correct": 1, "hint": "What is the big lesson or message?"},
+            {"type": "true_false", "question": "You can tell the main idea by thinking about what the whole story is about.", "answer": "true", "hint": "The main idea covers the whole story, not just one part."},
+            {"type": "multiple_choice", "question": "If a story is about a bird learning to fly, which is the MAIN IDEA?", "options": ["Birds have feathers", "The bird ate a worm", "Learning something new is hard but worth it", "The sky is blue"], "correct": 2, "hint": "Think about the big message of learning to fly."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is a character?", "options": ["A letter of the alphabet", "A person or animal in a story", "A type of book", "A number"], "correct": 1, "hint": "Characters are WHO is in the story."},
+          {"type": "multiple_choice", "question": "What are the three parts of a story?", "options": ["Beginning, middle, end", "Title, author, pictures", "Big, medium, small", "Read, write, listen"], "correct": 0, "hint": "Stories happen in order: first, then, last."},
+          {"type": "true_false", "question": "Good listeners pay attention and look at the reader.", "answer": "true", "hint": "Listening means using your eyes and ears."},
+          {"type": "multiple_choice", "question": "The main idea is:", "options": ["A small detail", "What the story is mostly about", "The title of the book", "The last word"], "correct": 1, "hint": "Think about the BIG message."},
+          {"type": "multiple_choice", "question": "Where does the problem usually get solved in a story?", "options": ["The beginning", "The middle", "The end", "The cover"], "correct": 2, "hint": "Things usually work out at the end."},
+          {"type": "true_false", "question": "Animals can be characters in stories.", "answer": "true", "hint": "Many stories have animal characters."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "story_detective"
+      }
+    },
+    {
+      "id": "k-ela-5",
+      "title": "Writing Basics",
+      "description": "Learn the building blocks of writing: holding a pencil, forming letters, and putting your ideas on paper.",
+      "lessons": [
+        {
+          "id": "k-ela-5-1",
+          "title": "Holding a Pencil",
+          "type": "lesson",
+          "content": {
+            "explanation": "Before you can write, you need to hold your pencil the right way. Use your thumb and pointer finger to hold the pencil, and rest it on your middle finger. This is called the 'tripod grip.' Don't squeeze too hard — hold it gently, like you are holding a little bird. Your hand should be relaxed. Practice picking up your pencil and holding it the right way!",
+            "examples": [
+              {"problem": "What fingers hold the pencil?", "answer": "Thumb and pointer finger", "explanation": "Your thumb and pointer (index) finger pinch the pencil, while it rests on your middle finger."},
+              {"problem": "What is the tripod grip?", "answer": "Holding the pencil with thumb, pointer, and middle finger", "explanation": "Three fingers work together like a tripod (three legs) to hold the pencil steady."},
+              {"problem": "Should you squeeze the pencil hard?", "answer": "No, hold it gently", "explanation": "Squeezing too hard makes your hand tired and your writing shaky."}
+            ],
+            "key_vocabulary": ["pencil grip", "tripod grip", "pointer finger"],
+            "real_world": "You hold a pencil when you write, draw, and color. A good grip helps you write neatly!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which grip is best for holding a pencil?", "options": ["Fist grip", "Tripod grip", "Two-hand grip", "Pinky grip"], "correct": 1, "hint": "The best grip uses three fingers."},
+            {"type": "true_false", "question": "You should squeeze the pencil as hard as you can.", "answer": "false", "hint": "Hold gently, like a little bird."},
+            {"type": "multiple_choice", "question": "Which fingers hold the pencil in a tripod grip?", "options": ["Thumb, ring, and pinky", "Thumb, pointer, and middle", "All five fingers", "Just the thumb"], "correct": 1, "hint": "Three fingers: thumb, pointer (index), and middle."},
+            {"type": "true_false", "question": "The pencil rests on your middle finger.", "answer": "true", "hint": "Your middle finger supports the pencil from below."},
+            {"type": "multiple_choice", "question": "Why is a good pencil grip important?", "options": ["To write neatly", "To break pencils", "To draw fast only", "It is not important"], "correct": 0, "hint": "A good grip helps you control the pencil."},
+            {"type": "true_false", "question": "A tripod has three parts, just like the three fingers you use.", "answer": "true", "hint": "Tri means three!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-5-2",
+          "title": "Writing Letters",
+          "type": "lesson",
+          "content": {
+            "explanation": "Now that you know how to hold a pencil, let's practice writing letters. Each letter starts at a special spot. Most uppercase letters start at the top. Many lowercase letters start in the middle. Take your time and try to stay on the lines. It is okay if your letters are not perfect — practice makes them better! Start with easy letters like O, L, I, and T.",
+            "examples": [
+              {"problem": "How do you write an uppercase L?", "answer": "Start at the top, draw a line straight down, then a line to the right at the bottom.", "explanation": "L is made of two straight lines — one going down and one going right."},
+              {"problem": "How do you write an uppercase O?", "answer": "Start at the top and draw a circle.", "explanation": "O is just a round circle shape."},
+              {"problem": "How do you write a lowercase t?", "answer": "Draw a line down, then cross it in the middle.", "explanation": "The letter t is a short line down with a little line across the middle."}
+            ],
+            "key_vocabulary": ["write", "trace", "lines", "practice"],
+            "real_world": "You write letters every day — on worksheets, cards for friends, and even shopping lists!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Where do most uppercase letters start?", "options": ["At the bottom", "At the top", "In the middle", "On the right"], "correct": 1, "hint": "Uppercase letters are tall, so they start up high."},
+            {"type": "true_false", "question": "It is okay if your letters are not perfect at first.", "answer": "true", "hint": "Practice makes your writing better over time!"},
+            {"type": "multiple_choice", "question": "Which letter is made of just straight lines?", "options": ["O", "S", "L", "C"], "correct": 2, "hint": "This letter uses a down line and a right line."},
+            {"type": "true_false", "question": "Writing on the lines helps keep your letters neat.", "answer": "true", "hint": "Lines guide your letters to the right size and place."},
+            {"type": "multiple_choice", "question": "What shape is the letter O?", "options": ["Square", "Triangle", "Circle", "Rectangle"], "correct": 2, "hint": "O is round!"},
+            {"type": "multiple_choice", "question": "What helps you get better at writing letters?", "options": ["Never trying", "Practice", "Only reading", "Sleeping"], "correct": 1, "hint": "The more you practice, the better you get!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-5-3",
+          "title": "Writing Your Name",
+          "type": "lesson",
+          "content": {
+            "explanation": "One of the most important things you can write is your own name! Your name starts with an uppercase letter, and the rest of the letters are lowercase. For example, if your name is Sam, you write a big S, then a small a, then a small m. Practice writing your name every day. Soon you will be able to write it fast and neat!",
+            "examples": [
+              {"problem": "How do you write the name 'Kim'?", "answer": "Big K, small i, small m", "explanation": "The first letter is always uppercase: K. The rest are lowercase: i, m."},
+              {"problem": "How do you write the name 'Ben'?", "answer": "Big B, small e, small n", "explanation": "Start with uppercase B, then lowercase e and n."},
+              {"problem": "Is 'jOE' written correctly?", "answer": "No, it should be 'Joe'", "explanation": "Only the first letter should be uppercase. The rest should be lowercase."}
+            ],
+            "key_vocabulary": ["name", "uppercase", "lowercase", "capital letter"],
+            "real_world": "You write your name on your papers at school, on birthday cards, and on your artwork!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which letter in your name should be uppercase?", "options": ["The last letter", "All the letters", "The first letter", "No letters"], "correct": 2, "hint": "Names start with a big (capital) letter."},
+            {"type": "multiple_choice", "question": "Which name is written correctly?", "options": ["SAM", "sam", "Sam", "sAm"], "correct": 2, "hint": "The first letter is uppercase and the rest are lowercase."},
+            {"type": "true_false", "question": "Your name should start with an uppercase letter.", "answer": "true", "hint": "Names always begin with a capital letter."},
+            {"type": "multiple_choice", "question": "How is the name 'Amy' written?", "options": ["amy", "AMY", "Amy", "aMy"], "correct": 2, "hint": "Capital A, then lowercase m and y."},
+            {"type": "true_false", "question": "All the letters in your name should be uppercase.", "answer": "false", "hint": "Only the first letter is uppercase."},
+            {"type": "multiple_choice", "question": "Why is it important to learn to write your name?", "options": ["So people know your work is yours", "It is not important", "So you can erase it", "To waste time"], "correct": 0, "hint": "Your name on your work shows it belongs to you."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-5-4",
+          "title": "Labeling Pictures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Labeling means writing a word next to a picture to tell what it is. If you draw a picture of a sun, you can write 'sun' next to it. This is one of the first kinds of writing! You can label things in your drawings. Use the sounds you hear in the word. If you draw a cat, listen: /k/ /a/ /t/ — write 'cat.' Your labels help other people understand your pictures!",
+            "examples": [
+              {"problem": "If you draw a picture of a dog, what label would you write?", "answer": "dog", "explanation": "You write the word 'dog' next to your picture so people know what it is."},
+              {"problem": "If you draw a red ball, how could you label it?", "answer": "ball", "explanation": "Write the word 'ball' next to the picture. You could also write 'red ball.'"},
+              {"problem": "What sounds do you hear in 'fish'?", "answer": "/f/ /i/ /sh/", "explanation": "Listen to the sounds to help you write the label: f-i-s-h."}
+            ],
+            "key_vocabulary": ["label", "picture", "word", "draw"],
+            "real_world": "Scientists label their drawings. You can label pictures of animals, your family, or your favorite things!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does labeling mean?", "options": ["Drawing a picture", "Writing a word to tell what a picture shows", "Coloring", "Erasing"], "correct": 1, "hint": "A label is a word that tells what something is."},
+            {"type": "fill_in", "question": "If you draw a cat, you can write the label: ___", "answer": "cat", "hint": "What word tells what the picture shows?"},
+            {"type": "true_false", "question": "Labels help other people understand your pictures.", "answer": "true", "hint": "When you write a word, people know what your drawing is."},
+            {"type": "multiple_choice", "question": "Which is a good label for a picture of the sun?", "options": ["The", "Is", "Sun", "And"], "correct": 2, "hint": "The label should tell what the picture shows."},
+            {"type": "fill_in", "question": "If you draw a hat, you can write the label: ___", "answer": "hat", "hint": "Sound it out: /h/ /a/ /t/."},
+            {"type": "true_false", "question": "You can use letter sounds to help you write labels.", "answer": "true", "hint": "Listen to the sounds in the word and write the letters."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What is the best way to hold a pencil?", "options": ["In your fist", "Tripod grip", "Between your toes", "With two hands"], "correct": 1, "hint": "Use your thumb, pointer finger, and middle finger."},
+          {"type": "true_false", "question": "Your name should start with an uppercase letter.", "answer": "true", "hint": "Names begin with a capital letter."},
+          {"type": "multiple_choice", "question": "Which name is written correctly?", "options": ["JAKE", "jake", "Jake", "jAKE"], "correct": 2, "hint": "First letter uppercase, rest lowercase."},
+          {"type": "multiple_choice", "question": "What is a label?", "options": ["A drawing", "A word that tells what a picture shows", "A color", "A page number"], "correct": 1, "hint": "Labels are words next to pictures."},
+          {"type": "true_false", "question": "Most uppercase letters start at the top when you write them.", "answer": "true", "hint": "Uppercase letters are tall and start high."},
+          {"type": "multiple_choice", "question": "What helps you write labels?", "options": ["Counting", "Letter sounds", "Drawing bigger", "Erasing"], "correct": 1, "hint": "Listen to the sounds in the word."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "young_writer"
+      }
+    },
+    {
+      "id": "k-ela-6",
+      "title": "Speaking and Listening",
+      "description": "Learn the skills of communicating: taking turns, asking questions, and following directions.",
+      "lessons": [
+        {
+          "id": "k-ela-6-1",
+          "title": "Taking Turns Speaking",
+          "type": "lesson",
+          "content": {
+            "explanation": "When we talk with others, we take turns. One person speaks while others listen. Then the next person speaks. This is called taking turns. It is polite and helps everyone be heard. When it is not your turn, listen carefully. When it is your turn, speak clearly so others can understand you. Raise your hand at school if you want a turn to speak.",
+            "examples": [
+              {"problem": "What should you do when someone else is talking?", "answer": "Listen quietly", "explanation": "When someone else is talking, it is their turn. Be a good listener!"},
+              {"problem": "How can you show you want to speak in class?", "answer": "Raise your hand", "explanation": "Raising your hand is a polite way to show you have something to say."},
+              {"problem": "Why do we take turns speaking?", "answer": "So everyone can be heard", "explanation": "If everyone talks at once, no one can understand anything!"}
+            ],
+            "key_vocabulary": ["taking turns", "speaking", "listening", "polite"],
+            "real_world": "You take turns talking with friends, in class, at the dinner table, and even in games!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'taking turns' mean?", "options": ["Everyone talks at once", "One person talks, then another", "No one talks", "Only adults talk"], "correct": 1, "hint": "Taking turns means going one at a time."},
+            {"type": "true_false", "question": "It is okay to interrupt someone while they are talking.", "answer": "false", "hint": "Wait for your turn to speak."},
+            {"type": "multiple_choice", "question": "How should you ask for a turn to talk in class?", "options": ["Shout out loud", "Raise your hand", "Stand on your chair", "Whisper to a friend"], "correct": 1, "hint": "This is the polite way to get a turn."},
+            {"type": "true_false", "question": "Good listeners wait for their turn to talk.", "answer": "true", "hint": "Patience is part of good listening."},
+            {"type": "multiple_choice", "question": "Why is taking turns important?", "options": ["So we can be loud", "So everyone can be heard", "So we can skip people", "So only one person talks"], "correct": 1, "hint": "Everyone deserves a chance to share their ideas."},
+            {"type": "multiple_choice", "question": "When someone is speaking, you should:", "options": ["Talk louder than them", "Listen to what they say", "Cover your ears", "Walk away"], "correct": 1, "hint": "Good communication means listening when others speak."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-6-2",
+          "title": "Asking Questions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Asking questions is a great way to learn! When you do not understand something, ask a question. Questions often start with words like 'What,' 'Why,' 'How,' 'When,' 'Where,' and 'Who.' For example: 'What does that word mean?' or 'Why is the sky blue?' There are no silly questions — asking questions means you are thinking and want to learn more!",
+            "examples": [
+              {"problem": "What question word asks about a person?", "answer": "Who", "explanation": "'Who' asks about a person, like 'Who is your teacher?'"},
+              {"problem": "What question word asks about a place?", "answer": "Where", "explanation": "'Where' asks about a place, like 'Where is the library?'"},
+              {"problem": "What question word asks for a reason?", "answer": "Why", "explanation": "'Why' asks for a reason, like 'Why do birds fly?'"}
+            ],
+            "key_vocabulary": ["question", "ask", "who", "what", "where", "when", "why", "how"],
+            "real_world": "Scientists ask questions to learn about the world. You can be a scientist by asking questions too!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which word starts a question about a person?", "options": ["What", "Where", "Who", "When"], "correct": 2, "hint": "This question word asks about a person."},
+            {"type": "multiple_choice", "question": "Which word starts a question about a place?", "options": ["Why", "Where", "What", "Who"], "correct": 1, "hint": "This question word asks about a place or location."},
+            {"type": "true_false", "question": "There are silly questions that you should never ask.", "answer": "false", "hint": "All questions are good! Asking shows you want to learn."},
+            {"type": "multiple_choice", "question": "If you do not understand something, what should you do?", "options": ["Stay quiet forever", "Ask a question", "Pretend you understand", "Leave the room"], "correct": 1, "hint": "Questions help you learn and understand."},
+            {"type": "multiple_choice", "question": "'___ is your favorite color?' Which word goes in the blank?", "options": ["Where", "When", "What", "Who"], "correct": 2, "hint": "We are asking about a THING (your favorite color)."},
+            {"type": "true_false", "question": "Asking questions is a good way to learn.", "answer": "true", "hint": "Curious people ask lots of questions!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-6-3",
+          "title": "Following Directions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Following directions means doing what someone asks you to do, step by step. First, listen carefully to all the steps. Then, do each step in order. If you forget a step, it is okay to ask again. Directions might be simple, like 'Put your book away.' Or they might have more steps: 'First, get your crayons. Then, color the picture. Last, write your name.' Listen for order words like 'first,' 'next,' 'then,' and 'last.'",
+            "examples": [
+              {"problem": "What are order words?", "answer": "First, next, then, last", "explanation": "Order words tell you the steps to follow in the right order."},
+              {"problem": "What should you do if you forget a direction?", "answer": "Ask the person to repeat it", "explanation": "It is always okay to ask someone to say the directions again."},
+              {"problem": "Follow these directions: First touch your nose, then touch your ears.", "answer": "Touch nose, then ears", "explanation": "You do the steps in order: nose first, ears second."}
+            ],
+            "key_vocabulary": ["directions", "first", "next", "then", "last", "order"],
+            "real_world": "You follow directions every day: getting dressed, making a snack, playing a game, and doing schoolwork."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does 'following directions' mean?", "options": ["Doing your own thing", "Doing what is asked, step by step", "Skipping steps", "Going backwards"], "correct": 1, "hint": "Following directions means doing each step in order."},
+            {"type": "multiple_choice", "question": "Which order word tells you the first step?", "options": ["Last", "Then", "Next", "First"], "correct": 3, "hint": "This word tells you what to do at the very beginning."},
+            {"type": "true_false", "question": "It is okay to ask someone to repeat the directions.", "answer": "true", "hint": "Asking for help is always okay."},
+            {"type": "multiple_choice", "question": "In the directions 'First get your coat, then zip it up,' what do you do first?", "options": ["Zip it up", "Get your coat", "Take off your shoes", "Sit down"], "correct": 1, "hint": "The word 'first' tells you the first step."},
+            {"type": "true_false", "question": "You should listen to ALL the directions before you start.", "answer": "true", "hint": "Listening to all the steps helps you know what to do."},
+            {"type": "multiple_choice", "question": "What word tells you the very last step?", "options": ["First", "Next", "Then", "Last"], "correct": 3, "hint": "This word means the final step."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "k-ela-6-4",
+          "title": "Speaking Clearly",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you speak, it is important to speak clearly so others can understand you. Use a voice that is not too quiet and not too loud — just right. Look at the person you are talking to. Say your words carefully and do not rush. If you are sharing something, try to tell the important parts: who, what, and where. Speaking clearly helps you share your ideas with the world!",
+            "examples": [
+              {"problem": "What does it mean to speak clearly?", "answer": "Saying your words so others can understand you", "explanation": "Speaking clearly means pronouncing your words carefully at a good volume."},
+              {"problem": "Should you look at the person you are talking to?", "answer": "Yes", "explanation": "Looking at the listener shows respect and helps them pay attention to you."},
+              {"problem": "If you talk too fast, what might happen?", "answer": "People might not understand you", "explanation": "Speaking too fast makes it hard for others to follow your words."}
+            ],
+            "key_vocabulary": ["speak clearly", "volume", "voice", "share"],
+            "real_world": "You speak clearly when you tell your family about your day, share in class, or talk to friends."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What does it mean to speak clearly?", "options": ["Mumbling", "Whispering", "Saying words so others understand", "Shouting"], "correct": 2, "hint": "Clear speaking means others can understand your words."},
+            {"type": "true_false", "question": "You should look at the person you are talking to.", "answer": "true", "hint": "Eye contact helps the listener know you are talking to them."},
+            {"type": "multiple_choice", "question": "How loud should your voice be when talking to a friend?", "options": ["As loud as possible", "So quiet no one hears", "Just right — not too loud, not too quiet", "Silent"], "correct": 2, "hint": "Use a 'just right' voice."},
+            {"type": "true_false", "question": "Talking very fast helps people understand you better.", "answer": "false", "hint": "Slow down so people can follow your words."},
+            {"type": "multiple_choice", "question": "When sharing about your weekend, you should tell:", "options": ["Nothing", "Who, what, and where", "Only your feelings", "Just one word"], "correct": 1, "hint": "Important details help your listener understand your story."},
+            {"type": "multiple_choice", "question": "What should you do if someone cannot hear you?", "options": ["Give up", "Speak a little louder", "Walk away", "Stop talking"], "correct": 1, "hint": "Speak a bit louder so they can hear you clearly."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "multiple_choice", "question": "What should you do when someone else is speaking?", "options": ["Talk over them", "Listen carefully", "Cover your ears", "Walk away"], "correct": 1, "hint": "Be a good listener."},
+          {"type": "true_false", "question": "Asking questions is a good way to learn.", "answer": "true", "hint": "Curious learners ask questions."},
+          {"type": "multiple_choice", "question": "Which word starts a question about a person?", "options": ["What", "Where", "Who", "How"], "correct": 2, "hint": "This word asks about a person."},
+          {"type": "multiple_choice", "question": "What does 'following directions' mean?", "options": ["Doing whatever you want", "Doing each step in order", "Skipping the hard parts", "Going backwards"], "correct": 1, "hint": "Follow the steps one at a time."},
+          {"type": "true_false", "question": "Speaking clearly means talking as fast as you can.", "answer": "false", "hint": "Slow and clear is better than fast and mumbled."},
+          {"type": "multiple_choice", "question": "What is the polite way to ask for a turn to talk in class?", "options": ["Shout out", "Raise your hand", "Stand up", "Clap your hands"], "correct": 1, "hint": "This is the classroom rule for getting a turn."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "great_communicator"
+      }
+    }
+  ]
+}

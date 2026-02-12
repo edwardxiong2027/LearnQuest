@@ -1,0 +1,891 @@
+{
+  "grade": 4,
+  "subject": "math",
+  "units": [
+    {
+      "id": "4-math-1",
+      "title": "Multi-Digit Multiplication",
+      "description": "Multiply multi-digit numbers using place value strategies, area models, and the standard algorithm.",
+      "lessons": [
+        {
+          "id": "4-math-1-1",
+          "title": "Multiplying by 10, 100, and 1000",
+          "type": "lesson",
+          "content": {
+            "explanation": "When you multiply a whole number by 10, just add one zero to the end. When you multiply by 100, add two zeros. When you multiply by 1000, add three zeros. This works because of place value: 4 x 10 means 4 tens, which is 40. And 4 x 100 means 4 hundreds, which is 400. This pattern makes multiplying by powers of 10 super fast!",
+            "examples": [
+              {"problem": "6 x 10", "answer": "60", "explanation": "6 x 10 = 60. Just add one zero to the 6!"},
+              {"problem": "35 x 100", "answer": "3500", "explanation": "35 x 100 = 3,500. Add two zeros to 35!"},
+              {"problem": "7 x 1000", "answer": "7000", "explanation": "7 x 1000 = 7,000. Add three zeros to 7!"}
+            ],
+            "key_vocabulary": ["multiply", "place value", "tens", "hundreds", "thousands", "zeros"],
+            "real_world": "A school orders 100 boxes of pencils. Each box has 24 pencils. That is 24 x 100 = 2,400 pencils!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "8 x 10 = ___", "answer": "80", "hint": "Add one zero to 8."},
+            {"type": "fill_in", "question": "23 x 10 = ___", "answer": "230", "hint": "Add one zero to 23."},
+            {"type": "fill_in", "question": "5 x 100 = ___", "answer": "500", "hint": "Add two zeros to 5."},
+            {"type": "fill_in", "question": "47 x 100 = ___", "answer": "4700", "hint": "Add two zeros to 47."},
+            {"type": "multiple_choice", "question": "What is 9 x 1000?", "options": ["900", "9000", "90000", "90"], "correct": 1, "hint": "Multiply by 1000 means add three zeros."},
+            {"type": "fill_in", "question": "60 x 10 = ___", "answer": "600", "hint": "60 already has one zero. Add another to get 600."},
+            {"type": "word_problem", "question": "A factory makes 100 toys per hour. How many toys in 12 hours?", "answer": "1200", "operation": "12 * 100", "hint": "12 x 100 = ?"},
+            {"type": "fill_in", "question": "3 x 1000 = ___", "answer": "3000", "hint": "Add three zeros to 3."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-1-2",
+          "title": "Multiplying 2-Digit by 1-Digit Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply a 2-digit number by a 1-digit number, break the 2-digit number into tens and ones. For example, 34 x 5: break 34 into 30 and 4. Then multiply each part: 30 x 5 = 150, and 4 x 5 = 20. Finally, add: 150 + 20 = 170. This is called the distributive property, and it makes big multiplication problems much easier!",
+            "examples": [
+              {"problem": "23 x 4", "answer": "92", "explanation": "Break it up: 20 x 4 = 80, and 3 x 4 = 12. Then 80 + 12 = 92!"},
+              {"problem": "56 x 3", "answer": "168", "explanation": "Break it up: 50 x 3 = 150, and 6 x 3 = 18. Then 150 + 18 = 168!"},
+              {"problem": "47 x 6", "answer": "282", "explanation": "Break it up: 40 x 6 = 240, and 7 x 6 = 42. Then 240 + 42 = 282!"}
+            ],
+            "key_vocabulary": ["distributive property", "partial products", "place value", "tens", "ones", "regroup"],
+            "real_world": "If each row of a theater has 38 seats and there are 4 rows, that is 38 x 4 = 152 seats total!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "15 x 3 = ___", "answer": "45", "hint": "10x3=30, 5x3=15, 30+15=45."},
+            {"type": "fill_in", "question": "24 x 5 = ___", "answer": "120", "hint": "20x5=100, 4x5=20, 100+20=120."},
+            {"type": "fill_in", "question": "63 x 7 = ___", "answer": "441", "hint": "60x7=420, 3x7=21, 420+21=441."},
+            {"type": "multiple_choice", "question": "What is 48 x 2?", "options": ["86", "96", "84", "98"], "correct": 1, "hint": "40x2=80, 8x2=16, 80+16=96."},
+            {"type": "word_problem", "question": "There are 36 students in each class. There are 5 classes. How many students total?", "answer": "180", "operation": "36 * 5", "hint": "30x5=150, 6x5=30, 150+30=180."},
+            {"type": "fill_in", "question": "72 x 8 = ___", "answer": "576", "hint": "70x8=560, 2x8=16, 560+16=576."},
+            {"type": "fill_in", "question": "19 x 9 = ___", "answer": "171", "hint": "Think 20x9=180, minus 1x9=9, so 180-9=171."},
+            {"type": "word_problem", "question": "A baker makes 85 cookies each day. How many cookies in 6 days?", "answer": "510", "operation": "85 * 6", "hint": "80x6=480, 5x6=30, 480+30=510."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-1-3",
+          "title": "Multiplying 2-Digit by 2-Digit Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To multiply two 2-digit numbers, use partial products. For 23 x 14: first multiply 23 x 4 = 92 (the ones). Then multiply 23 x 10 = 230 (the tens). Finally add: 92 + 230 = 322. You can also use an area model: draw a rectangle split into parts for tens and ones of each number, find each area, and add them all up.",
+            "examples": [
+              {"problem": "12 x 13", "answer": "156", "explanation": "12 x 3 = 36, and 12 x 10 = 120. Then 36 + 120 = 156!"},
+              {"problem": "25 x 16", "answer": "400", "explanation": "25 x 6 = 150, and 25 x 10 = 250. Then 150 + 250 = 400!"},
+              {"problem": "34 x 21", "answer": "714", "explanation": "34 x 1 = 34, and 34 x 20 = 680. Then 34 + 680 = 714!"}
+            ],
+            "key_vocabulary": ["partial products", "area model", "regroup", "standard algorithm", "estimate"],
+            "real_world": "A movie theater has 26 rows with 18 seats each. That is 26 x 18 = 468 seats!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "11 x 12 = ___", "answer": "132", "hint": "11x2=22, 11x10=110, 22+110=132."},
+            {"type": "fill_in", "question": "15 x 14 = ___", "answer": "210", "hint": "15x4=60, 15x10=150, 60+150=210."},
+            {"type": "fill_in", "question": "22 x 33 = ___", "answer": "726", "hint": "22x3=66, 22x30=660, 66+660=726."},
+            {"type": "multiple_choice", "question": "What is 31 x 12?", "options": ["362", "372", "342", "382"], "correct": 1, "hint": "31x2=62, 31x10=310, 62+310=372."},
+            {"type": "fill_in", "question": "45 x 20 = ___", "answer": "900", "hint": "45x2=90, then add a zero: 900."},
+            {"type": "word_problem", "question": "A school has 24 classrooms. Each classroom has 28 desks. How many desks total?", "answer": "672", "operation": "24 * 28", "hint": "24x8=192, 24x20=480, 192+480=672."},
+            {"type": "fill_in", "question": "50 x 30 = ___", "answer": "1500", "hint": "5x3=15, then add two zeros: 1500."},
+            {"type": "fill_in", "question": "18 x 15 = ___", "answer": "270", "hint": "18x5=90, 18x10=180, 90+180=270."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-1-4",
+          "title": "Estimating Products",
+          "type": "lesson",
+          "content": {
+            "explanation": "Estimating means finding an answer that is close but not exact. To estimate a product, round each number to the nearest ten first, then multiply. For example, to estimate 38 x 52: round 38 to 40 and 52 to 50, then 40 x 50 = 2,000. The exact answer is 1,976, so 2,000 is a good estimate! Estimating helps you check if your exact answer is reasonable.",
+            "examples": [
+              {"problem": "Estimate 29 x 41", "answer": "1200", "explanation": "Round 29 to 30 and 41 to 40. Then 30 x 40 = 1,200. (Exact: 1,189)"},
+              {"problem": "Estimate 67 x 23", "answer": "1400", "explanation": "Round 67 to 70 and 23 to 20. Then 70 x 20 = 1,400. (Exact: 1,541)"},
+              {"problem": "Estimate 48 x 31", "answer": "1500", "explanation": "Round 48 to 50 and 31 to 30. Then 50 x 30 = 1,500. (Exact: 1,488)"}
+            ],
+            "key_vocabulary": ["estimate", "round", "nearest ten", "reasonable", "approximately", "product"],
+            "real_world": "If you want to quickly figure out the cost of 19 books at $12 each, round: 20 x 12 = $240. The real cost is $228, so your estimate is close!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Estimate 42 x 19 by rounding to the nearest ten.", "options": ["600", "800", "400", "1000"], "correct": 1, "hint": "Round to 40 x 20 = 800."},
+            {"type": "fill_in", "question": "Estimate 53 x 28 by rounding. Write just the estimated product.", "answer": "1500", "hint": "Round to 50 x 30 = 1500."},
+            {"type": "multiple_choice", "question": "Which is the best estimate for 78 x 21?", "options": ["800", "1200", "1600", "2000"], "correct": 2, "hint": "Round to 80 x 20 = 1600."},
+            {"type": "true_false", "question": "A good estimate for 49 x 31 is about 1,500.", "answer": "true", "hint": "Round to 50 x 30 = 1,500."},
+            {"type": "fill_in", "question": "Estimate 88 x 12 by rounding. Estimated product = ___", "answer": "900", "hint": "Round to 90 x 10 = 900."},
+            {"type": "word_problem", "question": "Tickets cost $29 each. You need 11 tickets. About how much money do you need?", "answer": "300", "operation": "30 * 10", "hint": "Round $29 to $30 and 11 to 10: 30 x 10 = $300."},
+            {"type": "multiple_choice", "question": "Jake estimated 32 x 48 as 1,500. Is his estimate reasonable?", "options": ["Yes, it is close", "No, it is way too high", "No, it is way too low", "Cannot tell"], "correct": 0, "hint": "30 x 50 = 1,500. Exact is 1,536. Very close!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-1-5",
+          "title": "Multi-Digit Multiplication Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "When solving word problems with multi-digit multiplication, follow these steps: 1) Read the problem carefully. 2) Find the numbers you need to multiply. Look for clue words like each, every, per, and total. 3) Estimate first to check your answer later. 4) Multiply using partial products or the standard algorithm. 5) Check: does your answer make sense?",
+            "examples": [
+              {"problem": "A farmer plants 15 rows of corn with 24 stalks in each row. How many stalks?", "answer": "360", "explanation": "15 x 24: 15x4=60, 15x20=300. Total: 60+300 = 360 stalks!"},
+              {"problem": "A bookstore sells 32 books per day. How many books in 14 days?", "answer": "448", "explanation": "32 x 14: 32x4=128, 32x10=320. Total: 128+320 = 448 books!"},
+              {"problem": "Each student needs 18 sheets of paper. There are 25 students. How many sheets?", "answer": "450", "explanation": "18 x 25: 18x5=90, 18x20=360. Total: 90+360 = 450 sheets!"}
+            ],
+            "key_vocabulary": ["word problem", "each", "every", "per", "total", "estimate", "check"],
+            "real_world": "Planning a field trip? If 42 students each need a $15 ticket, the total cost is 42 x 15 = $630."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "A library has 48 shelves. Each shelf holds 35 books. How many books total?", "answer": "1680", "operation": "48 * 35", "hint": "48x5=240, 48x30=1440, 240+1440=1680."},
+            {"type": "word_problem", "question": "A school orders 16 boxes of markers. Each box has 24 markers. How many markers?", "answer": "384", "operation": "16 * 24", "hint": "16x4=64, 16x20=320, 64+320=384."},
+            {"type": "word_problem", "question": "There are 52 weeks in a year. If Maria reads 13 pages a week, how many pages in a year?", "answer": "676", "operation": "52 * 13", "hint": "52x3=156, 52x10=520, 156+520=676."},
+            {"type": "word_problem", "question": "A parking garage has 12 levels. Each level holds 45 cars. How many cars can park?", "answer": "540", "operation": "12 * 45", "hint": "12x5=60, 12x40=480, 60+480=540."},
+            {"type": "word_problem", "question": "An orchard has 27 rows of apple trees. Each row has 19 trees. How many trees?", "answer": "513", "operation": "27 * 19", "hint": "27x9=243, 27x10=270, 243+270=513."},
+            {"type": "multiple_choice", "question": "A train has 14 cars. Each car seats 56 passengers. How many passengers can ride?", "options": ["684", "784", "884", "774"], "correct": 1, "hint": "14x6=84, 14x50=700, 84+700=784."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "37 x 10 = ___", "answer": "370", "hint": "Multiply by 10: add a zero."},
+          {"type": "fill_in", "question": "46 x 5 = ___", "answer": "230", "hint": "40x5=200, 6x5=30, 200+30=230."},
+          {"type": "fill_in", "question": "23 x 14 = ___", "answer": "322", "hint": "23x4=92, 23x10=230, 92+230=322."},
+          {"type": "multiple_choice", "question": "Which is the best estimate for 38 x 22?", "options": ["600", "800", "1000", "1200"], "correct": 1, "hint": "40 x 20 = 800."},
+          {"type": "word_problem", "question": "A farmer has 25 cows. Each cow produces 14 liters of milk a day. How many liters total?", "answer": "350", "operation": "25 * 14", "hint": "25x4=100, 25x10=250, 100+250=350."},
+          {"type": "fill_in", "question": "50 x 100 = ___", "answer": "5000", "hint": "50 with two more zeros = 5000."},
+          {"type": "fill_in", "question": "67 x 8 = ___", "answer": "536", "hint": "60x8=480, 7x8=56, 480+56=536."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "multiplication_pro"
+      }
+    },
+    {
+      "id": "4-math-2",
+      "title": "Long Division",
+      "description": "Learn to divide multi-digit numbers using long division, interpret remainders, and solve division word problems.",
+      "lessons": [
+        {
+          "id": "4-math-2-1",
+          "title": "Dividing Multiples of 10",
+          "type": "lesson",
+          "content": {
+            "explanation": "Just like multiplying by 10 adds a zero, dividing removes one. 240 / 10 = 24. For bigger divisions, use basic facts. If you know 6 x 8 = 48, then 480 / 8 = 60 and 480 / 6 = 80. Think of the zeros as helpers: 360 / 9 uses the fact 36 / 9 = 4, so 360 / 9 = 40.",
+            "examples": [
+              {"problem": "560 / 7", "answer": "80", "explanation": "Use the basic fact: 56 / 7 = 8. Then 560 / 7 = 80!"},
+              {"problem": "240 / 6", "answer": "40", "explanation": "Basic fact: 24 / 6 = 4. So 240 / 6 = 40!"},
+              {"problem": "4500 / 9", "answer": "500", "explanation": "Basic fact: 45 / 9 = 5. So 4500 / 9 = 500!"}
+            ],
+            "key_vocabulary": ["divide", "quotient", "dividend", "divisor", "multiples of 10", "basic fact"],
+            "real_world": "If 360 stickers are split equally into 9 packs, each pack has 360 / 9 = 40 stickers!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "180 / 9 = ___", "answer": "20", "hint": "18 / 9 = 2, so 180 / 9 = 20."},
+            {"type": "fill_in", "question": "420 / 7 = ___", "answer": "60", "hint": "42 / 7 = 6, so 420 / 7 = 60."},
+            {"type": "fill_in", "question": "3200 / 8 = ___", "answer": "400", "hint": "32 / 8 = 4, so 3200 / 8 = 400."},
+            {"type": "multiple_choice", "question": "What is 350 / 5?", "options": ["60", "70", "80", "50"], "correct": 1, "hint": "35 / 5 = 7, so 350 / 5 = 70."},
+            {"type": "fill_in", "question": "810 / 9 = ___", "answer": "90", "hint": "81 / 9 = 9, so 810 / 9 = 90."},
+            {"type": "word_problem", "question": "A school donates 630 pencils to 7 classrooms equally. How many pencils does each classroom get?", "answer": "90", "operation": "630 / 7", "hint": "63 / 7 = 9, so 630 / 7 = 90."},
+            {"type": "fill_in", "question": "2400 / 6 = ___", "answer": "400", "hint": "24 / 6 = 4, so 2400 / 6 = 400."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-2-2",
+          "title": "Long Division with 1-Digit Divisors",
+          "type": "lesson",
+          "content": {
+            "explanation": "Long division uses four steps that repeat: Divide, Multiply, Subtract, Bring down (DMSB). For 96 / 4: Divide: how many 4s in 9? Two (4x2=8). Write 2 above the 9. Multiply: 2x4=8. Subtract: 9-8=1. Bring down the 6 to get 16. Repeat: how many 4s in 16? Four (4x4=16). Write 4. Multiply: 4x4=16. Subtract: 16-16=0. Answer: 24!",
+            "examples": [
+              {"problem": "84 / 3", "answer": "28", "explanation": "3 into 8 = 2 R2. Bring down 4 to get 24. 3 into 24 = 8. Answer: 28!"},
+              {"problem": "156 / 6", "answer": "26", "explanation": "6 into 15 = 2 R3. Bring down 6 to get 36. 6 into 36 = 6. Answer: 26!"},
+              {"problem": "245 / 5", "answer": "49", "explanation": "5 into 24 = 4 R4. Bring down 5 to get 45. 5 into 45 = 9. Answer: 49!"}
+            ],
+            "key_vocabulary": ["long division", "divide", "multiply", "subtract", "bring down", "quotient", "remainder"],
+            "real_world": "If 168 oranges are packed into bags of 8, you get 168 / 8 = 21 bags!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "72 / 3 = ___", "answer": "24", "hint": "3 into 7 = 2 R1. Bring down 2 to get 12. 3 into 12 = 4. Answer: 24."},
+            {"type": "fill_in", "question": "136 / 4 = ___", "answer": "34", "hint": "4 into 13 = 3 R1. Bring down 6 to get 16. 4 into 16 = 4. Answer: 34."},
+            {"type": "fill_in", "question": "275 / 5 = ___", "answer": "55", "hint": "5 into 27 = 5 R2. Bring down 5 to get 25. 5 into 25 = 5. Answer: 55."},
+            {"type": "multiple_choice", "question": "What is 192 / 8?", "options": ["22", "24", "26", "28"], "correct": 1, "hint": "8 into 19 = 2 R3. Bring down 2 to get 32. 8 into 32 = 4. Answer: 24."},
+            {"type": "fill_in", "question": "378 / 9 = ___", "answer": "42", "hint": "9 into 37 = 4 R1. Bring down 8 to get 18. 9 into 18 = 2. Answer: 42."},
+            {"type": "word_problem", "question": "A teacher has 126 stickers to share equally among 6 students. How many stickers does each student get?", "answer": "21", "operation": "126 / 6", "hint": "6 into 12 = 2. Bring down 6. 6 into 6 = 1. Answer: 21."},
+            {"type": "fill_in", "question": "364 / 7 = ___", "answer": "52", "hint": "7 into 36 = 5 R1. Bring down 4 to get 14. 7 into 14 = 2. Answer: 52."},
+            {"type": "fill_in", "question": "448 / 8 = ___", "answer": "56", "hint": "8 into 44 = 5 R4. Bring down 8 to get 48. 8 into 48 = 6. Answer: 56."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-2-3",
+          "title": "Division with Remainders",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sometimes a number does not divide evenly. The leftover part is called the remainder. For 25 / 4: four goes into 25 six times (4x6=24) with 1 left over. We write 25 / 4 = 6 R1. You can check by multiplying the quotient by the divisor and adding the remainder: 6 x 4 + 1 = 25. The remainder must always be less than the divisor!",
+            "examples": [
+              {"problem": "17 / 5", "answer": "3 R2", "explanation": "5 x 3 = 15. 17 - 15 = 2. So 17 / 5 = 3 R2. Check: 3 x 5 + 2 = 17!"},
+              {"problem": "50 / 8", "answer": "6 R2", "explanation": "8 x 6 = 48. 50 - 48 = 2. So 50 / 8 = 6 R2. Check: 6 x 8 + 2 = 50!"},
+              {"problem": "29 / 3", "answer": "9 R2", "explanation": "3 x 9 = 27. 29 - 27 = 2. So 29 / 3 = 9 R2. Check: 9 x 3 + 2 = 29!"}
+            ],
+            "key_vocabulary": ["remainder", "R", "leftover", "divisor", "quotient", "check"],
+            "real_world": "If 23 kids form teams of 4, you get 5 teams with 3 kids left over (23 / 4 = 5 R3)."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "19 / 4 = 4 R___", "answer": "3", "hint": "4 x 4 = 16. 19 - 16 = 3."},
+            {"type": "fill_in", "question": "38 / 5 = ___ R3", "answer": "7", "hint": "5 x 7 = 35. 38 - 35 = 3."},
+            {"type": "multiple_choice", "question": "What is 43 / 6?", "options": ["6 R7", "7 R1", "7 R2", "8 R1"], "correct": 1, "hint": "6 x 7 = 42. 43 - 42 = 1. Answer: 7 R1."},
+            {"type": "fill_in", "question": "67 / 8 = 8 R___", "answer": "3", "hint": "8 x 8 = 64. 67 - 64 = 3."},
+            {"type": "word_problem", "question": "You have 34 candies to put into bags of 5. How many full bags and how many left over?", "answer": "6 R4", "operation": "34 / 5", "hint": "5 x 6 = 30. 34 - 30 = 4. So 6 bags with 4 left over."},
+            {"type": "fill_in", "question": "53 / 7 = 7 R___", "answer": "4", "hint": "7 x 7 = 49. 53 - 49 = 4."},
+            {"type": "true_false", "question": "22 / 3 = 7 R1", "answer": "true", "hint": "3 x 7 = 21. 22 - 21 = 1. Yes, 7 R1."},
+            {"type": "word_problem", "question": "A florist has 47 roses and puts 6 in each vase. How many full vases and how many roses left?", "answer": "7 R5", "operation": "47 / 6", "hint": "6 x 7 = 42. 47 - 42 = 5. So 7 vases with 5 roses left."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-2-4",
+          "title": "Interpreting Remainders in Word Problems",
+          "type": "lesson",
+          "content": {
+            "explanation": "In real-life division problems, what you do with the remainder depends on the situation. Sometimes you round up: if 25 kids need rides and each car holds 4, you need 7 cars (not 6 R1). Sometimes you drop the remainder: if you have $23 and each toy costs $4, you can buy 5 toys. Sometimes the remainder IS the answer: 23 cookies shared among 4 friends, how many are left? The remainder: 3!",
+            "examples": [
+              {"problem": "30 students go on a trip. Each van holds 7. How many vans are needed?", "answer": "5", "explanation": "30 / 7 = 4 R2. Two students still need a ride, so you need 5 vans! Round up."},
+              {"problem": "You have $50 and each book costs $8. How many books can you buy?", "answer": "6", "explanation": "50 / 8 = 6 R2. You can only buy 6 whole books. Drop the remainder."},
+              {"problem": "41 stickers shared among 5 kids. How many left over?", "answer": "1", "explanation": "41 / 5 = 8 R1. Each kid gets 8, and 1 sticker is left over."}
+            ],
+            "key_vocabulary": ["interpret", "remainder", "round up", "leftover", "context"],
+            "real_world": "When packing, if you have 50 items and each box holds 8, you need 7 boxes even though 50/8 = 6 R2."
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "46 kids need to cross a lake. Each boat holds 8 kids. How many boats are needed?", "answer": "6", "operation": "46 / 8", "hint": "46 / 8 = 5 R6. Need one more boat for the remaining 6 kids. So 6 boats."},
+            {"type": "word_problem", "question": "You have $37. Each video game costs $9. How many games can you buy?", "answer": "4", "operation": "37 / 9", "hint": "37 / 9 = 4 R1. You can only buy 4 games."},
+            {"type": "word_problem", "question": "75 flowers are put into bunches of 8. How many flowers are left over?", "answer": "3", "operation": "75 / 8", "hint": "75 / 8 = 9 R3. There are 3 flowers left over."},
+            {"type": "multiple_choice", "question": "A bus holds 40 people. 185 people need rides. How many buses are needed?", "options": ["4", "4 R25", "5", "3"], "correct": 2, "hint": "185 / 40 = 4 R25. Need 5 buses so everyone gets a ride."},
+            {"type": "word_problem", "question": "A ribbon is 26 inches long. Each bow needs 3 inches. How many bows can you make?", "answer": "8", "operation": "26 / 3", "hint": "26 / 3 = 8 R2. You can only make 8 complete bows."},
+            {"type": "word_problem", "question": "52 cupcakes are packed into boxes of 6. How many boxes are needed for ALL cupcakes?", "answer": "9", "operation": "52 / 6", "hint": "52 / 6 = 8 R4. You need 9 boxes to fit all 52 cupcakes."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "480 / 6 = ___", "answer": "80", "hint": "48 / 6 = 8, so 480 / 6 = 80."},
+          {"type": "fill_in", "question": "156 / 4 = ___", "answer": "39", "hint": "4 into 15 = 3 R3, bring down 6 to get 36, 4 into 36 = 9. Answer: 39."},
+          {"type": "multiple_choice", "question": "What is 59 / 7?", "options": ["7 R10", "8 R3", "8 R1", "9 R2"], "correct": 1, "hint": "7 x 8 = 56. 59 - 56 = 3. Answer: 8 R3."},
+          {"type": "word_problem", "question": "You have 145 cards in piles of 8. How many full piles?", "answer": "18", "operation": "145 / 8", "hint": "8 x 18 = 144. So 18 full piles with 1 card left."},
+          {"type": "fill_in", "question": "252 / 9 = ___", "answer": "28", "hint": "9 into 25 = 2 R7. Bring down 2 to get 72. 9 into 72 = 8. Answer: 28."},
+          {"type": "word_problem", "question": "34 kids go kayaking. Each kayak holds 3 kids. How many kayaks are needed?", "answer": "12", "operation": "34 / 3", "hint": "34 / 3 = 11 R1. Need 12 kayaks so everyone fits."},
+          {"type": "fill_in", "question": "294 / 7 = ___", "answer": "42", "hint": "7 into 29 = 4 R1. Bring down 4 to get 14. 7 into 14 = 2. Answer: 42."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "division_dynamo"
+      }
+    },
+    {
+      "id": "4-math-3",
+      "title": "Fraction Equivalence and Comparison",
+      "description": "Understand equivalent fractions, compare fractions with different denominators, and simplify fractions.",
+      "lessons": [
+        {
+          "id": "4-math-3-1",
+          "title": "Understanding Equivalent Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Equivalent fractions are fractions that name the same amount. For example, 1/2 and 2/4 are equivalent because they represent the same part of a whole. To find an equivalent fraction, multiply or divide both the numerator and denominator by the same number. 1/2 = 2/4 = 3/6 = 4/8 = 5/10. They all equal one half!",
+            "examples": [
+              {"problem": "Find a fraction equivalent to 1/3", "answer": "2/6", "explanation": "Multiply top and bottom by 2: 1x2=2, 3x2=6. So 1/3 = 2/6!"},
+              {"problem": "Find a fraction equivalent to 3/4", "answer": "6/8", "explanation": "Multiply top and bottom by 2: 3x2=6, 4x2=8. So 3/4 = 6/8!"},
+              {"problem": "Simplify 4/8", "answer": "1/2", "explanation": "Divide top and bottom by 4: 4/4=1, 8/4=2. So 4/8 = 1/2!"}
+            ],
+            "key_vocabulary": ["equivalent", "numerator", "denominator", "simplify", "reduce", "same value"],
+            "real_world": "Cutting a pizza into 4 slices and eating 2 is the same as cutting it into 8 slices and eating 4. Both are half the pizza!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1/2 = ___/6", "answer": "3", "hint": "2 x 3 = 6, so multiply top by 3 too: 1 x 3 = 3."},
+            {"type": "fill_in", "question": "2/3 = ___/9", "answer": "6", "hint": "3 x 3 = 9, so multiply top by 3: 2 x 3 = 6."},
+            {"type": "fill_in", "question": "3/5 = 6/___", "answer": "10", "hint": "3 x 2 = 6, so multiply bottom by 2: 5 x 2 = 10."},
+            {"type": "multiple_choice", "question": "Which fraction is equivalent to 4/6?", "options": ["2/4", "3/4", "2/3", "1/2"], "correct": 2, "hint": "Divide 4 and 6 by 2: 4/2=2, 6/2=3. So 4/6 = 2/3."},
+            {"type": "true_false", "question": "2/8 is equivalent to 1/4.", "answer": "true", "hint": "Divide top and bottom by 2: 2/2=1, 8/2=4. So 2/8 = 1/4."},
+            {"type": "fill_in", "question": "Simplify 6/10 = ___/5", "answer": "3", "hint": "Divide top and bottom by 2: 6/2=3, 10/2=5."},
+            {"type": "multiple_choice", "question": "Which of these is NOT equivalent to 1/2?", "options": ["2/4", "3/6", "4/9", "5/10"], "correct": 2, "hint": "4/9 does not simplify to 1/2 because 9 is not double 4."},
+            {"type": "fill_in", "question": "4/5 = ___/10", "answer": "8", "hint": "5 x 2 = 10, so 4 x 2 = 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-3-2",
+          "title": "Simplifying Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "To simplify a fraction, divide both the numerator and denominator by their greatest common factor (GCF). A fraction is in simplest form when the numerator and denominator share no common factor other than 1. For example, to simplify 8/12: the GCF of 8 and 12 is 4. Divide both by 4: 8/4 = 2, 12/4 = 3. So 8/12 = 2/3 in simplest form!",
+            "examples": [
+              {"problem": "Simplify 8/12", "answer": "2/3", "explanation": "GCF of 8 and 12 is 4. Divide both by 4: 8/4=2, 12/4=3. So 8/12 = 2/3!"},
+              {"problem": "Simplify 10/15", "answer": "2/3", "explanation": "GCF of 10 and 15 is 5. Divide both by 5: 10/5=2, 15/5=3. So 10/15 = 2/3!"},
+              {"problem": "Simplify 6/8", "answer": "3/4", "explanation": "GCF of 6 and 8 is 2. Divide both by 2: 6/2=3, 8/2=4. So 6/8 = 3/4!"}
+            ],
+            "key_vocabulary": ["simplify", "simplest form", "greatest common factor", "GCF", "reduce", "common factor"],
+            "real_world": "A recipe calls for 4/8 cup of flour. That simplifies to 1/2 cup, which is much easier to measure!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Simplify 6/8. Write as a fraction.", "answer": "3/4", "hint": "Divide both by 2: 6/2=3, 8/2=4."},
+            {"type": "fill_in", "question": "Simplify 9/12.", "answer": "3/4", "hint": "GCF of 9 and 12 is 3. Divide: 9/3=3, 12/3=4."},
+            {"type": "multiple_choice", "question": "Which fraction is in simplest form?", "options": ["2/4", "3/9", "5/8", "4/6"], "correct": 2, "hint": "5 and 8 share no common factor other than 1."},
+            {"type": "fill_in", "question": "Simplify 10/20.", "answer": "1/2", "hint": "Divide both by 10."},
+            {"type": "true_false", "question": "5/15 in simplest form is 1/3.", "answer": "true", "hint": "Divide both by 5: 5/5=1, 15/5=3."},
+            {"type": "fill_in", "question": "Simplify 4/12.", "answer": "1/3", "hint": "GCF of 4 and 12 is 4. Divide: 4/4=1, 12/4=3."},
+            {"type": "fill_in", "question": "Simplify 15/20.", "answer": "3/4", "hint": "GCF of 15 and 20 is 5. Divide: 15/5=3, 20/5=4."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-3-3",
+          "title": "Comparing Fractions with Like Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "When two fractions have the same denominator, comparing is easy: just look at the numerators! The fraction with the bigger numerator is the bigger fraction. For example, 5/8 > 3/8 because 5 > 3. Both fractions have 8 equal pieces, and 5 pieces is more than 3 pieces.",
+            "examples": [
+              {"problem": "Compare 3/7 and 5/7", "answer": "3/7 < 5/7", "explanation": "Same denominator (7). Compare numerators: 3 < 5. So 3/7 < 5/7!"},
+              {"problem": "Compare 6/10 and 4/10", "answer": "6/10 > 4/10", "explanation": "Same denominator (10). Compare numerators: 6 > 4. So 6/10 > 4/10!"},
+              {"problem": "Compare 2/5 and 2/5", "answer": "2/5 = 2/5", "explanation": "Same numerator and same denominator. They are equal!"}
+            ],
+            "key_vocabulary": ["compare", "greater than", "less than", "equal to", "numerator", "denominator", "like denominators"],
+            "real_world": "If you eat 3/8 of a pie and your friend eats 5/8, your friend ate more because 5/8 > 3/8."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is greater: 4/9 or 7/9?", "options": ["4/9", "7/9", "They are equal"], "correct": 1, "hint": "Same denominator. 7 > 4."},
+            {"type": "multiple_choice", "question": "Which is less: 5/6 or 2/6?", "options": ["5/6", "2/6", "They are equal"], "correct": 1, "hint": "Same denominator. 2 < 5."},
+            {"type": "true_false", "question": "3/8 > 6/8", "answer": "false", "hint": "3 < 6, so 3/8 < 6/8."},
+            {"type": "fill_in", "question": "Use <, >, or =: 7/12 ___ 5/12", "answer": ">", "hint": "7 > 5, so 7/12 > 5/12."},
+            {"type": "fill_in", "question": "Use <, >, or =: 1/4 ___ 3/4", "answer": "<", "hint": "1 < 3, so 1/4 < 3/4."},
+            {"type": "word_problem", "question": "Maya drank 3/5 of her water. Liam drank 4/5 of his same-sized bottle. Who drank more?", "answer": "Liam", "operation": "4/5 > 3/5", "hint": "Same denominator: 4 > 3, so Liam drank more."},
+            {"type": "multiple_choice", "question": "Order from least to greatest: 5/10, 2/10, 8/10", "options": ["5/10, 2/10, 8/10", "2/10, 5/10, 8/10", "8/10, 5/10, 2/10"], "correct": 1, "hint": "Compare numerators: 2, 5, 8."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-3-4",
+          "title": "Comparing Fractions with Unlike Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "When fractions have different denominators, find a common denominator to compare them. Find the least common multiple (LCM) of the two denominators and rewrite both fractions. For example, compare 2/3 and 3/5: the LCM of 3 and 5 is 15. Rewrite: 2/3 = 10/15, and 3/5 = 9/15. Now compare: 10/15 > 9/15, so 2/3 > 3/5!",
+            "examples": [
+              {"problem": "Compare 1/2 and 3/8", "answer": "1/2 > 3/8", "explanation": "LCM of 2 and 8 is 8. 1/2 = 4/8. Compare: 4/8 > 3/8. So 1/2 > 3/8!"},
+              {"problem": "Compare 2/5 and 1/3", "answer": "2/5 > 1/3", "explanation": "LCM of 5 and 3 is 15. 2/5 = 6/15, 1/3 = 5/15. 6/15 > 5/15!"},
+              {"problem": "Compare 3/4 and 5/6", "answer": "3/4 < 5/6", "explanation": "LCM of 4 and 6 is 12. 3/4 = 9/12, 5/6 = 10/12. 9/12 < 10/12!"}
+            ],
+            "key_vocabulary": ["unlike denominators", "common denominator", "least common multiple", "LCM", "equivalent fractions", "compare"],
+            "real_world": "Who ate more pizza: someone who ate 2/3 or someone who ate 3/5? Convert to fifteenths: 10/15 vs 9/15. The 2/3 eater ate more!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "Which is greater: 1/3 or 1/4?", "options": ["1/3", "1/4", "They are equal"], "correct": 0, "hint": "1/3 = 4/12, 1/4 = 3/12. 4/12 > 3/12."},
+            {"type": "multiple_choice", "question": "Which is greater: 2/5 or 3/10?", "options": ["2/5", "3/10", "They are equal"], "correct": 0, "hint": "2/5 = 4/10. Compare 4/10 and 3/10."},
+            {"type": "fill_in", "question": "Use <, >, or =: 3/8 ___ 1/2", "answer": "<", "hint": "1/2 = 4/8. So 3/8 < 4/8."},
+            {"type": "fill_in", "question": "Use <, >, or =: 5/6 ___ 7/8", "answer": "<", "hint": "LCM=24. 5/6=20/24, 7/8=21/24. 20<21."},
+            {"type": "multiple_choice", "question": "Which is greater: 3/4 or 2/3?", "options": ["3/4", "2/3", "They are equal"], "correct": 0, "hint": "3/4=9/12, 2/3=8/12. 9>8."},
+            {"type": "word_problem", "question": "Ava read 2/3 of her book. Ben read 3/5 of his same book. Who read more?", "answer": "Ava", "operation": "2/3 vs 3/5", "hint": "2/3=10/15, 3/5=9/15. 10>9. Ava read more."},
+            {"type": "true_false", "question": "1/2 is equal to 3/6.", "answer": "true", "hint": "3/6 simplifies to 1/2."},
+            {"type": "fill_in", "question": "Use <, >, or =: 4/5 ___ 3/4", "answer": ">", "hint": "LCM=20. 4/5=16/20, 3/4=15/20. 16>15."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "2/3 = ___/12", "answer": "8", "hint": "3 x 4 = 12, so 2 x 4 = 8."},
+          {"type": "fill_in", "question": "Simplify 8/10.", "answer": "4/5", "hint": "Divide both by 2."},
+          {"type": "multiple_choice", "question": "Which is greater: 5/8 or 3/8?", "options": ["5/8", "3/8", "They are equal"], "correct": 0, "hint": "Same denominator: 5 > 3."},
+          {"type": "fill_in", "question": "Use <, >, or =: 2/3 ___ 3/4", "answer": "<", "hint": "2/3=8/12, 3/4=9/12. 8<9."},
+          {"type": "multiple_choice", "question": "Which fraction is equivalent to 6/9?", "options": ["1/3", "2/3", "3/4", "3/6"], "correct": 1, "hint": "Divide 6 and 9 by 3."},
+          {"type": "true_false", "question": "3/5 > 1/2", "answer": "true", "hint": "3/5=6/10, 1/2=5/10. 6>5."},
+          {"type": "fill_in", "question": "1/4 = 3/___", "answer": "12", "hint": "1 x 3 = 3, so 4 x 3 = 12."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_explorer"
+      }
+    },
+    {
+      "id": "4-math-4",
+      "title": "Adding and Subtracting Fractions",
+      "description": "Add and subtract fractions with like denominators, work with mixed numbers, and solve fraction word problems.",
+      "lessons": [
+        {
+          "id": "4-math-4-1",
+          "title": "Adding Fractions with Like Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "When adding fractions with the same denominator, just add the numerators and keep the denominator the same. For example, 2/5 + 1/5 = 3/5. Think of it like adding slices of the same pizza: 2 slices plus 1 slice equals 3 slices, and each slice is still a fifth of the pizza. If the sum is greater than 1, you can write it as a mixed number.",
+            "examples": [
+              {"problem": "1/6 + 3/6", "answer": "4/6", "explanation": "Same denominator! Add numerators: 1+3=4. Keep denominator: 4/6. Simplify: 2/3!"},
+              {"problem": "3/8 + 2/8", "answer": "5/8", "explanation": "Same denominator! 3+2=5. Answer: 5/8!"},
+              {"problem": "5/10 + 3/10", "answer": "8/10", "explanation": "Same denominator! 5+3=8. Answer: 8/10 or simplified 4/5!"}
+            ],
+            "key_vocabulary": ["add", "numerator", "denominator", "like denominators", "sum", "simplify"],
+            "real_world": "You eat 2/8 of a pie, then eat 3/8 more. Total eaten: 2/8 + 3/8 = 5/8 of the pie!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1/4 + 2/4 = ___/4", "answer": "3", "hint": "Add numerators: 1+2=3. Keep denominator 4."},
+            {"type": "fill_in", "question": "3/10 + 4/10 = ___/10", "answer": "7", "hint": "Add numerators: 3+4=7."},
+            {"type": "fill_in", "question": "2/5 + 2/5 = ___/5", "answer": "4", "hint": "2+2=4. Answer: 4/5."},
+            {"type": "multiple_choice", "question": "What is 1/8 + 5/8?", "options": ["4/8", "5/8", "6/8", "6/16"], "correct": 2, "hint": "1+5=6. Same denominator 8. Answer: 6/8."},
+            {"type": "fill_in", "question": "4/12 + 3/12 = ___/12", "answer": "7", "hint": "4+3=7."},
+            {"type": "word_problem", "question": "Sara ate 2/6 of a cake. Her brother ate 3/6. How much cake did they eat together?", "answer": "5/6", "operation": "2/6 + 3/6", "hint": "2+3=5. Same denominator: 5/6."},
+            {"type": "fill_in", "question": "5/9 + 3/9 = ___/9", "answer": "8", "hint": "5+3=8."},
+            {"type": "true_false", "question": "1/3 + 1/3 = 2/6", "answer": "false", "hint": "1/3 + 1/3 = 2/3, not 2/6. Keep the same denominator!"}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-4-2",
+          "title": "Subtracting Fractions with Like Denominators",
+          "type": "lesson",
+          "content": {
+            "explanation": "Subtracting fractions with the same denominator is just like adding, but you subtract the numerators instead. For 5/8 - 2/8, subtract: 5-2=3, keep the denominator 8. Answer: 3/8. Always check if you can simplify the result. For example, 6/10 - 2/10 = 4/10, which simplifies to 2/5.",
+            "examples": [
+              {"problem": "5/6 - 2/6", "answer": "3/6", "explanation": "Subtract numerators: 5-2=3. Keep denominator: 3/6. Simplify: 1/2!"},
+              {"problem": "7/8 - 3/8", "answer": "4/8", "explanation": "7-3=4. Answer: 4/8, which simplifies to 1/2!"},
+              {"problem": "9/10 - 4/10", "answer": "5/10", "explanation": "9-4=5. Answer: 5/10, which simplifies to 1/2!"}
+            ],
+            "key_vocabulary": ["subtract", "difference", "numerator", "denominator", "like denominators", "simplify"],
+            "real_world": "A water bottle is 7/8 full. You drink 3/8 of it. Now it is 7/8 - 3/8 = 4/8 = 1/2 full!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "4/5 - 1/5 = ___/5", "answer": "3", "hint": "4-1=3."},
+            {"type": "fill_in", "question": "7/10 - 3/10 = ___/10", "answer": "4", "hint": "7-3=4."},
+            {"type": "fill_in", "question": "5/6 - 1/6 = ___/6", "answer": "4", "hint": "5-1=4."},
+            {"type": "multiple_choice", "question": "What is 8/12 - 5/12?", "options": ["3/12", "3/0", "13/12", "3/24"], "correct": 0, "hint": "8-5=3. Keep denominator: 3/12."},
+            {"type": "word_problem", "question": "A jar is 9/10 full of juice. You pour out 2/10. How full is the jar now?", "answer": "7/10", "operation": "9/10 - 2/10", "hint": "9-2=7. Answer: 7/10."},
+            {"type": "fill_in", "question": "6/8 - 2/8 = ___/8", "answer": "4", "hint": "6-2=4."},
+            {"type": "true_false", "question": "3/4 - 1/4 = 2/4 = 1/2", "answer": "true", "hint": "3-1=2. 2/4 simplifies to 1/2."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-4-3",
+          "title": "Understanding Mixed Numbers and Improper Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "A mixed number has a whole number part and a fraction part, like 2 1/3. An improper fraction has a numerator bigger than the denominator, like 7/3. They can represent the same amount! To convert a mixed number to an improper fraction: multiply the whole number by the denominator and add the numerator. 2 1/3 = (2x3+1)/3 = 7/3. To go back: divide numerator by denominator. 7/3 = 2 R1, so 7/3 = 2 1/3.",
+            "examples": [
+              {"problem": "Convert 1 3/4 to an improper fraction", "answer": "7/4", "explanation": "1 x 4 + 3 = 7. So 1 3/4 = 7/4!"},
+              {"problem": "Convert 9/5 to a mixed number", "answer": "1 4/5", "explanation": "9 / 5 = 1 R4. So 9/5 = 1 4/5!"},
+              {"problem": "Convert 2 2/3 to an improper fraction", "answer": "8/3", "explanation": "2 x 3 + 2 = 8. So 2 2/3 = 8/3!"}
+            ],
+            "key_vocabulary": ["mixed number", "improper fraction", "whole number", "convert", "numerator", "denominator"],
+            "real_world": "If you eat 1 and 1/2 sandwiches, that is the same as eating 3/2 sandwiches. Both mean the same thing!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Convert 1 1/2 to an improper fraction.", "answer": "3/2", "hint": "1 x 2 + 1 = 3. Answer: 3/2."},
+            {"type": "fill_in", "question": "Convert 2 1/4 to an improper fraction.", "answer": "9/4", "hint": "2 x 4 + 1 = 9. Answer: 9/4."},
+            {"type": "fill_in", "question": "Convert 7/3 to a mixed number.", "answer": "2 1/3", "hint": "7 / 3 = 2 R1. Answer: 2 1/3."},
+            {"type": "fill_in", "question": "Convert 11/4 to a mixed number.", "answer": "2 3/4", "hint": "11 / 4 = 2 R3. Answer: 2 3/4."},
+            {"type": "multiple_choice", "question": "Which improper fraction equals 3 1/5?", "options": ["13/5", "15/3", "16/5", "31/5"], "correct": 2, "hint": "3 x 5 + 1 = 16. Answer: 16/5."},
+            {"type": "fill_in", "question": "Convert 10/3 to a mixed number.", "answer": "3 1/3", "hint": "10 / 3 = 3 R1. Answer: 3 1/3."},
+            {"type": "true_false", "question": "5/4 as a mixed number is 1 1/4.", "answer": "true", "hint": "5 / 4 = 1 R1. So 5/4 = 1 1/4."},
+            {"type": "fill_in", "question": "Convert 4 2/5 to an improper fraction.", "answer": "22/5", "hint": "4 x 5 + 2 = 22. Answer: 22/5."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-4-4",
+          "title": "Adding and Subtracting Mixed Numbers",
+          "type": "lesson",
+          "content": {
+            "explanation": "To add mixed numbers with like denominators, add the whole numbers and fractions separately. For 2 1/4 + 1 2/4: whole numbers 2+1=3, fractions 1/4+2/4=3/4. Answer: 3 3/4. When subtracting, you may need to borrow. For 3 1/5 - 1 3/5: you cannot subtract 3/5 from 1/5, so borrow 1 whole (which is 5/5) from 3 to make 2 6/5. Then 2 6/5 - 1 3/5 = 1 3/5.",
+            "examples": [
+              {"problem": "1 2/6 + 2 3/6", "answer": "3 5/6", "explanation": "Whole: 1+2=3. Fractions: 2/6+3/6=5/6. Answer: 3 5/6!"},
+              {"problem": "4 1/3 - 2 2/3", "answer": "1 2/3", "explanation": "Cannot subtract 2/3 from 1/3. Borrow: 3 4/3 - 2 2/3 = 1 2/3!"},
+              {"problem": "2 3/8 + 1 5/8", "answer": "4", "explanation": "Whole: 2+1=3. Fractions: 3/8+5/8=8/8=1. Total: 3+1=4!"}
+            ],
+            "key_vocabulary": ["mixed number", "add", "subtract", "borrow", "regroup", "like denominators"],
+            "real_world": "You ran 2 1/4 miles Monday and 1 2/4 miles Tuesday. Total: 2 1/4 + 1 2/4 = 3 3/4 miles!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "1 1/5 + 2 3/5 = ___", "answer": "3 4/5", "hint": "Whole: 1+2=3. Fractions: 1/5+3/5=4/5. Answer: 3 4/5."},
+            {"type": "fill_in", "question": "3 2/8 + 1 4/8 = ___", "answer": "4 6/8", "hint": "Whole: 3+1=4. Fractions: 2/8+4/8=6/8. Answer: 4 6/8."},
+            {"type": "fill_in", "question": "5 3/4 - 2 1/4 = ___", "answer": "3 2/4", "hint": "Whole: 5-2=3. Fractions: 3/4-1/4=2/4. Answer: 3 2/4."},
+            {"type": "multiple_choice", "question": "What is 2 5/6 + 1 1/6?", "options": ["3 6/6", "4", "3 4/6", "3 6/12"], "correct": 1, "hint": "Whole: 2+1=3. Fractions: 5/6+1/6=6/6=1. Total: 3+1=4."},
+            {"type": "fill_in", "question": "4 7/10 - 1 3/10 = ___", "answer": "3 4/10", "hint": "Whole: 4-1=3. Fractions: 7/10-3/10=4/10. Answer: 3 4/10."},
+            {"type": "word_problem", "question": "A board is 6 3/8 feet long. You cut off 2 1/8 feet. How long is it now?", "answer": "4 2/8", "operation": "6 3/8 - 2 1/8", "hint": "Whole: 6-2=4. Fractions: 3/8-1/8=2/8. Answer: 4 2/8."},
+            {"type": "word_problem", "question": "Emma walked 1 2/5 miles in the morning and 2 1/5 miles in the afternoon. How far did she walk total?", "answer": "3 3/5", "operation": "1 2/5 + 2 1/5", "hint": "Whole: 1+2=3. Fractions: 2/5+1/5=3/5. Answer: 3 3/5."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "3/8 + 4/8 = ___/8", "answer": "7", "hint": "3+4=7."},
+          {"type": "fill_in", "question": "9/10 - 3/10 = ___/10", "answer": "6", "hint": "9-3=6."},
+          {"type": "fill_in", "question": "Convert 2 3/5 to an improper fraction.", "answer": "13/5", "hint": "2 x 5 + 3 = 13."},
+          {"type": "fill_in", "question": "Convert 11/6 to a mixed number.", "answer": "1 5/6", "hint": "11 / 6 = 1 R5."},
+          {"type": "fill_in", "question": "1 3/4 + 2 1/4 = ___", "answer": "4", "hint": "Whole: 1+2=3. Fractions: 3/4+1/4=4/4=1. Total: 4."},
+          {"type": "word_problem", "question": "You have 5/6 of a pizza. You eat 2/6 more. How much is left?", "answer": "3/6", "operation": "5/6 - 2/6", "hint": "5-2=3. Answer: 3/6 or 1/2."},
+          {"type": "multiple_choice", "question": "What is 3 2/3 - 1 1/3?", "options": ["2 1/3", "2 2/3", "1 1/3", "4"], "correct": 0, "hint": "Whole: 3-1=2. Fractions: 2/3-1/3=1/3. Answer: 2 1/3."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "fraction_champion"
+      }
+    },
+    {
+      "id": "4-math-5",
+      "title": "Introduction to Decimals",
+      "description": "Understand decimals as fractions with denominators of 10 and 100, compare decimals, and relate decimals to money.",
+      "lessons": [
+        {
+          "id": "4-math-5-1",
+          "title": "Understanding Tenths",
+          "type": "lesson",
+          "content": {
+            "explanation": "A decimal is another way to write a fraction. Tenths are written with one digit after the decimal point. 1/10 = 0.1, 3/10 = 0.3, 7/10 = 0.7. Think of dividing something into 10 equal parts. If you shade 3 out of 10 parts, that is 3/10 or 0.3. The first place after the decimal point is the tenths place.",
+            "examples": [
+              {"problem": "Write 4/10 as a decimal", "answer": "0.4", "explanation": "4/10 means 4 tenths. As a decimal: 0.4!"},
+              {"problem": "Write 0.9 as a fraction", "answer": "9/10", "explanation": "0.9 means 9 tenths. As a fraction: 9/10!"},
+              {"problem": "Write 1.6 as a mixed number", "answer": "1 6/10", "explanation": "1.6 = 1 and 6 tenths = 1 6/10!"}
+            ],
+            "key_vocabulary": ["decimal", "tenths", "decimal point", "fraction", "place value"],
+            "real_world": "Money uses decimals! One dime is $0.10, which is 1/10 of a dollar."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Write 3/10 as a decimal.", "answer": "0.3", "hint": "3 tenths = 0.3."},
+            {"type": "fill_in", "question": "Write 0.7 as a fraction.", "answer": "7/10", "hint": "0.7 = 7 tenths = 7/10."},
+            {"type": "fill_in", "question": "Write 8/10 as a decimal.", "answer": "0.8", "hint": "8 tenths = 0.8."},
+            {"type": "multiple_choice", "question": "What decimal equals 5/10?", "options": ["0.05", "0.5", "5.0", "5.10"], "correct": 1, "hint": "5 tenths = 0.5."},
+            {"type": "fill_in", "question": "Write 2.3 as a mixed number.", "answer": "2 3/10", "hint": "2 and 3 tenths = 2 3/10."},
+            {"type": "true_false", "question": "0.1 = 1/10", "answer": "true", "hint": "0.1 means 1 tenth, which is 1/10."},
+            {"type": "fill_in", "question": "What is the tenths digit in 4.6?", "answer": "6", "hint": "The digit right after the decimal point is the tenths digit."},
+            {"type": "word_problem", "question": "A ribbon is 0.9 meters long. Write this as a fraction.", "answer": "9/10", "operation": "0.9 = 9/10", "hint": "0.9 = 9 tenths = 9/10."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-5-2",
+          "title": "Understanding Hundredths",
+          "type": "lesson",
+          "content": {
+            "explanation": "Hundredths are written with two digits after the decimal point. 1/100 = 0.01, 25/100 = 0.25, 99/100 = 0.99. Think of a dollar: each penny is 1/100 of a dollar, or $0.01. The second place after the decimal point is the hundredths place. 0.35 means 3 tenths and 5 hundredths, which is the same as 35/100.",
+            "examples": [
+              {"problem": "Write 47/100 as a decimal", "answer": "0.47", "explanation": "47 hundredths = 0.47!"},
+              {"problem": "Write 0.06 as a fraction", "answer": "6/100", "explanation": "0.06 means 6 hundredths = 6/100!"},
+              {"problem": "Write 0.50 as a fraction", "answer": "50/100", "explanation": "0.50 = 50/100 = 1/2!"}
+            ],
+            "key_vocabulary": ["hundredths", "decimal", "place value", "equivalent", "penny", "dollar"],
+            "real_world": "A quarter is $0.25, which is 25/100 of a dollar. A dime is $0.10, which is 10/100 of a dollar."
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Write 23/100 as a decimal.", "answer": "0.23", "hint": "23 hundredths = 0.23."},
+            {"type": "fill_in", "question": "Write 0.09 as a fraction.", "answer": "9/100", "hint": "0.09 = 9 hundredths = 9/100."},
+            {"type": "fill_in", "question": "Write 75/100 as a decimal.", "answer": "0.75", "hint": "75 hundredths = 0.75."},
+            {"type": "multiple_choice", "question": "What fraction equals 0.30?", "options": ["3/10", "30/100", "3/100", "Both 3/10 and 30/100"], "correct": 3, "hint": "0.30 = 30/100 = 3/10. Both are correct!"},
+            {"type": "fill_in", "question": "Write 4/100 as a decimal.", "answer": "0.04", "hint": "4 hundredths. Need a zero in the tenths place: 0.04."},
+            {"type": "true_false", "question": "0.50 is the same as 0.5", "answer": "true", "hint": "50 hundredths = 5 tenths. They are equal."},
+            {"type": "word_problem", "question": "You have 3 quarters. Each is worth $0.25. How much money do you have? Write as a decimal.", "answer": "0.75", "operation": "3 * 0.25", "hint": "3 x 25 cents = 75 cents = $0.75."},
+            {"type": "fill_in", "question": "What is the hundredths digit in 3.48?", "answer": "8", "hint": "In 3.48, the 4 is in the tenths place and the 8 is in the hundredths place."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-5-3",
+          "title": "Comparing and Ordering Decimals",
+          "type": "lesson",
+          "content": {
+            "explanation": "To compare decimals, start by looking at the whole number part. If those are the same, compare the tenths digit. If those are also the same, compare the hundredths digit. It helps to line up the decimal points and add zeros so both numbers have the same number of digits. For example, 0.6 and 0.58: rewrite 0.6 as 0.60. Now compare: 0.60 > 0.58 because 60 hundredths > 58 hundredths.",
+            "examples": [
+              {"problem": "Compare 0.3 and 0.7", "answer": "0.3 < 0.7", "explanation": "Both have 0 ones. Compare tenths: 3 < 7. So 0.3 < 0.7!"},
+              {"problem": "Compare 0.45 and 0.5", "answer": "0.45 < 0.5", "explanation": "Rewrite 0.5 as 0.50. Compare: 45 < 50. So 0.45 < 0.50!"},
+              {"problem": "Compare 1.2 and 1.19", "answer": "1.2 > 1.19", "explanation": "Rewrite 1.2 as 1.20. Compare: 1.20 > 1.19!"}
+            ],
+            "key_vocabulary": ["compare", "order", "decimal point", "greater than", "less than", "equal"],
+            "real_world": "Which costs more: $2.50 or $2.45? Compare: 2.50 > 2.45, so $2.50 costs more!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Use <, >, or =: 0.4 ___ 0.8", "answer": "<", "hint": "4 tenths < 8 tenths."},
+            {"type": "fill_in", "question": "Use <, >, or =: 0.35 ___ 0.3", "answer": ">", "hint": "Rewrite 0.3 as 0.30. 0.35 > 0.30."},
+            {"type": "fill_in", "question": "Use <, >, or =: 0.70 ___ 0.7", "answer": "=", "hint": "0.70 and 0.7 are the same value."},
+            {"type": "multiple_choice", "question": "Which is greater: 0.6 or 0.55?", "options": ["0.6", "0.55", "They are equal"], "correct": 0, "hint": "0.6 = 0.60. Compare: 0.60 > 0.55."},
+            {"type": "multiple_choice", "question": "Order from least to greatest: 0.9, 0.09, 0.5", "options": ["0.09, 0.5, 0.9", "0.5, 0.09, 0.9", "0.9, 0.5, 0.09"], "correct": 0, "hint": "0.09 = 9 hundredths, 0.5 = 50 hundredths, 0.9 = 90 hundredths."},
+            {"type": "fill_in", "question": "Use <, >, or =: 2.50 ___ 2.5", "answer": "=", "hint": "They are equal. The extra zero does not change the value."},
+            {"type": "word_problem", "question": "A pencil costs $0.89 and an eraser costs $0.92. Which costs more?", "answer": "eraser", "operation": "0.92 > 0.89", "hint": "Compare: 0.92 > 0.89. The eraser costs more."},
+            {"type": "true_false", "question": "0.2 > 0.15", "answer": "true", "hint": "0.2 = 0.20. 0.20 > 0.15."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-5-4",
+          "title": "Relating Decimals, Fractions, and Money",
+          "type": "lesson",
+          "content": {
+            "explanation": "Decimals and fractions are two ways to show the same value. 1/4 = 0.25, 1/2 = 0.50, 3/4 = 0.75. Money is a great way to understand decimals: $1.00 = 100 cents, so each cent is 0.01. A quarter (25 cents) = $0.25 = 25/100 = 1/4. Converting between fractions and decimals is an important skill!",
+            "examples": [
+              {"problem": "Write 1/4 as a decimal", "answer": "0.25", "explanation": "1/4 = 25/100 = 0.25. Think: a quarter is 25 cents!"},
+              {"problem": "Write 0.75 as a fraction", "answer": "3/4", "explanation": "0.75 = 75/100 = 3/4. Think: 75 cents is three quarters!"},
+              {"problem": "Write $3.50 as a mixed number", "answer": "3 50/100", "explanation": "$3.50 = 3 and 50/100 = 3 and 1/2 dollars!"}
+            ],
+            "key_vocabulary": ["decimal", "fraction", "equivalent", "money", "dollar", "cents", "convert"],
+            "real_world": "A half-dollar coin is worth $0.50, which is 50/100 or 1/2 of a dollar!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Write 1/2 as a decimal.", "answer": "0.5", "hint": "1/2 = 5/10 = 0.5."},
+            {"type": "fill_in", "question": "Write 0.25 as a fraction in simplest form.", "answer": "1/4", "hint": "0.25 = 25/100 = 1/4."},
+            {"type": "multiple_choice", "question": "How many cents is 3/4 of a dollar?", "options": ["25 cents", "50 cents", "75 cents", "34 cents"], "correct": 2, "hint": "3/4 = 0.75. That is 75 cents."},
+            {"type": "fill_in", "question": "Write 3/10 as a decimal.", "answer": "0.3", "hint": "3 tenths = 0.3."},
+            {"type": "true_false", "question": "$0.50 equals 1/2 of a dollar.", "answer": "true", "hint": "50 cents is half of 100 cents."},
+            {"type": "fill_in", "question": "Write 0.20 as a fraction in simplest form.", "answer": "1/5", "hint": "0.20 = 20/100 = 1/5."},
+            {"type": "word_problem", "question": "You have $1.75. What fraction of $2.00 do you have? Write as a fraction with denominator 100.", "answer": "175/200", "operation": "1.75/2.00", "hint": "175 cents out of 200 cents = 175/200."},
+            {"type": "fill_in", "question": "Write 7/10 as a decimal.", "answer": "0.7", "hint": "7 tenths = 0.7."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Write 6/10 as a decimal.", "answer": "0.6", "hint": "6 tenths = 0.6."},
+          {"type": "fill_in", "question": "Write 0.42 as a fraction.", "answer": "42/100", "hint": "42 hundredths = 42/100."},
+          {"type": "fill_in", "question": "Use <, >, or =: 0.8 ___ 0.75", "answer": ">", "hint": "0.8 = 0.80. 0.80 > 0.75."},
+          {"type": "multiple_choice", "question": "Which decimal equals 1/4?", "options": ["0.14", "0.4", "0.25", "0.75"], "correct": 2, "hint": "1/4 = 25/100 = 0.25."},
+          {"type": "fill_in", "question": "Write 53/100 as a decimal.", "answer": "0.53", "hint": "53 hundredths = 0.53."},
+          {"type": "true_false", "question": "0.5 is the same as 0.50", "answer": "true", "hint": "Adding a zero after the last decimal digit does not change the value."},
+          {"type": "word_problem", "question": "A pencil costs $0.35 and a pen costs $0.40. Which costs less?", "answer": "pencil", "operation": "0.35 < 0.40", "hint": "0.35 < 0.40. The pencil costs less."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "decimal_detective"
+      }
+    },
+    {
+      "id": "4-math-6",
+      "title": "Angles and Measurement",
+      "description": "Learn about angles, use protractors, classify angles, and understand how angles relate to shapes.",
+      "lessons": [
+        {
+          "id": "4-math-6-1",
+          "title": "What is an Angle?",
+          "type": "lesson",
+          "content": {
+            "explanation": "An angle is formed when two rays share the same starting point, called the vertex. We measure angles in degrees. A full turn around a circle is 360 degrees. Angles are everywhere: the corner of a book, the hands of a clock, the opening of a door. The wider the opening between the two rays, the bigger the angle.",
+            "examples": [
+              {"problem": "How many degrees in a full turn?", "answer": "360", "explanation": "Going all the way around a circle is 360 degrees!"},
+              {"problem": "How many degrees in a half turn?", "answer": "180", "explanation": "Half of 360 is 180 degrees. That is a straight line!"},
+              {"problem": "How many degrees in a quarter turn?", "answer": "90", "explanation": "A quarter of 360 is 90 degrees. That makes a square corner!"}
+            ],
+            "key_vocabulary": ["angle", "degrees", "ray", "vertex", "turn", "rotation"],
+            "real_world": "When you open a door halfway, you create about a 90-degree angle. A full open door is about 180 degrees!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "A full turn is ___ degrees.", "answer": "360", "hint": "A complete circle = 360 degrees."},
+            {"type": "fill_in", "question": "A half turn is ___ degrees.", "answer": "180", "hint": "Half of 360 = 180."},
+            {"type": "fill_in", "question": "A quarter turn is ___ degrees.", "answer": "90", "hint": "360 / 4 = 90."},
+            {"type": "multiple_choice", "question": "What is the vertex of an angle?", "options": ["The rays", "The point where two rays meet", "The degrees", "The measuring tool"], "correct": 1, "hint": "The vertex is the starting point shared by both rays."},
+            {"type": "true_false", "question": "Three quarter turns equals 270 degrees.", "answer": "true", "hint": "3 x 90 = 270."},
+            {"type": "fill_in", "question": "Two right angles placed together form ___ degrees.", "answer": "180", "hint": "90 + 90 = 180."},
+            {"type": "word_problem", "question": "A Ferris wheel makes a half turn. How many degrees did it rotate?", "answer": "180", "operation": "360 / 2", "hint": "Half of 360 = 180 degrees."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-6-2",
+          "title": "Types of Angles: Right, Acute, Obtuse, and Straight",
+          "type": "lesson",
+          "content": {
+            "explanation": "There are four main types of angles. A right angle is exactly 90 degrees, like the corner of a square. An acute angle is less than 90 degrees, like a pizza slice. An obtuse angle is greater than 90 degrees but less than 180, like a reclining chair. A straight angle is exactly 180 degrees, like a flat line.",
+            "examples": [
+              {"problem": "Classify a 45-degree angle", "answer": "Acute", "explanation": "45 < 90, so this is an acute angle!"},
+              {"problem": "Classify a 120-degree angle", "answer": "Obtuse", "explanation": "120 is between 90 and 180, so this is an obtuse angle!"},
+              {"problem": "Classify a 90-degree angle", "answer": "Right", "explanation": "Exactly 90 degrees is a right angle! It looks like the corner of a square."}
+            ],
+            "key_vocabulary": ["right angle", "acute angle", "obtuse angle", "straight angle", "degrees", "classify"],
+            "real_world": "The letter L forms a right angle (90 degrees). The letter V forms an acute angle (less than 90 degrees)."
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "An angle of 60 degrees is:", "options": ["Right", "Acute", "Obtuse", "Straight"], "correct": 1, "hint": "60 < 90, so it is acute."},
+            {"type": "multiple_choice", "question": "An angle of 135 degrees is:", "options": ["Right", "Acute", "Obtuse", "Straight"], "correct": 2, "hint": "135 is between 90 and 180, so it is obtuse."},
+            {"type": "multiple_choice", "question": "An angle of 90 degrees is:", "options": ["Right", "Acute", "Obtuse", "Straight"], "correct": 0, "hint": "Exactly 90 degrees is a right angle."},
+            {"type": "true_false", "question": "A 180-degree angle is a straight angle.", "answer": "true", "hint": "180 degrees forms a straight line."},
+            {"type": "true_false", "question": "A 95-degree angle is acute.", "answer": "false", "hint": "95 > 90, so it is obtuse, not acute."},
+            {"type": "multiple_choice", "question": "The corner of a textbook is most likely what type of angle?", "options": ["Acute", "Right", "Obtuse", "Straight"], "correct": 1, "hint": "Book corners are square corners = 90 degrees = right angles."},
+            {"type": "word_problem", "question": "A clock shows 3:00. What type of angle do the hands form?", "answer": "Right", "operation": "90 degrees", "hint": "At 3:00, the hands are a quarter turn apart, which is 90 degrees."},
+            {"type": "multiple_choice", "question": "Which angle is the largest: 45, 90, or 120 degrees?", "options": ["45 degrees", "90 degrees", "120 degrees"], "correct": 2, "hint": "120 is the biggest number, so it is the largest angle."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-6-3",
+          "title": "Measuring Angles with a Protractor",
+          "type": "lesson",
+          "content": {
+            "explanation": "A protractor is a tool shaped like a half circle that measures angles in degrees. To use it: 1) Place the center point of the protractor on the vertex of the angle. 2) Line up one ray with the 0-degree line. 3) Read the number where the other ray crosses the protractor. Protractors have two sets of numbers. Use the set that starts at 0 on the ray you lined up.",
+            "examples": [
+              {"problem": "An angle's ray points to 75 on the protractor", "answer": "75 degrees", "explanation": "The angle measures 75 degrees. Since 75 < 90, it is an acute angle!"},
+              {"problem": "An angle's ray points to 140 on the protractor", "answer": "140 degrees", "explanation": "The angle measures 140 degrees. Since 140 > 90, it is an obtuse angle!"},
+              {"problem": "An angle's ray points to 90 on the protractor", "answer": "90 degrees", "explanation": "The angle measures exactly 90 degrees. It is a right angle!"}
+            ],
+            "key_vocabulary": ["protractor", "measure", "degrees", "vertex", "center point", "ray"],
+            "real_world": "Architects and engineers use protractors to measure angles when designing buildings and bridges!"
+          },
+          "practice_problems": [
+            {"type": "multiple_choice", "question": "What tool do you use to measure angles?", "options": ["Ruler", "Protractor", "Scale", "Thermometer"], "correct": 1, "hint": "A protractor measures angles in degrees."},
+            {"type": "multiple_choice", "question": "An angle measures 50 degrees. What type is it?", "options": ["Right", "Acute", "Obtuse", "Straight"], "correct": 1, "hint": "50 < 90, so it is acute."},
+            {"type": "fill_in", "question": "If one ray is at 0 and the other ray points to 110, the angle is ___ degrees.", "answer": "110", "hint": "Read the number where the second ray crosses: 110 degrees."},
+            {"type": "true_false", "question": "You place the center of the protractor on the vertex of the angle.", "answer": "true", "hint": "The center point goes right on the vertex."},
+            {"type": "multiple_choice", "question": "If an angle measures 89 degrees, it is:", "options": ["Right", "Acute", "Obtuse", "Straight"], "correct": 1, "hint": "89 < 90, so it is just barely acute!"},
+            {"type": "fill_in", "question": "If one ray is at 0 and the other is at 155, the angle is ___ degrees.", "answer": "155", "hint": "Read the protractor: 155 degrees. This is obtuse."},
+            {"type": "word_problem", "question": "You measure a triangle corner and get 60 degrees. What type of angle is this?", "answer": "Acute", "operation": "60 < 90", "hint": "60 < 90, so it is an acute angle."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-6-4",
+          "title": "Adding and Subtracting Angle Measures",
+          "type": "lesson",
+          "content": {
+            "explanation": "Angles next to each other can be added together. If you know two angles share a ray and together make a bigger angle, you can add them. If angle A is 35 degrees and angle B is 55 degrees, together they make 35 + 55 = 90 degrees (a right angle!). You can also subtract: if a big angle is 120 degrees and one part is 45 degrees, the other part is 120 - 45 = 75 degrees.",
+            "examples": [
+              {"problem": "Two angles measure 40 and 50 degrees. What is their sum?", "answer": "90", "explanation": "40 + 50 = 90 degrees. Together they make a right angle!"},
+              {"problem": "A straight angle is split into two parts. One part is 110 degrees. What is the other?", "answer": "70", "explanation": "A straight angle = 180. So the other part = 180 - 110 = 70 degrees!"},
+              {"problem": "Three angles in a triangle measure 60, 80, and what?", "answer": "40", "explanation": "Triangle angles add to 180. So 180 - 60 - 80 = 40 degrees!"}
+            ],
+            "key_vocabulary": ["add", "subtract", "angle measure", "sum", "straight angle", "right angle", "complementary"],
+            "real_world": "When you fold a piece of paper to make a crease, you create two angles that add up to 180 degrees!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "25 + 65 = ___ degrees", "answer": "90", "hint": "25 + 65 = 90."},
+            {"type": "fill_in", "question": "A straight angle (180 degrees) is split into 75 degrees and ___ degrees.", "answer": "105", "hint": "180 - 75 = 105."},
+            {"type": "fill_in", "question": "Two angles add up to 90 degrees. One is 30 degrees. The other is ___ degrees.", "answer": "60", "hint": "90 - 30 = 60."},
+            {"type": "multiple_choice", "question": "Three angles of a triangle are 50, 60, and what?", "options": ["60", "70", "80", "90"], "correct": 1, "hint": "Angles in a triangle add to 180. 180 - 50 - 60 = 70."},
+            {"type": "fill_in", "question": "An angle of 45 degrees and an angle of 45 degrees together make ___ degrees.", "answer": "90", "hint": "45 + 45 = 90."},
+            {"type": "word_problem", "question": "A right angle is divided into two parts. One part measures 35 degrees. What does the other part measure?", "answer": "55", "operation": "90 - 35", "hint": "90 - 35 = 55 degrees."},
+            {"type": "fill_in", "question": "Four right angles together make ___ degrees.", "answer": "360", "hint": "4 x 90 = 360. That is a full turn!"},
+            {"type": "word_problem", "question": "Two angles on a straight line measure 60 degrees and 120 degrees. Do they add up to a straight angle?", "answer": "Yes", "operation": "60 + 120 = 180", "hint": "60 + 120 = 180. Yes, that is a straight angle!"}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "A quarter turn equals ___ degrees.", "answer": "90", "hint": "360 / 4 = 90."},
+          {"type": "multiple_choice", "question": "A 130-degree angle is:", "options": ["Acute", "Right", "Obtuse", "Straight"], "correct": 2, "hint": "130 is between 90 and 180: obtuse."},
+          {"type": "fill_in", "question": "Two angles add to a straight angle. One is 85 degrees. The other is ___.", "answer": "95", "hint": "180 - 85 = 95."},
+          {"type": "true_false", "question": "A 90-degree angle is called a right angle.", "answer": "true", "hint": "Exactly 90 degrees = right angle."},
+          {"type": "fill_in", "question": "Three angles of a triangle are 90, 45, and ___ degrees.", "answer": "45", "hint": "180 - 90 - 45 = 45."},
+          {"type": "multiple_choice", "question": "An angle of 15 degrees is:", "options": ["Acute", "Right", "Obtuse", "Straight"], "correct": 0, "hint": "15 < 90, so it is acute."},
+          {"type": "fill_in", "question": "A full rotation equals ___ degrees.", "answer": "360", "hint": "One complete turn = 360 degrees."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "angle_ace"
+      }
+    },
+    {
+      "id": "4-math-7",
+      "title": "Line Plots and Data",
+      "description": "Create and interpret line plots with fractional data, solve problems using data from line plots and tables.",
+      "lessons": [
+        {
+          "id": "4-math-7-1",
+          "title": "Reading and Creating Line Plots",
+          "type": "lesson",
+          "content": {
+            "explanation": "A line plot is a graph that shows data along a number line. Each data point is shown as an X (or dot) above the number line. Line plots make it easy to see which values are most common, least common, and how the data is spread out. To create a line plot: 1) Draw a number line. 2) Label it with the data values. 3) Place an X above each value for each time it appears.",
+            "examples": [
+              {"problem": "Students' shoe sizes: 4, 5, 4, 6, 5, 5, 4, 6. How many students wear size 5?", "answer": "3", "explanation": "Count the 5s in the data: there are 3. On the line plot, there would be 3 Xs above 5!"},
+              {"problem": "Which shoe size is most common?", "answer": "5", "explanation": "Size 5 appears 3 times, more than any other. It has the most Xs!"},
+              {"problem": "How many students total?", "answer": "8", "explanation": "Count all data points: 4,5,4,6,5,5,4,6. That is 8 students!"}
+            ],
+            "key_vocabulary": ["line plot", "data", "X", "number line", "frequency", "most common"],
+            "real_world": "A teacher could use a line plot to show how many hours each student read in a week!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Data: 2, 3, 3, 4, 3, 2, 4, 5. How many times does 3 appear?", "answer": "3", "hint": "Count the 3s: 3, 3, 3. Three times."},
+            {"type": "fill_in", "question": "Same data: 2, 3, 3, 4, 3, 2, 4, 5. What is the most common value?", "answer": "3", "hint": "3 appears most often (3 times)."},
+            {"type": "fill_in", "question": "Same data. How many data points are there in total?", "answer": "8", "hint": "Count all values: 8 total."},
+            {"type": "multiple_choice", "question": "On a line plot, what does each X represent?", "options": ["A data label", "One data point", "The title", "The number line"], "correct": 1, "hint": "Each X represents one piece of data."},
+            {"type": "fill_in", "question": "Data: 1, 1, 2, 2, 2, 3. How many Xs should be above 2 on the line plot?", "answer": "3", "hint": "2 appears 3 times."},
+            {"type": "word_problem", "question": "A line plot shows: 5 Xs above 10, 3 Xs above 11, 2 Xs above 12. How many data points total?", "answer": "10", "operation": "5 + 3 + 2", "hint": "5 + 3 + 2 = 10."},
+            {"type": "fill_in", "question": "Same line plot. Which value is least common?", "answer": "12", "hint": "12 has only 2 Xs, the fewest."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-7-2",
+          "title": "Line Plots with Fractions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Line plots can show fractional data too! If students measure pencil lengths to the nearest quarter inch, the number line might show values like 5, 5 1/4, 5 1/2, 5 3/4, and 6. Each measurement gets an X above its value. You can answer questions like: How many pencils are 5 1/2 inches long? What is the difference between the longest and shortest?",
+            "examples": [
+              {"problem": "Pencil lengths: 5 1/4, 5 1/2, 5 1/4, 5 3/4, 5 1/2, 5 1/2. How many are 5 1/2?", "answer": "3", "explanation": "Count: 5 1/2 appears 3 times. Three Xs above 5 1/2!"},
+              {"problem": "What is the most common length?", "answer": "5 1/2", "explanation": "5 1/2 appears 3 times, more than any other length!"},
+              {"problem": "What is the difference between longest and shortest?", "answer": "1/2", "explanation": "Longest: 5 3/4. Shortest: 5 1/4. Difference: 5 3/4 - 5 1/4 = 2/4 = 1/2 inch!"}
+            ],
+            "key_vocabulary": ["line plot", "fraction", "quarter inch", "half inch", "measurement", "data"],
+            "real_world": "Scientists use line plots with fractions when measuring things like plant growth or rainfall amounts!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Data: 3 1/4, 3 1/2, 3 1/4, 3, 3 1/2, 3 1/4. How many data points are 3 1/4?", "answer": "3", "hint": "Count: 3 1/4, 3 1/4, 3 1/4. Three times."},
+            {"type": "fill_in", "question": "Same data. What is the total number of data points?", "answer": "6", "hint": "Count all values: 6."},
+            {"type": "word_problem", "question": "Line plot shows ribbon lengths: 2 Xs at 1/4 ft, 4 Xs at 1/2 ft, 1 X at 3/4 ft. How many ribbons total?", "answer": "7", "operation": "2 + 4 + 1", "hint": "2 + 4 + 1 = 7 ribbons."},
+            {"type": "fill_in", "question": "Same ribbon data. What is the most common ribbon length?", "answer": "1/2", "hint": "1/2 ft has the most Xs (4)."},
+            {"type": "word_problem", "question": "Plant heights: 2 at 6 1/8 in, 3 at 6 1/4 in, 1 at 6 3/8 in. How much taller is the tallest than the shortest?", "answer": "2/8", "operation": "6 3/8 - 6 1/8", "hint": "6 3/8 - 6 1/8 = 2/8 = 1/4 inch."},
+            {"type": "multiple_choice", "question": "Which is a good use of a line plot with fractions?", "options": ["Showing favorite colors", "Showing measurements to the nearest quarter inch", "Showing names of students", "Showing dates"], "correct": 1, "hint": "Line plots with fractions are great for measurement data."},
+            {"type": "fill_in", "question": "Lengths: 4 1/2, 4 1/2, 5, 4 3/4, 5, 5. What length has the most Xs?", "answer": "5", "hint": "5 appears 3 times, the most."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-7-3",
+          "title": "Solving Problems Using Line Plots",
+          "type": "lesson",
+          "content": {
+            "explanation": "You can solve addition, subtraction, and comparison problems using data from line plots. Common questions include: What is the total of all data points? What is the difference between the most and least common values? How many data points are greater than a certain value? To answer, read the plot carefully and use the data to calculate.",
+            "examples": [
+              {"problem": "Line plot: 3 Xs at 1/4, 2 Xs at 1/2, 1 X at 3/4. What is the total of all values?", "answer": "2 1/4", "explanation": "3 x 1/4 = 3/4. 2 x 1/2 = 1. 1 x 3/4 = 3/4. Total: 3/4 + 1 + 3/4 = 2 2/4 = 2 1/2. Wait, let me recalculate: 3/4 + 4/4 + 3/4 = 10/4 = 2 2/4 = 2 1/2!"},
+              {"problem": "How many values are less than 1/2?", "answer": "3", "explanation": "Only 1/4 is less than 1/2, and there are 3 Xs above 1/4. So 3 values!"},
+              {"problem": "What is the range (difference between greatest and least)?", "answer": "1/2", "explanation": "Greatest: 3/4. Least: 1/4. Range: 3/4 - 1/4 = 2/4 = 1/2!"}
+            ],
+            "key_vocabulary": ["line plot", "total", "range", "difference", "sum", "data analysis"],
+            "real_world": "A baker might track how much flour each recipe uses on a line plot and add them up to see how much flour to buy!"
+          },
+          "practice_problems": [
+            {"type": "word_problem", "question": "Line plot: 2 Xs at 1/8, 3 Xs at 2/8, 1 X at 3/8. How many data points total?", "answer": "6", "operation": "2 + 3 + 1", "hint": "2 + 3 + 1 = 6."},
+            {"type": "word_problem", "question": "Same plot. What is the sum of all the values?", "answer": "11/8", "operation": "2*(1/8) + 3*(2/8) + 1*(3/8)", "hint": "2/8 + 6/8 + 3/8 = 11/8 or 1 3/8."},
+            {"type": "fill_in", "question": "Line plot: 4 Xs at 1/4, 2 Xs at 3/4. Range = ___", "answer": "1/2", "hint": "3/4 - 1/4 = 2/4 = 1/2."},
+            {"type": "word_problem", "question": "Heights in inches: 3 Xs at 48, 5 Xs at 49, 2 Xs at 50. How many students are taller than 48 inches?", "answer": "7", "operation": "5 + 2", "hint": "Students at 49 and 50 inches: 5 + 2 = 7."},
+            {"type": "fill_in", "question": "Same height data. How many students total?", "answer": "10", "hint": "3 + 5 + 2 = 10."},
+            {"type": "word_problem", "question": "Line plot: 1 X at 1/2, 3 Xs at 3/4, 2 Xs at 1. How many values are at least 3/4?", "answer": "5", "operation": "3 + 2", "hint": "3/4 and 1 are at least 3/4: 3 + 2 = 5."},
+            {"type": "fill_in", "question": "Data on a line plot: 6, 6, 7, 7, 7, 8. The mode (most common value) is ___.", "answer": "7", "hint": "7 appears 3 times, more than any other value."}
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "4-math-7-4",
+          "title": "Collecting and Organizing Data",
+          "type": "lesson",
+          "content": {
+            "explanation": "Before making a line plot, you need to collect and organize data. A frequency table helps you count how many times each value appears. List each unique value and make a tally mark for each time it shows up. Then count the tallies. Once organized, you can easily create a line plot or answer questions about the data.",
+            "examples": [
+              {"problem": "Organize: 2, 3, 2, 4, 3, 3, 2, 4, 5. How many unique values?", "answer": "4", "explanation": "The unique values are 2, 3, 4, and 5. That is 4 unique values!"},
+              {"problem": "Same data. Which value appears most?", "answer": "3", "explanation": "2 appears 3 times, 3 appears 3 times, 4 appears 2 times, 5 appears 1 time. 2 and 3 are tied at 3!"},
+              {"problem": "Same data. What is the range?", "answer": "3", "explanation": "Range = greatest - least = 5 - 2 = 3!"}
+            ],
+            "key_vocabulary": ["frequency table", "tally marks", "organize", "data", "count", "survey", "range"],
+            "real_world": "You could survey your classmates about how many pets they have, organize the data in a table, and display it on a line plot!"
+          },
+          "practice_problems": [
+            {"type": "fill_in", "question": "Data: 5, 6, 5, 7, 6, 5, 7, 6, 6. How many times does 6 appear?", "answer": "4", "hint": "Count the 6s: 6, 6, 6, 6. Four times."},
+            {"type": "fill_in", "question": "Same data. How many unique values are there?", "answer": "3", "hint": "The values are 5, 6, and 7. Three unique values."},
+            {"type": "fill_in", "question": "Same data. What is the range?", "answer": "2", "hint": "Range = 7 - 5 = 2."},
+            {"type": "word_problem", "question": "A class measured their hand spans. Values: 5 in, 6 in, 5 in, 7 in, 6 in, 6 in, 5 in, 7 in. How many students have a 6-inch hand span?", "answer": "3", "operation": "count 6s", "hint": "Count the 6s: there are 3."},
+            {"type": "fill_in", "question": "Same hand span data. Total number of students?", "answer": "8", "hint": "Count all values: 8."},
+            {"type": "multiple_choice", "question": "What is the first step in creating a line plot?", "options": ["Draw Xs", "Color the graph", "Organize the data", "Write the title last"], "correct": 2, "hint": "First, organize the data so you know what values to include."},
+            {"type": "word_problem", "question": "Test scores: 85, 90, 85, 95, 90, 85, 90, 90. Which score is the mode?", "answer": "90", "operation": "count most frequent", "hint": "85 appears 3 times, 90 appears 4 times, 95 appears 1 time. Mode = 90."}
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {"type": "fill_in", "question": "Data: 4, 5, 5, 6, 5, 4, 6, 7. How many Xs above 5 on a line plot?", "answer": "3", "hint": "Count 5s: three of them."},
+          {"type": "fill_in", "question": "Same data. What is the range?", "answer": "3", "hint": "7 - 4 = 3."},
+          {"type": "word_problem", "question": "Line plot: 2 Xs at 1/4, 4 Xs at 1/2, 3 Xs at 3/4. Total data points?", "answer": "9", "operation": "2 + 4 + 3", "hint": "2 + 4 + 3 = 9."},
+          {"type": "fill_in", "question": "Same line plot. Most common value?", "answer": "1/2", "hint": "1/2 has 4 Xs, the most."},
+          {"type": "word_problem", "question": "Pencil lengths: 3 at 5 1/4, 2 at 5 1/2, 1 at 5 3/4. Difference between longest and shortest?", "answer": "1/2", "operation": "5 3/4 - 5 1/4", "hint": "5 3/4 - 5 1/4 = 2/4 = 1/2 inch."},
+          {"type": "multiple_choice", "question": "A frequency table shows how many times each value:", "options": ["Changes", "Appears", "Disappears", "Grows"], "correct": 1, "hint": "Frequency = how many times a value appears."},
+          {"type": "fill_in", "question": "Data: 10, 10, 11, 12, 11, 10, 12, 11, 11. The mode is ___.", "answer": "11", "hint": "10 appears 3 times, 11 appears 4 times, 12 appears 2 times. Mode = 11."}
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "data_wizard"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2002 @@
+{
+  "grade": 8,
+  "subject": "science",
+  "units": [
+    {
+      "id": "8-sci-1",
+      "title": "Advanced Cells: Mitosis & DNA",
+      "description": "Dive deeper into cell biology. Learn how cells divide through mitosis to grow and repair, and explore how DNA replicates and codes for proteins.",
+      "lessons": [
+        {
+          "id": "8-sci-1-1",
+          "title": "The Cell Cycle",
+          "type": "lesson",
+          "content": {
+            "explanation": "The cell cycle is the series of events that take place in a cell leading to its division and replication. It consists of three main phases: interphase, mitosis, and cytokinesis. Interphase is the longest phase, taking up about 90% of the cell cycle. During interphase, the cell grows, carries out its normal functions, and prepares for division. Interphase itself has three sub-phases: G1 (cell growth and normal activity), S phase (DNA synthesis — the cell copies all its DNA), and G2 (preparation for mitosis — the cell makes proteins and organelles needed for division). After interphase, the cell enters mitosis, during which the nucleus divides and the replicated DNA is separated into two identical sets. Finally, cytokinesis divides the cytoplasm, producing two identical daughter cells. The cell cycle is tightly regulated by checkpoints that ensure the cell is ready for the next stage. Errors in cell cycle regulation can lead to uncontrolled cell division — this is what causes cancer. Cancer cells ignore the normal checkpoints and keep dividing.",
+            "examples": [
+              {
+                "problem": "During which phase of interphase is DNA copied?",
+                "answer": "S phase (Synthesis phase)",
+                "explanation": "The S stands for Synthesis — during this phase, the cell synthesizes (makes) a complete copy of all its DNA so that each daughter cell will receive a full set."
+              },
+              {
+                "problem": "What happens when cell cycle regulation fails?",
+                "answer": "Cells may divide uncontrollably, which can lead to cancer.",
+                "explanation": "Normal cells have checkpoints that stop division if something is wrong. Cancer cells bypass these checkpoints and keep dividing, forming tumors."
+              }
+            ],
+            "key_vocabulary": ["cell cycle", "interphase", "mitosis", "cytokinesis", "G1 phase", "S phase", "G2 phase", "DNA synthesis", "daughter cells", "checkpoint", "cancer"],
+            "real_world": "Your body produces about 3.8 million cells every second through the cell cycle. Most of these replace old, worn-out, or damaged cells — like skin cells, blood cells, and the cells lining your digestive tract."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which phase of the cell cycle is the longest?",
+              "options": ["Mitosis", "Cytokinesis", "Interphase", "S phase"],
+              "correct": 2,
+              "hint": "This phase takes up about 90% of the cell cycle."
+            },
+            {
+              "type": "fill_in",
+              "question": "During the ___ phase of interphase, the cell copies all of its DNA.",
+              "answer": "S",
+              "hint": "S stands for Synthesis — the cell is synthesizing new DNA."
+            },
+            {
+              "type": "true_false",
+              "question": "Cytokinesis divides the nucleus.",
+              "answer": false,
+              "hint": "Mitosis divides the nucleus. Cytokinesis divides the cytoplasm."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What can result from errors in cell cycle regulation?",
+              "options": ["Normal growth", "Cancer", "Cell death only", "DNA replication"],
+              "correct": 1,
+              "hint": "When cells ignore checkpoints and divide uncontrollably..."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the correct order of the cell cycle?",
+              "options": ["Mitosis → Interphase → Cytokinesis", "Interphase → Mitosis → Cytokinesis", "Cytokinesis → Mitosis → Interphase", "Interphase → Cytokinesis → Mitosis"],
+              "correct": 1,
+              "hint": "First the cell grows and prepares, then the nucleus divides, then the cytoplasm divides."
+            },
+            {
+              "type": "fill_in",
+              "question": "The division of the cytoplasm to form two separate cells is called ___.",
+              "answer": "cytokinesis",
+              "hint": "'Cyto' means cell and 'kinesis' means movement."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-1-2",
+          "title": "Mitosis: Stages of Cell Division",
+          "type": "lesson",
+          "content": {
+            "explanation": "Mitosis is the process by which a cell's nucleus divides to produce two genetically identical nuclei. It has four stages: prophase, metaphase, anaphase, and telophase (remember PMAT). During prophase, the chromatin (loosely coiled DNA) condenses into visible chromosomes. Each chromosome consists of two identical sister chromatids joined at a point called the centromere. The nuclear membrane begins to break down, and spindle fibers form from the centrioles. During metaphase, the chromosomes line up in the middle (metaphase plate) of the cell, attached to spindle fibers at their centromeres. This is sometimes remembered as 'Middle = Metaphase.' During anaphase, the sister chromatids are pulled apart to opposite ends of the cell by the spindle fibers. The centromeres split and each chromatid is now considered an individual chromosome. During telophase, a new nuclear membrane forms around each set of chromosomes, the chromosomes begin to uncoil, and the spindle fibers break down. After telophase, cytokinesis completes the division. In animal cells, the membrane pinches inward (cleavage furrow). In plant cells, a cell plate forms down the middle.",
+            "examples": [
+              {
+                "problem": "During which phase do chromosomes line up in the middle of the cell?",
+                "answer": "Metaphase",
+                "explanation": "Remember: M = Middle. During metaphase, chromosomes align along the cell's equator (metaphase plate), attached to spindle fibers."
+              },
+              {
+                "problem": "What happens during anaphase?",
+                "answer": "Sister chromatids are pulled apart to opposite sides of the cell.",
+                "explanation": "Spindle fibers shorten and pull the chromatids apart. Remember: A = Apart. The chromatids move to opposite poles of the cell."
+              }
+            ],
+            "key_vocabulary": ["mitosis", "prophase", "metaphase", "anaphase", "telophase", "chromosome", "sister chromatids", "centromere", "spindle fibers", "centriole", "cleavage furrow", "cell plate"],
+            "real_world": "When you get a paper cut, your body uses mitosis to produce new skin cells that close the wound. A small cut can heal in a few days because cells divide rapidly through mitosis."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the correct order of the stages of mitosis?",
+              "options": ["Metaphase, Prophase, Anaphase, Telophase", "Prophase, Metaphase, Anaphase, Telophase", "Anaphase, Telophase, Prophase, Metaphase", "Telophase, Anaphase, Metaphase, Prophase"],
+              "correct": 1,
+              "hint": "Remember PMAT: Prophase, Metaphase, Anaphase, Telophase."
+            },
+            {
+              "type": "fill_in",
+              "question": "During ___, the chromosomes condense and the nuclear membrane begins to break down.",
+              "answer": "prophase",
+              "hint": "It's the first stage of mitosis — 'pro' means before or first."
+            },
+            {
+              "type": "true_false",
+              "question": "During anaphase, chromosomes line up in the middle of the cell.",
+              "answer": false,
+              "hint": "That's metaphase (M = Middle). During anaphase, chromatids are pulled apart (A = Apart)."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What structure holds sister chromatids together?",
+              "options": ["Spindle fiber", "Centriole", "Centromere", "Cell plate"],
+              "correct": 2,
+              "hint": "It's the point where the two chromatids are joined."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How does cytokinesis differ in plant and animal cells?",
+              "options": ["It doesn't differ", "Animal cells form a cell plate; plant cells pinch inward", "Animal cells pinch inward; plant cells form a cell plate", "Only animal cells undergo cytokinesis"],
+              "correct": 2,
+              "hint": "Plant cells have a rigid cell wall, so they can't pinch inward."
+            },
+            {
+              "type": "fill_in",
+              "question": "The result of mitosis is two genetically ___ daughter cells.",
+              "answer": "identical",
+              "hint": "Each daughter cell gets an exact copy of the parent's DNA."
+            },
+            {
+              "type": "true_false",
+              "question": "Spindle fibers pull sister chromatids apart during anaphase.",
+              "answer": true,
+              "hint": "The spindle fibers shorten, pulling chromatids to opposite poles."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-1-3",
+          "title": "DNA Replication",
+          "type": "lesson",
+          "content": {
+            "explanation": "Before a cell can divide, it must copy all of its DNA so that each daughter cell receives a complete set of genetic instructions. This process is called DNA replication and occurs during the S phase of interphase. DNA replication follows several steps. First, the enzyme helicase unwinds and separates the two strands of the DNA double helix by breaking the hydrogen bonds between the base pairs, creating a replication fork that looks like a zipper being unzipped. Each separated strand then serves as a template for building a new complementary strand. The enzyme DNA polymerase reads the template strand and adds the correct complementary nucleotides one by one: A pairs with T, and G pairs with C. Because each new DNA molecule consists of one original strand and one newly synthesized strand, the process is called semiconservative replication. The result is two identical DNA molecules, each containing one old strand and one new strand. DNA replication is remarkably accurate, but errors (mutations) occasionally occur. Cells have proofreading enzymes that catch and correct most errors, but some slip through — about 1 error per billion base pairs copied.",
+            "examples": [
+              {
+                "problem": "Why is DNA replication called 'semiconservative'?",
+                "answer": "Because each new DNA molecule has one original (conserved) strand and one newly made strand.",
+                "explanation": "'Semi' means half — half of the original DNA is conserved in each new molecule. This was proven by the Meselson-Stahl experiment in 1958."
+              },
+              {
+                "problem": "What enzyme separates the two DNA strands during replication?",
+                "answer": "Helicase",
+                "explanation": "Helicase unwinds the double helix by breaking the hydrogen bonds between base pairs, like unzipping a zipper. 'Helicase' relates to 'helix.'"
+              }
+            ],
+            "key_vocabulary": ["DNA replication", "helicase", "DNA polymerase", "replication fork", "semiconservative", "template strand", "complementary", "nucleotide", "proofreading"],
+            "real_world": "Your body copies about 6 billion base pairs of DNA every time a cell divides — and it does this in just a few hours with an error rate of about 1 in a billion. That's like copying the entire Encyclopedia Britannica 600 times with only one typo!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "During which phase of the cell cycle does DNA replication occur?",
+              "options": ["G1", "S phase", "G2", "Mitosis"],
+              "correct": 1,
+              "hint": "S stands for Synthesis — the cell synthesizes new DNA."
+            },
+            {
+              "type": "fill_in",
+              "question": "The enzyme that unwinds the DNA double helix is called ___.",
+              "answer": "helicase",
+              "hint": "Its name is related to 'helix' — the shape of DNA."
+            },
+            {
+              "type": "true_false",
+              "question": "In semiconservative replication, both strands of the new DNA are newly synthesized.",
+              "answer": false,
+              "hint": "'Semi' means half — each new DNA has one old strand and one new strand."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which enzyme adds complementary nucleotides to the template strand?",
+              "options": ["Helicase", "DNA polymerase", "RNA polymerase", "Ligase"],
+              "correct": 1,
+              "hint": "This enzyme 'builds' (polymerizes) the new DNA strand."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If a template strand reads ATCGGTA, what will the complementary strand read?",
+              "options": ["ATCGGTA", "TAGCCAT", "UAGCCAU", "GCATTCG"],
+              "correct": 1,
+              "hint": "A pairs with T, T pairs with A, C pairs with G, G pairs with C."
+            },
+            {
+              "type": "fill_in",
+              "question": "The result of DNA replication is ___ identical DNA molecules.",
+              "answer": "two",
+              "hint": "Each daughter cell needs a complete copy, so the original DNA is duplicated."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-1-4",
+          "title": "Protein Synthesis: From DNA to Protein",
+          "type": "lesson",
+          "content": {
+            "explanation": "DNA contains the instructions for making proteins, which carry out most of the cell's functions. The process of converting DNA instructions into proteins is called protein synthesis, and it occurs in two main steps: transcription and translation. During transcription, which takes place in the nucleus, the DNA code is copied into a messenger RNA (mRNA) molecule. RNA is similar to DNA but is single-stranded, uses the sugar ribose instead of deoxyribose, and uses uracil (U) instead of thymine (T). The enzyme RNA polymerase reads the DNA template strand and builds the mRNA strand using complementary base pairing: A pairs with U (in RNA), T pairs with A, G pairs with C, C pairs with G. The mRNA then leaves the nucleus and travels to a ribosome in the cytoplasm. During translation, the ribosome reads the mRNA code in groups of three bases called codons. Each codon specifies one amino acid. Transfer RNA (tRNA) molecules carry amino acids to the ribosome and match their anticodon to the mRNA codon. The amino acids are linked together in a chain to form a protein. The sequence of codons in the mRNA determines the sequence of amino acids, which determines the shape and function of the protein.",
+            "examples": [
+              {
+                "problem": "If a DNA strand reads TAC GGA AAT, what would the mRNA strand be?",
+                "answer": "AUG CCU UUA",
+                "explanation": "In RNA, T→A, A→U, C→G, G→C. So TAC→AUG, GGA→CCU, AAT→UUA. Note that RNA uses U instead of T."
+              },
+              {
+                "problem": "What is a codon?",
+                "answer": "A group of three mRNA bases that codes for one amino acid.",
+                "explanation": "With 4 bases taken 3 at a time, there are 64 possible codons — enough to code for all 20 amino acids plus start and stop signals."
+              }
+            ],
+            "key_vocabulary": ["protein synthesis", "transcription", "translation", "mRNA", "tRNA", "RNA polymerase", "codon", "anticodon", "amino acid", "ribosome", "uracil"],
+            "real_world": "When your body fights an infection, it uses protein synthesis to build antibodies — proteins that specifically target and neutralize the invading germs. Your DNA has instructions for thousands of different antibodies."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Where does transcription occur?",
+              "options": ["Ribosome", "Cytoplasm", "Nucleus", "Cell membrane"],
+              "correct": 2,
+              "hint": "Transcription copies DNA to mRNA — DNA is in this organelle."
+            },
+            {
+              "type": "fill_in",
+              "question": "In RNA, the base ___ replaces thymine found in DNA.",
+              "answer": "uracil",
+              "hint": "Its abbreviation is U, and it pairs with adenine."
+            },
+            {
+              "type": "true_false",
+              "question": "A codon is a group of two mRNA bases.",
+              "answer": false,
+              "hint": "Codons consist of three bases, not two."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the role of tRNA during translation?",
+              "options": ["It copies DNA", "It carries amino acids to the ribosome", "It unwinds DNA", "It divides the cell"],
+              "correct": 1,
+              "hint": "Transfer RNA 'transfers' amino acids to where proteins are being built."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "If the mRNA codon is AUG, what is the tRNA anticodon?",
+              "options": ["AUG", "UAC", "TAC", "GUA"],
+              "correct": 1,
+              "hint": "Anticodons are complementary: A-U, U-A, G-C."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process of building a protein from an mRNA code at a ribosome is called ___.",
+              "answer": "translation",
+              "hint": "The mRNA code is 'translated' into a sequence of amino acids."
+            },
+            {
+              "type": "true_false",
+              "question": "mRNA is double-stranded like DNA.",
+              "answer": false,
+              "hint": "mRNA is single-stranded, while DNA is double-stranded."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-1-5",
+          "title": "Meiosis and Sexual Reproduction",
+          "type": "lesson",
+          "content": {
+            "explanation": "While mitosis produces identical cells for growth and repair, meiosis is a special type of cell division that produces sex cells (gametes) — sperm in males and eggs in females. The key difference is that meiosis produces four genetically unique cells, each with half the number of chromosomes as the parent cell. Human body cells have 46 chromosomes (23 pairs) — this is the diploid number (2n). Gametes have only 23 chromosomes — the haploid number (n). When a sperm (n=23) fertilizes an egg (n=23), the resulting zygote has the full diploid number (2n=46). Meiosis involves two rounds of division: meiosis I and meiosis II. During meiosis I, homologous chromosomes (matching pairs) are separated. This is when crossing over occurs — homologous chromosomes exchange segments of DNA, creating new combinations of alleles. During meiosis II, sister chromatids are separated (similar to mitosis). The result is four haploid daughter cells, each genetically unique due to crossing over and the random assortment of chromosomes. This genetic variation is essential for evolution by natural selection.",
+            "examples": [
+              {
+                "problem": "How many chromosomes do human gametes have?",
+                "answer": "23 (haploid number)",
+                "explanation": "Body cells have 46 chromosomes (diploid). Meiosis cuts this in half so that when two gametes combine during fertilization, the offspring has the correct number: 23 + 23 = 46."
+              },
+              {
+                "problem": "What is the key difference between mitosis and meiosis?",
+                "answer": "Mitosis produces 2 identical diploid cells; meiosis produces 4 unique haploid cells.",
+                "explanation": "Mitosis is for growth and repair. Meiosis is for producing gametes (sex cells) with genetic variation."
+              }
+            ],
+            "key_vocabulary": ["meiosis", "gamete", "haploid", "diploid", "crossing over", "homologous chromosomes", "zygote", "fertilization", "sperm", "egg", "genetic variation"],
+            "real_world": "The genetic shuffling that occurs during meiosis is why siblings (except identical twins) look different from each other, even though they have the same parents. Each child receives a unique combination of their parents' genes."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "How many cells result from meiosis?",
+              "options": ["1", "2", "4", "8"],
+              "correct": 2,
+              "hint": "There are two rounds of division."
+            },
+            {
+              "type": "fill_in",
+              "question": "Cells with half the chromosome number are called ___ cells.",
+              "answer": "haploid",
+              "hint": "'Haploid' means having a single set of chromosomes (n)."
+            },
+            {
+              "type": "true_false",
+              "question": "Meiosis produces genetically identical cells.",
+              "answer": false,
+              "hint": "That's mitosis. Meiosis produces genetically unique cells due to crossing over and random assortment."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When does crossing over occur?",
+              "options": ["Mitosis", "Meiosis I", "Meiosis II", "Interphase"],
+              "correct": 1,
+              "hint": "This is when homologous chromosomes exchange DNA segments."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A human sperm cell has ___ chromosomes.",
+              "options": ["46", "23", "92", "12"],
+              "correct": 1,
+              "hint": "Gametes are haploid — they have half the diploid number."
+            },
+            {
+              "type": "fill_in",
+              "question": "When a sperm fertilizes an egg, the resulting cell is called a ___.",
+              "answer": "zygote",
+              "hint": "This is the first cell of a new organism, with a full set of chromosomes."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "During which phase of interphase is DNA replicated?",
+            "options": ["G1", "S phase", "G2", "M phase"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The correct order of mitosis stages is PMAT: Prophase, Metaphase, Anaphase, Telophase.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What enzyme unwinds the DNA double helix during replication?",
+            "options": ["DNA polymerase", "RNA polymerase", "Helicase", "Ligase"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "In RNA, which base replaces thymine?",
+            "options": ["Adenine", "Guanine", "Cytosine", "Uracil"],
+            "correct": 3
+          },
+          {
+            "type": "true_false",
+            "question": "Meiosis produces two identical diploid cells.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A codon is a group of how many mRNA bases?",
+            "options": ["1", "2", "3", "4"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the result of meiosis?",
+            "options": ["2 identical diploid cells", "4 unique haploid cells", "1 large cell", "2 haploid cells"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "DNA replication is semiconservative because each new DNA molecule has one old strand and one new strand.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "During which stage of mitosis do chromosomes line up in the middle of the cell?",
+            "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+            "correct": 1
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "cell_division_master"
+      }
+    },
+    {
+      "id": "8-sci-2",
+      "title": "Human Body: Nervous, Endocrine & Immune Systems",
+      "description": "Explore the body's communication and defense networks. Learn how the nervous system sends electrical signals, how hormones regulate body functions, and how the immune system fights disease.",
+      "lessons": [
+        {
+          "id": "8-sci-2-1",
+          "title": "The Nervous System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The nervous system is your body's command and communication center. It detects changes in the environment, processes information, and coordinates responses. It consists of two main parts: the central nervous system (CNS) — made up of the brain and spinal cord — and the peripheral nervous system (PNS) — all the nerves that branch out from the CNS to the rest of the body. The brain is the control center, divided into regions with different functions: the cerebrum handles thinking, memory, and voluntary movements; the cerebellum coordinates balance and coordination; and the brain stem controls involuntary functions like breathing, heartbeat, and digestion. The spinal cord is a bundle of nerves that carries signals between the brain and the body. The basic unit of the nervous system is the neuron (nerve cell). Neurons transmit electrical signals called nerve impulses. A neuron has three main parts: the cell body (contains the nucleus), dendrites (receive signals from other neurons), and the axon (sends signals to other neurons or muscles). Signals pass from one neuron to the next across a tiny gap called a synapse, using chemical messengers called neurotransmitters.",
+            "examples": [
+              {
+                "problem": "What is the function of dendrites?",
+                "answer": "Dendrites receive signals from other neurons and carry them toward the cell body.",
+                "explanation": "Think of dendrites as antennae — they branch out to pick up signals. The axon then sends the signal onward."
+              },
+              {
+                "problem": "What is the difference between the CNS and PNS?",
+                "answer": "The CNS is the brain and spinal cord; the PNS is all the other nerves throughout the body.",
+                "explanation": "The CNS processes information and makes decisions. The PNS carries signals between the CNS and the rest of the body."
+              }
+            ],
+            "key_vocabulary": ["nervous system", "CNS", "PNS", "brain", "spinal cord", "neuron", "dendrite", "axon", "synapse", "neurotransmitter", "cerebrum", "cerebellum", "brain stem"],
+            "real_world": "When you touch a hot stove, sensory neurons send a pain signal to your spinal cord, which triggers a reflex arc — your hand pulls away before the signal even reaches your brain. Reflexes protect you from injury."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What are the two main parts of the central nervous system?",
+              "options": ["Heart and lungs", "Brain and spinal cord", "Nerves and muscles", "Skull and spine"],
+              "correct": 1,
+              "hint": "The CNS is the main processing center of the nervous system."
+            },
+            {
+              "type": "fill_in",
+              "question": "The part of the neuron that receives signals from other neurons is the ___.",
+              "answer": "dendrite",
+              "hint": "These branch-like structures act like antennae for the neuron."
+            },
+            {
+              "type": "true_false",
+              "question": "Neurotransmitters carry signals across the synapse between neurons.",
+              "answer": true,
+              "hint": "Electrical signals can't jump across the gap, so chemical messengers bridge it."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which part of the brain controls thinking and memory?",
+              "options": ["Cerebellum", "Brain stem", "Cerebrum", "Spinal cord"],
+              "correct": 2,
+              "hint": "It's the largest part of the brain."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does the brain stem control?",
+              "options": ["Voluntary movements", "Memory", "Involuntary functions like breathing and heartbeat", "Balance"],
+              "correct": 2,
+              "hint": "These are things your body does without you thinking about them."
+            },
+            {
+              "type": "fill_in",
+              "question": "The tiny gap between two neurons is called a ___.",
+              "answer": "synapse",
+              "hint": "Neurotransmitters carry the signal across this gap."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-2-2",
+          "title": "The Endocrine System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The endocrine system is a network of glands that produce chemical messengers called hormones. Hormones travel through the bloodstream to target cells throughout the body, regulating growth, metabolism, reproduction, mood, and many other functions. Unlike the nervous system, which sends fast electrical signals, the endocrine system works more slowly but has longer-lasting effects. Key glands include: the pituitary gland (the 'master gland' in the brain that controls other glands and produces growth hormone), the thyroid (in the neck, regulates metabolism and energy with thyroid hormones), the adrenal glands (on top of the kidneys, produce adrenaline for the 'fight or flight' response and cortisol for stress), the pancreas (produces insulin to regulate blood sugar), and the reproductive glands — ovaries in females (produce estrogen) and testes in males (produce testosterone). Hormones work like a lock and key — each hormone fits only specific receptors on target cells. Feedback loops regulate hormone levels: when a hormone level gets too high, the body reduces production; when it gets too low, production increases. This is called negative feedback and is similar to how a thermostat works.",
+            "examples": [
+              {
+                "problem": "Why is the pituitary gland called the 'master gland'?",
+                "answer": "Because it controls many other endocrine glands by releasing hormones that signal them to produce their own hormones.",
+                "explanation": "The pituitary gland, located at the base of the brain, produces hormones like growth hormone and also sends chemical signals to the thyroid, adrenal glands, and reproductive glands."
+              },
+              {
+                "problem": "What hormone does the pancreas produce and what does it do?",
+                "answer": "Insulin — it regulates blood sugar levels by helping cells absorb glucose.",
+                "explanation": "After you eat, blood sugar rises. The pancreas releases insulin, which tells cells to absorb glucose. In diabetes, this system doesn't work properly."
+              }
+            ],
+            "key_vocabulary": ["endocrine system", "hormone", "gland", "pituitary gland", "thyroid", "adrenal glands", "pancreas", "insulin", "adrenaline", "negative feedback", "target cell", "receptor"],
+            "real_world": "When you're scared or excited, your adrenal glands release adrenaline (epinephrine). This hormone increases your heart rate, dilates your pupils, and gives you a burst of energy — the 'fight or flight' response that evolved to help our ancestors survive dangerous situations."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What do endocrine glands produce?",
+              "options": ["Nerve impulses", "Hormones", "Blood cells", "Antibodies"],
+              "correct": 1,
+              "hint": "These chemical messengers travel through the bloodstream."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ gland is called the 'master gland' because it controls other endocrine glands.",
+              "answer": "pituitary",
+              "hint": "It's located at the base of the brain."
+            },
+            {
+              "type": "true_false",
+              "question": "The endocrine system sends signals faster than the nervous system.",
+              "answer": false,
+              "hint": "The nervous system uses fast electrical signals; the endocrine system uses slower hormones in the blood."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which gland produces insulin to regulate blood sugar?",
+              "options": ["Thyroid", "Adrenal gland", "Pancreas", "Pituitary"],
+              "correct": 2,
+              "hint": "Problems with this gland can lead to diabetes."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the 'fight or flight' hormone?",
+              "options": ["Insulin", "Growth hormone", "Adrenaline (epinephrine)", "Estrogen"],
+              "correct": 2,
+              "hint": "It's released by the adrenal glands during stress or danger."
+            },
+            {
+              "type": "fill_in",
+              "question": "The process where the body reduces hormone production when levels are too high is called ___ feedback.",
+              "answer": "negative",
+              "hint": "It's like a thermostat turning off the heater when the room is warm enough."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-2-3",
+          "title": "The Immune System",
+          "type": "lesson",
+          "content": {
+            "explanation": "The immune system is your body's defense against pathogens — disease-causing organisms like bacteria, viruses, fungi, and parasites. It has three lines of defense. The first line consists of physical and chemical barriers: skin blocks pathogens from entering, mucus in your nose and throat traps germs, stomach acid kills many bacteria, and tears contain enzymes that destroy bacteria. The second line of defense is the inflammatory response. When pathogens break through barriers, the body responds with inflammation — increased blood flow brings white blood cells to the area, causing redness, swelling, and warmth. Fever is also part of this response, as higher body temperature helps fight infection. The third line is the adaptive immune system, which targets specific pathogens. White blood cells called B cells produce antibodies — proteins shaped to lock onto specific antigens (molecules on the pathogen's surface). Once the body has fought a pathogen, memory cells 'remember' it so the response is faster next time. This is called immunity. Vaccines work by introducing weakened or inactive pathogens (or parts of them) to trigger antibody production without causing disease, creating immunity.",
+            "examples": [
+              {
+                "problem": "How do vaccines create immunity?",
+                "answer": "They introduce weakened or inactive pathogens, stimulating the immune system to produce antibodies and memory cells without causing disease.",
+                "explanation": "When you're vaccinated, your body learns to recognize the pathogen. If you encounter the real pathogen later, memory cells quickly produce antibodies to fight it."
+              },
+              {
+                "problem": "What is the difference between the first and third line of defense?",
+                "answer": "The first line (skin, mucus) is non-specific and blocks all pathogens; the third line (antibodies) targets specific pathogens.",
+                "explanation": "Your skin doesn't distinguish between different germs — it blocks them all. The adaptive immune system, however, produces antibodies customized to fight specific invaders."
+              }
+            ],
+            "key_vocabulary": ["immune system", "pathogen", "white blood cell", "antibody", "antigen", "B cell", "T cell", "memory cell", "vaccine", "immunity", "inflammation", "first line of defense"],
+            "real_world": "When you get a flu vaccine each year, it introduces your immune system to the expected flu strains. Your body makes antibodies and memory cells, so if you encounter the real virus, your immune system is already prepared."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is part of the body's first line of defense?",
+              "options": ["White blood cells", "Antibodies", "Skin", "Memory cells"],
+              "correct": 2,
+              "hint": "It's a physical barrier that prevents pathogens from entering your body."
+            },
+            {
+              "type": "fill_in",
+              "question": "Proteins produced by B cells that target specific pathogens are called ___.",
+              "answer": "antibodies",
+              "hint": "They lock onto antigens on the pathogen's surface."
+            },
+            {
+              "type": "true_false",
+              "question": "Vaccines cause the disease they protect against.",
+              "answer": false,
+              "hint": "Vaccines use weakened or inactive pathogens — they can't cause the actual disease."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the role of memory cells?",
+              "options": ["They cause fever", "They remember pathogens for a faster response in the future", "They produce mucus", "They break down food"],
+              "correct": 1,
+              "hint": "This is why you usually don't get the same illness twice."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is a pathogen?",
+              "options": ["A white blood cell", "A disease-causing organism", "An antibody", "A type of vaccine"],
+              "correct": 1,
+              "hint": "Bacteria, viruses, and fungi that cause disease are examples."
+            },
+            {
+              "type": "fill_in",
+              "question": "The molecules on a pathogen's surface that antibodies recognize are called ___.",
+              "answer": "antigens",
+              "hint": "Antibodies are shaped to lock onto these specific molecules."
+            },
+            {
+              "type": "true_false",
+              "question": "Fever is part of the body's second line of defense.",
+              "answer": true,
+              "hint": "Higher body temperature helps fight infection and is part of the inflammatory response."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-2-4",
+          "title": "Nervous and Endocrine Systems Working Together",
+          "type": "lesson",
+          "content": {
+            "explanation": "The nervous and endocrine systems work together to maintain homeostasis — the body's stable internal environment. The hypothalamus, a small region of the brain, is the key link between the two systems. It receives information from the nervous system about conditions inside and outside the body, and it controls the pituitary gland, which regulates most other endocrine glands. For example, when you're stressed, the hypothalamus signals the pituitary, which signals the adrenal glands to release cortisol and adrenaline. When you're cold, the hypothalamus detects the temperature drop (via the nervous system), triggers shivering (nervous system), and can also adjust your thyroid hormones to increase heat production (endocrine system). Blood sugar regulation is another example: after eating, the nervous system detects rising blood sugar and the pancreas releases insulin (endocrine). If blood sugar drops too low, the pancreas releases glucagon, which signals the liver to release stored glucose. The two systems complement each other: the nervous system provides fast, short-term responses, while the endocrine system provides slower, longer-lasting regulation.",
+            "examples": [
+              {
+                "problem": "What is homeostasis?",
+                "answer": "The maintenance of stable internal conditions in the body.",
+                "explanation": "Your body constantly adjusts to keep things like temperature, blood sugar, and pH within normal ranges. Both the nervous and endocrine systems work together to achieve this."
+              },
+              {
+                "problem": "How does the hypothalamus connect the nervous and endocrine systems?",
+                "answer": "It receives nerve signals about body conditions and controls the pituitary gland, which regulates other endocrine glands.",
+                "explanation": "The hypothalamus is like a translator between the two systems — it takes nervous system information and converts it into endocrine responses."
+              }
+            ],
+            "key_vocabulary": ["homeostasis", "hypothalamus", "feedback loop", "blood sugar regulation", "insulin", "glucagon", "cortisol", "thermoregulation"],
+            "real_world": "When you exercise, your nervous system increases heart rate immediately (fast response), while your endocrine system releases hormones that adjust metabolism over the next several hours (slow, lasting response). Both systems ensure your body meets its changing needs."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is homeostasis?",
+              "options": ["A disease", "The maintenance of stable internal conditions", "A type of hormone", "Cell division"],
+              "correct": 1,
+              "hint": "Think about how your body keeps temperature, blood sugar, and other conditions balanced."
+            },
+            {
+              "type": "fill_in",
+              "question": "The ___ is the brain region that links the nervous and endocrine systems.",
+              "answer": "hypothalamus",
+              "hint": "It controls the pituitary gland and receives signals from the nervous system."
+            },
+            {
+              "type": "true_false",
+              "question": "The nervous system provides slower responses than the endocrine system.",
+              "answer": false,
+              "hint": "It's the opposite — the nervous system is fast, the endocrine system is slower but longer-lasting."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "When blood sugar drops too low, which hormone signals the liver to release glucose?",
+              "options": ["Insulin", "Adrenaline", "Glucagon", "Cortisol"],
+              "correct": 2,
+              "hint": "This hormone has the opposite effect of insulin."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do the nervous and endocrine systems complement each other?",
+              "options": ["They do the same thing at the same speed", "Nervous provides fast, short-term responses; endocrine provides slower, longer-lasting ones", "Only the nervous system maintains homeostasis", "They work independently without coordination"],
+              "correct": 1,
+              "hint": "Think fast vs. slow, short-term vs. long-lasting."
+            },
+            {
+              "type": "true_false",
+              "question": "The hypothalamus controls the pituitary gland.",
+              "answer": true,
+              "hint": "The hypothalamus sends signals to the pituitary, which then regulates other endocrine glands."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the basic unit of the nervous system?",
+            "options": ["Hormone", "Neuron", "Antibody", "Platelet"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The endocrine system uses hormones that travel through the bloodstream.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is part of the body's first line of defense against pathogens?",
+            "options": ["Antibodies", "White blood cells", "Skin", "Memory cells"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What does the pituitary gland control?",
+            "options": ["Blood sugar directly", "Most other endocrine glands", "Only growth", "The immune system"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Vaccines work by introducing active, full-strength pathogens into the body.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the gap between two neurons called?",
+            "options": ["Axon", "Dendrite", "Synapse", "Nucleus"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The maintenance of stable internal conditions is called:",
+            "options": ["Photosynthesis", "Homeostasis", "Metabolism", "Immunity"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "The hypothalamus links the nervous and endocrine systems.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "body_systems_expert"
+      }
+    },
+    {
+      "id": "8-sci-3",
+      "title": "Chemical Reactions & Equations",
+      "description": "Master the language of chemistry. Learn to balance chemical equations, understand reaction rates, and explore acids, bases, and pH.",
+      "lessons": [
+        {
+          "id": "8-sci-3-1",
+          "title": "Balancing Chemical Equations",
+          "type": "lesson",
+          "content": {
+            "explanation": "A balanced chemical equation has the same number of each type of atom on both sides of the arrow, satisfying the Law of Conservation of Mass. To balance an equation, you adjust the coefficients (the numbers in front of the chemical formulas), NOT the subscripts within the formulas. Changing subscripts would change the substance itself. Here is a systematic approach: (1) Write the unbalanced equation. (2) Count the atoms of each element on both sides. (3) Start balancing with the most complex molecule or the element that appears in only one reactant and one product. (4) Add coefficients to balance atoms one element at a time. (5) Check that all elements are balanced and coefficients are in the lowest whole-number ratio. For example, to balance: H2 + O2 → H2O. Count: Left has 2H and 2O; Right has 2H and 1O. Oxygen is unbalanced, so put a 2 in front of H2O: H2 + O2 → 2H2O. Now: Left has 2H and 2O; Right has 4H and 2O. Hydrogen is unbalanced, so put a 2 in front of H2: 2H2 + O2 → 2H2O. Check: Left 4H, 2O; Right 4H, 2O. Balanced!",
+            "examples": [
+              {
+                "problem": "Balance the equation: N2 + H2 → NH3",
+                "answer": "N2 + 3H2 → 2NH3",
+                "explanation": "Start: Left has 2N, 2H; Right has 1N, 3H. Put 2 in front of NH3: N2 + H2 → 2NH3. Now: Left 2N, 2H; Right 2N, 6H. Put 3 in front of H2: N2 + 3H2 → 2NH3. Check: 2N, 6H on each side. Balanced!"
+              },
+              {
+                "problem": "Balance: Fe + O2 → Fe2O3",
+                "answer": "4Fe + 3O2 → 2Fe2O3",
+                "explanation": "Put 2 in front of Fe2O3 to get even number of O: 4Fe + 3O2 → 2Fe2O3. Check: 4Fe and 6O on each side. Balanced!"
+              }
+            ],
+            "key_vocabulary": ["balanced equation", "coefficient", "subscript", "Law of Conservation of Mass", "reactant", "product", "chemical formula"],
+            "real_world": "Chemical engineers balance equations every day when designing industrial processes. Getting the ratios wrong could mean wasted chemicals, dangerous reactions, or products that don't form correctly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "When balancing equations, what do you adjust?",
+              "options": ["Subscripts", "Coefficients", "Element symbols", "Arrow direction"],
+              "correct": 1,
+              "hint": "These are the numbers placed in front of chemical formulas."
+            },
+            {
+              "type": "fill_in",
+              "question": "In the balanced equation 2H2 + O2 → 2H2O, the coefficient in front of H2 is ___.",
+              "answer": "2",
+              "hint": "It's the number right before H2."
+            },
+            {
+              "type": "true_false",
+              "question": "You can change subscripts to balance a chemical equation.",
+              "answer": false,
+              "hint": "Changing subscripts would change the substance itself — that's not allowed."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What principle requires that chemical equations be balanced?",
+              "options": ["Law of Gravity", "Law of Conservation of Mass", "Law of Thermodynamics", "Newton's Third Law"],
+              "correct": 1,
+              "hint": "Matter cannot be created or destroyed in a chemical reaction."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In the equation _Na + Cl2 → _NaCl, what coefficients balance it?",
+              "options": ["1Na + 1Cl2 → 1NaCl", "2Na + Cl2 → 2NaCl", "Na + 2Cl2 → 2NaCl", "3Na + Cl2 → 3NaCl"],
+              "correct": 1,
+              "hint": "Cl2 has 2 chlorine atoms, so you need 2 NaCl on the right, which means 2 Na on the left."
+            },
+            {
+              "type": "true_false",
+              "question": "A balanced equation has the same number of each type of atom on both sides.",
+              "answer": true,
+              "hint": "This is the fundamental requirement for a balanced equation."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-3-2",
+          "title": "Reaction Rates and Catalysts",
+          "type": "lesson",
+          "content": {
+            "explanation": "The reaction rate is how fast reactants are converted into products in a chemical reaction. Some reactions are very fast (like an explosion), while others are very slow (like iron rusting). Several factors affect reaction rate. Temperature: increasing temperature increases reaction rate because particles move faster and collide more often with more energy. Concentration: increasing the concentration of reactants (more particles in the same space) means more frequent collisions. Surface area: breaking a solid into smaller pieces exposes more surface to react — a powder reacts faster than a solid chunk. A catalyst is a substance that speeds up a reaction without being consumed in the reaction. It works by lowering the activation energy — the minimum energy needed for a reaction to start. Enzymes are biological catalysts found in living things. Your body uses thousands of different enzymes to speed up chemical reactions necessary for life. For example, the enzyme amylase in your saliva speeds up the breakdown of starch into sugars. Without enzymes, most biological reactions would be too slow to sustain life. An inhibitor is the opposite of a catalyst — it slows down or stops a reaction.",
+            "examples": [
+              {
+                "problem": "Why does crushing a tablet make it dissolve faster than swallowing it whole?",
+                "answer": "Crushing increases the surface area, allowing more of the tablet to be exposed to the liquid at once.",
+                "explanation": "More surface area means more contact between reactants, which increases the reaction rate."
+              },
+              {
+                "problem": "What is a catalyst?",
+                "answer": "A substance that speeds up a chemical reaction without being consumed.",
+                "explanation": "Catalysts lower the activation energy needed for a reaction to start, making it easier for the reaction to occur."
+              }
+            ],
+            "key_vocabulary": ["reaction rate", "catalyst", "enzyme", "activation energy", "inhibitor", "temperature", "concentration", "surface area", "collision"],
+            "real_world": "Catalytic converters in cars use catalysts (platinum and palladium) to speed up reactions that convert toxic exhaust gases (carbon monoxide, nitrogen oxides) into less harmful substances (carbon dioxide, nitrogen, water)."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which of the following increases reaction rate?",
+              "options": ["Decreasing temperature", "Decreasing concentration", "Increasing surface area", "Adding an inhibitor"],
+              "correct": 2,
+              "hint": "More exposed surface means more area for reactions to occur."
+            },
+            {
+              "type": "fill_in",
+              "question": "A biological catalyst found in living things is called a(n) ___.",
+              "answer": "enzyme",
+              "hint": "Amylase in your saliva is an example."
+            },
+            {
+              "type": "true_false",
+              "question": "A catalyst is consumed (used up) during a reaction.",
+              "answer": false,
+              "hint": "Catalysts speed up reactions but are NOT consumed — they can be used again."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why does increasing temperature speed up a reaction?",
+              "options": ["It adds more reactants", "It makes particles move faster and collide with more energy", "It removes products", "It changes what the reactants are"],
+              "correct": 1,
+              "hint": "Faster-moving particles collide more often and with enough energy to react."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does a catalyst do to activation energy?",
+              "options": ["Increases it", "Decreases it", "Doesn't change it", "Eliminates it completely"],
+              "correct": 1,
+              "hint": "By lowering the energy barrier, reactions happen more easily."
+            },
+            {
+              "type": "fill_in",
+              "question": "A substance that slows down or stops a chemical reaction is called a(n) ___.",
+              "answer": "inhibitor",
+              "hint": "It's the opposite of a catalyst."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-3-3",
+          "title": "Acids, Bases, and pH",
+          "type": "lesson",
+          "content": {
+            "explanation": "Acids and bases are two important categories of chemical compounds. Acids are substances that produce hydrogen ions (H+) when dissolved in water. They taste sour (like lemon juice), can corrode metals, turn blue litmus paper red, and have a pH below 7. Common acids include hydrochloric acid (HCl), citric acid (in citrus fruits), and acetic acid (in vinegar). Bases are substances that produce hydroxide ions (OH-) when dissolved in water. They feel slippery, taste bitter, turn red litmus paper blue, and have a pH above 7. Common bases include sodium hydroxide (NaOH — lye), ammonia, and baking soda. The pH scale measures how acidic or basic a substance is, ranging from 0 to 14. A pH of 7 is neutral (like pure water). Below 7 is acidic (lower number = stronger acid), and above 7 is basic/alkaline (higher number = stronger base). The pH scale is logarithmic, meaning each whole number change represents a 10-fold change in acidity. For example, a pH of 3 is 10 times more acidic than a pH of 4. When an acid and a base are mixed in the right proportions, they undergo a neutralization reaction, producing water and a salt: HCl + NaOH → NaCl + H2O.",
+            "examples": [
+              {
+                "problem": "What is the pH of a neutral substance?",
+                "answer": "7",
+                "explanation": "Pure water has a pH of 7. Below 7 is acidic, above 7 is basic. The middle of the 0-14 scale is neutral."
+              },
+              {
+                "problem": "What products form when an acid reacts with a base?",
+                "answer": "Water and a salt",
+                "explanation": "This is a neutralization reaction. For example: HCl + NaOH → NaCl (salt) + H2O (water). The acid and base 'cancel each other out.'"
+              }
+            ],
+            "key_vocabulary": ["acid", "base", "pH scale", "neutral", "hydrogen ion", "hydroxide ion", "litmus paper", "neutralization", "logarithmic", "salt", "alkaline"],
+            "real_world": "Your blood pH is carefully maintained between 7.35 and 7.45. Even small changes can be life-threatening. Antacid tablets (bases) neutralize excess stomach acid (HCl) to relieve heartburn."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What is the pH range for acids?",
+              "options": ["0-6", "7", "8-14", "Only 1"],
+              "correct": 0,
+              "hint": "Acids have a pH below 7 (the neutral point)."
+            },
+            {
+              "type": "fill_in",
+              "question": "Acids produce ___ ions (H+) when dissolved in water.",
+              "answer": "hydrogen",
+              "hint": "H+ is a hydrogen atom that has lost its electron."
+            },
+            {
+              "type": "true_false",
+              "question": "A substance with a pH of 12 is an acid.",
+              "answer": false,
+              "hint": "pH above 7 is basic/alkaline. A pH of 12 is a strong base."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What does an acid-base neutralization reaction produce?",
+              "options": ["More acid", "Water and a salt", "Only water", "Only a salt"],
+              "correct": 1,
+              "hint": "HCl + NaOH → NaCl + H2O"
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The pH scale is logarithmic. This means a pH of 3 is ___ times more acidic than a pH of 4.",
+              "options": ["2", "5", "10", "100"],
+              "correct": 2,
+              "hint": "Each whole number change is a 10-fold difference."
+            },
+            {
+              "type": "fill_in",
+              "question": "Bases turn red litmus paper ___.",
+              "answer": "blue",
+              "hint": "Acids turn blue litmus red. Bases do the opposite."
+            },
+            {
+              "type": "true_false",
+              "question": "Pure water has a pH of 7 and is considered neutral.",
+              "answer": true,
+              "hint": "A pH of 7 is neither acidic nor basic."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-3-4",
+          "title": "Endothermic and Exothermic Reactions",
+          "type": "lesson",
+          "content": {
+            "explanation": "Chemical reactions involve energy changes. In an exothermic reaction, energy is released to the surroundings, usually as heat or light. The products have less energy than the reactants, and the surroundings get warmer. Examples include combustion (burning), cellular respiration, and mixing certain chemicals that feel hot. In an endothermic reaction, energy is absorbed from the surroundings. The products have more energy than the reactants, and the surroundings get cooler. Examples include photosynthesis (plants absorb light energy), melting ice, dissolving ammonium nitrate in water (used in instant cold packs), and cooking (food absorbs heat). Energy diagrams show the energy levels of reactants and products. In an exothermic reaction, the products are lower on the diagram than the reactants (energy was released). In an endothermic reaction, the products are higher (energy was absorbed). Both types of reactions require activation energy to get started — think of it as the energy 'push' needed to start the reaction, like the spark needed to light a fire. Exothermic reactions then release more energy than was needed to start them.",
+            "examples": [
+              {
+                "problem": "Is burning wood exothermic or endothermic?",
+                "answer": "Exothermic — it releases heat and light energy.",
+                "explanation": "Combustion reactions release energy. You can feel the heat from a campfire because the reaction releases more energy than it absorbs."
+              },
+              {
+                "problem": "Why do instant cold packs feel cold?",
+                "answer": "They contain a chemical that undergoes an endothermic reaction when dissolved in water, absorbing heat from the surroundings.",
+                "explanation": "The chemical (often ammonium nitrate) absorbs heat energy from your skin when it dissolves, making the pack feel cold."
+              }
+            ],
+            "key_vocabulary": ["exothermic", "endothermic", "activation energy", "energy diagram", "combustion", "released", "absorbed"],
+            "real_world": "Hand warmers contain iron powder that undergoes an exothermic oxidation reaction when exposed to air, releasing heat for hours. Cold packs use endothermic reactions — the exact opposite — to cool injuries."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "In an exothermic reaction, energy is:",
+              "options": ["Absorbed from the surroundings", "Released to the surroundings", "Neither absorbed nor released", "Created from nothing"],
+              "correct": 1,
+              "hint": "'Exo' means out — energy goes out."
+            },
+            {
+              "type": "fill_in",
+              "question": "Photosynthesis is an ___ reaction because plants absorb light energy.",
+              "answer": "endothermic",
+              "hint": "'Endo' means in — energy goes in."
+            },
+            {
+              "type": "true_false",
+              "question": "An instant cold pack uses an exothermic reaction.",
+              "answer": false,
+              "hint": "Cold packs absorb heat — that's endothermic."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "On an energy diagram for an exothermic reaction, the products are:",
+              "options": ["Higher than reactants", "At the same level as reactants", "Lower than reactants", "Not shown"],
+              "correct": 2,
+              "hint": "Energy was released, so products have less energy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is activation energy?",
+              "options": ["Energy released by a reaction", "The minimum energy needed to start a reaction", "Energy stored in products", "Energy of motion"],
+              "correct": 1,
+              "hint": "Think of it as the 'push' needed to get a reaction going, like a spark to start a fire."
+            },
+            {
+              "type": "true_false",
+              "question": "Burning fuel is an exothermic reaction.",
+              "answer": true,
+              "hint": "Combustion releases large amounts of heat and light energy."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "When balancing chemical equations, you adjust:",
+            "options": ["Subscripts", "Element symbols", "Coefficients", "The arrow"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Increasing temperature generally increases reaction rate.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the pH of a neutral solution?",
+            "options": ["0", "5", "7", "14"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A catalyst works by:",
+            "options": ["Increasing activation energy", "Lowering activation energy", "Adding more reactants", "Changing the products"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Exothermic reactions absorb energy from the surroundings.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What products form in an acid-base neutralization reaction?",
+            "options": ["An acid and a base", "Water and a salt", "A gas and a solid", "Only water"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which factor does NOT affect reaction rate?",
+            "options": ["Temperature", "Surface area", "Color of the container", "Concentration"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "Enzymes are biological catalysts.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "A substance with a pH of 2 is a:",
+            "options": ["Strong acid", "Weak acid", "Neutral substance", "Strong base"],
+            "correct": 0
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "reaction_master"
+      }
+    },
+    {
+      "id": "8-sci-4",
+      "title": "Waves: Light, Sound & Electromagnetic",
+      "description": "Explore the world of waves. Learn about sound waves, light waves, and the electromagnetic spectrum — the energy that carries information across the universe.",
+      "lessons": [
+        {
+          "id": "8-sci-4-1",
+          "title": "Properties of Waves",
+          "type": "lesson",
+          "content": {
+            "explanation": "A wave is a disturbance that transfers energy from one place to another without transferring matter. When you drop a stone in water, ripples spread outward — the water moves up and down, but it doesn't travel with the wave. Waves have several key properties. Amplitude is the height of the wave from the rest position to the crest (top) or trough (bottom). Larger amplitude means more energy. Wavelength is the distance between two consecutive crests or two consecutive troughs. Frequency is the number of complete waves that pass a point per second, measured in Hertz (Hz). One Hz means one wave per second. Wave speed is how fast the wave travels, calculated by: Speed = Wavelength x Frequency. There are two main types of waves: transverse waves, where particles move perpendicular (up and down) to the wave direction (like a wave in a rope), and longitudinal waves, where particles move parallel (back and forth) to the wave direction (like a slinky being pushed and pulled). Sound is a longitudinal wave. Light is a transverse wave.",
+            "examples": [
+              {
+                "problem": "A wave has a wavelength of 2 meters and a frequency of 5 Hz. What is its speed?",
+                "answer": "10 m/s",
+                "explanation": "Speed = Wavelength x Frequency = 2 m x 5 Hz = 10 m/s."
+              },
+              {
+                "problem": "What is the difference between transverse and longitudinal waves?",
+                "answer": "In transverse waves, particles move perpendicular to wave direction. In longitudinal waves, particles move parallel to wave direction.",
+                "explanation": "Imagine shaking a rope side to side (transverse) versus pushing a slinky back and forth (longitudinal)."
+              }
+            ],
+            "key_vocabulary": ["wave", "amplitude", "wavelength", "frequency", "Hertz", "wave speed", "transverse wave", "longitudinal wave", "crest", "trough"],
+            "real_world": "Radio stations broadcast at specific frequencies. When you tune to '98.7 FM,' you're selecting waves with a frequency of 98.7 million Hertz (megahertz). Different frequencies carry different stations."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does a wave transfer?",
+              "options": ["Matter", "Energy", "Atoms", "Molecules"],
+              "correct": 1,
+              "hint": "Waves carry energy from place to place without moving matter along with them."
+            },
+            {
+              "type": "fill_in",
+              "question": "The number of waves that pass a point per second is called the ___, measured in Hertz.",
+              "answer": "frequency",
+              "hint": "10 Hz means 10 complete waves pass per second."
+            },
+            {
+              "type": "true_false",
+              "question": "In a transverse wave, particles move parallel to the wave direction.",
+              "answer": false,
+              "hint": "That describes longitudinal waves. Transverse waves move perpendicular."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How do you calculate wave speed?",
+              "options": ["Speed = Amplitude x Frequency", "Speed = Wavelength x Frequency", "Speed = Wavelength / Frequency", "Speed = Amplitude / Wavelength"],
+              "correct": 1,
+              "hint": "Multiply how far apart the waves are by how many pass per second."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A wave with a wavelength of 4 m and frequency of 3 Hz has a speed of:",
+              "options": ["7 m/s", "12 m/s", "1.33 m/s", "0.75 m/s"],
+              "correct": 1,
+              "hint": "Speed = Wavelength x Frequency = 4 x 3."
+            },
+            {
+              "type": "fill_in",
+              "question": "The highest point of a transverse wave is called the ___, and the lowest point is the trough.",
+              "answer": "crest",
+              "hint": "Like the crest of a hill — it's the top."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-4-2",
+          "title": "Sound Waves",
+          "type": "lesson",
+          "content": {
+            "explanation": "Sound is a longitudinal wave produced by vibrating objects. When an object vibrates (like a guitar string or your vocal cords), it pushes and pulls on the air molecules around it, creating alternating areas of compression (where molecules are squeezed together) and rarefaction (where molecules are spread apart). These compressions and rarefactions travel outward from the source as a sound wave. Sound requires a medium (matter) to travel through — it cannot travel through a vacuum (empty space). That's why there is no sound in outer space. Sound travels fastest through solids (about 5,000 m/s in steel), slower through liquids (about 1,500 m/s in water), and slowest through gases (about 343 m/s in air at room temperature). The pitch of a sound is determined by its frequency — higher frequency means higher pitch. The loudness (volume) is determined by amplitude — larger amplitude means louder sound. Loudness is measured in decibels (dB). Normal conversation is about 60 dB, while sounds above 85 dB can cause hearing damage with prolonged exposure. The Doppler effect occurs when a sound source moves relative to the observer — the pitch seems higher as the source approaches and lower as it moves away.",
+            "examples": [
+              {
+                "problem": "Why can't sound travel in space?",
+                "answer": "Sound requires a medium (matter) to travel through, and space is a vacuum with no matter.",
+                "explanation": "Sound waves need air molecules (or other matter) to compress and rarify. In the vacuum of space, there are no molecules to vibrate."
+              },
+              {
+                "problem": "Why does a siren sound higher-pitched as an ambulance approaches you?",
+                "answer": "The Doppler effect — sound waves are compressed as the source approaches, increasing the frequency (pitch) you hear.",
+                "explanation": "As the ambulance moves toward you, each wave is emitted slightly closer to the previous one, compressing the wavelength and increasing the frequency you perceive."
+              }
+            ],
+            "key_vocabulary": ["sound wave", "longitudinal", "vibration", "compression", "rarefaction", "medium", "pitch", "frequency", "loudness", "amplitude", "decibels", "Doppler effect"],
+            "real_world": "Bats use echolocation — they emit high-frequency sound waves and listen for the echoes to detect objects and prey in the dark. Dolphins use a similar system underwater."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Sound is what type of wave?",
+              "options": ["Transverse", "Longitudinal", "Electromagnetic", "Surface"],
+              "correct": 1,
+              "hint": "Sound waves have compressions and rarefactions — particles move back and forth."
+            },
+            {
+              "type": "fill_in",
+              "question": "Sound travels fastest through ___ (solids, liquids, or gases).",
+              "answer": "solids",
+              "hint": "Particles are closest together in this state, allowing vibrations to transfer quickly."
+            },
+            {
+              "type": "true_false",
+              "question": "Sound can travel through a vacuum.",
+              "answer": false,
+              "hint": "Sound needs matter (a medium) to travel through. A vacuum has no matter."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The pitch of a sound is determined by its:",
+              "options": ["Amplitude", "Speed", "Frequency", "Medium"],
+              "correct": 2,
+              "hint": "Higher frequency = higher pitch."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Loudness is measured in units called:",
+              "options": ["Hertz", "Meters", "Decibels", "Newtons"],
+              "correct": 2,
+              "hint": "Normal conversation is about 60 of these units."
+            },
+            {
+              "type": "fill_in",
+              "question": "The apparent change in pitch when a sound source moves toward or away from you is the ___ effect.",
+              "answer": "Doppler",
+              "hint": "Think of how a siren changes pitch as an ambulance passes you."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-4-3",
+          "title": "Light and the Electromagnetic Spectrum",
+          "type": "lesson",
+          "content": {
+            "explanation": "Light is an electromagnetic (EM) wave — a transverse wave made of oscillating electric and magnetic fields. Unlike sound, EM waves do NOT need a medium — they can travel through the vacuum of space, which is how sunlight reaches Earth. All EM waves travel at the speed of light: about 300,000,000 m/s (3 x 10^8 m/s) in a vacuum. The electromagnetic spectrum organizes EM waves by wavelength and frequency. From longest wavelength (lowest frequency, lowest energy) to shortest wavelength (highest frequency, highest energy): radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. Visible light is the small portion of the EM spectrum that human eyes can detect. Within visible light, red has the longest wavelength and violet has the shortest. When all visible wavelengths combine, we see white light. A prism separates white light into its component colors (ROYGBIV: red, orange, yellow, green, blue, indigo, violet). Objects appear colored because they reflect certain wavelengths and absorb others — a red apple reflects red light and absorbs all other colors.",
+            "examples": [
+              {
+                "problem": "Which type of electromagnetic wave has the highest energy?",
+                "answer": "Gamma rays",
+                "explanation": "Gamma rays have the shortest wavelength and highest frequency, which means they carry the most energy. They are produced by nuclear reactions and are used in cancer treatment."
+              },
+              {
+                "problem": "Why does a banana appear yellow?",
+                "answer": "It reflects yellow wavelengths of light and absorbs all other colors.",
+                "explanation": "When white light (all colors) hits the banana, the banana's surface absorbs every color except yellow, which is reflected to your eyes."
+              }
+            ],
+            "key_vocabulary": ["electromagnetic wave", "electromagnetic spectrum", "visible light", "radio waves", "microwaves", "infrared", "ultraviolet", "X-rays", "gamma rays", "speed of light", "wavelength", "frequency"],
+            "real_world": "Your TV remote uses infrared waves. WiFi uses microwaves. Hospital X-rays use... X-rays! GPS satellites use radio waves. You're surrounded by invisible electromagnetic waves every day."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which EM wave has the longest wavelength?",
+              "options": ["Gamma rays", "X-rays", "Visible light", "Radio waves"],
+              "correct": 3,
+              "hint": "Think about the order of the EM spectrum from longest to shortest wavelength."
+            },
+            {
+              "type": "fill_in",
+              "question": "All electromagnetic waves travel at the speed of ___ in a vacuum.",
+              "answer": "light",
+              "hint": "This speed is about 300,000,000 m/s."
+            },
+            {
+              "type": "true_false",
+              "question": "Electromagnetic waves need a medium to travel through.",
+              "answer": false,
+              "hint": "Unlike sound, EM waves can travel through the vacuum of space."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What color of visible light has the shortest wavelength?",
+              "options": ["Red", "Yellow", "Green", "Violet"],
+              "correct": 3,
+              "hint": "In ROYGBIV, the shortest wavelength is at the end."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why does a red shirt appear red?",
+              "options": ["It emits red light", "It reflects red light and absorbs other colors", "It absorbs red light", "Red is its natural temperature color"],
+              "correct": 1,
+              "hint": "Objects appear the color of the light they reflect."
+            },
+            {
+              "type": "fill_in",
+              "question": "The order of visible light colors from longest to shortest wavelength is: Red, Orange, Yellow, Green, Blue, Indigo, ___.",
+              "answer": "Violet",
+              "hint": "ROYGBIV — the last color starts with V."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-4-4",
+          "title": "Reflection, Refraction, and Absorption",
+          "type": "lesson",
+          "content": {
+            "explanation": "When a wave encounters a boundary or new medium, three things can happen: reflection, refraction, or absorption. Reflection occurs when a wave bounces off a surface. The law of reflection states that the angle of incidence (incoming wave) equals the angle of reflection (outgoing wave). Smooth surfaces like mirrors produce regular reflection (clear images), while rough surfaces cause diffuse reflection (scattered light, no clear image). Refraction is the bending of a wave as it passes from one medium to another at an angle. This happens because waves travel at different speeds in different materials. Light slows down when it enters a denser medium (like glass or water), causing it to bend toward the normal line (perpendicular to the surface). This is why a straw in a glass of water appears bent — the light refracts as it passes from water to air. Lenses use refraction to focus or spread light: convex lenses (thicker in the middle) converge light and are used in magnifying glasses and telescopes; concave lenses (thinner in the middle) diverge light and are used to correct nearsightedness. Absorption occurs when a wave's energy is taken in by the material. Dark colors absorb more light energy (converting it to heat), which is why black clothes feel hotter in sunlight than white clothes.",
+            "examples": [
+              {
+                "problem": "Why does a straw in water appear bent?",
+                "answer": "Light refracts (bends) as it passes from water to air because it changes speed.",
+                "explanation": "Light travels slower in water than in air. When it exits the water at an angle, it speeds up and bends, making the straw appear displaced."
+              },
+              {
+                "problem": "What does the law of reflection state?",
+                "answer": "The angle of incidence equals the angle of reflection.",
+                "explanation": "When light hits a mirror at 30 degrees to the normal, it reflects at 30 degrees on the other side of the normal."
+              }
+            ],
+            "key_vocabulary": ["reflection", "refraction", "absorption", "law of reflection", "angle of incidence", "angle of reflection", "normal line", "convex lens", "concave lens", "diffuse reflection"],
+            "real_world": "Fiber optic cables use total internal reflection to transmit data as light signals over long distances. Light bounces along the inside of the cable, carrying internet data at the speed of light."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What causes light to refract?",
+              "options": ["It bounces off a surface", "It is absorbed", "It changes speed as it enters a new medium", "It stops moving"],
+              "correct": 2,
+              "hint": "When light goes from one material to another, its speed changes."
+            },
+            {
+              "type": "fill_in",
+              "question": "The law of reflection states that the angle of incidence equals the angle of ___.",
+              "answer": "reflection",
+              "hint": "The incoming and outgoing angles are equal."
+            },
+            {
+              "type": "true_false",
+              "question": "A convex lens converges (focuses) light.",
+              "answer": true,
+              "hint": "Convex lenses are thicker in the middle and bring light rays together."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why do dark-colored clothes feel hotter in sunlight?",
+              "options": ["They reflect more light", "They absorb more light energy, converting it to heat", "They refract sunlight", "They are thicker"],
+              "correct": 1,
+              "hint": "Dark colors absorb more wavelengths of light."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A magnifying glass uses what type of lens?",
+              "options": ["Concave", "Convex", "Flat", "Cylindrical"],
+              "correct": 1,
+              "hint": "It's thicker in the middle and converges light to make things appear larger."
+            },
+            {
+              "type": "fill_in",
+              "question": "The bending of light as it passes from one medium to another is called ___.",
+              "answer": "refraction",
+              "hint": "This is why a straw in water appears bent."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "The formula for wave speed is:",
+            "options": ["Speed = Amplitude x Wavelength", "Speed = Wavelength x Frequency", "Speed = Frequency / Wavelength", "Speed = Amplitude x Frequency"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Sound can travel through a vacuum.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which type of electromagnetic wave has the most energy?",
+            "options": ["Radio waves", "Visible light", "Infrared", "Gamma rays"],
+            "correct": 3
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The Doppler effect explains why:",
+            "options": ["Light bends in glass", "Sound seems to change pitch when the source moves", "Waves reflect off surfaces", "Sound travels faster in solids"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Light travels slower in water than in air.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What determines the pitch of a sound?",
+            "options": ["Amplitude", "Speed", "Frequency", "Medium"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "The bending of light as it enters a new medium is called:",
+            "options": ["Reflection", "Refraction", "Absorption", "Diffraction"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "All electromagnetic waves travel at the same speed in a vacuum.",
+            "answer": true
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "wave_wizard"
+      }
+    },
+    {
+      "id": "8-sci-5",
+      "title": "Space Science: The Universe & Exploration",
+      "description": "Journey through the cosmos. Learn about our solar system, stars, galaxies, and humanity's exploration of space.",
+      "lessons": [
+        {
+          "id": "8-sci-5-1",
+          "title": "The Solar System",
+          "type": "lesson",
+          "content": {
+            "explanation": "Our solar system consists of the Sun and everything that orbits it: eight planets, dwarf planets, moons, asteroids, comets, and other objects. The Sun, a medium-sized star, contains 99.8% of the solar system's mass and holds everything in orbit with its gravity. The four inner planets — Mercury, Venus, Earth, and Mars — are called terrestrial (rocky) planets. They are relatively small, dense, and have solid surfaces. Earth is the only planet known to support life. The four outer planets — Jupiter, Saturn, Uranus, and Neptune — are called gas giants (or ice giants for Uranus and Neptune). They are much larger than the terrestrial planets, have thick gaseous atmospheres, and no solid surfaces. Jupiter is the largest planet, with a diameter about 11 times that of Earth. The asteroid belt, a region of rocky bodies, lies between Mars and Jupiter. Beyond Neptune lies the Kuiper Belt, home to dwarf planets like Pluto, and the Oort Cloud, a distant sphere of icy objects that is the source of many comets. Our solar system formed about 4.6 billion years ago from a collapsing cloud of gas and dust called a solar nebula.",
+            "examples": [
+              {
+                "problem": "Why is Pluto no longer classified as a planet?",
+                "answer": "In 2006, the International Astronomical Union redefined 'planet' to include the requirement that it has 'cleared the neighborhood around its orbit.' Pluto hasn't done this.",
+                "explanation": "Pluto shares its orbital region with many other Kuiper Belt objects. The three criteria for a planet are: orbits the Sun, has enough mass for a round shape, and has cleared its orbital neighborhood."
+              },
+              {
+                "problem": "What is the difference between terrestrial and gas giant planets?",
+                "answer": "Terrestrial planets are small, rocky, and dense with solid surfaces. Gas giants are large, with thick gaseous atmospheres and no solid surfaces.",
+                "explanation": "The inner planets formed where it was hot enough that only rocks and metals could solidify. The outer planets formed where it was cold enough for gases and ices to accumulate."
+              }
+            ],
+            "key_vocabulary": ["solar system", "terrestrial planet", "gas giant", "asteroid belt", "Kuiper Belt", "Oort Cloud", "dwarf planet", "solar nebula", "orbit", "comet"],
+            "real_world": "NASA's Voyager 1 spacecraft, launched in 1977, is now the farthest human-made object from Earth — over 15 billion miles away. It has entered interstellar space and carries a Golden Record with sounds and images of Earth."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which are the four terrestrial (rocky) planets?",
+              "options": ["Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Mars", "Earth, Mars, Jupiter, Saturn", "Mercury, Earth, Pluto, Mars"],
+              "correct": 1,
+              "hint": "They are the four planets closest to the Sun."
+            },
+            {
+              "type": "fill_in",
+              "question": "The largest planet in our solar system is ___.",
+              "answer": "Jupiter",
+              "hint": "It's a gas giant with a diameter about 11 times that of Earth."
+            },
+            {
+              "type": "true_false",
+              "question": "The Sun contains about 99.8% of the solar system's mass.",
+              "answer": true,
+              "hint": "The Sun is overwhelmingly the most massive object in our solar system."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "The asteroid belt is located between:",
+              "options": ["Earth and Mars", "Mars and Jupiter", "Jupiter and Saturn", "Neptune and Pluto"],
+              "correct": 1,
+              "hint": "It separates the inner rocky planets from the outer gas giants."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How old is our solar system?",
+              "options": ["4.6 million years", "4.6 billion years", "13.8 billion years", "1 billion years"],
+              "correct": 1,
+              "hint": "It formed from a solar nebula about 4.6 ___ years ago."
+            },
+            {
+              "type": "fill_in",
+              "question": "The region beyond Neptune containing Pluto and other icy objects is called the ___ Belt.",
+              "answer": "Kuiper",
+              "hint": "Pluto is the most famous dwarf planet in this region."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-5-2",
+          "title": "Stars and Their Life Cycles",
+          "type": "lesson",
+          "content": {
+            "explanation": "Stars are massive balls of hot gas (mostly hydrogen and helium) that produce energy through nuclear fusion — the process of fusing lighter elements into heavier ones. In the core of a star, extreme pressure and temperature cause hydrogen atoms to fuse into helium, releasing enormous amounts of energy as light and heat. A star's life cycle depends on its mass. All stars begin as a nebula — a cloud of gas and dust. Gravity causes the nebula to collapse, forming a protostar. When the core becomes hot enough for fusion to begin, a main sequence star is born. Our Sun is a main sequence star. Stars spend most of their lives in this stage. When a medium-sized star (like the Sun) runs out of hydrogen fuel, it expands into a red giant, then sheds its outer layers to form a planetary nebula, leaving behind a white dwarf that slowly cools. Massive stars (much larger than the Sun) expand into red supergiants, then explode in a spectacular supernova. What remains is either a neutron star (an incredibly dense remnant) or, if the star was massive enough, a black hole — a region of space where gravity is so strong that nothing, not even light, can escape.",
+            "examples": [
+              {
+                "problem": "What process powers stars?",
+                "answer": "Nuclear fusion — hydrogen atoms fuse into helium, releasing energy.",
+                "explanation": "The extreme temperature and pressure in a star's core forces hydrogen nuclei together, creating helium and releasing enormous amounts of energy according to E=mc²."
+              },
+              {
+                "problem": "What will happen to our Sun when it dies?",
+                "answer": "It will expand into a red giant, then shed its outer layers and become a white dwarf.",
+                "explanation": "Our Sun is a medium-mass star, so it will follow the path: main sequence → red giant → planetary nebula → white dwarf. It's not massive enough to become a supernova."
+              }
+            ],
+            "key_vocabulary": ["star", "nuclear fusion", "nebula", "protostar", "main sequence", "red giant", "white dwarf", "supernova", "neutron star", "black hole", "red supergiant"],
+            "real_world": "The iron in your blood, the calcium in your bones, and the oxygen you breathe were all forged inside ancient stars that exploded as supernovae billions of years ago. We are literally made of stardust."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What powers a star?",
+              "options": ["Chemical reactions", "Nuclear fission", "Nuclear fusion", "Combustion"],
+              "correct": 2,
+              "hint": "Stars fuse hydrogen into helium in their cores."
+            },
+            {
+              "type": "fill_in",
+              "question": "Stars are born in a cloud of gas and dust called a ___.",
+              "answer": "nebula",
+              "hint": "These beautiful clouds are the 'nurseries' where stars form."
+            },
+            {
+              "type": "true_false",
+              "question": "Our Sun will eventually explode as a supernova.",
+              "answer": false,
+              "hint": "Only massive stars become supernovae. Our Sun is medium-sized."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What forms when the most massive stars die?",
+              "options": ["White dwarf", "Planetary nebula", "Black hole", "Main sequence star"],
+              "correct": 2,
+              "hint": "The gravity is so strong that not even light can escape."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Stars spend most of their lives in which stage?",
+              "options": ["Protostar", "Main sequence", "Red giant", "White dwarf"],
+              "correct": 1,
+              "hint": "Our Sun has been in this stage for about 4.6 billion years and will continue for another 5 billion."
+            },
+            {
+              "type": "fill_in",
+              "question": "In nuclear fusion, ___ atoms fuse to form helium in the star's core.",
+              "answer": "hydrogen",
+              "hint": "It's the lightest and most abundant element in the universe."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-5-3",
+          "title": "Galaxies and the Universe",
+          "type": "lesson",
+          "content": {
+            "explanation": "A galaxy is a massive collection of stars, gas, dust, and dark matter held together by gravity. Our galaxy, the Milky Way, is a barred spiral galaxy containing an estimated 100-400 billion stars. Our solar system is located about two-thirds of the way out from the center, in one of the spiral arms. Galaxies come in three main shapes: spiral galaxies (like the Milky Way, with arms spiraling out from a central bulge), elliptical galaxies (smooth, oval-shaped, containing older stars), and irregular galaxies (no defined shape). The Andromeda Galaxy is the nearest large galaxy to the Milky Way, about 2.5 million light-years away. A light-year is the distance light travels in one year — about 9.46 trillion kilometers (5.88 trillion miles). The universe contains an estimated 2 trillion galaxies. The universe began about 13.8 billion years ago in an event called the Big Bang — a rapid expansion from an extremely hot, dense state. Evidence for the Big Bang includes the cosmic microwave background radiation (the afterglow of the Big Bang) and the fact that galaxies are moving apart from each other (the universe is expanding). Edwin Hubble discovered this expansion in 1929.",
+            "examples": [
+              {
+                "problem": "What is a light-year?",
+                "answer": "The distance light travels in one year — about 9.46 trillion kilometers.",
+                "explanation": "Despite having 'year' in the name, a light-year is a measure of distance, not time. Light travels at about 300,000 km/s, and over a year, it covers an enormous distance."
+              },
+              {
+                "problem": "What evidence supports the Big Bang theory?",
+                "answer": "The expansion of the universe (galaxies moving apart) and the cosmic microwave background radiation.",
+                "explanation": "If the universe is expanding, it was once much smaller. The cosmic microwave background is the residual heat from the early universe, detected uniformly in all directions."
+              }
+            ],
+            "key_vocabulary": ["galaxy", "Milky Way", "spiral galaxy", "elliptical galaxy", "irregular galaxy", "light-year", "Big Bang", "cosmic microwave background", "Edwin Hubble", "universe", "expanding"],
+            "real_world": "The James Webb Space Telescope, launched in 2021, can look back in time by observing light from galaxies that formed just a few hundred million years after the Big Bang — light that has been traveling for over 13 billion years!"
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What type of galaxy is the Milky Way?",
+              "options": ["Elliptical", "Irregular", "Barred spiral", "Ring"],
+              "correct": 2,
+              "hint": "It has arms that spiral out from a central bar-shaped structure."
+            },
+            {
+              "type": "fill_in",
+              "question": "A light-year is a measure of ___, not time.",
+              "answer": "distance",
+              "hint": "It's how far light travels in one year."
+            },
+            {
+              "type": "true_false",
+              "question": "The universe is approximately 13.8 billion years old.",
+              "answer": true,
+              "hint": "This age is based on multiple lines of evidence, including cosmic microwave background radiation."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What event do scientists believe started the universe?",
+              "options": ["The Great Collapse", "The Big Bang", "The Solar Flare", "The Great Explosion"],
+              "correct": 1,
+              "hint": "It was a rapid expansion from an extremely hot, dense state about 13.8 billion years ago."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "How many galaxies are estimated to exist in the observable universe?",
+              "options": ["About 1 million", "About 1 billion", "About 2 trillion", "About 100"],
+              "correct": 2,
+              "hint": "Recent estimates put the number much higher than previously thought."
+            },
+            {
+              "type": "fill_in",
+              "question": "The nearest large galaxy to the Milky Way is the ___ Galaxy.",
+              "answer": "Andromeda",
+              "hint": "It's about 2.5 million light-years away and is also a spiral galaxy."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-5-4",
+          "title": "Space Exploration",
+          "type": "lesson",
+          "content": {
+            "explanation": "Humanity's exploration of space has been one of our greatest achievements. The Space Age began in 1957 when the Soviet Union launched Sputnik, the first artificial satellite. In 1961, Yuri Gagarin became the first human in space. The United States' Apollo program achieved the most famous milestone: on July 20, 1969, Neil Armstrong and Buzz Aldrin became the first humans to walk on the Moon during Apollo 11. Robotic exploration has expanded our knowledge enormously. Mars rovers like Spirit, Opportunity, Curiosity, and Perseverance have studied the Martian surface for signs of past water and life. The Voyager probes have explored the outer planets and entered interstellar space. The Hubble Space Telescope (launched 1990) and James Webb Space Telescope (launched 2021) have revolutionized our understanding of the universe. The International Space Station (ISS), continuously occupied since 2000, serves as a laboratory for research in microgravity. Current goals include returning humans to the Moon through NASA's Artemis program, sending humans to Mars, and searching for signs of life beyond Earth. Private companies like SpaceX are also advancing space technology with reusable rockets.",
+            "examples": [
+              {
+                "problem": "Who was the first human to walk on the Moon?",
+                "answer": "Neil Armstrong, on July 20, 1969, during the Apollo 11 mission.",
+                "explanation": "Armstrong's famous words were: 'That's one small step for man, one giant leap for mankind.' Buzz Aldrin joined him on the surface while Michael Collins orbited above."
+              },
+              {
+                "problem": "What is the purpose of the International Space Station?",
+                "answer": "It serves as a laboratory for scientific research in microgravity, continuously occupied by astronauts.",
+                "explanation": "Scientists on the ISS conduct experiments in biology, physics, and other fields that can only be done in microgravity. It also teaches us about the effects of space on the human body."
+              }
+            ],
+            "key_vocabulary": ["Sputnik", "Apollo 11", "Neil Armstrong", "International Space Station", "Mars rover", "Hubble Space Telescope", "James Webb Space Telescope", "Voyager", "Artemis program", "SpaceX"],
+            "real_world": "Technology developed for space exploration has led to countless everyday inventions: memory foam, scratch-resistant lenses, water purification systems, satellite TV, GPS navigation, and even the camera in your smartphone."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What was the first artificial satellite launched into space?",
+              "options": ["Apollo 11", "Hubble", "Sputnik", "ISS"],
+              "correct": 2,
+              "hint": "It was launched by the Soviet Union in 1957."
+            },
+            {
+              "type": "fill_in",
+              "question": "The first human to walk on the Moon was ___, during the Apollo 11 mission.",
+              "answer": "Neil Armstrong",
+              "hint": "He famously said 'one small step for man, one giant leap for mankind.'"
+            },
+            {
+              "type": "true_false",
+              "question": "The International Space Station has been continuously occupied since 2000.",
+              "answer": true,
+              "hint": "Astronauts from many countries have lived and worked on the ISS for over two decades."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which Mars rover was designed to search for signs of ancient microbial life?",
+              "options": ["Spirit", "Opportunity", "Curiosity", "Perseverance"],
+              "correct": 3,
+              "hint": "Launched in 2020, it even carried a small helicopter named Ingenuity."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "NASA's program to return humans to the Moon is called:",
+              "options": ["Apollo", "Gemini", "Artemis", "Mercury"],
+              "correct": 2,
+              "hint": "In Greek mythology, Artemis is Apollo's twin sister."
+            },
+            {
+              "type": "true_false",
+              "question": "The Voyager probes have entered interstellar space.",
+              "answer": true,
+              "hint": "Voyager 1 became the first human-made object to enter interstellar space in 2012."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "Which are the four inner (terrestrial) planets?",
+            "options": ["Mercury, Venus, Earth, Mars", "Jupiter, Saturn, Uranus, Neptune", "Earth, Mars, Jupiter, Saturn", "Mercury, Earth, Saturn, Pluto"],
+            "correct": 0
+          },
+          {
+            "type": "true_false",
+            "question": "A light-year is a measure of time.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What powers stars?",
+            "options": ["Chemical combustion", "Nuclear fission", "Nuclear fusion", "Electrical energy"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What type of galaxy is the Milky Way?",
+            "options": ["Elliptical", "Irregular", "Barred spiral", "Ring"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "The universe is expanding.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What was the first artificial satellite?",
+            "options": ["ISS", "Hubble", "Sputnik", "Apollo"],
+            "correct": 2
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What forms when the most massive stars die?",
+            "options": ["White dwarf", "Neutron star or black hole", "New main sequence star", "Planet"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Our Sun will become a black hole when it dies.",
+            "answer": false
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "space_explorer"
+      }
+    },
+    {
+      "id": "8-sci-6",
+      "title": "Scientific Method & Experimental Design",
+      "description": "Master the process scientists use to investigate the world. Learn to design controlled experiments, analyze data, and think critically about scientific claims.",
+      "lessons": [
+        {
+          "id": "8-sci-6-1",
+          "title": "The Scientific Method",
+          "type": "lesson",
+          "content": {
+            "explanation": "The scientific method is a systematic approach to investigating questions about the natural world. While it's often presented as a step-by-step process, real science is more flexible and iterative. The general steps are: (1) Observation — notice something interesting or puzzling. (2) Question — ask a specific, testable question about the observation. (3) Research — gather background information about the topic. (4) Hypothesis — make a testable prediction that answers your question. A good hypothesis is specific and can be proven wrong (falsifiable). It's often written in 'If... then...' format: 'If plants are given more light, then they will grow taller.' (5) Experiment — design and conduct a controlled experiment to test the hypothesis. (6) Collect and Analyze Data — record observations and measurements, then look for patterns. (7) Conclusion — determine whether the data support or refute the hypothesis. (8) Communicate — share your findings with others so they can evaluate and replicate your work. If the data don't support the hypothesis, that's not failure — it's information! Scientists revise their hypothesis and test again. Science progresses through repeated cycles of testing and revision.",
+            "examples": [
+              {
+                "problem": "Why must a hypothesis be falsifiable?",
+                "answer": "Because if a hypothesis can't potentially be proven wrong, there's no way to test it scientifically.",
+                "explanation": "A statement like 'invisible unicorns exist but can never be detected' is not falsifiable and therefore not a scientific hypothesis. Science requires testable claims."
+              },
+              {
+                "problem": "Write a hypothesis for: 'Does fertilizer affect plant growth?'",
+                "answer": "If plants are given fertilizer, then they will grow taller than plants without fertilizer.",
+                "explanation": "This is testable (compare plants with and without fertilizer), specific (measures height), and falsifiable (the result could show no difference)."
+              }
+            ],
+            "key_vocabulary": ["scientific method", "observation", "hypothesis", "experiment", "data", "conclusion", "falsifiable", "testable", "replicate", "revise"],
+            "real_world": "The development of COVID-19 vaccines followed the scientific method: scientists observed the virus, hypothesized how to create immunity, experimented with different vaccine designs, collected data through clinical trials, and shared findings for peer review."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which step comes immediately after forming a hypothesis?",
+              "options": ["Observation", "Conclusion", "Experiment", "Question"],
+              "correct": 2,
+              "hint": "After you make a prediction, you test it."
+            },
+            {
+              "type": "fill_in",
+              "question": "A good hypothesis must be ___ — meaning it can potentially be proven wrong.",
+              "answer": "falsifiable",
+              "hint": "If there's no way to test or disprove it, it's not a scientific hypothesis."
+            },
+            {
+              "type": "true_false",
+              "question": "If an experiment doesn't support the hypothesis, the experiment was a failure.",
+              "answer": false,
+              "hint": "Disproving a hypothesis still provides valuable information. Scientists revise and test again."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Which is a proper hypothesis?",
+              "options": ["Plants are interesting", "If plants get more sunlight, then they will grow taller", "I like plants", "Plants are green because they want to be"],
+              "correct": 1,
+              "hint": "A hypothesis is a testable If...then... statement."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is communicating results important in science?",
+              "options": ["To show off", "So other scientists can evaluate and replicate the work", "It's not important", "Only to get published"],
+              "correct": 1,
+              "hint": "Science relies on others checking and confirming results."
+            },
+            {
+              "type": "true_false",
+              "question": "The scientific method must always be followed in strict order.",
+              "answer": false,
+              "hint": "Real science is flexible and iterative — scientists often revisit earlier steps."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-6-2",
+          "title": "Designing Controlled Experiments",
+          "type": "lesson",
+          "content": {
+            "explanation": "A controlled experiment is designed to test one specific variable while keeping everything else the same. The variable you deliberately change is the independent variable (the cause). The variable you measure to see the effect is the dependent variable (the effect). All other conditions that are kept the same are called controlled variables (or constants). A control group is a group that doesn't receive the experimental treatment — it serves as a baseline for comparison. For example, if testing whether fertilizer affects plant growth: the independent variable is the amount of fertilizer (what you change), the dependent variable is plant height (what you measure), controlled variables include the amount of water, sunlight, soil type, and pot size (kept the same), and the control group is plants that receive no fertilizer. Sample size matters — testing more subjects gives more reliable results. If you only test one plant with fertilizer and one without, the results could be due to chance. Testing 20 plants in each group gives much more reliable data. Repetition (doing the experiment multiple times) and replication (others repeating your experiment) increase confidence in the results.",
+            "examples": [
+              {
+                "problem": "In an experiment testing whether music affects study performance, identify the variables.",
+                "answer": "Independent variable: type of music (or silence). Dependent variable: test scores. Controlled variables: study time, difficulty of test, room temperature, etc.",
+                "explanation": "The independent variable is what you change on purpose. The dependent variable is what you measure. Everything else must stay the same."
+              },
+              {
+                "problem": "Why do you need a control group?",
+                "answer": "To provide a baseline for comparison — so you can see what happens without the experimental treatment.",
+                "explanation": "Without a control group, you can't tell whether changes in the dependent variable are due to the independent variable or something else."
+              }
+            ],
+            "key_vocabulary": ["controlled experiment", "independent variable", "dependent variable", "controlled variable", "control group", "experimental group", "sample size", "repetition", "replication", "baseline"],
+            "real_world": "Medical researchers use controlled experiments called clinical trials to test new drugs. The control group receives a placebo (fake treatment), and neither doctors nor patients know who gets the real drug — this is called a double-blind study."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "The variable you deliberately change in an experiment is the:",
+              "options": ["Dependent variable", "Controlled variable", "Independent variable", "Constant"],
+              "correct": 2,
+              "hint": "You independently choose what to change."
+            },
+            {
+              "type": "fill_in",
+              "question": "The variable you measure in an experiment is called the ___ variable.",
+              "answer": "dependent",
+              "hint": "Its value depends on what you changed (the independent variable)."
+            },
+            {
+              "type": "true_false",
+              "question": "A control group receives the experimental treatment.",
+              "answer": false,
+              "hint": "The control group does NOT get the treatment — it serves as a baseline."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is a larger sample size better?",
+              "options": ["It costs more money", "It gives more reliable results and reduces the effect of chance", "It makes the experiment longer", "It's not better"],
+              "correct": 1,
+              "hint": "More data points mean more confidence that results aren't due to luck."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "In an experiment testing whether temperature affects enzyme activity, what is the independent variable?",
+              "options": ["Enzyme activity", "Temperature", "Type of enzyme", "Time"],
+              "correct": 1,
+              "hint": "It's what the scientist deliberately changes."
+            },
+            {
+              "type": "fill_in",
+              "question": "Variables that are kept the same throughout an experiment are called ___ variables.",
+              "answer": "controlled",
+              "hint": "These must remain constant so they don't affect the results."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-6-3",
+          "title": "Collecting and Analyzing Data",
+          "type": "lesson",
+          "content": {
+            "explanation": "Data is the information collected during an experiment. There are two types: quantitative data (numerical measurements, like height in cm, temperature in degrees, or time in seconds) and qualitative data (descriptive observations, like color, texture, or smell). Good scientists record data carefully in organized data tables during the experiment, not from memory afterward. After collecting data, scientists analyze it to find patterns and draw conclusions. Common ways to represent data include: data tables (organize raw numbers), bar graphs (compare categories), line graphs (show changes over time or continuous relationships), pie charts (show parts of a whole), and scatter plots (show relationships between two variables). When analyzing data, scientists calculate measures of central tendency: the mean (average), median (middle value), and mode (most frequent value). They also consider the range (difference between highest and lowest values). Scientists look for trends, patterns, and anomalies (data points that don't fit the pattern). Statistical analysis helps determine whether results are significant or could be due to chance.",
+            "examples": [
+              {
+                "problem": "What is the difference between quantitative and qualitative data?",
+                "answer": "Quantitative data is numerical (measurable), and qualitative data is descriptive (observable).",
+                "explanation": "Quantitative: 'The plant grew 12 cm.' Qualitative: 'The leaves turned yellow.' Both types are valuable in science."
+              },
+              {
+                "problem": "Find the mean, median, and mode of: 3, 5, 5, 7, 10",
+                "answer": "Mean = 6, Median = 5, Mode = 5",
+                "explanation": "Mean = (3+5+5+7+10)/5 = 30/5 = 6. Median = middle value = 5. Mode = most frequent = 5."
+              }
+            ],
+            "key_vocabulary": ["quantitative data", "qualitative data", "data table", "bar graph", "line graph", "scatter plot", "mean", "median", "mode", "range", "anomaly", "trend"],
+            "real_world": "Climate scientists analyze temperature data from thousands of weather stations over decades to identify trends in global warming. The data clearly shows that average global temperatures have risen significantly."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "Which is an example of quantitative data?",
+              "options": ["The flower is red", "The liquid smells sweet", "The plant grew 15 cm", "The texture is rough"],
+              "correct": 2,
+              "hint": "Quantitative data involves numbers and measurements."
+            },
+            {
+              "type": "fill_in",
+              "question": "The average of a data set is called the ___.",
+              "answer": "mean",
+              "hint": "Add all the values together and divide by the number of values."
+            },
+            {
+              "type": "true_false",
+              "question": "A bar graph is best for showing changes over time.",
+              "answer": false,
+              "hint": "Line graphs show changes over time. Bar graphs compare categories."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "What is the median of: 2, 4, 6, 8, 10?",
+              "options": ["4", "6", "8", "30"],
+              "correct": 1,
+              "hint": "The median is the middle value when data is arranged in order."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "An anomaly in data is:",
+              "options": ["The average value", "A data point that doesn't fit the pattern", "The most common value", "A type of graph"],
+              "correct": 1,
+              "hint": "It's an outlier — a value that seems unusual compared to the rest."
+            },
+            {
+              "type": "fill_in",
+              "question": "Data that describes qualities (like color or texture) is called ___ data.",
+              "answer": "qualitative",
+              "hint": "Think 'quality' — it describes characteristics, not numbers."
+            }
+          ],
+          "xp_reward": 20
+        },
+        {
+          "id": "8-sci-6-4",
+          "title": "Critical Thinking in Science",
+          "type": "lesson",
+          "content": {
+            "explanation": "Being a good scientist means thinking critically about evidence, claims, and conclusions. Correlation does not imply causation — just because two things happen together doesn't mean one causes the other. For example, ice cream sales and drowning rates both increase in summer, but ice cream doesn't cause drowning (both are caused by hot weather). Bias can affect scientific results. Confirmation bias is the tendency to notice evidence that supports what you already believe and ignore evidence that contradicts it. This is why experiments should be designed with controls and, when possible, blinding (where researchers don't know which group is experimental or control). When evaluating scientific claims, consider: Is the claim based on evidence from controlled experiments? Has the research been peer-reviewed (evaluated by other scientists)? Can the results be replicated by independent researchers? Is the sample size large enough? Are there conflicts of interest (like a company funding research on its own product)? Science is self-correcting — when mistakes are made, other scientists eventually discover them through replication and peer review. The strength of science comes from this community process of checking each other's work.",
+            "examples": [
+              {
+                "problem": "A study finds that students who eat breakfast get better grades. Does this prove breakfast causes better grades?",
+                "answer": "No — correlation does not prove causation. Other factors could explain the relationship.",
+                "explanation": "Students who eat breakfast might also come from families with more resources, get more sleep, or have more structured routines. These confounding variables could be the real cause."
+              },
+              {
+                "problem": "What is peer review?",
+                "answer": "The process where other scientists evaluate research before it is published.",
+                "explanation": "Peer reviewers check the methods, data analysis, and conclusions of a study. This helps catch errors and prevents unreliable research from being published."
+              }
+            ],
+            "key_vocabulary": ["correlation", "causation", "bias", "confirmation bias", "peer review", "blinding", "replication", "confounding variable", "sample size", "critical thinking"],
+            "real_world": "When you see a headline like 'Chocolate prevents heart disease!' you should ask: Was it a controlled experiment or just a correlation? Who funded the study? How large was the sample? Was it peer-reviewed? Critical thinking protects you from misinformation."
+          },
+          "practice_problems": [
+            {
+              "type": "multiple_choice",
+              "question": "What does 'correlation does not imply causation' mean?",
+              "options": ["Experiments are never valid", "Just because two things happen together doesn't mean one causes the other", "All correlations are false", "Causation is impossible to prove"],
+              "correct": 1,
+              "hint": "There could be other explanations for why two things are related."
+            },
+            {
+              "type": "fill_in",
+              "question": "The tendency to favor evidence that supports your existing beliefs is called ___ bias.",
+              "answer": "confirmation",
+              "hint": "You 'confirm' what you already think and ignore what contradicts it."
+            },
+            {
+              "type": "true_false",
+              "question": "Peer review means scientists check each other's work before publication.",
+              "answer": true,
+              "hint": "This process helps ensure the quality and reliability of published research."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "Why is replication important in science?",
+              "options": ["It's not important", "It makes experiments faster", "It confirms that results are reliable and not due to chance or error", "It reduces sample size"],
+              "correct": 2,
+              "hint": "If other scientists can get the same results, the findings are more trustworthy."
+            },
+            {
+              "type": "multiple_choice",
+              "question": "A company funds a study that shows its product is safe. This raises concerns about:",
+              "options": ["Sample size", "Conflict of interest", "Correlation vs. causation", "Variable control"],
+              "correct": 1,
+              "hint": "The company has a financial motivation for the study to show positive results."
+            },
+            {
+              "type": "true_false",
+              "question": "Science is self-correcting because other scientists check and replicate findings.",
+              "answer": true,
+              "hint": "The community process of peer review and replication catches mistakes over time."
+            }
+          ],
+          "xp_reward": 20
+        }
+      ],
+      "unit_quiz": {
+        "questions": [
+          {
+            "type": "multiple_choice",
+            "question": "What is the first step of the scientific method?",
+            "options": ["Hypothesis", "Experiment", "Observation", "Conclusion"],
+            "correct": 2
+          },
+          {
+            "type": "true_false",
+            "question": "The independent variable is the one you measure.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Which is an example of quantitative data?",
+            "options": ["The sky is blue", "The temperature is 25°C", "The flower smells nice", "The surface is rough"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "Why is a control group necessary?",
+            "options": ["To make the experiment more expensive", "To provide a baseline for comparison", "To increase the number of variables", "It's not necessary"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Correlation always means causation.",
+            "answer": false
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What is the mean of 4, 6, 8, 10, 12?",
+            "options": ["6", "8", "10", "40"],
+            "correct": 1
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What makes a hypothesis scientific?",
+            "options": ["It must be proven true", "It must be falsifiable and testable", "It must be complicated", "It must use big words"],
+            "correct": 1
+          },
+          {
+            "type": "true_false",
+            "question": "Peer review is the process of scientists evaluating each other's work.",
+            "answer": true
+          },
+          {
+            "type": "multiple_choice",
+            "question": "What type of graph is best for showing the relationship between two variables?",
+            "options": ["Pie chart", "Bar graph", "Scatter plot", "Data table"],
+            "correct": 2
+          }
+        ],
+        "passing_score": 70,
+        "xp_reward": 50,
+        "badge": "scientific_thinker"
+      }
+    }
+  ]
+}
