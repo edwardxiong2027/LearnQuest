@@ -52,5 +52,5 @@ Desktop.ini
 # Node (if any)
 node_modules/
 
-# Firebase (website deployment cache)
-website/.firebase/
+# Website (separate project, not part of this repo)
+website/
