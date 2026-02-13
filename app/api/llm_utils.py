@@ -10,9 +10,9 @@ from flask import current_app
 def get_model():
     """Get the configured LLM model name."""
     try:
-        return current_app.config.get('LLM_MODEL', 'phi3')
+        return current_app.config.get('LLM_MODEL', 'llama3.2:3b')
     except RuntimeError:
-        return os.environ.get('LEARNQUEST_MODEL', 'phi3')
+        return os.environ.get('LEARNQUEST_MODEL', 'llama3.2:3b')
 
 
 def load_prompt(prompt_file, **kwargs):

@@ -77,7 +77,7 @@ def dim(text):     return c(text, '2')
 # CONFIG MANAGEMENT
 # ============================================================
 DEFAULT_CONFIG = {
-    'model': 'phi3',
+    'model': 'llama3.2:3b',
     'port': 5001,
     'setup_completed': False,
 }
@@ -108,28 +108,12 @@ PORT = int(os.environ.get('LEARNQUEST_PORT', config.get('port', 5001)))
 # ============================================================
 MODEL_OPTIONS = [
     {
-        'id': 'phi3',
-        'name': 'Phi-3 Mini',
-        'params': '3.8B',
-        'disk': '~2.3 GB',
-        'ram': '8 GB+',
-        'best_for': 'K-12 (Recommended)',
-    },
-    {
-        'id': 'llama3.2:1b',
-        'name': 'Llama 3.2 1B',
-        'params': '1B',
-        'disk': '~1.3 GB',
-        'ram': '4 GB+',
-        'best_for': 'K-5 (Basic/Low-spec)',
-    },
-    {
         'id': 'llama3.2:3b',
         'name': 'Llama 3.2 3B',
         'params': '3B',
         'disk': '~2.0 GB',
         'ram': '8 GB+',
-        'best_for': 'K-8 (Good)',
+        'best_for': 'K-8 (Recommended, included on USB)',
     },
     {
         'id': 'phi3:medium',
@@ -137,7 +121,23 @@ MODEL_OPTIONS = [
         'params': '14B',
         'disk': '~7.9 GB',
         'ram': '16 GB+',
-        'best_for': 'K-12 (Best Quality)',
+        'best_for': 'K-12 (Best Quality, included on USB)',
+    },
+    {
+        'id': 'phi3',
+        'name': 'Phi-3 Mini',
+        'params': '3.8B',
+        'disk': '~2.3 GB',
+        'ram': '8 GB+',
+        'best_for': 'K-12 (requires download)',
+    },
+    {
+        'id': 'llama3.2:1b',
+        'name': 'Llama 3.2 1B',
+        'params': '1B',
+        'disk': '~1.3 GB',
+        'ram': '4 GB+',
+        'best_for': 'K-5 (Basic/Low-spec, requires download)',
     },
 ]
 

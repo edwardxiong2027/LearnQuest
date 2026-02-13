@@ -21,7 +21,7 @@ app.secret_key = os.urandom(24)
 app.config['DB_PATH'] = DB_PATH
 app.config['CONTENT_DIR'] = CONTENT_DIR
 app.config['PROMPTS_DIR'] = PROMPTS_DIR
-app.config['LLM_MODEL'] = os.environ.get('LEARNQUEST_MODEL', 'phi3')
+app.config['LLM_MODEL'] = os.environ.get('LEARNQUEST_MODEL', 'llama3.2:3b')
 
 
 def get_db():
